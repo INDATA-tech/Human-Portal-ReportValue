@@ -70,9 +70,9 @@ export default async ({ req, res, log, error }) => {
   //
   const client = new Client()
     .setEndpoint("https://appwrite.anahtarsensin.com/v1")
-    .setProject("665474aa001cd7ecbebd") //process.env.APPWRITE_FUNCTION_PROJECT_ID)
+    .setProject("664d9d3100058da52135") //process.env.APPWRITE_FUNCTION_PROJECT_ID)
     .setKey(
-      "c4aa87b551e3aa52c257f74c13a80f6d2bdc6d9e3ef0c7696d05fd4241956e94915f2746aaabe9311f04ef10c0571b0503c3e6ad60f0323a440a660d1beb5d5716157030bd25a7478fcbec0835083eb2b09c313df0c9ce56c334c01e7dbea72522d6783d93bb935a6be15ca4efb8e76f4e9aa965dd6589c92ce74d455bff382e",
+      "a3c118df4b071221a3555380fb0f32fc6e96734088f1d2fe05f9356c2299b90379d97a0e86f46677bfbbc587130cb32ae73f4e4e76880270e29d4dafd6fd734a21e8b66ed5c8436ea1784cb497d4dd33ca25978d34acd1259d3b81e1422f3e25b6c8c4a9b95bf30460bc095712e78ab452373464335be65c27a5068f02fbf805",
     ); //process.env.APPWRITE_API_KEY)
   var database = new Databases(client);
   //log(req.body);
