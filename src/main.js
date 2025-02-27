@@ -2684,8 +2684,8 @@ var ai_25_s4u1_5_2 = "•	Hızla değişen teknoloji dünyasında nasıl adapte 
 var ai_25_s4u1_5_3 = "•	Yaşam boyu öğrenme anlayışınla hangi yeni teknolojileri öğrenmeyi planlıyorsun? Bu öğrenme sürecini kariyerin boyunca nasıl sürdürebilirsin?";
 
 var ai_25_s4u1_6_1 = "İletişim ve İşbirliği";
-var ai_25_s4u1_6_2 = "• Karmaşık teknik bilgileri sade bir şekilde açıklayabilme yeteneğinle hangi projelerde liderlik yapabilir ya da takım arkadaşlarına rehberlik edebilirsin? Bu beceriyi hangi iş alanlarında kullanabileceğini düşünüyorsun?";
-var ai_25_s4u1_6_3 = "• Takım çalışması becerinle hangi disiplinler arası projelerde başarılı olabilirsin? AI projelerinde işbirliği yaparak hangi hedeflere ulaşmayı planlıyorsun?";
+var ai_25_s4u1_6_2 = "• Takım çalışması becerinle hangi disiplinler arası projelerde başarılı olabilirsin? AI projelerinde işbirliği yaparak hangi hedeflere ulaşmayı planlıyorsun?";
+var ai_25_s4u1_6_3 = "• Karmaşık teknik bilgileri sade bir şekilde açıklayabilme yeteneğinle hangi projelerde liderlik yapabilir ya da takım arkadaşlarına rehberlik edebilirsin? Bu beceriyi hangi iş alanlarında kullanabileceğini düşünüyorsun?";
 
 var ai_25_s4u1_7_1 = "Etik ve Sosyal Sorumluluk";
 var ai_25_s4u1_7_2 = "•	Yapay zekanın etik kullanımı hakkında sahip olduğun bilinçle hangi alanlarda fark yaratabilirsin? AI'nın sosyal etkilerini göz önünde bulundurarak, hangi projelerde yer almayı planlıyorsun?";
