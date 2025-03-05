@@ -477,7 +477,7 @@ export default async ({ req, res, log, error }) => {
       value: `İşleri daha verimli hale getirmek için özümsenebilecek ve benzersiz bir içgörü olarak ifade edilebilecek spontane bir atılım potansiyeline sahipsin. Zihnin sadece bildiklerini kucaklamak için değil, bilinmeyenleri keşfetmek için burada. İçgörülerin zaman zaman ışık yılı ilerideymiş gibi gelebilir. Davet almadan değerli fikirlerini etrafındakiler ile paylaşma. Tanındığında ve benzersiz içgörünü paylaşmaya davet edildiğinde, dehan doğal olarak ortaya çıkar.`,
     },
     {
-      name: "51-25",
+      name: "25-51",
       title: "Rekabetçilik",
       value: `İlk olmaya ve yeni bir şeyler başlatmayı seversin. Rekabetçi olmak doğanda var ve başkalarında rekabet gücü uyandırabilir ve güçlendirebilirsin. Her rekabetçi atılım, başkalarını güçlendirmek için kendi ruhunun derinliğine dair neşe ve yeni bir farkındalık getirir.`,
     },
@@ -6088,10 +6088,10 @@ var decision_strategy_eng_s4_1_txt = "By adhering to this decision-making strate
       } else if (type == "20-34_2") {
         return guclu_yanlarin_20_34_2;
       }
-    } else if (guclu_yanlarinData.name == "51-25") {
-      if (type == "51-25_1") {
+    } else if (guclu_yanlarinData.name == "25-51") {
+      if (type == "25-51_1") {
         return guclu_yanlarin_51_25_1;
-      } else if (type == "51-25_2") {
+      } else if (type == "25-51_2") {
         return guclu_yanlarin_51_25_2;
       }
     } else if (guclu_yanlarinData.name == "8-1") {
