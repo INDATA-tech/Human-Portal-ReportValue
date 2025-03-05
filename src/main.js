@@ -568,12 +568,12 @@ export default async ({ req, res, log, error }) => {
       value: `Yeni bir bakış açısı kazanmak için geçmişi gözden geçirmek ve anlamlandırmak için zihinsel kapasiteni sürekli kullanırsın. Olasılıklarla oynamayı asla bırakmayan çok aktif bir zihnin var.  Keşif sürecinde sabırlı ol, geçmişi değerlendirerek zamanla diğerleri ile paylaşmak için yeni bir bakış açısıyla yeni bir anlayış yaratma kapasitesine sahipsin. Hissettiğin geçmişi anlamlandırma baskısı, stratejik düşünmene yardımcı olabilir. Bulunduğun iş yeri ya da ekipte, karar verme ve gelecekteki eylemleri tasarlamak için geçmiş verilerden ve deneyimlerden yararlanarak stratejik planlamaya katkıda bulunabilirsin.`,
     },
     {
-      name: "5-15",
+      name: "15-5",
       title: "Paternler ve Ritim",
       value: `Akışın ve ritminle uyumlu olduğunda, yaptığın her şey zahmetsiz ve doğal hissettirir. Sana hizmet eden sabit kalıplar veya rutinler sana iyi gelir. Ayrıca, çevrendekileri tüm farklılıkları ile kabul etme ve kucaklama yeteneğine de sahipsin, ki bu yeni iş dünyasında çok önemli bir yetenektir. Tamamen kişisel içsel ritmin tarafından belirlenen kendi zamanlama ve akış duygunla ilerlemek sana ve içinde bulunduğun ekibe iyi gelir. Sabit kalıplara veya rutinlere bağlı kalma yeteneği, iş yaşamında tutarlı ve güvenilir bir iş çıktısı ile sonuçlanabilir.`,
     },
     {
-      name: "8-1",
+      name: "1-8",
       title: "İlham",
       value: `Herkesin deneyimlemesi için tanıtılabilecek ve sergilenebilecek bir biçimde farklı bir bakış açısını yaratıcı bir şekilde ifade etme yeteneğine sahipsin. Kendini ifade eden, yaratıcı bir birey olmanın ne anlama geldiğini modellemek ve başkalarının dikkatini çekmek için tasarlandın. Kalabalığın arasından sıyrılmak cesaret ister ve bu sende var. Böylece başkalarına eşit derecede cesur olmaları için ilham verirsin. Bu yeteneğin ile iyi bir lider olabilir, yaratıcı konularda ileri gidebilirsin.`,
     },
@@ -6033,10 +6033,10 @@ var decision_strategy_eng_s4_1_txt = "By adhering to this decision-making strate
       } else if (type == "3-60_2") {
         return guclu_yanlarin_60_3_2;
       }
-    } else if (guclu_yanlarinData.name == "5-15") {
-      if (type == "5-15_1") {
+    } else if (guclu_yanlarinData.name == "15-5") {
+      if (type == "15-5_1") {
         return guclu_yanlarin_5_15_1;
-      } else if (type == "5-15_2") {
+      } else if (type == "15-5_2") {
         return guclu_yanlarin_5_15_2;
       }
     } else if (guclu_yanlarinData.name == "47-64") {
@@ -6094,10 +6094,10 @@ var decision_strategy_eng_s4_1_txt = "By adhering to this decision-making strate
       } else if (type == "25-51_2") {
         return guclu_yanlarin_51_25_2;
       }
-    } else if (guclu_yanlarinData.name == "8-1") {
-      if (type == "8-1_1") {
+    } else if (guclu_yanlarinData.name == "1-8") {
+      if (type == "1-8_1") {
         return guclu_yanlarin_8_1_1;
-      } else if (type == "8-1_2") {
+      } else if (type == "1-8_2") {
         return guclu_yanlarin_8_1_2;
       }
     } else if (guclu_yanlarinData.name == "28-38") {
