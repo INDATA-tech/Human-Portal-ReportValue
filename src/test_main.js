@@ -2162,7 +2162,7 @@ var kslk_ozl_12_25_social_questions_1 = "• Bir arkadaşımın problemini çöz
 var kslk_ozl_12_25_social_questions_2 = "• Grup çalışmasında arkadaşlarımı motive ettiğimde işler nasıl ilerliyor? Bu motivasyon gücümü okul projelerinde daha fazla nasıl kullanabilirim?";
 var kslk_ozl_12_25_social_questions_3 = "• Başkalarının neye ihtiyacı olduğunu anlamak, benim okul hayatımda nasıl avantajlar sağlıyor? Bu empatiyi daha çok nasıl geliştirebilirim?";
 var kslk_ozl_25_plus_social_questions_1 = "• İş arkadaşlarıma yardım ettiğimde ya da onlara rehberlik ettiğimde, hangi becerilerim öne çıkıyor? Bu yardımseverliği iş hayatımda daha fazla nasıl kullanabilirim?";
-var kslk_ozl_25_plus_social_questions_2 = "• Başkalarının ihtiyaçlarını anlamak ve uygun çözümler sunmak, işimde bana nasıl katkılar sağlıyor? Bu empatiyi iş yerinde daha da güçlendirmek için neler yapabtraditional";
+var kslk_ozl_25_plus_social_questions_2 = "• Başkalarının ihtiyaçlarını anlamak ve uygun çözümler sunmak, işimde bana nasıl katkılar sağlıyor? Bu empatiyi iş yerinde daha da güçlendirmek için neler yapabilirim?";
 var kslk_ozl_25_plus_social_questions_3 = "• Ekip çalışmalarında başkalarını motive ettiğimde, işlerin ilerleyişini nasıl etkiliyorum? Bu yeteneğimi daha fazla projeye nasıl yansıtabilirim? ";
 
 var kslk_ozl_entrepreneur_your_profile = "Girişimci";
