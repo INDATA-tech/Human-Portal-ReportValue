@@ -432,7 +432,7 @@ export default async ({ req, res, log, error }) => {
       value: `İş yaşamındaki kimseler ile hızlı ve kolay bir şekilde bağlantı kurabilirsin. Kurduğun sıcak bağlar ile yapılan işlerde yaratıcılığın önünü açarsın. Yaratıcılık ve ilişki gerektiren işlerde başarılı olabilirsin.`,
     },
     {
-      name: "45-21",
+      name: "21-45",
       title: "Yönetim",
       value: `Bir şeyleri yönetmek için buradasın. İradenin gücü ile para ve kaynakların maddi dünyasında ustalaşabilirsin. Başarılı olmak için bağımsız ve kontrolde olmalısın, aynı zamanda başkalarını da başarılı olmak için ne yapmaları gerektiği konusunda eğitebilirsin. Başarın, liderlik etmen için sana güvenen ekibin tam desteğine ve iş birliğine sahip olmakta yatar.`,
     },
@@ -442,7 +442,7 @@ export default async ({ req, res, log, error }) => {
       value: `Odaklanmak için lazer benzeri bir yeteneğin var. Ayrıntılara odaklandığında, seni yerinde tutmaya yardımcı olan sessiz, stresli olmayan bir baskı yaşarsın. Kendini adadığın her şeyin ayrıntılarını sürekli  değerlendirirsin. Parçası olduğun ekibin de bir konuya odaklanmasına yardımcı olabilirsin.`,
     },
     {
-      name: "60-3",
+      name: "3-60",
       title: "Inovasyon",
       value: `Yenilik ve inovasyon gücü, seni ve çevrendekileri değişim ve yeni bir şeyler yaratma potansiyeli ile güçlendirir. Bu değişim seviyesini kucaklamak için körü körüne kendine inanç gereklidir, çünkü aniden gerçekleşebilir ve kuantum sıçraması gibi hissedilir. İçgüdülerine güven. Yaşam için sloganın "değişim, olması gerektiği zaman mutlaka olur".`,
     },
@@ -482,12 +482,12 @@ export default async ({ req, res, log, error }) => {
       value: `İlk olmaya ve yeni bir şeyler başlatmayı seversin. Rekabetçi olmak doğanda var ve başkalarında rekabet gücü uyandırabilir ve güçlendirebilirsin. Her rekabetçi atılım, başkalarını güçlendirmek için kendi ruhunun derinliğine dair neşe ve yeni bir farkındalık getirir.`,
     },
     {
-      name: "10-34",
+      name: "34-10",
       title: "İnancın Gücü",
       value: `Ne kadar olağandışı olursa olsun kendi inançlarını takip etmek ve müdahaleye rağmen bağımsız ve kendin gibi davranmak için buradasın. Kendin olarak yaşayarak, başkalarını da kendi inançlarıyla temasa geçmeleri için güçlendirebilirsin.`,
     },
     {
-      name: "34-57",
+      name: "57-34",
       title: "Güç",
       value: `İstediklerini hayata geçirmek için inanılmaz bir güce sahipsin. Bu kişisel gücü, bağımsız olmak, kendini desteklemek ve eşsiz inançlarına göre hareket etmek içim kullanabilirsin. Açık ve hızlı bir şekilde tepki verebilmek için, sürekli olarak beden bilince bağlı olmalısın. Yaşamsal olarak canlı olmanın ve an be an yaşamanın ne anlama geldiğinin ilham verici bir örneği olabilirsin.`,
     },
@@ -512,18 +512,18 @@ export default async ({ req, res, log, error }) => {
       value: `Açıklığınla, ifadeni ayarlamana ve sosyal ortama veya duruma göre doğru kelimeleri veya duyguyu kullanmana izin veren özelliklere sahipsin. Sosyallik seviyen, ruh haline bağlı olabilir. Keskin bir zamanlama duygusu ve hedef kitlenin ne kadar açık olduğunun farkındalığı ile - insanların dikkatini çekmek için sıcaklığını ve sosyal becerilerini ne zaman kullanacağını bilirsin, böylece sözlerin çevrendekilerin hayatlarında değişim için bir katalizör olabilir.`,
     },
     {
-      name: "33-13",
+      name: "13-33",
       title: "Tanık Olan Lider",
       value: `Dinleme, duyduğun bilgileri ve sırları saklama ve ders alınabilecek anıları toplama yeteneğine sahipsin. Yüzeyin altında olanın kendisini daha derin bir gerçek şeklinde ortaya çıkarmasını sabırla beklerken, tanık olduğun deneyimler üzerine düşünüp bunları yansıtabilirsin. Doğal bir kayıt tutucu olarak, etrafındakilerin hikayelerini toparlayabilirsin.
     `,
     },
     {
-      name: "30-41",
+      name: "41-30",
       title: "Hayal Kurma",
       value: `Odaklanmış enerjini, 'olabileceklere' dair sayısız senaryoyu hayal etmek için kullanma yeteneğine sahipsin. Yeni deneyimler kazanmak için sonsuz bir özlemle, hayallerin ve arzuların, yerine getirilebilecek veya getirilemeyecek beklentiler yaratabilir. Yeni deneyimler isteğin, net kararlar vermek için yeterli zaman ayırmak için sabır ve öz kontrol geliştirerek en iyi şekilde dengelenir. Güçlü hayal gücü ile yenilikçi fikirler üretebilir, kalıpların dışında düşünebilir ve zorluklara yeni çözümler önerebilirsin. Bu yaratıcılık, problem çözmede ve ekip içinde bir inovasyon kültürünü teşvik etmede paha biçilmez olabilir.`,
     },
     {
-      name: "56-11",
+      name: "11-56",
       title: "Merak",
       value: `Sürekli olarak zihinsel uyarılara açık ve çevrendeki dünyayı görmenin yeni yollarını keşfetmeye heveslisin. Belirli bir şey bulmak için yola çıkmazsın, bunun yerine çevrendekiler ile "Ne keşfettiğime bakın" paylaşımını yapmayı tercih edersin. Yaratıcılığın ve sunum tarzın, hayatı deneyimleyen bir insan olmanın ne anlama geldiğine dair felsefi düşüncelerine dayanan fikirleri ve hikayeleri bir araya getirdiğinde büyülü bir hale gelir. Soyut fikirleri almak ve onlardan bir izleyici kitlesine öğretebilecek veya eğlendirebilecek bir hikaye oluşturmak için kıskanılacak bir yeteneğin var. Davet aldığında bu harika hikayeleri çevrendekiler ile paylaş.`,
     },
@@ -533,12 +533,12 @@ export default async ({ req, res, log, error }) => {
       value: `Diğerleri doğal olarak onları desteklemen ve gelişimleri için beslemen için sana bakar. Çevrendekilerin doğal olarak güvendiği birisin. Çok fazla sorumluluk üstlenmeye yatkın olabilirsin. Bir işletmenin veya ekibin değerlerini ve kurallarını oluşturma ve savunmayı istersin. Çevrendekilerin bakımına katılma konusunda destek olabilir, başkalarını da destekleyebilirsin. Sorumluluğu üstlenecek enerjiye sahip olup olmadığını yalnızca içgüdüsel tepkin aracılığıyla anlayabilirsin. Yapman gerektiğini düşündüğün için ek sorunluluklar almamaya dikkat et.`,
     },
     {
-      name: "54-32",
+      name: "32-54",
       title: "Tutku",
       value: `Gerçekten neyin dönüştürülebileceğini ortaya çıkartmaya dair tutarlı bir çaban ve içgüdülerinle beslenen bir motivasyonun var. Hayattaki konumunu daha iyi hale getirmek için çabalarının tanınması ihtiyacıyla ilerlersin ve çevrendekilere hizmet edersin. Sadakat ve özverili çalışmaların, iş yaşamında ilerleme ile ödüllendirilir. Potansiyelini gerçekleştirebileceğin, hedeflerine ulaşabileceğin, finansal olarak başarılı olabileceğin ve çevrendekilerin potansiyellerine ulaşmalarına yardımcı olmak için benzersiz yeteneklerini kullanabileceğin bir kariyerde ilerlemek için içgüdülerine güven.`,
     },
     {
-      name: "49-19",
+      name: "19-49",
       title: "Kaynaklar",
       value: `Yiyecek, barınak, bölge, koruma, idealler ve değerler dahil olmak üzere çevrendekilerin ihtiyaçlarına duyarlı olma yeteneğine sahipsin. Ekibinin, şirketinin veya müşterilerinin istikrarı ve refahı için nelerin sağlanması gerektiğini bilirsin. Çevrendekileri onlara hizmet etmeyen ve çıkarlarına uygun olmayan şeyleri reddetmeye teşvik edebilirsin. Pratikliği ve adaleti her zaman dengeleyebilen biri olarak tanınabilirsin. İşlerin akışında kendi konumuna karşı hassasiyet gösterirsin. İhtiyaç duyulmayı istemek ve istenmeye ihtiyaç duymak mutluluğun için önemlidir. Bulunduğun iş ortamının fiziksel ve duygusal olarak sağlıklı olmasını sağlayabilirsin. Hem pratik hem duygusal ihtiyaçlar da dahil olmak üzere çevrendekilerin ihtiyaçlarına duyarlı olma yeteneği, şefkatli ve empatik bir yaklaşıma katkıda bulunur. Bu, ekip içinde ve müşterilerle olumlu ilişkileri teşvik edebilir.`,
     },
@@ -548,7 +548,7 @@ export default async ({ req, res, log, error }) => {
       value: `Arkadaşlıklar ve topluluklar yaratabilme armağanına sahipsin. Bireylerin, herkesin onurlu bir yere ve saygın bir işleve sahip olduğu bir topluluğun parçası olmaları için köprüler oluşturabilirsin. Topluluğun parçası bireylerin aldıkları karşısında vermeleri gerekliliğini anlayan ve anlatansın. "Sen bunu yapacaksın, biz de senin için şunu yapacağız. Üzerinde el sıkışalım ve anlaşalım" şeklinde anlaşmalar sana göre. İnandığın, parçası olmaktan hoşlandığın ve sana inanan bir topluluğu var etmek ve sürdürmek için çalışmaya hazırsın. Herkesi bir arada tutan kişi sen olabilirsin. İçinde bulunduğun ekibin işbirliğini, iletişimini ve genel etkinliğini artırabilirsin.`,
     },
     {
-      name: "53-42",
+      name: "42-53",
       title: "Döngülerin Gücü",
       value: `Hayatın farklı başlangıçları, ortaları ve sonları olan döngüler halinde çalışır. İşlerin olgunlaşması, büyümesi ve gelişmesi zaman alır. Sonunda aşağı doğru seyreder ve sona ererler - bu da yeni bir döngünün başlamasına vesile olur ve yeni bir şeyi başlatır. Bir deneyime girerek ve tamamlayarak, tamamlanan döngüden öğrendiğin değerli dersleri ve bilgeliği yansıtabilir ve paylaşabilirsin. Tamamlanan döngüler üzerinde düşünme yeteneği, sürekli iyileştirmeye katkı sağlayabileceğini gösterir. Geçmiş deneyimlerden elde ettiğin içgörülerin devam eden gelişime katkıda bulunduğu bir öğrenme ortamını teşvik ederek ekip içinde bir düşünme kültürünü teşvik edebilirsin.`,
     },
@@ -563,7 +563,7 @@ export default async ({ req, res, log, error }) => {
       value: `İşleri ilerleme yönünde ilerletmek için her şeyi denemeye isteklisin. İşinde ve yaşamında yeni ve daha iyi bir şey vaat eden kolektif deneyimlerden bilgelik aramaya ve toplamaya yönlendirilirsin. Yeni bir deneyim beklentilerini karşılayamazsa hayal kırıklığına uğramak yerine, her deneyimi kendi iyiliği için yaşamayı kucaklamak, kabul etmek ve teslim olmak sana iyi gelir. Potansiyel yaşam başarın, birçok şeyi tatmış, dokunmuş ve hissetmiş birisi olarak, çevrendekilerin kullanımına sunabileceğin bilgeliği edinmiş olmaktır. Böylece çevrendekilere ilham olabilirsin. Senin topladığın ve paylaştığın deneyimler sayesinde içinde bulunduğun ekip her şeyi sıfırdan kurgulamadan, bu deneyimlerden öğrenerek kolayca ilerleme kaydedebilir.`,
     },
     {
-      name: "47-64",
+      name: "64-47",
       title: "Süreçsel Deneyimleme",
       value: `Yeni bir bakış açısı kazanmak için geçmişi gözden geçirmek ve anlamlandırmak için zihinsel kapasiteni sürekli kullanırsın. Olasılıklarla oynamayı asla bırakmayan çok aktif bir zihnin var.  Keşif sürecinde sabırlı ol, geçmişi değerlendirerek zamanla diğerleri ile paylaşmak için yeni bir bakış açısıyla yeni bir anlayış yaratma kapasitesine sahipsin. Hissettiğin geçmişi anlamlandırma baskısı, stratejik düşünmene yardımcı olabilir. Bulunduğun iş yeri ya da ekipte, karar verme ve gelecekteki eylemleri tasarlamak için geçmiş verilerden ve deneyimlerden yararlanarak stratejik planlamaya katkıda bulunabilirsin.`,
     },
@@ -588,7 +588,7 @@ export default async ({ req, res, log, error }) => {
       value: `Herhangi bir kalıbı yargılamak, meydan okumak, düzeltmek ve mükemmelleştirmek için doyumsuz bir dürtüye sahipsin. Sadece en iyi cevaplara sahip olduğunu kanıtlamayı amaçlayan mantığın için hiçbir zorluk çok büyük değil. Hataları görüp düzeltebilirsin. Düzeltmelerini isteyenler, cevaplarına hazırlıklı ve açık olan kişilerdir.`,
     },
     {
-      name: "48-16",
+      name: "16-48",
       title: "Yetenek",
       value: `Bir soruna potansiyel bir çözüm bulmak veya mükemmelleştirilmesi gereken bir şeyi düzeltmek ve iyileştirmek için derinliğe ve becerilere sahipsin. İçsel bir beceriyi mükemmelleştirmek için sezgisel derinliği tekrarlayan deneyler ve pratikle birleştirebilirsin. Yeteneğini başarılı bir şekilde geliştirmenin anahtarı, yapmayı sevdiğin bir şeyle tamamen özdeşleşmektir - ustalığa ulaşmak için büyük bir özveri gösterebilirsin. Derinliğini ustalığa ulaşmak veya bir becerinin mükemmelleştirilmesi için kullanarak, becerilerini bir yeteneğe dönüştürebilirsin.`,
     },
@@ -2684,8 +2684,8 @@ var ai_25_s4u1_5_2 = "•	Hızla değişen teknoloji dünyasında nasıl adapte 
 var ai_25_s4u1_5_3 = "•	Yaşam boyu öğrenme anlayışınla hangi yeni teknolojileri öğrenmeyi planlıyorsun? Bu öğrenme sürecini kariyerin boyunca nasıl sürdürebilirsin?";
 
 var ai_25_s4u1_6_1 = "İletişim ve İşbirliği";
-var ai_25_s4u1_6_2 = "• Takım çalışması becerinle hangi disiplinler arası projelerde başarılı olabilirsin? AI projelerinde işbirliği yaparak hangi hedeflere ulaşmayı planlıyorsun?";
-var ai_25_s4u1_6_3 = "• Karmaşık teknik bilgileri sade bir şekilde açıklayabilme yeteneğinle hangi projelerde liderlik yapabilir ya da takım arkadaşlarına rehberlik edebilirsin? Bu beceriyi hangi iş alanlarında kullanabileceğini düşünüyorsun?";
+var ai_25_s4u1_6_2 = "• Karmaşık teknik bilgileri sade bir şekilde açıklayabilme yeteneğinle hangi projelerde liderlik yapabilir ya da takım arkadaşlarına rehberlik edebilirsin? Bu beceriyi hangi iş alanlarında kullanabileceğini düşünüyorsun?";
+var ai_25_s4u1_6_3 = "• Takım çalışması becerinle hangi disiplinler arası projelerde başarılı olabilirsin? AI projelerinde işbirliği yaparak hangi hedeflere ulaşmayı planlıyorsun?";
 
 var ai_25_s4u1_7_1 = "Etik ve Sosyal Sorumluluk";
 var ai_25_s4u1_7_2 = "•	Yapay zekanın etik kullanımı hakkında sahip olduğun bilinçle hangi alanlarda fark yaratabilirsin? AI'nın sosyal etkilerini göz önünde bulundurarak, hangi projelerde yer almayı planlıyorsun?";
@@ -2817,8 +2817,8 @@ var teamwork_s3u1_2_2 = "• Ekibinin içinde eyleme ve uyuma ilham vermek için
 var teamwork_s3u1_2_3 = "• Müzakerelerde veya zor paydaşlarla uğraşırken daha etkili olmak için iletişim tarzını nasıl uyarlayabilirsin?";
 
 var teamwork_s3u1_3_1 = "İşbirliği";
-var teamwork_s3u1_3_2 = "• İşbirliği becerilerini işlevler arası projelere nasıl taşıyabilir ve tüm ekip üyelerinin duyulduğunu hissetmelerini ve etkili bir şekilde katkıda bulunmalarını nasıl sağlayabilirsin? ";
-var teamwork_s3u1_3_3 = "• İşbirlikçi ekip çalışması yoluyla daha yaratıcı problem çözmeyi teşvik etmek için hangi adımları atabilirsin? ";
+var teamwork_s3u1_3_2 = "• İşbirlikçi ekip çalışması yoluyla daha yaratıcı problem çözmeyi teşvik etmek için hangi adımları atabilirsin? ";
+var teamwork_s3u1_3_3 = "• İşbirliği becerilerini işlevler arası projelere nasıl taşıyabilir ve tüm ekip üyelerinin duyulduğunu hissetmelerini ve etkili bir şekilde katkıda bulunmalarını nasıl sağlayabilirsin? ";
 
 var teamwork_s3u1_4_1 = "Uyumluluk";
 var teamwork_s3u1_4_2 = "• Pazardaki veya endüstri trendlerindeki değişikliklerden daha iyi yararlanmak için uyumluluğunu nasıl kullnabilirsin? ";
@@ -2938,7 +2938,7 @@ var teamwork_eng_s3u2_2_4 = "• What can I do to communicate more clearly, conc
 var lifestyle_25_plus_manifesting_generator_image_w = "https://appwrite.anahtarsensin.com/v1/storage/buckets/6708de8e00054cee7bd1/files/generator-w/view?project=665474aa001cd7ecbebd&project=665474aa001cd7ecbebd&mode=admin";
 var lifestyle_25_plus_manifesting_generator_image_m = "https://appwrite.anahtarsensin.com/v1/storage/buckets/6708de8e00054cee7bd1/files/generator-m/view?project=665474aa001cd7ecbebd&project=665474aa001cd7ecbebd&mode=admin";
 var lifestyle_25_plus_manifesting_generator_name = "Enerjik";
-var lifestyle_25_plus_manifesting_generator_1 = "Kariyer ve liderlik dünyasındaki yolculuğun benzersiz. Çevrendekiler yeteneklerini fark ettiğinde, bireyleri, grupları ve sistemleri organize etmeyi ve yönetmeyi içeren rollerde gerçekten parlarsın.\n\nUyumlu bir sonuç için tüm unsurları yöneten bir orkestranın şefi gibisin.Kariyerinde yetenekli bir organizatör, yönetici, ağ oluşturucu veya arabulucu olma potansiyeline sahipsin.\nRolün, enerji kaynaklarını en verimli şekilde kullanmak için diğerlerine rehberlik etmek etrafında döner.Enerji dinamiklerine dikkat etmen çok önemli.\n\nÇevrendekilerin enerjilerinden beslenir ve bu enerjiyi katlayarak büyütebilirsin.Enerjin iyi yönetilmezse, ileriki yaşlarda tükenmişliğe ve bitkinliğe yol açabilir.Durmayı bilmek ve dinlenmek sağlığını korumak için çok önemli.";
+var lifestyle_25_plus_manifesting_generator_1 = "Kariyer ve liderlik dünyasındaki yolculuğun benzersiz. Çevrendekiler yeteneklerini fark ettiğinde, bireyleri, grupları ve sistemleri organize etmeyi ve yönetmeyi içeren rollerde gerçekten parlarsın.\n\nUyumlu bir sonuç için tüm unsurları yöneten bir orkestranın şefi gibisin.Kariyerinde yetenekli bir organizatör, yönetici, ağ oluşturucu veya arabulucu olma potansiyeline sahipsin.\nRolün, enerji kaynaklarını en verimli şekilde kullanmak için diğerlerine rehberlik etmek etrafında döner.Enerji dinamiklerine dikkat etmen çok önemli.\n\n Çevrendekilerin enerjilerinden beslenir ve bu enerjiyi katlayarak büyütebilirsin.Enerjin iyi yönetilmezse, ileriki yaşlarda tükenmişliğe ve bitkinliğe yol açabilir.Durmayı bilmek ve dinlenmek sağlığını korumak için çok önemli.";
 var lifestyle_25_plus_manifesting_generator_2 = "İçgüdülerine ne kadar güvenir ve doğru anı beklersen, hayatın o kadar tatmin edici ve keyifli hale gelir.Kendini bir mıknatıs gibi düşünebilirsin, enerjinin fırsatları doğal olarak sana çektiğini gözlemleyebilirsin.";
 var lifestyle_25_plus_manifesting_generator_3 = "Eforsuz ve doğal olan yolun, anda hayatın sunduklarına cevap verdiğinde kendini gösterecektir.Enerjin, hayatın sana getirdiklerine cevap vermek aracılığıyla taahhüt ettiğin şeyde ustalaşmana yardımcı olmak için burada.Doğru yolda olduğunun işareti, işlerin doğal olarak yerine oturmaya başlaması ve içinde bir tatmin hissi.\n\nÇok büyük bir enerjin olduğu için seni gerçekten ilgilendirmeyen veya seni tatmin etmeyen şeylere evet dememeye ve bağlanmamaya dikkat etmelisin.İç pusulan içgüdülerin aracılığıyla seninle iletişim kurar.Hayatı doğru yaşamak için stratejin hayatın sana getirmesini beklemek ve gelene cevap vermektir.Önce içgüdülerini dinle ve başkalarının ne yapman gerektiğini dikte etmesine izin verme.\n\nSen monoton bir rutin için yaratılmadın.Üretmeye, inşa etmeye devam et ve inanılmaz enerjine her zaman güven.";
 var lifestyle_25_plus_manifesting_generator_motto = "Hayat tatmini için benimseyeceğin slogan: Yaptığın işi sev ve sevdiğin işi yap!";
@@ -6021,10 +6021,10 @@ var decision_strategy_eng_s4_1_txt = "By adhering to this decision-making strate
       } else if (type == "63-4_2") {
         return guclu_yanlarin_63_4_2;
       }
-    } else if (guclu_yanlarinData.name == "45-21") {
-      if (type == "45-21_1") {
+    } else if (guclu_yanlarinData.name == "21-45") {
+      if (type == "21-45_1") {
         return guclu_yanlarin_45_21_1;
-      } else if (type == "45-21_2") {
+      } else if (type == "21-45_2") {
         return guclu_yanlarin_45_21_2;
       }
     } else if (guclu_yanlarinData.name == "3-60") {
@@ -6039,10 +6039,10 @@ var decision_strategy_eng_s4_1_txt = "By adhering to this decision-making strate
       } else if (type == "15-5_2") {
         return guclu_yanlarin_5_15_2;
       }
-    } else if (guclu_yanlarinData.name == "47-64") {
-      if (type == "47-64_1") {
+    } else if (guclu_yanlarinData.name == "64-47") {
+      if (type == "64-47_1") {
         return guclu_yanlarin_47_64_1;
-      } else if (type == "47-64_2") {
+      } else if (type == "64-47_2") {
         return guclu_yanlarin_47_64_2;
       }
     } else if (guclu_yanlarinData.name == "27-50") {
@@ -6058,16 +6058,16 @@ var decision_strategy_eng_s4_1_txt = "By adhering to this decision-making strate
       } else if (type == "26-44_2") {
         return guclu_yanlarin_26_44_2;
       }
-    } else if (guclu_yanlarinData.name == "54-32") {
-      if (type == "54-32_1") {
+    } else if (guclu_yanlarinData.name == "32-54") {
+      if (type == "32-54_1") {
         return guclu_yanlarin_54_32_1;
-      } else if (type == "54-32_2") {
+      } else if (type == "32-54_2") {
         return guclu_yanlarin_54_32_2;
       }
-    } else if (guclu_yanlarinData.name == "49-19") {
-      if (type == "49-19_1") {
+    } else if (guclu_yanlarinData.name == "19-49") {
+      if (type == "19-49_1") {
         return guclu_yanlarin_49_19_1;
-      } else if (type == "49-19_2") {
+      } else if (type == "19-49_2") {
         return guclu_yanlarin_49_19_2;
       }
     } else if (guclu_yanlarinData.name == "37-40") {
@@ -6076,10 +6076,10 @@ var decision_strategy_eng_s4_1_txt = "By adhering to this decision-making strate
       } else if (type == "37-40_2") {
         return guclu_yanlarin_37_40_2;
       }
-    } else if (guclu_yanlarinData.name == "34-57") {
-      if (type == "34-57_1") {
+    } else if (guclu_yanlarinData.name == "57-34") {
+      if (type == "57-34_1") {
         return guclu_yanlarin_34_57_1;
-      } else if (type == "34-57_2") {
+      } else if (type == "57-34_2") {
         return guclu_yanlarin_34_57_2;
       }
     } else if (guclu_yanlarinData.name == "20-34") {
@@ -6160,10 +6160,10 @@ var decision_strategy_eng_s4_1_txt = "By adhering to this decision-making strate
       } else if (type == "18-58_2") {
         return guclu_yanlarin_18_58_2;
       }
-    } else if (guclu_yanlarinData.name == "48-16") {
-      if (type == "48-16_1") {
+    } else if (guclu_yanlarinData.name == "16-48") {
+      if (type == "16-48_1") {
         return guclu_yanlarin_48_16_1;
-      } else if (type == "48-16_2") {
+      } else if (type == "16-48_2") {
         return guclu_yanlarin_48_16_2;
       }
     } else if (guclu_yanlarinData.name == "17-62") {
@@ -6172,12 +6172,11 @@ var decision_strategy_eng_s4_1_txt = "By adhering to this decision-making strate
       } else if (type == "17-62_2") {
         return guclu_yanlarin_17_62_2;
       }
-    } else if (guclu_yanlarinData.name == "53-42") {
-      if (type == "53-42_1") {
+    } else if (guclu_yanlarinData.name == "42-53") {
+      if (type == "42-53_1") {
         return guclu_yanlarin_53_42_1;
-      } else if (type == "53-42_2") {
+      } else if (type == "42-53_2") {
         return guclu_yanlarin_53_42_2;
-      } else if (type == "53-42_3") {
       }
     } else if (guclu_yanlarinData.name == "46-29") {
       if (type == "46-29_1") {
@@ -6185,16 +6184,16 @@ var decision_strategy_eng_s4_1_txt = "By adhering to this decision-making strate
       } else if (type == "46-29_2") {
         return guclu_yanlarin_46_29_2;
       }
-    } else if (guclu_yanlarinData.name == "33-13") {
-      if (type == "33-13_1") {
+    } else if (guclu_yanlarinData.name == "13-33") {
+      if (type == "13-33_1") {
         return guclu_yanlarin_33_13_1;
-      } else if (type == "33-13_2") {
+      } else if (type == "13-33_2") {
         return guclu_yanlarin_33_13_2;
       }
-    } else if (guclu_yanlarinData.name == "30-41") {
-      if (type == "30-41_1") {
+    } else if (guclu_yanlarinData.name == "41-30") {
+      if (type == "41-30_1") {
         return guclu_yanlarin_30_41_1;
-      } else if (type == "30-41_2") {
+      } else if (type == "41-30_2") {
         return guclu_yanlarin_30_41_2;
       }
     } else if (guclu_yanlarinData.name == "35-36") {
@@ -6203,16 +6202,16 @@ var decision_strategy_eng_s4_1_txt = "By adhering to this decision-making strate
       } else if (type == "35-36_2") {
         return guclu_yanlarin_35_36_2;
       }
-    } else if (guclu_yanlarinData.name == "56-11") {
-      if (type == "56-11_1") {
+    } else if (guclu_yanlarinData.name == "11-56") {
+      if (type == "11-56_1") {
         return guclu_yanlarin_56_11_1;
-      } else if (type == "56-11_2") {
+      } else if (type == "11-56_2") {
         return guclu_yanlarin_56_11_2;
       }
-    } else if (guclu_yanlarinData.name == "10-34") {
-      if (type == "10-34_1") {
+    } else if (guclu_yanlarinData.name == "34-10") {
+      if (type == "34-10_1") {
         return guclu_yanlarin_10_34_1;
-      } else if (type == "10-34_2") {
+      } else if (type == "34-10_2") {
         return guclu_yanlarin_10_34_2;
       }
     } else if (guclu_yanlarinData.name == "15") {
@@ -7041,12 +7040,6 @@ var decision_strategy_eng_s4_1_txt = "By adhering to this decision-making strate
 
     allVariables.P33A1 = guclu_yanlarin(guclu_yanlarinData[3], 25, guclu_yanlarinData[3].name + "_1",);
     allVariables.P33A2 = guclu_yanlarin(guclu_yanlarinData[3], 25, guclu_yanlarinData[3].name + "_2",);
-    allVariables.P33A3 = guclu_yanlarin(guclu_yanlarinData[3], 25, guclu_yanlarinData[3].name + "_3",);
-    allVariables.P33A4 = guclu_yanlarin(guclu_yanlarinData[3], 25, guclu_yanlarinData[3].name + "_4",);
-    allVariables.P33A5 = guclu_yanlarin(guclu_yanlarinData[3], 25, guclu_yanlarinData[3].name + "_5",);
-    allVariables.P33A6 = guclu_yanlarin(guclu_yanlarinData[3], 25, guclu_yanlarinData[3].name + "_6",);
-    allVariables.P33A7 = guclu_yanlarin(guclu_yanlarinData[3], 25, guclu_yanlarinData[3].name + "_7",);
-    allVariables.P33A8 = guclu_yanlarin(guclu_yanlarinData[3], 25, guclu_yanlarinData[3].name + "_8",);
     
     allVariables.P36A1 = decision_strategy(decision_strategyData, 25, "name"); // Senin Karar Verme Stratejin
     allVariables.P36A2 = decision_strategy(decision_strategyData, 25, "s3_x_2");
