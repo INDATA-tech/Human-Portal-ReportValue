@@ -380,8 +380,7 @@ export default async ({ req, res, log, error }) => {
     {
       name: "2",
       title: "Vizyon",
-      value: `İçinde bulunduğun ekibin ya da işletmenin yönünü belirleme yeteneğin var.  Ayrıca, edinilen karın en iyi yönlendirilmesinin yolunu gösterebilirsin.  Ekip için "ilerlediğimiz yön bu" algısını oluşturabilirsin.
-    `,
+      value: `İçinde bulunduğun ekibin ya da işletmenin yönünü belirleme yeteneğin var.  Ayrıca, edinilen karın en iyi yönlendirilmesinin yolunu gösterebilirsin.  Ekip için "ilerlediğimiz yön bu" algısını oluşturabilirsin.`,
     },
     {
       name: "46",
@@ -513,8 +512,7 @@ export default async ({ req, res, log, error }) => {
     {
       name: "13-33",
       title: "Tanık Olan Lider",
-      value: `Dinleme, duyduğun bilgileri ve sırları saklama ve ders alınabilecek anıları toplama yeteneğine sahipsin. Yüzeyin altında olanın kendisini daha derin bir gerçek şeklinde ortaya çıkarmasını sabırla beklerken, tanık olduğun deneyimler üzerine düşünüp bunları yansıtabilirsin. Doğal bir kayıt tutucu olarak, etrafındakilerin hikayelerini toparlayabilirsin.
-    `,
+      value: `Dinleme, duyduğun bilgileri ve sırları saklama ve ders alınabilecek anıları toplama yeteneğine sahipsin. Yüzeyin altında olanın kendisini daha derin bir gerçek şeklinde ortaya çıkarmasını sabırla beklerken, tanık olduğun deneyimler üzerine düşünüp bunları yansıtabilirsin. Doğal bir kayıt tutucu olarak, etrafındakilerin hikayelerini toparlayabilirsin.`,
     },
     {
       name: "41-30",
@@ -807,18 +805,21 @@ export default async ({ req, res, log, error }) => {
   });
 
   var usageGate = [];
-  gates.forEach((x) => {
-    var isok = usergates.find((y) => x.name == y);
-    if (isok !== undefined) {
-      usageGate.push(x);
-    }
-  });
+
   channels.forEach((x) => {
     var isok = api.DefinedChannels.find((y) => x.name == y);
     if (isok !== undefined) {
       usageGate.push(x);
     }
   });
+
+  gates.forEach((x) => {
+    var isok = usergates.find((y) => x.name == y);
+    if (isok !== undefined) {
+      usageGate.push(x);
+    }
+  });
+  
   var bigdataPercent = [];
   var hollanddataPercent = [];
   big5Data.forEach((x) => {
@@ -1048,49 +1049,31 @@ export default async ({ req, res, log, error }) => {
   var image_manifestor =
     "https://appwrite.anahtarsensin.com/v1/storage/buckets/6708de8e00054cee7bd1/files/manifestor/view?project=665474aa001cd7ecbebd&project=665474aa001cd7ecbebd&mode=admin";
 
-  var sortedUsageGate = siralaValueUzunlugunaGore(usageGate);
-  var guclu_yanlarinData = sortedUsageGate;
+  // var sortedUsageGate = siralaValueUzunlugunaGore(usageGate);
+  // var guclu_yanlarinData = sortedUsageGate;
+
+  var guclu_yanlarinData = usageGate;
 
 // Çalışma ve Öğrenme Stilin
 var c_o_s_indivudal_title = "Bağımsız";
 var c_o_s_individual = "Bağımsız çalışma ve öğrenme tarzın sayesinde bilgileri işleme ve kendi başına çalışma konusunda benzersiz bir yeteneğe sahipsin. Profesyonel duruşun, dışarıdan onay almadan da kendini güvende hissetmeni sağlayan doğal bir tamlık duygusuyla karakterizedir. Bu odaklanma, bilgiyi hızlıca sindirip uyum sağlamana olanak tanır ve hızla değişen iş dünyasında sana bir avantaj kazandırır. Bu hızlı düşünme tarzın, özellikle zamanın kritik olduğu ortamlarda seni değerli bir hale getirir.\n\nBağımsız ve tutarlı bir şekilde bilgi işleyebildiğin için genellikle hızlı hareket edebilirsin. Hızlı işlem yeteneğin büyük bir güç olsa da, sabırlı olmayı unutmaman gerekir. İş dünyası ve sosyal hayat genellikle kolektif bir ritimde ilerler ve senin de bu ritme uyum sağlaman gerekebilir. Biraz yavaşlamak, diğerlerinin senin hızına yetişmesini sağlar ve içgörülerine dayalı olarak harekete geçtiğinde, zamanlamanın hem bireysel hem de organizasyonel olarak doğru olmasına yardımcı olur.\n\nBilgiyi işlemekte başkalarına ihtiyaç duymasan da, iş birliği çalışmalarının derinliğini artırabilir. Diğerlerine, kendi bakış açılarını sunmaları için zaman tanımak önemlidir. Çoğu zaman, çalışma arkadaşların meseleleri birçok farklı açıdan incelemek ve daha fazla düşünmek isteyebilirler. Onların bu süreçlerine katılman, hem kendi içgörülerini zenginleştirecek hem de iş birliği ve liderlik çalışmalarını güçlendirecektir.\n\nDoğal, bağımsız çalışma ve öğrenme tarzını onurlandırırken, ekibindeki farklı yaklaşımlara da saygı göstererek, hem kendinden emin hem de empati dolu bir lider olarak iş dünyasında başarıya katkı sağlayabilirsin. Bu da hem kişisel olarak tatmin edici hem de geniş çapta etkili sonuçlar yaratır.";
-var c_o_s_individual_s3_1 = "• Kararlarını verirken kendine ne kadar güveniyorsun ve dış onaya ne kadar ihtiyaç duyuyorsun?";
-var c_o_s_individual_s3_2 = "• Hızlı kararlar alırken başkalarının senin tempoya ayak uydurabilmesi için nasıl sabırlı olabilirsin?";
-var c_o_s_individual_s3_3 = "• Bilgiyi hızlı bir şekilde işlemek doğal yeteneğin, ama hangi durumlarda daha yavaş ve derinlemesine düşünmek gerektiğini fark ediyorsun? ";
-var c_o_s_individual_s3_4 = "• Ekibinle iş birliği yaparken farklı bakış açılarına nasıl daha fazla yer açabilirsin? ";
-var c_o_s_individual_s3_5 = "• Kendi başına çalıştığında, başkalarından gelebilecek potansiyel katkıları göz ardı etmeden nasıl dengeli hareket edebilirsin? ";
+var c_o_s_individual_s3_1 = "• Kararlarını verirken kendine ne kadar güveniyorsun ve dış onaya ne kadar ihtiyaç duyuyorsun?\n\n• Hızlı kararlar alırken başkalarının senin tempoya ayak uydurabilmesi için nasıl sabırlı olabilirsin?\n\n• Bilgiyi hızlı bir şekilde işlemek doğal yeteneğin, ama hangi durumlarda daha yavaş ve derinlemesine düşünmek gerektiğini fark ediyorsun?\n\n• Ekibinle iş birliği yaparken farklı bakış açılarına nasıl daha fazla yer açabilirsin?\n\n• Kendi başına çalıştığında, başkalarından gelebilecek potansiyel katkıları göz ardı etmeden nasıl dengeli hareket edebilirsin? ";
 
 var c_o_s_collaborative_titie = "İş Birlikçi";
-var c_o_s_collaborative = "Senin İşbirlikçi çalışma ve öğrenme tarzın sayesinde, başkalarıyla bir aradayken en parlak halini sergiliyorsun. Diğer insanlarla çalışırken, ortaya çıkan enerji ve fikirler seni canlandırıyor, doğal enerjin iş birliği içinde güçleniyor. Sadece düşünceleri paylaşmıyorsun; başka biriyle çalışmak ya da grup ortamında olmak, en iyi yanlarını ortaya çıkarmana yardımcı oluyor. Takım çalışması senin için adeta bir 'güç artışı' gibi, kendi yeteneklerini ve fikirlerini yükseltiyor. Bu yüzden, başkalarıyla çalışmakta gerçekten başarılısın çünkü herkes bir araya geldiğinde, bilgiyi anlama ve işleme yeteneğin hızla gelişiyor.\n\nYalnız çalışırken bazen işleri tamamlayamama hissine kapılabilirsin. Bu bir eksiklik değil, tam potansiyelinin iş birliği yoluyla ortaya çıktığının bir göstergesi. Başkalarının varlığı, senin bilgi işleme gücünü tamamlıyor ve bilgiyi uyumlaştırma yeteneğini harekete geçiriyor.\n\nİş dünyasında, ortaklıklar kurmak senin için özellikle faydalı olabilir. Bu bir bağımlılık değil, diğer insanlarla yaratıcı bir alanı paylaşmanın getirdiği canlı bir değişimdir. İçgörülerinin derinliği, doğal olarak senin yeteneklerini tamamlayan becerilere ve güçlü yönlere sahip insanları kendine çektiğin için genişler.\n\nSenin tarzın, bilgiyi sindirip tam anlamıyla işlemeye daha fazla zaman ayırmanı gerektirebilir.Bu, konuları derinlemesine keşfetmeni ve bir sorun ya da fırsatın farklı yönlerini değerlendirmeni sağlar.İşte bu yaklaşımın büyük avantajı: Bir şeyi tam olarak anladığında, onu her açıdan incelediğin için bu sadece anlamış olmak değil, adeta içini dışını bilmek anlamına gelir.Bu derin anlayış, iş dünyasında senin için bir süper güçtür.Bir karar ya da projeye ilerlemeye hazır olduğunda, sağlam bir temel ve ayrıntılı bir kavrayışla hareket ediyorsun.\nKarar verirken içgüdüsel olarak hemen sonuca ulaşmak isteyebilirsin.Bunun yerine, doğal ritmini kucakla ve karar verme sürecinin başkalarının varlığıyla gelişmesine izin ver.Doğru kişilerle birlikte olduğunda, açık fikirlerin aktığı bir ortamda, bütünlük ve kesinlik duyguların ortaya çıkacak ve seni doğru sonuca yönlendirecek.\n\nCanlı bir ortamda olmak — hareketli bir ofis, işbirlikçi bir atölye ya da halka açık bir toplantı yeri fark etmez — senin uyum sürecin için bir katalizör görevi görür. Bu ortamların enerjisi, bilgi işleme yeteneğini artırır ve zihinsel keskinliğini yükseltir.\nİşbirlikçi alanların enerjisini ve başkalarıyla çalışma eğilimini kullanarak iş dünyasında başarıya ulaşabilirsin.";
-var c_o_s_collaborative_s3_1 = "• Birden fazla kaynaktan bilgi toplarken, bu bilgileri nasıl daha sabırlı bir şekilde sindirebilirsin? ";
-var c_o_s_collaborative_s3_2 = "• Farklı insanlarla etkileşim içinde olduğunda enerjin nasıl artıyor? Bu enerjiyi iş hayatında daha etkin kullanmak için neler yapabilirsin? ";
-var c_o_s_collaborative_s3_3 = "• Kararlarını aceleye getirmek yerine, düşünmek ve farklı açılardan bakmak için yeterince zaman ayırıyor musun? ";
-var c_o_s_collaborative_s3_4 = "• Kararlarını aceleye getirmek yerine, düşünmek ve farklı açılardan bakmak için yeterince zaman ayırıyor musun? ";
-var c_o_s_collaborative_s3_5 = "• Çeşitliliğin iş süreçlerine katkısını daha iyi anlamak ve kullanmak için kendini nasıl geliştirebilirsin? ";
+var c_o_s_collaborative = "Senin İşbirlikçi çalışma ve öğrenme tarzın sayesinde, başkalarıyla bir aradayken en parlak halini sergiliyorsun. Diğer insanlarla çalışırken, ortaya çıkan enerji ve fikirler seni canlandırıyor, doğal enerjin iş birliği içinde güçleniyor. Sadece düşünceleri paylaşmıyorsun; başka biriyle çalışmak ya da grup ortamında olmak, en iyi yanlarını ortaya çıkarmana yardımcı oluyor. Takım çalışması senin için adeta bir 'güç artışı' gibi, kendi yeteneklerini ve fikirlerini yükseltiyor. Bu yüzden, başkalarıyla çalışmakta gerçekten başarılısın çünkü herkes bir araya geldiğinde, bilgiyi anlama ve işleme yeteneğin hızla gelişiyor.\n\nYalnız çalışırken bazen işleri tamamlayamama hissine kapılabilirsin. Bu bir eksiklik değil, tam potansiyelinin iş birliği yoluyla ortaya çıktığının bir göstergesi. Başkalarının varlığı, senin bilgi işleme gücünü tamamlıyor ve bilgiyi uyumlaştırma yeteneğini harekete geçiriyor.\n\nİş dünyasında, ortaklıklar kurmak senin için özellikle faydalı olabilir. Bu bir bağımlılık değil, diğer insanlarla yaratıcı bir alanı paylaşmanın getirdiği canlı bir değişimdir. İçgörülerinin derinliği, doğal olarak senin yeteneklerini tamamlayan becerilere ve güçlü yönlere sahip insanları kendine çektiğin için genişler.\n\nSenin tarzın, bilgiyi sindirip tam anlamıyla işlemeye daha fazla zaman ayırmanı gerektirebilir.Bu, konuları derinlemesine keşfetmeni ve bir sorun ya da fırsatın farklı yönlerini değerlendirmeni sağlar.İşte bu yaklaşımın büyük avantajı: Bir şeyi tam olarak anladığında, onu her açıdan incelediğin için bu sadece anlamış olmak değil, adeta içini dışını bilmek anlamına gelir.Bu derin anlayış, iş dünyasında senin için bir süper güçtür.Bir karar ya da projeye ilerlemeye hazır olduğunda, sağlam bir temel ve ayrıntılı bir kavrayışla hareket ediyorsun.\n\nKarar verirken içgüdüsel olarak hemen sonuca ulaşmak isteyebilirsin.Bunun yerine, doğal ritmini kucakla ve karar verme sürecinin başkalarının varlığıyla gelişmesine izin ver.Doğru kişilerle birlikte olduğunda, açık fikirlerin aktığı bir ortamda, bütünlük ve kesinlik duyguların ortaya çıkacak ve seni doğru sonuca yönlendirecek.\n\nCanlı bir ortamda olmak — hareketli bir ofis, işbirlikçi bir atölye ya da halka açık bir toplantı yeri fark etmez — senin uyum sürecin için bir katalizör görevi görür. Bu ortamların enerjisi, bilgi işleme yeteneğini artırır ve zihinsel keskinliğini yükseltir.\nİşbirlikçi alanların enerjisini ve başkalarıyla çalışma eğilimini kullanarak iş dünyasında başarıya ulaşabilirsin.";
+var c_o_s_collaborative_s3_1 = "• Birden fazla kaynaktan bilgi toplarken, bu bilgileri nasıl daha sabırlı bir şekilde sindirebilirsin?\n\n• Farklı insanlarla etkileşim içinde olduğunda enerjin nasıl artıyor? Bu enerjiyi iş hayatında daha etkin kullanmak için neler yapabilirsin?\n\n• Kararlarını aceleye getirmek yerine, düşünmek ve farklı açılardan bakmak için yeterince zaman ayırıyor musun?\n\n• Kararlarını aceleye getirmek yerine, düşünmek ve farklı açılardan bakmak için yeterince zaman ayırıyor musun?\n\n• Çeşitliliğin iş süreçlerine katkısını daha iyi anlamak ve kullanmak için kendini nasıl geliştirebilirsin? ";
 
 var c_o_s_synthesizing_title = "Sentezleyen";
 var c_o_s_synthesizing = "Senin sentezleyici çalışma ve öğrenme tarzın, farklı bilgi kaynaklarını bir araya getirip anlamlandırma konusunda benzersiz bir yetenek sağlıyor. En iyi performansı, özgürce hareket edip çeşitli insanlarla etkileşime girebildiğinde gösterirsin. Farklı perspektiflerden bilgi toplamak ve bu bilgileri bir yapboz gibi birleştirmek senin doğal yeteneğin.\n\nDeğişim ve çeşitlilikten beslenirsin. Gün içinde farklı ortamlarda, çeşitli insanlarla etkileşim kurduğunda kendini daha enerjik ve sağlıklı hissedersin.Aynı ortamda veya aynı grupla sınırlı kalmak seni kısıtlanmış hissettirebilir, bu yüzden seni meşgul eden ve zihinsel olarak uyarıcı çeşitli iş deneyimlerini aramalısın.\n\nDoğal eğilimin hızla hareket etmek ve kararlarını anlık olarak vermek olabilir, çünkü bu senin hırsın ve itici gücünle bağlantılıdır. Ancak, asıl gücün, elindeki bilgileri sentezleyebilme yeteneğinden gelir ve bu da sabır gerektirir.Farklı girdileri tam anlamıyla bütünleştirip anlamadan harekete geçmeden önce kendine zaman tanıdığında, daha dengeli ve etkili sonuçlar elde edersin.\n\nÇoğu zaman sanki aynı anda üç rolü birden üstleniyormuş gibi hissedebilirsin, her biri kendi istekleri ve bakış açılarıyla.Bu bir bölünme değil, üç güçlü yönün bir araya gelmesiyle oluşan bir bütünlüktür. Bu üç yönü bir arada kullanmayı başardığında, durumlara, zorluklara ve çözümlere üç boyutlu bir bakış açısıyla yaklaşabilirsin.\n\nİş birliği, farklı bakış açılarını sentezlemek için faydalı olsa da, yalnız çalışmakta da oldukça iyisin. Kendi başına işleri halledebilme yeteneğin, farklı ortamlarda esnek bir şekilde çalışma özgürlüğü sağlar—ister hareketli bir ofiste ister sessiz bir özel alanda.Unutma, sentezleyici çalışma ve öğrenme tarzın, kendi kendine yetebilme ve farklı kaynaklardan gelen içgörüleri birleştirebilme yeteneğinin güçlü bir birleşimidir.Bu da seni iş dünyasında dinamik ve çok yönlü bir değer haline getirir.";
-var c_o_s_synthesizing_s3_1 = "• Başkalarıyla çalışırken enerjinin yükseldiğini ne kadar fark ediyorsun ve bunu projelerine nasıl yansıtabilirsin? ";
-var c_o_s_synthesizing_s3_2 = "• Tek başına çalışırken hangi zorlukları yaşıyorsun ve bu durumlarda kendini nasıl daha iyi motive edebilirsin? ";
-var c_o_s_synthesizing_s3_3 = "• İş birliği ortamlarında diğer kişilerin bakış açılarına nasıl yer veriyorsun ve bu sürecin sonucunda nasıl daha zengin içgörüler elde edebilirsin?";
-var c_o_s_synthesizing_s3_4 = "• Bilgiyi sindirirken, karşındaki insanlarla etkileşime girmenin senin düşünme sürecini nasıl hızlandırdığını fark ediyor musun? ";
-var c_o_s_synthesizing_s3_5 = "• Karar alma sürecinde başkalarının enerjisini ve fikirlerini nasıl daha etkin bir şekilde kullanabilirsin? ";
+var c_o_s_synthesizing_s3_1 = "• Başkalarıyla çalışırken enerjinin yükseldiğini ne kadar fark ediyorsun ve bunu projelerine nasıl yansıtabilirsin?\n\n• Tek başına çalışırken hangi zorlukları yaşıyorsun ve bu durumlarda kendini nasıl daha iyi motive edebilirsin?\n\n• İş birliği ortamlarında diğer kişilerin bakış açılarına nasıl yer veriyorsun ve bu sürecin sonucunda nasıl daha zengin içgörüler elde edebilirsin?\n\n• Bilgiyi sindirirken, karşındaki insanlarla etkileşime girmenin senin düşünme sürecini nasıl hızlandırdığını fark ediyor musun?\n\n• Karar alma sürecinde başkalarının enerjisini ve fikirlerini nasıl daha etkin bir şekilde kullanabilirsin? ";
 
 var c_o_s_subjective_title = "Öznel";
 var c_o_s_subjective = "Senin Öznel Çalışma ve Öğrenme tarzın, bilgiyi işleme konusunda oldukça özel ve sabit bir yaklaşıma sahip olmanı sağlar. Bu, tamamen kişisel deneyimlerine dayanan, derinlemesine ve öznel bir yöntemdir. Diğerleri sana daha az esnek görünebilir, ancak bu, bilgiyi kendine özgü bir şekilde özümseme sürecinden kaynaklanıyor. Bilgileri doğal olarak kendi bakış açınla yorumlayarak, çevrendeki dünyayı benzersiz bir biçimde anlamlandırıyorsun.\n\nYaklaşımın seçici gibi görünebilir ve bu, sınırların önemini ve derin bağlantıların değerini bildiğin içindir. Doğal olarak belirli insanlara yakınlık duyarak, güvenilir ve samimi bir çevre oluşturma eğilimindesin. Bu, bazen 'taraf tutuyormuşsun' gibi görünebilir ama aslında, gerçek ve derin ilişkiler kurma ihtiyacının bir yansımasıdır.\n\nKüçük gruplarda sık sık uyum sağlamanı gerektiren durumlar sana zor gelebilir, çünkü en iyi işlerini, farklı insanlarla ve farklı ortamlarda etkileşim kurma özgürlüğüne sahip olduğunda ortaya koyarsın. Bu çeşitlilik ihtiyacı, nicelikten çok nitelik arayışından kaynaklanıyor; seni zenginleştiren farklı bakış açıları, öznel analizini derinleştiriyor.\n Hızlı kararlar vermek sana göre değildir çünkü bilgiyi kendi ritmine uygun şekilde işlemen için zamana ihtiyacın var. Bu zaman, yeni bilgileri mevcut bilgi birikimine tam anlamıyla dahil etmene olanak tanır, böylece verdiğin kararlar kişisel anlayışına dayalı sağlam temellere oturur.\n\nKendi hızında hareket etmek senin için çok önemli. Başkalarının beklentilerine veya zaman çizelgelerine uymaya zorlanmak, zihinsel, fiziksel ve duygusal sağlığını olumsuz etkileyebilir. Kendi ritmini benimsemek, sürecine sadık kalmanı ve işte de, hayatta da etkili ve tatmin edici sonuçlar elde etmeni sağlar.\n İş dünyasında, Öznel çalışma ve öğrenme tarzın büyük bir avantajdır. Derinlemesine düşünülmüş ve yenilikçi çözümler ortaya koymana yardımcı olur. Kişisel işleme tarzına sadık kalarak, her profesyonel ortamda tartışmalara ve projelere önemli bir değer katabilir ve daha çeşitli, zengin bir bakış açısına katkıda bulunabilirsin.";
-var c_o_s_subjective_s3_1 = "• Kararlarını kendi kişisel deneyimlerine dayandırırken, farklı bakış açılarını nasıl dahil edebilirsin? ";
-var c_o_s_subjective_s3_2 = "• Derin ve samimi ilişkiler kurma eğilimin iş hayatında sana nasıl fayda sağlıyor? ";
-var c_o_s_subjective_s3_3 = "• Kendine zaman ayırarak bilgiyi özümsemek için hangi stratejileri kullanıyorsun? ";
-var c_o_s_subjective_s3_4 = "• Farklı insanlardan gelen bilgilerle kendi deneyimlerini nasıl birleştiriyorsun ve bu birleşimden nasıl yararlanıyorsun? ";
-var c_o_s_subjective_s3_5 = "• Dış baskılar altında çalışırken, kendi doğal ritmine sadık kalmayı nasıl başarabilirsin? ";
+var c_o_s_subjective_s3_1 = "• Kararlarını kendi kişisel deneyimlerine dayandırırken, farklı bakış açılarını nasıl dahil edebilirsin?\n\n• Derin ve samimi ilişkiler kurma eğilimin iş hayatında sana nasıl fayda sağlıyor?\n\n• Kendine zaman ayırarak bilgiyi özümsemek için hangi stratejileri kullanıyorsun?\n\n• Farklı insanlardan gelen bilgilerle kendi deneyimlerini nasıl birleştiriyorsun ve bu birleşimden nasıl yararlanıyorsun?\n\n• Dış baskılar altında çalışırken, kendi doğal ritmine sadık kalmayı nasıl başarabilirsin? ";
 
 var c_o_s_objective_title = "Objektif";
 var c_o_s_objective = "Senin Objektif çalışma ve öğrenme tarzın, bilgiyi önyargısız bir şekilde alma yeteneğine sahip olmanı sağlar ve bu da bulgularını gerçekten tarafsız bir şekilde paylaşmanı mümkün kılar. Bilgiye yaklaşımın, çevreyi örnekleme, karşılaştığın şeyleri yansıtma ve algıladıklarını net ve tarafsız bir bakış açısıyla değerlendirme üzerine kuruludur.\n\nÇevrendeki ortamın genel sağlığını, ister ofisinin fiziksel alanı ister ekibinin duygusal durumu olsun, sezme yeteneğin çok değerlidir. İnce ipuçlarını doğal olarak yakalayarak, bir durumun iyi mi yoksa altında çözülmesi gereken sorunlar mı barındırdığını objektif bir şekilde algılayabilirsin.\n\nSamimiyete olan keskin duyarlılığın sayesinde, çevrendeki insanların ne zaman kendilerine sadık olduğunu ya da olmadığını sezebilirsin. Bu yetenek, iş dünyasında kime güvenebileceğini anlamana ve kimlerin kendini açması için cesaretlendirilmesi gerektiğini belirlemene yardımcı olur.\n\n Açık yaklaşımın, adeta bir ayna gibi, insanlara ve gruplara, eylemlerinin ve tercihlerinin gerçekliğini yansıtmanı sağlar, özellikle de zarar verici ya da adaletsiz durumlarla karşılaştıklarında. Bu, seni güçlü bir değişim temsilcisi yapar, çünkü etrafındakilerin daha net görmelerine ve herkesin yararına olacak ayarlamalar yapmalarına yardımcı olabilirsin.\n\nDeğerlendirici olarak, Objektif çalışma ve öğrenme ile her şeyi kişisel filtrelerden geçirmeden, anlamak ve değerlendirmek amacıyla işlersin. Bu geniş ve açık yaklaşım, her şeyden etkilenmek anlamına gelmez; aksine, bilgilerin senden geçmesine izin verir ve böylece diğerlerinin kaçırabileceği bir netlik sağlar.\n\nProfesyonel alanda, objektif değerlendirme yeteneğin sayesinde tarafsız içgörüler ve rehberlik sunabilirsin. İster yeni bir projenin uygulanabilirliğini değerlendiriyor, ister potansiyel bir ortaklığın havasını ölçüyor ol, değerlendirmelerin net ve bulandırılmamış gözlemlere dayanır. İş dünyasında, işletmelerin misyonlarına sadık kalmalarına ve sağlıklı, samimi bir şekilde faaliyet göstermelerine yardımcı olmak için önemli bir rol oynarsın. Objektif çalışma ve öğrenme tarzını kullanarak iş dünyasında çok gerekli bir perspektif sunar, kararların mevcut bilgilerin doğru ve adil bir değerlendirmesine dayalı olarak verilmesini sağlarsın.";
-var c_o_s_objective_s3_1 = "• Çevrende olup bitenleri tarafsız bir şekilde değerlendirirken bu içgörülerini iş hayatına nasıl yansıtıyorsun? ";
-var c_o_s_objective_s3_2 = "• İnsanların samimiyetini veya uyumsuzluklarını sezdiğinde nasıl tepki veriyorsun ve bu bilgiyi nasıl kullanıyorsun? ";
-var c_o_s_objective_s3_3 = "• Ortamın duygusal ve fiziksel sağlığını sezme yeteneğinle iş süreçlerini nasıl daha verimli hale getirebilirsin? ";
-var c_o_s_objective_s3_4 = "• İş yerinde bir ayna gibi davranarak başkalarına hangi farkındalıkları kazandırıyorsun ve bu süreçte nasıl bir değişim yarattığını düşünüyorsun? ";
-var c_o_s_objective_s3_5 = "• Tarafsız değerlendirmen sayesinde işletmenin misyonuna daha sadık kalmasını nasıl sağlıyorsun? ";
+var c_o_s_objective_s3_1 = "• Çevrende olup bitenleri tarafsız bir şekilde değerlendirirken bu içgörülerini iş hayatına nasıl yansıtıyorsun?\n\n• İnsanların samimiyetini veya uyumsuzluklarını sezdiğinde nasıl tepki veriyorsun ve bu bilgiyi nasıl kullanıyorsun?\n\n• Ortamın duygusal ve fiziksel sağlığını sezme yeteneğinle iş süreçlerini nasıl daha verimli hale getirebilirsin?\n\n• İş yerinde bir ayna gibi davranarak başkalarına hangi farkındalıkları kazandırıyorsun ve bu süreçte nasıl bir değişim yarattığını düşünüyorsun?\n\n• Tarafsız değerlendirmen sayesinde işletmenin misyonuna daha sadık kalmasını nasıl sağlıyorsun? ";
 
 //Çalışma ve Öğrenme Stilin İngilizce
 var c_o_s_indivudal_eng_title = "Individual"
@@ -2643,95 +2626,59 @@ var ai_25_s3_9_3 = "• Risk Alma ve Deney Yapma: AI ve teknolojik inovasyonlar 
 
 //gücünü kullan
 var ai_25_s4u1_1_1 = "Dijital Okuryazarlık";
-var ai_25_s4u1_1_2 = "• Bilgisayar ve teknoloji becerilerinle hangi alanlarda fark yaratabilirsin? Bu becerilerini okul projelerinde ya da gelecekteki kariyerinde nasıl daha etkin kullanabilirsin?";
-var ai_25_s4u1_1_3 = "• AI hakkında sahip olduğun temel bilgileri derinleştirip, yapay zekanın gelecekte hangi mesleklerde önemli olacağını ön görebiliyor musun? Bu alanlarda nasıl bir kariyer planlayabilirsin?";
+var ai_25_s4u1_1_2 = "• Bilgisayar ve teknoloji becerilerinle hangi alanlarda fark yaratabilirsin? Bu becerilerini okul projelerinde ya da gelecekteki kariyerinde nasıl daha etkin kullanabilirsin?\n\n• AI hakkında sahip olduğun temel bilgileri derinleştirip, yapay zekanın gelecekte hangi mesleklerde önemli olacağını ön görebiliyor musun? Bu alanlarda nasıl bir kariyer planlayabilirsin?";
 
 var ai_25_s4u1_2_1 = "Veri Okuryazarlığı";
-var ai_25_s4u1_2_2 = "• Veri güvenliği ve gizliliği konusunda ne kadar bilinçlisin? Bu bilgini ileride çalışacağın bir şirkette ya da kendi girişiminde nasıl kullanabilirsin?";
-var ai_25_s4u1_2_3 = "• Verileri analiz etme yeteneğini, okul projelerinde ya da iş hayatında nasıl kullanabilirsin? Verilere dayalı kararlar almanın sana nasıl avantaj sağlayacağını düşünüyorsun?";
+var ai_25_s4u1_2_2 = "• Veri güvenliği ve gizliliği konusunda ne kadar bilinçlisin? Bu bilgini ileride çalışacağın bir şirkette ya da kendi girişiminde nasıl kullanabilirsin?\n\n• Verileri analiz etme yeteneğini, okul projelerinde ya da iş hayatında nasıl kullanabilirsin? Verilere dayalı kararlar almanın sana nasıl avantaj sağlayacağını düşünüyorsun?";
 
 var ai_25_s4u1_3_1 = "Kodlama ve Programlama";
-var ai_25_s4u1_3_2 = "• Programlama becerilerini iş hayatında nasıl kullanabilir ve bu sayede farklı projelerde nasıl liderlik yapabilirsin? Hangi programlama dillerini öğrenmenin kariyer hedeflerine ulaşmada sana yardımcı olacağını düşünüyorsun?";
-var ai_25_s4u1_3_3 = "•	Algoritmik düşünme yeteneğinle karşılaştığın problemleri nasıl daha sistematik çözümlerle çözebilirsin? Bu beceriyi ileride hangi mesleklerde avantaj olarak kullanabilirsin?";
+var ai_25_s4u1_3_2 = "• Programlama becerilerini iş hayatında nasıl kullanabilir ve bu sayede farklı projelerde nasıl liderlik yapabilirsin? Hangi programlama dillerini öğrenmenin kariyer hedeflerine ulaşmada sana yardımcı olacağını düşünüyorsun?\n\n•	Algoritmik düşünme yeteneğinle karşılaştığın problemleri nasıl daha sistematik çözümlerle çözebilirsin? Bu beceriyi ileride hangi mesleklerde avantaj olarak kullanabilirsin?";
 
 var ai_25_s4u1_4_1 = "Eleştirel Düşünme ve Problem Çözme";
-var ai_25_s4u1_4_2 = "•	Yaratıcı problem çözme yeteneğini kullanarak hangi projelerde ya da iş alanlarında fark yaratabileceğini düşünüyorsun? Bu beceriyi nasıl daha fazla geliştirebilirsin?";
-var ai_25_s4u1_4_3 = "•	Analitik düşünme becerinle verilerden ya da olaylardan anlam çıkarma yeteneğini hangi alanlarda geliştirebilir ve kullanabilirsin? Bu becerinin sana ileride hangi kariyer fırsatlarını sunacağını düşünüyorsun?";
+var ai_25_s4u1_4_2 = "•	Yaratıcı problem çözme yeteneğini kullanarak hangi projelerde ya da iş alanlarında fark yaratabileceğini düşünüyorsun? Bu beceriyi nasıl daha fazla geliştirebilirsin?\n\n•	Analitik düşünme becerinle verilerden ya da olaylardan anlam çıkarma yeteneğini hangi alanlarda geliştirebilir ve kullanabilirsin? Bu becerinin sana ileride hangi kariyer fırsatlarını sunacağını düşünüyorsun?";
 
 var ai_25_s4u1_5_1 = "Uyarlanabilirlik ve Sürekli Öğrenme";
-var ai_25_s4u1_5_2 = "•	Hızla değişen teknoloji dünyasında nasıl adapte olabilirsin? Esnek olma yeteneğinle hangi mesleklerde daha başarılı olabileceğini düşünüyorsun?";
-var ai_25_s4u1_5_3 = "•	Yaşam boyu öğrenme anlayışınla hangi yeni teknolojileri öğrenmeyi planlıyorsun? Bu öğrenme sürecini kariyerin boyunca nasıl sürdürebilirsin?";
+var ai_25_s4u1_5_2 = "•	Hızla değişen teknoloji dünyasında nasıl adapte olabilirsin? Esnek olma yeteneğinle hangi mesleklerde daha başarılı olabileceğini düşünüyorsun?\n\n•	Yaşam boyu öğrenme anlayışınla hangi yeni teknolojileri öğrenmeyi planlıyorsun? Bu öğrenme sürecini kariyerin boyunca nasıl sürdürebilirsin?";
 
 var ai_25_s4u1_6_1 = "İletişim ve İşbirliği";
-var ai_25_s4u1_6_2 = "• Takım çalışması becerinle hangi disiplinler arası projelerde başarılı olabilirsin? AI projelerinde işbirliği yaparak hangi hedeflere ulaşmayı planlıyorsun?";
-var ai_25_s4u1_6_3 = "• Karmaşık teknik bilgileri sade bir şekilde açıklayabilme yeteneğinle hangi projelerde liderlik yapabilir ya da takım arkadaşlarına rehberlik edebilirsin? Bu beceriyi hangi iş alanlarında kullanabileceğini düşünüyorsun?";
+var ai_25_s4u1_6_2 = "• Takım çalışması becerinle hangi disiplinler arası projelerde başarılı olabilirsin? AI projelerinde işbirliği yaparak hangi hedeflere ulaşmayı planlıyorsun?\n\n• Karmaşık teknik bilgileri sade bir şekilde açıklayabilme yeteneğinle hangi projelerde liderlik yapabilir ya da takım arkadaşlarına rehberlik edebilirsin? Bu beceriyi hangi iş alanlarında kullanabileceğini düşünüyorsun?";
 
 var ai_25_s4u1_7_1 = "Etik ve Sosyal Sorumluluk";
-var ai_25_s4u1_7_2 = "•	AI teknolojilerini sosyal sorumluluk bilinciyle kullanarak toplumda nasıl bir etki yaratabilirsin? Bu farkındalığı okul ve kariyer hayatında nasıl kullanabilirsin?";
-var ai_25_s4u1_7_3 = "•	Yapay zekanın etik kullanımı hakkında sahip olduğun bilinçle hangi alanlarda fark yaratabilirsin? AI'nın sosyal etkilerini göz önünde bulundurarak, hangi projelerde yer almayı planlıyorsun?";
+var ai_25_s4u1_7_2 = "•	AI teknolojilerini sosyal sorumluluk bilinciyle kullanarak toplumda nasıl bir etki yaratabilirsin? Bu farkındalığı okul ve kariyer hayatında nasıl kullanabilirsin?\n\n•	Yapay zekanın etik kullanımı hakkında sahip olduğun bilinçle hangi alanlarda fark yaratabilirsin? AI'nın sosyal etkilerini göz önünde bulundurarak, hangi projelerde yer almayı planlıyorsun?";
 
 var ai_25_s4u1_8_1 = "Duygusal Zeka (EQ)";
-var ai_25_s4u1_8_2 = "• Stres yönetimi konusunda sahip olduğun yetkinliklerle yoğun ve zorlu projelerde nasıl başarılı olabilirsin? Bu beceriyi kariyer hayatında nasıl geliştirebilirsin?";
-var ai_25_s4u1_8_3 = "• Empati yeteneğinle iş arkadaşların ya da müşterilerin ihtiyaçlarını nasıl daha iyi anlayabilirsin? Bu beceriyi liderlik ya da yönetim pozisyonlarında nasıl kullanabilirsin?";
+var ai_25_s4u1_8_2 = "• Stres yönetimi konusunda sahip olduğun yetkinliklerle yoğun ve zorlu projelerde nasıl başarılı olabilirsin? Bu beceriyi kariyer hayatında nasıl geliştirebilirsin?\n\n• Empati yeteneğinle iş arkadaşların ya da müşterilerin ihtiyaçlarını nasıl daha iyi anlayabilirsin? Bu beceriyi liderlik ya da yönetim pozisyonlarında nasıl kullanabilirsin?";
 
 var ai_25_s4u1_9_1 = "Yenilikçi ve Girişimci Düşünce";
-var ai_25_s4u1_9_2 = "• Risk alma ve deney yapma konusunda ne kadar cesaretlisin? Bu cesareti okul projelerinde ya da iş hayatında nasıl fırsatlara dönüştürebilirsin?";
-var ai_25_s4u1_9_3 = "• Girişimci düşünme yeteneğinle AI çağında hangi yenilikçi iş fikirlerini hayata geçirebilirsin? Bu fikirleri gerçekleştirmek için hangi adımları atmayı düşünüyorsun?";
+var ai_25_s4u1_9_2 = "• Risk alma ve deney yapma konusunda ne kadar cesaretlisin? Bu cesareti okul projelerinde ya da iş hayatında nasıl fırsatlara dönüştürebilirsin?\n\n• Girişimci düşünme yeteneğinle AI çağında hangi yenilikçi iş fikirlerini hayata geçirebilirsin? Bu fikirleri gerçekleştirmek için hangi adımları atmayı düşünüyorsun?";
 
 //kendine sorabilirsin
 var ai_25_s4u2_1_1 = "Dijital Okuryazarlık";
-var ai_25_s4u2_1_2 = "• Hangi temel bilgisayar becerilerine sahibim ve bu becerileri daha ileriye taşımak için neler yapabilirim?";
-var ai_25_s4u2_1_3 = "• Teknolojiyi günlük yaşantımda nasıl kullanıyorum? Teknolojiyi sadece tüketici olarak mı kullanıyorum, yoksa üretici de olabiliyor muyum?";
-var ai_25_s4u2_1_4 = "• Yapay zeka hakkında neler biliyorum? AI'nın hayatımı nasıl etkilediğini anlamaya ne kadar zaman ayırdım?";
-var ai_25_s4u2_1_5 = "• Yapay zeka ve onun sunduğu fırsatlar hakkında bilgi edinmek beni heyecanlandırıyor mu? Bu alanda kendimi geliştirmek için hangi adımları atabilirim? ";
+var ai_25_s4u2_1_2 = "• Hangi temel bilgisayar becerilerine sahibim ve bu becerileri daha ileriye taşımak için neler yapabilirim?\n\n• Teknolojiyi günlük yaşantımda nasıl kullanıyorum? Teknolojiyi sadece tüketici olarak mı kullanıyorum, yoksa üretici de olabiliyor muyum?\n\n• Yapay zeka hakkında neler biliyorum? AI'nın hayatımı nasıl etkilediğini anlamaya ne kadar zaman ayırdım?\n\n• Yapay zeka ve onun sunduğu fırsatlar hakkında bilgi edinmek beni heyecanlandırıyor mu? Bu alanda kendimi geliştirmek için hangi adımları atabilirim? ";
 
 var ai_25_s4u2_2_1 = "Veri Okuryazarlığı";
-var ai_25_s4u2_2_2 = "• Bir sorunla karşılaştığımda verilerden nasıl yararlanıyorum? Verilere dayalı kararlar almak işimi nasıl kolaylaştırıyor? ";
-var ai_25_s4u2_2_3 = "• Kişisel verilerimi nasıl koruyorum? İnternette gizliliğimi sağlamak için hangi adımları atıyorum?";
-var ai_25_s4u2_2_4 = "• Çevrim içi güvenlik ve veri gizliliği konularında ne kadar bilgi sahibiyim? Güvenlik açıkları konusunda farkındalığımı nasıl artırabilirim? ";
-var ai_25_s4u2_2_5 = "• Kişisel ve başkalarına ait verileri koruma sorumluluğumun bilincinde miyim? Bu konuda geliştirmem gereken davranışlar neler? ";
+var ai_25_s4u2_2_2 = "• Bir sorunla karşılaştığımda verilerden nasıl yararlanıyorum? Verilere dayalı kararlar almak işimi nasıl kolaylaştırıyor?\n\n• Kişisel verilerimi nasıl koruyorum? İnternette gizliliğimi sağlamak için hangi adımları atıyorum?\n\n• Çevrim içi güvenlik ve veri gizliliği konularında ne kadar bilgi sahibiyim? Güvenlik açıkları konusunda farkındalığımı nasıl artırabilirim?\n\n• Kişisel ve başkalarına ait verileri koruma sorumluluğumun bilincinde miyim? Bu konuda geliştirmem gereken davranışlar neler? ";
 
 var ai_25_s4u2_3_1 = "Kodlama ve Programlama";
-var ai_25_s4u2_3_2 = "• Programlama dilleri öğrenmeye olan ilgim ne düzeyde? Yeni bir dil öğrenmeyi düşündüğümde nereden başlamalıyım? ";
-var ai_25_s4u2_3_3 = "• Hangi alanlarda programlama bilgimi daha da geliştirebilirim? Mevcut projelerimde daha etkin olmak için hangi dilleri öğrenmeliyim?";
-var ai_25_s4u2_3_4 = "• Problemleri çözmek için hangi adımları izliyorum? Mantıksal düşünme becerilerim ne kadar gelişmiş?";
-var ai_25_s4u2_3_5 = "• Algoritmik düşünme yeteneğimi geliştirmek için hangi araçlardan faydalanabilirim? Bu beceriyi iş veya eğitim hayatımda nasıl daha iyi kullanabilirim? ";
+var ai_25_s4u2_3_2 = "• Programlama dilleri öğrenmeye olan ilgim ne düzeyde? Yeni bir dil öğrenmeyi düşündüğümde nereden başlamalıyım?\n\n• Hangi alanlarda programlama bilgimi daha da geliştirebilirim? Mevcut projelerimde daha etkin olmak için hangi dilleri öğrenmeliyim?\n\n• Problemleri çözmek için hangi adımları izliyorum? Mantıksal düşünme becerilerim ne kadar gelişmiş?\n\n• Algoritmik düşünme yeteneğimi geliştirmek için hangi araçlardan faydalanabilirim? Bu beceriyi iş veya eğitim hayatımda nasıl daha iyi kullanabilirim? ";
 
 var ai_25_s4u2_4_1 = "Eleştirel Düşünme ve Problem Çözme ";
-var ai_25_s4u2_4_2 = "• Karar verirken olaylara nasıl yaklaşırım? Farklı seçenekleri değerlendirme konusunda ne kadar analitik düşünüyorum? ";
-var ai_25_s4u2_4_3 = "• Analitik düşünme yeteneğimi geliştirmek için hangi kaynaklardan faydalanıyorum? Zorlu problemlere karşı nasıl bir strateji izliyorum? ";
-var ai_25_s4u2_4_4 = "• Yaratıcı düşünceyi nasıl geliştirebilirim? Farklı perspektiflerden bakmayı nasıl öğrenebilirim?";
-var ai_25_s4u2_4_5 = "• Teknoloji ve AI kullanarak daha yenilikçi çözümler üretme konusunda ne kadar isteklilik gösteriyorum?";
+var ai_25_s4u2_4_2 = "• Karar verirken olaylara nasıl yaklaşırım? Farklı seçenekleri değerlendirme konusunda ne kadar analitik düşünüyorum?\n\n• Analitik düşünme yeteneğimi geliştirmek için hangi kaynaklardan faydalanıyorum? Zorlu problemlere karşı nasıl bir strateji izliyorum?\n\n• Yaratıcı düşünceyi nasıl geliştirebilirim? Farklı perspektiflerden bakmayı nasıl öğrenebilirim?\n\n• Teknoloji ve AI kullanarak daha yenilikçi çözümler üretme konusunda ne kadar isteklilik gösteriyorum?";
 
 var ai_25_s4u2_5_1 = "Uyarlanabilirlik ve Sürekli Öğrenme";
-var ai_25_s4u2_5_2 = "• Yeni teknolojilere ve değişen iş dünyasına ne kadar hızlı uyum sağlayabiliyorum? Değişikliklere karşı nasıl tepki veriyorum?";
-var ai_25_s4u2_5_3 = "• Yapay zekanın hızlı gelişimi karşısında nasıl esnek olabilirim? İş hayatımda daha uyumlu olmak için hangi adımları atmalıyım?";
-var ai_25_s4u2_5_4 = "• Kendimi geliştirmek için ne kadar istekliyim? Teknolojideki yenilikleri takip etme konusunda ne kadar aktifim? ";
-var ai_25_s4u2_5_5 = "• Hangi alanlarda kendimi daha fazla geliştirmem gerektiğini düşünüyorum? AI dünyasında öğrenmeye nasıl devam edebilirim? ";
+var ai_25_s4u2_5_2 = "• Yeni teknolojilere ve değişen iş dünyasına ne kadar hızlı uyum sağlayabiliyorum? Değişikliklere karşı nasıl tepki veriyorum?\n\n• Yapay zekanın hızlı gelişimi karşısında nasıl esnek olabilirim? İş hayatımda daha uyumlu olmak için hangi adımları atmalıyım?\n\n• Kendimi geliştirmek için ne kadar istekliyim? Teknolojideki yenilikleri takip etme konusunda ne kadar aktifim?\n\n• Hangi alanlarda kendimi daha fazla geliştirmem gerektiğini düşünüyorum? AI dünyasında öğrenmeye nasıl devam edebilirim? ";
 
 var ai_25_s4u2_6_1 = "İletişim ve İşbirliği";
-var ai_25_s4u2_6_2 = "• Teknik konuları başkalarına açıklarken ne kadar başarılıyım? Kendi bilgimi sade ve anlaşılır hale getirme konusunda ne kadar becerikliyim? ";
-var ai_25_s4u2_6_3 = "• Teknik bilgileri ekip arkadaşlarıma veya müşterilere daha net ifade edebilmek için hangi becerileri geliştirmeliyim?";
-var ai_25_s4u2_6_4 = "• Takım içinde fikirlerimi paylaşırken ne kadar rahatım? Grup dinamiklerini anlamak ve katkı sağlamak için hangi becerilerimi geliştirmeliyim?";
-var ai_25_s4u2_6_5 = "• AI projelerinde ekip üyeleriyle nasıl daha iyi iş birliği yapabilirim? Takım arkadaşlarımın güçlü yanlarını nasıl daha etkili kullanabilirim?";
+var ai_25_s4u2_6_2 = "• Teknik konuları başkalarına açıklarken ne kadar başarılıyım? Kendi bilgimi sade ve anlaşılır hale getirme konusunda ne kadar becerikliyim?\n\n• Teknik bilgileri ekip arkadaşlarıma veya müşterilere daha net ifade edebilmek için hangi becerileri geliştirmeliyim?\n\n• Takım içinde fikirlerimi paylaşırken ne kadar rahatım? Grup dinamiklerini anlamak ve katkı sağlamak için hangi becerilerimi geliştirmeliyim?\n\n• AI projelerinde ekip üyeleriyle nasıl daha iyi iş birliği yapabilirim? Takım arkadaşlarımın güçlü yanlarını nasıl daha etkili kullanabilirim?";
 
 var ai_25_s4u2_7_1 = "Etik ve Sosyal Sorumluluk";
-var ai_25_s4u2_7_2 = "• AI kullanırken etik sorumluluklarım nelerdir? Bu sorumlulukları daha iyi yönetmek için neler yapmalıyım?";
-var ai_25_s4u2_7_3 = "• AI projelerinde etik kararlar alırken, topluma ve çevreme nasıl bir fayda sağlayabilirim? ";
-var ai_25_s4u2_7_4 = "• Yapay zeka projelerinde sosyal sorumluluk bilincimi nasıl geliştirebilirim? Toplumun iyiliği için hangi AI projelerine katkı sağlayabilirim?";
-var ai_25_s4u2_7_5 = "• AI teknolojilerinin getirdiği fırsatları toplumsal faydaya nasıl dönüştürebilirim?";
+var ai_25_s4u2_7_2 = "• AI kullanırken etik sorumluluklarım nelerdir? Bu sorumlulukları daha iyi yönetmek için neler yapmalıyım?\n\n• AI projelerinde etik kararlar alırken, topluma ve çevreme nasıl bir fayda sağlayabilirim?\n\n• Yapay zeka projelerinde sosyal sorumluluk bilincimi nasıl geliştirebilirim? Toplumun iyiliği için hangi AI projelerine katkı sağlayabilirim?\n\n• AI teknolojilerinin getirdiği fırsatları toplumsal faydaya nasıl dönüştürebilirim?";
 
 var ai_25_s4u2_8_1 = "Duygusal Zeka (EQ)";
-var ai_25_s4u2_8_2 = "• Yapay zeka ve teknolojiyle çalışırken insan ilişkilerime ne kadar önem veriyorum? Empati yeteneğimi nasıl geliştirebilirim?";
-var ai_25_s4u2_8_3 = "• Teknoloji projelerinde duygusal zekamı ne kadar kullanıyorum? İş yerinde daha empatik olabilmek için neler yapabilirim?";
-var ai_25_s4u2_8_4 = "• AI ve dijital dünyada sürekli öğrenmenin getirdiği stresle nasıl başa çıkıyorum? Stresle baş etme stratejilerim neler?";
-var ai_25_s4u2_8_5 = "• Zorlayıcı projelerde kendimi nasıl rahatlatıyorum? Stres yönetimi konusunda hangi becerilerimi geliştirmeliyim? ";
+var ai_25_s4u2_8_2 = "• Yapay zeka ve teknolojiyle çalışırken insan ilişkilerime ne kadar önem veriyorum? Empati yeteneğimi nasıl geliştirebilirim?\n\n• Teknoloji projelerinde duygusal zekamı ne kadar kullanıyorum? İş yerinde daha empatik olabilmek için neler yapabilirim?\n\n• AI ve dijital dünyada sürekli öğrenmenin getirdiği stresle nasıl başa çıkıyorum? Stresle baş etme stratejilerim neler?\n\n• Zorlayıcı projelerde kendimi nasıl rahatlatıyorum? Stres yönetimi konusunda hangi becerilerimi geliştirmeliyim? ";
 
 var ai_25_s4u2_9_1 = "Yenilikçi ve Girişimci Düşünce";
-var ai_25_s4u2_9_2 = "• Yapay zeka ile ilgili yenilikçi iş fikirleri geliştirme konusunda ne kadar istekliyim? Yeni projeler başlatmak için hangi adımları atıyorum? ";
-var ai_25_s4u2_9_3 = "• Girişimcilik becerilerimi geliştirmek için hangi fırsatları değerlendiriyorum? AI projelerinde hangi iş fırsatlarını görebiliyorum?";
-var ai_25_s4u2_9_4 = "• Deneysel düşünce yapısına ne kadar açığım? Yeni fikirleri test etmek için hangi stratejileri uyguluyorum? ";
-var ai_25_s4u2_9_5 = "• Belirsizliklerle başa çıkarken nasıl kararlar alıyorum? Risk almanın getirdiği fırsatları nasıl değerlendirebilirim?";
+var ai_25_s4u2_9_2 = "• Yapay zeka ile ilgili yenilikçi iş fikirleri geliştirme konusunda ne kadar istekliyim? Yeni projeler başlatmak için hangi adımları atıyorum?\n\n• Girişimcilik becerilerimi geliştirmek için hangi fırsatları değerlendiriyorum? AI projelerinde hangi iş fırsatlarını görebiliyorum?\n\n• Deneysel düşünce yapısına ne kadar açığım? Yeni fikirleri test etmek için hangi stratejileri uyguluyorum?\n\n• Belirsizliklerle başa çıkarken nasıl kararlar alıyorum? Risk almanın getirdiği fırsatları nasıl değerlendirebilirim?";
 
 //Yapay Zeka Çağı Yetkinliklerin İngilizce
 var ai_25_eng_s3_1_1 = "Digital Literacy";
@@ -2788,95 +2735,65 @@ var teamwork_best_10_2 = "Vizyon, iletişim ve başkalarına harekete geçmeleri
 
 //gücünü kullan
 var teamwork_s3u1_1_1 = "Aktif Dinleme ve Empati";
-var teamwork_s3u1_1_2 = "• Müşteri ihtiyaçlarını daha iyi anlamak ve çözümleri daha etkili bir şekilde uyarlamak için güçlü dinleme becerilerini nasıl kullanabilirsin? ";
-var teamwork_s3u1_1_3 = "• Empati yeteneğin, daha iyi sonuçlar elde etmek için hem müşterilerle hem de ekip üyeleriyle daha güçlü ilişkiler geliştirmene nasıl yardımcı olabilir? ";
+var teamwork_s3u1_1_2 = "• Müşteri ihtiyaçlarını daha iyi anlamak ve çözümleri daha etkili bir şekilde uyarlamak için güçlü dinleme becerilerini nasıl kullanabilirsin?\n\n• Empati yeteneğin, daha iyi sonuçlar elde etmek için hem müşterilerle hem de ekip üyeleriyle daha güçlü ilişkiler geliştirmene nasıl yardımcı olabilir? ";
 
 var teamwork_s3u1_2_1 = "Efektif İletişim";
-var teamwork_s3u1_2_2 = "• Ekibinin içinde eyleme ve uyuma ilham vermek için iletişimininin netliğini nasıl daha da artırabilirsin? ";
-var teamwork_s3u1_2_3 = "• Müzakerelerde veya zor paydaşlarla uğraşırken daha etkili olmak için iletişim tarzını nasıl uyarlayabilirsin?";
+var teamwork_s3u1_2_2 = "• Ekibinin içinde eyleme ve uyuma ilham vermek için iletişimininin netliğini nasıl daha da artırabilirsin?\n\n• Müzakerelerde veya zor paydaşlarla uğraşırken daha etkili olmak için iletişim tarzını nasıl uyarlayabilirsin?";
 
 var teamwork_s3u1_3_1 = "İşbirliği";
-var teamwork_s3u1_3_2 = "• İşbirlikçi ekip çalışması yoluyla daha yaratıcı problem çözmeyi teşvik etmek için hangi adımları atabilirsin? ";
-var teamwork_s3u1_3_3 = "• İşbirliği becerilerini işlevler arası projelere nasıl taşıyabilir ve tüm ekip üyelerinin duyulduğunu hissetmelerini ve etkili bir şekilde katkıda bulunmalarını nasıl sağlayabilirsin? ";
+var teamwork_s3u1_3_2 = "• İşbirlikçi ekip çalışması yoluyla daha yaratıcı problem çözmeyi teşvik etmek için hangi adımları atabilirsin?\n\n• İşbirliği becerilerini işlevler arası projelere nasıl taşıyabilir ve tüm ekip üyelerinin duyulduğunu hissetmelerini ve etkili bir şekilde katkıda bulunmalarını nasıl sağlayabilirsin? ";
 
 var teamwork_s3u1_4_1 = "Uyumluluk";
-var teamwork_s3u1_4_2 = "• Pazardaki veya endüstri trendlerindeki değişikliklerden daha iyi yararlanmak için uyumluluğunu nasıl kullnabilirsin? ";
-var teamwork_s3u1_4_3 = "• Ekip süreçlerini iyileştirmek veya ekibe geçişlerde daha sorunsuz bir şekilde liderlik etmek için esnekliğini hangi yollarla kullanabilirsin? ";
+var teamwork_s3u1_4_2 = "• Pazardaki veya endüstri trendlerindeki değişikliklerden daha iyi yararlanmak için uyumluluğunu nasıl kullnabilirsin?\n\n• Ekip süreçlerini iyileştirmek veya ekibe geçişlerde daha sorunsuz bir şekilde liderlik etmek için esnekliğini hangi yollarla kullanabilirsin? ";
 
 var teamwork_s3u1_5_1 = "Çatışma Çözümü";
-var teamwork_s3u1_5_2 = "• Çatışma çözme becerilerin, ekip dinamiklerini güçlendirecek ve üretkenliği artıracak şekilde anlaşmazlıkları ele almak için nasıl kullanılabilir? ";
-var teamwork_s3u1_5_3 = "• Uzun vadeli iş ilişkilerinin bozulmadan kalmasını sağlamak için müşteriler veya ortaklarla olan çatışmalarda nasıl arabuluculuk yapabilirsin? ";
+var teamwork_s3u1_5_2 = "• Çatışma çözme becerilerin, ekip dinamiklerini güçlendirecek ve üretkenliği artıracak şekilde anlaşmazlıkları ele almak için nasıl kullanılabilir?\n\n• Uzun vadeli iş ilişkilerinin bozulmadan kalmasını sağlamak için müşteriler veya ortaklarla olan çatışmalarda nasıl arabuluculuk yapabilirsin? ";
 
 var teamwork_s3u1_6_1 = "Girişim";
-var teamwork_s3u1_6_2 = "• İşletmen için büyüme fırsatlarını veya yeni pazarları belirleme konusunda nasıl daha fazla inisiyatif alabilirsin? ";
-var teamwork_s3u1_6_3 = "• Ekibindeki diğer kişileri proaktif olma ve projeleri sahiplenme konusunda liderliğini takip etmeye nasıl teşvik edebilirsin?";
+var teamwork_s3u1_6_2 = "• İşletmen için büyüme fırsatlarını veya yeni pazarları belirleme konusunda nasıl daha fazla inisiyatif alabilirsin?\n\n• Ekibindeki diğer kişileri proaktif olma ve projeleri sahiplenme konusunda liderliğini takip etmeye nasıl teşvik edebilirsin?";
 
 var teamwork_s3u1_7_1 = "Geri Bildirim";
-var teamwork_s3u1_7_2 = "• Daha da yüksek performans elde etmek için geri bildirimi hem kişisel olarak hem de ekibin için sürekli iyileştirme aracı olarak nasıl kullanabilirsin? ";
-var teamwork_s3u1_7_3 = "• Ekibinizniçinde hesap verebilirliği teşvik eden ve daha iyi sonuçlar elde edilmesini sağlayan bir geri bildirim kültürünü nasıl oluşturabilirsin? ";
+var teamwork_s3u1_7_2 = "• Daha da yüksek performans elde etmek için geri bildirimi hem kişisel olarak hem de ekibin için sürekli iyileştirme aracı olarak nasıl kullanabilirsin?\n\n• Ekibinizniçinde hesap verebilirliği teşvik eden ve daha iyi sonuçlar elde edilmesini sağlayan bir geri bildirim kültürünü nasıl oluşturabilirsin? ";
 
 var teamwork_s3u1_8_1 = "Takım Oluşturma";
-var teamwork_s3u1_8_2 = "• Ekibinin hedeflerini şirketin uzun vadeli hedefleriyle uyumlu hale getirmek için ekip oluşturma gücünüzden nasıl yararlanabilirsin? ";
-var teamwork_s3u1_8_3 = "• Ekibinin içinde daha yüksek düzeyde işbirliği ve başarıya yol açan daha güçlü bağlantılar kurmak için ne gibi eylemler gerçekleştirebilirsin?";
+var teamwork_s3u1_8_2 = "• Ekibinin hedeflerini şirketin uzun vadeli hedefleriyle uyumlu hale getirmek için ekip oluşturma gücünüzden nasıl yararlanabilirsin?\n\n• Ekibinin içinde daha yüksek düzeyde işbirliği ve başarıya yol açan daha güçlü bağlantılar kurmak için ne gibi eylemler gerçekleştirebilirsin?";
 
 var teamwork_s3u1_9_1 = "Mesleki Gelişim";
-var teamwork_s3u1_9_2 = "• Kurumunda bir öğrenme ve yenilik kültürünü teşvik etmek için mesleki gelişime olan bağlılığını nasıl kullanabilirsin? ";
-var teamwork_s3u1_9_3 = "• Kendi profesyonel gelişiminin, ekibinizdeki diğer kişilere hem kendilerine hem de işletmeye fayda sağlayan gelişmeleri sürdürmeleri için nasıl ilham verebilir? ";
+var teamwork_s3u1_9_2 = "• Kurumunda bir öğrenme ve yenilik kültürünü teşvik etmek için mesleki gelişime olan bağlılığını nasıl kullanabilirsin?\n\n• Kendi profesyonel gelişiminin, ekibinizdeki diğer kişilere hem kendilerine hem de işletmeye fayda sağlayan gelişmeleri sürdürmeleri için nasıl ilham verebilir? ";
 
 var teamwork_s3u1_10_1 = "Liderlik";
-var teamwork_s3u1_10_2 = "• Liderlik gücün, ekibin satış veya müşteri hizmetleri hedeflerini aşmasına nasıl yardımcı olabilir? ";
-var teamwork_s3u1_10_3 = "• Sürekli olarak güçlü sonuçlar elde eden yüksek performanslı bir kültür oluşturmak için liderliğini nasıl daha fazla kullanabilirsin? ";
+var teamwork_s3u1_10_2 = "• Liderlik gücün, ekibin satış veya müşteri hizmetleri hedeflerini aşmasına nasıl yardımcı olabilir?\n\n• Sürekli olarak güçlü sonuçlar elde eden yüksek performanslı bir kültür oluşturmak için liderliğini nasıl daha fazla kullanabilirsin? ";
 
 //kendine sorabilirsin
 var teamwork_s3u2_1_1 = "Aktif Dinleme ve Empati";
-var teamwork_s3u2_1_2 = "• Ne sıklıkla başkalarının konuştuklarında duygularını ve bakış açılarını anlamaya gerçekten odaklanıyorum? ";
-var teamwork_s3u2_1_3 = "• Hangi durumlarda konuşmalar sırasında dikkatim dağılıyor veya sabırsız oluyorum? ";
-var teamwork_s3u2_1_4 = "• Aynı fikirde olmadığımda bile empati ve şefkatle yanıt verme yeteneğimi nasıl geliştirebilirim? ";
+var teamwork_s3u2_1_2 = "• Ne sıklıkla başkalarının konuştuklarında duygularını ve bakış açılarını anlamaya gerçekten odaklanıyorum?\n\n• Hangi durumlarda konuşmalar sırasında dikkatim dağılıyor veya sabırsız oluyorum?\n\n• Aynı fikirde olmadığımda bile empati ve şefkatle yanıt verme yeteneğimi nasıl geliştirebilirim? ";
 
 var teamwork_s3u2_2_1 = "Etkili İletişim";
-var teamwork_s3u2_2_2 = "• İletişim tarzımı kiminle konuştuğuma göre uyarlıyor muyum ve eğer değilse, nasıl geliştirebilirim? ";
-var teamwork_s3u2_2_3 = "• Mesajımın anlaşıldığından emin olmak için ne sıklıkla açıklama istiyorum ve bunu yapmamı engelleyen nedir? ";
-var teamwork_s3u2_2_4 = "• Hem yazılı hem de sözlü olarak daha açık, özlü ve etkili iletişim kurmak için ne yapabilirim? ";
+var teamwork_s3u2_2_2 = "• İletişim tarzımı kiminle konuştuğuma göre uyarlıyor muyum ve eğer değilse, nasıl geliştirebilirim?\n\n• Mesajımın anlaşıldığından emin olmak için ne sıklıkla açıklama istiyorum ve bunu yapmamı engelleyen nedir?\n\n• Hem yazılı hem de sözlü olarak daha açık, özlü ve etkili iletişim kurmak için ne yapabilirim? ";
 
 var teamwork_s3u2_3_1 = "İşbirliği";
-var teamwork_s3u2_3_2 = "• Karar vermeden veya görevlerde ilerlemeden önce aktif olarak başkalarından girdi ve fikir alıyor muyum? ";
-var teamwork_s3u2_3_3 = "• Kendi katkılarımı başkalarını düşüncelerini ve fikirlerini paylaşmaya teşvik etmekle ne kadar iyi dengeleyebilirim? ";
-var teamwork_s3u2_3_3 = "• Ekibim içinde daha güçlü işbirlikçi ilişkiler kurmak için hangi adımları atabilirim? ";
+var teamwork_s3u2_3_2 = "• Karar vermeden veya görevlerde ilerlemeden önce aktif olarak başkalarından girdi ve fikir alıyor muyum?\n\n• Kendi katkılarımı başkalarını düşüncelerini ve fikirlerini paylaşmaya teşvik etmekle ne kadar iyi dengeleyebilirim?\n\n• Ekibim içinde daha güçlü işbirlikçi ilişkiler kurmak için hangi adımları atabilirim? ";
 
 var teamwork_s3u2_4_1 = "Uyumluluk";
-var teamwork_s3u2_4_2 = "• Beklenmedik değişikliklere veya zorluklara genellikle nasıl yanıt veririm ve bu durumları daha olumlu bir şekilde kucaklamak için ne yapabilirim? ";
-var teamwork_s3u2_4_3 = "• Değişimle karşı karşıya kaldığımda, bunalmış veya dirençli olmak yerine nasıl odaklanmış ve üretken kalabilirim? ";
-var teamwork_s3u2_4_4 = "• Farklı çalışma ortamlarında esnekliğimi artırmak için hangi yeni beceriler veya tutumlar geliştirebilirim? ";
+var teamwork_s3u2_4_2 = "• Beklenmedik değişikliklere veya zorluklara genellikle nasıl yanıt veririm ve bu durumları daha olumlu bir şekilde kucaklamak için ne yapabilirim?\n\n• Değişimle karşı karşıya kaldığımda, bunalmış veya dirençli olmak yerine nasıl odaklanmış ve üretken kalabilirim?\n\n• Farklı çalışma ortamlarında esnekliğimi artırmak için hangi yeni beceriler veya tutumlar geliştirebilirim? ";
 
 var teamwork_s3u2_5_1 = "Çatışma Çözümü";
-var teamwork_s3u2_5_2 = "• Çatışmalar ortaya çıktığında, soruna mı yoksa ilgili kişilere mi odaklanıyorum ve ikisini nasıl daha iyi ayırabilirim? ";
-var teamwork_s3u2_5_3 = "• Gergin durumlarda ne kadar sakin ve sakin kalıyorum ve bunu geliştirmeme hangi teknikler yardımcı olabilir? ";
-var teamwork_s3u2_5_4 = "• Çatışma çözümüne hem kendi bakış açıma hem de başkalarının bakış açısına saygı duyacak şekilde nasıl daha iyi yaklaşabilirim?";
+var teamwork_s3u2_5_2 = "• Çatışmalar ortaya çıktığında, soruna mı yoksa ilgili kişilere mi odaklanıyorum ve ikisini nasıl daha iyi ayırabilirim?\n\n• Gergin durumlarda ne kadar sakin ve sakin kalıyorum ve bunu geliştirmeme hangi teknikler yardımcı olabilir?\n\n• Çatışma çözümüne hem kendi bakış açıma hem de başkalarının bakış açısına saygı duyacak şekilde nasıl daha iyi yaklaşabilirim?";
 
 var teamwork_s3u2_6_1 = "Girişim";
-var teamwork_s3u2_6_2 = "• İyileştirme fırsatlarını belirlemede veya işte yeni zorlukların üstesinden gelmede ne kadar proaktifim?";
-var teamwork_s3u2_6_3 = "• Ne zaman inisiyatif almaktan çekiniyorum ve hangi korkular veya engeller beni engelliyor? ";
-var teamwork_s3u2_6_4 = "• Risk olsa bile yeni fikirler veya çözümler önerme konusunda kendime daha fazla güvenmek için ne yapabilirim?";
+var teamwork_s3u2_6_2 = "• İyileştirme fırsatlarını belirlemede veya işte yeni zorlukların üstesinden gelmede ne kadar proaktifim?\n\n• Ne zaman inisiyatif almaktan çekiniyorum ve hangi korkular veya engeller beni engelliyor?\n\n• Risk olsa bile yeni fikirler veya çözümler önerme konusunda kendime daha fazla güvenmek için ne yapabilirim?";
 
 var teamwork_s3u2_7_1 = "Geri Bildirim";
-var teamwork_s3u2_7_2 = "• Geri bildirim aldığımda nasıl tepki veririm ve yapıcı bir şekilde yanıt verdiğimden nasıl emin olabilirim?";
-var teamwork_s3u2_7_3 = "• Başkalarına geri bildirim verme konusunda tutarlı mıyım ve bunun hem zamanında hem de yardımcı olduğundan nasıl emin olabilirim? ";
-var teamwork_s3u2_7_4 = "• Başkalarından gelen geri bildirimlere daha açık olmak ve bunu kişisel ve profesyonel gelişim için bir araç olarak kullanmak için hangi adımları atabilirim?";
+var teamwork_s3u2_7_2 = "• Geri bildirim aldığımda nasıl tepki veririm ve yapıcı bir şekilde yanıt verdiğimden nasıl emin olabilirim?\n\n• Başkalarına geri bildirim verme konusunda tutarlı mıyım ve bunun hem zamanında hem de yardımcı olduğundan nasıl emin olabilirim?\n\n• Başkalarından gelen geri bildirimlere daha açık olmak ve bunu kişisel ve profesyonel gelişim için bir araç olarak kullanmak için hangi adımları atabilirim?";
 
 var teamwork_s3u2_8_1 = "Takım Oluşturma";
-var teamwork_s3u2_8_2 = "• Ekibim içinde olumlu ilişkiler geliştirmek için ne yapmalıyım ve nereleri geliştirebilirim?";
-var teamwork_s3u2_8_3 = "• Daha kapsayıcı ve destekleyici bir ekip kültürü oluşturmaya nasıl yardımcı olabilirim? ";
-var teamwork_s3u2_8_4 = "• Takım arkadaşlarımın güçlü ve zayıf yönlerini anlamak için çaba sarf ediyor muyum ve onları nasıl daha iyi destekleyebilirim? ";
+var teamwork_s3u2_8_2 = "• Ekibim içinde olumlu ilişkiler geliştirmek için ne yapmalıyım ve nereleri geliştirebilirim?\n\n• Daha kapsayıcı ve destekleyici bir ekip kültürü oluşturmaya nasıl yardımcı olabilirim?\n\n• Takım arkadaşlarımın güçlü ve zayıf yönlerini anlamak için çaba sarf ediyor muyum ve onları nasıl daha iyi destekleyebilirim? ";
 
 var teamwork_s3u2_9_1 = "Mesleki Gelişim";
-var teamwork_s3u2_9_2 = "• Aktif olarak yeni beceriler geliştirmek için fırsatlar arıyor muyum ve eğer değilse, beni engelleyen nedir?";
-var teamwork_s3u2_9_3 = "• Mesleki gelişimimi mevcut iş yükümle nasıl dengelerim ve büyümeye nasıl öncelik verebilirim?";
-var teamwork_s3u2_9_4 = "• Ekibimdeki diğer kişileri kendi gelişimlerine yatırım yapmaya teşvik etmek için ne yapabilirim?";
+var teamwork_s3u2_9_2 = "• Aktif olarak yeni beceriler geliştirmek için fırsatlar arıyor muyum ve eğer değilse, beni engelleyen nedir?\n\n• Mesleki gelişimimi mevcut iş yükümle nasıl dengelerim ve büyümeye nasıl öncelik verebilirim?\n\n• Ekibimdeki diğer kişileri kendi gelişimlerine yatırım yapmaya teşvik etmek için ne yapabilirim?";
 
 var teamwork_s3u2_10_1 = "Liderlik";
-var teamwork_s3u2_10_2 = "• Kendim ve başkaları için net hedefler ve beklentiler ne kadar iyi belirlerim ve bu alanda nasıl gelişebilirim?";
-var teamwork_s3u2_10_3 = "• Örnek olarak liderlik ediyor muyum ve başkalarına daha etkili bir şekilde ilham vermek ve motive etmek için hangi davranışları modelleyebilirim?";
-var teamwork_s3u2_10_4 = "• Daha güçlü karar verme ve delegasyon becerileri geliştirmek için hangi adımları atabilirim?";
+var teamwork_s3u2_10_2 = "• Kendim ve başkaları için net hedefler ve beklentiler ne kadar iyi belirlerim ve bu alanda nasıl gelişebilirim?\n\n• Örnek olarak liderlik ediyor muyum ve başkalarına daha etkili bir şekilde ilham vermek ve motive etmek için hangi davranışları modelleyebilirim?\n\n• Daha güçlü karar verme ve delegasyon becerileri geliştirmek için hangi adımları atabilirim?";
 
 
 //Ekip Çalışmasına Yatkınlık İngilizce
@@ -3475,26 +3392,6 @@ var decision_strategy_eng_s4_1_txt = "By adhering to this decision-making strate
       } else if (aiName == "Yenilikçi ve Girişimci Düşünce") {
         return ai_25_s4u1_9_2;
       }
-    } else if (type == "s4u1_x_3") {
-      if (aiName == "Dijital Okuryazarlık") {
-        return ai_25_s4u1_1_3;
-      } else if (aiName == "Veri Okur Yazarlığı") {
-        return ai_25_s4u1_2_3;
-      } else if (aiName == "Kodlama ve Programlama") {
-        return ai_25_s4u1_3_3;
-      } else if (aiName == "Eleştirel Düşünme ve Problem Çözme") {
-        return ai_25_s4u1_4_3;
-      } else if (aiName == "Uyarlanabilirlik ve Sürekli Öğrenme") {
-        return ai_25_s4u1_5_3;
-      } else if (aiName == "İletişim ve İşbirliği") {
-        return ai_25_s4u1_6_3;
-      } else if (aiName == "Etik ve Sosyal Sorumluluk") {
-        return ai_25_s4u1_7_3;
-      } else if (aiName == "Duygusal Zeka (EQ)") {
-        return ai_25_s4u1_8_3;
-      } else if (aiName == "Yenilikçi ve Girişimci Düşünce") {
-        return ai_25_s4u1_9_3;
-      }
     } else if (type == "s4u2_x_2") {
       if (aiName == "Dijital Okuryazarlık") {
         return ai_25_s4u2_1_2;
@@ -3514,66 +3411,6 @@ var decision_strategy_eng_s4_1_txt = "By adhering to this decision-making strate
         return ai_25_s4u2_8_2;
       } else if (aiName == "Yenilikçi ve Girişimci Düşünce") {
         return ai_25_s4u2_9_2;
-      }
-    } else if (type == "s4u2_x_3") {
-      if (aiName == "Dijital Okuryazarlık") {
-        return ai_25_s4u2_1_3;
-      } else if (aiName == "Veri Okur Yazarlığı") {
-        return ai_25_s4u2_2_3;
-      } else if (aiName == "Kodlama ve Programlama") {
-        return ai_25_s4u2_3_3;
-      } else if (aiName == "Eleştirel Düşünme ve Problem Çözme") {
-        return ai_25_s4u2_4_3;
-      } else if (aiName == "Uyarlanabilirlik ve Sürekli Öğrenme") {
-        return ai_25_s4u2_5_3;
-      } else if (aiName == "İletişim ve İşbirliği") {
-        return ai_25_s4u2_6_3;
-      } else if (aiName == "Etik ve Sosyal Sorumluluk") {
-        return ai_25_s4u2_7_3;
-      } else if (aiName == "Duygusal Zeka (EQ)") {
-        return ai_25_s4u2_8_3;
-      } else if (aiName == "Yenilikçi ve Girişimci Düşünce") {
-        return ai_25_s4u2_9_3;
-      }
-    } else if (type == "s4u2_x_4") {
-      if (aiName == "Dijital Okuryazarlık") {
-        return ai_25_s4u2_1_4;
-      } else if (aiName == "Veri Okur Yazarlığı") {
-        return ai_25_s4u2_2_4;
-      } else if (aiName == "Kodlama ve Programlama") {
-        return ai_25_s4u2_3_4;
-      } else if (aiName == "Eleştirel Düşünme ve Problem Çözme") {
-        return ai_25_s4u2_4_4;
-      } else if (aiName == "Uyarlanabilirlik ve Sürekli Öğrenme") {
-        return ai_25_s4u2_5_4;
-      } else if (aiName == "İletişim ve İşbirliği") {
-        return ai_25_s4u2_6_4;
-      } else if (aiName == "Etik ve Sosyal Sorumluluk") {
-        return ai_25_s4u2_7_4;
-      } else if (aiName == "Duygusal Zeka (EQ)") {
-        return ai_25_s4u2_8_4;
-      } else if (aiName == "Yenilikçi ve Girişimci Düşünce") {
-        return ai_25_s4u2_9_4;
-      }
-    } else if (type == "s4u2_x_5") {
-      if (aiName == "Dijital Okuryazarlık") {
-        return ai_25_s4u2_1_5;
-      } else if (aiName == "Veri Okur Yazarlığı") {
-        return ai_25_s4u2_2_5;
-      } else if (aiName == "Kodlama ve Programlama") {
-        return ai_25_s4u2_3_5;
-      } else if (aiName == "Eleştirel Düşünme ve Problem Çözme") {
-        return ai_25_s4u2_4_5;
-      } else if (aiName == "Uyarlanabilirlik ve Sürekli Öğrenme") {
-        return ai_25_s4u2_5_5;
-      } else if (aiName == "İletişim ve İşbirliği") {
-        return ai_25_s4u2_6_5;
-      } else if (aiName == "Etik ve Sosyal Sorumluluk") {
-        return ai_25_s4u2_7_5;
-      } else if (aiName == "Duygusal Zeka (EQ)") {
-        return ai_25_s4u2_8_5;
-      } else if (aiName == "Yenilikçi ve Girişimci Düşünce") {
-        return ai_25_s4u2_9_5;
       }
     }
   };
@@ -3645,28 +3482,6 @@ var decision_strategy_eng_s4_1_txt = "By adhering to this decision-making strate
       } else if (teamworkName == "Liderlik") {
         return teamwork_s3u1_10_2;
       }
-    } else if (type == "s3u1_x_2") {
-      if (teamworkName == "Aktif Dinleme ve Empati") {
-        return teamwork_s3u1_1_3;
-      } else if (teamworkName == "Efektif İletişim") {
-        return teamwork_s3u1_2_3;
-      } else if (teamworkName == "İş Birliği") {
-        return teamwork_s3u1_3_3;
-      } else if (teamworkName == "Uyumluluk") {
-        return teamwork_s3u1_4_3;
-      } else if (teamworkName == "Sorun Çözme") {
-        return teamwork_s3u1_5_3;
-      } else if (teamworkName == "Öncü Olma") {
-        return teamwork_s3u1_6_3;
-      } else if (teamworkName == "Geri Bildirim") {
-        return teamwork_s3u1_7_3;
-      } else if (teamworkName == "Takım Oyuncusu Olma") {
-        return teamwork_s3u1_8_3;
-      } else if (teamworkName == "Profesyonel Gelişim") {
-        return teamwork_s3u1_9_3;
-      } else if (teamworkName == "Liderlik") {
-        return teamwork_s3u1_10_3;
-      }
     } else if (type == "s3u2_x_1") {
       if (teamworkName == "Aktif Dinleme ve Empati") {
         return teamwork_s3u2_1_2;
@@ -3688,50 +3503,6 @@ var decision_strategy_eng_s4_1_txt = "By adhering to this decision-making strate
         return teamwork_s3u2_9_2;
       } else if (teamworkName == "Liderlik") {
         return teamwork_s3u2_10_2;
-      }
-    } else if (type == "s3u2_x_2") {
-      if (teamworkName == "Aktif Dinleme ve Empati") {
-        return teamwork_s3u2_1_3;
-      } else if (teamworkName == "Efektif İletişim") {
-        return teamwork_s3u2_2_3;
-      } else if (teamworkName == "İş Birliği") {
-        return teamwork_s3u2_3_3;
-      } else if (teamworkName == "Uyumluluk") {
-        return teamwork_s3u2_4_3;
-      } else if (teamworkName == "Sorun Çözme") {
-        return teamwork_s3u2_5_3;
-      } else if (teamworkName == "Öncü Olma") {
-        return teamwork_s3u2_6_3;
-      } else if (teamworkName == "Geri Bildirim") {
-        return teamwork_s3u2_7_3;
-      } else if (teamworkName == "Takım Oyuncusu Olma") {
-        return teamwork_s3u2_8_3;
-      } else if (teamworkName == "Profesyonel Gelişim") {
-        return teamwork_s3u2_9_3;
-      } else if (teamworkName == "Liderlik") {
-        return teamwork_s3u2_10_3;
-      }
-    } else if (type == "s3u2_x_3") {
-      if (teamworkName == "Aktif Dinleme ve Empati") {
-        return teamwork_s3u2_1_4;
-      } else if (teamworkName == "Efektif İletişim") {
-        return teamwork_s3u2_2_4;
-      } else if (teamworkName == "İş Birliği") {
-        return teamwork_s3u2_3_4;
-      } else if (teamworkName == "Uyumluluk") {
-        return teamwork_s3u2_4_4;
-      } else if (teamworkName == "Sorun Çözme") {
-        return teamwork_s3u2_5_4;
-      } else if (teamworkName == "Öncü Olma") {
-        return teamwork_s3u2_6_4;
-      } else if (teamworkName == "Geri Bildirim") {
-        return teamwork_s3u2_7_4;
-      } else if (teamworkName == "Takım Oyuncusu Olma") {
-        return teamwork_s3u2_8_4;
-      } else if (teamworkName == "Profesyonel Gelişim") {
-        return teamwork_s3u2_9_4;
-      } else if (teamworkName == "Liderlik") {
-        return teamwork_s3u2_10_4;
       }
     }
   };
@@ -4023,54 +3794,6 @@ var decision_strategy_eng_s4_1_txt = "By adhering to this decision-making strate
         return c_o_s_synthesizing_s3_1;
       } else if (worklearnData == "Quadruple Split Definition") {
         return c_o_s_subjective_s3_1;
-      }
-    } else if (type == "s3_2") {
-      if (worklearnData == "No Definition") {
-        return c_o_s_objective_s3_2;
-      } else if (worklearnData == "Single Definition") {
-        return c_o_s_individual_s3_2;
-      } else if (worklearnData == "Split Definition") {
-        return c_o_s_collaborative_s3_2;
-      } else if (worklearnData == "Triple Split Definition") {
-        return c_o_s_synthesizing_s3_2;
-      } else if (worklearnData == "Quadruple Split Definition") {
-        return c_o_s_subjective_s3_2;
-      }
-    } else if (type == "s3_3") {
-      if (worklearnData == "No Definition") {
-        return c_o_s_objective_s3_3;
-      } else if (worklearnData == "Single Definition") {
-        return c_o_s_individual_s3_3;
-      } else if (worklearnData == "Split Definition") {
-        return c_o_s_collaborative_s3_3;
-      } else if (worklearnData == "Triple Split Definition") {
-        return c_o_s_synthesizing_s3_3;
-      } else if (worklearnData == "Quadruple Split Definition") {
-        return c_o_s_subjective_s3_3;
-      }
-    } else if (type == "s3_4") {
-      if (worklearnData == "No Definition") {
-        return c_o_s_objective_s3_4;
-      } else if (worklearnData == "Single Definition") {
-        return c_o_s_individual_s3_4;
-      } else if (worklearnData == "Split Definition") {
-        return c_o_s_collaborative_s3_4;
-      } else if (worklearnData == "Triple Split Definition") {
-        return c_o_s_synthesizing_s3_4;
-      } else if (worklearnData == "Quadruple Split Definition") {
-        return c_o_s_subjective_s3_4;
-      }
-    } else if (type == "s3_5") {
-      if (worklearnData == "No Definition") {
-        return c_o_s_objective_s3_5;
-      } else if (worklearnData == "Single Definition") {
-        return c_o_s_individual_s3_5;
-      } else if (worklearnData == "Split Definition") {
-        return c_o_s_collaborative_s3_5;
-      } else if (worklearnData == "Triple Split Definition") {
-        return c_o_s_synthesizing_s3_5;
-      } else if (worklearnData == "Quadruple Split Definition") {
-        return c_o_s_subjective_s3_5;
       }
     }
   };
@@ -6157,15 +5880,10 @@ var decision_strategy_eng_s4_1_txt = "By adhering to this decision-making strate
   
     P13A1 : ai(sortedaiData[0].name, 25, "name"),
     P13A2 : ai(sortedaiData[0].name, 25, "s4u1_x_2"),
-    P13A3 : ai(sortedaiData[0].name, 25, "s4u1_x_3"),
-    P13A4 : ai(sortedaiData[1].name, 25, "name"),
-    P13A5 : ai(sortedaiData[1].name, 25, "s4u1_x_2"),
-    P13A6 : ai(sortedaiData[1].name, 25, "s4u1_x_3"),
-    P13A7 : ai(sortedaiData[sortedaiData.length - 1].name, 25, "name"),
-    P13A8 : ai(sortedaiData[0].name, 25, "s4u2_x_2"),
-    P13A9 : ai(sortedaiData[0].name, 25, "s4u2_x_3"),
-    P13A10 : ai(sortedaiData[0].name, 25, "s4u2_x_4"),
-    P13A11 : ai(sortedaiData[0].name, 25, "s4u2_x_5"),
+    P13A3 : ai(sortedaiData[1].name, 25, "name"),
+    P13A4 : ai(sortedaiData[1].name, 25, "s4u1_x_2"),
+    P13A5 : ai(sortedaiData[sortedaiData.length - 1].name, 25, "name"),
+    P13A6 : ai(sortedaiData[0].name, 25, "s4u2_x_2"),
 
     P14A1 : "chart", // Ekip Çalışmasına Yatkınlık -- en iyi oldukların
   
@@ -6180,14 +5898,10 @@ var decision_strategy_eng_s4_1_txt = "By adhering to this decision-making strate
     
     P16A1 : teamwork(sortedTeamWorkData[0].name, 25, "name"), // Ekip Çalımasına Yatkınlık Kendini Değerlendirme Gücünü kullan
     P16A2 : teamwork(sortedTeamWorkData[0].name, 25, "s3u1_x_1"),
-    P16A3 : teamwork(sortedTeamWorkData[0].name, 25, "s3u1_x_2"),
-    P16A4 : teamwork(sortedTeamWorkData[1].name, 25, "name"),
-    P16A5 : teamwork(sortedTeamWorkData[1].name, 25, "s3u1_x_1"),
-    P16A6 : teamwork(sortedTeamWorkData[1].name, 25, "s3u1_x_2"),
-    P16A7 : teamwork(sortedTeamWorkData[sortedTeamWorkData.length - 1].name, 25, "name"),
-    P16A8 : teamwork(sortedTeamWorkData[sortedTeamWorkData.length - 1].name, 25, "s3u2_x_1",),
-    P16A9 : teamwork(sortedTeamWorkData[sortedTeamWorkData.length - 1].name, 25, "s3u2_x_2",),
-    P16A10 : teamwork(sortedTeamWorkData[sortedTeamWorkData.length - 1].name,25, "s3u2_x_3",),
+    P16A3 : teamwork(sortedTeamWorkData[1].name, 25, "name"),
+    P16A4 : teamwork(sortedTeamWorkData[1].name, 25, "s3u1_x_1"),
+    P16A5 : teamwork(sortedTeamWorkData[sortedTeamWorkData.length - 1].name, 25, "name"),
+    P16A6 : teamwork(sortedTeamWorkData[sortedTeamWorkData.length - 1].name, 25, "s3u2_x_1",),
     
     P17A1 : lifestyle(lifestyleData[0], 25, "name"), // Yaşamda İlerleme Tarzın
     P17A2 : lifestyle(lifestyleData[0], 25, "p1"),
@@ -6223,10 +5937,6 @@ var decision_strategy_eng_s4_1_txt = "By adhering to this decision-making strate
     
     P25A1 : worklearnstyle(worklearnData[0], 25, "name"), // Çalışma ve Öğrenme Stilin Kendini Değerlendirme
     P25A2 : worklearnstyle(worklearnData[0], 25, "s3_1"),
-    P25A3 : worklearnstyle(worklearnData[0], 25, "s3_2"),
-    P25A4 : worklearnstyle(worklearnData[0], 25, "s3_3"),
-    P25A5 : worklearnstyle(worklearnData[0], 25, "s3_4"),
-    P25A6 : worklearnstyle(worklearnData[0], 25, "s3_5"),
     
     P27A1 : is_y_r(is_y_rData[0], 25, "s2_1"), // İş Yaşamında Rolün
     P27A2 : is_y_r(is_y_rData[0], 25, "s2_1_1"),
@@ -6309,12 +6019,6 @@ var decision_strategy_eng_s4_1_txt = "By adhering to this decision-making strate
     P13A4: allVariables.P13A4,
     P13A5: allVariables.P13A5,
     P13A6: allVariables.P13A6,
-    P13A7: allVariables.P13A7,
-    P13A8: allVariables.P13A8,
-    P13A9: allVariables.P13A9,
-    P13A10: allVariables.P13A10,
-    P13A11: allVariables.P13A11,
-
     P14A1: allVariables.P14A1, // Ekip Çalışmasına Yatkınlık -- en iyi oldukların
     P15A1: allVariables.P15A1,
     P15A2: allVariables.P15A2,
@@ -6330,10 +6034,6 @@ var decision_strategy_eng_s4_1_txt = "By adhering to this decision-making strate
     P16A4: allVariables.P16A4,
     P16A5: allVariables.P16A5, // Kendine sorabilirsin
     P16A6: allVariables.P16A6,
-    P16A7: allVariables.P16A7,
-    P16A8: allVariables.P16A8,
-    P16A9: allVariables.P16A9,
-    P16A10: allVariables.P16A10,
     P17A1: allVariables.P17A1, // Yaşamda İlerleme Tarzın
     P17A2: allVariables.P17A2,
     P17A3: allVariables.P17A3,
@@ -6361,10 +6061,6 @@ var decision_strategy_eng_s4_1_txt = "By adhering to this decision-making strate
     P24A2: allVariables.P24A2,
     P25A1: allVariables.P25A1, // Çalışma ve Öğrenme Stilin Kendini Değerlendirme
     P25A2: allVariables.P25A2,
-    P25A3: allVariables.P25A3,
-    P25A4: allVariables.P25A4,
-    P25A5: allVariables.P25A5,
-    P25A6: allVariables.P25A6,
     P27A1: allVariables.P27A1, // İş Yaşamında Rolün
     P27A2: allVariables.P27A2,
     P27A3: allVariables.P27A3,
@@ -8145,7 +7841,7 @@ var decision_strategy_eng_s4_1_txt = "By adhering to this decision-making strate
 
 
 
-  } else if (usageGate.length === 12) {
+  } else if (usageGate.length >= 12) {
 
     allVariables,
 
