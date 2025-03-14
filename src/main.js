@@ -2589,40 +2589,31 @@ var ai_iletisim_ve_etkilesim_88 =
 
 //Yapay Zeka Çağı Yetkinliklerin
 var ai_25_s3_1_1 = "Dijital Okuryazarlık ";
-var ai_25_s3_1_2 = "• Temel Bilgisayar ve Teknoloji Becerileri: Bilgisayar kullanımını, yazılım ve donanım bilgilerini kapsar. Gençler teknolojiyi etkili ve verimli bir şekilde kullanabilmelidir. ";
-var ai_25_s3_1_3 = "• Yapay Zeka Temelleri: AI'nın ne olduğu, nasıl çalıştığı ve hayatımızı nasıl şekillendirdiği hakkında temel bilgilere sahip olmak giderek önem kazanıyor.";
+var ai_25_s3_1_2 = "• Temel Bilgisayar ve Teknoloji Becerileri: Bilgisayar kullanımını, yazılım ve donanım bilgilerini kapsar. Gençler teknolojiyi etkili ve verimli bir şekilde kullanabilmelidir.\n\n• Yapay Zeka Temelleri: AI'nın ne olduğu, nasıl çalıştığı ve hayatımızı nasıl şekillendirdiği hakkında temel bilgilere sahip olmak giderek önem kazanıyor.";
 
 var ai_25_s3_2_1 = "Veri Okuryazarlığı";
-var ai_25_s3_2_2 = "• Veri Analizi: Verileri toplama, analiz etme ve bu verilerden anlamlı sonuçlar çıkarabilme yeteneği. Günümüz dünyasında kararlar veri odaklı alındığı için bu beceri çok değerlidir.";
-var ai_25_s3_2_3 = "• Veri Gizliliği ve Güvenlik: Gençlerin veri güvenliğinin ve gizliliğin önemini anlamaları, kişisel verilerin nasıl korunacağını bilmeleri gereklidir.";
+var ai_25_s3_2_2 = "• Veri Analizi: Verileri toplama, analiz etme ve bu verilerden anlamlı sonuçlar çıkarabilme yeteneği. Günümüz dünyasında kararlar veri odaklı alındığı için bu beceri çok değerlidir.\n\n• Veri Gizliliği ve Güvenlik: Gençlerin veri güvenliğinin ve gizliliğin önemini anlamaları, kişisel verilerin nasıl korunacağını bilmeleri gereklidir.";
 
 var ai_25_s3_3_1 = "Kodlama ve Programlama";
-var ai_25_s3_3_2 = "• Programlama Dilleri: Python, JavaScript gibi temel programlama dillerini öğrenmek, AI geliştirme ve teknolojiyle ilgili işlerde başarılı olmak için önemlidir.";
-var ai_25_s3_3_3 = "• Algoritmik Düşünme: Problemleri çözmek için sistematik ve mantıklı yollar geliştirmek, AI çağında temel bir beceridir.";
+var ai_25_s3_3_2 = "• Programlama Dilleri: Python, JavaScript gibi temel programlama dillerini öğrenmek, AI geliştirme ve teknolojiyle ilgili işlerde başarılı olmak için önemlidir.\n\n• Algoritmik Düşünme: Problemleri çözmek için sistematik ve mantıklı yollar geliştirmek, AI çağında temel bir beceridir.";
 
 var ai_25_s3_4_1 = "Eleştirel Düşünme ve Problem Çözme";
-var ai_25_s3_4_2 = "• Analitik Düşünme: Verilerden veya olaylardan anlam çıkarma, çözüm yolları geliştirme yeteneği. AI araçlarını doğru ve etkili bir şekilde kullanabilmek için bu beceri hayati önem taşır. ";
-var ai_25_s3_4_3 = "• Yaratıcı Problem Çözme: Yenilikçi ve yaratıcı yollarla çözümler üretebilme, özellikle AI ve teknoloji alanlarında avantaj sağlar.";
+var ai_25_s3_4_2 = "• Analitik Düşünme: Verilerden veya olaylardan anlam çıkarma, çözüm yolları geliştirme yeteneği. AI araçlarını doğru ve etkili bir şekilde kullanabilmek için bu beceri hayati önem taşır.\n\n• Yaratıcı Problem Çözme: Yenilikçi ve yaratıcı yollarla çözümler üretebilme, özellikle AI ve teknoloji alanlarında avantaj sağlar.";
 
 var ai_25_s3_5_1 = "Uyarlanabilirlik ve Sürekli Öğrenme";
-var ai_25_s3_5_2 = "• Esneklik: Sürekli değişen teknoloji ve iş dünyasına hızla adapte olabilmek. Yeni AI araçlarını, sistemlerini öğrenme yeteneği önemlidir. ";
-var ai_25_s3_5_3 = "• Yaşam Boyu Öğrenme: Teknoloji geliştikçe, yeni beceriler öğrenme ve mevcut becerileri güncelleme yeteneği daha da önem kazanıyor.";
+var ai_25_s3_5_2 = "• Esneklik: Sürekli değişen teknoloji ve iş dünyasına hızla adapte olabilmek. Yeni AI araçlarını, sistemlerini öğrenme yeteneği önemlidir.\n\n• Yaşam Boyu Öğrenme: Teknoloji geliştikçe, yeni beceriler öğrenme ve mevcut becerileri güncelleme yeteneği daha da önem kazanıyor.";
 
 var ai_25_s3_6_1 = "İletişim ve İşbirliği ";
-var ai_25_s3_6_2 = "• Teknik ve İnsan Dili Arasındaki Köprü: AI ve teknoloji alanında çalışırken karmaşık bilgileri sade bir şekilde açıklayabilme yeteneği önemlidir.";
-var ai_25_s3_6_3 = "• Takım Çalışması: Özellikle çok disiplinli projelerde işbirliği yapabilmek, AI projelerinde başarıya ulaşmanın anahtarlarından biridir.";
+var ai_25_s3_6_2 = "• Teknik ve İnsan Dili Arasındaki Köprü: AI ve teknoloji alanında çalışırken karmaşık bilgileri sade bir şekilde açıklayabilme yeteneği önemlidir.\n\n• Takım Çalışması: Özellikle çok disiplinli projelerde işbirliği yapabilmek, AI projelerinde başarıya ulaşmanın anahtarlarından biridir.";
 
 var ai_25_s3_7_1 = "Etik ve Sosyal Sorumluluk";
-var ai_25_s3_7_2 = "• AI Etikleri: Yapay zekanın toplumsal etkileri, karar alma süreçlerindeki rolü ve insanlara olan etkileri konusunda bilinçli olmak.";
-var ai_25_s3_7_3 = "• Sosyal Sorumluluk: AI'nın etkilerini anlamak ve bu teknolojiyi sosyal fayda yaratacak şekilde kullanmak, gençlerin sadece teknik anlamda değil, etik anlamda da gelişmiş bireyler olmalarını sağlar.";
+var ai_25_s3_7_2 = "• AI Etikleri: Yapay zekanın toplumsal etkileri, karar alma süreçlerindeki rolü ve insanlara olan etkileri konusunda bilinçli olmak.\n\n• Sosyal Sorumluluk: AI'nın etkilerini anlamak ve bu teknolojiyi sosyal fayda yaratacak şekilde kullanmak, gençlerin sadece teknik anlamda değil, etik anlamda da gelişmiş bireyler olmalarını sağlar.";
 
 var ai_25_s3_8_1 = "Duygusal Zeka (EQ)";
-var ai_25_s3_8_2 = "• Empati ve Duygusal Anlayış: AI ve teknolojik araçlarla yoğun bir şekilde çalışırken, insan ilişkilerini ve duygusal farkındalığı kaybetmemek önemlidir.";
-var ai_25_s3_8_3 = "• Stres Yönetimi: AI ve dijital dünyada sürekli öğrenme ve adaptasyonun getirdiği stresle başa çıkma becerileri de gelişmelidir.";
+var ai_25_s3_8_2 = "• Empati ve Duygusal Anlayış: AI ve teknolojik araçlarla yoğun bir şekilde çalışırken, insan ilişkilerini ve duygusal farkındalığı kaybetmemek önemlidir.\n\n• Stres Yönetimi: AI ve dijital dünyada sürekli öğrenme ve adaptasyonun getirdiği stresle başa çıkma becerileri de gelişmelidir.";
 
 var ai_25_s3_9_1 = "Yenilikçi ve Girişimci Düşünce";
-var ai_25_s3_9_2 = "• Girişimcilik: AI çağında yenilikçi iş fikirleri geliştirip bu fikirleri hayata geçirme becerisi.";
-var ai_25_s3_9_3 = "• Risk Alma ve Deney Yapma: AI ve teknolojik inovasyonlar genellikle belirsizlik içerir. Bu yüzden gençlerin risk almaya istekli ve deneysel düşünceye açık olmaları gerekir.";
+var ai_25_s3_9_2 = "• Girişimcilik: AI çağında yenilikçi iş fikirleri geliştirip bu fikirleri hayata geçirme becerisi.\n\n• Risk Alma ve Deney Yapma: AI ve teknolojik inovasyonlar genellikle belirsizlik içerir. Bu yüzden gençlerin risk almaya istekli ve deneysel düşünceye açık olmaları gerekir.";
 
 //gücünü kullan
 var ai_25_s4u1_1_1 = "Dijital Okuryazarlık";
@@ -3351,26 +3342,6 @@ var decision_strategy_eng_s4_1_txt = "By adhering to this decision-making strate
         return ai_25_s3_8_2;
       } else if (aiName == "Yenilikçi ve Girişimci Düşünce") {
         return ai_25_s3_9_2;
-      }
-    } else if (type == "s3_x_3") {
-      if (aiName == "Dijital Okuryazarlık") {
-        return ai_25_s3_1_3;
-      } else if (aiName == "Veri Okur Yazarlığı") {
-        return ai_25_s3_2_3;
-      } else if (aiName == "Kodlama ve Programlama") {
-        return ai_25_s3_3_3;
-      } else if (aiName == "Eleştirel Düşünme ve Problem Çözme") {
-        return ai_25_s3_4_3;
-      } else if (aiName == "Uyarlanabilirlik ve Sürekli Öğrenme") {
-        return ai_25_s3_5_3;
-      } else if (aiName == "İletişim ve İşbirliği") {
-        return ai_25_s3_6_3;
-      } else if (aiName == "Etik ve Sosyal Sorumluluk") {
-        return ai_25_s3_7_3;
-      } else if (aiName == "Duygusal Zeka (EQ)") {
-        return ai_25_s3_8_3;
-      } else if (aiName == "Yenilikçi ve Girişimci Düşünce") {
-        return ai_25_s3_9_3;
       }
     } else if (type == "s4u1_x_2") {
       if (aiName == "Dijital Okuryazarlık") {
@@ -5867,14 +5838,10 @@ var decision_strategy_eng_s4_1_txt = "By adhering to this decision-making strate
     P12A2 : ai(sortedaiData[1].name, 25, "name"),
     P12A3 : ai(sortedaiData[0].name, 25, "s3_x_2"),
     P12A4 : ai(sortedaiData[1].name, 25, "s3_x_2"),
-    P12A5 : ai(sortedaiData[0].name, 25, "s3_x_3"),
-    P12A6 : ai(sortedaiData[1].name, 25, "s3_x_3"),
-    P12A7 : ai(sortedaiData[sortedaiData.length - 1].name, 25, "name"),
-    P12A8 : ai(sortedaiData[sortedaiData.length - 2].name, 25, "name"),
-    P12A9 : ai(sortedaiData[sortedaiData.length - 1].name, 25, "s3_x_2"),
-    P12A10 : ai(sortedaiData[sortedaiData.length - 2].name, 25, "s3_x_2"),
-    P12A11 : ai(sortedaiData[sortedaiData.length - 1].name, 25, "s3_x_3"),
-    P12A12 : ai(sortedaiData[sortedaiData.length - 2].name, 25, "s3_x_3"),
+    P12A5 : ai(sortedaiData[sortedaiData.length - 1].name, 25, "name"),
+    P12A6 : ai(sortedaiData[sortedaiData.length - 2].name, 25, "name"),
+    P12A7 : ai(sortedaiData[sortedaiData.length - 1].name, 25, "s3_x_2"),
+    P12A8 : ai(sortedaiData[sortedaiData.length - 2].name, 25, "s3_x_2"),
   
     P13A1 : ai(sortedaiData[0].name, 25, "name"),
     P13A2 : ai(sortedaiData[0].name, 25, "s4u1_x_2"),
@@ -6008,9 +5975,6 @@ var decision_strategy_eng_s4_1_txt = "By adhering to this decision-making strate
     P12A7: allVariables.P12A7,
     P12A8: allVariables.P12A8,
     P12A9: allVariables.P12A9,
-    P12A10: allVariables.P12A10,
-    P12A11: allVariables.P12A11,
-    P12A12: allVariables.P12A12,
     P13A1: allVariables.P13A1,
     P13A2: allVariables.P13A2,
     P13A3: allVariables.P13A3,
