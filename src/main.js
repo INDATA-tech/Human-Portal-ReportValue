@@ -1677,8 +1677,8 @@ var kariyer_secim_12_25_s7_auto_9_2 = "Otomotiv sektöründe analitik düşünce
 var kariyer_secim_12_25_s7_auto_9_3 = "• Veri Analisti (Otonom Sürüş): Otonom sürüş sistemlerinin topladığı verileri analiz ederek araç güvenliğini artırmaya yönelik çözümler geliştirebilirsiniz.";
 var kariyer_secim_12_25_s7_auto_9_4 = "• Satış ve Pazar Analisti: Araç satış verilerini ve pazar trendlerini analiz ederek, satış stratejilerine yön verebilirsiniz.";
 var kariyer_secim_12_25_s7_auto_9_5 = "• Veri Bilimci (Telemetri): Araçların sürüş performansını izleyen telemetri verilerini analiz ederek, araç performansını ve güvenliğini iyileştirebilirsiniz.";
-var kariyer_secim_12_25_s7_auto_9_6 = "• Müşteri Analitiği Uzmanı: Otomotiv müşterilerinin tercih ve satın alma davranışlarını analiz ederek, kişiselleştirilmiş müşteri deneyimi stratejileri oluşturabilirsiniz.";
-var kariyer_secim_12_25_s7_auto_9_7 = "• Üretim Analisti: Araç üretim süreçlerindeki verileri analiz ederek, üretim verimliliğini ve kaliteyi artıracak iyileştirmeler yapabilirsiniz.";
+var kariyer_secim_12_25_s7_auto_9_6 = "• Üretim Analisti: Araç üretim süreçlerindeki verileri analiz ederek, üretim verimliliğini ve kaliteyi artıracak iyileştirmeler yapabilirsiniz.";
+var kariyer_secim_12_25_s7_auto_9_7 = "• Müşteri Analitiği Uzmanı: Otomotiv müşterilerinin tercih ve satın alma davranışlarını analiz ederek, kişiselleştirilmiş müşteri deneyimi stratejileri oluşturabilirsiniz.";
 
 // mutfak sanatları
 var kariyer_secim_12_25_s7_meal_1_1 = "Yaratıcı ve Sanatsal Kariyerler";
@@ -2098,69 +2098,57 @@ var guclu_yanlarin_15_eng_2 = "Building Trust and Stability You have the natural
 
 // Kişilik Özelliklerin
 var kslk_ozl_realistic_your_profile = "Gerçekçi";
-var kslk_ozl_realistic_your_profile_ = "Pratik, uygulamalı problemler ve çözümler içeren iş aktivitelerinin tadını çıkarabilirsin. Bitkiler, hayvanlar ve ahşap, aletler ve makineler gibi gerçek dünya malzemeleriyle uğraşmayı sevebilirsin. Dışarıda çalışmaktan hoşlanabilirsin.";
-var kslk_ozl_realistic_your_interests_1 = "Gerçekçi insanlar pratik, kendine güvenen ve mekanik işlere daha eğilimlidir. Gelenekseldirler ve görebildikleri ve dokunabildikleri şeylere değer verirler. Gerçekçi bireyler genellikle aletlerle çalışmak, makineleri çalıştırmak veya tarım ve hayvacılık için iyi gelişmiş becerilere sahiptir.";
-var kslk_ozl_realistic_your_interests_2 = "Açık havada gerçekleşen ve fiziksel aktivite içeren işlerden hoşlanırlar. Somut problem çözmeyi içeren uygulamalı etkinliklerden hoşlandıkları için, insanlarla, soyut fikirlerle ve çok fazla veriyle uğraşmaktan kaçınmayı tercih ederler. Bir sorunla karşılaştıklarında sözel ya da kişilerarası çözümler yerine eylem odaklı çözümler üretirler.";
-var kslk_ozl_realistic_your_work_areas = "Marangozlar, elektrikçiler, tamirciler, tesisatçılar; tarım ve ormancılık; askeriye.";
-var kslk_ozl_realistic_you_may_not_like = "Topluluk önünde konuşma, sosyal etkinlikler, kültürel ve estetik faaliyetler, anlaşmazlıklarda arabuluculuk, yakın kişilerarası ilişkiler içeren çalışmalar.";
-var kslk_ozl_12_25_realistic_questions_1 = "• Ellerimle bir şeyler yaptığımda (örneğin, bir proje hazırlarken ya da bir deney yaparken) kendimi nasıl hissediyorum? Bu yeteneğimi derslerde daha etkili kullanabilir miyim?";
-var kslk_ozl_12_25_realistic_questions_2 = "• Pratik çözümler bulduğumda işlerimi daha kolay ve hızlı halledebiliyor muyum? Bu becerimi grup çalışmalarında nasıl öne çıkarabilirim?";
-var kslk_ozl_12_25_realistic_questions_3 = "• Fiziksel aktiviteler yaptığımda veya açık havada çalıştığımda daha motive olduğumu fark ediyor muyum? Bu motivasyonu okul projelerine nasıl yansıtabilirim?";
+var kslk_ozl_realistic_your_profile_ = "Pratik ve uygulamalı çözümler üretmekten keyif alırsın. Gerçek malzemelerle—bitkiler, hayvanlar, ahşap, aletler ve makineler—çalışmayı seversin. Açık havada çalışmak ve fiziksel aktivitelerde bulunmak sana doğal gelebilir.";
+var kslk_ozl_realistic_your_interests_1 = "Özgüvenli ve mekanik işlere yatkınsın. Somut, elle tutulur şeyleri önemsersin ve geleneksel değerlere sahipsin. Aletlerle çalışmayı, makineleri kullanmayı veya tarım ve hayvancılık alanında becerilerini geliştirmeyi seversin.";
+var kslk_ozl_realistic_your_interests_2 = "Fiziksel aktivite gerektiren işleri ve açık havada çalışmayı seversin. Somut problem çözmeye odaklandığın için genellikle pratik çözümleri tercih edersin. Bağımsız çalışmayı sevsen de, gerektiğinde ekip içinde uyum sağlayabilir ve iş birliği yapabilirsin.";
+var kslk_ozl_realistic_your_work_areas = "Mühendislik, teknik hizmetler, inşaat, zanaatkârlık, tarım ve güvenlik gibi fiziksel beceri ve problem çözme odaklı alanlar";
+var kslk_ozl_realistic_you_may_not_like = "Soyut kavramlarla uğraşmayı, sürekli masa başında çalışmayı ve detaylı bürokratik işleri sevmeyebilirsin";
+var kslk_ozl_12_25_realistic_questions_1 = "• Ellerimle bir şeyler yaptığımda (örneğin, bir proje hazırlarken ya da bir deney yaparken) kendimi nasıl hissediyorum? Bu yeteneğimi derslerde daha etkili kullanabilir miyim?\n\n• Pratik çözümler bulduğumda işlerimi daha kolay ve hızlı halledebiliyor muyum? Bu becerimi grup çalışmalarında nasıl öne çıkarabilirim?\n\n• Fiziksel aktiviteler yaptığımda veya açık havada çalıştığımda daha motive olduğumu fark ediyor muyum? Bu motivasyonu okul projelerine nasıl yansıtabilirim?";
 var kslk_ozl_25_plus_realistic_questions_1 = "• Sorunları hızlı ve etkili bir şekilde çözmek, iş verimliliğimi nasıl etkiliyor? Bu yaklaşımı günlük iş akışımda daha fazla nasıl kullanabilirim?\n\n• Açık hava veya fiziksel hareket gerektiren bir iş yaptığımda motivasyonumda bir artış oluyor mu? Bu motivasyonu işimde daha çok nasıl artırabilirim?\n\n• İşimde ellerimle bir şeyler ürettiğimde veya somut sonuçlar aldığımda kendimi nasıl hissediyorum? Bu pratik beceriyi iş projelerimde daha iyi nasıl kullanabilirim?";
 
 var kslk_ozl_researcher_your_profile = "Araştırıcı";
-var kslk_ozl_researcher_your_profile_ = "Karmaşık sorunları çözmeyi içeren işlerin tadını çıkarabilirsin. Fikirleri keşfetmeyi, araştırma yapmayı ve teorilere bakmayı sevebilirsin. Yapmaktan çok düşünmeyi tercih edebilir ve verileri ve fikirleri insanlara tercih etme ihtimalin daha fazla olabilir.";
-var kslk_ozl_researcher_your_interests_1 = "Araştırmacı insanlar meraklı, analitik ve entelektüeldir. Bir şeyleri araştırmayı severler ve karmaşık problemleri çözmek. Araştırmacı bireyler fikirleri keşfetmekten, yürütmekten hoşlanırlar.";
-var kslk_ozl_researcher_your_interests_2 = "Tercih ettikleri okuma materyali bilimsel veya teknik dergileri içerir. Ayrıca yalnız çalışmaktan hoşlanabilirler. İnsanlar yerine veri ve fikirlerle çalışmayı tercih edebilirler. Sonuç olarak, liderlik, satış ya da başkalarını ikna gerektiren işlerden kaçınma eğilimindedirler.";
-var kslk_ozl_researcher_your_work_areas = "Biyoloji, kimya, fizik, bilgisayar programlama, bilgisayar mühendisliği, tıp, farmakoloji, psikoloji, veterinerlik bilimi, teknik yazı.";
-var kslk_ozl_researcher_you_may_not_like = "Satış, başkalarını ikna etme, insanları yönlendirme.";
-var kslk_ozl_12_25_researcher_questions_1 = "• Zor sorularla karşılaştığımda nasıl bir çözüm yolu buluyorum? Bu problem çözme becerimi derslerde daha sık nasıl kullanabilirim?";
-var kslk_ozl_12_25_researcher_questions_2 = "• Yeni şeyler öğrenmek ve araştırmak beni nasıl motive ediyor? Araştırmalarımı projelerde veya ödevlerde nasıl daha etkili kullanabilirim?";
-var kslk_ozl_12_25_researcher_questions_3 = "• Zihinsel olarak zorlandığım bir konuda ne kadar derine inip öğrenmeyi seviyorum? Bu merakımı okulda hangi alanlarda daha fazla geliştirebilirim?";
+var kslk_ozl_researcher_your_profile_ = "Karmaşık sorunları çözmekten keyif alırsın. Fikirleri keşfetmeyi, araştırma yapmayı ve teorileri incelemeyi seversin. Düşünmeyi ve analiz yapmayı tercih edebilirsin, ancak araştırmalarını uygulamaya dökme konusunda da başarılı olabilirsin.";
+var kslk_ozl_researcher_your_interests_1 = "Meraklı, analitik ve entelektüelsin. Bir şeyleri araştırmayı ve karmaşık problemleri çözmeyi seversin. Fikirleri keşfetmek ve geliştirmek sana ilham verir, ayrıca bilgiyi paylaşarak başkalarına rehberlik edebilirsin.";
+var kslk_ozl_researcher_your_interests_2 = "Bilimsel ve teknik içerikli yayınları okumaktan hoşlanırsın. Genellikle yalnız çalışmayı tercih edebilir, veri ve fikirlerle uğraşmayı seversin. Başkalarını ikna etme veya satış gibi alanlara fazla ilgi duymayabilirsin, ancak uzmanlık alanında liderlik edebilir ve rehberlik yapabilirsin.";
+var kslk_ozl_researcher_your_work_areas = "Bilim, mühendislik, tıp, veri analitiği ve akademik araştırma gibi derinlemesine düşünmeyi, sorgulamayı ve problem çözmeyi gerektiren alanlar";
+var kslk_ozl_researcher_you_may_not_like = "Tekrarlayan rutin işleri, yüzeysel bilgiyi, katı kurallara uymayı ve fazla sosyal etkileşim gerektiren rolleri sevmeyebilirsin";
+var kslk_ozl_12_25_researcher_questions_1 = "• Zor sorularla karşılaştığımda nasıl bir çözüm yolu buluyorum? Bu problem çözme becerimi derslerde daha sık nasıl kullanabilirim?\n\n• Yeni şeyler öğrenmek ve araştırmak beni nasıl motive ediyor? Araştırmalarımı projelerde veya ödevlerde nasıl daha etkili kullanabilirim?\n\n• Zihinsel olarak zorlandığım bir konuda ne kadar derine inip öğrenmeyi seviyorum? Bu merakımı okulda hangi alanlarda daha fazla geliştirebilirim?";
 var kslk_ozl_25_plus_researcher_questions_1 = "• Zorlu problemlerle karşılaştığımda, hangi çözüm yollarını kullanıyorum? Bu analitik düşünme becerimi iş yerinde daha sık nasıl uygulayabilirim?\n\n• Detaylı araştırmalar yaptığımda işimde nasıl bir fark yaratıyorum? Bu merak duygusunu işimde daha fazla nasıl kullanabilirim?\n\n• Karmaşık bir sorunu çözmek için derinlemesine düşündüğümde hangi yeteneklerimi geliştiriyorum? Bu problem çözme becerilerimi işimde daha çok nasıl öne çıkarabilirim?";
 
 var kslk_ozl_artistic_your_profile = "Sanatsal";
-var kslk_ozl_artistic_your_profile_ = "Formlar, tasarımlar ve desenler gibi şeylerin sanatsal yönüyle ilgilenen iş etkinliklerinin tadını çıkarırsın. İşinde kendini ifade etmeyi sevebilirsin. Net bir dizi kurala uymadan işin yapılabileceği ayarları tercih edebilirsin.";
-var kslk_ozl_artistic_your_interests_1 = "Sanatsal insanlar yaratıcı ve yaratıcıdır. Kendilerini yaratıcı bir şekilde ifade etmek için güçlü bir arzuya sahip özgün, bağımsız insanlardır. Sanatsal bireyler estetiğe değer verir ve sanat, drama, yazı, dans ve müzik gibi yaratıcı etkinliklerden hoşlanırlar.";
-var kslk_ozl_artistic_your_interests_2 = "Yeni fikirler geliştirmek için sezgilerini ve özgünlüklerini kullanmayı severler. Bu şekilde Araştırmacı insanlara benzerler. Bununla birlikte, bilimsel olanlardan çok kültürel-estetik arayışlarla ilgilenirler. Sanatsal insanlar, çeşitliliğin ve değişimin olduğu ortamlarda en fazla tatmini bulurlar. Yüksek düzeyde yapılandırılmış veya tekrarlayan iş faaliyetlerinden hoşlanmazlar. Verilerden veya somut şeylerden çok fikirlerle ve insanlarla ilgilenirler.";
-var kslk_ozl_artistic_your_work_areas = "Müzisyenler, sanatçılar, grafik sanatçıları, reklam, tasarım, yazarlar/editörler, yaratıcılık gerektiren tüm alanlar.";
-var kslk_ozl_artistic_you_may_not_like = "Tekrarlayan, yapılandırılmış görevler; çeşitlilik eksikliği; bilgi işleme; sayılarla çalışma.";
-var kslk_ozl_12_25_artistic_questions_1 = "• Kendimi resim yaparak, yazı yazarak ya da başka yaratıcı yollarla ifade ettiğimde en çok hangi anlarda kendimi özgür hissediyorum? Bu yaratıcılığı ödevlerime nasıl ekleyebilirim?";
-var kslk_ozl_12_25_artistic_questions_2 = "• Farklı fikirler bulduğumda arkadaşlarım ve öğretmenlerim nasıl tepkiler veriyor? Yaratıcı düşüncelerimi projelerde daha fazla nasıl gösterebilirim?";
-var kslk_ozl_12_25_artistic_questions_3 = "• Sıkıcı bulduğum görevlerde yaratıcı bir dokunuş eklediğimde nasıl bir fark yaratıyorum? Yaratıcılığı günlük okul işlerine nasıl daha çok katabilirim?";
+var kslk_ozl_artistic_your_profile_ = "Sanatsal formlar, tasarımlar ve desenlerle ilgilenmekten keyif alırsın. İşinde kendini özgün şekilde ifade etmeyi seversin. Katı kurallar olmadan, esneklik sunan ortamlarda çalışmayı tercih edebilirsin.";
+var kslk_ozl_artistic_your_interests_1 = "Yaratıcı ve özgünsün. Kendini sanatsal yollarla ifade etmekten keyif alırsın. Sanat, drama, yazı, dans ve müzik gibi estetik alanlarla ilgilenmek sana ilham verir.";
+var kslk_ozl_artistic_your_interests_2 = "Sezgilerini ve özgünlüğünü kullanarak yeni fikirler geliştirmeyi seversin. Değişken ve yaratıcı ortamlarda en fazla tatmini bulursun. Tekrarlayan, sıkı kurallara dayalı işlerden hoşlanmayabilir, insanlarla ve fikirlerle etkileşim kurmayı tercih edebilirsin.";
+var kslk_ozl_artistic_your_work_areas = "Görsel sanatlar, müzik, edebiyat, tasarım, tiyatro ve medya gibi sanatsal yetenek ve bireysel ifade gücü gerektiren alanlar";
+var kslk_ozl_artistic_you_may_not_like = " Katı kurallara ve standartlara bağlı işleri, sürekli tekrar eden görevleri ve yaratıcılık gerektirmeyen rutin işleri sevmeyebilirsin";
+var kslk_ozl_12_25_artistic_questions_1 = "• Kendimi resim yaparak, yazı yazarak ya da başka yaratıcı yollarla ifade ettiğimde en çok hangi anlarda kendimi özgür hissediyorum? Bu yaratıcılığı ödevlerime nasıl ekleyebilirim?\n\n• Farklı fikirler bulduğumda arkadaşlarım ve öğretmenlerim nasıl tepkiler veriyor? Yaratıcı düşüncelerimi projelerde daha fazla nasıl gösterebilirim?\n\n• Sıkıcı bulduğum görevlerde yaratıcı bir dokunuş eklediğimde nasıl bir fark yaratıyorum? Yaratıcılığı günlük okul işlerine nasıl daha çok katabilirim?";
 var kslk_ozl_25_plus_artistic_questions_1 = "• Yaratıcı bir çözüm ürettiğimde ya da özgün bir fikir sunduğumda iş yerinde nasıl geri bildirimler alıyorum? Bu yaratıcı bakış açısını projelerime daha fazla nasıl katabilirim?\n\n• Rutin işler monotonlaştığında, işime daha yaratıcı bir dokunuş katmak performansımı nasıl etkiliyor? Yaratıcı düşünme tarzımı günlük görevlerde nasıl daha çok kullanabilirim?\n\n• Yeni ve alışılmadık fikirler ürettiğimde, bu fikirlerin iş yerindeki katkılarını nasıl gözlemliyorum? Bu yaratıcı süreçleri projelerime nasıl daha sık entegre edebilirim?";
 
 var kslk_ozl_social_your_profile = "Sosyal";
-var kslk_ozl_social_your_profile_ = "Başkalarına yardımcı olan ve öğrenmeyi ve kişisel gelişimi teşvik eden iş etkinliklerinin tadını çıkarabilirsin. Nesnelerle, makinelerle veya verilerle çalışmak yerine insanlarla birlikte olmayı tercih edebilirsin. Öğretmeyi, tavsiye vermeyi, yardım etmeyi veya başka bir şekilde insanlara hizmet etmeyi sevme olasılığın çok yüksek.";
-var kslk_ozl_social_your_interests_1 = "Sosyal insanlar arkadaş canlısı, dışa dönük ve anlayışlıdır. Kişisel etkileşim ve başkalarına yardım edebileceği işlerden hoşlanabilirler. İnsanlarla, veriden ve somut şeylerden çok daha fazla ilgilidirler. Sosyal bireyler yakın kişilerarası ilişkiler ararlar ve öğretmeyi severler. İnsan refahı konusunda endişeli olabilirler.";
-var kslk_ozl_social_your_interests_2 = "Kişilerarası sorunların üstesinden gelmekten ve anlaşmazlıklarda arabuluculuk yapmaktan hoşlanabilirler. Makine veya alet kullanmaktan kaçınmaya eğilimlidirler.Kapsamlı entelektüel veya fiziksel çalışmalardan hoşlanmayabilirler.";
-var kslk_ozl_social_your_work_areas = "Hemşirelik, Danışmanlık, Öğretim, Din";
-var kslk_ozl_social_you_may_not_like = "Fiziksel çalışma; veri ve somut şeylerle uğraşmak; İnşa ve Onarım";
-var kslk_ozl_12_25_social_questions_1 = "• Bir arkadaşımın problemini çözmesine yardım ettiğimde kendimi nasıl hissediyorum? Bu yardımlaşma yeteneğimi okul etkinliklerinde nasıl daha etkili kullanabilirim? ";
-var kslk_ozl_12_25_social_questions_2 = "• Grup çalışmasında arkadaşlarımı motive ettiğimde işler nasıl ilerliyor? Bu motivasyon gücümü okul projelerinde daha fazla nasıl kullanabilirim?";
-var kslk_ozl_12_25_social_questions_3 = "• Başkalarının neye ihtiyacı olduğunu anlamak, benim okul hayatımda nasıl avantajlar sağlıyor? Bu empatiyi daha çok nasıl geliştirebilirim?";
+var kslk_ozl_social_your_profile_ = "Başkalarına yardımcı olmayı ve öğrenmeyi teşvik eden işlerden keyif alırsın. İnsanlarla iletişim kurmayı, onları desteklemeyi ve rehberlik etmeyi seversin. Makineler ve veriler yerine insan odaklı çalışmalara yönelme eğiliminde olabilirsin.";
+var kslk_ozl_social_your_interests_1 = "Sıcakkanlı, dışa dönük ve anlayışlısın. Başkalarıyla birebir etkileşim içinde olmayı ve insanlara destek sağlamayı seversin. Kişisel ilişkiler kurmak, öğretmek ve insan refahını önemsemek senin için değerlidir.";
+var kslk_ozl_social_your_interests_2 = "İnsanlar arasındaki sorunları çözmekten ve uzlaştırıcı olmaktan keyif alırsın. Teknik görevlerden çok kişiler arası etkileşime yönelmeyi tercih edebilirsin. Yoğun fiziksel işlerden hoşlanmayabilir, ancak sosyal ve entelektüel alanlarda aktif olabilirsin.";
+var kslk_ozl_social_your_work_areas = "Eğitim, sağlık, danışmanlık, insan kaynakları, sosyal hizmetler ve müşteri odaklı alanlar";
+var kslk_ozl_social_you_may_not_like = "Rekabetçi ortamları, bireysel çalışmayı, soğuk ve mekanik işleri veya insan etkileşimi içermeyen teknik görevleri sevmeyebilirsin";
+var kslk_ozl_12_25_social_questions_1 = "• Bir arkadaşımın problemini çözmesine yardım ettiğimde kendimi nasıl hissediyorum? Bu yardımlaşma yeteneğimi okul etkinliklerinde nasıl daha etkili kullanabilirim?\n\n• Grup çalışmasında arkadaşlarımı motive ettiğimde işler nasıl ilerliyor? Bu motivasyon gücümü okul projelerinde daha fazla nasıl kullanabilirim?\n\n• Başkalarının neye ihtiyacı olduğunu anlamak, benim okul hayatımda nasıl avantajlar sağlıyor? Bu empatiyi daha çok nasıl geliştirebilirim?";
 var kslk_ozl_25_plus_social_questions_1 = "• İş arkadaşlarıma yardım ettiğimde ya da onlara rehberlik ettiğimde, hangi becerilerim öne çıkıyor? Bu yardımseverliği iş hayatımda daha fazla nasıl kullanabilirim?\n\n• Başkalarının ihtiyaçlarını anlamak ve uygun çözümler sunmak, işimde bana nasıl katkılar sağlıyor? Bu empatiyi iş yerinde daha da güçlendirmek için neler yapabilirim?\n\n• Ekip çalışmalarında başkalarını motive ettiğimde, işlerin ilerleyişini nasıl etkiliyorum? Bu yeteneğimi daha fazla projeye nasıl yansıtabilirim? ";
 
 var kslk_ozl_entrepreneur_your_profile = "Girişimci";
-var kslk_ozl_entrepreneur_your_profile_ = "Projelerin başlatılması ve yürütülmesi, özellikle de ticari girişimler ile ilgili iş faaliyetlerinden daha çok keyif alabilirsin. İnsanları ikna etmeyi, yönlendirmeyi ve karar vermeyi seversin. Kâr için risk almayı tercih edebilirsin. Senin gibi insanlar düşünceden ziyade eylemi tercih edebilirler.";
-var kslk_ozl_entrepreneur_your_interests_1 = "Girişimci insanlar ticari faaliyetlerden ve anlaşma yapmaktan hoşlanırlar. Kendine güvenen, iddialı, ikna edici ve enerjiktirler. Sözel yetenekli, Girişimci bireyler, sözel becerilerini başkalarını desteklemek için kullanan Sosyal bireylerin aksine, bu becerileri insanları ikna etmek için kullanırlar. Bir şeyler satmaktan, fikirleri tanıtmaktan ve insanları etkilemekten hoşlanırlar.";
-var kslk_ozl_entrepreneur_your_interests_2 = "Ayrıca statü ve prestije değer verirler ve bu arzuları karşılayabilecek meslekler ararlar. Girişimci insanlar aynı zamanda rekabetçidir ve risk almaya isteklidir. Sonuç olarak, girişimci bir yapıya sahiptirler ve projeler başlatmayı ve başkalarını gemiye atlamaya ikna etmeyi severler. Girişimci bireyler, somut şeyler ve fikirler yerine, insanlarla ve verilerle çalışmaktan hoşlanırlar.";
-var kslk_ozl_entrepreneur_your_work_areas = "İşletme yönetimi, satış, politika, küçük işletme sahibi, emlak";
-var kslk_ozl_entrepreneur_you_may_not_like = "Yalnız çalışmak, entelektüel uğraşlara odaklanmak, karmaşık hesaplamalar yapmak, bilimsel ve matematiksel faaliyetler yapmak.";
-var kslk_ozl_12_25_entrepreneur_questions_1 = "• Bir grup çalışmasında liderlik yapıp yönlendirdiğimde kendimi nasıl hissediyorum? Bu liderlik becerimi okulda hangi projelerde daha çok kullanabilirim?";
-var kslk_ozl_12_25_entrepreneur_questions_2 = "• İnsanları ikna ettiğimde ve onları harekete geçirdiğimde neler başarıyorum? Bu ikna yeteneğimi okul aktivitelerinde daha sık nasıl kullanabilirim?";
-var kslk_ozl_12_25_entrepreneur_questions_3 = "• Zor bir karar aldığımda, bu kararın sonuçları beni nasıl etkiliyor? Okulda risk almayı daha iyi nasıl yönetebilirim?";
+var kslk_ozl_entrepreneur_your_profile_ = "Projeler başlatmayı ve yönetmeyi seversin, özellikle ticari girişimler seni heyecanlandırır. İnsanları ikna etmek, yönlendirmek ve hızlı kararlar almak konusunda rahatsın. Risk almayı göze alabilir ve fikirlerini hayata geçirmek için harekete geçmeyi tercih edebilirsin.";
+var kslk_ozl_entrepreneur_your_interests_1 = "Kendine güvenen, iddialı ve enerjiksin. Sözel becerilerini insanları etkilemek, fikirlerini tanıtmak ve anlaşmalar yapmak için kullanırsın. Satış, pazarlama ve liderlik gerektiren işlerden keyif alırsın.";
+var kslk_ozl_entrepreneur_your_interests_2 = "Başarı, yenilik ve büyüme senin için önemlidir. Rekabetçi bir yapıya sahipsin ve risk alarak büyük fırsatlar yaratabilirsin. Projeler geliştirip insanları yanına çekmeyi seversin. Hem fikirlerle hem de insanlarla çalışarak hedeflerine ulaşmayı tercih edersin.";
+var kslk_ozl_entrepreneur_your_work_areas = "Satış, pazarlama, yönetim, girişimcilik, hukuk ve politika gibi ikna kabiliyeti, stratejik düşünme ve risk almayı gerektiren alanlar";
+var kslk_ozl_entrepreneur_you_may_not_like = "Tekdüze ve kurallarla sıkı sıkıya bağlı işleri, yaratıcı özgürlüğün olmadığı ortamları ve başkalarının direktifleri doğrultusunda çalışmayı sevmeyebilirsin.";
+var kslk_ozl_12_25_entrepreneur_questions_1 = "• Bir grup çalışmasında liderlik yapıp yönlendirdiğimde kendimi nasıl hissediyorum? Bu liderlik becerimi okulda hangi projelerde daha çok kullanabilirim?\n\n• İnsanları ikna ettiğimde ve onları harekete geçirdiğimde neler başarıyorum? Bu ikna yeteneğimi okul aktivitelerinde daha sık nasıl kullanabilirim?\n\n• Zor bir karar aldığımda, bu kararın sonuçları beni nasıl etkiliyor? Okulda risk almayı daha iyi nasıl yönetebilirim?";
 var kslk_ozl_25_plus_entrepreneur_questions_1 = "• İnsanları motive edip yönlendirdiğimde projelerdeki ilerleme nasıl oluyor? Bu motivasyon becerilerimi iş yerinde daha etkili kullanmak için hangi yolları deneyebilirim?\n\n• İşimde risk almayı gerektiren durumlarda, hangi stratejileri kullanıyorum ve sonuçları nasıl değerlendiriyorum? Risk yönetimimi daha da geliştirmek için neler yapabilirim?\n\n• Karar alma süreçlerinde liderlik ettiğimde nasıl bir sonuç elde ediyorum? Bu liderlik becerimi iş yerimde hangi alanlarda daha çok kullanabilirim? ";
 
 var kslk_ozl_traditional_your_profile = "Geleneksel";
-var kslk_ozl_traditional_your_profile_ = "Belirlenen prosedürleri ve rutinleri takip eden iş aktivitelerini senin hoşuna gidebilir. Fikirlerden ziyade verilerle ve ayrıntılarla çalışmayı tercih edebilirsin. Yargıda bulunmaktan ziyade kesin standartların olduğu işleri tercih edebilirsin. Muhtemelen sen de diğerleri gibi otorite sınırlarının net olduğu yerlerde çalışmayı seversin.";
-var kslk_ozl_traditional_your_interests_1 = "Geleneksel insanlar metodik, vicdanlı ve verimlidir. Doğrudurlar ve açıkça tanımlanmış prosedürleri takip etmeyi severler. İş yerinde, işlerin sorunsuz yürümesini sağlayan kural ve düzenlemelerden hoşlanırlar. Yapıyı ve düzeni belirsizliğe tercih ederler. Sonuç olarak, sistemler veya büyük kuruluşlar içinde iyi çalışırlar.";
-var kslk_ozl_traditional_your_interests_2 = "Geleneksel insanlar kendileri için yüksek standartlara sahiptir, doğrudur ve ayrıntılara çok dikkat eder. Geleneksel bireyler, insanlardan ziyade verilerle ve şeylerle ilgilenir. Sonuç olarak, bir işletmenin muhasebe, kayıt tutma ve veri işleme gibi kağıt ve bilgisayar tabanlı yönleriyle çalışmayı tercih ederler.";
-var kslk_ozl_traditional_your_work_areas = "Muhasebe, Bankacılık ve Finans, Büro / Sekreterlik, İşletme, Sigorta - Eksper / Sigortacı";
-var kslk_ozl_traditional_you_may_not_like = "Belirsiz, yapılandırılmamış faaliyetler; kişilerarası sorunlarla başa çıkmak; çizim, resim, yaratıcı yazarlık, fotoğrafçılık; İçeren faaliyetler Kendini ifade etme";
-var kslk_ozl_12_25_traditional_questions_1 = "• Ders çalışırken veya ödev yaparken kendimi ne kadar düzenli hissediyorum? Bu düzenli çalışma alışkanlığını sınav dönemlerinde nasıl daha iyi kullanabilirim?";
-var kslk_ozl_12_25_traditional_questions_2 = "• Detaylara dikkat ettiğimde işlerimi daha iyi mi yapıyorum? Bu dikkatimi projelerde ve ödevlerde nasıl daha çok kullanabilirim?";
-var kslk_ozl_12_25_traditional_questions_3 = "• Planlı olduğumda zamanımı daha iyi yönetebiliyor muyum? Bu planlama becerisini okul hayatımda daha fazla nasıl kullanabilirim?";
+var kslk_ozl_traditional_your_profile_ = "Belirlenmiş prosedürleri ve rutinleri takip eden işlerden keyif alırsın. Fikirlerden ziyade veriler ve ayrıntılarla çalışmayı tercih edersin. Kesin standartlara sahip işlere yönelirsin. Otorite sınırlarının net olduğu ortamlarda çalışmayı seversin.";
+var kslk_ozl_traditional_your_interests_1 = "Metodik, vicdanlı ve verimli olursun. Açıkça tanımlanmış prosedürleri takip etmeyi seversin. İşlerin sorunsuz yürümesini sağlayan kural ve düzenlemeleri tercih edersin. Yapı ve düzeni belirsizliğe bırakmazsın. Sistemler ve büyük kuruluşlar içinde iyi çalışırsın.";
+var kslk_ozl_traditional_your_interests_2 = "Yüksek standartlara sahip olursun ve ayrıntılara dikkat edersin. İnsanlardan ziyade veriler ve nesnelerle ilgilenirsin. Muhasebe, kayıt tutma ve veri işleme gibi kağıt ile bilgisayar tabanlı işlerde çalışmayı tercih edersin.";
+var kslk_ozl_traditional_your_work_areas = "Muhasebe, finans, idari işler, lojistik ve veri yönetimi gibi planlama, dikkat ve sistematik çalışma gerektiren alanlar";
+var kslk_ozl_traditional_you_may_not_like = "Belirsizlik içeren, düzensiz veya plansız işleri, karmaşık problem çözmeyi gerektiren görevleri ve risk almayı sevmeyebilirsin";
+var kslk_ozl_12_25_traditional_questions_1 = "• Ders çalışırken veya ödev yaparken kendimi ne kadar düzenli hissediyorum? Bu düzenli çalışma alışkanlığını sınav dönemlerinde nasıl daha iyi kullanabilirim?\n\n• Detaylara dikkat ettiğimde işlerimi daha iyi mi yapıyorum? Bu dikkatimi projelerde ve ödevlerde nasıl daha çok kullanabilirim?\n\n• Planlı olduğumda zamanımı daha iyi yönetebiliyor muyum? Bu planlama becerisini okul hayatımda daha fazla nasıl kullanabilirim?";
 var kslk_ozl_25_plus_traditional_questions_1 = "• Düzenli ve sistematik bir şekilde çalıştığımda işlerimi ne kadar daha verimli yapıyorum? Bu düzenli çalışma alışkanlığımı daha büyük projelere nasıl yayabilirim?\n\n• Planlı ve organize olduğumda iş yerindeki zamanımı nasıl daha iyi yönetiyorum? Bu planlama becerisini iş hayatımda nasıl daha geniş çapta uygulayabilirim?\n\n• Detaylara gösterdiğim özen, iş yerimde hangi farkları yaratıyor? Bu dikkatimi projelerimde daha etkili nasıl kullanabilirim? ";
 
 //Kişilik Özelliklerin İngilizce
@@ -2170,13 +2158,8 @@ var kslk_ozl_realistic_eng_your_interests_1 = "Realistic people are practical, s
 var kslk_ozl_realistic_eng_your_interests_2 = "They also like adventurous activities such as riding roller coasters or sky diving. Since they enjoy hands-on activities that involve concrete problem solving, they would rather avoid dealing with people, abstract ideas and lots of data. When faced with a problem, they come up with action oriented solutions instead of verbal or interpersonal ones.";
 var kslk_ozl_realistic_eng_your_work_areas = "trades people – carpenters, electricians, mechanics, plumbers; agriculture and forestry; engineering; military";
 var kslk_ozl_artistic_eng_you_may_not_like = "public speaking, social events, cultural and aesthetic activities, mediating disputes, work that involves close interpersonal relationships";
-var kslk_ozl_12_25_realistic_eng_questions_1 = "• How do I feel when I work with my hands (e.g., when preparing a project or conducting an experiment)? Can I use this skill more effectively in class?";
-var kslk_ozl_12_25_realistic_eng_questions_2 = "• Do I finish tasks more quickly and easily when I find practical solutions? How can I highlight this ability during group work?";
-var kslk_ozl_12_25_realistic_eng_questions_3 = "• Do I notice that I feel more motivated when doing physical activities or working outdoors? How can I bring this motivation into school projects?";
-var kslk_ozl_25_plus_realistic_eng_questions_1 = "• How do I feel when I produce something with my hands or achieve tangible results at work? How can I better utilize this practical skill in my work projects?";
-var kslk_ozl_25_plus_realistic_eng_questions_2 = "• How does solving problems quickly and effectively impact my work efficiency? How can I incorporate this approach more into my daily workflow?";
-var kslk_ozl_25_plus_realistic_eng_questions_3 = "• Do I experience increased motivation when working outdoors or engaging in physical activities? How can I boost this motivation more in my work?";
-
+var kslk_ozl_12_25_realistic_eng_questions_1 = "• How do I feel when I work with my hands (e.g., when preparing a project or conducting an experiment)? Can I use this skill more effectively in class?\n\n• Do I finish tasks more quickly and easily when I find practical solutions? How can I highlight this ability during group work?\n\n• Do I notice that I feel more motivated when doing physical activities or working outdoors? How can I bring this motivation into school projects?";
+var kslk_ozl_25_plus_realistic_eng_questions_1 = "• How do I feel when I produce something with my hands or achieve tangible results at work? How can I better utilize this practical skill in my work projects?\n\n• How does solving problems quickly and effectively impact my work efficiency? How can I incorporate this approach more into my daily workflow?\n\n• Do I experience increased motivation when working outdoors or engaging in physical activities? How can I boost this motivation more in my work?";
 
 
 // İş Yaşamında Rolün
@@ -2388,7 +2371,7 @@ var krktr_ozl_25_plus_extraversion_questions_1 = "• İş yerinde grup çalış
 var krktr_ozl_compatibility = "Uyumluluk"; 
 var krktr_ozl_character_elements_compatibility_s1 = "Uyumluluk düzeyi yüksek olan kişiler, genellikle başkalarına yardım etme ve destek olma isteğiyle hareket ederler. Bu, onları grup çalışmalarında ve sosyal ortamlarda sevilen bireyler haline getirir. Ayrıca, uzlaşmacı yapıları nedeniyle çevreleriyle daha sağlıklı ilişkiler kurar ve işbirliği gerektiren ortamlarda başarılı olurlar. Buna karşın, uyumluluk seviyesi düşük bireyler, daha rekabetçi ve kendi çıkarlarına odaklı olabilir; bu da bazen ekip çalışmasında zorluklar yaşamalarına veya başkalarıyla daha zorlu ilişkiler kurmalarına neden olabilir.";
 var krktr_ozl_strenghts_compatibility_s2_1 = "Uyumluluk, işbirliği, empati ve iletişim becerilerini yansıtır. İş yerinde veya okulda diğer insanlarla iyi geçinme yeteneği için avantaj saglayabilir.";
-var krktr_ozl_weaknesses_compatibility_s2_1 = "Uyumluluk, işbirliği, empati ve iletişim becerilerini yansıtır. iş yerinde diğer insanlarla iyi geçinme yeteneği için avantaj saglayabilir."; // Burası mantıksız olabilir, düzeltilmesi gerekebilir.
+var krktr_ozl_weaknesses_compatibility_s2_1 = "Aşırı uyumlu olmak, sınırlarının belirsizleşmesine ve iş yerinde zor kararlar almada güçlük yaşanmasına neden olabilir";
 var krktr_ozl_other_attributes_compatibility_s2 = "Bağışlayıcı,\naçık sözlü,\ntalepkar olmayan,\nfedakar,\nuyumlu,\nalçak gönüllü,\nsempatik,\nşefkatli";
 var krktr_ozl_12_25_compatibility_questions_1 = "Sınıf arkadaşlarıma yardım ettiğimde veya onlarla iş birliği yaptığımda, hangi becerilerim öne çıkıyor? Bu iş birliğini grup projelerinde nasıl daha etkili kullanabilirim?";
 var krktr_ozl_12_25_compatibility_questions_2 = "Başkalarının ihtiyaçlarını anlamak ve onlara destek olmak, sınıf içindeki ilişkilerimi nasıl güçlendiriyor? Bu empatiyi okulda daha fazla nasıl geliştirebilirim?";
@@ -2414,9 +2397,7 @@ var krktr_ozl_other_attributes_openness_to_experience_eng_s2 = "Ideas (curious)\
 var krktr_ozl_12_25_openness_to_experience_questions_eng_1 = "• How do I feel when I learn new things or discover different perspectives? How can I use this curiosity more effectively in my school projects?";
 var krktr_ozl_12_25_openness_to_experience_questions_eng_2 = "• When researching various topics, which areas inspire me the most? How can I bring this inspiration into my schoolwork to make it more creative?";
 var krktr_ozl_12_25_openness_to_experience_questions_eng_3 = "• When I develop an unconventional way of thinking, how does it affect my school performance? In which projects can I show my creative thinking skills more?";
-var krktr_ozl_25_plus_openness_to_experience_questions_eng_1 = "• How do I feel when I explore new ideas and different perspectives in my work? How can I use this curiosity and creativity more effectively in my projects?";
-var krktr_ozl_25_plus_openness_to_experience_questions_eng_2 = "• What results do I get when I try unconventional methods to solve different problems? How can I apply these innovative approaches more in my work?";
-var krktr_ozl_25_plus_openness_to_experience_questions_eng_3 = "• How does my motivation change when I’m open to new experiences in my tasks? How can I expand my creative thinking style to broader areas of my work?";
+var krktr_ozl_25_plus_openness_to_experience_questions_eng_1 = "• How do I feel when I explore new ideas and different perspectives in my work? How can I use this curiosity and creativity more effectively in my projects?\n\n• What results do I get when I try unconventional methods to solve different problems? How can I apply these innovative approaches more in my work?\n\n• How does my motivation change when I’m open to new experiences in my tasks? How can I expand my creative thinking style to broader areas of my work?";
 
 
 
@@ -2635,7 +2616,7 @@ var ai_25_s4u1_6_1 = "İletişim ve İşbirliği";
 var ai_25_s4u1_6_2 = "• Takım çalışması becerinle hangi disiplinler arası projelerde başarılı olabilirsin? AI projelerinde işbirliği yaparak hangi hedeflere ulaşmayı planlıyorsun?\n\n• Karmaşık teknik bilgileri sade bir şekilde açıklayabilme yeteneğinle hangi projelerde liderlik yapabilir ya da takım arkadaşlarına rehberlik edebilirsin? Bu beceriyi hangi iş alanlarında kullanabileceğini düşünüyorsun?";
 
 var ai_25_s4u1_7_1 = "Etik ve Sosyal Sorumluluk";
-var ai_25_s4u1_7_2 = "•	AI teknolojilerini sosyal sorumluluk bilinciyle kullanarak toplumda nasıl bir etki yaratabilirsin? Bu farkındalığı okul ve kariyer hayatında nasıl kullanabilirsin?\n\n•	Yapay zekanın etik kullanımı hakkında sahip olduğun bilinçle hangi alanlarda fark yaratabilirsin? AI'nın sosyal etkilerini göz önünde bulundurarak, hangi projelerde yer almayı planlıyorsun?";
+var ai_25_s4u1_7_2 = "• AI teknolojilerini sosyal sorumluluk bilinciyle kullanarak toplumda nasıl bir etki yaratabilirsin? Bu farkındalığı okul ve kariyer hayatında nasıl kullanabilirsin?\n\n• Yapay zekanın etik kullanımı hakkında sahip olduğun bilinçle hangi alanlarda fark yaratabilirsin? AI'nın sosyal etkilerini göz önünde bulundurarak, hangi projelerde yer almayı planlıyorsun?";
 
 var ai_25_s4u1_8_1 = "Duygusal Zeka (EQ)";
 var ai_25_s4u1_8_2 = "• Stres yönetimi konusunda sahip olduğun yetkinliklerle yoğun ve zorlu projelerde nasıl başarılı olabilirsin? Bu beceriyi kariyer hayatında nasıl geliştirebilirsin?\n\n• Empati yeteneğinle iş arkadaşların ya da müşterilerin ihtiyaçlarını nasıl daha iyi anlayabilirsin? Bu beceriyi liderlik ya da yönetim pozisyonlarında nasıl kullanabilirsin?";
@@ -2673,22 +2654,17 @@ var ai_25_s4u2_9_2 = "• Yapay zeka ile ilgili yenilikçi iş fikirleri gelişt
 
 //Yapay Zeka Çağı Yetkinliklerin İngilizce
 var ai_25_eng_s3_1_1 = "Digital Literacy";
-var ai_25_eng_s3_1_2 = "Fundamental Computer and Technology Skills: This encompasses computer usage, as well as knowledge of software and hardware. You should be able to use technology effectively and efficiently.";
-var ai_25_eng_s3_1_3 = "Basics of Artificial Intelligence: Having foundational knowledge about what AI is, how it works, and how it shapes our lives.";
+var ai_25_eng_s3_1_2 = "Fundamental Computer and Technology Skills: This encompasses computer usage, as well as knowledge of software and hardware. You should be able to use technology effectively and efficiently.\n\nBasics of Artificial Intelligence: Having foundational knowledge about what AI is, how it works, and how it shapes our lives.";
 
 
 //gücünü kullan
 var ai_25_eng_s4u1_1_1 = "Digital Literacy";
-var ai_25_eng_s4u1_1_2 = "• In what areas can you make an impact with your computer and technology skills? How can you utilize these skills more effectively in school projects or your future career?";
-var ai_25_eng_s4u1_1_3 = "• Do you think deepening your foundational knowledge about AI will help you understand which professions will be important in the future? How can you plan a career in these fields?";
+var ai_25_eng_s4u1_1_2 = "• In what areas can you make an impact with your computer and technology skills? How can you utilize these skills more effectively in school projects or your future career?\n\n• Do you think deepening your foundational knowledge about AI will help you understand which professions will be important in the future? How can you plan a career in these fields?";
 
 
 //kendine sorabilirsin
 var ai_25_eng_s4u2_1_1 = "Digital Literacy";
-var ai_25_eng_s4u2_1_2 = "• What basic computer skills do I possess, and what can I do to advance these skills further? ";
-var ai_25_eng_s4u2_1_3 = "• How do I use technology in my daily life? Am I using technology only as a consumer, or can I also be a producer? ";
-var ai_25_eng_s4u2_1_4 = "• What do I know about artificial intelligence? How much time have I devoted to understanding how AI impacts my life? ";
-var ai_25_eng_s4u2_1_5 = "• Am I excited about learning more about AI and the opportunities it presents? What steps can I take to develop myself in this field?";
+var ai_25_eng_s4u2_1_2 = "• What basic computer skills do I possess, and what can I do to advance these skills further?\n\n• How do I use technology in my daily life? Am I using technology only as a consumer, or can I also be a producer?\n\n• What do I know about artificial intelligence? How much time have I devoted to understanding how AI impacts my life?\n\n• Am I excited about learning more about AI and the opportunities it presents? What steps can I take to develop myself in this field?";
 
 
 //Ekip Çalışmasına Yatkınlık
@@ -2800,24 +2776,18 @@ var teamwork_best_eng_3_2 = "Working well with others involves sharing ideas and
 
 //gücünü kullan
 var teamwork_eng_s3u1_1_1 = "Active Listening and Empathy";
-var teamwork_eng_s3u1_1_2 = "• How can you use your strong listening skills to better understand customer needs and tailor solutions more effectively?";
-var teamwork_eng_s3u1_1_3 = "• How can your ability to empathize help you build stronger relationships with both customers and team members, leading to better outcomes?";
+var teamwork_eng_s3u1_1_2 = "• How can you use your strong listening skills to better understand customer needs and tailor solutions more effectively?\n\n• How can your ability to empathize help you build stronger relationships with both customers and team members, leading to better outcomes?";
 
 var teamwork_eng_s3u1_2_1 = "Effective Communication";
-var teamwork_eng_s3u1_2_2 = "• How can you further enhance the clarity of your communication to inspire action and alignment within your team?";
-var teamwork_eng_s3u1_2_3 = "• How can you adapt your communication style to be more effective in negotiations or when dealing with difficult stakeholders?";
+var teamwork_eng_s3u1_2_2 = "• How can you further enhance the clarity of your communication to inspire action and alignment within your team?\n\n• How can you adapt your communication style to be more effective in negotiations or when dealing with difficult stakeholders?";
 
 
 //kendine sorabilirsin
 var teamwork_eng_s3u2_1_1 = "Active Listening and Empathy";
-var teamwork_eng_s3u2_1_2 = "• How often do I genuinely focus on understanding the emotions and perspectives of others when they speak?";
-var teamwork_eng_s3u2_1_3 = "• In which situations do I get distracted or impatient during conversations?";
-var teamwork_eng_s3u2_1_4 = "• How can I improve my ability to respond with empathy and compassion, even when I disagree?";
+var teamwork_eng_s3u2_1_2 = "• How often do I genuinely focus on understanding the emotions and perspectives of others when they speak?\n\n• In which situations do I get distracted or impatient during conversations?\n\n• How can I improve my ability to respond with empathy and compassion, even when I disagree?";
 
 var teamwork_eng_s3u2_2_1 = "Effective Communication"
-var teamwork_eng_s3u2_2_2 = "• Do I adapt my communication style based on who I’m talking to, and if not, how can I improve this?";
-var teamwork_eng_s3u2_2_3 = "• How often do I ask for clarification to ensure my message is understood, and what stops me from doing so?";
-var teamwork_eng_s3u2_2_4 = "• What can I do to communicate more clearly, concisely, and effectively, both in writing and verbally?";
+var teamwork_eng_s3u2_2_2 = "• Do I adapt my communication style based on who I’m talking to, and if not, how can I improve this?\n\n• How often do I ask for clarification to ensure my message is understood, and what stops me from doing so?\n\n• What can I do to communicate more clearly, concisely, and effectively, both in writing and verbally?";
 
 
 
@@ -2885,11 +2855,7 @@ var lifestyle_25_plus_eng_manifesting_generator_motto = "For life satisfaction, 
 
 //gücünü kullan
 var lifestyle_25_plus_eng_starter_question_name = "Initiator";
-var lifestyle_25_plus_eng_starter_evaluation_1 = "• What inspires me to initiate action, and how can I inform others before doing so to reduce resistance?";
-var lifestyle_25_plus_eng_starter_evaluation_2 = "• How do I feel when I take the lead without waiting for external permission or approval?";
-var lifestyle_25_plus_eng_starter_evaluation_3 = "• In what areas of my life do I feel most empowered to start new things, and how can I use this energy more intentionally?";
-var lifestyle_25_plus_eng_starter_evaluation_4 = "• How do I handle the reaction of others when I step into my natural role as an initiator, and what could I do to ease potential conflict?";
-var lifestyle_25_plus_eng_starter_evaluation_5 = "• What strategies do I use to manage my energy and avoid burnout after initiating major projects or changes?";
+var lifestyle_25_plus_eng_starter_evaluation_1 = "• What inspires me to initiate action, and how can I inform others before doing so to reduce resistance?\n\n• How do I feel when I take the lead without waiting for external permission or approval?\n\n• In what areas of my life do I feel most empowered to start new things, and how can I use this energy more intentionally?\n\n• How do I handle the reaction of others when I step into my natural role as an initiator, and what could I do to ease potential conflict?\n\n• What strategies do I use to manage my energy and avoid burnout after initiating major projects or changes?";
 
 //İletişim Ve Etkileşim Tarzın
 var communication_generator_0 = "Enerjik";
@@ -2967,11 +2933,7 @@ var communication_generator_eng_1_s2 = "Leverage Your Natural Magnetism: Your in
 var communication_generator_eng_2_s2 = "Respond with Intention: While it's tempting to jump into action, remember that your power lies in response. Practice active listening and engage with projects that genuinely excite you and align with your values. When you respond rather than initiate, you create a dynamic where your efforts are more effective and recognized as essential contributions.";
 var communication_generator_eng_3_s2 = "Establish Clear Boundaries: Be clear about your capacity and willingness to take on tasks. This ensures that you do not overcommit and allows you to channel your energy into tasks where you can be most productive. When you operate within your capacity, your satisfaction in work increases, and this is naturally communicated through the quality and timeliness of your output.";
 var communication_generator_eng_4_s2 = "Showcase Enthusiasm in Engagement: When you do choose to engage, do so with evident enthusiasm. Your energy is contagious and can inspire and motivate your team. Let your genuine excitement for the work guide your interactions, and you’ll find that you become even more pivotal within your team dynamics.";
-var communication_generator_eng_1_s3 = "• Do you wait to respond before engaging in interactions? How can you listen to your instincts and recognize when the right time comes?"; 
-var communication_generator_eng_2_s3 = "• Are you responding to things that truly excite you? What can you do to trust your instincts and choose only the opportunities that align with you?"; 
-var communication_generator_eng_3_s3 = "• Are you making sure you're truly responding before initiating interactions? How can you apply this approach more in your work and social life?"; 
-var communication_generator_eng_4_s3 = "• Do you notice that people naturally gravitate towards you? What steps can you take to create more effective interactions at work thanks to your natural magnetism?"; 
-var communication_generator_eng_5_s3 = "• Are you responding to the right projects at work and ensuring your energy is directed towards the right areas? What strategies can you use to find the tasks that bring you the most satisfaction?"; 
+var communication_generator_eng_1_s3 = "• Do you wait to respond before engaging in interactions? How can you listen to your instincts and recognize when the right time comes?\n\n• Are you responding to things that truly excite you? What can you do to trust your instincts and choose only the opportunities that align with you?\n\n• Are you making sure you're truly responding before initiating interactions? How can you apply this approach more in your work and social life?\n\n• Do you notice that people naturally gravitate towards you? What steps can you take to create more effective interactions at work thanks to your natural magnetism?\n\n• Are you responding to the right projects at work and ensuring your energy is directed towards the right areas? What strategies can you use to find the tasks that bring you the most satisfaction?"; 
 
 
 //Karar Verme Stratejilerin
@@ -5974,7 +5936,6 @@ var decision_strategy_eng_s4_1_txt = "By adhering to this decision-making strate
     P12A6: allVariables.P12A6,
     P12A7: allVariables.P12A7,
     P12A8: allVariables.P12A8,
-    P12A9: allVariables.P12A9,
     P13A1: allVariables.P13A1,
     P13A2: allVariables.P13A2,
     P13A3: allVariables.P13A3,
