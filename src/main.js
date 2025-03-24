@@ -11,7 +11,7 @@ export default async ({ req, res, log, error }) => {
   //         // Burada istediğiniz satırı `satirlar[index]` ile alabilirsiniz
   //     })
   //     .catch(error => console.error('Dosya okunamadı:', error));
-
+  log(req.body)
   function getAllGates(jsonData) {
     let gates = [];
 
