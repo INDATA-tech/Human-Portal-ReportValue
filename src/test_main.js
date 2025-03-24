@@ -1047,7 +1047,7 @@ var c_o_s_objective_s3_1 = "• Çevrende olup bitenleri tarafsız bir şekilde 
 //Çalışma ve Öğrenme Stilin İngilizce
 var c_o_s_indivudal_eng_title = "Individual"
 var c_o_s_individual_eng = "With Independent Assimilation, you carry the unique capability to process information and work autonomously. Your professional demeanor is marked by an innate sense of completeness, needing no external confirmation to feel secure in your understanding and actions. Your focus allows you to digest and assimilate information swiftly, giving you the edge in rapidly evolving business situations. This fast-paced cognitive approach enables you to act decisively, making you an invaluable asset in high-stakes environments where time is of the essence.\n\nWith your consistent and independent way of processing, you could move fast. While your ability to process rapidly is a strength, it's vital to temper it with patience. The business world often operates on collective rhythms that require synchronization. Slowing down allows others to catch up to your pace, ensuring that when you act on your insights, the timing is aligned with both individual and organizational readiness.";
-var c_o_s_individual_eng_s3_1 = "•How confident are you in making decisions, and how much do you rely on external approval?\n\n• When making quick decisions, how can you be patient to allow others to keep up with your pace?\n\n• Processing information quickly is your natural talent, but in which situations do you recognize the need to slow down and think more deeply?\n\n• How can you make more room for different perspectives when collaborating with your team?\n\n• When working independently, how can you maintain a balanced approach without overlooking potential contributions from others?";
+var c_o_s_individual_eng_s3_1 = "• How confident are you in making decisions, and how much do you rely on external approval?\n\n• When making quick decisions, how can you be patient to allow others to keep up with your pace?\n\n• Processing information quickly is your natural talent, but in which situations do you recognize the need to slow down and think more deeply?\n\n• How can you make more room for different perspectives when collaborating with your team?\n\n• When working independently, how can you maintain a balanced approach without overlooking potential contributions from others?";
 
 
 //Kariyer Seçim
@@ -1072,155 +1072,94 @@ var kariyer_secim_12_25_s2_9_1 = "Analitik ve Veri Odaklı Kariyerler";
 var kariyer_secim_12_25_s2_9_2 = "Sayılarla ve analizlerle aranın iyi olduğunu görüyoruz, veri bilimi ya da iş analitiği gibi kariyerlerde başarılı olabilirsin. Bu tür kariyerler, büyük miktarda veriyi analiz edip kararlar almaya yardımcı olmayı içerir. Örneğin, bir veri bilimcisi olarak bir şirketin satış verilerini analiz edebilir ve gelecekte nasıl daha iyi performans gösterebileceklerini belirleyebilirsin.";
 
 var kariyer_secim_12_25_s5_1_1 = "Yaratıcı ve Sanatsal Kariyerler";
-var kariyer_secim_12_25_s5_1_2 = "Grafik Tasarımı";
-var kariyer_secim_12_25_s5_1_3 = "Güzel Sanatlar";
-var kariyer_secim_12_25_s5_1_4 = "İç Mimarlık";
-var kariyer_secim_12_25_s5_1_5 = "Moda Tasarımı";
-var kariyer_secim_12_25_s5_1_5 = "Reklamcılık";
-var kariyer_secim_12_25_s5_1_5 = "Sinema ve Televizyon";
-var kariyer_secim_12_25_s5_1_6 = "Müzik";
-var kariyer_secim_12_25_s5_1_6 = "Yaratıcı Yazarlık";
-var kariyer_secim_12_25_s5_1_7 = "Sahne Sanatları";
+var kariyer_secim_12_25_s5_1_2 = "• Grafik Tasarımı\n• Güzel Sanatlar\n• İç Mimarlık\n• Moda Tasarımı\n• Reklamcılık\n• Sinema ve Televizyon\n• Müzik\n• Yaratıcı Yazarlık\n• Sahne Sanatları";
 
 var kariyer_secim_12_25_s5_2_1 = "Liderlik ve Yönetim Kariyerleri ";
-var kariyer_secim_12_25_s5_2_1 = "İşletme";
-var kariyer_secim_12_25_s5_2_3 = "Yönetim ve Organizasyon";
-var kariyer_secim_12_25_s5_2_4 = "İnsan Kaynakları Yönetimi";
-var kariyer_secim_12_25_s5_2_5 = "Endüstri Mühendisliği";
-var kariyer_secim_12_25_s5_2_6 = "Kamu Yönetimi";
-var kariyer_secim_12_25_s5_2_7 = "Lojistik Yönetimi";
-var kariyer_secim_12_25_s5_2_8 = "Proje Yönetimi (Yüksek Lisans)";
-var kariyer_secim_12_25_s5_2_9 = "Uluslararası İlişkiler";
+var kariyer_secim_12_25_s5_2_2 = "• İşletme\n• Yönetim ve Organizasyon\n• İnsan Kaynakları Yönetimi\n• Endüstri Mühendisliği\n• Kamu Yönetimi\n• Lojistik Yönetimi\n• Proje Yönetimi (Yüksek Lisans)\n• Uluslararası İlişkiler";
 
 var kariyer_secim_12_25_s5_3_1 = "Yardım ve Sosyal Kariyerler";
-var kariyer_secim_12_25_s5_3_2 = "Sosyal Hizmet";
-var kariyer_secim_12_25_s5_3_3 = "Psikoloji";
-var kariyer_secim_12_25_s5_3_4 = "Rehberlik ve Psikolojik Danışmanlık";
-var kariyer_secim_12_25_s5_3_5 = "Hemşirelik";
-var kariyer_secim_12_25_s5_3_6 = "Fizyoterapi ve Rehabilitasyon";
-var kariyer_secim_12_25_s5_3_7 = "Sağlık Yönetimi";
-var kariyer_secim_12_25_s5_3_8 = "Sosyoloji";
-var kariyer_secim_12_25_s5_3_9 = "Çocuk Gelişimi";
+var kariyer_secim_12_25_s5_3_2 = "• Sosyal Hizmet\n• Psikoloji\n• Rehberlik ve Psikolojik Danışmanlık\n• Hemşirelik\n• Fizyoterapi ve Rehabilitasyon\n• Sağlık Yönetimi\n• Sosyoloji\n• Çocuk Gelişimi";
 
 var kariyer_secim_12_25_s5_4_1 = "Teknik ve Mühendislik Kariyerleri";
-var kariyer_secim_12_25_s5_4_2 = "Bilgisayar Mühendisliği";
-var kariyer_secim_12_25_s5_4_3 = "Elektrik-Elektronik Mühendisliği";
-var kariyer_secim_12_25_s5_4_4 = "Makine Mühendisliği";
-var kariyer_secim_12_25_s5_4_5 = "İnşaat Mühendisliği";
-var kariyer_secim_12_25_s5_4_6 = "Yazılım Mühendisliği";
-var kariyer_secim_12_25_s5_4_7 = "Endüstri Mühendisliği";
-var kariyer_secim_12_25_s5_4_8 = "Mekatronik Mühendisliği";
-var kariyer_secim_12_25_s5_4_9 = "Matematik Mühendisliği";
+var kariyer_secim_12_25_s5_4_2 = "• Bilgisayar Mühendisliği\n• Elektrik-Elektronik Mühendisliği\n• Makine Mühendisliği\n• İnşaat Mühendisliği\n• Yazılım Mühendisliği\n• Endüstri Mühendisliği\n• Mekatronik Mühendisliği\n• Matematik Mühendisliği";
 
 var kariyer_secim_12_25_s5_5_1 = "Satış ve İlişki Kurma Kariyerleri";
-var kariyer_secim_12_25_s5_5_2 = "İşletme";
-var kariyer_secim_12_25_s5_5_3 = "Pazarlama";
-var kariyer_secim_12_25_s5_5_4 = "Halkla İlişkiler ve Reklamcılık";
-var kariyer_secim_12_25_s5_5_5 = "İletişim";
-var kariyer_secim_12_25_s5_5_6 = "Uluslararası Ticaret";
-var kariyer_secim_12_25_s5_5_7 = "İktisat";
-var kariyer_secim_12_25_s5_5_8 = "Ticaret Hukuku (Yüksek Lisans)";
-var kariyer_secim_12_25_s5_5_9 = "Satış Yönetimi (Sertifika ve Lisansüstü Programlar)";
+var kariyer_secim_12_25_s5_5_2 = "• İşletme\n• Pazarlama\n• Halkla İlişkiler ve Reklamcılık\n• İletişim\n• Uluslararası Ticaret\n• İktisat\n• Ticaret Hukuku (Yüksek Lisans)\n• Satış Yönetimi (Sertifika ve Lisansüstü Programlar)";
 
-var kariyer_secim_12_25_s5_5_1 = "Organizasyonel ve İdari Kariyerler";
-var kariyer_secim_12_25_s5_6_1 = "İnsan Kaynakları Yönetimi";
-var kariyer_secim_12_25_s5_6_2 = "İşletme";
-var kariyer_secim_12_25_s5_6_3 = "Büro Yönetimi";
-var kariyer_secim_12_25_s5_6_4 = "Kamu Yönetimi";
-var kariyer_secim_12_25_s5_6_5 = "Yönetim Bilişim Sistemleri";
-var kariyer_secim_12_25_s5_6_6 = "Endüstri Mühendisliği";
-var kariyer_secim_12_25_s5_6_7 = "İşletme Mühendisliği";
-var kariyer_secim_12_25_s5_6_8 = "Proje Yönetimi (Yüksek Lisans)";
+var kariyer_secim_12_25_s5_6_1 = "Organizasyonel ve İdari Kariyerler";
+var kariyer_secim_12_25_s5_6_1 = "• İnsan Kaynakları Yönetimi\n• İşletme\n• Büro Yönetimi\n• Kamu Yönetimi\n• Yönetim Bilişim Sistemleri\n• Endüstri Mühendisliği\n• İşletme Mühendisliği\n• Proje Yönetimi (Yüksek Lisans)";
 
 var kariyer_secim_12_25_s5_7_1 = "Yenilikçi ve Girişimci Kariyerler";
-var kariyer_secim_12_25_s5_7_2 = "İşletme";
-var kariyer_secim_12_25_s5_7_3 = "Girişimcilik";
-var kariyer_secim_12_25_s5_7_4 = "E-Ticaret ve Dijital Pazarlama";
-var kariyer_secim_12_25_s5_7_5 = "Endüstri Mühendisliği";
-var kariyer_secim_12_25_s5_7_6 = "Bilgisayar Bilimleri";
-var kariyer_secim_12_25_s5_7_7 = "İnovasyon Yönetimi (Yüksek Lisans)";
-var kariyer_secim_12_25_s5_7_8 = "Ürün Geliştirme ve Tasarım";
+var kariyer_secim_12_25_s5_7_2 = "• İşletme\n• Girişimcilik\n• E-Ticaret ve Dijital Pazarlama\n• Endüstri Mühendisliği\n• Bilgisayar Bilimleri\n• İnovasyon Yönetimi (Yüksek Lisans)\n• Ürün Geliştirme ve Tasarım";
 
 var kariyer_secim_12_25_s5_8_1 = "Öğretim ve Mentörlük Kariyerleri";
-var kariyer_secim_12_25_s5_8_2 = "Eğitim Fakülteleri (Fizik, Kimya, Matematik, Türk Dili ve Edebiyatı gibi alanlarda öğretmenlik)";
-var kariyer_secim_12_25_s5_8_3 = "Psikoloji";
-var kariyer_secim_12_25_s5_8_4 = "Rehberlik ve Psikolojik Danışmanlık";
-var kariyer_secim_12_25_s5_8_5 = "Pedagojik Formasyon Eğitimi";
-var kariyer_secim_12_25_s5_8_6 = "Eğitim Yönetimi ve Denetimi (Yüksek Lisans)";
-var kariyer_secim_12_25_s5_8_7 = "Yaşam Koçluğu (Sertifika Programları)";
+var kariyer_secim_12_25_s5_8_2 = "• Eğitim Fakülteleri (Fizik, Kimya, Matematik, Türk Dili ve Edebiyatı gibi alanlarda öğretmenlik)\n• Psikoloji\n• Rehberlik ve Psikolojik Danışmanlık\n• Pedagojik Formasyon Eğitimi\n• Eğitim Yönetimi ve Denetimi (Yüksek Lisans)\n• Yaşam Koçluğu (Sertifika Programları)";
 
 var kariyer_secim_12_25_s5_9_1 = "Analitik ve Veri Odaklı Kariyerler";
-var kariyer_secim_12_25_s5_9_2 = "Veri Bilimi ve İş Analitiği";
-var kariyer_secim_12_25_s5_9_3 = "İstatistik";
-var kariyer_secim_12_25_s5_9_4 = "Matematik";
-var kariyer_secim_12_25_s5_9_5 = "Ekonomi";
-var kariyer_secim_12_25_s5_9_6 = "Finans";
-var kariyer_secim_12_25_s5_9_7 = "Bilgisayar Mühendisliği";
-var kariyer_secim_12_25_s5_9_8 = "Yapay Zeka ve Veri Mühendisliği (Yüksek Lisans)";
-var kariyer_secim_12_25_s5_9_9 = "Endüstri Mühendisliği";
+var kariyer_secim_12_25_s5_9_2 = "• Veri Bilimi ve İş Analitiği\n• İstatistik\n• Matematik\n• Ekonomi\n• Finans\n• Bilgisayar Mühendisliği\n• Yapay Zeka ve Veri Mühendisliği (Yüksek Lisans)\n• Endüstri Mühendisliği";
 
 var kariyer_secim_12_25_s6_1_1 = "Yaratıcı ve Sanatsal Kariyerler";
 var kariyer_secim_12_25_s6_1_2 = "Üniversite diploması olmadan da yaratıcı ve sanatsal alanlarda başarılı olabilirsiniz. Özellikle meslek liselerinde tasarım, grafik, moda, görsel sanatlar gibi bölümlerden mezun olduktan sonra şu yolları izleyebilirsiniz: ";
-var kariyer_secim_12_25_s6_1_3 = "Freelance Tasarımcı: Grafik tasarım, web tasarımı, illüstrasyon gibi alanlarda kendi portföyünüzü oluşturarak freelance çalışabilirsiniz.";
-var kariyer_secim_12_25_s6_1_4 = "Moda Tasarımcısı: Moda atölyelerinde çalışarak, sektörde deneyim kazanabilir, kendi markanızı oluşturabilirsiniz.";
-var kariyer_secim_12_25_s6_1_5 = "Fotoğrafçılık: Bir fotoğraf stüdyosunda çalışarak ya da kendi ekipmanlarınızı edinerek, düğün, etkinlik veya moda fotoğrafçısı olabilirsiniz.";
-var kariyer_secim_12_25_s6_1_6 = "Müzisyen veya Sanatçı: Kendinizi müzik veya sanat alanında geliştirebilir, sosyal medya ve dijital platformlar üzerinden eserlerinizi paylaşarak tanınabilirsiniz.";
+var kariyer_secim_12_25_s6_1_3 = "• Freelance Tasarımcı: Grafik tasarım, web tasarımı, illüstrasyon gibi alanlarda kendi portföyünüzü oluşturarak freelance çalışabilirsiniz.";
+var kariyer_secim_12_25_s6_1_4 = "• Moda Tasarımcısı: Moda atölyelerinde çalışarak, sektörde deneyim kazanabilir, kendi markanızı oluşturabilirsiniz.";
+var kariyer_secim_12_25_s6_1_5 = "• Fotoğrafçılık: Bir fotoğraf stüdyosunda çalışarak ya da kendi ekipmanlarınızı edinerek, düğün, etkinlik veya moda fotoğrafçısı olabilirsiniz.";
+var kariyer_secim_12_25_s6_1_6 = "• Müzisyen veya Sanatçı: Kendinizi müzik veya sanat alanında geliştirebilir, sosyal medya ve dijital platformlar üzerinden eserlerinizi paylaşarak tanınabilirsiniz.";
 
 var kariyer_secim_12_25_s6_2_1 = "Liderlik ve Yönetim Kariyerleri";
 var kariyer_secim_12_25_s6_2_2 = "Meslek lisesi ya da lise mezuniyeti ile liderlik ve yönetim kariyerlerinde ilerlemek de mümkündür:";
-var kariyer_secim_12_25_s6_2_3 = "Süpervizör veya Takım Lideri: Perakende, lojistik veya üretim sektörlerinde çalışarak takım liderliği ya da süpervizör pozisyonuna yükselebilirsiniz.";
-var kariyer_secim_12_25_s6_2_4 = "İşletme Yönetimi: Kendi küçük işletmenizi kurabilir ya da bir aile işletmesinde yönetici olarak deneyim kazanabilirsiniz.";
-var kariyer_secim_12_25_s6_2_5 = "Satış Ekipleri Yönetimi: Satış alanında deneyim kazandıktan sonra bir satış ekibini yönetebilir, liderlik becerilerinizi geliştirebilirsiniz.";
-var kariyer_secim_12_25_s6_2_6 = "Mağaza Müdürü: Perakende sektöründe satış temsilcisi olarak başlayıp, mağaza müdürlüğü seviyesine çıkabilirsiniz.";
+var kariyer_secim_12_25_s6_2_3 = "• Süpervizör veya Takım Lideri: Perakende, lojistik veya üretim sektörlerinde çalışarak takım liderliği ya da süpervizör pozisyonuna yükselebilirsiniz.";
+var kariyer_secim_12_25_s6_2_4 = "• İşletme Yönetimi: Kendi küçük işletmenizi kurabilir ya da bir aile işletmesinde yönetici olarak deneyim kazanabilirsiniz.";
+var kariyer_secim_12_25_s6_2_5 = "• Satış Ekipleri Yönetimi: Satış alanında deneyim kazandıktan sonra bir satış ekibini yönetebilir, liderlik becerilerinizi geliştirebilirsiniz.";
+var kariyer_secim_12_25_s6_2_6 = "• Mağaza Müdürü: Perakende sektöründe satış temsilcisi olarak başlayıp, mağaza müdürlüğü seviyesine çıkabilirsiniz.";
 
 var kariyer_secim_12_25_s6_3_1 = "Yardım ve Sosyal Kariyerler";
 var kariyer_secim_12_25_s6_3_2 = "Üniversite okumadan da yardım ve sosyal kariyerlerde çalışabilirsiniz:";
-var kariyer_secim_12_25_s6_3_3 = "Hasta Bakıcı: Sağlık meslek liselerinde hasta bakım eğitimi aldıktan sonra sağlık sektöründe çalışabilirsiniz.";
-var kariyer_secim_12_25_s6_3_4 = "Sosyal Yardım Çalışanı: Sosyal yardım kurumlarında gönüllü çalışarak, deneyim kazandıktan sonra profesyonel olarak bu alanda çalışabilirsiniz.";
-var kariyer_secim_12_25_s6_3_5 = "Rehabilitasyon ve Huzurevi Çalışanı: Yaşlı bakımı ya da engelli bireylerle ilgili kurumlarda iş bulabilir, topluma katkı sağlayabilirsiniz.";
-var kariyer_secim_12_25_s6_3_6 = "Özel Eğitim Yardımcısı: Özel eğitim alanında eğitim yardımcısı olarak, bireylere destek sağlayabilirsiniz.";
+var kariyer_secim_12_25_s6_3_3 = "• Hasta Bakıcı: Sağlık meslek liselerinde hasta bakım eğitimi aldıktan sonra sağlık sektöründe çalışabilirsiniz.";
+var kariyer_secim_12_25_s6_3_4 = "• Sosyal Yardım Çalışanı: Sosyal yardım kurumlarında gönüllü çalışarak, deneyim kazandıktan sonra profesyonel olarak bu alanda çalışabilirsiniz.";
+var kariyer_secim_12_25_s6_3_5 = "• Rehabilitasyon ve Huzurevi Çalışanı: Yaşlı bakımı ya da engelli bireylerle ilgili kurumlarda iş bulabilir, topluma katkı sağlayabilirsiniz.";
+var kariyer_secim_12_25_s6_3_6 = "• Özel Eğitim Yardımcısı: Özel eğitim alanında eğitim yardımcısı olarak, bireylere destek sağlayabilirsiniz.";
 
 var kariyer_secim_12_25_s6_4_1 = "Teknik ve Mühendislik Kariyerleri";
 var kariyer_secim_12_25_s6_4_2 = "Teknik ve mühendislik kariyerlerinde, meslek lisesi ya da doğrudan iş deneyimiyle başarılı olabilirsiniz:";
-var kariyer_secim_12_25_s6_4_3 = "Tekniker/Teknisyen: Meslek liselerinden mezun olup elektrik, elektronik, makine, bilgisayar gibi alanlarda tekniker veya teknisyen olarak çalışabilirsiniz.";
-var kariyer_secim_12_25_s6_4_4 = "Bilgisayar Destek Uzmanı: Bilgisayar donanımı ve yazılımı konularında bilgi edinerek, bilgisayar desteği sağlayabilirsiniz.";
-var kariyer_secim_12_25_s6_4_5 = "Ustalık ve Çıraklık: Elektrik ustası, makine tamircisi, otomotiv teknisyeni gibi alanlarda usta-çırak ilişkisi ile kariyer yapabilirsiniz.";
-var kariyer_secim_12_25_s6_4_6 = "Yazılım Geliştirici: Kendinizi yazılım ve kodlama konusunda online kurslar ve sertifika programlarıyla geliştirebilir, freelance yazılım projelerinde yer alabilirsiniz.";
+var kariyer_secim_12_25_s6_4_3 = "• Tekniker/Teknisyen: Meslek liselerinden mezun olup elektrik, elektronik, makine, bilgisayar gibi alanlarda tekniker veya teknisyen olarak çalışabilirsiniz.";
+var kariyer_secim_12_25_s6_4_4 = "• Bilgisayar Destek Uzmanı: Bilgisayar donanımı ve yazılımı konularında bilgi edinerek, bilgisayar desteği sağlayabilirsiniz.";
+var kariyer_secim_12_25_s6_4_5 = "• Ustalık ve Çıraklık: Elektrik ustası, makine tamircisi, otomotiv teknisyeni gibi alanlarda usta-çırak ilişkisi ile kariyer yapabilirsiniz.";
+var kariyer_secim_12_25_s6_4_6 = "• Yazılım Geliştirici: Kendinizi yazılım ve kodlama konusunda online kurslar ve sertifika programlarıyla geliştirebilir, freelance yazılım projelerinde yer alabilirsiniz.";
 
 var kariyer_secim_12_25_s6_5_1 = "Satış ve İlişki Kurma Kariyerleri";
-var kariyer_secim_12_25_s6_5_2 = "Satış ve ilişki yönetimi kariyerlerinde, üniversite eğitimi olmadan da başarılı olabilirsiniz:";
-var kariyer_secim_12_25_s6_5_3 = "Satış Temsilcisi: Doğrudan satış veya perakende sektöründe çalışarak deneyim kazanabilir, satış ekiplerinde liderliğe yükselebilirsiniz.";
-var kariyer_secim_12_25_s6_5_4 = "Müşteri Temsilcisi: Müşteri hizmetleri alanında çalışarak, iletişim becerilerinizi geliştirip kariyerinizi bu yönde ilerletebilirsiniz.";
-var kariyer_secim_12_25_s6_5_5 = "Kendi İşinizi Kurma: Küçük ölçekli ticaret yaparak veya pazarlama becerilerinizi geliştirerek, kendi satış odaklı işinizi kurabilirsiniz.";
-var kariyer_secim_12_25_s6_5_6 = "E-Ticaret Satıcı: Online platformlarda (Trendyol, Etsy, Amazon gibi) ürün satarak dijital ticaret yapabilirsiniz.";
+var kariyer_secim_12_25_s6_5_2 = "• Satış ve ilişki yönetimi kariyerlerinde, üniversite eğitimi olmadan da başarılı olabilirsiniz:";
+var kariyer_secim_12_25_s6_5_3 = "• Satış Temsilcisi: Doğrudan satış veya perakende sektöründe çalışarak deneyim kazanabilir, satış ekiplerinde liderliğe yükselebilirsiniz.";
+var kariyer_secim_12_25_s6_5_4 = "• Müşteri Temsilcisi: Müşteri hizmetleri alanında çalışarak, iletişim becerilerinizi geliştirip kariyerinizi bu yönde ilerletebilirsiniz.";
+var kariyer_secim_12_25_s6_5_5 = "• Kendi İşinizi Kurma: Küçük ölçekli ticaret yaparak veya pazarlama becerilerinizi geliştirerek, kendi satış odaklı işinizi kurabilirsiniz.";
+var kariyer_secim_12_25_s6_5_6 = "• E-Ticaret Satıcı: Online platformlarda (Trendyol, Etsy, Amazon gibi) ürün satarak dijital ticaret yapabilirsiniz.";
 
 var kariyer_secim_12_25_s6_6_1 = "Organizasyonel ve İdari Kariyerler";
 var kariyer_secim_12_25_s6_6_2 = "Düzen ve organizasyon becerilerinizi iş hayatında kullanarak, bu alanlarda ilerleyebilirsiniz:";
-var kariyer_secim_12_25_s6_6_3 = "Ofis Asistanı: Bir ofiste sekreterlik veya idari asistanlık yaparak organizasyonel becerilerinizi geliştirebilirsiniz.";
-var kariyer_secim_12_25_s6_6_4 = "Proje Asistanı: Proje yönetim ekiplerinde asistan olarak başlayıp, deneyim kazandıkça daha sorumlu pozisyonlara geçebilirsiniz.";
-var kariyer_secim_12_25_s6_6_5 = "İnsan Kaynakları Asistanı: İnsan kaynakları departmanlarında yardımcı pozisyonlarda çalışarak deneyim kazanabilirsiniz.";
-var kariyer_secim_12_25_s6_6_6 = "Lojistik veya Stok Yönetimi: Lojistik sektöründe ya da depo yönetiminde çalışarak, organizasyonel süreçleri öğrenebilirsiniz.";
+var kariyer_secim_12_25_s6_6_3 = "• Ofis Asistanı: Bir ofiste sekreterlik veya idari asistanlık yaparak organizasyonel becerilerinizi geliştirebilirsiniz.";
+var kariyer_secim_12_25_s6_6_4 = "• Proje Asistanı: Proje yönetim ekiplerinde asistan olarak başlayıp, deneyim kazandıkça daha sorumlu pozisyonlara geçebilirsiniz.";
+var kariyer_secim_12_25_s6_6_5 = "• İnsan Kaynakları Asistanı: İnsan kaynakları departmanlarında yardımcı pozisyonlarda çalışarak deneyim kazanabilirsiniz.";
+var kariyer_secim_12_25_s6_6_6 = "• Lojistik veya Stok Yönetimi: Lojistik sektöründe ya da depo yönetiminde çalışarak, organizasyonel süreçleri öğrenebilirsiniz.";
 
 var kariyer_secim_12_25_s6_7_1 = "Yenilikçi ve Girişimci Kariyerler";
 var kariyer_secim_12_25_s6_7_2 = "Girişimcilik ve yenilikçilik için üniversite diplomasına ihtiyaç duymadan da birçok adım atabilirsiniz:";
-var kariyer_secim_12_25_s6_7_3 = "Kendi İşini Kurma: Yeteneklerinize ve ilgi alanlarınıza dayalı olarak bir iş kurabilir, örneğin küçük çaplı bir atölye ya da e-ticaret platformu açabilirsiniz.";
-var kariyer_secim_12_25_s6_7_4 = "Start-up Kurucusu: Teknoloji odaklı ya da yaratıcı bir girişim fikri ile yatırım alarak start-up projeleri geliştirebilirsiniz.";
-var kariyer_secim_12_25_s6_7_5 = "Sosyal Medya Girişimciliği: Sosyal medya platformları üzerinden içerik üreticiliği yapabilir, markalarla iş birliği içinde gelir elde edebilirsiniz.";
-var kariyer_secim_12_25_s6_7_6 = "Ürün Geliştirme: Atölyelerde veya fabrikalarda çalışarak ürün geliştirme sürecinde yer alabilir, yenilikçi fikirler üretebilirsiniz.";
+var kariyer_secim_12_25_s6_7_3 = "• Kendi İşini Kurma: Yeteneklerinize ve ilgi alanlarınıza dayalı olarak bir iş kurabilir, örneğin küçük çaplı bir atölye ya da e-ticaret platformu açabilirsiniz.";
+var kariyer_secim_12_25_s6_7_4 = "• Start-up Kurucusu: Teknoloji odaklı ya da yaratıcı bir girişim fikri ile yatırım alarak start-up projeleri geliştirebilirsiniz.";
+var kariyer_secim_12_25_s6_7_5 = "• Sosyal Medya Girişimciliği: Sosyal medya platformları üzerinden içerik üreticiliği yapabilir, markalarla iş birliği içinde gelir elde edebilirsiniz.";
+var kariyer_secim_12_25_s6_7_6 = "• Ürün Geliştirme: Atölyelerde veya fabrikalarda çalışarak ürün geliştirme sürecinde yer alabilir, yenilikçi fikirler üretebilirsiniz.";
 
 var kariyer_secim_12_25_s6_8_1 = "Öğretim ve Mentorluk Kariyerleri";
 var kariyer_secim_12_25_s6_8_2 = "Öğretim ve mentorluk alanında deneyim kazanarak da üniversite eğitimi olmadan kariyer yapabilirsiniz:";
-var kariyer_secim_12_25_s6_8_3 = "Özel Ders: Belirli bir konuda (matematik, yabancı dil, müzik gibi) uzmanlaşıp öğrencilere özel ders verebilirsiniz.";
-var kariyer_secim_12_25_s6_8_4 = "Koçluk ve Mentorluk: Yaşam koçluğu, kariyer koçluğu gibi alanlarda sertifika programlarına katılarak insanlara rehberlik edebilirsiniz.";
-var kariyer_secim_12_25_s6_8_5 = "Eğitim Asistanı: Okullarda veya eğitim kurumlarında asistan olarak çalışarak deneyim kazanabilirsiniz.";
-var kariyer_secim_12_25_s6_8_6 = "Gelişim Atölyeleri: Çocuklar ve gençler için yaratıcı atölyeler düzenleyebilir, kendi eğitim programlarınızı geliştirebilirsiniz.";
+var kariyer_secim_12_25_s6_8_3 = "• Özel Ders: Belirli bir konuda (matematik, yabancı dil, müzik gibi) uzmanlaşıp öğrencilere özel ders verebilirsiniz.";
+var kariyer_secim_12_25_s6_8_4 = "• Koçluk ve Mentorluk: Yaşam koçluğu, kariyer koçluğu gibi alanlarda sertifika programlarına katılarak insanlara rehberlik edebilirsiniz.";
+var kariyer_secim_12_25_s6_8_5 = "• Eğitim Asistanı: Okullarda veya eğitim kurumlarında asistan olarak çalışarak deneyim kazanabilirsiniz.";
+var kariyer_secim_12_25_s6_8_6 = "• Gelişim Atölyeleri: Çocuklar ve gençler için yaratıcı atölyeler düzenleyebilir, kendi eğitim programlarınızı geliştirebilirsiniz.";
 
 var kariyer_secim_12_25_s6_9_1 = "Analitik ve Veri Odaklı Kariyerler";
 var kariyer_secim_12_25_s6_9_2 = "Analitik ve veri odaklı kariyerlerde, üniversite eğitimi olmadan da pratik yollarla ilerleyebilirsiniz:";
-var kariyer_secim_12_25_s6_9_3 = "Veri Analiz Kursları: Online veri analitiği, SQL, Python gibi araçları öğrenerek veri analiz projelerinde çalışabilirsiniz.";
-var kariyer_secim_12_25_s6_9_4 = "Finansal Danışmanlık: Finansal analiz ve muhasebe alanlarında iş deneyimi kazanarak, küçük işletmelere danışmanlık yapabilirsiniz.";
-var kariyer_secim_12_25_s6_9_5 = "Pazarlama Analitiği: Dijital pazarlama araçlarını öğrenip, sosyal medya veya SEO analizleri yaparak şirketlere danışmanlık verebilirsiniz.";
-var kariyer_secim_12_25_s6_9_6 = "Staj ve Sertifikalar: Veri analitiği alanında staj yaparak ya da online sertifika programlarıyla uzmanlık kazanabilirsiniz.";
+var kariyer_secim_12_25_s6_9_3 = "• Veri Analiz Kursları: Online veri analitiği, SQL, Python gibi araçları öğrenerek veri analiz projelerinde çalışabilirsiniz.";
+var kariyer_secim_12_25_s6_9_4 = "• Finansal Danışmanlık: Finansal analiz ve muhasebe alanlarında iş deneyimi kazanarak, küçük işletmelere danışmanlık yapabilirsiniz.";
+var kariyer_secim_12_25_s6_9_5 = "• Pazarlama Analitiği: Dijital pazarlama araçlarını öğrenip, sosyal medya veya SEO analizleri yaparak şirketlere danışmanlık verebilirsiniz.";
+var kariyer_secim_12_25_s6_9_6 = "• Staj ve Sertifikalar: Veri analitiği alanında staj yaparak ya da online sertifika programlarıyla uzmanlık kazanabilirsiniz.";
 
 //25+
 var kariyer_secim_25_plus_s2_1_1 = "Yaratıcı ve Sanatsal Kariyerler";
@@ -1242,6 +1181,7 @@ var kariyer_secim_25_plus_s2_8_2 = "Bilginizi ve deneyimlerinizi başkalarıyla 
 var kariyer_secim_25_plus_s2_9_1 = "Analitik ve Veri Odaklı Kariyerler ";
 var kariyer_secim_25_plus_s2_9_2 = "Veri analizi ve problem çözme yetenekleriniz güçlü görünüyor, analitik ve veri odaklı kariyerler size uygun olabilir. Veri bilimi, iş zekası ya da finansal analiz gibi alanlarda çalışarak, şirketlerin stratejik kararlar almasına yardımcı olabilirsiniz. Örneğin, bir veri analisti olarak büyük verileri analiz edip şirketlerin pazarlama stratejilerini iyileştirebilir ya da bir iş zekası uzmanı olarak yönetime raporlar sunabilirsiniz. Bu kariyerler, sayısal analiz yeteneği ve detaylara dikkat gerektirir. ";
 
+//Güncel İşler
 var kariyer_secim_s3_1_0 = "Yaratıcı ve Sanatsal Kariyerler";
 var kariyer_secim_s3_1_1 = "Grafik Tasarımcı\nİçerik Yazarı\nFotoğrafçı\İllüstratör\nMüzisyen\nYönetmen\nSanat Yönetmeni\nAnimatör\nReklam Sanat Yönetmeni\nİç MimarModa Tasarımcısı\nWeb Tasarımcısı\nVideo Düzenleyici\nSes Mühendisi\nKreatif Direktör";
 var kariyer_secim_s3_2_0 = "Liderlik ve Yönetim Kariyerleri";
@@ -1261,6 +1201,7 @@ var kariyer_secim_s3_8_1 = "Öğretmen/Eğitimci\nProfesör\nOkul Müdürü\nMü
 var kariyer_secim_s3_9_0 = "Analitik ve Veriye Dayalı Kariyerler";
 var kariyer_secim_s3_9_1 = "Veri Analisti\nFinansal Analist\nPazar Araştırması Analisti\nİstatistikçi\nYöneylem Araştırması Analisti\nAktüerya\nKantitatif Analist\nRisk Analisti\nİş Zekası Analisti\nTedarik Zinciri Analisti\nKredi Analisti\nFiyatlandırma Analisti\nKalite Güvence Analisti\nSağlık Veri Analisti\nUyumluluk Analisti";
 
+//Geleceğin işleri 
 var kariyer_secim_s4_1_0 = "Yaratıcı ve Sanatsal Kariyerler";
 var kariyer_secim_s4_1_1 = "Sanal Gerçeklik Tasarımcısı\nArtırılmış Gerçeklik Sanatçısı\nNFT Sanatçısı\nXR Deneyim Tasarımcısı\nYapay Zeka ile Sanat Geliştiricisi\nHolografik Sanatçı\nSosyal Medya İçerik Üreticisi\nBiyo-Sanatçı\nSanal Moda Tasarımcısı\n3D Baskı Sanatçısı\nYapay Zeka ile Müzik Bestecisi\nOyun Anlatı Tasarımcısı\nYapay Zeka ile Hikaye Anlatıcısı\nMetaverse Mimarı";
 var kariyer_secim_s4_2_0 = "Liderlik ve Yönetim Kariyerleri";
@@ -1721,22 +1662,62 @@ var kariyer_secim_25_plus_s7_meal_9_7 = "• Gıda Güvenliği Analisti: Gıda g
 //Kariyer Seçim İngilizce
 var kariyer_secim_25_plus_eng_s2_1_1 = "Creative and Artistic Careers"
 var kariyer_secim_25_plus_eng_s2_1_2 = "If you want to use your creativity in your professional life, these fields might be a great fit for you. Careers in advertising, graphic design, fashion, music, film, or writing allow you to reflect your aesthetic sense and original ideas in professional projects. For example, you could design innovative ad campaigns for a brand or work as a content writer on creative projects. Artistic careers offer broad and flexible opportunities—whether you choose to work freelance or collaborate with an agency.";
-
 var kariyer_secim_25_plus_eng_s2_2_1 = "Leadership and Management Careers"
 var kariyer_secim_25_plus_eng_s2_2_2 = "You have a natural ability for leadership and can excel in managing teams and making strategic decisions. Careers in project management, team leadership, operations management, or senior executive roles require taking responsibility and achieving goals. For example, as a business manager, you could oversee the entire operations of an organization and develop new strategies to contribute to its growth. These careers demand strong leadership skills for long-term success and career advancement.";
+var kariyer_secim_25_plus_eng_s2_3_1 = "Helping and Social Careers";
+var kariyer_secim_25_plus_eng_s2_3_2 = "Your passion for helping others is clear. You could find a fulfilling career in healthcare, social services, or non-profit organizations. Careers like participating in social responsibility projects, being a therapist, or working as a healthcare professional stand out in this area. For example, you could support disadvantaged groups as a social worker or ensure the efficiency of healthcare services as a health administrator. These careers offer the opportunity to improve lives and make a positive impact.";
+var kariyer_secim_25_plus_eng_s2_4_1 = "Technical and Engineering Careers";
+var kariyer_secim_25_plus_eng_s2_4_2 = "With your technical skills and analytical mindset, you can specialize in engineering or technology. By working in fields like software development, mechanical engineering, or cybersecurity, you can respond to the ever-evolving demands of the business world. For example, as a software engineer, you could develop new applications, or as a network security expert, you could protect the digital infrastructure of companies. These fields require keeping up with rapidly advancing technologies and a commitment to continuous learning.";
+var kariyer_secim_25_plus_eng_s2_5_1 = "Sales and Relationship Careers";
+var kariyer_secim_25_plus_eng_s2_5_2 = "Your communication skills and ability to manage relationships make you well-suited for careers in sales and customer relations. Working in areas like sales management, business development, or customer service allows you to directly contribute to a company’s growth. For instance, as a sales manager, you could lead teams toward achieving targets, or as a business development specialist, you could attract new clients. These careers emphasize persuasion skills and relationship management expertise.";
+var kariyer_secim_25_plus_eng_s2_6_1 = "Organizational and Administrative Careers";
+var kariyer_secim_25_plus_eng_s2_6_2 = "Your strong organizational, planning, and coordination skills could lead to a successful career in administrative and organizational roles. Positions in human resources, office management, or project coordination ensure that business processes run smoothly and efficiently. For example, as a human resources manager, you could oversee recruitment processes, or as a project manager, you could coordinate different teams to reach the same goal. Success in these areas depends on attention to detail and multifaceted thinking.";
+var kariyer_secim_25_plus_eng_s2_7_1 = "Innovative and Entrepreneurial Careers";
+var kariyer_secim_25_plus_eng_s2_7_2 = "With an entrepreneurial spirit, you have opportunities to bring your innovative ideas to life in various fields. You can start your own business, lead a startup, or develop new products and services that stand out in the market. For instance, you could launch a startup in the tech field, developing a new mobile app, or implement an innovative business model in e-commerce. These careers combine risk-taking with creativity.";
+var kariyer_secim_25_plus_eng_s2_8_1 = "Teaching and Mentoring Careers";
+var kariyer_secim_25_plus_eng_s2_8_2 = "You enjoy sharing your knowledge and experience with others, making teaching and mentoring great career options for you. In the education sector, you can contribute to the growth of individuals by becoming a teacher, academic advisor, or coach. For example, as a trainer, you can teach adults new professional skills, or as a mentor, you can guide young professionals in their careers. These careers require effective communication and strong guidance skills.";
+var kariyer_secim_25_plus_eng_s2_9_1 = "Analytical and Data-Driven Careers";
+var kariyer_secim_25_plus_eng_s2_9_2 = "With your strong data analysis and problem-solving skills, analytical and data-driven careers could be a great fit for you. By working in fields like data science, business intelligence, or financial analysis, you can help companies make strategic decisions. For instance, as a data analyst, you could analyze large datasets and improve a company’s marketing strategies, or as a business intelligence expert, you could provide reports to management. These careers require a strong numerical aptitude and attention to detail.";
 
-
-
-
-
+//Güncel İşler
 var kariyer_secim_eng_s3_1_0 = "Creative and Artistic Careers"
 var kariyer_secim_eng_s3_1_1 = "Graphic Designer\nContent Creator\nPhotographer\nIllustrator\nMusician\nDirector\nArt Director\nAnimator\nAdvertising Art Director\nInterior Designer\nFashion Designer\nWeb Designer\nVideo Editor\nSound Engineer\nCreative Director";
+var kariyer_secim_eng_s3_2_0 = "Leadership and Management Careers";
+var kariyer_secim_eng_s3_2_1 = "Project Manager\nHuman Resources Manager\nMarketing Manager\nFinancial Manager\nOperations Manager\nSupply Chain Manager\nGeneral Manager\nSales Manager\nProduction Manager\nArea Director\nQuality Assurance Manager\nIT Manager\nAuditing Manager\nRetail Store Manager\nTechnical Planner";
+var kariyer_secim_eng_s3_3_0 = "Helping and Social Careers";
+var kariyer_secim_eng_s3_3_1 = "Social Worker\nCounselor/Psychologist\nNurse\nTeacherMarriage and Family Therapist\nSubstance Abuse Counselor\nClinical Psychologist\nSchool Counselor\nRehabilitation Counselor\nNon-Profit Program Manager\nGeriatric Care Manager\nChild Welfare Worker\nMental Health Technician\nHospice Worker\nCommunity Health Worker";
+var kariyer_secim_eng_s3_4_0 = "Technical and Engineering Careers";
+var kariyer_secim_eng_s3_4_1 = "Software Engineer\nMechanical Engineer\nElectrical Engineer\nCivil Engineer\nAerospace Engineer\nBiomedical Engineer\nEnvironmental Engineer\nChemical Engineer\nData Scientist\nNetwork Administrator\nSystems Engineer\nQuality Control Engineer\nIndustrial Engineer\nProcess Engineer\nTelecommunications\nEngineer";
+var kariyer_secim_eng_s3_5_0 = "Sales and Relationship Careers";
+var kariyer_secim_eng_s3_5_1 = "Sales Representative\nAccount Manager\nBusiness Development Manager\nReal Estate Agent\nMarketing Coordinator\nCustomer Relationship Manager\nAdvertising Sales Representative\nBrand Ambassador\nBrand Ambassador\nKey Account Manager\nInside Sales Representative\nPublic Relations Specialist\nSales Operations Analyst\nRetail Store Manager\nEvent Planner\nHospitality Manager";
+var kariyer_secim_eng_s3_6_0 = "Organizational and Administrative Careers";
+var kariyer_secim_eng_s3_6_1 = "Executive Assistant\nOffice Manager\nExecutive Assistant\nProject Coordinator\nEvent Planner\nOffice Administrator\nRecords Manager\nHuman Resources Coordinator\nData Entry Specialist\nLegal Secretary\nFacility Manager\nPurchasing Specialist\nTravel Coordinator\nCustomer Service\nRepresentative\nBilling Specialist";
+var kariyer_secim_eng_s3_7_0 = "Innovative and Entrepreneurial Careers";
+var kariyer_secim_eng_s3_7_1 = "Startup Founder\nEntrepreneur/Startup Founder\nInnovation Consultant\nEducation Consultant\nGrowth Hacker\nFranchise Owner\nDistance Learning Educator\nDesign-Centered Innovation Consultant\nSchool Teacher\nSocial Entrepreneur\nPatent Analyst\nMentor/Coach\nChief Innovation Officer\nCareer Consultant\nSustainability Consultant\nEducational Technologist\nBiotech Innovator\nSG (Environmental, Social, and Governance) Expert";
+var kariyer_secim_eng_s3_8_0 = "Teaching and Mentoring Careers";
+var kariyer_secim_eng_s3_8_1 = "Teacher/Educator\nProfessor\nSchool Principal\nCurriculum Developer\nInstructional Designer\nEducation Consultant\nOnline Instructor\nSpecial Education Teacher\nESL Teacher\nSchool Counselor\nLibrarian\nMentor/Coach\nCareer Advisor\nEducational Technologist\nYouth Mentor";
+var kariyer_secim_eng_s3_9_0 = "Analytical and Data-Driven Careers";
+var kariyer_secim_eng_s3_9_1 = "Data Analyst\nFinancial Analyst\nMarket Research Analyst\nStatistician\nOperations Research\nAnalyst\nActuary\nQuantitative Analyst\nRisk Analyst\nIntelligence Analyst\nSupply Chain Analyst\nCredit Analyst\nPricing Analyst\nQuality Assurance Analyst\nHealth Data Analyst\nCompliance Analyst";
 
-
-
+//Geleceğin işleri
 var kariyer_secim_eng_s4_1_0 = "Creative and Artistic Careers"
 var kariyer_secim_eng_s4_1_1 = "Virtual Reality Designer\nAugmented Reality Artist\nNFT Artist\nXR (Extended Reality)\nExperience Designer\nAI-Generated Art Developer\nHolographic Artist\nSocial Media Content Producer\nBio-Artist (Biotechnology Art)\nVirtual Fashion Designer\nChief Artist\nAI-Enhanced Music Composer\nGame Story Designer\nAI-Generated Storyteller\nMetaverse Architect";
-
+var kariyer_secim_eng_s4_2_0 = "Leadership and Management Careers";
+var kariyer_secim_eng_s4_2_1 = "Sustainability Director\nDigital Consultancy Manager\nRemote Work Coordinator\nAI Strategy Director\nBlockchain Manager\nProcurement Specialist\nTravel Coordinator\nMaster Services Coordinator\nBilling Specialist\nOffice Assistant\nAI Office Manager\nEmployee Wellbeing Coordinator\nBlockchain Manager\nDigital Event Manager\nSustainability Manager\nCybersecurity Manager\nData Governance Specialist\nField Team Coordinator\nAI-Enhanced HR Coordinator\nRobotics Production Automation\nMng";
+var kariyer_secim_eng_s4_2_0 = "Helping and Social Careers";
+var kariyer_secim_eng_s4_2_1 = "Telehealth Specialist\nArtificial Intelligence Therapist\nVirtual Reality Therapist\nTelemedicine Coordinator\nMental Health AI Coach\nGerontologist(specialized in elderly care)\nDigital Health Coach\nCommunity Resilience Officer\nAI-Supported Special Needs\nEducator\nDisaster Response Coordinator\nAI-Enhanced Elder Companion\nRobotic Rehabilitation\nTherapist\nRemote Mental Health\nConsultant\nCrisis Communication Manager";
+var kariyer_secim_eng_s4_2_0 = "Technical and Engineering Careers";
+var kariyer_secim_eng_s4_2_1 = "Quantum Computing Engineer\nArtificial Intelligence (AI)\nEthics Specialist\nRobotic Process Automation Engineer\n3D Printing Engineer\nSpace Research Engineer\nRenewable Energy Engineer\nAutonomous Vehicle Engineer\nAugmented Reality Engineer\nBlockchain Developer\nCybersecurity Analyst\nAI Engineer for Healthcare\nNanotechnology Engineer\nBioinformatics Scientist\nWater Resources Engineer (Sustainable Infrastructure)\nRemote Drone Technician";
+var kariyer_secim_eng_s4_2_0 = "Sales and Relationship Careers";
+var kariyer_secim_eng_s4_2_1 = "Digital Sales Strategist\nAI Sales Specialist\nVirtual Reality Sales Manager\nSustainability Sales Consultant\nChatbot Sales Representative\nCustomer Experience Director\nData-Driven Sales Analyst\nE-commerce Manager\nSocial Commerce Specialist\nAI-Assisted Personal Shopper\nInfluencer Marketing Manager\nBlockchain Sales Consultant\nAugmented Reality Sales\nSpecialist\nRemote Sales Coach\nCustomer Experience AI Designer";
+var kariyer_secim_eng_s4_2_0 = "Organizational and Administrative Careers";
+var kariyer_secim_eng_s4_2_1 = "Virtual Assistant\nAI Office Manager\nWorkplace Wellness Coordinator\nBlockchain Manager\nDigital Event Manager\nSustainability Manager\nCybersecurity Manager\nData Governance Specialist\nRemote Team Coordinator\nAI-Assisted HR Coordinator\nRobotic Process Automation Manager\nSmart Office Consultant\nSpace Tourism Operations Coordinator\nRemote Event Planner\nNFT Art Gallery Manager";
+var kariyer_secim_eng_s4_2_0 = "Innovative and Entrepreneurial Careers";
+var kariyer_secim_eng_s4_2_1 = "Blockchain Entrepreneur\nAI Education Coach\nSpace Tourism Entrepreneur\nSustainability-Oriented Innovator\nDrone Services Entrepreneur\nAugmented Reality Tourist Guide\nVirtual Reality Arcade Owner\nSpace Mining Entrepreneur\nAI Mentoring Specialist\nRemote Learning Specialist\nDigital Ethics Consultant\nQuantum Computing Entrepreneur\nMetaverse Experience Designer\nPersonal Branding Coach\nCybersecurity Education Specialist\nAI-Assisted Language Teacher";
+var kariyer_secim_eng_s4_2_0 = "Teaching and Mentoring Careers";
+var kariyer_secim_eng_s4_2_1 = "Virtual Reality Education Specialist\nAI Education Coach\nEducational Technology Developer\nOnline Learning Experience Designer\nAugmented Reality Educator\nLifelong Learning Facilitator\nYouth Mentor in Virtual Worlds\nAI Mentoring Coordinator\nRemote Learning Specialist\nDigital Health Educator\nMetaverse Learning\nExperience Designer\nBlockchain Education Specialist\nGame and Esports Consultant\nCybersecurity Education Specialist";
+var kariyer_secim_eng_s4_2_0 = "Analytical and Data-Driven Careers";
+var kariyer_secim_eng_s4_2_1 = "Data Scientist\nMachine Learning Engineer\nAI Ethicist\nData Visualization Specialist\nBlockchain Data Analyst\nChief Data Officer\nPredictive Analytics Modeler\nAdvanced Analytics Expert\nCybersecurity Data Analyst\nQuantum Data Analyst\nHealth Data Scientist\nData-Driven Marketing Specialist\nSustainability Data Analyst\nHuman Resources Analyst with AI\nIoT (Internet of Things) Data Analyst";
 
 //perakende
 var kariyer_secim_25_plus_s7_eng_retail_1_1 = "Creative and Artistic Careers";
@@ -1886,8 +1867,8 @@ var kariyer_secim_25_plus_s7_eng_health_9_7 = "• Bioinformatics Specialist: By
 var kariyer_secim_25_plus_s7_eng_health_9_7 = "• Quality Control Analyst: You can ensure the production of safe and effective products by analyzing the quality of pharmaceutical production processes.";
 
 //teknoloji
-var kariyer_secim_25_plus_s7_eng_tech_1_1 = "Jobs Available in the Technology Sector";
-var kariyer_secim_25_plus_s7_eng_tech_1_2 = "Creative and Artistic Careers";
+var kariyer_secim_25_plus_s7_eng_tech_1_1 = "Creative and Artistic Careers";
+var kariyer_secim_25_plus_s7_eng_tech_1_2 = "Jobs Available in the Technology Sector";
 var kariyer_secim_25_plus_s7_eng_tech_1_3 = "• UX/UI Designer: You can design user experiences and interfaces for websites and mobile apps, creating user-friendly solutions.";
 var kariyer_secim_25_plus_s7_eng_tech_1_4 = "• Game Designer: Develop concepts and visuals for video games, creating imaginative worlds and characters.";
 var kariyer_secim_25_plus_s7_eng_tech_1_5 = "• Digital Graphic Designer: Design visuals for digital marketing materials and web graphics for tech companies.";
@@ -1944,11 +1925,11 @@ var kariyer_secim_25_plus_s7_eng_tech_7_7 = "• Design Consultancy: You can pro
 
 var kariyer_secim_25_plus_s7_eng_tech_8_1 = "Teaching and Mentorship Careers";
 var kariyer_secim_25_plus_s7_eng_tech_8_2 = "Jobs Available in the Technology Sector";
-var kariyer_secim_25_plus_s7_eng_tech_8_3 = "•· Fashion Educator: You can teach students or employees about fashion design, style consultancy, or textile production.";
-var kariyer_secim_25_plus_s7_eng_tech_8_4 = "•· Stylist Consultant: You can guide aspiring stylists, helping them develop in their careers.";
-var kariyer_secim_25_plus_s7_eng_tech_8_5 = "•· Fashion Coach: You can offer professional coaching to individuals who want to pursue a career in fashion, helping them through their development process.";
-var kariyer_secim_25_plus_s7_eng_tech_8_6 = "•· Career Mentor (Fashion): You can guide professionals in the fashion industry, helping them overcome challenges in their careers.";
-var kariyer_secim_25_plus_s7_eng_tech_8_7 = "•· Fashion School Administrator: As a school administrator, you can manage educational programs in a fashion school and ensure students receive quality education.";
+var kariyer_secim_25_plus_s7_eng_tech_8_3 = "• Fashion Educator: You can teach students or employees about fashion design, style consultancy, or textile production.";
+var kariyer_secim_25_plus_s7_eng_tech_8_4 = "• Stylist Consultant: You can guide aspiring stylists, helping them develop in their careers.";
+var kariyer_secim_25_plus_s7_eng_tech_8_5 = "• Fashion Coach: You can offer professional coaching to individuals who want to pursue a career in fashion, helping them through their development process.";
+var kariyer_secim_25_plus_s7_eng_tech_8_6 = "• Career Mentor (Fashion): You can guide professionals in the fashion industry, helping them overcome challenges in their careers.";
+var kariyer_secim_25_plus_s7_eng_tech_8_7 = "• Fashion School Administrator: As a school administrator, you can manage educational programs in a fashion school and ensure students receive quality education.";
 
 var kariyer_secim_25_plus_s7_eng_tech_9_1 = "Analytical and Data-Driven Careers";
 var kariyer_secim_25_plus_s7_eng_tech_9_2 = "Jobs Available in the Technology Sector";
@@ -2040,6 +2021,70 @@ var kariyer_secim_25_plus_s7_eng_auto_1_5 = "• Graphic Designer: Create graphi
 var kariyer_secim_25_plus_s7_eng_auto_1_6 = "• Color and Material Designer: Contribute to the aesthetic appeal of vehicles by selecting color palettes and materials.";
 var kariyer_secim_25_plus_s7_eng_auto_1_7 = "• Visual Presentation Specialist: Prepare visual presentations and concept designs for car shows, advertising campaigns, and launches.";
 
+var kariyer_secim_25_plus_s7_eng_auto_2_1 = "Leadership and Management Careers";
+var kariyer_secim_25_plus_s7_eng_auto_2_2 = "Automotive Industry";
+var kariyer_secim_25_plus_s7_eng_auto_2_3 = "• Factory Manager: Manage production processes in a car manufacturing plant, ensuring quality control and production targets are met.";
+var kariyer_secim_25_plus_s7_eng_auto_2_4 = "• Sales Manager: Develop sales strategies and guide the sales team for car dealerships or distributors.";
+var kariyer_secim_25_plus_s7_eng_auto_2_5 = "• Project Manager: Manage the development processes of new vehicle models, coordinating different departments to ensure timely completion of projects.";
+var kariyer_secim_25_plus_s7_eng_auto_2_6 = "• Service Manager: Oversee the operations of car service centers, directing teams to improve customer satisfaction.";
+var kariyer_secim_25_plus_s7_eng_auto_2_7 = "• Logistics Manager: Manage supply chain processes from production to distribution, ensuring vehicles reach dealerships on time.";
+
+var kariyer_secim_25_plus_s7_eng_auto_3_1 = "Helping and Social Careers";
+var kariyer_secim_25_plus_s7_eng_auto_3_2 = "Automotive Industry";
+var kariyer_secim_25_plus_s7_eng_auto_3_3 = "• Customer Service Specialist: Guide car owners through service and maintenance, resolving customer complaints.";
+var kariyer_secim_25_plus_s7_eng_auto_3_4 = "• Warranty Consultant: Provide information to customers about car warranties and organize warranty-covered services.";
+var kariyer_secim_25_plus_s7_eng_auto_3_5 = "• Sustainability Specialist: Promote environmental awareness in the industry by working on eco-friendly car production and sustainable energy usage.";
+var kariyer_secim_25_plus_s7_eng_auto_3_6 = "• Training and Development Specialist: Contribute to knowledge sharing in the industry by providing service, sales, or technical training to automotive employees.";
+var kariyer_secim_25_plus_s7_eng_auto_3_7 = "• Community Relations Specialist: Manage social responsibility projects for automotive companies, creating initiatives that benefit the community3";
+
+var kariyer_secim_25_plus_s7_eng_auto_4_1 = "Technical and Engineering Careers";
+var kariyer_secim_25_plus_s7_eng_auto_4_2 = "Automotive Industry";
+var kariyer_secim_25_plus_s7_eng_auto_4_3 = "• Mechanical Engineer: Design and develop engines, chassis, and other mechanical components of vehicles.";
+var kariyer_secim_25_plus_s7_eng_auto_4_4 = "• Automotive Engineer: Work on improving vehicle performance, ensuring safety, and optimizing energy efficiency.";
+var kariyer_secim_25_plus_s7_eng_auto_4_5 = "• Electrical-Electronics Engineer: Develop the electronic systems, sensors, and autonomous driving technologies in vehicles.";
+var kariyer_secim_25_plus_s7_eng_auto_4_6 = "• Production Engineer: Plan production processes for vehicles, working to improve efficiency and reduce costs.";
+var kariyer_secim_25_plus_s7_eng_auto_4_7 = "• Quality Control Specialist: Ensure that manufactured vehicles meet quality standards by inspecting and improving production processes4";
+
+var kariyer_secim_25_plus_s7_eng_auto_5_1 = "Sales and Relationship Management Careers";
+var kariyer_secim_25_plus_s7_eng_auto_5_2 = "Automotive Industry";
+var kariyer_secim_25_plus_s7_eng_auto_5_3 = "• Car Sales Consultant: Manage customer relationships in dealerships, facilitating car sales and meeting customer needs.";
+var kariyer_secim_25_plus_s7_eng_auto_5_4 = "• Fleet Sales Manager: Develop vehicle sales strategies for large companies or fleet buyers, building relationships with corporate clients.";
+var kariyer_secim_25_plus_s7_eng_auto_5_5 = "• After-Sales Services Specialist: Provide support for customers' service, maintenance, and spare parts needs, enhancing the quality of after-sales services.";
+var kariyer_secim_25_plus_s7_eng_auto_5_6 = "• Marketing Specialist: Manage marketing campaigns for car brands, developing advertising and promotion strategies.";
+var kariyer_secim_25_plus_s7_eng_auto_5_7 = "• Customer Experience Manager: Analyze customer experiences during and after the purchasing process, creating strategies to improve customer satisfaction5";
+
+var kariyer_secim_25_plus_s7_eng_auto_6_1 = "Organizational and Administrative Careers";
+var kariyer_secim_25_plus_s7_eng_auto_6_2 = "Automotive Industry";
+var kariyer_secim_25_plus_s7_eng_auto_6_3 = "• Office Manager: Manage administrative processes in car companies, organizing staff and daily operations.";
+var kariyer_secim_25_plus_s7_eng_auto_6_4 = "• Human Resources Specialist: Handle recruitment, training, and performance evaluations for employees in the automotive industry.";
+var kariyer_secim_25_plus_s7_eng_auto_6_5 = "• Inventory Management Specialist: Manage vehicle and parts inventories in dealerships or manufacturing plants, optimizing stock levels based on demand.";
+var kariyer_secim_25_plus_s7_eng_auto_6_6 = "• Sales Operations Manager: Oversee the operational details of vehicle sales processes, coordinating communication between dealers and distributors.";
+var kariyer_secim_25_plus_s7_eng_auto_6_7 = "• Logistics and Distribution Specialist: Organize logistics processes to ensure that manufactured vehicles are delivered to dealerships or distributors on time6";
+
+var kariyer_secim_25_plus_s7_eng_auto_7_2 = "Innovative and Entrepreneurial Careers";
+var kariyer_secim_25_plus_s7_eng_auto_7_2 = "Automotive Industry";
+var kariyer_secim_25_plus_s7_eng_auto_7_3 = "• Electric Vehicle Entrepreneur: Start a venture focused on electric car production or developing charging infrastructure.";
+var kariyer_secim_25_plus_s7_eng_auto_7_4 = "• Automotive Technology Entrepreneur: Launch a business offering innovative solutions for autonomous driving, artificial intelligence, or connected vehicle technologies.";
+var kariyer_secim_25_plus_s7_eng_auto_7_5 = "• Start-up Founder (Car Sharing): Develop a platform for car-sharing or rental, providing mobility solutions.";
+var kariyer_secim_25_plus_s7_eng_auto_7_6 = "• Innovation Consultant: Provide consultancy to automotive companies on new technologies and trends, helping them develop innovative strategies.";
+var kariyer_secim_25_plus_s7_eng_auto_7_7 = "• R&D Manager: Lead R&D projects to develop new vehicle technologies, staying up-to-date with industry innovations.";
+
+var kariyer_secim_25_plus_s7_eng_auto_8_1 = "Teaching and Mentorship Careers";
+var kariyer_secim_25_plus_s7_eng_auto_8_2 = "Automotive Industry";
+var kariyer_secim_25_plus_s7_eng_auto_8_3 = "• Automotive Instructor: Teach automotive technology, engineering, or production processes at technical schools or universities.";
+var kariyer_secim_25_plus_s7_eng_auto_8_4 = "• Driving Instructor: Provide driving lessons to candidates, helping them develop safe driving skills.";
+var kariyer_secim_25_plus_s7_eng_auto_8_5 = "• Technical Service Trainer: Train service technicians in car repair, maintenance, and servicing.";
+var kariyer_secim_25_plus_s7_eng_auto_8_6 = "• Career Coach (Automotive): Mentor individuals planning a career in the automotive industry, helping them map out their career paths.";
+var kariyer_secim_25_plus_s7_eng_auto_8_7 = "• Mentor (R&D and Innovation): Guide young engineers and entrepreneurs in R&D and innovation projects, helping them develop new automotive solutions.";
+
+var kariyer_secim_25_plus_s7_eng_auto_9_2 = "Analytical and Data-Driven Careers";
+var kariyer_secim_25_plus_s7_eng_auto_9_2 = "Automotive Industry";
+var kariyer_secim_25_plus_s7_eng_auto_9_3 = "• Data Analyst (Autonomous Driving): Analyze data collected from autonomous driving systems to develop solutions that enhance vehicle safety.";
+var kariyer_secim_25_plus_s7_eng_auto_9_4 = "• Sales and Market Analyst: Analyze vehicle sales data and market trends to guide sales strategies.";
+var kariyer_secim_25_plus_s7_eng_auto_9_5 = "• Data Scientist (Telemetry): Analyze telemetry data that monitors vehicle performance, improving vehicle safety and performance.";
+var kariyer_secim_25_plus_s7_eng_auto_9_6 = "• Customer Analytics Specialist: Analyze customer preferences and purchasing behavior to develop personalized customer experience strategies.";
+var kariyer_secim_25_plus_s7_eng_auto_9_7 = "• Production Analyst: Analyze data from vehicle production processes to make improvements that increase efficiency and quality.";
+
 
 //mutfak sanatları 
 var kariyer_secim_25_plus_s7_eng_meal_1_1 = "Creative and Artistic Careers";
@@ -2050,8 +2095,69 @@ var kariyer_secim_25_plus_s7_eng_meal_1_5 = "• Food Designer: You can design t
 var kariyer_secim_25_plus_s7_eng_meal_1_6 = "• Food Photographer: Capture impressive photos of food and create visual content for promoting dishes";
 var kariyer_secim_25_plus_s7_eng_meal_1_7 = "• Food Stylist: Professionally arrange the presentation and plate layout of dishes for photo shoots and food presentations.";
 
+var kariyer_secim_25_plus_s7_eng_meal_2_1 = "Leadership and Management Careers";
+var kariyer_secim_25_plus_s7_eng_meal_2_2 = "Culinary Arts";
+var kariyer_secim_25_plus_s7_eng_meal_2_3 = "• Head Chef: You can manage a kitchen, create menus, and lead kitchen staff.";
+var kariyer_secim_25_plus_s7_eng_meal_2_4 = "• Restaurant Manager: Manage restaurant operations, oversee customer relations, and develop business strategies.";
+var kariyer_secim_25_plus_s7_eng_meal_2_5 = "• Catering Manager: Organize catering services for large events, manage the team, and ensure the successful execution of the events.";
+var kariyer_secim_25_plus_s7_eng_meal_2_6 = "• Kitchen Coordinator: Oversee daily kitchen operations, manage supplies, and coordinate the kitchen staff.";
+var kariyer_secim_25_plus_s7_eng_meal_2_7 = "• Food and Beverage Manager: Manage food and beverage services in a restaurant or hotel, focusing on quality control and customer satisfaction.";
 
+var kariyer_secim_25_plus_s7_eng_meal_3_1 = "Help and Social Careers";
+var kariyer_secim_25_plus_s7_eng_meal_3_2 = "Culinary Arts";
+var kariyer_secim_25_plus_s7_eng_meal_3_3 = "• Community Kitchen Manager: Work in organizations providing food assistance, offering meals to those in need and contributing to the community.";
+var kariyer_secim_25_plus_s7_eng_meal_3_4 = "• Food Safety Instructor: Provide training on food safety and hygiene in restaurants and kitchens, helping to protect health.";
+var kariyer_secim_25_plus_s7_eng_meal_3_5 = "• Culinary Instructor: Teach young chefs or food enthusiasts culinary skills and recipes.";
+var kariyer_secim_25_plus_s7_eng_meal_3_6 = "• Social Aid Project Coordinator: Take part in food donation or kitchen support projects, supporting community collaboration.";
+var kariyer_secim_25_plus_s7_eng_meal_3_7 = "• Food Consultant: Guide people in creating healthy meal plans and improving their quality of life through nutrition3";
 
+var kariyer_secim_25_plus_s7_eng_meal_4_1 = "Technical and Engineering Careers";
+var kariyer_secim_25_plus_s7_eng_meal_4_2 = "Culinary Arts";
+var kariyer_secim_25_plus_s7_eng_meal_4_3 = "• Kitchen Equipment Engineer: Design kitchen equipment, develop new technologies, and optimize existing tools.";
+var kariyer_secim_25_plus_s7_eng_meal_4_4 = "• Food Technologist: Oversee the production processes of food products, focusing on quality control and product development.";
+var kariyer_secim_25_plus_s7_eng_meal_4_5 = "• Kitchen Designer: Work on planning and designing professional kitchen spaces.";
+var kariyer_secim_25_plus_s7_eng_meal_4_6 = "• Food Production Process Engineer: Analyze food production processes, developing technical solutions to enhance efficiency and quality.";
+var kariyer_secim_25_plus_s7_eng_meal_4_7 = "• Food Packaging Specialist: Optimize packaging processes to ensure the safety and freshness of food products4";
+
+var kariyer_secim_25_plus_s7_eng_meal_5_1 = "Sales and Relationship Management Careers";
+var kariyer_secim_25_plus_s7_eng_meal_5_2 = "Culinary Arts";
+var kariyer_secim_25_plus_s7_eng_meal_5_3 = "• Restaurant Sales Representative: Promote restaurant or catering services and manage customer relationships.";
+var kariyer_secim_25_plus_s7_eng_meal_5_4 = "• Food and Beverage Sales Manager: Develop strategies to increase food and beverage sales and manage client relations.";
+var kariyer_secim_25_plus_s7_eng_meal_5_5 = "• Food Products Sales Consultant: Introduce new food products and develop sales strategies for supermarkets or restaurants.";
+var kariyer_secim_25_plus_s7_eng_meal_5_6 = "• Restaurant Marketing Specialist: Promote restaurants, manage marketing campaigns, and create strategies to attract customers.";
+var kariyer_secim_25_plus_s7_eng_meal_5_7 = "• Customer Relations Manager: Oversee the customer experience in restaurant or catering services, review feedback, and make improvements5";
+
+var kariyer_secim_25_plus_s7_eng_meal_6_1 = "Organizational and Administrative Careers";
+var kariyer_secim_25_plus_s7_eng_meal_6_2 = "Culinary Arts";
+var kariyer_secim_25_plus_s7_eng_meal_6_3 = "• Kitchen Manager Assistant: Support the kitchen manager with daily tasks and assist with organizational and administrative processes.";
+var kariyer_secim_25_plus_s7_eng_meal_6_4 = "• Food Stock Control Specialist: Manage food and beverage inventory and organize supply orders.";
+var kariyer_secim_25_plus_s7_eng_meal_6_5 = "• Food Service Coordinator: Oversee the coordination and organization of meal services in restaurants or catering.";
+var kariyer_secim_25_plus_s7_eng_meal_6_6 = "• Human Resources Specialist: Manage the recruitment, training, and performance evaluations of kitchen staff.";
+var kariyer_secim_25_plus_s7_eng_meal_6_7 = "• Restaurant Operations Manager: Administer restaurant operations, manage customer service, and oversee daily workflows.";
+
+var kariyer_secim_25_plus_s7_eng_meal_7_1 = "Innovative and Entrepreneurial Careers";
+var kariyer_secim_25_plus_s7_eng_meal_7_2 = "Culinary Arts";
+var kariyer_secim_25_plus_s7_eng_meal_7_3 = "• Food Start-up Founder: Launch your own food brand or restaurant, offering innovative menus and services.";
+var kariyer_secim_25_plus_s7_eng_meal_7_4 = "• Gastronomy Entrepreneur: Start ventures focusing on new food trends and gastronomic experiences, creating a unique position in the industry.";
+var kariyer_secim_25_plus_s7_eng_meal_7_5 = "• Recipe Developer: Create your own recipes, write cookbooks, or share your recipes on digital platforms.";
+var kariyer_secim_25_plus_s7_eng_meal_7_6 = "• Healthy Food Entrepreneur: Establish a business focused on producing healthy and natural food products, promoting a healthy lifestyle.";
+var kariyer_secim_25_plus_s7_eng_meal_7_7 = "• Food Innovation Consultant: Offer innovative food solutions and menu development consultancy to restaurants and food companies.";
+
+var kariyer_secim_25_plus_s7_eng_meal_8_1 = "Teaching and Mentoring Careers";
+var kariyer_secim_25_plus_s7_eng_meal_8_2 = "Culinary Arts";
+var kariyer_secim_25_plus_s7_eng_meal_8_3 = "• Culinary Instructor: Teach culinary techniques and skills at a culinary arts school or in courses.";
+var kariyer_secim_25_plus_s7_eng_meal_8_4 = "• Food Safety Instructor: Provide professional guidance on food safety and hygiene practices.";
+var kariyer_secim_25_plus_s7_eng_meal_8_5 = "• Kitchen Mentor: Guide young chefs and kitchen staff, supporting their career development.";
+var kariyer_secim_25_plus_s7_eng_meal_8_6 = "• Recipe Consultant: Offer training on recipe creation and cooking techniques to individuals or groups.";
+var kariyer_secim_25_plus_s7_eng_meal_8_7 = "• Gastronomy Coach: Provide coaching to individuals aspiring to a culinary career, helping them develop their talents8";
+
+var kariyer_secim_25_plus_s7_eng_meal_9_1 = "Analytical and Data-Driven Careers";
+var kariyer_secim_25_plus_s7_eng_meal_9_2 = "Culinary Arts";
+var kariyer_secim_25_plus_s7_eng_meal_9_3 = "• Menu Analyst: Analyze menu performance and make improvements based on customer feedback.";
+var kariyer_secim_25_plus_s7_eng_meal_9_4 = "• Food Products Data Analyst: Analyze market trends and customer preferences related to food products, developing product strategies.";
+var kariyer_secim_25_plus_s7_eng_meal_9_5 = "• Customer Experience Analyst: Analyze customer experiences in restaurants or kitchen services and provide suggestions for improving service quality.";
+var kariyer_secim_25_plus_s7_eng_meal_9_6 = "• Sales Data Analyst: Analyze restaurant sales data to optimize sales strategies and support business decisions.";
+var kariyer_secim_25_plus_s7_eng_meal_9_7 = "• Food Safety Analyst: Analyze food safety data, contributing to the improvement of hygiene standards and quality control processes.";
 
 
 //Güçlü Yanların + 25
@@ -2795,15 +2901,15 @@ var krktr_ozl_12_25_self_discipline_questions_2 = "Hedeflerime ulaştığımda, 
 var krktr_ozl_12_25_self_discipline_questions_3 = "Sorumluluklarımı yerine getirdiğimde kendimi nasıl motive ediyorum? Bu motivasyonu, uzun vadeli projelerimde daha sürdürülebilir hale nasıl getirebilirim?";
 var krktr_ozl_25_plus_self_discipline_questions_1 = "• Görevlerimi planlı ve organize bir şekilde tamamladığımda nasıl sonuçlar alıyorum? Bu planlama becerisini daha büyük projelere nasıl yansıtabilirim?\n\n• Koyduğum hedeflere ulaşmak için hangi alışkanlıklarımı daha sık kullanıyorum? Bu başarı alışkanlıklarını iş hayatımda nasıl daha fazla güçlendirebilirim?\n\n• Sorumluluklarımı yerine getirdiğimde hangi içsel motivasyon kaynaklarından yararlanıyorum? Bu motivasyonu uzun vadeli projelerde nasıl daha sürdürülebilir hale getirebilirim?";
 
-var krktr_ozl_extraversion = "Dışa Dönüklük"; 
-var krktr_ozl_character_elements_extraversion_s1 = 'Dışadönüklük, heyecanlı olma, sosyallik, konuşkanlık, kendine güven ve yüksek duygusal ifade ile karakterize edilen bir kişilik özelliğidir. Dışadönüklük seviyesi yüksek olan kişiler, dışa dönük olup sosyal ortamlarda enerji kazanma eğilimindedir. Başkalarıyla bir arada olmak, onların kendilerini enerjik ve heyecanlı hissetmelerine yardımcı olur.\n\nBu kişilik özelliği düşük olan ya da içedönük kişiler ise genellikle daha sakindirler. Sosyal ortamlarda harcayacak daha az enerjileri vardır ve sosyal etkinlikler onları yorabilir. İçedönük bireyler genellikle \"yeniden şarj olmak\" için yalnızlığa ve sessizliğe ihtiyaç duyarlar.';
-var krktr_ozl_strenghts_extraversion_s2_1 = "Sosyal etkileşimlere yatkınlık, liderlik pozisyonlarına uygunluk ve ekip çalışması yeteneği gibi dışa dönüklük özellikleri, iş birligi ve iletişim becerilerini geliştirebilir. Diğer insanların yanındayken enerjik hisseder.";
-var krktr_ozl_weaknesses_extraversion_s2_1 = "İş yerinde fazla dışa dönük olmak, odak kaybına neden olabilir ve bazen kişinin kendi görevlerine odaklanmasını zorlaştırabilir.";
-var krktr_ozl_other_attributes_extraversion_s2 = "Girişken,\nenerjik,\ngüçlü,\nheyecan arayan,\nmaceracı,\nçoşkulu,\nolumlu duygular yaşayan,\nsıcak";
-var krktr_ozl_12_25_extraversion_questions_1 = "Grup çalışmalarında ya da sınıf etkinliklerinde aktif rol aldığımda nasıl hissediyorum? Bu enerjiyi okulda daha fazla hangi etkinliklerde kullanabilirim?";
-var krktr_ozl_12_25_extraversion_questions_2 = "Arkadaşlarımla etkileşim kurarak öğrenmek beni nasıl etkiliyor? Grup çalışmalarında nasıl daha fazla liderlik yapabilirim?";
-var krktr_ozl_12_25_extraversion_questions_3 = "Sosyal ortamlarda bulunmak ve konuşmak, okul başarımı nasıl etkiliyor? Bu becerilerimi derslerde ya da projelerde daha sık nasıl gösterebilirim?";
-var krktr_ozl_25_plus_extraversion_questions_1 = "• İş yerinde grup çalışmalarına katıldığımda ya da liderlik yaptığımda nasıl hissediyorum? Bu enerjiyi ekip projelerinde daha etkili nasıl kullanabilirim?\n\n• İş arkadaşlarımla etkileşim kurarak çalışmak, performansımı nasıl etkiliyor? Bu sosyal becerilerimi daha fazla iş fırsatında nasıl gösterebilirim?\n\n• Toplantılarda veya sosyal ortamlarda aktif olduğumda, iş yerindeki başarıma nasıl katkı sağlıyorum? Bu beceriyi iş ortamında daha fazla nasıl kullanabilirim?";
+var krktr_ozl_agreeableness = "Dışa Dönüklük"; 
+var krktr_ozl_character_elements_agreeableness_s1 = 'Dışadönüklük, heyecanlı olma, sosyallik, konuşkanlık, kendine güven ve yüksek duygusal ifade ile karakterize edilen bir kişilik özelliğidir. Dışadönüklük seviyesi yüksek olan kişiler, dışa dönük olup sosyal ortamlarda enerji kazanma eğilimindedir. Başkalarıyla bir arada olmak, onların kendilerini enerjik ve heyecanlı hissetmelerine yardımcı olur.\n\nBu kişilik özelliği düşük olan ya da içedönük kişiler ise genellikle daha sakindirler. Sosyal ortamlarda harcayacak daha az enerjileri vardır ve sosyal etkinlikler onları yorabilir. İçedönük bireyler genellikle \"yeniden şarj olmak\" için yalnızlığa ve sessizliğe ihtiyaç duyarlar.';
+var krktr_ozl_strenghts_agreeableness_s2_1 = "Sosyal etkileşimlere yatkınlık, liderlik pozisyonlarına uygunluk ve ekip çalışması yeteneği gibi dışa dönüklük özellikleri, iş birligi ve iletişim becerilerini geliştirebilir. Diğer insanların yanındayken enerjik hisseder.";
+var krktr_ozl_weaknesses_agreeableness_s2_1 = "İş yerinde fazla dışa dönük olmak, odak kaybına neden olabilir ve bazen kişinin kendi görevlerine odaklanmasını zorlaştırabilir.";
+var krktr_ozl_other_attributes_agreeableness_s2 = "Girişken,\nenerjik,\ngüçlü,\nheyecan arayan,\nmaceracı,\nçoşkulu,\nolumlu duygular yaşayan,\nsıcak";
+var krktr_ozl_12_25_agreeableness_questions_1 = "Grup çalışmalarında ya da sınıf etkinliklerinde aktif rol aldığımda nasıl hissediyorum? Bu enerjiyi okulda daha fazla hangi etkinliklerde kullanabilirim?";
+var krktr_ozl_12_25_agreeableness_questions_2 = "Arkadaşlarımla etkileşim kurarak öğrenmek beni nasıl etkiliyor? Grup çalışmalarında nasıl daha fazla liderlik yapabilirim?";
+var krktr_ozl_12_25_agreeableness_questions_3 = "Sosyal ortamlarda bulunmak ve konuşmak, okul başarımı nasıl etkiliyor? Bu becerilerimi derslerde ya da projelerde daha sık nasıl gösterebilirim?";
+var krktr_ozl_25_plus_agreeableness_questions_1 = "• İş yerinde grup çalışmalarına katıldığımda ya da liderlik yaptığımda nasıl hissediyorum? Bu enerjiyi ekip projelerinde daha etkili nasıl kullanabilirim?\n\n• İş arkadaşlarımla etkileşim kurarak çalışmak, performansımı nasıl etkiliyor? Bu sosyal becerilerimi daha fazla iş fırsatında nasıl gösterebilirim?\n\n• Toplantılarda veya sosyal ortamlarda aktif olduğumda, iş yerindeki başarıma nasıl katkı sağlıyorum? Bu beceriyi iş ortamında daha fazla nasıl kullanabilirim?";
 
 var krktr_ozl_compatibility = "Uyumluluk"; 
 var krktr_ozl_character_elements_compatibility_s1 = "Uyumluluk düzeyi yüksek olan kişiler, genellikle başkalarına yardım etme ve destek olma isteğiyle hareket ederler. Bu, onları grup çalışmalarında ve sosyal ortamlarda sevilen bireyler haline getirir. Ayrıca, uzlaşmacı yapıları nedeniyle çevreleriyle daha sağlıklı ilişkiler kurar ve işbirliği gerektiren ortamlarda başarılı olurlar. Buna karşın, uyumluluk seviyesi düşük bireyler, daha rekabetçi ve kendi çıkarlarına odaklı olabilir; bu da bazen ekip çalışmasında zorluklar yaşamalarına veya başkalarıyla daha zorlu ilişkiler kurmalarına neden olabilir.";
@@ -2815,15 +2921,15 @@ var krktr_ozl_12_25_compatibility_questions_2 = "Başkalarının ihtiyaçların�
 var krktr_ozl_12_25_compatibility_questions_3 = "Anlayışlı ve sabırlı olduğum durumlarda nasıl bir etki yaratıyorum? Bu özellikleri grup çalışmaları veya sınıf içindeki tartışmalarda nasıl daha iyi kullanabilirim?";
 var krktr_ozl_25_plus_compatibility_questions_1 = "• İş arkadaşlarıma yardım ettiğimde veya onlarla iş birliği yaptığımda hangi becerilerim öne çıkıyor? Bu iş birliğini projelerimde daha etkili nasıl kullanabilirim?\n\n• Anlayışlı ve sabırlı olduğumda iş yerinde nasıl bir etki yaratıyorum? Bu özellikleri zorlu projelerde ve ekip çalışmalarında nasıl daha iyi kullanabilirim?\n\n• Çalışma arkadaşlarımın ihtiyaçlarını anlamak ve onlara destek olmak, iş ortamındaki ilişkilerimi nasıl güçlendiriyor? Bu empatiyi iş hayatımda nasıl daha da geliştirebilirim?";
 
-var krktr_ozl_emotional_resilience = "Duygusal Dayanıklılık"; 
-var krktr_ozl_character_elements_emotional_resilience_s1 = "Duygusal denge, bir kişinin stresi nasıl yönettiğini, duygusal dengeyi nasıl koruduğunu ve sağlıklı bir özgüven sürdürebilme yeteneğini yansıtır. Duygusal dengesi yüksek olan bireyler, baskı altında daha sakin kalır ve zorluklardan çabuk toparlanabilirler.\n\nBuna karşılık, duygusal dengesi düşük olan kişiler, daha güçlü duygusal dalgalanmalar yaşayabilir, stres karşısında kolayca bunalmış hissedebilir ve zor zamanlarda olumlu bir benlik imajını sürdürmekte zorlanabilirler. Bu özellik, hem kişisel refah hem de profesyonel başarı açısından kritik öneme sahiptir ve zorluklarla başa çıkma şeklimizi doğrudan etkiler.";
-var krktr_ozl_strenghts_emotional_resilience_s2_1 = "Duygusal istikrar, stresle başa çıkma yeteneği ve iş yerinde olumsuz durumları tolere etme yeteneğini yansıtır. Bu, kriz anlarında sakin kalma ve etkili kararlar alabilme yeteneğini artırabilir.";
-var krktr_ozl_weaknesses_emotional_resilience_s2_1 = "Bu kişiler, çok fazla stres yaşar ve çeşitli konular hakkında sürekli endişelenir. Ruh hali sık sık değişir, kolayca üzülür ve stresli olaylardan sonra toparlanmakta zorluk çeker.";
-var krktr_ozl_other_attributes_emotional_resilience_s2 = "Sakin,\nsoğuk kanlı,\nuyumlu,\nkendinden emin,\nesnek,\nmemnuniyetli";
-var krktr_ozl_12_25_emotional_resilience_questions_1 = "Zorlandığım anlarda sakin kalmayı başarabildiğimde derslerimde nasıl bir ilerleme kaydediyorum? Bu duygusal dayanıklılığı sınav stresinde nasıl daha fazla kullanabilirim?";
-var krktr_ozl_12_25_emotional_resilience_questions_2 = "Hatalar yaptığımda, bu hatalardan öğrenmek için nasıl bir yaklaşım izliyorum? Bu öğrenme sürecini okul hayatımda nasıl daha etkili hale getirebilirim?";
-var krktr_ozl_12_25_emotional_resilience_questions_3 = "Zor bir durumu atlattıktan sonra nasıl daha güçlü hissediyorum? Bu dayanıklılığı günlük okul hayatımda nasıl daha fazla kullanabilirim?";
-var krktr_ozl_25_plus_emotional_resilience_questions_1 = "• Hata yaptığımda, bu hatalardan nasıl ders çıkarıyorum? Öğrenme sürecimi iş hayatımda daha verimli hale getirmek için neler yapabilirim?\n\n• Zor bir projeyi tamamladıktan sonra kendimi nasıl daha güçlü hissediyorum? Bu dayanıklılığı işimde sürekli başarı sağlamak için nasıl daha fazla kullanabilirim?\n\n• İşte stresli durumlarla karşılaştığımda sakin kalmayı başardığımda nasıl sonuçlar elde ediyorum? Bu duygusal dayanıklılığı yoğun iş dönemlerinde nasıl daha iyi kullanabilirim?";
+var krktr_ozl_emotional_stability = "Duygusal Dayanıklılık"; 
+var krktr_ozl_character_elements_emotional_stability_s1 = "Duygusal denge, bir kişinin stresi nasıl yönettiğini, duygusal dengeyi nasıl koruduğunu ve sağlıklı bir özgüven sürdürebilme yeteneğini yansıtır. Duygusal dengesi yüksek olan bireyler, baskı altında daha sakin kalır ve zorluklardan çabuk toparlanabilirler.\n\nBuna karşılık, duygusal dengesi düşük olan kişiler, daha güçlü duygusal dalgalanmalar yaşayabilir, stres karşısında kolayca bunalmış hissedebilir ve zor zamanlarda olumlu bir benlik imajını sürdürmekte zorlanabilirler. Bu özellik, hem kişisel refah hem de profesyonel başarı açısından kritik öneme sahiptir ve zorluklarla başa çıkma şeklimizi doğrudan etkiler.";
+var krktr_ozl_strenghts_emotional_stability_s2_1 = "Duygusal istikrar, stresle başa çıkma yeteneği ve iş yerinde olumsuz durumları tolere etme yeteneğini yansıtır. Bu, kriz anlarında sakin kalma ve etkili kararlar alabilme yeteneğini artırabilir.";
+var krktr_ozl_weaknesses_emotional_stability_s2_1 = "Bu kişiler, çok fazla stres yaşar ve çeşitli konular hakkında sürekli endişelenir. Ruh hali sık sık değişir, kolayca üzülür ve stresli olaylardan sonra toparlanmakta zorluk çeker.";
+var krktr_ozl_other_attributes_emotional_stability_s2 = "Sakin,\nsoğuk kanlı,\nuyumlu,\nkendinden emin,\nesnek,\nmemnuniyetli";
+var krktr_ozl_12_25_emotional_stability_questions_1 = "Zorlandığım anlarda sakin kalmayı başarabildiğimde derslerimde nasıl bir ilerleme kaydediyorum? Bu duygusal dayanıklılığı sınav stresinde nasıl daha fazla kullanabilirim?";
+var krktr_ozl_12_25_emotional_stability_questions_2 = "Hatalar yaptığımda, bu hatalardan öğrenmek için nasıl bir yaklaşım izliyorum? Bu öğrenme sürecini okul hayatımda nasıl daha etkili hale getirebilirim?";
+var krktr_ozl_12_25_emotional_stability_questions_3 = "Zor bir durumu atlattıktan sonra nasıl daha güçlü hissediyorum? Bu dayanıklılığı günlük okul hayatımda nasıl daha fazla kullanabilirim?";
+var krktr_ozl_25_plus_emotional_stability_questions_1 = "• Hata yaptığımda, bu hatalardan nasıl ders çıkarıyorum? Öğrenme sürecimi iş hayatımda daha verimli hale getirmek için neler yapabilirim?\n\n• Zor bir projeyi tamamladıktan sonra kendimi nasıl daha güçlü hissediyorum? Bu dayanıklılığı işimde sürekli başarı sağlamak için nasıl daha fazla kullanabilirim?\n\n• İşte stresli durumlarla karşılaştığımda sakin kalmayı başardığımda nasıl sonuçlar elde ediyorum? Bu duygusal dayanıklılığı yoğun iş dönemlerinde nasıl daha iyi kullanabilirim?";
 
 //Karakter Özellikleri İngilizce
 var krktr_ozl_eng_openness_to_experience = "Openness to Experience";
@@ -2840,11 +2946,42 @@ var krktr_ozl_eng_self_discipline = "Self Discipline";
 var krktr_ozl_eng_self_discipline_s1 = "Among each of the personality traits, conscientiousness is one defined by high levels of thoughtfulness, good impulse control, and goal-directed behaviors. Highly conscientious people tend to be organized and mindful of details. They plan ahead, think about how their behavior affects others, and are mindful of deadlines. Someone scoring lower in this primary personality trait is less structured and less organized. They may procrastinate to get things done, sometimes missing deadlines completely.";
 var krktr_ozl_eng_strenghts_self_discipline_s2_1 = "Spends time preparing Finishes important tasks right away Pays attention to detail Enjoys having a set schedule";
 var krktr_ozl_eng_weaknesses_self_discipline_s2_1 = "Dislikes structure and schedules Makes messes and doesn't take care of things Fails to return things or put them back where they belong Procrastinates important tasks Fails to complete necessary or assigned tasks";
-var krktr_ozl_eng_other_attributes_self_discipline_s2 = "Competence (efficient) Order (organized) Dutifulness (not careless) Achievement striving (thorough) Self-discipline (not lazy) Deliberation (not impulsive)";
+var krktr_ozl_eng_other_attributes_self_discipline_s2 = "Competence (efficient)\nOrder (organized)\nDutifulness (not careless)\nAchievement striving (thorough)\nSelf-discipline (not lazy)\nDeliberation (not impulsive)";
 var krktr_ozl_eng_12_25_self_discipline_questions_1 = "• When I complete my assignments in a planned and organized way, how are my results? How can I make this planning skill more effective during exam periods?";
 var krktr_ozl_eng_12_25_self_discipline_questions_2 = "• When I reach my goals, what are the most important habits that help me succeed? How can I further develop these habits in my studying and other responsibilities?";
 var krktr_ozl_eng_12_25_self_discipline_questions_3 = "• How do I motivate myself when fulfilling my responsibilities? How can I make this motivation more sustainable in my long-term projects?";
 var krktr_ozl_eng_25_plus_self_discipline_questions_1 = "• What results do I achieve when I complete my tasks in a planned and organized manner? How can I apply this planning skill to larger projects?\n\n• What habits do I rely on most often to reach the goals I set? How can I strengthen these success habits further in my work life?\n\n• When I fulfill my responsibilities, what internal motivation sources do I tap into? How can I make this motivation more sustainable for long-term projects?";
+
+var krktr_ozl_eng_extraversion = "Extraversion";
+var krktr_ozl_eng_extraversion_s1 = "Extraversion (or extroversion) is a personality trait characterized by excitability, sociability, talkativeness, assertiveness, and high amounts of emotional expressiveness. People high in extraversion are outgoing and tend to gain energy in social situations. Being around others helps them feel energized and excited. People who are low in this personality trait or introverted tend to be more reserved. They have less energy to expend in social settings and social events can feel draining. Introverts often require a period of solitude and quiet in order to \"recharge.\"";
+var krktr_ozl_eng_strenghts_extraversion_s2_1 = "Enjoys being the center of attention likes to start conversations enjoys meeting new people has a wide social circle of friends and acquaintances finds it easy to make new friends feels energized when around other people.";
+var krktr_ozl_eng_weaknesses_extraversion_s2_1 = "Prefers solitude feels exhausted when socializing a lot finds it difficult to start conversations dislikes making small talk carefully thinks things through before speaking dislikes being the center of attention.";
+var krktr_ozl_eng_other_attributes_extraversion_s2 = "Gregariousness (sociable)\nassertiveness (forceful)\nactivity (energetic)\nexcitement-seeking (adventurous)\npositive emotions (enthusiastic)\nwarmth (outgoing).";
+var krktr_ozl_eng_12_25_extraversion_questions_1 = "• How do I feel when I take an active role in group work or class activities? In which other school activities can I use this energy more?";
+var krktr_ozl_eng_12_25_extraversion_questions_2 = "• How does learning through interacting with my friends impact me? How can I take on more leadership roles in group work? ";
+var krktr_ozl_eng_12_25_extraversion_questions_3 = "• How does being in social settings and speaking up affect my school success? How can I show these skills more often in classes or projects?";
+var krktr_ozl_eng_25_plus_extraversion_questions_1 = "• How do I feel when I participate in group work or take on leadership roles at work? How can I use this energy more effectively in team projects?\n\n• How does working by interacting with my colleagues affect my performance? How can I showcase these social skills in more work opportunities?\n\n• How does being active in meetings or social settings contribute to my success at work? How can I utilize this skill more in the workplace?";
+
+var krktr_ozl_eng_agreeableness = "Agreeableness";
+var krktr_ozl_eng_agreeableness_s1 = "This personality trait includes attributes such as trust, altruism, kindness, affection, and other prosocial behaviors. People who are high in agreeableness tend to be more cooperative while those low in this personality trait tend to be more competitive and sometimes even manipulative.";
+var krktr_ozl_eng_strenghts_agreeableness_s2_1 = "Has a great deal of interest in other people cares about others feels empathy and concern for other people enjoys helping and contributing to the happiness of other people assists others who are in need of help";
+var krktr_ozl_eng_weaknesses_agreeableness_s2_1 = "Takes little interest in others doesn't care about how other people feel has little interest in other people's problems insults and belittles others manipulates others to get what they want";
+var krktr_ozl_eng_other_attributes_agreeableness_s2 = "Trust (forgiving)\nStraightforwardness (not demanding)\nAltruism (warm)\nCompliance (not stubborn)\nModesty (not show-off)\nTender-mindedness (sympathetic)";
+var krktr_ozl_eng_12_25_agreeableness_questions_1 = "• When I help or collaborate with my classmates, which of my skills stand out? How can I use this collaboration more effectively in group projects?";
+var krktr_ozl_eng_12_25_agreeableness_questions_2 = "• How does understanding others’ needs and supporting them strengthen my relationships in class? How can I develop this empathy more at school?";
+var krktr_ozl_eng_12_25_agreeableness_questions_3 = "• When I’m understanding and patient, what kind of impact do I create? How can I better use these traits in group work or class discussions?";
+var krktr_ozl_eng_25_plus_agreeableness_questions_1 = "• What skills stand out when I help or collaborate with my colleagues? How can I use this collaboration more effectively in my projects?\n\n• How does understanding my coworkers’ needs and supporting them strengthen my workplace relationships? How can I further develop this empathy in my work life?\n\n• When I am understanding and patient, what impact do I create at work? How can I better use these traits in challenging projects and team collaborations?";
+
+var krktr_ozl_eng_emotional_stability = "Emotional Stability";
+var krktr_ozl_eng_emotional_stability_s1 = "Emotional stability can reflect how a person copes with stress, their ability to maintain emotional balance, and their self-esteem.";
+var krktr_ozl_eng_strenghts_emotional_stability_s2_1 = "Emotionally stable deals well with stress rarely feels sad or depressed doesn't worry much is very relaxed";
+var krktr_ozl_eng_weaknesses_emotional_stability_s2_1 = "Experiences a lot of stress worries about many different things gets upset easily experiences dramatic shifts in mood feels anxious struggles to bounce back after stressful events";
+var krktr_ozl_eng_other_attributes_emotional_stability_s2 = "Composure (calm)\nAgreeableness (pleasant)\nContentment (satisfied)\nConfidence (self-assured)\nDeliberation (steady)\nResilience (self-confident)";
+var krktr_ozl_eng_12_25_emotional_stability_questions_1 = "• When I manage to stay calm during challenging moments, how do I progress in my classes? How can I use this emotional resilience more during exam stress?";
+var krktr_ozl_eng_12_25_emotional_stability_questions_2 = "• When I make mistakes, what approach do I take to learn from them? How can I make this learning process more effective in my school life?";
+var krktr_ozl_eng_12_25_emotional_stability_questions_3 = "• After overcoming a difficult situation, how do I feel stronger? How can I use this resilience more in my everyday school life?";
+var krktr_ozl_eng_25_plus_emotional_stability_questions_1 = "• What results do I achieve when I manage to stay calm in stressful situations at work? How can I use this emotional resilience more effectively during busy work periods?\n\n• When I make mistakes, how do I learn from them? What can I do to make my learning process more efficient in my professional life?\n\n• After completing a challenging project, how do I feel stronger? How can I use this resilience more to ensure continuous success in my work?";
+
 
 //Yapay Zeka Çağı Yetkinliklerin
 var ai_25_s3_1_1 = "Dijital Okuryazarlık ";
@@ -2932,17 +3069,87 @@ var ai_25_s4u2_9_2 = "• Yapay zeka ile ilgili yenilikçi iş fikirleri gelişt
 
 //Yapay Zeka Çağı Yetkinliklerin İngilizce
 var ai_25_eng_s3_1_1 = "Digital Literacy";
-var ai_25_eng_s3_1_2 = "Fundamental Computer and Technology Skills: This encompasses computer usage, as well as knowledge of software and hardware. You should be able to use technology effectively and efficiently.\n\nBasics of Artificial Intelligence: Having foundational knowledge about what AI is, how it works, and how it shapes our lives.";
+var ai_25_eng_s3_1_2 = "Fundamental Computer and Technology Skills: This encompasses computer usage, as well as knowledge of software and hardware. You should be able to use technology effectively and efficiently.\n\n• Basics of Artificial Intelligence: Having foundational knowledge about what AI is, how it works, and how it shapes our lives.";
 
+var ai_25_eng_s3_2_1 = "Data Literacy";
+var ai_25_eng_s3_2_2 = "• Data Analysis: The ability to collect, analyze, and derive meaningful conclusions from data. In today’s world, decisions are increasingly data-driven, making this skill highly valuable.\n\n• Data Privacy and Security: Understanding the importance of data security and privacy, and knowing how to protect personal data is essential.";
+
+var ai_25_eng_s3_3_1 = "Coding and Programming";
+var ai_25_eng_s3_3_2 = "• Programming Languages: Learning foundational programming languages such as Python and JavaScript is crucial for success in AI development and tech-related jobs.\n\n• Algorithmic Thinking: Developing systematic and logical approaches to solving problems is a fundamental skill in the age of AI.";
+
+var ai_25_eng_s3_4_1 = "Critical Thinking and Problem Solving";
+var ai_25_eng_s3_4_2 = "• Analytical Thinking: The ability to extract meaning from data or events and develop solutions. This skill is vital for effectively utilizing AI tools.\n\n• Creative Problem Solving: The ability to generate innovative and creative solutions, particularly in the fields of AI and technology, provides a significant advantage.";
+
+var ai_25_eng_s3_5_1 = "Adaptability and Lifelong Learning";
+var ai_25_eng_s3_5_2 = "• Flexibility: The ability to rapidly adapt to continuously changing technology and business environments. Learning new AI tools and systems is important.\n\n• Lifelong Learning: As technology evolves, the ability to learn new skills and update existing ones becomes increasingly crucial.";
+
+var ai_25_eng_s3_6_1 = "Communication and Collaboration";
+var ai_25_eng_s3_6_2 = "• Bridging Technical and Human Language: The ability to explain complex information clearly is essential when working in the fields of AI and technology.\n\n• Teamwork: Collaborating, especially on multidisciplinary projects, is key to success in AI initiatives.";
+
+var ai_25_eng_s3_7_1 = "Ethics and Social Responsibility";
+var ai_25_eng_s3_7_2 = "• AI Ethics: Being aware of the societal impacts of artificial intelligence, its role in decision-making processes, and its effects on individuals.\n\n• Social Responsibility: Understanding the implications of AI and using this technology to create social benefits enables individuals to develop not only technically but also ethically.";
+
+var ai_25_eng_s3_8_1 = "Emotional Intelligence (EQ)";
+var ai_25_eng_s3_8_2 = "• Empathy and Emotional Understanding: It is important not to lose sight of human relationships and emotional awareness while working intensively with AI and technological tools. Emotional intelligence is invaluable for leadership and management skills.\n\n• Stress Management: Skills for coping with the stress brought about by continuous learning and adaptation in the AI and digital world should also be developed.";
+
+var ai_25_eng_s3_9_1 = "Innovative and Entrepreneurial Thinking";
+var ai_25_eng_s3_9_2 = "• Entrepreneurship: The ability to develop innovative business ideas in the age of AI and bring those ideas to life.\n\n• Risk-Taking and Experimentation: AI and technological innovations often involve uncertainty. Therefore, individuals should be willing to take risks and open to experimental thinking.";
 
 //gücünü kullan
 var ai_25_eng_s4u1_1_1 = "Digital Literacy";
 var ai_25_eng_s4u1_1_2 = "• In what areas can you make an impact with your computer and technology skills? How can you utilize these skills more effectively in school projects or your future career?\n\n• Do you think deepening your foundational knowledge about AI will help you understand which professions will be important in the future? How can you plan a career in these fields?";
 
+var ai_25_eng_s4u1_2_1 = "Data Literacy";
+var ai_25_eng_s4u1_2_2 = "• How can you use your ability to analyze data in school projects or your professional life? What advantages do you think data-driven decision-making will provide you?\n\n• How aware are you of data security and privacy? How can you apply this knowledge in a future company or your own venture? ";
+
+var ai_25_eng_s4u1_3_1 = "Coding and Programming";
+var ai_25_eng_s4u1_3_2 = "• How can you use your programming skills in school projects to take on leadership roles in different projects? Which programming languages do you think would help you achieve your career goals?\n\n• How can you apply your algorithmic thinking skills to solve problems more systematically? In which professions could you leverage this skill as an advantage in the future?";
+
+var ai_25_eng_s4u1_4_1 = "Critical Thinking and Problem Solving";
+var ai_25_eng_s4u1_4_2 = "• In which areas can you enhance and utilize your analytical thinking skills to derive insights from data or events? What career opportunities do you think this skill will present to you in the future?\n\n• In what projects or fields do you think you could make a difference by applying your creative problem-solving ability? How can you further develop this skill?";
+
+var ai_25_eng_s4u1_5_1 = "Adaptability and Lifelong Learning";
+var ai_25_eng_s4u1_5_2 = "• How can you adapt in a rapidly changing technological world? In which professions do you think your ability to be flexible will lead to greater success?\n\n• What new technologies do you plan to learn with your lifelong learning mindset? How can you sustain this learning process throughout your career?";
+
+var ai_25_eng_s4u1_6_1 = "Communication and Collaboration";
+var ai_25_eng_s4u1_6_2 = "• In what projects can you take the lead or guide your teammates by simplifying complex technical information? In which fields do you think you could apply this skill?\n\n• In which interdisciplinary projects can you succeed with your teamwork skills? What goals do you plan to achieve through collaboration on AI projects?";
+
+var ai_25_eng_s4u1_7_1 = "Ethics and Social Responsibility";
+var ai_25_eng_s4u1_7_2 = "• In which areas can you make a difference with your awareness of ethical AI usage? Considering the social impacts of AI, what projects do you plan to participate in?\n\n• How can you create an impact in society by using AI technologies with a sense of social responsibility? How can you utilize this awareness in your school and career life?";
+
+var ai_25_eng_s4u1_8_1 = "Emotional Intelligence (EQ)";
+var ai_25_eng_s4u1_8_2 = "• How can your empathy help you better understand the needs of your coworkers or clients? How can you apply this skill in leadership or management positions?\n\n• With your competencies in stress management, how can you succeed in demanding and challenging projects? How can you further develop this skill in your career?";
+
+var ai_25_eng_s4u1_9_1 = "Innovative and Entrepreneurial Thinking";
+var ai_25_eng_s4u1_9_2 = "• With your entrepreneurial mindset, what innovative business ideas can you bring to life in the age of AI? What steps do you plan to take to realize these ideas?\n\n• How courageous are you in taking risks and experimenting? How can you turn this courage into opportunities in your school projects or professional life?";
 
 //kendine sorabilirsin
 var ai_25_eng_s4u2_1_1 = "Digital Literacy";
 var ai_25_eng_s4u2_1_2 = "• What basic computer skills do I possess, and what can I do to advance these skills further?\n\n• How do I use technology in my daily life? Am I using technology only as a consumer, or can I also be a producer?\n\n• What do I know about artificial intelligence? How much time have I devoted to understanding how AI impacts my life?\n\n• Am I excited about learning more about AI and the opportunities it presents? What steps can I take to develop myself in this field?";
+
+var ai_25_eng_s4u2_2_1 = "Data Literacy";
+var ai_25_eng_s4u2_2_2 = "• How do I leverage data when faced with a problem? How does making data-driven decisions simplify my work?\n\n• How do I protect my personal data? What steps am I taking to ensure my privacy online?\n\n• How knowledgeable am I about online security and data privacy? How can I increase my awareness of security vulnerabilities?\n\n• Am I aware of my responsibility to protect personal data, both mine and others'? What behaviors do I need to develop in this regard?";
+
+var ai_25_eng_s4u2_3_1 = "Coding and Programming";
+var ai_25_eng_s4u2_3_2 = "• What is my level of interest in learning programming languages? When considering learning a new language, where should I start?\n\n• languages should I learn to be more effective in my current projects?\n\n• What steps do I follow to solve problems? How advanced are my logical thinking skills?\n\n• What tools can I use to enhance my algorithmic thinking ability? How can I apply this skill more effectively in my work or educational life?";
+
+var ai_25_eng_s4u2_4_1 = "Critical Thinking and Problem Solving";
+var ai_25_eng_s4u2_4_2 = "• How do I approach situations when making decisions? How analytical am I in evaluating different options?\n\n• What resources do I utilize to improve my analytical thinking skills? What strategy do I follow when facing challenging problems?\n\n• How can I foster creative thinking? How can I learn to view things from different perspectives?\n\n• How willing am I to produce more innovative solutions using technology and AI?";
+
+var ai_25_eng_s4u2_5_1 = "Adaptability and Lifelong Learning";
+var ai_25_eng_s4u2_5_2 = "• How quickly can I adapt to new technologies and the changing business landscape? How do I respond to changes?\n\n• How can I be flexible in the face of the rapid development of artificial intelligence? What steps should I take to be more adaptable in my professional life?\n\n• How willing am I to improve myself? How active am I in keeping up with innovations in technology?\n\n• In which areas do I think I need to develop myself further? How can I continue learning in the AI world?";
+
+var ai_25_eng_s4u2_6_1 = "Communication and Collaboration";
+var ai_25_eng_s4u2_6_2 = "• How successful am I in explaining technical topics to others? How skilled am I at simplifying and clarifying my knowledge?\n\n• What skills should I develop to express technical information more clearly to my teammates or clients?\n\n• How comfortable am I when sharing my ideas within a team? What skills do I need to develop to understand group dynamics and contribute effectively?\n\n• How can I collaborate better with team members on AI projects? How can I utilize my teammates' strengths more effectively?";
+
+var ai_25_eng_s4u2_7_1 = "Ethics and Social Responsibility";
+var ai_25_eng_s4u2_7_2 = "• What are my ethical responsibilities when using AI? What can I do to manage these responsibilities better?\n\n• How can I benefit society and my environment when making ethical decisions in AI projects?\n\n• How can I enhance my social responsibility awareness in artificial intelligence projects? What AI projects can I contribute to for the betterment of society?\n\n• How can I turn the opportunities presented by AI technologies into societal benefits?";
+
+var ai_25_eng_s4u2_8_1 = "Emotional Intelligence (EQ)";
+var ai_25_eng_s4u2_8_2 = "• How much importance do I place on interpersonal relationships when working with artificial intelligence and technology? How can I develop my empathy skills?\n\n• How much do I utilize emotional intelligence in technology projects? What can I do to be more empathetic in the workplace?\n\n• How do I cope with the stress brought on by continuous learning in the AI and digital world? What are my stress management strategies?\n\n• How do I relax during challenging projects? What skills do I need to develop in stress management?";
+
+var ai_25_eng_s4u2_9_1 = "Innovative and Entrepreneurial Thinking";
+var ai_25_eng_s4u2_9_2 = "• How willing am I to develop innovative business ideas related to artificial intelligence? What steps am I taking to initiate new projects?\n\n• What opportunities am I exploring to enhance my entrepreneurial skills? What job opportunities do I see in AI projects?\n\n• How open am I to experimental thinking? What strategies do I apply to test new ideas?\n\n• How do I make decisions when dealing with uncertainties? How can I evaluate the opportunities that come with taking risks?";
 
 
 //Ekip Çalışmasına Yatkınlık
@@ -3368,11 +3575,11 @@ var decision_strategy_eng_s4_1_txt = "By adhering to this decision-making strate
       if (big5Name == "Öz Disiplin") {
         return krktr_ozl_self_discipline;
       } else if (big5Name == "Dışa Dönüklük") {
-        return krktr_ozl_extraversion;
+        return krktr_ozl_agreeableness;
       } else if (big5Name == "Uyumluluk") {
         return krktr_ozl_compatibility;
       } else if (big5Name == "Duygusal Dayanıklılık") {
-        return krktr_ozl_emotional_resilience;
+        return krktr_ozl_emotional_stability;
       } else if (big5Name == "Deneyime Açıklık") {
         return krktr_ozl_openness_to_experience;
       }
@@ -3380,11 +3587,11 @@ var decision_strategy_eng_s4_1_txt = "By adhering to this decision-making strate
       if (big5Name == "Öz Disiplin") {
         return krktr_ozl_character_elements_self_discipline_s1;
       } else if (big5Name == "Dışa Dönüklük") {
-        return krktr_ozl_character_elements_extraversion_s1;
+        return krktr_ozl_character_elements_agreeableness_s1;
       } else if (big5Name == "Uyumluluk") {
         return krktr_ozl_character_elements_compatibility_s1;
       } else if (big5Name == "Duygusal Dayanıklılık") {
-        return krktr_ozl_character_elements_emotional_resilience_s1;
+        return krktr_ozl_character_elements_emotional_stability_s1;
       } else if (big5Name == "Deneyime Açıklık") {
         return krktr_ozl_openness_to_experience_s1;
       }
@@ -3392,11 +3599,11 @@ var decision_strategy_eng_s4_1_txt = "By adhering to this decision-making strate
       if (big5Name == "Öz Disiplin") {
         return krktr_ozl_strenghts_self_discipline_s2_1;
       } else if (big5Name == "Dışa Dönüklük") {
-        return krktr_ozl_strenghts_extraversion_s2_1;
+        return krktr_ozl_strenghts_agreeableness_s2_1;
       } else if (big5Name == "Uyumluluk") {
         return krktr_ozl_strenghts_compatibility_s2_1;
       } else if (big5Name == "Duygusal Dayanıklılık") {
-        return krktr_ozl_strenghts_emotional_resilience_s2_1;
+        return krktr_ozl_strenghts_emotional_stability_s2_1;
       } else if (big5Name == "Deneyime Açıklık") {
         return krktr_ozl_strenghts_openness_to_experience_s2_1;
       }
@@ -3404,11 +3611,11 @@ var decision_strategy_eng_s4_1_txt = "By adhering to this decision-making strate
       if (big5Name == "Öz Disiplin") {
         return krktr_ozl_weaknesses_self_discipline_s2_1;
       } else if (big5Name == "Dışa Dönüklük") {
-        return krktr_ozl_weaknesses_extraversion_s2_1;;
+        return krktr_ozl_weaknesses_agreeableness_s2_1;;
       } else if (big5Name == "Uyumluluk") {
         return krktr_ozl_weaknesses_compatibility_s2_1;;
       } else if (big5Name == "Duygusal Dayanıklılık") {
-        return krktr_ozl_weaknesses_emotional_resilience_s2_1;;
+        return krktr_ozl_weaknesses_emotional_stability_s2_1;;
       } else if (big5Name == "Deneyime Açıklık") {
         return krktr_ozl_weaknesses_openness_to_experience_s2_1;;
       }
@@ -3416,11 +3623,11 @@ var decision_strategy_eng_s4_1_txt = "By adhering to this decision-making strate
       if (big5Name == "Öz Disiplin") {
         return krktr_ozl_other_attributes_self_discipline_s2;
       } else if (big5Name == "Dışa Dönüklük") {
-        return krktr_ozl_other_attributes_extraversion_s2;
+        return krktr_ozl_other_attributes_agreeableness_s2;
       } else if (big5Name == "Uyumluluk") {
         return krktr_ozl_other_attributes_compatibility_s2;
       } else if (big5Name == "Duygusal Dayanıklılık") {
-        return krktr_ozl_other_attributes_emotional_resilience_s2;
+        return krktr_ozl_other_attributes_emotional_stability_s2;
       } else if (big5Name == "Deneyime Açıklık") {
         return krktr_ozl_other_attributes_openness_to_experience_s2;
       }
@@ -3428,11 +3635,11 @@ var decision_strategy_eng_s4_1_txt = "By adhering to this decision-making strate
       if (big5Name == "Öz Disiplin") {
         return krktr_ozl_25_plus_self_discipline_questions_1;
       } else if (big5Name == "Dışa Dönüklük") {
-        return krktr_ozl_25_plus_extraversion_questions_1;
+        return krktr_ozl_25_plus_agreeableness_questions_1;
       } else if (big5Name == "Uyumluluk") {
         return krktr_ozl_25_plus_compatibility_questions_1;
       } else if (big5Name == "Duygusal Dayanıklılık") {
-        return krktr_ozl_25_plus_emotional_resilience_questions_1;
+        return krktr_ozl_25_plus_emotional_stability_questions_1;
       } else if (big5Name == "Deneyime Açıklık") {
         return krktr_ozl_25_plus_openness_to_experience_questions_1;
       }
