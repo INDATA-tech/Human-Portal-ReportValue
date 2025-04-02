@@ -11,7 +11,7 @@ export default async ({ req, res, log, error }) => {
   //         // Burada istediğiniz satırı `satirlar[index]` ile alabilirsiniz
   //     })
   //     .catch(error => console.error('Dosya okunamadı:', error));
-
+  // log(req)
   function getAllGates(jsonData) {
     let gates = [];
 
@@ -102,7 +102,7 @@ export default async ({ req, res, log, error }) => {
     innerAuthority: api.Properties.InnerAuthority[0],
     sectorName: Map2SektorName(
       Object.entries(rawData).find(
-        (x) => x[0] == "İlgilendiğin-İçinde Olduğun Sektör",
+        (x) => x[0] == "İlgilendiğin-İçinde Olduğun Sektör" || x[0] == "The sector you are interested in",
       )[1],
     ),
   };
@@ -3639,6 +3639,7 @@ var decision_strategy_eng_s4_1_text = "Acting from the mind can lead to second-g
 var decision_strategy_eng_s4_1_1 = "1.Actively Wait: Be receptive to life's cues and signals, allowing yourself to observe without immediate action.\nRespond: Listen for your gut's response – an \"ah-huh\" for yes, a \"uhn-un\" for no, or a \"hmmmmm\" for not now.\n2.Wait for Clarity: Sleep on it and allow yourself to feel out your emotional wave. Avoid making decisions during heightened emotional states.\n3.Decide: Based on your gut response and emotional clarity, make a decision – yes, no, or not now.\n4.Act or Not: Finally, take action or refrain from action based on your decision, trusting in the wisdom of your gut instincts and emotional clarity.";
 var decision_strategy_eng_s4_1_txt = "By adhering to this decision-making strategy, you can navigate through choices with patience, discernment, and confidence, leading to greater success and fulfillment in your career and business endeavors.";
 
+
 //----
 
   let krktr_ozl = (big5Name, age, type) => {
@@ -3717,225 +3718,109 @@ var decision_strategy_eng_s4_1_txt = "By adhering to this decision-making strate
     }
   };
 
-  let krktr_ozl_ozet = (big5Name_1, big5Name_2, age, type) => {
-    if (type == "ozet_1") {
-      if(big5Name_1 == "Dışa Dönüklük" && big5Name_2 == "Uyumluluk") {
-        return krktr_ozl_ozet_1_1;
-      } else if (big5Name_1 == "Dışa Dönüklük" && big5Name_2 == "Öz Disiplin") {
-        return krktr_ozl_ozet_2_1;
-      } else if (big5Name_1 == "Dışa Dönüklük" && big5Name_2 == "Deneyime Açıklık") {
-        return krktr_ozl_ozet_3_1;
-      } else if (big5Name_1 == "Dışa Dönüklük" && big5Name_2 == "Duygusal Dayanıklılık") {
-        return krktr_ozl_ozet_4_1;
-      } else if (big5Name_1 == "Uyumluluk" && big5Name_2 == "Öz Disiplin") {
-        return krktr_ozl_ozet_5_1;
-      } else if (big5Name_1 == "Uyumluluk" && big5Name_2 == "Deneyime Açıklık") {
-        return krktr_ozl_ozet_6_1;
-      } else if (big5Name_1 == "Uyumluluk" && big5Name_2 == "Duygusal Dayanıklılık") {
-        return krktr_ozl_ozet_7_1;
-      } else if (big5Name_1 == "Öz Disiplin" && big5Name_2 == "Deneyime Açıklık") {
-        return krktr_ozl_ozet_8_1;
-      } else if (big5Name_1 == "Öz Disiplin" && big5Name_2 == "Duygusal Dayanıklılık") {
-        return krktr_ozl_ozet_9_1;
-      } else if (big5Name_1 == "Deneyime Açıklık" && big5Name_2 == "Duygusal Dayanıklılık") {
-        return krktr_ozl_ozet_10_1;
-      }
-   } else if (type == "ozet_2") {
-      if(big5Name_1 == "Dışa Dönüklük" && big5Name_2 == "Uyumluluk") {
-        return krktr_ozl_ozet_1_2;
-      } else if (big5Name_1 == "Dışa Dönüklük" && big5Name_2 == "Öz Disiplin") {
-        return krktr_ozl_ozet_2_2;
-      } else if (big5Name_1 == "Dışa Dönüklük" && big5Name_2 == "Deneyime Açıklık") {
-        return krktr_ozl_ozet_3_2;
-      } else if (big5Name_1 == "Dışa Dönüklük" && big5Name_2 == "Duygusal Dayanıklılık") {
-        return krktr_ozl_ozet_4_2;
-      } else if (big5Name_1 == "Uyumluluk" && big5Name_2 == "Öz Disiplin") {
-        return krktr_ozl_ozet_5_2;
-      } else if (big5Name_1 == "Uyumluluk" && big5Name_2 == "Deneyime Açıklık") {
-        return krktr_ozl_ozet_6_2;
-      } else if (big5Name_1 == "Uyumluluk" && big5Name_2 == "Duygusal Dayanıklılık") {
-        return krktr_ozl_ozet_7_2;
-      } else if (big5Name_1 == "Öz Disiplin" && big5Name_2 == "Deneyime Açıklık") {
-        return krktr_ozl_ozet_8_2;
-      } else if (big5Name_1 == "Öz Disiplin" && big5Name_2 == "Duygusal Dayanıklılık") {
-        return krktr_ozl_ozet_9_2;
-      } else if (big5Name_1 == "Deneyime Açıklık" && big5Name_2 == "Duygusal Dayanıklılık") {
-        return krktr_ozl_ozet_10_2;
-      } 
-    }
-  }
-
-
   let kslk_ozl = (hollandName, age, type) => {
     if (type == "name") {
       if (hollandName == "Gerçekçi") {
         return kslk_ozl_realistic_your_profile;
       } else if (hollandName == "Araştırıcı") {
-        return kslk_ozl_investigative_your_profile;
+        return kslk_ozl_researcher_your_profile;
       } else if (hollandName == "Artistik Sanatsal") {
         return kslk_ozl_artistic_your_profile;
       } else if (hollandName == "Sosyal") {
         return kslk_ozl_social_your_profile;
       } else if (hollandName == "Girişimci") {
-        return kslk_ozl_entreprise_your_profile;
+        return kslk_ozl_entrepreneur_your_profile;
       } else if (hollandName == "Geleneksel") {
-        return kslk_ozl_conventional_your_profile;
+        return kslk_ozl_traditional_your_profile;
       }
     } else if (type == "interest_1") {
       if (hollandName == "Gerçekçi") {
         return kslk_ozl_realistic_your_interests_1;
       } else if (hollandName == "Araştırıcı") {
-        return kslk_ozl_investigative_your_interests_1;
+        return kslk_ozl_researcher_your_interests_1;
       } else if (hollandName == "Artistik Sanatsal") {
         return kslk_ozl_artistic_your_interests_1;
       } else if (hollandName == "Sosyal") {
         return kslk_ozl_social_your_interests_1;
       } else if (hollandName == "Girişimci") {
-        return kslk_ozl_entreprise_your_interests_1;
+        return kslk_ozl_entrepreneur_your_interests_1;
       } else if (hollandName == "Geleneksel") {
-        return kslk_ozl_conventional_your_interests_1;
+        return kslk_ozl_traditional_your_interests_1;
       }
     } else if (type == "interest_2") {
       if (hollandName == "Gerçekçi") {
         return kslk_ozl_realistic_your_interests_2;
       } else if (hollandName == "Araştırıcı") {
-        return kslk_ozl_investigative_your_interests_2;
+        return kslk_ozl_researcher_your_interests_2;
       } else if (hollandName == "Artistik Sanatsal") {
         return kslk_ozl_artistic_your_interests_2;
       } else if (hollandName == "Sosyal") {
         return kslk_ozl_social_your_interests_2;
       } else if (hollandName == "Girişimci") {
-        return kslk_ozl_entreprise_your_interests_2;
+        return kslk_ozl_entrepreneur_your_interests_2;
       } else if (hollandName == "Geleneksel") {
-        return kslk_ozl_conventional_your_interests_2;
+        return kslk_ozl_traditional_your_interests_2;
       }
     } else if (type == "profile") {
       if (hollandName == "Gerçekçi") {
         return kslk_ozl_realistic_your_profile_;
       } else if (hollandName == "Araştırıcı") {
-        return kslk_ozl_investigative_your_profile_;
+        return kslk_ozl_researcher_your_profile_;
       } else if (hollandName == "Artistik Sanatsal") {
         return kslk_ozl_artistic_your_profile_;
       } else if (hollandName == "Sosyal") {
         return kslk_ozl_social_your_profile_;
       } else if (hollandName == "Girişimci") {
-        return kslk_ozl_entreprise_your_profile_;
+        return kslk_ozl_entrepreneur_your_profile_;
       } else if (hollandName == "Geleneksel") {
-        return kslk_ozl_conventional_your_profile_;
+        return kslk_ozl_traditional_your_profile_;
       }
     } else if (type == "work_areas") {
       if (hollandName == "Gerçekçi") {
         return kslk_ozl_realistic_your_work_areas;
       } else if (hollandName == "Araştırıcı") {
-        return kslk_ozl_investigative_your_work_areas;
+        return kslk_ozl_researcher_your_work_areas;
       } else if (hollandName == "Artistik Sanatsal") {
         return kslk_ozl_artistic_your_work_areas;
       } else if (hollandName == "Sosyal") {
         return kslk_ozl_social_your_work_areas;
       } else if (hollandName == "Girişimci") {
-        return kslk_ozl_entreprise_your_work_areas;
+        return kslk_ozl_entrepreneur_your_work_areas;
       } else if (hollandName == "Geleneksel") {
-        return kslk_ozl_conventional_your_work_areas;
+        return kslk_ozl_traditional_your_work_areas;
       }
     } else if (type == "may_not_like") {
       if (hollandName == "Gerçekçi") {
         return kslk_ozl_realistic_you_may_not_like;
       } else if (hollandName == "Araştırıcı") {
-        return kslk_ozl_investigative_you_may_not_like;
+        return kslk_ozl_researcher_you_may_not_like;
       } else if (hollandName == "Artistik Sanatsal") {
         return kslk_ozl_artistic_you_may_not_like;
       } else if (hollandName == "Sosyal") {
         return kslk_ozl_social_you_may_not_like;
       } else if (hollandName == "Girişimci") {
-        return kslk_ozl_entreprise_you_may_not_like;
+        return kslk_ozl_entrepreneur_you_may_not_like;
       } else if (hollandName == "Geleneksel") {
-        return kslk_ozl_conventional_you_may_not_like;
+        return kslk_ozl_traditional_you_may_not_like;
       }
     } else if (type == "question_1") {
       if (hollandName == "Gerçekçi") {
         return kslk_ozl_25_plus_realistic_questions_1;
       } else if (hollandName == "Araştırıcı") {
-        return kslk_ozl_25_plus_investigative_questions_1;
+        return kslk_ozl_25_plus_researcher_questions_1;
       } else if (hollandName == "Artistik Sanatsal") {
         return kslk_ozl_25_plus_artistic_questions_1;
       } else if (hollandName == "Sosyal") {
         return kslk_ozl_25_plus_social_questions_1;
       } else if (hollandName == "Girişimci") {
-        return kslk_ozl_25_plus_entreprise_questions_1;
+        return kslk_ozl_25_plus_entrepreneur_questions_1;
       } else if (hollandName == "Geleneksel") {
-        return kslk_ozl_25_plus_conventional_questions_1;
+        return kslk_ozl_25_plus_traditional_questions_1;
       }
-    }
+    } 
+    return null;
   };
-
-  let kslk_ozl_ozet = (hollandName_1, hollandName_2, age, type) => {
-    if (type == "ozet_1") {
-      if (hollandName_1 == "Gerçekçi" && hollandName_2 == "Girişimci" ) {
-        return kslk_ozl_ozet_1_1;
-      } else if (hollandName_1 == "Gerçekçi" && hollandName_2 == "Geleneksel") {
-        return kslk_ozl_ozet_2_1;
-      } else if (hollandName_1 == "Gerçekçi" && hollandName_2 == "Geleneksel") {
-        return kslk_ozl_ozet_3_1;
-      } else if (hollandName_1 == "Gerçekçi" && hollandName_2 == "Sosyal" ) {
-        return kslk_ozl_ozet_4_1;
-      } else if (hollandName_1 == "Gerçekçi" && hollandName_2 == "Araştırmacı" ) {
-        return kslk_ozl_ozet_5_1;
-      } else if(hollandName_1 == "Girişimci" && hollandName_2 == "Geleneksel" ) {
-        return kslk_ozl_ozet_6_1;
-      } else if (hollandName_1 == "Girişimci" && hollandName_2 == "Sosyal" ) {
-        return kslk_ozl_ozet_7_1;
-      } else if (hollandName_1 == "Girişimci" && hollandName_2 == "Sanatsal" ) {
-        return kslk_ozl_ozet_8_1;
-      } else if (hollandName_1 == "Girişimci" && hollandName_2 == "Araştırmacı" ) {
-        return kslk_ozl_ozet_9_1;
-      } else if (hollandName_1 = "Geleneksel" && hollandName_2 == "Sosyal" ) {
-        return kslk_ozl_ozet_10_1;
-      } else if (hollandName_1 == "Geleneksel" && hollandName_2 == "Sanatsal" ) {
-        return kslk_ozl_ozet_11_1;
-      } else if (hollandName_1 == "Geleneksel" && hollandName_2 == "Araştırmacı" ) {
-        return kslk_ozl_ozet_12_1;
-      } else if (hollandName_1 == "Sosyal" && hollandName_2 == "Sanatsal" ) {
-        return kslk_ozl_ozet_13_1;
-      } else if (hollandName_1 == "Sosyal" && hollandName_2 == "Araştırmacı" ) {
-        return kslk_ozl_ozet_14_1;
-      } else if (hollandName_1 == "Sanatsal" && hollandName_2 == "Araştırmacı" ) {
-        return kslk_ozl_ozet_15_1;
-      }
-    } else if (type == "ozet_2") {
-      if (hollandData[0] == "Gerçekçi" && hollandName_2 == "Girişimci" ) {
-        return kslk_ozl_ozet_1_2;
-      } else if (hollandName_1 == "Gerçekçi" && hollandName_2 == "Geleneksel") {
-        return kslk_ozl_ozet_2_2;
-      } else if (hollandName_1 == "Gerçekçi" && hollandName_2 == "Geleneksel") {
-        return kslk_ozl_ozet_3_2;
-      } else if (hollandName_1 == "Gerçekçi" && hollandName_2 == "Sosyal" ) {
-        return kslk_ozl_ozet_4_2;
-      } else if (hollandName_1 == "Gerçekçi" && hollandName_2 == "Araştırmacı" ) {
-        return kslk_ozl_ozet_5_2;
-      } else if(hollandName_1 == "Girişimci" && hollandName_2 == "Geleneksel" ) {
-        return kslk_ozl_ozet_6_2;
-      } else if (hollandName_1 == "Girişimci" && hollandName_2 == "Sosyal" ) {
-        return kslk_ozl_ozet_7_2;
-      } else if (hollandName_1 == "Girişimci" && hollandName_2 == "Sanatsal" ) {
-        return kslk_ozl_ozet_8_2;
-      } else if (hollandName_1 == "Girişimci" && hollandName_2 == "Araştırmacı" ) {
-        return kslk_ozl_ozet_9_2;
-      } else if (hollandName_1 = "Geleneksel" && hollandName_2 == "Sosyal" ) {
-        return kslk_ozl_ozet_10_2;
-      } else if (hollandName_1 == "Geleneksel" && hollandName_2 == "Sanatsal" ) {
-        return kslk_ozl_ozet_11_2;
-      } else if (hollandName_1 == "Geleneksel" && hollandName_2 == "Araştırmacı" ) {
-        return kslk_ozl_ozet_12_2;
-      } else if (hollandName_1 == "Sosyal" && hollandName_2 == "Sanatsal" ) {
-        return kslk_ozl_ozet_13_2;
-      } else if (hollandName_1 == "Sosyal" && hollandName_2 == "Araştırmacı" ) {
-        return kslk_ozl_ozet_14_2;
-      } else if (hollandName_1 == "Sanatsal" && hollandName_2 == "Araştırmacı" ) {
-        return kslk_ozl_ozet_15_2;
-      }
-    }
-  }
-    
+  
   let ai = (aiName, age, type) => {
     if (type == "name") {
       if (aiName == "Dijital Okuryazarlık") {
@@ -4023,50 +3908,6 @@ var decision_strategy_eng_s4_1_txt = "By adhering to this decision-making strate
   let teamwork = (teamworkName, age, type) => {
     if (type == "name") {
       if (teamworkName == "Aktif Dinleme ve Empati") {
-        return teamwork_name_1_1;
-      } else if (teamworkName == "Efektif İletişim") {
-        return teamwork_name_2_1;
-      } else if (teamworkName == "İş Birliği") {
-        return teamwork_name_3_1;
-      } else if (teamworkName == "Uyumluluk") {
-        return teamwork_name_4_1;
-      } else if (teamworkName == "Sorun Çözme") {
-        return teamwork_name_5_1;
-      } else if (teamworkName == "Öncü Olma") {
-        return teamwork_name_6_1;
-      } else if (teamworkName == "Geri Bildirim") {
-        return teamwork_name_7_1;
-      } else if (teamworkName == "Takım Oyuncusu Olma") {
-        return teamwork_name_8_1;
-      } else if (teamworkName == "Profesyonel Gelişim") {
-        return teamwork_name_9_1;
-      } else if (teamworkName == "Liderlik") {
-        return teamwork_name_10_1;
-      }
-    } else if (type == "best") {
-      if (teamworkName == "Aktif Dinleme ve Empati") {
-        return teamwork_best_1_1;
-      } else if (teamworkName == "Efektif İletişim") {
-        return teamwork_best_2_1;
-      } else if (teamworkName == "İş Birliği") {
-        return teamwork_best_3_1;
-      } else if (teamworkName == "Uyumluluk") {
-        return teamwork_best_4_1;
-      } else if (teamworkName == "Sorun Çözme") {
-        return teamwork_best_5_1;
-      } else if (teamworkName == "Öncü Olma") {
-        return teamwork_best_6_1;
-      } else if (teamworkName == "Geri Bildirim") {
-        return teamwork_best_7_1;
-      } else if (teamworkName == "Takım Oyuncusu Olma") {
-        return teamwork_best_8_1;
-      } else if (teamworkName == "Profesyonel Gelişim") {
-        return teamwork_best_9_1;
-      } else if (teamworkName == "Liderlik") {
-        return teamwork_best_10_1;
-      }
-    } else if (type == "s3u1_x_1") {
-      if (teamworkName == "Aktif Dinleme ve Empati") {
         return teamwork_s3u1_1_1;
       } else if (teamworkName == "Efektif İletişim") {
         return teamwork_s3u1_2_1;
@@ -4087,27 +3928,71 @@ var decision_strategy_eng_s4_1_txt = "By adhering to this decision-making strate
       } else if (teamworkName == "Liderlik") {
         return teamwork_s3u1_10_1;
       }
+    } else if (type == "best") {
+      if (teamworkName == "Aktif Dinleme ve Empati") {
+        return teamwork_best_1_2;
+      } else if (teamworkName == "Efektif İletişim") {
+        return teamwork_best_2_2;
+      } else if (teamworkName == "İş Birliği") {
+        return teamwork_best_3_2;
+      } else if (teamworkName == "Uyumluluk") {
+        return teamwork_best_4_2;
+      } else if (teamworkName == "Sorun Çözme") {
+        return teamwork_best_5_2;
+      } else if (teamworkName == "Öncü Olma") {
+        return teamwork_best_6_2;
+      } else if (teamworkName == "Geri Bildirim") {
+        return teamwork_best_7_2;
+      } else if (teamworkName == "Takım Oyuncusu Olma") {
+        return teamwork_best_8_2;
+      } else if (teamworkName == "Profesyonel Gelişim") {
+        return teamwork_best_9_2;
+      } else if (teamworkName == "Liderlik") {
+        return teamwork_best_10_2;
+      }
+    } else if (type == "s3u1_x_1") {
+      if (teamworkName == "Aktif Dinleme ve Empati") {
+        return teamwork_s3u1_1_2;
+      } else if (teamworkName == "Efektif İletişim") {
+        return teamwork_s3u1_2_2;
+      } else if (teamworkName == "İş Birliği") {
+        return teamwork_s3u1_3_2;
+      } else if (teamworkName == "Uyumluluk") {
+        return teamwork_s3u1_4_2;
+      } else if (teamworkName == "Sorun Çözme") {
+        return teamwork_s3u1_5_2;
+      } else if (teamworkName == "Öncü Olma") {
+        return teamwork_s3u1_6_2;
+      } else if (teamworkName == "Geri Bildirim") {
+        return teamwork_s3u1_7_2;
+      } else if (teamworkName == "Takım Oyuncusu Olma") {
+        return teamwork_s3u1_8_2;
+      } else if (teamworkName == "Profesyonel Gelişim") {
+        return teamwork_s3u1_9_2;
+      } else if (teamworkName == "Liderlik") {
+        return teamwork_s3u1_10_2;
+      }
     } else if (type == "s3u2_x_1") {
       if (teamworkName == "Aktif Dinleme ve Empati") {
-        return teamwork_s3u2_1_1;
+        return teamwork_s3u2_1_2;
       } else if (teamworkName == "Efektif İletişim") {
-        return teamwork_s3u2_2_1;
+        return teamwork_s3u2_2_2;
       } else if (teamworkName == "İş Birliği") {
-        return teamwork_s3u2_3_1;
+        return teamwork_s3u2_3_2;
       } else if (teamworkName == "Uyumluluk") {
-        return teamwork_s3u2_4_1;
+        return teamwork_s3u2_4_2;
       } else if (teamworkName == "Sorun Çözme") {
-        return teamwork_s3u2_5_1;
+        return teamwork_s3u2_5_2;
       } else if (teamworkName == "Öncü Olma") {
-        return teamwork_s3u2_6_1;
+        return teamwork_s3u2_6_2;
       } else if (teamworkName == "Geri Bildirim") {
-        return teamwork_s3u2_7_1;
+        return teamwork_s3u2_7_2;
       } else if (teamworkName == "Takım Oyuncusu Olma") {
-        return teamwork_s3u2_8_1;
+        return teamwork_s3u2_8_2;
       } else if (teamworkName == "Profesyonel Gelişim") {
-        return teamwork_s3u2_9_1;
+        return teamwork_s3u2_9_2;
       } else if (teamworkName == "Liderlik") {
-        return teamwork_s3u2_10_1;
+        return teamwork_s3u2_10_2;
       }
     }
   };
@@ -4175,27 +4060,27 @@ var decision_strategy_eng_s4_1_txt = "By adhering to this decision-making strate
       }
     }  else if (type == "questions") {
       if (lifestyleData == "Manifesting Generator") {
-        return lifestyle_25_plus_manifesting_generator_question_name;
+        return lifestyle_25_plus_starter_energetic_question_name;
       } else if (lifestyleData == "Generator") {
-        return lifestyle_25_plus_generator_question_name;
+        return lifestyle_25_plus_energetic_question_name;
       } else if (lifestyleData == "Projector") {
         return lifestyle_25_plus_projektor_question_name;
       } else if (lifestyleData == "Manifestor") {
-        return lifestyle_25_plus_manifestor_question_name;
+        return lifestyle_25_plus_starter_question_name;
       } else if (lifestyleData == "Reflector") {
         return lifestyle_25_plus_reflektor_evaluation_name;
       }
     } else if (type == "evaluation") {
       if (lifestyleData == "Manifesting Generator") {
-        return lifestyle_25_plus_manifesting_generator_evaluation;
+        return lifestyle_25_plus_starter_energetic_evaluation;
       } else if (lifestyleData == "Generator") {
-        return lifestyle_25_plus_generator_evaluation;
+        return lifestyle_25_plus_energetic_evaluation;
       } else if (lifestyleData == "Projector") {
         return lifestyle_25_plus_projektor_evaluation;
       } else if (lifestyleData == "Manifestor") {
-        return lifestyle_25_plus_manifestor_evaluation;
+        return lifestyle_25_plus_starter_evaluation;
       } else if (lifestyleData == "Reflector") {
-        return lifestyle_25_plus_reflektor_evaluation; 
+        return lifestyle_25_plus_reflektor_evaluation;
       }
     } else if( type == "image") {
       if (lifestyleData == "Manifesting Generator") {
@@ -4215,31 +4100,7 @@ var decision_strategy_eng_s4_1_txt = "By adhering to this decision-making strate
       } else if (lifestyleData == "Reflector") {
         return lifestyle_25_plus_reflektor_image;
       }
-    } else if (type == "ozet_1") {
-      if (lifestyleData == "Manifesting Generator") {
-        return lifestyle_manifesting_generator_ozet_1;
-      } else if (lifestyleData == "Generator") {
-        return lifestyle_generator_ozet_1;;
-      } else if (lifestyleData == "Projector") {
-        return lifestyle_projektor_ozet_1;
-      } else if (lifestyleData == "Manifestor") {
-        return lifestyle_manifestor_ozet_1;
-      } else if (lifestyleData == "Reflector") {
-        return lifestyle_reflektor_ozet_1; 
-      }
-    } else if (type == "ozet_2") {
-      if (lifestyleData == "Manifesting Generator") {
-        return lifestyle_manifesting_generator_ozet_2;
-      } else if (lifestyleData == "Generator") {
-        return lifestyle_generator_ozet_2;;
-      } else if (lifestyleData == "Projector") {
-        return lifestyle_projektor_ozet_2;
-      } else if (lifestyleData == "Manifestor") {
-        return lifestyle_manifestor_ozet_2;
-      } else if (lifestyleData == "Reflector") {
-        return lifestyle_reflektor_ozet_2; 
-      }
-    } 
+    }
   };
 
   let communication = (communicationData, age, type) => {
@@ -4391,7 +4252,7 @@ var decision_strategy_eng_s4_1_txt = "By adhering to this decision-making strate
       if (worklearnData == "No Definition") {
         return c_o_s_objective_title;
       } else if (worklearnData == "Single Definition") {
-        return c_o_s_individual_title;
+        return c_o_s_indivudal_title;
       } else if (worklearnData == "Split Definition") {
         return c_o_s_collaborative_titie;
       } else if (worklearnData == "Triple Split Definition") {
@@ -4403,7 +4264,7 @@ var decision_strategy_eng_s4_1_txt = "By adhering to this decision-making strate
       if (worklearnData == "No Definition") {
         return c_o_s_objective;
       } else if (worklearnData == "Single Definition") {
-        return c_o_s_iindividual;
+        return c_o_s_individual;
       } else if (worklearnData == "Split Definition") {
         return c_o_s_collaborative;
       } else if (worklearnData == "Triple Split Definition") {
@@ -4415,37 +4276,13 @@ var decision_strategy_eng_s4_1_txt = "By adhering to this decision-making strate
       if (worklearnData == "No Definition") {
         return c_o_s_objective_s3_1;
       } else if (worklearnData == "Single Definition") {
-        return c_o_s_iindividual_s3_1;
+        return c_o_s_individual_s3_1;
       } else if (worklearnData == "Split Definition") {
         return c_o_s_collaborative_s3_1;
       } else if (worklearnData == "Triple Split Definition") {
         return c_o_s_synthesizing_s3_1;
       } else if (worklearnData == "Quadruple Split Definition") {
         return c_o_s_subjective_s3_1;
-      }
-    } else if (type == "ozet_1") {
-      if (worklearnData == "No Definition") {
-        return c_o_s_objective_ozet_1;
-      } else if (worklearnData == "Single Definition") {
-        return c_o_s_individual_ozet_1;
-      } else if (worklearnData == "Split Definition") {
-        return c_o_s_collaborative_ozet_1;
-      } else if (worklearnData == "Triple Split Definition") {
-        return c_o_s_synthesizing_ozet_1;
-      } else if (worklearnData == "Quadruple Split Definition") {
-        return c_o_s_subjective_ozet_1;
-      }
-    } else if (type == "ozet_2") {
-      if (worklearnData == "No Definition") {
-        return c_o_s_objective_ozet_2;
-      } else if (worklearnData == "Single Definition") {
-        return c_o_s_individual_ozet_2;
-      } else if (worklearnData == "Split Definition") {
-        return c_o_s_collaborative_ozet_2;
-      } else if (worklearnData == "Triple Split Definition") {
-        return c_o_s_synthesizing_ozet_2;
-      } else if (worklearnData == "Quadruple Split Definition") {
-        return c_o_s_subjective_ozet_2;
       }
     }
   };
@@ -5128,54 +4965,6 @@ var decision_strategy_eng_s4_1_txt = "By adhering to this decision-making strate
         return decision_strategy_s4_10_txt; 
       } else if (decisionStrategyData.strategy == "Wait a Lunar Cycle" && decisionStrategyData.innerAuthority == "Lunar") {
         return decision_strategy_s4_11_txt; 
-      }
-    } else if (type == "ozet_1") {
-      if (decisionStrategyData.strategy == "To Respond" && decisionStrategyData.innerAuthority == "Emotional") {
-        return decision_strategy_ozet_1_1; 
-      } else if (decisionStrategyData.strategy == "To Respond" && decisionStrategyData.innerAuthority == "Sacral") {
-        return decision_strategy_ozet_2_1; 
-      } else if (decisionStrategyData.strategy == "Wait for the Invitation" && decisionStrategyData.innerAuthority == "Emotional") {
-        return decision_strategy_ozet_3_1; 
-      } else if (decisionStrategyData.strategy == "Wait for the Invitation" && decisionStrategyData.innerAuthority == "Splenic") {
-        return decision_strategy_ozet_4_1; 
-      } else if (decisionStrategyData.strategy == "Wait for the Invitation" && decisionStrategyData.innerAuthority == "Ego Projected") {
-        return decision_strategy_ozet_5_1; 
-      } else if (decisionStrategyData.strategy == "Wait for the Invitation" && decisionStrategyData.innerAuthority == "Self Projected") {
-        return decision_strategy_ozet_6_1; 
-      } else if (decisionStrategyData.strategy == "Wait for the Invitation" && decisionStrategyData.innerAuthority == "Mental") {
-        return decision_strategy_ozet_7_1; 
-      } else if (decisionStrategyData.strategy == "To Inform" && decisionStrategyData.innerAuthority == "Emotional") {
-        return decision_strategy_ozet_8_1; 
-      } else if (decisionStrategyData.strategy == "To Inform" && decisionStrategyData.innerAuthority == "Splenic") {
-        return decision_strategy_ozet_9_1; 
-      } else if (decisionStrategyData.strategy == "To Inform" && decisionStrategyData.innerAuthority == "Ego Manifested") {
-        return decision_strategy_ozet_10_1; 
-      } else if (decisionStrategyData.strategy == "Wait a Lunar Cycle" && decisionStrategyData.innerAuthority == "Lunar") {
-        return decision_strategy_ozet_11_1; 
-      }
-    } else if (type == "ozet_2") {
-      if (decisionStrategyData.strategy == "To Respond" && decisionStrategyData.innerAuthority == "Emotional") {
-        return decision_strategy_ozet_1_2; 
-      } else if (decisionStrategyData.strategy == "To Respond" && decisionStrategyData.innerAuthority == "Sacral") {
-        return decision_strategy_ozet_2_2; 
-      } else if (decisionStrategyData.strategy == "Wait for the Invitation" && decisionStrategyData.innerAuthority == "Emotional") {
-        return decision_strategy_ozet_3_2; 
-      } else if (decisionStrategyData.strategy == "Wait for the Invitation" && decisionStrategyData.innerAuthority == "Splenic") {
-        return decision_strategy_ozet_4_2; 
-      } else if (decisionStrategyData.strategy == "Wait for the Invitation" && decisionStrategyData.innerAuthority == "Ego Projected") {
-        return decision_strategy_ozet_5_2; 
-      } else if (decisionStrategyData.strategy == "Wait for the Invitation" && decisionStrategyData.innerAuthority == "Self Projected") {
-        return decision_strategy_ozet_6_2; 
-      } else if (decisionStrategyData.strategy == "Wait for the Invitation" && decisionStrategyData.innerAuthority == "Mental") {
-        return decision_strategy_ozet_7_2; 
-      } else if (decisionStrategyData.strategy == "To Inform" && decisionStrategyData.innerAuthority == "Emotional") {
-        return decision_strategy_ozet_8_2; 
-      } else if (decisionStrategyData.strategy == "To Inform" && decisionStrategyData.innerAuthority == "Splenic") {
-        return decision_strategy_ozet_9_2; 
-      } else if (decisionStrategyData.strategy == "To Inform" && decisionStrategyData.innerAuthority == "Ego Manifested") {
-        return decision_strategy_ozet_10_2; 
-      } else if (decisionStrategyData.strategy == "Wait a Lunar Cycle" && decisionStrategyData.innerAuthority == "Lunar") {
-        return decision_strategy_ozet_11_; 
       }
     }
   };
@@ -6137,46 +5926,6 @@ var decision_strategy_eng_s4_1_txt = "By adhering to this decision-making strate
       } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Analitik ve Veri Odaklı Kariyerler") {
         return kariyer_secim_25_plus_s7_meal_9_7;
       }
-    } else if (type == "ozet_1") {
-      if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yaratıcı ve Sanatsal Kariyerler") {
-        return kariyer_secim_ozet_1_1;
-      } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Liderlik ve Yönetim Kariyerleri") {
-        return kariyer_secim_ozet_2_1;
-      } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yardım ve Sosyal Kariyerler") {
-        return kariyer_secim_ozet_3_1;
-      } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Teknik ve Mühendislik Kariyerleri") {
-        return kariyer_secim_ozet_4_1;
-      } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Satış ve İlişki Kurma Kariyerleri") {
-        return kariyer_secim_ozet_5_1;
-      } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Organizasyonel ve İdari Kariyerler") {
-        return kariyer_secim_ozet_6_1;
-      } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yenilikçi ve Girişimci Kariyerler") {
-        return kariyer_secim_ozet_7_1;
-      } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Öğretim ve Mentorluk Kariyerleri") {
-        return kariyer_secim_ozet_8_1;
-      } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Analitik ve Veri Odaklı Kariyerler") {
-        return kariyer_secim_ozet_9_1;
-      }
-    } else if (type == "ozet_2") {
-      if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yaratıcı ve Sanatsal Kariyerler") {
-        return kariyer_secim_ozet_1_2;
-      } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Liderlik ve Yönetim Kariyerleri") {
-        return kariyer_secim_ozet_2_2;
-      } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yardım ve Sosyal Kariyerler") {
-        return kariyer_secim_ozet_3_2;
-      } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Teknik ve Mühendislik Kariyerleri") {
-        return kariyer_secim_ozet_4_2;
-      } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Satış ve İlişki Kurma Kariyerleri") {
-        return kariyer_secim_ozet_5_2;
-      } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Organizasyonel ve İdari Kariyerler") {
-        return kariyer_secim_ozet_6_2;
-      } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yenilikçi ve Girişimci Kariyerler") {
-        return kariyer_secim_ozet_7_2;
-      } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Öğretim ve Mentorluk Kariyerleri") {
-        return kariyer_secim_ozet_8_2;
-      } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Analitik ve Veri Odaklı Kariyerler") {
-        return kariyer_secim_ozet_9_2;
-      }
     }
   };
 
@@ -6473,7 +6222,7 @@ var decision_strategy_eng_s4_1_txt = "By adhering to this decision-making strate
     }
   };
 
-  var cinsiyet =  Object.entries(rawData).find((x) => x[0] == "kisiselbilgi / cinsiyet")[1]
+  var cinsiyet =  Object.entries(rawData).find((x) => x[0] == "kisiselbilgi / cinsiyet") || ("kisiselbilgi / gender")[1]
 
   var allVariables = { // Burada sadece değişmeyen ilk 28'i tanımlı. alt tarafda gelen güçlü yanlarına göre diğer alanlar objeye push ediliyor.
   
@@ -8692,5 +8441,5 @@ var decision_strategy_eng_s4_1_txt = "By adhering to this decision-making strate
 
   const jsonString = JSON.stringify(inputs_25_plus)
 
-  return inputs_25_plus;
+  return res.send(inputs_25_plus);
 };
