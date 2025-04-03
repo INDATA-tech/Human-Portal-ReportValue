@@ -3658,8 +3658,8 @@ var decision_strategy_ozet_11_1 = "Karar Verme Stratejin: Yansıt, Değerlendir 
 var decision_strategy_ozet_11_2 = "Senin karar verme sürecin, zamanla derinleşen bir değerlendirmeyi gerektirir. Kendine yaklaşık bir ay kadar düşünme alanı tanımak, çevrenden yansıyanları gözlemlemek ve başkalarıyla fikir alışverişinde bulunmak, doğru kararları vermen için en sağlıklı yoldur.";
 
 //Karar Verme Stratejilerin İngilizce
-var decision_strategy_eng_s3_1_0 = "Wait to Respond then Wait for Clarity";
-var decision_strategy_eng_s3_1_1 = "Karşılık Ver ve Netlikle Karar Al";
+var decision_strategy_eng_s3_1_0 = "Karşılık Ver ve Netlikle Karar Al";
+var decision_strategy_eng_s3_1_1 = "Wait to Respond then Wait for Clarity";
 var decision_strategy_eng_s3_1_2 = "Your decision-making strategy revolves around two key aspects: listening to your gut response and then patiently waiting for clarity to emerge. Your gut serves as a valuable guide, signaling whether you have the energy to commit to a particular course of action. However, it's essential to recognize that responses can be influenced by the mind, especially when feelings of urgency or pressure arise. Therefore, it's crucial to wait for these pressures to subside and seeking clarity.";
 var decision_strategy_eng_s3_1_3 = "Gut Response: Once life has brought something to you, your gut response will manifest as either an \"ah-huh\" (yes), a \"uhn-un\" (no), or a \"hmmmmm\" (no for now or ask me in another way). Pay attention to these subtle signals, but be cautious of making decisions solely based on immediate gut reactions.";
 var decision_strategy_eng_s3_1_4 = "Wait for Clarity: Rather than rushing into action, allow yourself the time and space to wait for clarity to emerge. Avoid making decisions during emotional highs or lows and instead sleep on it before making important choices. This patience allows you to discern with a calm, certain confidence.";
@@ -3667,6 +3667,95 @@ var decision_strategy_eng_s4_1_text = "Acting from the mind can lead to second-g
 var decision_strategy_eng_s4_1_1 = "1.Actively Wait: Be receptive to life's cues and signals, allowing yourself to observe without immediate action.\nRespond: Listen for your gut's response – an \"ah-huh\" for yes, a \"uhn-un\" for no, or a \"hmmmmm\" for not now.\n2.Wait for Clarity: Sleep on it and allow yourself to feel out your emotional wave. Avoid making decisions during heightened emotional states.\n3.Decide: Based on your gut response and emotional clarity, make a decision – yes, no, or not now.\n4.Act or Not: Finally, take action or refrain from action based on your decision, trusting in the wisdom of your gut instincts and emotional clarity.";
 var decision_strategy_eng_s4_1_txt = "By adhering to this decision-making strategy, you can navigate through choices with patience, discernment, and confidence, leading to greater success and fulfillment in your career and business endeavors.";
 
+var decision_strategy_eng_s3_2_0 = "Karşılık Vermek için Bekle ve İçgüdülerini Takip Et";
+var decision_strategy_eng_s3_2_1 = "Wait to Respond then Follow Your Gut";
+var decision_strategy_eng_s3_2_2 = "Your decision-making strategy revolves around two key aspects: waiting to respond and following your gut. Your gut serves as a powerful indicator of whether you have the energy and inclination to commit to a particular course of action. However, it responds only to yes or no questions, so it's crucial to frame your inquiries accordingly.";
+var decision_strategy_eng_s3_2_3 = "Wait To Respond: Rather than impulsively jumping into action, allow yourself the space to wait and observe. Be actively aware of life coming towards you in various forms – a question, an email, a person, or even a sound. Trust that life will present opportunities to you when the time is right.";
+var decision_strategy_eng_s3_2_4 = "Follow Your Gut: Your gut response will manifest as either an \"ah-huh\" (yes), a \"uhn-un\" (no), or a \"hmmmmm\" (no for now or ask me in another way). Pay attention to the sensations in your body – whether you feel drawn towards something with excitement or experience a knot in your stomach indicating unease.";
+var decision_strategy_eng_s3_2_text = "Acting from the mind can lead to second-guessing your gut instincts, feeling anxious, and missing out on opportunities. In contrast, acting from response involves actively waiting for life to come towards you and trusting your gut's guidance. Surrender to the unfolding magic of life and allow yourself to be pulled towards what resonates with you and away from what doesn't.";
+var decision_strategy_eng_s4_2_1 = "1.Actively Wait: Be receptive to life's cues and signals, whether they come in the form of questions, interactions, or experiences.\n2.Respond: Listen for your gut's response – an \"ah-huh\" for yes, a \"uhn-un\" for no, or a \"hmmmmm\" for not now.\n3.Decide: Based on your gut's response, make a decision – yes, no, or not now. Be wary of the mind's interference at this stage.\n4.Act or Not: Finally, take action or refrain from action based on your decision, trusting in the wisdom of your gut instincts.";
+var decision_strategy_eng_s4_2_1_txt = "By adhering to this decision-making strategy, you can navigate through choices with clarity, confidence, and authenticity, leading to greater success and fulfillment in your career and business endeavors";
+
+var decision_strategy_eng_s3_3_0 = "Tanınma ve Davet Al, Netlik ile Karar Al";
+var decision_strategy_eng_s3_3_1 = "Wait for Recognition, Invitation, and Clarity";
+var decision_strategy_eng_s3_3_2 = "Your decision-making strategy centers on waiting for recognition, invitation, and then waiting for emotional clarity to emerge before taking action. By patiently observing and trusting the process, you can ensure that your decisions are made at the right time and are aligned with your emotional truth.";
+var decision_strategy_eng_s3_3_3 = "Wait for Recognition & Invitation: Exercise patience and trust as you wait for recognition and an invitation to emerge. Be selective and attentive, especially in crucial areas of life such as love, career, relationships, and living arrangements.";
+var decision_strategy_eng_s3_3_4 = "Wait for Emotional Clarity: Once recognized and invited, allow yourself the time to attain emotional clarity before proceeding. Avoid making decisions during emotional highs or lows and wait for the calm certainty that signifies the right timing for action.";
+var decision_strategy_eng_s3_3_text = "Acting from the mind can lead to impulsivity, doubt, and missed opportunities, while waiting for recognition, invitation, and clarity allows you to trust in the silent magic of your chemistry and opportunities.";
+var decision_strategy_eng_s4_3_1 = "1.Actively Wait for Recognition & an Invitation: Exercise patience and keen observation as you wait for recognition and an invitation to present themselves. Trust in the process and be selective in your choices.\n2.Wait for Clarity: Once recognized and invited, take the time to sleep on it and feel out your emotional wave. Avoid making decisions based on emotional impulses and wait for the calm confidence that signals clarity.\n3.Decide: Based on your emotional clarity, make a decision – yes, no, or not now – that aligns with your truth and intuition.\n4.Act or Not: Proceed with confidence if the decision feels right, or refrain from action if further contemplation is needed.";
+var decision_strategy_eng_s4_3_1_txt = "By adhering to this decision-making strategy, you can navigate through choices with patience, trust, and emotional clarity, ensuring that your actions are aligned with your true intentions and leading to greater fulfillment and success.";
+
+var decision_strategy_eng_s3_4_0 = "Tanınma ve Davet Al, İçgüdülerini Takip Et";
+var decision_strategy_eng_s3_4_1 = "Wait for Recognition, Invitation, and Follow Your Instincts";
+var decision_strategy_eng_s3_4_2 = "Your decision-making strategy revolves around patiently awaiting recognition and invitation, and then following your instincts to determine the right course of action. By staying attuned to your senses and trusting your spontaneous knowing, you can navigate decisions with confidence and authenticity.";
+var decision_strategy_eng_s3_4_3 = "Wait for Recognition & Invitation: Exercise patience and trust as you wait for recognition and an invitation to unfold. Pay attention to subtle cues and be selective in your choices, especially in critical areas like love, career, relationships, and living arrangements.";
+var decision_strategy_eng_s3_4_4 = "Follow Your Instincts: Once recognized and invited, trust your instincts to guide you in the moment. Stay present and attuned to your body's subtle sensations, allowing your spontaneous knowing to inform your decisions.";
+var decision_strategy_eng_s3_4_text = "Acting from the mind can lead to doubt, anxiety, and missed opportunities, while following recognition, invitation, and instincts allows you to trust in the silent magic of your chemistry and opportunities.";
+var decision_strategy_eng_s4_4_1 = "1.Actively Wait for Recognition & an Invitation: Exercise patience and keen observation as you await recognition and invitation. Trust in the process and remain selective in your choices.\n2.Follow Your Instincts: Once recognized and invited, trust your instincts in the moment. Stay present and attuned to your body's sensations, allowing your spontaneous knowing to guide your decisions. Remember, instinctive knowing speaks softly and subtly, often during noise and activity. Stay present and receptive to its guidance, even in the busiest of moments. Trust that your body is attuned to what is right for you and allow its wisdom to inform your decisions as you navigate through life's twists and turns. With practice, you'll learn to harness the power of instinctive knowing wherever you are, leading to greater clarity and confidence in your choices.\n3.Decide: Based on your instincts and intuitive knowing, make a decision – yes, no, or not now – that resonates with your truth.\n4.Act or Not: Proceed with confidence if the decision feels right, or refrain from action if further contemplation is needed.";
+var decision_strategy_eng_s4_4_1_txt = "By adhering to this decision-making strategy, you can navigate through choices with patience, trust, and authenticity, ensuring that your actions are aligned with your true instincts and leading to greater fulfillment and success.";
+
+var decision_strategy_eng_s3_5_0 = "Tanınma ve Davet Al, İradeli Kararlılığını Takip Et";
+var decision_strategy_eng_s3_5_1 = "Wait for Recognition, Invitation, and Follow Your Willful Determination";
+var decision_strategy_eng_s3_5_2 = "Your decision-making strategy centers on patiently awaiting recognition and invitation, then following your willful determination to guide your actions. By prioritizing your desires and assessing your commitment, you can ensure that your decisions align with your true intentions and lead to fulfillment.";
+var decision_strategy_eng_s3_5_3 = "Wait for Recognition & Invitation: Exercise patience and trust as you wait for recognition and an invitation to unfold. Be selective and attentive, especially in crucial life domains like love, career, relationships, and living arrangements.";
+var decision_strategy_eng_s3_5_4 = "Follow Your Willful Determination: Once recognized and invited, assess your willful determination to discern your level of commitment and desire. Be selfish in asking, \"What do I want?\" and \"What is in it for me?\" Ensure that your heart is fully invested to maintain your well-being and balance.";
+var decision_strategy_eng_s3_5_text = "Acting from the mind may lead to doubt, anxiety, and missed opportunities, while following recognition, invitation, and willfulness empowers you to trust in the silent magic of your chemistry and opportunities.";
+var decision_strategy_eng_s4_5_1 = "1.Actively Wait for Recognition & an Invitation: Exercise patience, observation, and trust as you await recognition and invitation. Remain selective and attentive, ensuring that opportunities align with your desires.\n2.Listen to Your Willful Determination: Once recognized and invited, tune into your willful determination to assess your commitment and desire. Selfishly prioritize your own needs and desires to ensure alignment with your true intentions.\n3.Decide: Based on your assessment of your willful determination, make a decision – yes, no, or not now – that reflects your true desires and intentions.\n4.Act or Not: Proceed with confidence if your heart is fully invested and the decision aligns with your true intentions. Refrain from action if further contemplation is needed to ensure alignment.";
+var decision_strategy_eng_s4_5_1_txt = "By adhering to this decision-making strategy, you can navigate choices with patience, trust, and self-awareness, ensuring that your actions are aligned with your true desires and leading to greater fulfillment and success.";
+
+var decision_strategy_eng_s3_6_0 = "Tanınma ve Davet Al, Söylediklerini Dinle";
+var decision_strategy_eng_s3_6_1 = "Wait for Recognition, Invitation, and Listen to What You Say";
+var decision_strategy_eng_s3_6_2 = "Your decision-making strategy revolves around patiently waiting for recognition and invitation, then attentively listening to your own voice as you speak to a few people you trust to hear what you are saying. By engaging in self-reflection and trusting your inner wisdom, you can ensure that your decisions are authentic and aligned with your true desires.";
+var decision_strategy_eng_s3_6_3 = "Wait for Recognition & Invitation: Exercise patience and trust as you await recognition and an invitation to unfold. Be selective and attentive, particularly in significant life domains such as love, career, relationships, and living arrangements.";
+var decision_strategy_eng_s3_6_4 = "Listen to What You Say: Once recognized and invited, engage in conversations with trusted individuals, not for their advice, but to listen to your own voice. Pay attention to how decisions resonate with you, whether they align with your happiness, self-expression, and personal direction.";
+var decision_strategy_eng_s3_6_text = "Your decision-making strategy revolves around patiently waiting for recognition and invitation, then attentively listening to your own voice as you speak to a few people you trust to hear what you are saying. By engaging in self-reflection and trusting your inner wisdom, you can ensure that your decisions are authentic and aligned with your true desires.";
+var decision_strategy_eng_s4_6_1 = "Dökümanda bulunmuyor.";
+var decision_strategy_eng_s4_6_1_txt = "Dökümanda bulunmuyor.";
+
+var decision_strategy_eng_s3_7_0 = "Tanınma ve Davet Al, Kendi Söylediklerini Dinle";
+var decision_strategy_eng_s3_7_1 = "Wait for Recognition, Invitation, and Listen to What You Say";
+var decision_strategy_eng_s3_7_2 = "Your decision-making strategy revolves around patiently waiting for recognition and invitation, then engaging in conversations with trusted individuals to listen to your own voice. By focusing on self-reflection and environmental sensitivity, you can ensure that your decisions are aligned with your authentic desires and intentions.";
+var decision_strategy_eng_s3_7_3 = "Wait for Recognition & Invitation: Exercise patience and trust as you await recognition and an invitation to unfold. Pay attention to the atmosphere and ensure it feels correct, as you are sensitive to environmental cues.";
+var decision_strategy_eng_s3_7_4 = "Listen to What You Say: Engage in conversations with trusted individuals not for advice, but to listen to your own voice. Reflect on whether decisions align with your happiness, self-expression, and personal direction, while bouncing ideas off different people to gain perspective.";
+var decision_strategy_eng_s3_7_text = "Acting from the mind may lead to doubt, anxiety, and missed opportunities, while following recognition, invitation, and listening empowers you to trust in the silent wisdom of your inner voice and environmental cues.";
+var decision_strategy_eng_s4_7_1 = "1.Actively Wait for Recognition & an Invitation: Exercise patience, observation, and trust as you await recognition and invitation. Pay attention to the environment and ensure it feels correct, as you are sensitive to atmospheric cues.\n2.Listen to What YOU Say: Engage in conversations with trusted individuals as sounding boards, focusing on listening to your own voice. Reflect on whether decisions align with your happiness, self-expression, and personal direction, while seeking different perspectives to gain clarity.\n3.Decide: Based on your reflections and inner wisdom, make a decision – yes, no, or not now – that reflects your authentic desires and intentions, considering both your emotional responses and environmental cues.\n4.Act or Not: Proceed with confidence if decisions align with your true desires and resonate with your inner voice and environmental cues. Refrain from action if further contemplation or environmental adjustments are needed to ensure alignment.";
+var decision_strategy_eng_s4_7_1_txt = "By adhering to this decision-making strategy, you can navigate choices with self-awareness, authenticity, and trust in your inner wisdom and environmental sensitivity, ensuring that your actions are aligned with your true desires and lead to greater fulfillment and success.";
+
+var decision_strategy_eng_s3_8_0 = "Gör, Netlik Bekle ve Bilgi Ver";
+var decision_strategy_eng_s3_8_1 = "Wait to be Moved by Emotional Clarity then Inform Before Acting";
+var decision_strategy_eng_s3_8_2 = "As an initiator, your decision-making strategy centers on waiting for emotional clarity before taking action and ensuring that you inform others before proceeding. By aligning your actions with emotional clarity and considering the impact on others, you can navigate through choices with mindfulness and consideration.";
+var decision_strategy_eng_s3_8_3 = "Wait for Clarity: Rather than succumbing to impulsive urges, allow yourself the time and space to wait for emotional clarity before taking action. Avoid making decisions during emotional highs or lows and instead sleep on it to gain perspective and allow nervousness to subside.";
+var decision_strategy_eng_s3_8_4 = "Inform Before Taking Action: Recognize that your actions will impact others, and take the initiative to inform them before proceeding. By communicating your intentions upfront, you remove obstacles and resistance from your path, fostering peace, understanding, and collaboration.";
+var decision_strategy_eng_s3_8_text = "Acting from the mind can lead to impulsive actions, anxiety, and negative impacts on others. In contrast, informing before acting involves waiting for emotional clarity and considering the potential impact on others before proceeding, fostering effective communication and collaboration.";
+var decision_strategy_eng_s4_8_1 = "1.See: Recognize what needs to happen or be initiated.\n2.Wait to be Moved by Emotional Clarity: Sleep on it and allow nervousness to subside. Feel out your emotional wave to gain clarity on your course of action.\n3.Decide: Based on your emotional clarity, make a decision – yes, no, or not now.\n4.Inform: Before taking action, consider who will be impacted by your decision and inform them accordingly. This proactive communication removes resistance and fosters understanding.\n5.Take Action: Proceed with your chosen course of action, mindful of the impact on others and the power of informed communication.";
+var decision_strategy_eng_s4_8_1_txt = "By adhering to this decision-making strategy, you can navigate through choices with mindfulness, consideration, and effective communication, leading to greater success and collaboration in your endeavors.";
+
+var decision_strategy_eng_s3_9_0 = "Gör, İç güdülerine Kulak ver ve Bilgi Ver";
+var decision_strategy_eng_s3_9_1 = "Trust Your Instinctive Knowing Then Inform Before Acting";
+var decision_strategy_eng_s3_9_2 = "Your decision-making strategy revolves around trusting your instinctive knowing and ensuring you inform others before taking action. By staying present and tuned into your body's subtle sensations, you can make spontaneous decisions in the moment, while also considering the impact on others and fostering effective communication.";
+var decision_strategy_eng_s3_9_3 = "Trust Your Instinctive Knowing: Embrace the spontaneous, instant knowing that arises within you. Stay present, aware, and attuned to the subtle sensations your body experiences, allowing your instinctive knowing to guide your decisions in the moment.";
+var decision_strategy_eng_s3_9_4 = "Inform Before Taking Action: Recognize that your actions will impact others and take the time to inform them before proceeding. Proactive communication removes obstacles and resistance, fostering peace, understanding, and collaboration.";
+var decision_strategy_eng_s3_9_text = "Acting from the mind can lead to second-guessing your instinctive knowing, impulsivity, and negative impacts on others. In contrast, informing before acting involves trusting your instinctive knowing and considering the potential impact on others before proceeding, fostering effective communication and collaboration.";
+var decision_strategy_eng_s4_9_1 = "1.See: Recognize what needs to happen or be initiated.\n2.Wait to be Moved By Your Instinctive Knowing: Sense it in the moment and trust your gut feelings.\n3.Decide: Based on your instinctive knowing, make a decision – yes, no, or not now.\n4.Inform: Consider who will be impacted by your decision and inform them before taking action, removing resistance and fostering understanding.\n5.Take Action: Proceed with your chosen course of action, mindful of the impact on others and the power of informed communication.";
+var decision_strategy_eng_s4_9_1_txt = "By adhering to this decision-making strategy, you can navigate through choices with spontaneity, mindfulness, and effective communication, leading to greater success and collaboration in your endeavors.";
+
+var decision_strategy_eng_s3_10_0 = "Gör, İradeni Dinle ve Bilgi Ver";
+var decision_strategy_eng_s3_10_1 = "Being Moved by Your Willful Determination & Informing Before Acting";
+var decision_strategy_eng_s3_10_2 = "Your decision-making strategy revolves around being moved into action by the force of your will and ensuring that you inform others before proceeding. By recognizing your personal authority and considering the impact on others, you can navigate decisions with clarity, intention, and effective communication.";
+var decision_strategy_eng_s3_10_3 = "Being Moved by Your Willful Determination: Tune into the force of your will, recognizing whether you have the energy and desire to take action. Pay attention to your non-pre-planned statements of \"I have...\" and \"I will...\" as indicators of your authority and determination.";
+var decision_strategy_eng_s3_10_4 = "Informing Before Taking Action: Acknowledge that your actions will impact others and take the proactive step of informing them before proceeding. By removing obstacles and resistance through communication, you foster understanding and collaboration.";
+var decision_strategy_eng_s3_10_text = "Acting from the mind can lead to doubts, impulsivity, and negative impacts on others. In contrast, informing before acting involves recognizing your willful determination and considering the potential impact on others before proceeding, fostering effective communication and collaboration.";
+var decision_strategy_eng_s4_10_1 = "1.See: Recognize what needs to happen or be initiated.\n2.Wait to be Moved By Your Willful Determination: Assess whether you have the will and desire to take action. Consider what is in it for you and whether your heart is truly in it.\n3.Decide: Based on your willful determination, make a decision – yes, no, or not now.\n4.Inform: Consider who will be impacted by your decision and inform them before taking action, removing resistance and fostering understanding.\n5.Take Action: Proceed with your chosen course of action, mindful of the impact on others and the power of informed communication";
+var decision_strategy_eng_s4_10_1_txt = "By adhering to this decision-making strategy, you can navigate through choices with determination, clarity, and effective communication, leading to greater success and collaboration in your endeavors.";
+
+var decision_strategy_eng_s3_11_0 = "Senin için önemli konularda en doğru kararları almak, yansıtmak, değerlendirmek ve tartışmak için yaklaşık bir ay beklemelisin.";
+var decision_strategy_eng_s3_11_1 = "Wait a 28-Day Cycle to Reflect, Assess & Discuss";
+var decision_strategy_eng_s3_11_2 = "Your decision-making strategy revolves around waiting, reflecting, and discussing before making significant decisions. By taking your time and engaging in thoughtful contemplation and dialogue, you can arrive at the right decision at the right time, grounded in your personal truth and clarity.";
+var decision_strategy_eng_s3_11_3 = "Waiting, Reflection & Discussion: Embrace a patient approach to decision-making, allowing about a month or more for reflection and discussion. Create an environment conducive to your well-being and engage with trusted confidants to articulate your thoughts and hear your own truth.";
+var decision_strategy_eng_s3_11_4 = "Deep Sudden Inner Knowing: Through the process of waiting, reflecting, and discussing, you will experience a profound inner sense or knowing that signals whether a decision aligns with your truth or not.";
+var decision_strategy_eng_s3_11_text = "Acting from the mind can lead to doubt, impulsivity, and missed opportunities, while waiting, reflecting, and discussing allows you to refine your perceptions and arrive at clarity over time, leading to a more informed decision-making process.";
+var decision_strategy_eng_s4_11_1 = "1.Wait for an Offer or Invitation: Resist the urge to initiate yourself. Wait for others to extend an offer or invitation, aligning with your natural inclination.\n2.Wait, Reflect, Discuss: Take your time, allowing approximately a month for waiting, reflecting on the decision, and engaging in discussions with others. Use these conversations not for advice, but to articulate your thoughts and hear your potential truth.\n3.Feel a Deep Sudden Inner Knowing: Trust in your inner guidance, recognizing when a decision resonates deeply within you, signaling its alignment with your truth.\n4.Decide: Based on your reflections and discussions, make a decision – yes, no, or not now – informed by your newfound clarity.\n5.Take Action: Proceed with confidence, knowing that your decision is rooted in your personal truth and supported by thoughtful consideration and dialogue.";
+var decision_strategy_eng_s4_11_1_txt = "By adhering to this decision-making strategy, you can navigate through choices with patience, clarity, and a deep understanding of your own truth, leading to greater fulfillment and alignment in your endeavors.";
 
 //----
 
@@ -5160,660 +5249,1317 @@ var decision_strategy_eng_s4_1_txt = "By adhering to this decision-making strate
     }
   };
 
-  let is_y_r = (is_y_rData, age, type) => {
-    if (type == "image") {
-      if (is_y_rData == "1 / 3") {
-        return is_y_r_image_1_3;
-      } else if (is_y_rData == "1 / 4") {
-        return is_y_r_image_1_4;
-      } else if (is_y_rData == "2 / 4") {
-        return is_y_r_image_2_4;
-      } else if (is_y_rData == "2 / 5") {
-        return is_y_r_image_2_5;
-      } else if (is_y_rData == "3 / 5") {
-        return is_y_r_image_3_5;
-      } else if (is_y_rData == "3 / 6") {
-        return is_y_r_image_3_6;
-      } else if (is_y_rData == "4 / 1") {
-        return is_y_r_image_4_1;
-      } else if (is_y_rData == "4 / 6") {
-        return is_y_r_image_4_6;
-      } else if (is_y_rData == "5 / 1") {
-        return is_y_r_image_5_1;
-      } else if (is_y_rData == "5 / 2") {
-        return is_y_r_image_5_2;
-      } else if (is_y_rData == "6 / 2") {
-        return is_y_r_image_6_2;
-      } else if (is_y_rData == "6 / 3") {
-        return is_y_r_image_6_3;
+  let is_y_r = (is_y_rData, age, type, lang) => {
+    if (lang == "Tr") {
+      if (type == "image") {
+        if (is_y_rData == "1 / 3") {
+          return is_y_r_image_1_3;
+        } else if (is_y_rData == "1 / 4") {
+          return is_y_r_image_1_4;
+        } else if (is_y_rData == "2 / 4") {
+          return is_y_r_image_2_4;
+        } else if (is_y_rData == "2 / 5") {
+          return is_y_r_image_2_5;
+        } else if (is_y_rData == "3 / 5") {
+          return is_y_r_image_3_5;
+        } else if (is_y_rData == "3 / 6") {
+          return is_y_r_image_3_6;
+        } else if (is_y_rData == "4 / 1") {
+          return is_y_r_image_4_1;
+        } else if (is_y_rData == "4 / 6") {
+          return is_y_r_image_4_6;
+        } else if (is_y_rData == "5 / 1") {
+          return is_y_r_image_5_1;
+        } else if (is_y_rData == "5 / 2") {
+          return is_y_r_image_5_2;
+        } else if (is_y_rData == "6 / 2") {
+          return is_y_r_image_6_2;
+        } else if (is_y_rData == "6 / 3") {
+          return is_y_r_image_6_3;
+        }
       }
-    }
-    if (type == "name") {
-      if (is_y_rData == "1 / 3") {
-        return is_y_r_1_s2_0;
-      } else if (is_y_rData == "1 / 4") {
-        return is_y_r_2_s2_0;
-      } else if (is_y_rData == "2 / 4") {
-        return is_y_r_3_s2_0;
-      } else if (is_y_rData == "2 / 5") {
-        return is_y_r_4_s2_0;
-      } else if (is_y_rData == "3 / 5") {
-        return is_y_r_5_s2_0;
-      } else if (is_y_rData == "3 / 6") {
-        return is_y_r_6_s2_0;
-      } else if (is_y_rData == "4 / 1") {
-        return is_y_r_7_s2_0;
-      } else if (is_y_rData == "4 / 6") {
-        return is_y_r_8_s2_0;
-      } else if (is_y_rData == "5 / 1") {
-        return is_y_r_9_s2_0;
-      } else if (is_y_rData == "5 / 2") {
-        return is_y_r_10_s2_0;
-      } else if (is_y_rData == "6 / 2") {
-        return is_y_r_11_s2_0;
-      } else if (is_y_rData == "6 / 3") {
-        return is_y_r_12_s2_0;
+      else if (type == "name") {
+        if (is_y_rData == "1 / 3") {
+          return is_y_r_1_s2_0;
+        } else if (is_y_rData == "1 / 4") {
+          return is_y_r_2_s2_0;
+        } else if (is_y_rData == "2 / 4") {
+          return is_y_r_3_s2_0;
+        } else if (is_y_rData == "2 / 5") {
+          return is_y_r_4_s2_0;
+        } else if (is_y_rData == "3 / 5") {
+          return is_y_r_5_s2_0;
+        } else if (is_y_rData == "3 / 6") {
+          return is_y_r_6_s2_0;
+        } else if (is_y_rData == "4 / 1") {
+          return is_y_r_7_s2_0;
+        } else if (is_y_rData == "4 / 6") {
+          return is_y_r_8_s2_0;
+        } else if (is_y_rData == "5 / 1") {
+          return is_y_r_9_s2_0;
+        } else if (is_y_rData == "5 / 2") {
+          return is_y_r_10_s2_0;
+        } else if (is_y_rData == "6 / 2") {
+          return is_y_r_11_s2_0;
+        } else if (is_y_rData == "6 / 3") {
+          return is_y_r_12_s2_0;
+        }
+      } else if (type == "s2_1") {
+        if (is_y_rData == "1 / 3") {
+          return is_y_r_1_s2_1;
+        } else if (is_y_rData == "1 / 4") {
+          return is_y_r_2_s2_1;
+        } else if (is_y_rData == "2 / 4") {
+          return is_y_r_3_s2_1;
+        } else if (is_y_rData == "2 / 5") {
+          return is_y_r_4_s2_1;
+        } else if (is_y_rData == "3 / 5") {
+          return is_y_r_5_s2_1;
+        } else if (is_y_rData == "3 / 6") {
+          return is_y_r_6_s2_1;
+        } else if (is_y_rData == "4 / 1") {
+          return is_y_r_7_s2_1;
+        } else if (is_y_rData == "4 / 6") {
+          return is_y_r_8_s2_1;
+        } else if (is_y_rData == "5 / 1") {
+          return is_y_r_9_s2_1;
+        } else if (is_y_rData == "5 / 2") {
+          return is_y_r_10_s2_1;
+        } else if (is_y_rData == "6 / 2") {
+          return is_y_r_11_s2_1;
+        } else if (is_y_rData == "6 / 3") {
+          return is_y_r_12_s2_1;
+        }
+      } else if (type == "s2_1_1") {
+        if (is_y_rData == "1 / 3") {
+          return is_y_r_1_s2_1_1;
+        } else if (is_y_rData == "1 / 4") {
+          return is_y_r_2_s2_1_1;
+        } else if (is_y_rData == "2 / 4") {
+          return is_y_r_3_s2_1_1;
+        } else if (is_y_rData == "2 / 5") {
+          return is_y_r_4_s2_1_1;
+        } else if (is_y_rData == "3 / 5") {
+          return is_y_r_5_s2_1_1;
+        } else if (is_y_rData == "3 / 6") {
+          return is_y_r_6_s2_1_1;
+        } else if (is_y_rData == "4 / 1") {
+          return is_y_r_7_s2_1_1;
+        } else if (is_y_rData == "4 / 6") {
+          return is_y_r_8_s2_1_1;
+        } else if (is_y_rData == "5 / 1") {
+          return is_y_r_9_s2_1_1;
+        } else if (is_y_rData == "5 / 2") {
+          return is_y_r_10_s2_1_1;
+        } else if (is_y_rData == "6 / 2") {
+          return is_y_r_11_s2_1_1;
+        } else if (is_y_rData == "6 / 3") {
+          return is_y_r_12_s2_1_1;
+        }
+      } else if (type == "s2_2") {
+        if (is_y_rData == "1 / 3") {
+          return is_y_r_1_s2_2;
+        } else if (is_y_rData == "1 / 4") {
+          return is_y_r_2_s2_2;
+        } else if (is_y_rData == "2 / 4") {
+          return is_y_r_3_s2_2;
+        } else if (is_y_rData == "2 / 5") {
+          return is_y_r_4_s2_2;
+        } else if (is_y_rData == "3 / 5") {
+          return is_y_r_5_s2_2;
+        } else if (is_y_rData == "3 / 6") {
+          return is_y_r_6_s2_2;
+        } else if (is_y_rData == "4 / 1") {
+          return is_y_r_7_s2_2;
+        } else if (is_y_rData == "4 / 6") {
+          return is_y_r_8_s2_2;
+        } else if (is_y_rData == "5 / 1") {
+          return is_y_r_9_s2_2;
+        } else if (is_y_rData == "5 / 2") {
+          return is_y_r_10_s2_2;
+        } else if (is_y_rData == "6 / 2") {
+          return is_y_r_11_s2_2;
+        } else if (is_y_rData == "6 / 3") {
+          return is_y_r_12_s2_2;
+        }
+      } else if (type == "s2_2_1") {
+        if (is_y_rData == "1 / 3") {
+          return is_y_r_1_s2_2_1;
+        } else if (is_y_rData == "1 / 4") {
+          return is_y_r_2_s2_2_1;
+        } else if (is_y_rData == "2 / 4") {
+          return is_y_r_3_s2_2_1;
+        } else if (is_y_rData == "2 / 5") {
+          return is_y_r_4_s2_2_1;
+        } else if (is_y_rData == "3 / 5") {
+          return is_y_r_5_s2_2_1;
+        } else if (is_y_rData == "3 / 6") {
+          return is_y_r_6_s2_2_1;
+        } else if (is_y_rData == "4 / 1") {
+          return is_y_r_7_s2_2_1;
+        } else if (is_y_rData == "4 / 6") {
+          return is_y_r_8_s2_2_1;
+        } else if (is_y_rData == "5 / 1") {
+          return is_y_r_9_s2_2_1;
+        } else if (is_y_rData == "5 / 2") {
+          return is_y_r_10_s2_2_1;
+        } else if (is_y_rData == "6 / 2") {
+          return is_y_r_11_s2_2_1;
+        } else if (is_y_rData == "6 / 3") {
+          return is_y_r_12_s2_2_1;
+        }
+      } else if (type == "s2_3") {
+        if (is_y_rData == "1 / 3") {
+          return is_y_r_1_s2_3;
+        } else if (is_y_rData == "1 / 4") {
+          return is_y_r_2_s2_3;
+        } else if (is_y_rData == "2 / 4") {
+          return is_y_r_3_s2_3;
+        } else if (is_y_rData == "2 / 5") {
+          return is_y_r_4_s2_3;
+        } else if (is_y_rData == "3 / 5") {
+          return is_y_r_5_s2_3;
+        } else if (is_y_rData == "3 / 6") {
+          return is_y_r_6_s2_3;
+        } else if (is_y_rData == "4 / 1") {
+          return is_y_r_7_s2_3;
+        } else if (is_y_rData == "4 / 6") {
+          return is_y_r_8_s2_3;
+        } else if (is_y_rData == "5 / 1") {
+          return is_y_r_9_s2_3;
+        } else if (is_y_rData == "5 / 2") {
+          return is_y_r_10_s2_3;
+        } else if (is_y_rData == "6 / 2") {
+          return is_y_r_11_s2_3;
+        } else if (is_y_rData == "6 / 3") {
+          return is_y_r_12_s2_3;
+        }
+      } else if (type == "s2_3_1") {
+        if (is_y_rData == "1 / 3") {
+          return is_y_r_1_s2_3_1;
+        } else if (is_y_rData == "1 / 4") {
+          return is_y_r_2_s2_3_1;
+        } else if (is_y_rData == "2 / 4") {
+          return is_y_r_3_s2_3_1;
+        } else if (is_y_rData == "2 / 5") {
+          return is_y_r_4_s2_3_1;
+        } else if (is_y_rData == "3 / 5") {
+          return is_y_r_5_s2_3_1;
+        } else if (is_y_rData == "3 / 6") {
+          return is_y_r_6_s2_3_1;
+        } else if (is_y_rData == "4 / 1") {
+          return is_y_r_7_s2_3_1;
+        } else if (is_y_rData == "4 / 6") {
+          return is_y_r_8_s2_3_1;
+        } else if (is_y_rData == "5 / 1") {
+          return is_y_r_9_s2_3_1;
+        } else if (is_y_rData == "5 / 2") {
+          return is_y_r_10_s2_3_1;
+        } else if (is_y_rData == "6 / 2") {
+          return is_y_r_11_s2_3_1;
+        } else if (is_y_rData == "6 / 3") {
+          return is_y_r_12_s2_3_1;
+        }
+      } else if (type == "s3_1") {
+        if (is_y_rData == "1 / 3") {
+          return is_y_r_1_s3_1;
+        } else if (is_y_rData == "1 / 4") {
+          return is_y_r_2_s3_1;
+        } else if (is_y_rData == "2 / 4") {
+          return is_y_r_3_s3_1;
+        } else if (is_y_rData == "2 / 5") {
+          return is_y_r_4_s3_1;
+        } else if (is_y_rData == "3 / 5") {
+          return is_y_r_5_s3_1;
+        } else if (is_y_rData == "3 / 6") {
+          return is_y_r_6_s3_1;
+        } else if (is_y_rData == "4 / 1") {
+          return is_y_r_7_s3_1;
+        } else if (is_y_rData == "4 / 6") {
+          return is_y_r_8_s3_1;
+        } else if (is_y_rData == "5 / 1") {
+          return is_y_r_9_s3_1;
+        } else if (is_y_rData == "5 / 2") {
+          return is_y_r_10_s3_1;
+        } else if (is_y_rData == "6 / 2") {
+          return is_y_r_11_s3_1;
+        } else if (is_y_rData == "6 / 3") {
+          return is_y_r_12_s3_1;
+        }
+      } else if (type == "s3_1_1") {
+        if (is_y_rData == "1 / 3") {
+          return is_y_r_1_s3_1_1;
+        } else if (is_y_rData == "1 / 4") {
+          return is_y_r_2_s3_1_1;
+        } else if (is_y_rData == "2 / 4") {
+          return is_y_r_3_s3_1_1;
+        } else if (is_y_rData == "2 / 5") {
+          return is_y_r_4_s3_1_1;
+        } else if (is_y_rData == "3 / 5") {
+          return is_y_r_5_s3_1_1;
+        } else if (is_y_rData == "3 / 6") {
+          return is_y_r_6_s3_1_1;
+        } else if (is_y_rData == "4 / 1") {
+          return is_y_r_7_s3_1_1;
+        } else if (is_y_rData == "4 / 6") {
+          return is_y_r_8_s3_1_1;
+        } else if (is_y_rData == "5 / 1") {
+          return is_y_r_9_s3_1_1;
+        } else if (is_y_rData == "5 / 2") {
+          return is_y_r_10_s3_1_1;
+        } else if (is_y_rData == "6 / 2") {
+          return is_y_r_11_s3_1_1;
+        } else if (is_y_rData == "6 / 3") {
+          return is_y_r_12_s3_1_1;
+        }
+      } else if (type == "s3_2") {
+        if (is_y_rData == "1 / 3") {
+          return is_y_r_1_s3_2;
+        } else if (is_y_rData == "1 / 4") {
+          return is_y_r_2_s3_2;
+        } else if (is_y_rData == "2 / 4") {
+          return is_y_r_3_s3_2;
+        } else if (is_y_rData == "2 / 5") {
+          return is_y_r_4_s3_2;
+        } else if (is_y_rData == "3 / 5") {
+          return is_y_r_5_s3_2;
+        } else if (is_y_rData == "3 / 6") {
+          return is_y_r_6_s3_2;
+        } else if (is_y_rData == "4 / 1") {
+          return is_y_r_7_s3_2;
+        } else if (is_y_rData == "4 / 6") {
+          return is_y_r_8_s3_2;
+        } else if (is_y_rData == "5 / 1") {
+          return is_y_r_9_s3_2;
+        } else if (is_y_rData == "5 / 2") {
+          return is_y_r_10_s3_2;
+        } else if (is_y_rData == "6 / 2") {
+          return is_y_r_11_s3_2;
+        } else if (is_y_rData == "6 / 3") {
+          return is_y_r_12_s3_2;
+        }
+      } else if (type == "s3_2_1") {
+        if (is_y_rData == "1 / 3") {
+          return is_y_r_1_s3_2_1;
+        } else if (is_y_rData == "1 / 4") {
+          return is_y_r_2_s3_2_1;
+        } else if (is_y_rData == "2 / 4") {
+          return is_y_r_3_s3_2_1;
+        } else if (is_y_rData == "2 / 5") {
+          return is_y_r_4_s3_2_1;
+        } else if (is_y_rData == "3 / 5") {
+          return is_y_r_5_s3_2_1;
+        } else if (is_y_rData == "3 / 6") {
+          return is_y_r_6_s3_2_1;
+        } else if (is_y_rData == "4 / 1") {
+          return is_y_r_7_s3_2_1;
+        } else if (is_y_rData == "4 / 6") {
+          return is_y_r_8_s3_2_1;
+        } else if (is_y_rData == "5 / 1") {
+          return is_y_r_9_s3_2_1;
+        } else if (is_y_rData == "5 / 2") {
+          return is_y_r_10_s3_2_1;
+        } else if (is_y_rData == "6 / 2") {
+          return is_y_r_11_s3_2_1;
+        } else if (is_y_rData == "6 / 3") {
+          return is_y_r_12_s3_2_1;
+        }
       }
-    } else if (type == "s2_1") {
-      if (is_y_rData == "1 / 3") {
-        return is_y_r_1_s2_1;
-      } else if (is_y_rData == "1 / 4") {
-        return is_y_r_2_s2_1;
-      } else if (is_y_rData == "2 / 4") {
-        return is_y_r_3_s2_1;
-      } else if (is_y_rData == "2 / 5") {
-        return is_y_r_4_s2_1;
-      } else if (is_y_rData == "3 / 5") {
-        return is_y_r_5_s2_1;
-      } else if (is_y_rData == "3 / 6") {
-        return is_y_r_6_s2_1;
-      } else if (is_y_rData == "4 / 1") {
-        return is_y_r_7_s2_1;
-      } else if (is_y_rData == "4 / 6") {
-        return is_y_r_8_s2_1;
-      } else if (is_y_rData == "5 / 1") {
-        return is_y_r_9_s2_1;
-      } else if (is_y_rData == "5 / 2") {
-        return is_y_r_10_s2_1;
-      } else if (is_y_rData == "6 / 2") {
-        return is_y_r_11_s2_1;
-      } else if (is_y_rData == "6 / 3") {
-        return is_y_r_12_s2_1;
-      }
-    } else if (type == "s2_1_1") {
-      if (is_y_rData == "1 / 3") {
-        return is_y_r_1_s2_1_1;
-      } else if (is_y_rData == "1 / 4") {
-        return is_y_r_2_s2_1_1;
-      } else if (is_y_rData == "2 / 4") {
-        return is_y_r_3_s2_1_1;
-      } else if (is_y_rData == "2 / 5") {
-        return is_y_r_4_s2_1_1;
-      } else if (is_y_rData == "3 / 5") {
-        return is_y_r_5_s2_1_1;
-      } else if (is_y_rData == "3 / 6") {
-        return is_y_r_6_s2_1_1;
-      } else if (is_y_rData == "4 / 1") {
-        return is_y_r_7_s2_1_1;
-      } else if (is_y_rData == "4 / 6") {
-        return is_y_r_8_s2_1_1;
-      } else if (is_y_rData == "5 / 1") {
-        return is_y_r_9_s2_1_1;
-      } else if (is_y_rData == "5 / 2") {
-        return is_y_r_10_s2_1_1;
-      } else if (is_y_rData == "6 / 2") {
-        return is_y_r_11_s2_1_1;
-      } else if (is_y_rData == "6 / 3") {
-        return is_y_r_12_s2_1_1;
-      }
-    } else if (type == "s2_2") {
-      if (is_y_rData == "1 / 3") {
-        return is_y_r_1_s2_2;
-      } else if (is_y_rData == "1 / 4") {
-        return is_y_r_2_s2_2;
-      } else if (is_y_rData == "2 / 4") {
-        return is_y_r_3_s2_2;
-      } else if (is_y_rData == "2 / 5") {
-        return is_y_r_4_s2_2;
-      } else if (is_y_rData == "3 / 5") {
-        return is_y_r_5_s2_2;
-      } else if (is_y_rData == "3 / 6") {
-        return is_y_r_6_s2_2;
-      } else if (is_y_rData == "4 / 1") {
-        return is_y_r_7_s2_2;
-      } else if (is_y_rData == "4 / 6") {
-        return is_y_r_8_s2_2;
-      } else if (is_y_rData == "5 / 1") {
-        return is_y_r_9_s2_2;
-      } else if (is_y_rData == "5 / 2") {
-        return is_y_r_10_s2_2;
-      } else if (is_y_rData == "6 / 2") {
-        return is_y_r_11_s2_2;
-      } else if (is_y_rData == "6 / 3") {
-        return is_y_r_12_s2_2;
-      }
-    } else if (type == "s2_2_1") {
-      if (is_y_rData == "1 / 3") {
-        return is_y_r_1_s2_2_1;
-      } else if (is_y_rData == "1 / 4") {
-        return is_y_r_2_s2_2_1;
-      } else if (is_y_rData == "2 / 4") {
-        return is_y_r_3_s2_2_1;
-      } else if (is_y_rData == "2 / 5") {
-        return is_y_r_4_s2_2_1;
-      } else if (is_y_rData == "3 / 5") {
-        return is_y_r_5_s2_2_1;
-      } else if (is_y_rData == "3 / 6") {
-        return is_y_r_6_s2_2_1;
-      } else if (is_y_rData == "4 / 1") {
-        return is_y_r_7_s2_2_1;
-      } else if (is_y_rData == "4 / 6") {
-        return is_y_r_8_s2_2_1;
-      } else if (is_y_rData == "5 / 1") {
-        return is_y_r_9_s2_2_1;
-      } else if (is_y_rData == "5 / 2") {
-        return is_y_r_10_s2_2_1;
-      } else if (is_y_rData == "6 / 2") {
-        return is_y_r_11_s2_2_1;
-      } else if (is_y_rData == "6 / 3") {
-        return is_y_r_12_s2_2_1;
-      }
-    } else if (type == "s2_3") {
-      if (is_y_rData == "1 / 3") {
-        return is_y_r_1_s2_3;
-      } else if (is_y_rData == "1 / 4") {
-        return is_y_r_2_s2_3;
-      } else if (is_y_rData == "2 / 4") {
-        return is_y_r_3_s2_3;
-      } else if (is_y_rData == "2 / 5") {
-        return is_y_r_4_s2_3;
-      } else if (is_y_rData == "3 / 5") {
-        return is_y_r_5_s2_3;
-      } else if (is_y_rData == "3 / 6") {
-        return is_y_r_6_s2_3;
-      } else if (is_y_rData == "4 / 1") {
-        return is_y_r_7_s2_3;
-      } else if (is_y_rData == "4 / 6") {
-        return is_y_r_8_s2_3;
-      } else if (is_y_rData == "5 / 1") {
-        return is_y_r_9_s2_3;
-      } else if (is_y_rData == "5 / 2") {
-        return is_y_r_10_s2_3;
-      } else if (is_y_rData == "6 / 2") {
-        return is_y_r_11_s2_3;
-      } else if (is_y_rData == "6 / 3") {
-        return is_y_r_12_s2_3;
-      }
-    } else if (type == "s2_3_1") {
-      if (is_y_rData == "1 / 3") {
-        return is_y_r_1_s2_3_1;
-      } else if (is_y_rData == "1 / 4") {
-        return is_y_r_2_s2_3_1;
-      } else if (is_y_rData == "2 / 4") {
-        return is_y_r_3_s2_3_1;
-      } else if (is_y_rData == "2 / 5") {
-        return is_y_r_4_s2_3_1;
-      } else if (is_y_rData == "3 / 5") {
-        return is_y_r_5_s2_3_1;
-      } else if (is_y_rData == "3 / 6") {
-        return is_y_r_6_s2_3_1;
-      } else if (is_y_rData == "4 / 1") {
-        return is_y_r_7_s2_3_1;
-      } else if (is_y_rData == "4 / 6") {
-        return is_y_r_8_s2_3_1;
-      } else if (is_y_rData == "5 / 1") {
-        return is_y_r_9_s2_3_1;
-      } else if (is_y_rData == "5 / 2") {
-        return is_y_r_10_s2_3_1;
-      } else if (is_y_rData == "6 / 2") {
-        return is_y_r_11_s2_3_1;
-      } else if (is_y_rData == "6 / 3") {
-        return is_y_r_12_s2_3_1;
-      }
-    } else if (type == "s3_1") {
-      if (is_y_rData == "1 / 3") {
-        return is_y_r_1_s3_1;
-      } else if (is_y_rData == "1 / 4") {
-        return is_y_r_2_s3_1;
-      } else if (is_y_rData == "2 / 4") {
-        return is_y_r_3_s3_1;
-      } else if (is_y_rData == "2 / 5") {
-        return is_y_r_4_s3_1;
-      } else if (is_y_rData == "3 / 5") {
-        return is_y_r_5_s3_1;
-      } else if (is_y_rData == "3 / 6") {
-        return is_y_r_6_s3_1;
-      } else if (is_y_rData == "4 / 1") {
-        return is_y_r_7_s3_1;
-      } else if (is_y_rData == "4 / 6") {
-        return is_y_r_8_s3_1;
-      } else if (is_y_rData == "5 / 1") {
-        return is_y_r_9_s3_1;
-      } else if (is_y_rData == "5 / 2") {
-        return is_y_r_10_s3_1;
-      } else if (is_y_rData == "6 / 2") {
-        return is_y_r_11_s3_1;
-      } else if (is_y_rData == "6 / 3") {
-        return is_y_r_12_s3_1;
-      }
-    } else if (type == "s3_1_1") {
-      if (is_y_rData == "1 / 3") {
-        return is_y_r_1_s3_1_1;
-      } else if (is_y_rData == "1 / 4") {
-        return is_y_r_2_s3_1_1;
-      } else if (is_y_rData == "2 / 4") {
-        return is_y_r_3_s3_1_1;
-      } else if (is_y_rData == "2 / 5") {
-        return is_y_r_4_s3_1_1;
-      } else if (is_y_rData == "3 / 5") {
-        return is_y_r_5_s3_1_1;
-      } else if (is_y_rData == "3 / 6") {
-        return is_y_r_6_s3_1_1;
-      } else if (is_y_rData == "4 / 1") {
-        return is_y_r_7_s3_1_1;
-      } else if (is_y_rData == "4 / 6") {
-        return is_y_r_8_s3_1_1;
-      } else if (is_y_rData == "5 / 1") {
-        return is_y_r_9_s3_1_1;
-      } else if (is_y_rData == "5 / 2") {
-        return is_y_r_10_s3_1_1;
-      } else if (is_y_rData == "6 / 2") {
-        return is_y_r_11_s3_1_1;
-      } else if (is_y_rData == "6 / 3") {
-        return is_y_r_12_s3_1_1;
-      }
-    } else if (type == "s3_2") {
-      if (is_y_rData == "1 / 3") {
-        return is_y_r_1_s3_2;
-      } else if (is_y_rData == "1 / 4") {
-        return is_y_r_2_s3_2;
-      } else if (is_y_rData == "2 / 4") {
-        return is_y_r_3_s3_2;
-      } else if (is_y_rData == "2 / 5") {
-        return is_y_r_4_s3_2;
-      } else if (is_y_rData == "3 / 5") {
-        return is_y_r_5_s3_2;
-      } else if (is_y_rData == "3 / 6") {
-        return is_y_r_6_s3_2;
-      } else if (is_y_rData == "4 / 1") {
-        return is_y_r_7_s3_2;
-      } else if (is_y_rData == "4 / 6") {
-        return is_y_r_8_s3_2;
-      } else if (is_y_rData == "5 / 1") {
-        return is_y_r_9_s3_2;
-      } else if (is_y_rData == "5 / 2") {
-        return is_y_r_10_s3_2;
-      } else if (is_y_rData == "6 / 2") {
-        return is_y_r_11_s3_2;
-      } else if (is_y_rData == "6 / 3") {
-        return is_y_r_12_s3_2;
-      }
-    } else if (type == "s3_2_1") {
-      if (is_y_rData == "1 / 3") {
-        return is_y_r_1_s3_2_1;
-      } else if (is_y_rData == "1 / 4") {
-        return is_y_r_2_s3_2_1;
-      } else if (is_y_rData == "2 / 4") {
-        return is_y_r_3_s3_2_1;
-      } else if (is_y_rData == "2 / 5") {
-        return is_y_r_4_s3_2_1;
-      } else if (is_y_rData == "3 / 5") {
-        return is_y_r_5_s3_2_1;
-      } else if (is_y_rData == "3 / 6") {
-        return is_y_r_6_s3_2_1;
-      } else if (is_y_rData == "4 / 1") {
-        return is_y_r_7_s3_2_1;
-      } else if (is_y_rData == "4 / 6") {
-        return is_y_r_8_s3_2_1;
-      } else if (is_y_rData == "5 / 1") {
-        return is_y_r_9_s3_2_1;
-      } else if (is_y_rData == "5 / 2") {
-        return is_y_r_10_s3_2_1;
-      } else if (is_y_rData == "6 / 2") {
-        return is_y_r_11_s3_2_1;
-      } else if (is_y_rData == "6 / 3") {
-        return is_y_r_12_s3_2_1;
+    } else if (lang == "En") {
+      if (type == "image") {
+        if (is_y_rData == "1 / 3") {
+          return is_y_r_image_1_3;
+        } else if (is_y_rData == "1 / 4") {
+          return is_y_r_image_1_4;
+        } else if (is_y_rData == "2 / 4") {
+          return is_y_r_image_2_4;
+        } else if (is_y_rData == "2 / 5") {
+          return is_y_r_image_2_5;
+        } else if (is_y_rData == "3 / 5") {
+          return is_y_r_image_3_5;
+        } else if (is_y_rData == "3 / 6") {
+          return is_y_r_image_3_6;
+        } else if (is_y_rData == "4 / 1") {
+          return is_y_r_image_4_1;
+        } else if (is_y_rData == "4 / 6") {
+          return is_y_r_image_4_6;
+        } else if (is_y_rData == "5 / 1") {
+          return is_y_r_image_5_1;
+        } else if (is_y_rData == "5 / 2") {
+          return is_y_r_image_5_2;
+        } else if (is_y_rData == "6 / 2") {
+          return is_y_r_image_6_2;
+        } else if (is_y_rData == "6 / 3") {
+          return is_y_r_image_6_3;
+        }
+      } else if (type == "name") {
+        if (is_y_rData == "1 / 3") {
+          return is_y_r_eng_1_s2_0;
+        } else if (is_y_rData == "1 / 4") {
+          return is_y_r_eng_2_s2_0;
+        } else if (is_y_rData == "2 / 4") {
+          return is_y_r_eng_3_s2_0;
+        } else if (is_y_rData == "2 / 5") {
+          return is_y_r_eng_4_s2_0;
+        } else if (is_y_rData == "3 / 5") {
+          return is_y_r_eng_5_s2_0;
+        } else if (is_y_rData == "3 / 6") {
+          return is_y_r_eng_6_s2_0;
+        } else if (is_y_rData == "4 / 1") {
+          return is_y_r_eng_7_s2_0;
+        } else if (is_y_rData == "4 / 6") {
+          return is_y_r_eng_8_s2_0;
+        } else if (is_y_rData == "5 / 1") {
+          return is_y_r_eng_9_s2_0;
+        } else if (is_y_rData == "5 / 2") {
+          return is_y_r_eng_10_s2_0;
+        } else if (is_y_rData == "6 / 2") {
+          return is_y_r_eng_11_s2_0;
+        } else if (is_y_rData == "6 / 3") {
+          return is_y_r_eng_12_s2_0;
+        }
+      } else if (type == "s2_1") {
+        if (is_y_rData == "1 / 3") {
+          return is_y_r_eng_1_s2_1;
+        } else if (is_y_rData == "1 / 4") {
+          return is_y_r_eng_2_s2_1;
+        } else if (is_y_rData == "2 / 4") {
+          return is_y_r_eng_3_s2_1;
+        } else if (is_y_rData == "2 / 5") {
+          return is_y_r_eng_4_s2_1;
+        } else if (is_y_rData == "3 / 5") {
+          return is_y_r_eng_5_s2_1;
+        } else if (is_y_rData == "3 / 6") {
+          return is_y_r_eng_6_s2_1;
+        } else if (is_y_rData == "4 / 1") {
+          return is_y_r_eng_7_s2_1;
+        } else if (is_y_rData == "4 / 6") {
+          return is_y_r_eng_8_s2_1;
+        } else if (is_y_rData == "5 / 1") {
+          return is_y_r_eng_9_s2_1;
+        } else if (is_y_rData == "5 / 2") {
+          return is_y_r_eng_10_s2_1;
+        } else if (is_y_rData == "6 / 2") {
+          return is_y_r_eng_11_s2_1;
+        } else if (is_y_rData == "6 / 3") {
+          return is_y_r_eng_12_s2_1;
+        }
+      } else if (type == "s2_1_1") {
+        if (is_y_rData == "1 / 3") {
+          return is_y_r_eng_1_s2_1_1;
+        } else if (is_y_rData == "1 / 4") {
+          return is_y_r_eng_2_s2_1_1;
+        } else if (is_y_rData == "2 / 4") {
+          return is_y_r_eng_3_s2_1_1;
+        } else if (is_y_rData == "2 / 5") {
+          return is_y_r_eng_4_s2_1_1;
+        } else if (is_y_rData == "3 / 5") {
+          return is_y_r_eng_5_s2_1_1;
+        } else if (is_y_rData == "3 / 6") {
+          return is_y_r_eng_6_s2_1_1;
+        } else if (is_y_rData == "4 / 1") {
+          return is_y_r_eng_7_s2_1_1;
+        } else if (is_y_rData == "4 / 6") {
+          return is_y_r_eng_8_s2_1_1;
+        } else if (is_y_rData == "5 / 1") {
+          return is_y_r_eng_9_s2_1_1;
+        } else if (is_y_rData == "5 / 2") {
+          return is_y_r_eng_10_s2_1_1;
+        } else if (is_y_rData == "6 / 2") {
+          return is_y_r_eng_11_s2_1_1;
+        } else if (is_y_rData == "6 / 3") {
+          return is_y_r_eng_12_s2_1_1;
+        }
+      } else if (type == "s2_2") {
+        if (is_y_rData == "1 / 3") {
+          return is_y_r_eng_1_s2_2;
+        } else if (is_y_rData == "1 / 4") {
+          return is_y_r_eng_2_s2_2;
+        } else if (is_y_rData == "2 / 4") {
+          return is_y_r_eng_3_s2_2;
+        } else if (is_y_rData == "2 / 5") {
+          return is_y_r_eng_4_s2_2;
+        } else if (is_y_rData == "3 / 5") {
+          return is_y_r_eng_5_s2_2;
+        } else if (is_y_rData == "3 / 6") {
+          return is_y_r_eng_6_s2_2;
+        } else if (is_y_rData == "4 / 1") {
+          return is_y_r_eng_7_s2_2;
+        } else if (is_y_rData == "4 / 6") {
+          return is_y_r_eng_8_s2_2;
+        } else if (is_y_rData == "5 / 1") {
+          return is_y_r_eng_9_s2_2;
+        } else if (is_y_rData == "5 / 2") {
+          return is_y_r_eng_10_s2_2;
+        } else if (is_y_rData == "6 / 2") {
+          return is_y_r_eng_11_s2_2;
+        } else if (is_y_rData == "6 / 3") {
+          return is_y_r_eng_12_s2_2;
+        }
+      } else if (type == "s2_2_1") {
+        if (is_y_rData == "1 / 3") {
+          return is_y_r_eng_1_s2_2_1;
+        } else if (is_y_rData == "1 / 4") {
+          return is_y_r_eng_2_s2_2_1;
+        } else if (is_y_rData == "2 / 4") {
+          return is_y_r_eng_3_s2_2_1;
+        } else if (is_y_rData == "2 / 5") {
+          return is_y_r_eng_4_s2_2_1;
+        } else if (is_y_rData == "3 / 5") {
+          return is_y_r_eng_5_s2_2_1;
+        } else if (is_y_rData == "3 / 6") {
+          return is_y_r_eng_6_s2_2_1;
+        } else if (is_y_rData == "4 / 1") {
+          return is_y_r_eng_7_s2_2_1;
+        } else if (is_y_rData == "4 / 6") {
+          return is_y_r_eng_8_s2_2_1;
+        } else if (is_y_rData == "5 / 1") {
+          return is_y_r_eng_9_s2_2_1;
+        } else if (is_y_rData == "5 / 2") {
+          return is_y_r_eng_10_s2_2_1;
+        } else if (is_y_rData == "6 / 2") {
+          return is_y_r_eng_11_s2_2_1;
+        } else if (is_y_rData == "6 / 3") {
+          return is_y_r_eng_12_s2_2_1;
+        }
+      } else if (type == "s2_3") {
+        if (is_y_rData == "1 / 3") {
+          return is_y_r_eng_1_s2_3;
+        } else if (is_y_rData == "1 / 4") {
+          return is_y_r_eng_2_s2_3;
+        } else if (is_y_rData == "2 / 4") {
+          return is_y_r_eng_3_s2_3;
+        } else if (is_y_rData == "2 / 5") {
+          return is_y_r_eng_4_s2_3;
+        } else if (is_y_rData == "3 / 5") {
+          return is_y_r_eng_5_s2_3;
+        } else if (is_y_rData == "3 / 6") {
+          return is_y_r_eng_6_s2_3;
+        } else if (is_y_rData == "4 / 1") {
+          return is_y_r_eng_7_s2_3;
+        } else if (is_y_rData == "4 / 6") {
+          return is_y_r_eng_8_s2_3;
+        } else if (is_y_rData == "5 / 1") {
+          return is_y_r_eng_9_s2_3;
+        } else if (is_y_rData == "5 / 2") {
+          return is_y_r_eng_10_s2_3;
+        } else if (is_y_rData == "6 / 2") {
+          return is_y_r_eng_11_s2_3;
+        } else if (is_y_rData == "6 / 3") {
+          return is_y_r_eng_12_s2_3;
+        }
+      } else if (type == "s2_3_1") {
+        if (is_y_rData == "1 / 3") {
+          return is_y_r_eng_1_s2_3_1;
+        } else if (is_y_rData == "1 / 4") {
+          return is_y_r_eng_2_s2_3_1;
+        } else if (is_y_rData == "2 / 4") {
+          return is_y_r_eng_3_s2_3_1;
+        } else if (is_y_rData == "2 / 5") {
+          return is_y_r_eng_4_s2_3_1;
+        } else if (is_y_rData == "3 / 5") {
+          return is_y_r_eng_5_s2_3_1;
+        } else if (is_y_rData == "3 / 6") {
+          return is_y_r_eng_6_s2_3_1;
+        } else if (is_y_rData == "4 / 1") {
+          return is_y_r_eng_7_s2_3_1;
+        } else if (is_y_rData == "4 / 6") {
+          return is_y_r_eng_8_s2_3_1;
+        } else if (is_y_rData == "5 / 1") {
+          return is_y_r_eng_9_s2_3_1;
+        } else if (is_y_rData == "5 / 2") {
+          return is_y_r_eng_10_s2_3_1;
+        } else if (is_y_rData == "6 / 2") {
+          return is_y_r_eng_11_s2_3_1;
+        } else if (is_y_rData == "6 / 3") {
+          return is_y_r_eng_12_s2_3_1;
+        }
+      } else if (type == "s3_1") {
+        if (is_y_rData == "1 / 3") {
+          return is_y_r_eng_1_s3_1;
+        } else if (is_y_rData == "1 / 4") {
+          return is_y_r_eng_2_s3_1;
+        } else if (is_y_rData == "2 / 4") {
+          return is_y_r_eng_3_s3_1;
+        } else if (is_y_rData == "2 / 5") {
+          return is_y_r_eng_4_s3_1;
+        } else if (is_y_rData == "3 / 5") {
+          return is_y_r_eng_5_s3_1;
+        } else if (is_y_rData == "3 / 6") {
+          return is_y_r_eng_6_s3_1;
+        } else if (is_y_rData == "4 / 1") {
+          return is_y_r_eng_7_s3_1;
+        } else if (is_y_rData == "4 / 6") {
+          return is_y_r_eng_8_s3_1;
+        } else if (is_y_rData == "5 / 1") {
+          return is_y_r_eng_9_s3_1;
+        } else if (is_y_rData == "5 / 2") {
+          return is_y_r_eng_10_s3_1;
+        } else if (is_y_rData == "6 / 2") {
+          return is_y_r_eng_11_s3_1;
+        } else if (is_y_rData == "6 / 3") {
+          return is_y_r_eng_12_s3_1;
+        }
+      } else if (type == "s3_1_1") {
+        if (is_y_rData == "1 / 3") {
+          return is_y_r_eng_1_s3_1_1;
+        } else if (is_y_rData == "1 / 4") {
+          return is_y_r_eng_2_s3_1_1;
+        } else if (is_y_rData == "2 / 4") {
+          return is_y_r_eng_3_s3_1_1;
+        } else if (is_y_rData == "2 / 5") {
+          return is_y_r_eng_4_s3_1_1;
+        } else if (is_y_rData == "3 / 5") {
+          return is_y_r_eng_5_s3_1_1;
+        } else if (is_y_rData == "3 / 6") {
+          return is_y_r_eng_eng_6_s3_1_1;
+        } else if (is_y_rData == "4 / 1") {
+          return is_y_r_7_s3_1_1;
+        } else if (is_y_rData == "4 / 6") {
+          return is_y_r_eng_8_s3_1_1;
+        } else if (is_y_rData == "5 / 1") {
+          return is_y_r_eng_9_s3_1_1;
+        } else if (is_y_rData == "5 / 2") {
+          return is_y_r_eng_10_s3_1_1;
+        } else if (is_y_rData == "6 / 2") {
+          return is_y_r_eng_11_s3_1_1;
+        } else if (is_y_rData == "6 / 3") {
+          return is_y_r_eng_12_s3_1_1;
+        }
+      } else if (type == "s3_2") {
+        if (is_y_rData == "1 / 3") {
+          return is_y_r_eng_1_s3_2;
+        } else if (is_y_rData == "1 / 4") {
+          return is_y_r_eng_2_s3_2;
+        } else if (is_y_rData == "2 / 4") {
+          return is_y_r_eng_3_s3_2;
+        } else if (is_y_rData == "2 / 5") {
+          return is_y_r_eng_4_s3_2;
+        } else if (is_y_rData == "3 / 5") {
+          return is_y_r_eng_5_s3_2;
+        } else if (is_y_rData == "3 / 6") {
+          return is_y_r_eng_6_s3_2;
+        } else if (is_y_rData == "4 / 1") {
+          return is_y_r_eng_7_s3_2;
+        } else if (is_y_rData == "4 / 6") {
+          return is_y_r_eng_8_s3_2;
+        } else if (is_y_rData == "5 / 1") {
+          return is_y_r_eng_9_s3_2;
+        } else if (is_y_rData == "5 / 2") {
+          return is_y_r_eng_10_s3_2;
+        } else if (is_y_rData == "6 / 2") {
+          return is_y_r_eng_11_s3_2;
+        } else if (is_y_rData == "6 / 3") {
+          return is_y_r_eng_12_s3_2;
+        }
+      } else if (type == "s3_2_1") {
+        if (is_y_rData == "1 / 3") {
+          return is_y_r_eng_1_s3_2_1;
+        } else if (is_y_rData == "1 / 4") {
+          return is_y_r_eng_2_s3_2_1;
+        } else if (is_y_rData == "2 / 4") {
+          return is_y_r_eng_3_s3_2_1;
+        } else if (is_y_rData == "2 / 5") {
+          return is_y_r_eng_4_s3_2_1;
+        } else if (is_y_rData == "3 / 5") {
+          return is_y_r_eng_5_s3_2_1;
+        } else if (is_y_rData == "3 / 6") {
+          return is_y_r_eng_6_s3_2_1;
+        } else if (is_y_rData == "4 / 1") {
+          return is_y_r_eng_7_s3_2_1;
+        } else if (is_y_rData == "4 / 6") {
+          return is_y_r_eng_8_s3_2_1;
+        } else if (is_y_rData == "5 / 1") {
+          return is_y_r_eng_9_s3_2_1;
+        } else if (is_y_rData == "5 / 2") {
+          return is_y_r_eng_10_s3_2_1;
+        } else if (is_y_rData == "6 / 2") {
+          return is_y_r_eng_11_s3_2_1;
+        } else if (is_y_rData == "6 / 3") {
+          return is_y_r_eng_12_s3_2_1;
+        }
       }
     }
   };
 
-  let decision_strategy = (decisionStrategyData, age, type) => {
-    if (type == "image") {
-      if (decisionStrategyData.strategy == "To Respond" && decisionStrategyData.innerAuthority == "Emotional") {
-        return image_karar_verme_stratejileri_1; 
-      } else if (decisionStrategyData.strategy == "To Respond" && decisionStrategyData.innerAuthority == "Sacral") {
-        return image_karar_verme_stratejileri_2; 
-      } else if (decisionStrategyData.strategy == "Wait for the Invitation" && decisionStrategyData.innerAuthority == "Emotional") {
-        return image_karar_verme_stratejileri_3; 
-      } else if (decisionStrategyData.strategy == "Wait for the Invitation" && decisionStrategyData.innerAuthority == "Splenic") {
-        return image_karar_verme_stratejileri_4; 
-      } else if (decisionStrategyData.strategy == "Wait for the Invitation" && decisionStrategyData.innerAuthority == "Ego Projected") {
-        return image_karar_verme_stratejileri_5; 
-      } else if (decisionStrategyData.strategy == "Wait for the Invitation" && decisionStrategyData.innerAuthority == "Self Projected") {
-        return image_karar_verme_stratejileri_6; 
-      } else if (decisionStrategyData.strategy == "Wait for the Invitation" && decisionStrategyData.innerAuthority == "Mental") {
-        return image_karar_verme_stratejileri_7; 
-      } else if (decisionStrategyData.strategy == "To Inform" && decisionStrategyData.innerAuthority == "Emotional") {
-        return image_karar_verme_stratejileri_8; 
-      } else if (decisionStrategyData.strategy == "To Inform" && decisionStrategyData.innerAuthority == "Splenic") {
-        return image_karar_verme_stratejileri_9; 
-      } else if (decisionStrategyData.strategy == "To Inform" && decisionStrategyData.innerAuthority == "Ego Manifested") {
-        return image_karar_verme_stratejileri_10; 
-      } else if (decisionStrategyData.strategy == "Wait a Lunar Cycle" && decisionStrategyData.innerAuthority == "Lunar") {
-        return image_karar_verme_stratejileri_11; 
+  let decision_strategy = (decisionStrategyData, age, type, lang) => {
+    if (lang == "Tr") {
+      if (type == "image") {
+        if (decisionStrategyData.strategy == "To Respond" && decisionStrategyData.innerAuthority == "Emotional") {
+          return image_karar_verme_stratejileri_1; 
+        } else if (decisionStrategyData.strategy == "To Respond" && decisionStrategyData.innerAuthority == "Sacral") {
+          return image_karar_verme_stratejileri_2; 
+        } else if (decisionStrategyData.strategy == "Wait for the Invitation" && decisionStrategyData.innerAuthority == "Emotional") {
+          return image_karar_verme_stratejileri_3; 
+        } else if (decisionStrategyData.strategy == "Wait for the Invitation" && decisionStrategyData.innerAuthority == "Splenic") {
+          return image_karar_verme_stratejileri_4; 
+        } else if (decisionStrategyData.strategy == "Wait for the Invitation" && decisionStrategyData.innerAuthority == "Ego Projected") {
+          return image_karar_verme_stratejileri_5; 
+        } else if (decisionStrategyData.strategy == "Wait for the Invitation" && decisionStrategyData.innerAuthority == "Self Projected") {
+          return image_karar_verme_stratejileri_6; 
+        } else if (decisionStrategyData.strategy == "Wait for the Invitation" && decisionStrategyData.innerAuthority == "Mental") {
+          return image_karar_verme_stratejileri_7; 
+        } else if (decisionStrategyData.strategy == "To Inform" && decisionStrategyData.innerAuthority == "Emotional") {
+          return image_karar_verme_stratejileri_8; 
+        } else if (decisionStrategyData.strategy == "To Inform" && decisionStrategyData.innerAuthority == "Splenic") {
+          return image_karar_verme_stratejileri_9; 
+        } else if (decisionStrategyData.strategy == "To Inform" && decisionStrategyData.innerAuthority == "Ego Manifested") {
+          return image_karar_verme_stratejileri_10; 
+        } else if (decisionStrategyData.strategy == "Wait a Lunar Cycle" && decisionStrategyData.innerAuthority == "Lunar") {
+          return image_karar_verme_stratejileri_11; 
+        }
       }
-    }
-    if (type == "name") {
-      if (decisionStrategyData.strategy == "To Respond" && decisionStrategyData.innerAuthority == "Emotional") {
-          return decision_strategy_s3_1_1; 
-      } else if (decisionStrategyData.strategy == "To Respond" && decisionStrategyData.innerAuthority == "Sacral") {
-          return decision_strategy_s3_2_1; 
-      } else if (decisionStrategyData.strategy == "Wait for the Invitation" && decisionStrategyData.innerAuthority == "Emotional") {
-          return decision_strategy_s3_3_1; 
-      } else if (decisionStrategyData.strategy == "Wait for the Invitation" && decisionStrategyData.innerAuthority == "Splenic") {
-          return decision_strategy_s3_4_1; 
-      } else if (decisionStrategyData.strategy == "Wait for the Invitation" && decisionStrategyData.innerAuthority == "Ego Projected") {
-          return decision_strategy_s3_5_1; 
-      } else if (decisionStrategyData.strategy == "Wait for the Invitation" && decisionStrategyData.innerAuthority == "Self Projected") {
-          return decision_strategy_s3_6_1; 
-      } else if (decisionStrategyData.strategy == "Wait for the Invitation" && decisionStrategyData.innerAuthority == "Mental") {
-          return decision_strategy_s3_7_1; 
-      } else if (decisionStrategyData.strategy == "To Inform" && decisionStrategyData.innerAuthority == "Emotional") {
-          return decision_strategy_s3_8_1; 
-      } else if (decisionStrategyData.strategy == "To Inform" && decisionStrategyData.innerAuthority == "Splenic") {
-        return decision_strategy_s3_9_1; 
-      } else if (decisionStrategyData.strategy == "To Inform" && decisionStrategyData.innerAuthority == "Ego Manifested") {
-        return decision_strategy_s3_10_1; 
-      } else if (decisionStrategyData.strategy == "Wait a Lunar Cycle" && decisionStrategyData.innerAuthority == "Lunar") {
-        return decision_strategy_s3_11_1; 
+      else if (type == "name") {
+        if (decisionStrategyData.strategy == "To Respond" && decisionStrategyData.innerAuthority == "Emotional") {
+            return decision_strategy_s3_1_1; 
+        } else if (decisionStrategyData.strategy == "To Respond" && decisionStrategyData.innerAuthority == "Sacral") {
+            return decision_strategy_s3_2_1; 
+        } else if (decisionStrategyData.strategy == "Wait for the Invitation" && decisionStrategyData.innerAuthority == "Emotional") {
+            return decision_strategy_s3_3_1; 
+        } else if (decisionStrategyData.strategy == "Wait for the Invitation" && decisionStrategyData.innerAuthority == "Splenic") {
+            return decision_strategy_s3_4_1; 
+        } else if (decisionStrategyData.strategy == "Wait for the Invitation" && decisionStrategyData.innerAuthority == "Ego Projected") {
+            return decision_strategy_s3_5_1; 
+        } else if (decisionStrategyData.strategy == "Wait for the Invitation" && decisionStrategyData.innerAuthority == "Self Projected") {
+            return decision_strategy_s3_6_1; 
+        } else if (decisionStrategyData.strategy == "Wait for the Invitation" && decisionStrategyData.innerAuthority == "Mental") {
+            return decision_strategy_s3_7_1; 
+        } else if (decisionStrategyData.strategy == "To Inform" && decisionStrategyData.innerAuthority == "Emotional") {
+            return decision_strategy_s3_8_1; 
+        } else if (decisionStrategyData.strategy == "To Inform" && decisionStrategyData.innerAuthority == "Splenic") {
+          return decision_strategy_s3_9_1; 
+        } else if (decisionStrategyData.strategy == "To Inform" && decisionStrategyData.innerAuthority == "Ego Manifested") {
+          return decision_strategy_s3_10_1; 
+        } else if (decisionStrategyData.strategy == "Wait a Lunar Cycle" && decisionStrategyData.innerAuthority == "Lunar") {
+          return decision_strategy_s3_11_1; 
+        }
+    } else if (type == "s3_x_2") {
+        if (decisionStrategyData.strategy == "To Respond" && decisionStrategyData.innerAuthority == "Emotional") {
+            return decision_strategy_s3_1_2; 
+        } else if (decisionStrategyData.strategy == "To Respond" && decisionStrategyData.innerAuthority == "Sacral") {
+            return decision_strategy_s3_2_2; 
+        } else if (decisionStrategyData.strategy == "Wait for the Invitation" && decisionStrategyData.innerAuthority == "Emotional") {
+            return decision_strategy_s3_3_2; 
+        } else if (decisionStrategyData.strategy == "Wait for the Invitation" && decisionStrategyData.innerAuthority == "Splenic") {
+            return decision_strategy_s3_4_2; 
+        } else if (decisionStrategyData.strategy == "Wait for the Invitation" && decisionStrategyData.innerAuthority == "Ego Projected") {
+            return decision_strategy_s3_5_2; 
+        } else if (decisionStrategyData.strategy == "Wait for the Invitation" && decisionStrategyData.innerAuthority == "Self Projected") {
+            return decision_strategy_s3_6_2; 
+        } else if (decisionStrategyData.strategy == "Wait for the Invitation" && decisionStrategyData.innerAuthority == "Mental") {
+            return decision_strategy_s3_7_2; 
+        } else if (decisionStrategyData.strategy == "To Inform" && decisionStrategyData.innerAuthority == "Emotional") {
+            return decision_strategy_s3_8_2; 
+        } else if (decisionStrategyData.strategy == "To Inform" && decisionStrategyData.innerAuthority == "Splenic") {
+            return decision_strategy_s3_9_2;
+        } else if (decisionStrategyData.strategy == "To Inform" && decisionStrategyData.innerAuthority == "Ego Manifested") {
+            return decision_strategy_s3_10_2; 
+        } else if (decisionStrategyData.strategy == "Wait a Lunar Cycle" && decisionStrategyData.innerAuthority == "Lunar") {
+            return decision_strategy_s3_11_2; 
+        }
+    } else if (type == "s3_x_3") {
+        if (decisionStrategyData.strategy == "To Respond" && decisionStrategyData.innerAuthority == "Emotional") {
+            return decision_strategy_s3_1_3; 
+        } else if (decisionStrategyData.strategy == "To Respond" && decisionStrategyData.innerAuthority == "Sacral") {
+            return decision_strategy_s3_2_3; 
+        } else if (decisionStrategyData.strategy == "Wait for the Invitation" && decisionStrategyData.innerAuthority == "Emotional") {
+            return decision_strategy_s3_3_3; 
+        } else if (decisionStrategyData.strategy == "Wait for the Invitation" && decisionStrategyData.innerAuthority == "Splenic") {
+            return decision_strategy_s3_4_3; 
+        } else if (decisionStrategyData.strategy == "Wait for the Invitation" && decisionStrategyData.innerAuthority == "Ego Projected") {
+            return decision_strategy_s3_5_3; 
+        } else if (decisionStrategyData.strategy == "Wait for the Invitation" && decisionStrategyData.innerAuthority == "Self Projected") {
+            return decision_strategy_s3_6_3; 
+        } else if (decisionStrategyData.strategy == "Wait for the Invitation" && decisionStrategyData.innerAuthority == "Mental") {
+            return decision_strategy_s3_7_3; 
+        } else if (decisionStrategyData.strategy == "To Inform" && decisionStrategyData.innerAuthority == "Emotional") {
+            return decision_strategy_s3_8_3; 
+        } else if (decisionStrategyData.strategy == "To Inform" && decisionStrategyData.innerAuthority == "Splenic") {
+            return decision_strategy_s3_9_3; 
+        } else if (decisionStrategyData.strategy == "To Inform" && decisionStrategyData.innerAuthority == "Ego Manifested") {
+            return decision_strategy_s3_10_3; 
+        } else if (decisionStrategyData.strategy == "Wait a Lunar Cycle" && decisionStrategyData.innerAuthority == "Lunar") {
+            return decision_strategy_s3_11_3; 
+        }
+    } else if (type == "s3_x_4") {
+        if (decisionStrategyData.strategy == "To Respond" && decisionStrategyData.innerAuthority == "Emotional") {
+            return decision_strategy_s3_1_4; 
+        } else if (decisionStrategyData.strategy == "To Respond" && decisionStrategyData.innerAuthority == "Sacral") {
+            return decision_strategy_s3_2_4; 
+        } else if (decisionStrategyData.strategy == "Wait for the Invitation" && decisionStrategyData.innerAuthority == "Emotional") {
+            return decision_strategy_s3_3_4; 
+        } else if (decisionStrategyData.strategy == "Wait for the Invitation" && decisionStrategyData.innerAuthority == "Splenic") {
+            return decision_strategy_s3_4_4; 
+        } else if (decisionStrategyData.strategy == "Wait for the Invitation" && decisionStrategyData.innerAuthority == "Ego Projected") {
+            return decision_strategy_s3_5_4; 
+        } else if (decisionStrategyData.strategy == "Wait for the Invitation" && decisionStrategyData.innerAuthority == "Self Projected") {
+            return decision_strategy_s3_6_4; 
+        } else if (decisionStrategyData.strategy == "Wait for the Invitation" && decisionStrategyData.innerAuthority == "Mental") {
+            return decision_strategy_s3_7_4; 
+        } else if (decisionStrategyData.strategy == "To Inform" && decisionStrategyData.innerAuthority == "Emotional") {
+            return decision_strategy_s3_8_4; 
+        } else if (decisionStrategyData.strategy == "To Inform" && decisionStrategyData.innerAuthority == "Splenic") {
+            return decision_strategy_s3_9_4; 
+        } else if (decisionStrategyData.strategy == "To Inform" && decisionStrategyData.innerAuthority == "Ego Manifested") {
+            return decision_strategy_s3_10_4; 
+        } else if (decisionStrategyData.strategy == "Wait a Lunar Cycle" && decisionStrategyData.innerAuthority == "Lunar") {
+            return decision_strategy_s3_11_4; 
+        }
+    } else if (type == "s4_x_text") {
+        if (decisionStrategyData.strategy == "To Respond" && decisionStrategyData.innerAuthority == "Emotional") {
+          return decision_strategy_s4_1_text; 
+        } else if (decisionStrategyData.strategy == "To Respond" && decisionStrategyData.innerAuthority == "Sacral") {
+          return decision_strategy_s4_2_text; 
+        } else if (decisionStrategyData.strategy == "Wait for the Invitation" && decisionStrategyData.innerAuthority == "Emotional") {
+          return decision_strategy_s4_3_text; 
+        } else if (decisionStrategyData.strategy == "Wait for the Invitation" && decisionStrategyData.innerAuthority == "Splenic") {
+          return decision_strategy_s4_4_text; 
+        } else if (decisionStrategyData.strategy == "Wait for the Invitation" && decisionStrategyData.innerAuthority == "Ego Projected") {
+          return decision_strategy_s4_5_text; 
+        } else if (decisionStrategyData.strategy == "Wait for the Invitation" && decisionStrategyData.innerAuthority == "Self Projected") {
+          return decision_strategy_s4_6_text; 
+        } else if (decisionStrategyData.strategy == "Wait for the Invitation" && decisionStrategyData.innerAuthority == "Mental") {
+          return decision_strategy_s4_7_text; 
+        } else if (decisionStrategyData.strategy == "To Inform" && decisionStrategyData.innerAuthority == "Emotional") {
+          return decision_strategy_s4_8_text; 
+        } else if (decisionStrategyData.strategy == "To Inform" && decisionStrategyData.innerAuthority == "Splenic") {
+          return decision_strategy_s4_9_text; 
+        } else if (decisionStrategyData.strategy == "To Inform" && decisionStrategyData.innerAuthority == "Ego Manifested") {
+          return decision_strategy_s4_10_text; 
+        } else if (decisionStrategyData.strategy == "Wait a Lunar Cycle" && decisionStrategyData.innerAuthority == "Lunar") {
+          return decision_strategy_s4_11_text; 
+        }
+    } else if (type == "s4_x_1") {
+        if (decisionStrategyData.strategy == "To Respond" && decisionStrategyData.innerAuthority == "Emotional") {
+          return decision_strategy_s4_1_1; 
+        } else if (decisionStrategyData.strategy == "To Respond" && decisionStrategyData.innerAuthority == "Sacral") {
+          return decision_strategy_s4_2_1; 
+        } else if (decisionStrategyData.strategy == "Wait for the Invitation" && decisionStrategyData.innerAuthority == "Emotional") {
+          return decision_strategy_s4_3_1; 
+        } else if (decisionStrategyData.strategy == "Wait for the Invitation" && decisionStrategyData.innerAuthority == "Splenic") {
+          return decision_strategy_s4_4_1; 
+        } else if (decisionStrategyData.strategy == "Wait for the Invitation" && decisionStrategyData.innerAuthority == "Ego Projected") {
+          return decision_strategy_s4_5_1;
+        } else if (decisionStrategyData.strategy == "Wait for the Invitation" && decisionStrategyData.innerAuthority == "Self Projected") {
+          return decision_strategy_s4_6_1;
+        } else if (decisionStrategyData.strategy == "Wait for the Invitation" && decisionStrategyData.innerAuthority == "Mental") {
+          return decision_strategy_s4_7_1; 
+        } else if (decisionStrategyData.strategy == "To Inform" && decisionStrategyData.innerAuthority == "Emotional") {
+          return decision_strategy_s4_8_1; 
+        } else if (decisionStrategyData.strategy == "To Inform" && decisionStrategyData.innerAuthority == "Splenic") {
+          return decision_strategy_s4_9_1; 
+        } else if (decisionStrategyData.strategy == "To Inform" && decisionStrategyData.innerAuthority == "Ego Manifested") {
+          return decision_strategy_s4_10_1; 
+        } else if (decisionStrategyData.strategy == "Wait a Lunar Cycle" && decisionStrategyData.innerAuthority == "Lunar") {
+          return decision_strategy_s4_11_1; 
+        }
+    } else if (type == "s4_x_2") {
+        if (decisionStrategyData.strategy == "To Respond" && decisionStrategyData.innerAuthority == "Emotional") {
+          return decision_strategy_s4_1_2; 
+        } else if (decisionStrategyData.strategy == "To Respond" && decisionStrategyData.innerAuthority == "Sacral") {
+          return decision_strategy_s4_2_2; 
+        } else if (decisionStrategyData.strategy == "Wait for the Invitation" && decisionStrategyData.innerAuthority == "Emotional") {
+          return decision_strategy_s4_3_2; 
+        } else if (decisionStrategyData.strategy == "Wait for the Invitation" && decisionStrategyData.innerAuthority == "Splenic") {
+          return decision_strategy_s4_4_2; 
+        } else if (decisionStrategyData.strategy == "Wait for the Invitation" && decisionStrategyData.innerAuthority == "Ego Projected") {
+          return decision_strategy_s4_5_2; 
+        } else if (decisionStrategyData.strategy == "Wait for the Invitation" && decisionStrategyData.innerAuthority == "Self Projected") {
+          return decision_strategy_s4_6_2; 
+        } else if (decisionStrategyData.strategy == "Wait for the Invitation" && decisionStrategyData.innerAuthority == "Mental") {
+          return decision_strategy_s4_7_2; 
+        } else if (decisionStrategyData.strategy == "To Inform" && decisionStrategyData.innerAuthority == "Emotional") {
+          return decision_strategy_s4_8_2;
+        } else if (decisionStrategyData.strategy == "To Inform" && decisionStrategyData.innerAuthority == "Splenic") {
+          return decision_strategy_s4_9_2; 
+        } else if (decisionStrategyData.strategy == "To Inform" && decisionStrategyData.innerAuthority == "Ego Manifested") {
+          return decision_strategy_s4_10_2;
+        } else if (decisionStrategyData.strategy == "Wait a Lunar Cycle" && decisionStrategyData.innerAuthority == "Lunar") {
+          return decision_strategy_s4_11_2; 
+        }
+    } else if (type == "s4_x_3") {
+        if (decisionStrategyData.strategy == "To Respond" && decisionStrategyData.innerAuthority == "Emotional") {
+          return decision_strategy_s4_1_3; 
+        } else if (decisionStrategyData.strategy == "To Respond" && decisionStrategyData.innerAuthority == "Sacral") {
+          return decision_strategy_s4_2_3; 
+        } else if (decisionStrategyData.strategy == "Wait for the Invitation" && decisionStrategyData.innerAuthority == "Emotional") {
+          return decision_strategy_s4_3_3; 
+        } else if (decisionStrategyData.strategy == "Wait for the Invitation" && decisionStrategyData.innerAuthority == "Splenic") {
+          return decision_strategy_s4_4_3; 
+        } else if (decisionStrategyData.strategy == "Wait for the Invitation" && decisionStrategyData.innerAuthority == "Ego Projected") {
+          return decision_strategy_s4_5_3; 
+        } else if (decisionStrategyData.strategy == "Wait for the Invitation" && decisionStrategyData.innerAuthority == "Self Projected") {
+          return decision_strategy_s4_6_3; 
+        } else if (decisionStrategyData.strategy == "Wait for the Invitation" && decisionStrategyData.innerAuthority == "Mental") {
+          return decision_strategy_s4_7_3; 
+        } else if (decisionStrategyData.strategy == "To Inform" && decisionStrategyData.innerAuthority == "Emotional") {
+          return decision_strategy_s4_8_3; 
+        } else if (decisionStrategyData.strategy == "To Inform" && decisionStrategyData.innerAuthority == "Splenic") {
+          return decision_strategy_s4_9_3; 
+        } else if (decisionStrategyData.strategy == "To Inform" && decisionStrategyData.innerAuthority == "Ego Manifested") {
+          return decision_strategy_s4_10_3;
+        } else if (decisionStrategyData.strategy == "Wait a Lunar Cycle" && decisionStrategyData.innerAuthority == "Lunar") {
+          return decision_strategy_s4_11_3; 
+        }
+    } else if (type == "s4_x_4") {
+        if (decisionStrategyData.strategy == "To Respond" && decisionStrategyData.innerAuthority == "Emotional") {
+          return decision_strategy_s4_1_4; 
+        } else if (decisionStrategyData.strategy == "To Respond" && decisionStrategyData.innerAuthority == "Sacral") {
+          return decision_strategy_s4_2_4; 
+        } else if (decisionStrategyData.strategy == "Wait for the Invitation" && decisionStrategyData.innerAuthority == "Emotional") {
+          return decision_strategy_s4_3_4; 
+        } else if (decisionStrategyData.strategy == "Wait for the Invitation" && decisionStrategyData.innerAuthority == "Splenic") {
+          return decision_strategy_s4_4_4; 
+        } else if (decisionStrategyData.strategy == "Wait for the Invitation" && decisionStrategyData.innerAuthority == "Ego Projected") {
+          return decision_strategy_s4_5_4; 
+        } else if (decisionStrategyData.strategy == "Wait for the Invitation" && decisionStrategyData.innerAuthority == "Self Projected") {
+          return decision_strategy_s4_6_4;
+        } else if (decisionStrategyData.strategy == "Wait for the Invitation" && decisionStrategyData.innerAuthority == "Mental") {
+          return decision_strategy_s4_7_4; 
+        } else if (decisionStrategyData.strategy == "To Inform" && decisionStrategyData.innerAuthority == "Emotional") {
+          return decision_strategy_s4_8_4; 
+        } else if (decisionStrategyData.strategy == "To Inform" && decisionStrategyData.innerAuthority == "Splenic") {
+          return decision_strategy_s4_9_4; 
+        } else if (decisionStrategyData.strategy == "To Inform" && decisionStrategyData.innerAuthority == "Ego Manifested") {
+          return decision_strategy_s4_10_4; 
+        } else if (decisionStrategyData.strategy == "Wait a Lunar Cycle" && decisionStrategyData.innerAuthority == "Lunar") {
+          return decision_strategy_s4_11_4; 
+        }
+    } else if (type == "s4_x_5") {
+        if (decisionStrategyData.strategy == "To Respond" && decisionStrategyData.innerAuthority == "Emotional") {
+          return decision_strategy_s4_1_5; 
+        } else if (decisionStrategyData.strategy == "To Respond" && decisionStrategyData.innerAuthority == "Sacral") {
+          return decision_strategy_s4_2_5; 
+        } else if (decisionStrategyData.strategy == "Wait for the Invitation" && decisionStrategyData.innerAuthority == "Emotional") {
+          return decision_strategy_s4_3_5; 
+        } else if (decisionStrategyData.strategy == "Wait for the Invitation" && decisionStrategyData.innerAuthority == "Splenic") {
+          return decision_strategy_s4_4_5; 
+        } else if (decisionStrategyData.strategy == "Wait for the Invitation" && decisionStrategyData.innerAuthority == "Ego Projected") {
+          return decision_strategy_s4_5_5; 
+        } else if (decisionStrategyData.strategy == "Wait for the Invitation" && decisionStrategyData.innerAuthority == "Self Projected") {
+          return decision_strategy_s4_6_5; 
+        } else if (decisionStrategyData.strategy == "Wait for the Invitation" && decisionStrategyData.innerAuthority == "Mental") {
+          return decision_strategy_s4_7_5; 
+        } else if (decisionStrategyData.strategy == "To Inform" && decisionStrategyData.innerAuthority == "Emotional") {
+          return decision_strategy_s4_8_5; 
+        } else if (decisionStrategyData.strategy == "To Inform" && decisionStrategyData.innerAuthority == "Splenic") {
+          return decision_strategy_s4_9_5; 
+        } else if (decisionStrategyData.strategy == "To Inform" && decisionStrategyData.innerAuthority == "Ego Manifested") {
+          return decision_strategy_s4_10_5; 
+        } else if (decisionStrategyData.strategy == "Wait a Lunar Cycle" && decisionStrategyData.innerAuthority == "Lunar") {
+          return decision_strategy_s4_11_5; 
+        }
+    } else if (type == "s4_x_txt") {
+        if (decisionStrategyData.strategy == "To Respond" && decisionStrategyData.innerAuthority == "Emotional") {
+          return decision_strategy_s4_1_txt; 
+        } else if (decisionStrategyData.strategy == "To Respond" && decisionStrategyData.innerAuthority == "Sacral") {
+          return decision_strategy_s4_2_txt; 
+        } else if (decisionStrategyData.strategy == "Wait for the Invitation" && decisionStrategyData.innerAuthority == "Emotional") {
+          return decision_strategy_s4_3_txt; 
+        } else if (decisionStrategyData.strategy == "Wait for the Invitation" && decisionStrategyData.innerAuthority == "Splenic") {
+          return decision_strategy_s4_4_txt; 
+        } else if (decisionStrategyData.strategy == "Wait for the Invitation" && decisionStrategyData.innerAuthority == "Ego Projected") {
+          return decision_strategy_s4_5_txt; 
+        } else if (decisionStrategyData.strategy == "Wait for the Invitation" && decisionStrategyData.innerAuthority == "Self Projected") {
+          return decision_strategy_s4_6_txt; 
+        } else if (decisionStrategyData.strategy == "Wait for the Invitation" && decisionStrategyData.innerAuthority == "Mental") {
+          return decision_strategy_s4_7_txt; 
+        } else if (decisionStrategyData.strategy == "To Inform" && decisionStrategyData.innerAuthority == "Emotional") {
+          return decision_strategy_s4_8_txt; 
+        } else if (decisionStrategyData.strategy == "To Inform" && decisionStrategyData.innerAuthority == "Splenic") {
+          return decision_strategy_s4_9_txt; 
+        } else if (decisionStrategyData.strategy == "To Inform" && decisionStrategyData.innerAuthority == "Ego Manifested") {
+          return decision_strategy_s4_10_txt; 
+        } else if (decisionStrategyData.strategy == "Wait a Lunar Cycle" && decisionStrategyData.innerAuthority == "Lunar") {
+          return decision_strategy_s4_11_txt; 
+        }
+      } else if (type == "ozet_1") {
+        if (decisionStrategyData.strategy == "To Respond" && decisionStrategyData.innerAuthority == "Emotional") {
+          return decision_strategy_ozet_1_1; 
+        } else if (decisionStrategyData.strategy == "To Respond" && decisionStrategyData.innerAuthority == "Sacral") {
+          return decision_strategy_ozet_2_1; 
+        } else if (decisionStrategyData.strategy == "Wait for the Invitation" && decisionStrategyData.innerAuthority == "Emotional") {
+          return decision_strategy_ozet_3_1; 
+        } else if (decisionStrategyData.strategy == "Wait for the Invitation" && decisionStrategyData.innerAuthority == "Splenic") {
+          return decision_strategy_ozet_4_1; 
+        } else if (decisionStrategyData.strategy == "Wait for the Invitation" && decisionStrategyData.innerAuthority == "Ego Projected") {
+          return decision_strategy_ozet_5_1; 
+        } else if (decisionStrategyData.strategy == "Wait for the Invitation" && decisionStrategyData.innerAuthority == "Self Projected") {
+          return decision_strategy_ozet_6_1; 
+        } else if (decisionStrategyData.strategy == "Wait for the Invitation" && decisionStrategyData.innerAuthority == "Mental") {
+          return decision_strategy_ozet_7_1; 
+        } else if (decisionStrategyData.strategy == "To Inform" && decisionStrategyData.innerAuthority == "Emotional") {
+          return decision_strategy_ozet_8_1; 
+        } else if (decisionStrategyData.strategy == "To Inform" && decisionStrategyData.innerAuthority == "Splenic") {
+          return decision_strategy_ozet_9_1; 
+        } else if (decisionStrategyData.strategy == "To Inform" && decisionStrategyData.innerAuthority == "Ego Manifested") {
+          return decision_strategy_ozet_10_1; 
+        } else if (decisionStrategyData.strategy == "Wait a Lunar Cycle" && decisionStrategyData.innerAuthority == "Lunar") {
+          return decision_strategy_ozet_11_1; 
+        }
+      } else if (type == "ozet_2") {
+        if (decisionStrategyData.strategy == "To Respond" && decisionStrategyData.innerAuthority == "Emotional") {
+          return decision_strategy_ozet_1_2; 
+        } else if (decisionStrategyData.strategy == "To Respond" && decisionStrategyData.innerAuthority == "Sacral") {
+          return decision_strategy_ozet_2_2; 
+        } else if (decisionStrategyData.strategy == "Wait for the Invitation" && decisionStrategyData.innerAuthority == "Emotional") {
+          return decision_strategy_ozet_3_2; 
+        } else if (decisionStrategyData.strategy == "Wait for the Invitation" && decisionStrategyData.innerAuthority == "Splenic") {
+          return decision_strategy_ozet_4_2; 
+        } else if (decisionStrategyData.strategy == "Wait for the Invitation" && decisionStrategyData.innerAuthority == "Ego Projected") {
+          return decision_strategy_ozet_5_2; 
+        } else if (decisionStrategyData.strategy == "Wait for the Invitation" && decisionStrategyData.innerAuthority == "Self Projected") {
+          return decision_strategy_ozet_6_2; 
+        } else if (decisionStrategyData.strategy == "Wait for the Invitation" && decisionStrategyData.innerAuthority == "Mental") {
+          return decision_strategy_ozet_7_2; 
+        } else if (decisionStrategyData.strategy == "To Inform" && decisionStrategyData.innerAuthority == "Emotional") {
+          return decision_strategy_ozet_8_2; 
+        } else if (decisionStrategyData.strategy == "To Inform" && decisionStrategyData.innerAuthority == "Splenic") {
+          return decision_strategy_ozet_9_2; 
+        } else if (decisionStrategyData.strategy == "To Inform" && decisionStrategyData.innerAuthority == "Ego Manifested") {
+          return decision_strategy_ozet_10_2; 
+        } else if (decisionStrategyData.strategy == "Wait a Lunar Cycle" && decisionStrategyData.innerAuthority == "Lunar") {
+          return decision_strategy_ozet_11_2; 
+        }
       }
-  } else if (type == "s3_x_2") {
-      if (decisionStrategyData.strategy == "To Respond" && decisionStrategyData.innerAuthority == "Emotional") {
-          return decision_strategy_s3_1_2; 
-      } else if (decisionStrategyData.strategy == "To Respond" && decisionStrategyData.innerAuthority == "Sacral") {
-          return decision_strategy_s3_2_2; 
-      } else if (decisionStrategyData.strategy == "Wait for the Invitation" && decisionStrategyData.innerAuthority == "Emotional") {
-          return decision_strategy_s3_3_2; 
-      } else if (decisionStrategyData.strategy == "Wait for the Invitation" && decisionStrategyData.innerAuthority == "Splenic") {
-          return decision_strategy_s3_4_2; 
-      } else if (decisionStrategyData.strategy == "Wait for the Invitation" && decisionStrategyData.innerAuthority == "Ego Projected") {
-          return decision_strategy_s3_5_2; 
-      } else if (decisionStrategyData.strategy == "Wait for the Invitation" && decisionStrategyData.innerAuthority == "Self Projected") {
-          return decision_strategy_s3_6_2; 
-      } else if (decisionStrategyData.strategy == "Wait for the Invitation" && decisionStrategyData.innerAuthority == "Mental") {
-          return decision_strategy_s3_7_2; 
-      } else if (decisionStrategyData.strategy == "To Inform" && decisionStrategyData.innerAuthority == "Emotional") {
-          return decision_strategy_s3_8_2; 
-      } else if (decisionStrategyData.strategy == "To Inform" && decisionStrategyData.innerAuthority == "Splenic") {
-          return decision_strategy_s3_9_2;
-      } else if (decisionStrategyData.strategy == "To Inform" && decisionStrategyData.innerAuthority == "Ego Manifested") {
-          return decision_strategy_s3_10_2; 
-      } else if (decisionStrategyData.strategy == "Wait a Lunar Cycle" && decisionStrategyData.innerAuthority == "Lunar") {
-          return decision_strategy_s3_11_2; 
+    } else if (lang = "En") {
+      if (type == "image") {
+        if (decisionStrategyData.strategy == "To Respond" && decisionStrategyData.innerAuthority == "Emotional") {
+            return image_karar_verme_stratejileri_1; 
+        } else if (decisionStrategyData.strategy == "To Respond" && decisionStrategyData.innerAuthority == "Sacral") {
+            return image_karar_verme_stratejileri_2; 
+        } else if (decisionStrategyData.strategy == "Wait for the Invitation" && decisionStrategyData.innerAuthority == "Emotional") {
+            return image_karar_verme_stratejileri_3; 
+        } else if (decisionStrategyData.strategy == "Wait for the Invitation" && decisionStrategyData.innerAuthority == "Splenic") {
+            return image_karar_verme_stratejileri_4; 
+        } else if (decisionStrategyData.strategy == "Wait for the Invitation" && decisionStrategyData.innerAuthority == "Ego Projected") {
+            return image_karar_verme_stratejileri_5; 
+        } else if (decisionStrategyData.strategy == "Wait for the Invitation" && decisionStrategyData.innerAuthority == "Self Projected") {
+            return image_karar_verme_stratejileri_6; 
+        } else if (decisionStrategyData.strategy == "Wait for the Invitation" && decisionStrategyData.innerAuthority == "Mental") {
+            return image_karar_verme_stratejileri_7; 
+        } else if (decisionStrategyData.strategy == "To Inform" && decisionStrategyData.innerAuthority == "Emotional") {
+            return image_karar_verme_stratejileri_8; 
+        } else if (decisionStrategyData.strategy == "To Inform" && decisionStrategyData.innerAuthority == "Splenic") {
+            return image_karar_verme_stratejileri_9; 
+        } else if (decisionStrategyData.strategy == "To Inform" && decisionStrategyData.innerAuthority == "Ego Manifested") {
+            return image_karar_verme_stratejileri_10; 
+        } else if (decisionStrategyData.strategy == "Wait a Lunar Cycle" && decisionStrategyData.innerAuthority == "Lunar") {
+            return image_karar_verme_stratejileri_11; 
+        }
       }
-  } else if (type == "s3_x_3") {
-      if (decisionStrategyData.strategy == "To Respond" && decisionStrategyData.innerAuthority == "Emotional") {
-          return decision_strategy_s3_1_3; 
-      } else if (decisionStrategyData.strategy == "To Respond" && decisionStrategyData.innerAuthority == "Sacral") {
-          return decision_strategy_s3_2_3; 
-      } else if (decisionStrategyData.strategy == "Wait for the Invitation" && decisionStrategyData.innerAuthority == "Emotional") {
-          return decision_strategy_s3_3_3; 
-      } else if (decisionStrategyData.strategy == "Wait for the Invitation" && decisionStrategyData.innerAuthority == "Splenic") {
-          return decision_strategy_s3_4_3; 
-      } else if (decisionStrategyData.strategy == "Wait for the Invitation" && decisionStrategyData.innerAuthority == "Ego Projected") {
-          return decision_strategy_s3_5_3; 
-      } else if (decisionStrategyData.strategy == "Wait for the Invitation" && decisionStrategyData.innerAuthority == "Self Projected") {
-          return decision_strategy_s3_6_3; 
-      } else if (decisionStrategyData.strategy == "Wait for the Invitation" && decisionStrategyData.innerAuthority == "Mental") {
-          return decision_strategy_s3_7_3; 
-      } else if (decisionStrategyData.strategy == "To Inform" && decisionStrategyData.innerAuthority == "Emotional") {
-          return decision_strategy_s3_8_3; 
-      } else if (decisionStrategyData.strategy == "To Inform" && decisionStrategyData.innerAuthority == "Splenic") {
-          return decision_strategy_s3_9_3; 
-      } else if (decisionStrategyData.strategy == "To Inform" && decisionStrategyData.innerAuthority == "Ego Manifested") {
-          return decision_strategy_s3_10_3; 
-      } else if (decisionStrategyData.strategy == "Wait a Lunar Cycle" && decisionStrategyData.innerAuthority == "Lunar") {
-          return decision_strategy_s3_11_3; 
-      }
-  } else if (type == "s3_x_4") {
-      if (decisionStrategyData.strategy == "To Respond" && decisionStrategyData.innerAuthority == "Emotional") {
-          return decision_strategy_s3_1_4; 
-      } else if (decisionStrategyData.strategy == "To Respond" && decisionStrategyData.innerAuthority == "Sacral") {
-          return decision_strategy_s3_2_4; 
-      } else if (decisionStrategyData.strategy == "Wait for the Invitation" && decisionStrategyData.innerAuthority == "Emotional") {
-          return decision_strategy_s3_3_4; 
-      } else if (decisionStrategyData.strategy == "Wait for the Invitation" && decisionStrategyData.innerAuthority == "Splenic") {
-          return decision_strategy_s3_4_4; 
-      } else if (decisionStrategyData.strategy == "Wait for the Invitation" && decisionStrategyData.innerAuthority == "Ego Projected") {
-          return decision_strategy_s3_5_4; 
-      } else if (decisionStrategyData.strategy == "Wait for the Invitation" && decisionStrategyData.innerAuthority == "Self Projected") {
-          return decision_strategy_s3_6_4; 
-      } else if (decisionStrategyData.strategy == "Wait for the Invitation" && decisionStrategyData.innerAuthority == "Mental") {
-          return decision_strategy_s3_7_4; 
-      } else if (decisionStrategyData.strategy == "To Inform" && decisionStrategyData.innerAuthority == "Emotional") {
-          return decision_strategy_s3_8_4; 
-      } else if (decisionStrategyData.strategy == "To Inform" && decisionStrategyData.innerAuthority == "Splenic") {
-          return decision_strategy_s3_9_4; 
-      } else if (decisionStrategyData.strategy == "To Inform" && decisionStrategyData.innerAuthority == "Ego Manifested") {
-          return decision_strategy_s3_10_4; 
-      } else if (decisionStrategyData.strategy == "Wait a Lunar Cycle" && decisionStrategyData.innerAuthority == "Lunar") {
-          return decision_strategy_s3_11_4; 
-      }
-  } else if (type == "s4_x_text") {
-      if (decisionStrategyData.strategy == "To Respond" && decisionStrategyData.innerAuthority == "Emotional") {
-        return decision_strategy_s4_1_text; 
-      } else if (decisionStrategyData.strategy == "To Respond" && decisionStrategyData.innerAuthority == "Sacral") {
-        return decision_strategy_s4_2_text; 
-      } else if (decisionStrategyData.strategy == "Wait for the Invitation" && decisionStrategyData.innerAuthority == "Emotional") {
-        return decision_strategy_s4_3_text; 
-      } else if (decisionStrategyData.strategy == "Wait for the Invitation" && decisionStrategyData.innerAuthority == "Splenic") {
-        return decision_strategy_s4_4_text; 
-      } else if (decisionStrategyData.strategy == "Wait for the Invitation" && decisionStrategyData.innerAuthority == "Ego Projected") {
-        return decision_strategy_s4_5_text; 
-      } else if (decisionStrategyData.strategy == "Wait for the Invitation" && decisionStrategyData.innerAuthority == "Self Projected") {
-        return decision_strategy_s4_6_text; 
-      } else if (decisionStrategyData.strategy == "Wait for the Invitation" && decisionStrategyData.innerAuthority == "Mental") {
-        return decision_strategy_s4_7_text; 
-      } else if (decisionStrategyData.strategy == "To Inform" && decisionStrategyData.innerAuthority == "Emotional") {
-        return decision_strategy_s4_8_text; 
-      } else if (decisionStrategyData.strategy == "To Inform" && decisionStrategyData.innerAuthority == "Splenic") {
-        return decision_strategy_s4_9_text; 
-      } else if (decisionStrategyData.strategy == "To Inform" && decisionStrategyData.innerAuthority == "Ego Manifested") {
-        return decision_strategy_s4_10_text; 
-      } else if (decisionStrategyData.strategy == "Wait a Lunar Cycle" && decisionStrategyData.innerAuthority == "Lunar") {
-        return decision_strategy_s4_11_text; 
-      }
-  } else if (type == "s4_x_1") {
-      if (decisionStrategyData.strategy == "To Respond" && decisionStrategyData.innerAuthority == "Emotional") {
-        return decision_strategy_s4_1_1; 
-      } else if (decisionStrategyData.strategy == "To Respond" && decisionStrategyData.innerAuthority == "Sacral") {
-        return decision_strategy_s4_2_1; 
-      } else if (decisionStrategyData.strategy == "Wait for the Invitation" && decisionStrategyData.innerAuthority == "Emotional") {
-        return decision_strategy_s4_3_1; 
-      } else if (decisionStrategyData.strategy == "Wait for the Invitation" && decisionStrategyData.innerAuthority == "Splenic") {
-        return decision_strategy_s4_4_1; 
-      } else if (decisionStrategyData.strategy == "Wait for the Invitation" && decisionStrategyData.innerAuthority == "Ego Projected") {
-        return decision_strategy_s4_5_1;
-      } else if (decisionStrategyData.strategy == "Wait for the Invitation" && decisionStrategyData.innerAuthority == "Self Projected") {
-        return decision_strategy_s4_6_1;
-      } else if (decisionStrategyData.strategy == "Wait for the Invitation" && decisionStrategyData.innerAuthority == "Mental") {
-        return decision_strategy_s4_7_1; 
-      } else if (decisionStrategyData.strategy == "To Inform" && decisionStrategyData.innerAuthority == "Emotional") {
-        return decision_strategy_s4_8_1; 
-      } else if (decisionStrategyData.strategy == "To Inform" && decisionStrategyData.innerAuthority == "Splenic") {
-        return decision_strategy_s4_9_1; 
-      } else if (decisionStrategyData.strategy == "To Inform" && decisionStrategyData.innerAuthority == "Ego Manifested") {
-        return decision_strategy_s4_10_1; 
-      } else if (decisionStrategyData.strategy == "Wait a Lunar Cycle" && decisionStrategyData.innerAuthority == "Lunar") {
-        return decision_strategy_s4_11_1; 
-      }
-  } else if (type == "s4_x_2") {
-      if (decisionStrategyData.strategy == "To Respond" && decisionStrategyData.innerAuthority == "Emotional") {
-        return decision_strategy_s4_1_2; 
-      } else if (decisionStrategyData.strategy == "To Respond" && decisionStrategyData.innerAuthority == "Sacral") {
-        return decision_strategy_s4_2_2; 
-      } else if (decisionStrategyData.strategy == "Wait for the Invitation" && decisionStrategyData.innerAuthority == "Emotional") {
-        return decision_strategy_s4_3_2; 
-      } else if (decisionStrategyData.strategy == "Wait for the Invitation" && decisionStrategyData.innerAuthority == "Splenic") {
-        return decision_strategy_s4_4_2; 
-      } else if (decisionStrategyData.strategy == "Wait for the Invitation" && decisionStrategyData.innerAuthority == "Ego Projected") {
-        return decision_strategy_s4_5_2; 
-      } else if (decisionStrategyData.strategy == "Wait for the Invitation" && decisionStrategyData.innerAuthority == "Self Projected") {
-        return decision_strategy_s4_6_2; 
-      } else if (decisionStrategyData.strategy == "Wait for the Invitation" && decisionStrategyData.innerAuthority == "Mental") {
-        return decision_strategy_s4_7_2; 
-      } else if (decisionStrategyData.strategy == "To Inform" && decisionStrategyData.innerAuthority == "Emotional") {
-        return decision_strategy_s4_8_2;
-      } else if (decisionStrategyData.strategy == "To Inform" && decisionStrategyData.innerAuthority == "Splenic") {
-        return decision_strategy_s4_9_2; 
-      } else if (decisionStrategyData.strategy == "To Inform" && decisionStrategyData.innerAuthority == "Ego Manifested") {
-        return decision_strategy_s4_10_2;
-      } else if (decisionStrategyData.strategy == "Wait a Lunar Cycle" && decisionStrategyData.innerAuthority == "Lunar") {
-        return decision_strategy_s4_11_2; 
-      }
-  } else if (type == "s4_x_3") {
-      if (decisionStrategyData.strategy == "To Respond" && decisionStrategyData.innerAuthority == "Emotional") {
-        return decision_strategy_s4_1_3; 
-      } else if (decisionStrategyData.strategy == "To Respond" && decisionStrategyData.innerAuthority == "Sacral") {
-        return decision_strategy_s4_2_3; 
-      } else if (decisionStrategyData.strategy == "Wait for the Invitation" && decisionStrategyData.innerAuthority == "Emotional") {
-        return decision_strategy_s4_3_3; 
-      } else if (decisionStrategyData.strategy == "Wait for the Invitation" && decisionStrategyData.innerAuthority == "Splenic") {
-        return decision_strategy_s4_4_3; 
-      } else if (decisionStrategyData.strategy == "Wait for the Invitation" && decisionStrategyData.innerAuthority == "Ego Projected") {
-        return decision_strategy_s4_5_3; 
-      } else if (decisionStrategyData.strategy == "Wait for the Invitation" && decisionStrategyData.innerAuthority == "Self Projected") {
-        return decision_strategy_s4_6_3; 
-      } else if (decisionStrategyData.strategy == "Wait for the Invitation" && decisionStrategyData.innerAuthority == "Mental") {
-        return decision_strategy_s4_7_3; 
-      } else if (decisionStrategyData.strategy == "To Inform" && decisionStrategyData.innerAuthority == "Emotional") {
-        return decision_strategy_s4_8_3; 
-      } else if (decisionStrategyData.strategy == "To Inform" && decisionStrategyData.innerAuthority == "Splenic") {
-        return decision_strategy_s4_9_3; 
-      } else if (decisionStrategyData.strategy == "To Inform" && decisionStrategyData.innerAuthority == "Ego Manifested") {
-        return decision_strategy_s4_10_3;
-      } else if (decisionStrategyData.strategy == "Wait a Lunar Cycle" && decisionStrategyData.innerAuthority == "Lunar") {
-        return decision_strategy_s4_11_3; 
-      }
-  } else if (type == "s4_x_4") {
-      if (decisionStrategyData.strategy == "To Respond" && decisionStrategyData.innerAuthority == "Emotional") {
-        return decision_strategy_s4_1_4; 
-      } else if (decisionStrategyData.strategy == "To Respond" && decisionStrategyData.innerAuthority == "Sacral") {
-        return decision_strategy_s4_2_4; 
-      } else if (decisionStrategyData.strategy == "Wait for the Invitation" && decisionStrategyData.innerAuthority == "Emotional") {
-        return decision_strategy_s4_3_4; 
-      } else if (decisionStrategyData.strategy == "Wait for the Invitation" && decisionStrategyData.innerAuthority == "Splenic") {
-        return decision_strategy_s4_4_4; 
-      } else if (decisionStrategyData.strategy == "Wait for the Invitation" && decisionStrategyData.innerAuthority == "Ego Projected") {
-        return decision_strategy_s4_5_4; 
-      } else if (decisionStrategyData.strategy == "Wait for the Invitation" && decisionStrategyData.innerAuthority == "Self Projected") {
-        return decision_strategy_s4_6_4;
-      } else if (decisionStrategyData.strategy == "Wait for the Invitation" && decisionStrategyData.innerAuthority == "Mental") {
-        return decision_strategy_s4_7_4; 
-      } else if (decisionStrategyData.strategy == "To Inform" && decisionStrategyData.innerAuthority == "Emotional") {
-        return decision_strategy_s4_8_4; 
-      } else if (decisionStrategyData.strategy == "To Inform" && decisionStrategyData.innerAuthority == "Splenic") {
-        return decision_strategy_s4_9_4; 
-      } else if (decisionStrategyData.strategy == "To Inform" && decisionStrategyData.innerAuthority == "Ego Manifested") {
-        return decision_strategy_s4_10_4; 
-      } else if (decisionStrategyData.strategy == "Wait a Lunar Cycle" && decisionStrategyData.innerAuthority == "Lunar") {
-        return decision_strategy_s4_11_4; 
-      }
-  } else if (type == "s4_x_5") {
-      if (decisionStrategyData.strategy == "To Respond" && decisionStrategyData.innerAuthority == "Emotional") {
-        return decision_strategy_s4_1_5; 
-      } else if (decisionStrategyData.strategy == "To Respond" && decisionStrategyData.innerAuthority == "Sacral") {
-        return decision_strategy_s4_2_5; 
-      } else if (decisionStrategyData.strategy == "Wait for the Invitation" && decisionStrategyData.innerAuthority == "Emotional") {
-        return decision_strategy_s4_3_5; 
-      } else if (decisionStrategyData.strategy == "Wait for the Invitation" && decisionStrategyData.innerAuthority == "Splenic") {
-        return decision_strategy_s4_4_5; 
-      } else if (decisionStrategyData.strategy == "Wait for the Invitation" && decisionStrategyData.innerAuthority == "Ego Projected") {
-        return decision_strategy_s4_5_5; 
-      } else if (decisionStrategyData.strategy == "Wait for the Invitation" && decisionStrategyData.innerAuthority == "Self Projected") {
-        return decision_strategy_s4_6_5; 
-      } else if (decisionStrategyData.strategy == "Wait for the Invitation" && decisionStrategyData.innerAuthority == "Mental") {
-        return decision_strategy_s4_7_5; 
-      } else if (decisionStrategyData.strategy == "To Inform" && decisionStrategyData.innerAuthority == "Emotional") {
-        return decision_strategy_s4_8_5; 
-      } else if (decisionStrategyData.strategy == "To Inform" && decisionStrategyData.innerAuthority == "Splenic") {
-        return decision_strategy_s4_9_5; 
-      } else if (decisionStrategyData.strategy == "To Inform" && decisionStrategyData.innerAuthority == "Ego Manifested") {
-        return decision_strategy_s4_10_5; 
-      } else if (decisionStrategyData.strategy == "Wait a Lunar Cycle" && decisionStrategyData.innerAuthority == "Lunar") {
-        return decision_strategy_s4_11_5; 
-      }
-  } else if (type == "s4_x_txt") {
-      if (decisionStrategyData.strategy == "To Respond" && decisionStrategyData.innerAuthority == "Emotional") {
-        return decision_strategy_s4_1_txt; 
-      } else if (decisionStrategyData.strategy == "To Respond" && decisionStrategyData.innerAuthority == "Sacral") {
-        return decision_strategy_s4_2_txt; 
-      } else if (decisionStrategyData.strategy == "Wait for the Invitation" && decisionStrategyData.innerAuthority == "Emotional") {
-        return decision_strategy_s4_3_txt; 
-      } else if (decisionStrategyData.strategy == "Wait for the Invitation" && decisionStrategyData.innerAuthority == "Splenic") {
-        return decision_strategy_s4_4_txt; 
-      } else if (decisionStrategyData.strategy == "Wait for the Invitation" && decisionStrategyData.innerAuthority == "Ego Projected") {
-        return decision_strategy_s4_5_txt; 
-      } else if (decisionStrategyData.strategy == "Wait for the Invitation" && decisionStrategyData.innerAuthority == "Self Projected") {
-        return decision_strategy_s4_6_txt; 
-      } else if (decisionStrategyData.strategy == "Wait for the Invitation" && decisionStrategyData.innerAuthority == "Mental") {
-        return decision_strategy_s4_7_txt; 
-      } else if (decisionStrategyData.strategy == "To Inform" && decisionStrategyData.innerAuthority == "Emotional") {
-        return decision_strategy_s4_8_txt; 
-      } else if (decisionStrategyData.strategy == "To Inform" && decisionStrategyData.innerAuthority == "Splenic") {
-        return decision_strategy_s4_9_txt; 
-      } else if (decisionStrategyData.strategy == "To Inform" && decisionStrategyData.innerAuthority == "Ego Manifested") {
-        return decision_strategy_s4_10_txt; 
-      } else if (decisionStrategyData.strategy == "Wait a Lunar Cycle" && decisionStrategyData.innerAuthority == "Lunar") {
-        return decision_strategy_s4_11_txt; 
-      }
-    } else if (type == "ozet_1") {
-      if (decisionStrategyData.strategy == "To Respond" && decisionStrategyData.innerAuthority == "Emotional") {
-        return decision_strategy_ozet_1_1; 
-      } else if (decisionStrategyData.strategy == "To Respond" && decisionStrategyData.innerAuthority == "Sacral") {
-        return decision_strategy_ozet_2_1; 
-      } else if (decisionStrategyData.strategy == "Wait for the Invitation" && decisionStrategyData.innerAuthority == "Emotional") {
-        return decision_strategy_ozet_3_1; 
-      } else if (decisionStrategyData.strategy == "Wait for the Invitation" && decisionStrategyData.innerAuthority == "Splenic") {
-        return decision_strategy_ozet_4_1; 
-      } else if (decisionStrategyData.strategy == "Wait for the Invitation" && decisionStrategyData.innerAuthority == "Ego Projected") {
-        return decision_strategy_ozet_5_1; 
-      } else if (decisionStrategyData.strategy == "Wait for the Invitation" && decisionStrategyData.innerAuthority == "Self Projected") {
-        return decision_strategy_ozet_6_1; 
-      } else if (decisionStrategyData.strategy == "Wait for the Invitation" && decisionStrategyData.innerAuthority == "Mental") {
-        return decision_strategy_ozet_7_1; 
-      } else if (decisionStrategyData.strategy == "To Inform" && decisionStrategyData.innerAuthority == "Emotional") {
-        return decision_strategy_ozet_8_1; 
-      } else if (decisionStrategyData.strategy == "To Inform" && decisionStrategyData.innerAuthority == "Splenic") {
-        return decision_strategy_ozet_9_1; 
-      } else if (decisionStrategyData.strategy == "To Inform" && decisionStrategyData.innerAuthority == "Ego Manifested") {
-        return decision_strategy_ozet_10_1; 
-      } else if (decisionStrategyData.strategy == "Wait a Lunar Cycle" && decisionStrategyData.innerAuthority == "Lunar") {
-        return decision_strategy_ozet_11_1; 
-      }
-    } else if (type == "ozet_2") {
-      if (decisionStrategyData.strategy == "To Respond" && decisionStrategyData.innerAuthority == "Emotional") {
-        return decision_strategy_ozet_1_2; 
-      } else if (decisionStrategyData.strategy == "To Respond" && decisionStrategyData.innerAuthority == "Sacral") {
-        return decision_strategy_ozet_2_2; 
-      } else if (decisionStrategyData.strategy == "Wait for the Invitation" && decisionStrategyData.innerAuthority == "Emotional") {
-        return decision_strategy_ozet_3_2; 
-      } else if (decisionStrategyData.strategy == "Wait for the Invitation" && decisionStrategyData.innerAuthority == "Splenic") {
-        return decision_strategy_ozet_4_2; 
-      } else if (decisionStrategyData.strategy == "Wait for the Invitation" && decisionStrategyData.innerAuthority == "Ego Projected") {
-        return decision_strategy_ozet_5_2; 
-      } else if (decisionStrategyData.strategy == "Wait for the Invitation" && decisionStrategyData.innerAuthority == "Self Projected") {
-        return decision_strategy_ozet_6_2; 
-      } else if (decisionStrategyData.strategy == "Wait for the Invitation" && decisionStrategyData.innerAuthority == "Mental") {
-        return decision_strategy_ozet_7_2; 
-      } else if (decisionStrategyData.strategy == "To Inform" && decisionStrategyData.innerAuthority == "Emotional") {
-        return decision_strategy_ozet_8_2; 
-      } else if (decisionStrategyData.strategy == "To Inform" && decisionStrategyData.innerAuthority == "Splenic") {
-        return decision_strategy_ozet_9_2; 
-      } else if (decisionStrategyData.strategy == "To Inform" && decisionStrategyData.innerAuthority == "Ego Manifested") {
-        return decision_strategy_ozet_10_2; 
-      } else if (decisionStrategyData.strategy == "Wait a Lunar Cycle" && decisionStrategyData.innerAuthority == "Lunar") {
-        return decision_strategy_ozet_11_; 
+      else if (type == "name") {
+        if (decisionStrategyData.strategy == "To Respond" && decisionStrategyData.innerAuthority == "Emotional") {
+            return decision_strategy_eng_s3_1_1; 
+        } else if (decisionStrategyData.strategy == "To Respond" && decisionStrategyData.innerAuthority == "Sacral") {
+            return decision_strategy_eng_s3_2_1; 
+        } else if (decisionStrategyData.strategy == "Wait for the Invitation" && decisionStrategyData.innerAuthority == "Emotional") {
+            return decision_strategy_eng_s3_3_1; 
+        } else if (decisionStrategyData.strategy == "Wait for the Invitation" && decisionStrategyData.innerAuthority == "Splenic") {
+            return decision_strategy_eng_s3_4_1; 
+        } else if (decisionStrategyData.strategy == "Wait for the Invitation" && decisionStrategyData.innerAuthority == "Ego Projected") {
+            return decision_strategy_eng_s3_5_1; 
+        } else if (decisionStrategyData.strategy == "Wait for the Invitation" && decisionStrategyData.innerAuthority == "Self Projected") {
+            return decision_strategy_eng_s3_6_1; 
+        } else if (decisionStrategyData.strategy == "Wait for the Invitation" && decisionStrategyData.innerAuthority == "Mental") {
+            return decision_strategy_eng_s3_7_1; 
+        } else if (decisionStrategyData.strategy == "To Inform" && decisionStrategyData.innerAuthority == "Emotional") {
+            return decision_strategy_eng_s3_8_1; 
+        } else if (decisionStrategyData.strategy == "To Inform" && decisionStrategyData.innerAuthority == "Splenic") {
+            return decision_strategy_eng_s3_9_1; 
+        } else if (decisionStrategyData.strategy == "To Inform" && decisionStrategyData.innerAuthority == "Ego Manifested") {
+            return decision_strategy_eng_s3_10_1; 
+        } else if (decisionStrategyData.strategy == "Wait a Lunar Cycle" && decisionStrategyData.innerAuthority == "Lunar") {
+            return decision_strategy_eng_s3_11_1; 
+        }
+    } else if (type == "s3_x_2") {
+        if (decisionStrategyData.strategy == "To Respond" && decisionStrategyData.innerAuthority == "Emotional") {
+            return decision_strategy_eng_s3_1_2; 
+        } else if (decisionStrategyData.strategy == "To Respond" && decisionStrategyData.innerAuthority == "Sacral") {
+            return decision_strategy_eng_s3_2_2; 
+        } else if (decisionStrategyData.strategy == "Wait for the Invitation" && decisionStrategyData.innerAuthority == "Emotional") {
+            return decision_strategy_eng_s3_3_2; 
+        } else if (decisionStrategyData.strategy == "Wait for the Invitation" && decisionStrategyData.innerAuthority == "Splenic") {
+            return decision_strategy_eng_s3_4_2; 
+        } else if (decisionStrategyData.strategy == "Wait for the Invitation" && decisionStrategyData.innerAuthority == "Ego Projected") {
+            return decision_strategy_eng_s3_5_2; 
+        } else if (decisionStrategyData.strategy == "Wait for the Invitation" && decisionStrategyData.innerAuthority == "Self Projected") {
+            return decision_strategy_eng_s3_6_2; 
+        } else if (decisionStrategyData.strategy == "Wait for the Invitation" && decisionStrategyData.innerAuthority == "Mental") {
+            return decision_strategy_eng_s3_7_2; 
+        } else if (decisionStrategyData.strategy == "To Inform" && decisionStrategyData.innerAuthority == "Emotional") {
+            return decision_strategy_eng_s3_8_2; 
+        } else if (decisionStrategyData.strategy == "To Inform" && decisionStrategyData.innerAuthority == "Splenic") {
+            return decision_strategy_eng_s3_9_2;
+        } else if (decisionStrategyData.strategy == "To Inform" && decisionStrategyData.innerAuthority == "Ego Manifested") {
+            return decision_strategy_eng_s3_10_2; 
+        } else if (decisionStrategyData.strategy == "Wait a Lunar Cycle" && decisionStrategyData.innerAuthority == "Lunar") {
+            return decision_strategy_eng_s3_11_2; 
+        }
+    } else if (type == "s3_x_3") {
+        if (decisionStrategyData.strategy == "To Respond" && decisionStrategyData.innerAuthority == "Emotional") {
+            return decision_strategy_eng_s3_1_3; 
+        } else if (decisionStrategyData.strategy == "To Respond" && decisionStrategyData.innerAuthority == "Sacral") {
+            return decision_strategy_eng_s3_2_3; 
+        } else if (decisionStrategyData.strategy == "Wait for the Invitation" && decisionStrategyData.innerAuthority == "Emotional") {
+            return decision_strategy_eng_s3_3_3; 
+        } else if (decisionStrategyData.strategy == "Wait for the Invitation" && decisionStrategyData.innerAuthority == "Splenic") {
+            return decision_strategy_eng_s3_4_3; 
+        } else if (decisionStrategyData.strategy == "Wait for the Invitation" && decisionStrategyData.innerAuthority == "Ego Projected") {
+            return decision_strategy_eng_s3_5_3; 
+        } else if (decisionStrategyData.strategy == "Wait for the Invitation" && decisionStrategyData.innerAuthority == "Self Projected") {
+            return decision_strategy_eng_s3_6_3; 
+        } else if (decisionStrategyData.strategy == "Wait for the Invitation" && decisionStrategyData.innerAuthority == "Mental") {
+            return decision_strategy_eng_s3_7_3; 
+        } else if (decisionStrategyData.strategy == "To Inform" && decisionStrategyData.innerAuthority == "Emotional") {
+            return decision_strategy_eng_s3_8_3; 
+        } else if (decisionStrategyData.strategy == "To Inform" && decisionStrategyData.innerAuthority == "Splenic") {
+            return decision_strategy_eng_s3_9_3; 
+        } else if (decisionStrategyData.strategy == "To Inform" && decisionStrategyData.innerAuthority == "Ego Manifested") {
+            return decision_strategy_eng_s3_10_3; 
+        } else if (decisionStrategyData.strategy == "Wait a Lunar Cycle" && decisionStrategyData.innerAuthority == "Lunar") {
+            return decision_strategy_eng_s3_11_3; 
+        }
+    } else if (type == "s3_x_4") {
+        if (decisionStrategyData.strategy == "To Respond" && decisionStrategyData.innerAuthority == "Emotional") {
+            return decision_strategy_s3_1_4; 
+        } else if (decisionStrategyData.strategy == "To Respond" && decisionStrategyData.innerAuthority == "Sacral") {
+            return decision_strategy_s3_2_4; 
+        } else if (decisionStrategyData.strategy == "Wait for the Invitation" && decisionStrategyData.innerAuthority == "Emotional") {
+            return decision_strategy_s3_3_4; 
+        } else if (decisionStrategyData.strategy == "Wait for the Invitation" && decisionStrategyData.innerAuthority == "Splenic") {
+            return decision_strategy_s3_4_4; 
+        } else if (decisionStrategyData.strategy == "Wait for the Invitation" && decisionStrategyData.innerAuthority == "Ego Projected") {
+            return decision_strategy_s3_5_4; 
+        } else if (decisionStrategyData.strategy == "Wait for the Invitation" && decisionStrategyData.innerAuthority == "Self Projected") {
+            return decision_strategy_s3_6_4; 
+        } else if (decisionStrategyData.strategy == "Wait for the Invitation" && decisionStrategyData.innerAuthority == "Mental") {
+            return decision_strategy_s3_7_4; 
+        } else if (decisionStrategyData.strategy == "To Inform" && decisionStrategyData.innerAuthority == "Emotional") {
+            return decision_strategy_s3_8_4; 
+        } else if (decisionStrategyData.strategy == "To Inform" && decisionStrategyData.innerAuthority == "Splenic") {
+            return decision_strategy_s3_9_4; 
+        } else if (decisionStrategyData.strategy == "To Inform" && decisionStrategyData.innerAuthority == "Ego Manifested") {
+            return decision_strategy_s3_10_4; 
+        } else if (decisionStrategyData.strategy == "Wait a Lunar Cycle" && decisionStrategyData.innerAuthority == "Lunar") {
+            return decision_strategy_s3_11_4; 
+        }
+    } else if (type == "s4_x_text") {
+        if (decisionStrategyData.strategy == "To Respond" && decisionStrategyData.innerAuthority == "Emotional") {
+          return decision_strategy_eng_s4_1_text; 
+        } else if (decisionStrategyData.strategy == "To Respond" && decisionStrategyData.innerAuthority == "Sacral") {
+          return decision_strategy_eng_s4_2_text; 
+        } else if (decisionStrategyData.strategy == "Wait for the Invitation" && decisionStrategyData.innerAuthority == "Emotional") {
+          return decision_strategy_eng_s4_3_text; 
+        } else if (decisionStrategyData.strategy == "Wait for the Invitation" && decisionStrategyData.innerAuthority == "Splenic") {
+          return decision_strategy_eng_s4_4_text; 
+        } else if (decisionStrategyData.strategy == "Wait for the Invitation" && decisionStrategyData.innerAuthority == "Ego Projected") {
+          return decision_strategy_eng_s4_5_text; 
+        } else if (decisionStrategyData.strategy == "Wait for the Invitation" && decisionStrategyData.innerAuthority == "Self Projected") {
+          return decision_strategy_eng_s4_6_text; 
+        } else if (decisionStrategyData.strategy == "Wait for the Invitation" && decisionStrategyData.innerAuthority == "Mental") {
+          return decision_strategy_eng_s4_7_text; 
+        } else if (decisionStrategyData.strategy == "To Inform" && decisionStrategyData.innerAuthority == "Emotional") {
+          return decision_strategy_eng_s4_8_text; 
+        } else if (decisionStrategyData.strategy == "To Inform" && decisionStrategyData.innerAuthority == "Splenic") {
+          return decision_strategy_eng_s4_9_text; 
+        } else if (decisionStrategyData.strategy == "To Inform" && decisionStrategyData.innerAuthority == "Ego Manifested") {
+          return decision_strategy_eng_s4_10_text; 
+        } else if (decisionStrategyData.strategy == "Wait a Lunar Cycle" && decisionStrategyData.innerAuthority == "Lunar") {
+          return decision_strategy_eng_s4_11_text;
+        }
+    } else if (type == "s4_x_1") {
+        if (decisionStrategyData.strategy == "To Respond" && decisionStrategyData.innerAuthority == "Emotional") {
+          return decision_strategy_eng_s4_1_1; 
+        } else if (decisionStrategyData.strategy == "To Respond" && decisionStrategyData.innerAuthority == "Sacral") {
+          return decision_strategy_eng_s4_2_1; 
+        } else if (decisionStrategyData.strategy == "Wait for the Invitation" && decisionStrategyData.innerAuthority == "Emotional") {
+          return decision_strategy_eng_s4_3_1; 
+        } else if (decisionStrategyData.strategy == "Wait for the Invitation" && decisionStrategyData.innerAuthority == "Splenic") {
+          return decision_strategy_eng_s4_4_1; 
+        } else if (decisionStrategyData.strategy == "Wait for the Invitation" && decisionStrategyData.innerAuthority == "Ego Projected") {
+          return decision_strategy_eng_s4_5_1;
+        } else if (decisionStrategyData.strategy == "Wait for the Invitation" && decisionStrategyData.innerAuthority == "Self Projected") {
+          return decision_strategy_eng_s4_6_1;
+        } else if (decisionStrategyData.strategy == "Wait for the Invitation" && decisionStrategyData.innerAuthority == "Mental") {
+          return decision_strategy_eng_s4_7_1; 
+        } else if (decisionStrategyData.strategy == "To Inform" && decisionStrategyData.innerAuthority == "Emotional") {
+          return decision_strategy_eng_s4_8_1; 
+        } else if (decisionStrategyData.strategy == "To Inform" && decisionStrategyData.innerAuthority == "Splenic") {
+          return decision_strategy_eng_s4_9_1; 
+        } else if (decisionStrategyData.strategy == "To Inform" && decisionStrategyData.innerAuthority == "Ego Manifested") {
+          return decision_strategy_eng_s4_10_1; 
+        } else if (decisionStrategyData.strategy == "Wait a Lunar Cycle" && decisionStrategyData.innerAuthority == "Lunar") {
+          return decision_strategy_eng_s4_11_1; 
+        }
+    } else if (type == "s4_x_2") {
+        if (decisionStrategyData.strategy == "To Respond" && decisionStrategyData.innerAuthority == "Emotional") {
+          return decision_strategy_eng_s4_1_2; 
+        } else if (decisionStrategyData.strategy == "To Respond" && decisionStrategyData.innerAuthority == "Sacral") {
+          return decision_strategy_eng_s4_2_2; 
+        } else if (decisionStrategyData.strategy == "Wait for the Invitation" && decisionStrategyData.innerAuthority == "Emotional") {
+          return decision_strategy_eng_s4_3_2; 
+        } else if (decisionStrategyData.strategy == "Wait for the Invitation" && decisionStrategyData.innerAuthority == "Splenic") {
+          return decision_strategy_eng_s4_4_2; 
+        } else if (decisionStrategyData.strategy == "Wait for the Invitation" && decisionStrategyData.innerAuthority == "Ego Projected") {
+          return decision_strategy_eng_s4_5_2; 
+        } else if (decisionStrategyData.strategy == "Wait for the Invitation" && decisionStrategyData.innerAuthority == "Self Projected") {
+          return decision_strategy_eng_s4_6_2; 
+        } else if (decisionStrategyData.strategy == "Wait for the Invitation" && decisionStrategyData.innerAuthority == "Mental") {
+          return decision_strategy_eng_s4_7_2; 
+        } else if (decisionStrategyData.strategy == "To Inform" && decisionStrategyData.innerAuthority == "Emotional") {
+          return decision_strategy_eng_s4_8_2;
+        } else if (decisionStrategyData.strategy == "To Inform" && decisionStrategyData.innerAuthority == "Splenic") {
+          return decision_strategy_eng_s4_9_2; 
+        } else if (decisionStrategyData.strategy == "To Inform" && decisionStrategyData.innerAuthority == "Ego Manifested") {
+          return decision_strategy_eng_s4_10_2;
+        } else if (decisionStrategyData.strategy == "Wait a Lunar Cycle" && decisionStrategyData.innerAuthority == "Lunar") {
+          return decision_strategy_eng_s4_11_2; 
+        }
+    } else if (type == "s4_x_3") {
+        if (decisionStrategyData.strategy == "To Respond" && decisionStrategyData.innerAuthority == "Emotional") {
+          return decision_strategy_eng_s4_1_3; 
+        } else if (decisionStrategyData.strategy == "To Respond" && decisionStrategyData.innerAuthority == "Sacral") {
+          return decision_strategy_eng_s4_2_3; 
+        } else if (decisionStrategyData.strategy == "Wait for the Invitation" && decisionStrategyData.innerAuthority == "Emotional") {
+          return decision_strategy_eng_s4_3_3; 
+        } else if (decisionStrategyData.strategy == "Wait for the Invitation" && decisionStrategyData.innerAuthority == "Splenic") {
+          return decision_strategy_eng_s4_4_3; 
+        } else if (decisionStrategyData.strategy == "Wait for the Invitation" && decisionStrategyData.innerAuthority == "Ego Projected") {
+          return decision_strategy_eng_s4_5_3; 
+        } else if (decisionStrategyData.strategy == "Wait for the Invitation" && decisionStrategyData.innerAuthority == "Self Projected") {
+          return decision_strategy_eng_s4_6_3; 
+        } else if (decisionStrategyData.strategy == "Wait for the Invitation" && decisionStrategyData.innerAuthority == "Mental") {
+          return decision_strategy_eng_s4_7_3; 
+        } else if (decisionStrategyData.strategy == "To Inform" && decisionStrategyData.innerAuthority == "Emotional") {
+          return decision_strategy_eng_s4_8_3; 
+        } else if (decisionStrategyData.strategy == "To Inform" && decisionStrategyData.innerAuthority == "Splenic") {
+          return decision_strategy_eng_s4_9_3; 
+        } else if (decisionStrategyData.strategy == "To Inform" && decisionStrategyData.innerAuthority == "Ego Manifested") {
+          return decision_strategy_eng_s4_10_3;
+        } else if (decisionStrategyData.strategy == "Wait a Lunar Cycle" && decisionStrategyData.innerAuthority == "Lunar") {
+          return decision_strategy_eng_s4_11_3; 
+        }
+    } else if (type == "s4_x_4") {
+        if (decisionStrategyData.strategy == "To Respond" && decisionStrategyData.innerAuthority == "Emotional") {
+          return decision_strategy_eng_s4_1_4; 
+        } else if (decisionStrategyData.strategy == "To Respond" && decisionStrategyData.innerAuthority == "Sacral") {
+          return decision_strategy_eng_s4_2_4; 
+        } else if (decisionStrategyData.strategy == "Wait for the Invitation" && decisionStrategyData.innerAuthority == "Emotional") {
+          return decision_strategy_eng_s4_3_4; 
+        } else if (decisionStrategyData.strategy == "Wait for the Invitation" && decisionStrategyData.innerAuthority == "Splenic") {
+          return decision_strategy_eng_s4_4_4; 
+        } else if (decisionStrategyData.strategy == "Wait for the Invitation" && decisionStrategyData.innerAuthority == "Ego Projected") {
+          return decision_strategy_eng_s4_5_4; 
+        } else if (decisionStrategyData.strategy == "Wait for the Invitation" && decisionStrategyData.innerAuthority == "Self Projected") {
+          return decision_strategy_eng_s4_6_4;
+        } else if (decisionStrategyData.strategy == "Wait for the Invitation" && decisionStrategyData.innerAuthority == "Mental") {
+          return decision_strategy_eng_s4_7_4; 
+        } else if (decisionStrategyData.strategy == "To Inform" && decisionStrategyData.innerAuthority == "Emotional") {
+          return decision_strategy_eng_s4_8_4; 
+        } else if (decisionStrategyData.strategy == "To Inform" && decisionStrategyData.innerAuthority == "Splenic") {
+          return decision_strategy_eng_s4_9_4; 
+        } else if (decisionStrategyData.strategy == "To Inform" && decisionStrategyData.innerAuthority == "Ego Manifested") {
+          return decision_strategy_eng_s4_10_4; 
+        } else if (decisionStrategyData.strategy == "Wait a Lunar Cycle" && decisionStrategyData.innerAuthority == "Lunar") {
+          return decision_strategy_eng_s4_11_4; 
+        }
+    } else if (type == "s4_x_5") {
+        if (decisionStrategyData.strategy == "To Respond" && decisionStrategyData.innerAuthority == "Emotional") {
+          return decision_strategy_eng_s4_1_5; 
+        } else if (decisionStrategyData.strategy == "To Respond" && decisionStrategyData.innerAuthority == "Sacral") {
+          return decision_strategy_eng_s4_2_5; 
+        } else if (decisionStrategyData.strategy == "Wait for the Invitation" && decisionStrategyData.innerAuthority == "Emotional") {
+          return decision_strategy_eng_s4_3_5; 
+        } else if (decisionStrategyData.strategy == "Wait for the Invitation" && decisionStrategyData.innerAuthority == "Splenic") {
+          return decision_strategy_eng_s4_4_5; 
+        } else if (decisionStrategyData.strategy == "Wait for the Invitation" && decisionStrategyData.innerAuthority == "Ego Projected") {
+          return decision_strategy_eng_s4_5_5; 
+        } else if (decisionStrategyData.strategy == "Wait for the Invitation" && decisionStrategyData.innerAuthority == "Self Projected") {
+          return decision_strategy_seng_4_6_5; 
+        } else if (decisionStrategyData.strategy == "Wait for the Invitation" && decisionStrategyData.innerAuthority == "Mental") {
+          return decision_strategy_eng_s4_7_5; 
+        } else if (decisionStrategyData.strategy == "To Inform" && decisionStrategyData.innerAuthority == "Emotional") {
+          return decision_strategy_eng_s4_8_5; 
+        } else if (decisionStrategyData.strategy == "To Inform" && decisionStrategyData.innerAuthority == "Splenic") {
+          return decision_strategy_eng_s4_9_5; 
+        } else if (decisionStrategyData.strategy == "To Inform" && decisionStrategyData.innerAuthority == "Ego Manifested") {
+          return decision_strategy_eng_s4_10_5; 
+        } else if (decisionStrategyData.strategy == "Wait a Lunar Cycle" && decisionStrategyData.innerAuthority == "Lunar") {
+          return decision_strategy_eng_s4_11_5; 
+        }
+    } else if (type == "s4_x_txt") {
+        if (decisionStrategyData.strategy == "To Respond" && decisionStrategyData.innerAuthority == "Emotional") {
+          return decision_strategy_eng_s4_1_txt; 
+        } else if (decisionStrategyData.strategy == "To Respond" && decisionStrategyData.innerAuthority == "Sacral") {
+          return decision_strategy_eng_s4_2_txt; 
+        } else if (decisionStrategyData.strategy == "Wait for the Invitation" && decisionStrategyData.innerAuthority == "Emotional") {
+          return decision_strategy_eng_s4_3_txt; 
+        } else if (decisionStrategyData.strategy == "Wait for the Invitation" && decisionStrategyData.innerAuthority == "Splenic") {
+          return decision_strategy_eng_s4_4_txt; 
+        } else if (decisionStrategyData.strategy == "Wait for the Invitation" && decisionStrategyData.innerAuthority == "Ego Projected") {
+          return decision_strategy_eng_s4_5_txt; 
+        } else if (decisionStrategyData.strategy == "Wait for the Invitation" && decisionStrategyData.innerAuthority == "Self Projected") {
+          return decision_strategy_eng_s4_6_txt; 
+        } else if (decisionStrategyData.strategy == "Wait for the Invitation" && decisionStrategyData.innerAuthority == "Mental") {
+          return decision_strategy_eng_s4_7_txt; 
+        } else if (decisionStrategyData.strategy == "To Inform" && decisionStrategyData.innerAuthority == "Emotional") {
+          return decision_strategy_eng_s4_8_txt; 
+        } else if (decisionStrategyData.strategy == "To Inform" && decisionStrategyData.innerAuthority == "Splenic") {
+          return decision_strategy_eng_s4_9_txt; 
+        } else if (decisionStrategyData.strategy == "To Inform" && decisionStrategyData.innerAuthority == "Ego Manifested") {
+          return decision_strategy_eng_s4_10_txt; 
+        } else if (decisionStrategyData.strategy == "Wait a Lunar Cycle" && decisionStrategyData.innerAuthority == "Lunar") {
+          return decision_strategy_eng_s4_11_txt; 
+        }
+      } else if (type == "ozet_1") {
+        if (decisionStrategyData.strategy == "To Respond" && decisionStrategyData.innerAuthority == "Emotional") {
+          return decision_strategy_eng_ozet_1_1; 
+        } else if (decisionStrategyData.strategy == "To Respond" && decisionStrategyData.innerAuthority == "Sacral") {
+          return decision_strategy_eng_ozet_2_1; 
+        } else if (decisionStrategyData.strategy == "Wait for the Invitation" && decisionStrategyData.innerAuthority == "Emotional") {
+          return decision_strategy_eng_ozet_3_1; 
+        } else if (decisionStrategyData.strategy == "Wait for the Invitation" && decisionStrategyData.innerAuthority == "Splenic") {
+          return decision_strategy_eng_ozet_4_1; 
+        } else if (decisionStrategyData.strategy == "Wait for the Invitation" && decisionStrategyData.innerAuthority == "Ego Projected") {
+          return decision_strategy_eng_ozet_5_1; 
+        } else if (decisionStrategyData.strategy == "Wait for the Invitation" && decisionStrategyData.innerAuthority == "Self Projected") {
+          return decision_strategy_eng_ozet_6_1; 
+        } else if (decisionStrategyData.strategy == "Wait for the Invitation" && decisionStrategyData.innerAuthority == "Mental") {
+          return decision_strategy_eng_ozet_7_1; 
+        } else if (decisionStrategyData.strategy == "To Inform" && decisionStrategyData.innerAuthority == "Emotional") {
+          return decision_strategy_eng_ozet_8_1; 
+        } else if (decisionStrategyData.strategy == "To Inform" && decisionStrategyData.innerAuthority == "Splenic") {
+          return decision_strategy_eng_ozet_9_1; 
+        } else if (decisionStrategyData.strategy == "To Inform" && decisionStrategyData.innerAuthority == "Ego Manifested") {
+          return decision_strategy_eng_ozet_10_1; 
+        } else if (decisionStrategyData.strategy == "Wait a Lunar Cycle" && decisionStrategyData.innerAuthority == "Lunar") {
+          return decision_strategy_eng_ozet_11_1; 
+        }
+      } else if (type == "ozet_2") {
+        if (decisionStrategyData.strategy == "To Respond" && decisionStrategyData.innerAuthority == "Emotional") {
+          return decision_strategy_eng_ozet_1_2; 
+        } else if (decisionStrategyData.strategy == "To Respond" && decisionStrategyData.innerAuthority == "Sacral") {
+          return decision_strategy_eng_ozet_2_2; 
+        } else if (decisionStrategyData.strategy == "Wait for the Invitation" && decisionStrategyData.innerAuthority == "Emotional") {
+          return decision_strategy_eng_ozet_3_2; 
+        } else if (decisionStrategyData.strategy == "Wait for the Invitation" && decisionStrategyData.innerAuthority == "Splenic") {
+          return decision_strategy_eng_ozet_4_2; 
+        } else if (decisionStrategyData.strategy == "Wait for the Invitation" && decisionStrategyData.innerAuthority == "Ego Projected") {
+          return decision_strategy_eng_ozet_5_2; 
+        } else if (decisionStrategyData.strategy == "Wait for the Invitation" && decisionStrategyData.innerAuthority == "Self Projected") {
+          return decision_strategy_eng_ozet_6_2; 
+        } else if (decisionStrategyData.strategy == "Wait for the Invitation" && decisionStrategyData.innerAuthority == "Mental") {
+          return decision_strategy_eng_ozet_7_2; 
+        } else if (decisionStrategyData.strategy == "To Inform" && decisionStrategyData.innerAuthority == "Emotional") {
+          return decision_strategy_eng_ozet_8_2; 
+        } else if (decisionStrategyData.strategy == "To Inform" && decisionStrategyData.innerAuthority == "Splenic") {
+          return decision_strategy_eng_ozet_9_2; 
+        } else if (decisionStrategyData.strategy == "To Inform" && decisionStrategyData.innerAuthority == "Ego Manifested") {
+          return decision_strategy_eng_ozet_10_2; 
+        } else if (decisionStrategyData.strategy == "Wait a Lunar Cycle" && decisionStrategyData.innerAuthority == "Lunar") {
+          return decision_strategy_eng_ozet_11_; 
+        }
       }
     }
   };
