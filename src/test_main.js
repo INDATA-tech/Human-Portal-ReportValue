@@ -863,11 +863,11 @@ export default async ({ req, res, log, error }) => {
     );
   }
   careerSelectionLastResult.sort((a, b) => b.value - a.value);
-  console.log(hollanddataPercent);
-  console.log(bigdataPercent);
-  console.log(careerSelectionLastResult);
-  console.log(sortedaiData);
-  console.log(sortedTeamWorkData);
+  // console.log(hollanddataPercent);
+  // console.log(bigdataPercent);
+  // console.log(careerSelectionLastResult);
+  // console.log(sortedaiData);
+  // console.log(sortedTeamWorkData);
 
   var careerSelectionData = [
     {
@@ -4718,12 +4718,12 @@ var decision_strategy_eng_s4_11_txt = "By adhering to this decision-making strat
         }
       } else if( type == "image") {
         if (lifestyleData == "Manifesting Generator") {
-          if(cinsiyet == "Erkek")
+          if(cinsiyet == "Male")
             return lifestyle_25_plus_manifesting_generator_image_m;
           else
             return lifestyle_25_plus_manifesting_generator_image_w;
         } else if (lifestyleData == "Generator") {
-            if(cinsiyet == "Erkek")
+            if(cinsiyet == "Female")
               return lifestyle_25_plus_generator_image_m
             else
               return lifestyle_25_plus_generator_image_w
@@ -6033,27 +6033,27 @@ var decision_strategy_eng_s4_11_txt = "By adhering to this decision-making strat
         }
     } else if (type == "s3_x_4") {
         if (decisionStrategyData.strategy == "To Respond" && decisionStrategyData.innerAuthority == "Emotional") {
-            return decision_strategy_s3_1_4; 
+            return decision_strategy_eng_s3_1_4; 
         } else if (decisionStrategyData.strategy == "To Respond" && decisionStrategyData.innerAuthority == "Sacral") {
-            return decision_strategy_s3_2_4; 
+            return decision_strategy_eng_s3_2_4; 
         } else if (decisionStrategyData.strategy == "Wait for the Invitation" && decisionStrategyData.innerAuthority == "Emotional") {
-            return decision_strategy_s3_3_4; 
+            return decision_strategy_eng_s3_3_4; 
         } else if (decisionStrategyData.strategy == "Wait for the Invitation" && decisionStrategyData.innerAuthority == "Splenic") {
-            return decision_strategy_s3_4_4; 
+            return decision_strategy_eng_s3_4_4; 
         } else if (decisionStrategyData.strategy == "Wait for the Invitation" && decisionStrategyData.innerAuthority == "Ego Projected") {
-            return decision_strategy_s3_5_4; 
+            return decision_strategy_eng_s3_5_4; 
         } else if (decisionStrategyData.strategy == "Wait for the Invitation" && decisionStrategyData.innerAuthority == "Self Projected") {
-            return decision_strategy_s3_6_4; 
+            return decision_strategy_eng_s3_6_4; 
         } else if (decisionStrategyData.strategy == "Wait for the Invitation" && decisionStrategyData.innerAuthority == "Mental") {
-            return decision_strategy_s3_7_4; 
+            return decision_strategy_eng_s3_7_4; 
         } else if (decisionStrategyData.strategy == "To Inform" && decisionStrategyData.innerAuthority == "Emotional") {
-            return decision_strategy_s3_8_4; 
+            return decision_strategy_eng_s3_8_4; 
         } else if (decisionStrategyData.strategy == "To Inform" && decisionStrategyData.innerAuthority == "Splenic") {
-            return decision_strategy_s3_9_4; 
+            return decision_strategy_eng_s3_9_4; 
         } else if (decisionStrategyData.strategy == "To Inform" && decisionStrategyData.innerAuthority == "Ego Manifested") {
-            return decision_strategy_s3_10_4; 
+            return decision_strategy_eng_s3_10_4; 
         } else if (decisionStrategyData.strategy == "Wait a Lunar Cycle" && decisionStrategyData.innerAuthority == "Lunar") {
-            return decision_strategy_s3_11_4; 
+            return decision_strategy_eng_s3_11_4; 
         }
     } else if (type == "s4_x_text") {
         if (decisionStrategyData.strategy == "To Respond" && decisionStrategyData.innerAuthority == "Emotional") {
@@ -6375,425 +6375,425 @@ var decision_strategy_eng_s4_11_txt = "By adhering to this decision-making strat
         }
       } else if (type == "s7_retail_x_1") {
         if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yaratıcı ve Sanatsal Kariyerler") {
-          return kariyer_secim_25_plus_s7_eng_retail_1_1;
+          return kariyer_secim_25_plus_s7_retail_1_1;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Liderlik ve Yönetim Kariyerleri") {
-          return kariyer_secim_25_plus_s7_eng_retail_2_1;
+          return kariyer_secim_25_plus_s7_retail_2_1;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yardım ve Sosyal Kariyerler") {
-          return kariyer_secim_25_plus_s7_eng_retail_3_1;
+          return kariyer_secim_25_plus_s7_retail_3_1;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Teknik ve Mühendislik Kariyerleri") {
-          return kariyer_secim_25_plus_s7_eng_retail_4_1;
+          return kariyer_secim_25_plus_s7_retail_4_1;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Satış ve İlişki Kurma Kariyerleri") {
-          return kariyer_secim_25_plus_s7_eng_retail_5_1;
+          return kariyer_secim_25_plus_s7_retail_5_1;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Organizasyonel ve İdari Kariyerler") {
-          return kariyer_secim_25_plus_s7_eng_retail_6_1;
+          return kariyer_secim_25_plus_s7_retail_6_1;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yenilikçi ve Girişimci Kariyerler") {
-          return kariyer_secim_25_plus_s7_eng_retail_7_1;
+          return kariyer_secim_25_plus_s7_retail_7_1;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Öğretim ve Mentorluk Kariyerleri") {
-          return kariyer_secim_25_plus_s7_eng_retail_8_1;
+          return kariyer_secim_25_plus_s7_retail_8_1;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Analitik ve Veri Odaklı Kariyerler") {
-          return kariyer_secim_25_plus_s7_eng_retail_9_1;
+          return kariyer_secim_25_plus_s7_retail_9_1;
         }
       } else if (type == "s7_retail_x_2") {
         if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yaratıcı ve Sanatsal Kariyerler") {
-          return kariyer_secim_25_plus_s7_eng_retail_1_2;
+          return kariyer_secim_25_plus_s7_retail_1_2;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Liderlik ve Yönetim Kariyerleri") {
-          return kariyer_secim_25_plus_s7_eng_retail_2_2;
+          return kariyer_secim_25_plus_s7_retail_2_2;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yardım ve Sosyal Kariyerler") {
-          return kariyer_secim_25_plus_s7_eng_retail_3_2;
+          return kariyer_secim_25_plus_s7_retail_3_2;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Teknik ve Mühendislik Kariyerleri") {
-          return kariyer_secim_25_plus_s7_eng_retail_4_2;
+          return kariyer_secim_25_plus_s7_retail_4_2;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Satış ve İlişki Kurma Kariyerleri") {
-          return kariyer_secim_25_plus_s7_eng_retail_5_2;
+          return kariyer_secim_25_plus_s7_retail_5_2;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Organizasyonel ve İdari Kariyerler") {
-          return kariyer_secim_25_plus_s7_eng_retail_6_2;
+          return kariyer_secim_25_plus_s7_retail_6_2;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yenilikçi ve Girişimci Kariyerler") {
-          return kariyer_secim_25_plus_s7_eng_retail_7_2;
+          return kariyer_secim_25_plus_s7_retail_7_2;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Öğretim ve Mentorluk Kariyerleri") {
-          return kariyer_secim_25_plus_s7_eng_retail_8_2;
+          return kariyer_secim_25_plus_s7_retail_8_2;
         } if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Analitik ve Veri Odaklı Kariyerler") {
-          return kariyer_secim_25_plus_s7_eng_retail_9_2;
+          return kariyer_secim_25_plus_s7_retail_9_2;
         }
       } else if (type == "s7_retail_x_3") {
         if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yaratıcı ve Sanatsal Kariyerler") {
-          return kariyer_secim_25_plus_s7_eng_retail_1_3;
+          return kariyer_secim_25_plus_s7_retail_1_3;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Liderlik ve Yönetim Kariyerleri") {
-          return kariyer_secim_25_plus_s7_eng_retail_2_3;
+          return kariyer_secim_25_plus_s7_retail_2_3;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yardım ve Sosyal Kariyerler") {
-          return kariyer_secim_25_plus_s7_eng_retail_3_3;
+          return kariyer_secim_25_plus_s7_retail_3_3;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Teknik ve Mühendislik Kariyerleri") {
-          return kariyer_secim_25_plus_s7_eng_retail_4_3;
+          return kariyer_secim_25_plus_s7_retail_4_3;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Satış ve İlişki Kurma Kariyerleri") {
-          return kariyer_secim_25_plus_s7_eng_retail_5_3;
+          return kariyer_secim_25_plus_s7_retail_5_3;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Organizasyonel ve İdari Kariyerler") {
-          return kariyer_secim_25_plus_s7_eng_retail_6_3;
+          return kariyer_secim_25_plus_s7_retail_6_3;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yenilikçi ve Girişimci Kariyerler") {
-          return kariyer_secim_25_plus_s7_eng_retail_7_3;
+          return kariyer_secim_25_plus_s7_retail_7_3;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Öğretim ve Mentorluk Kariyerleri") {
-          return kariyer_secim_25_plus_s7_eng_retail_8_3;
+          return kariyer_secim_25_plus_s7_retail_8_3;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Analitik ve Veri Odaklı Kariyerler") {
-          return kariyer_secim_25_plus_s7_eng_retail_9_3;
+          return kariyer_secim_25_plus_s7_retail_9_3;
         }
       } else if (type == "s7_retail_x_4") {
         if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yaratıcı ve Sanatsal Kariyerler") {
-          return kariyer_secim_25_plus_s7_eng_retail_1_4;
+          return kariyer_secim_25_plus_s7_retail_1_4;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Liderlik ve Yönetim Kariyerleri") {
-          return kariyer_secim_25_plus_s7_eng_retail_2_4;
+          return kariyer_secim_25_plus_s7_retail_2_4;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yardım ve Sosyal Kariyerler") {
-          return kariyer_secim_25_plus_s7_eng_retail_3_4;
+          return kariyer_secim_25_plus_s7_retail_3_4;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Teknik ve Mühendislik Kariyerleri") {
-          return kariyer_secim_25_plus_s7_eng_retail_4_4;
+          return kariyer_secim_25_plus_s7_retail_4_4;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Satış ve İlişki Kurma Kariyerleri") {
-          return kariyer_secim_25_plus_s7_eng_retail_5_4;
+          return kariyer_secim_25_plus_s7_retail_5_4;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Organizasyonel ve İdari Kariyerler") {
-          return kariyer_secim_25_plus_s7_eng_retail_6_4;
+          return kariyer_secim_25_plus_s7_retail_6_4;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yenilikçi ve Girişimci Kariyerler") {
-          return kariyer_secim_25_plus_s7_eng_retail_7_4;
+          return kariyer_secim_25_plus_s7_retail_7_4;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Öğretim ve Mentorluk Kariyerleri") {
-          return kariyer_secim_25_plus_s7_eng_retail_8_4;
+          return kariyer_secim_25_plus_s7_retail_8_4;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Analitik ve Veri Odaklı Kariyerler") {
-          return kariyer_secim_25_plus_s7_eng_retail_9_4;
+          return kariyer_secim_25_plus_s7_retail_9_4;
         }
       } else if (type == "s7_retail_x_5") {
         if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yaratıcı ve Sanatsal Kariyerler") {
-          return kariyer_secim_25_plus_s7_eng_retail_1_5;
+          return kariyer_secim_25_plus_s7_retail_1_5;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Liderlik ve Yönetim Kariyerleri") {
-          return kariyer_secim_25_plus_s7_eng_retail_2_5;
+          return kariyer_secim_25_plus_s7_retail_2_5;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yardım ve Sosyal Kariyerler") {
-          return kariyer_secim_25_plus_s7_eng_retail_3_5;
+          return kariyer_secim_25_plus_s7_retail_3_5;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Teknik ve Mühendislik Kariyerleri") {
-          return kariyer_secim_25_plus_s7_eng_retail_4_5;
+          return kariyer_secim_25_plus_s7_retail_4_5;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Satış ve İlişki Kurma Kariyerleri") {
-          return kariyer_secim_25_plus_s7_eng_retail_5_5;
+          return kariyer_secim_25_plus_s7_retail_5_5;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Organizasyonel ve İdari Kariyerler") {
-          return kariyer_secim_25_plus_s7_eng_retail_6_5;
+          return kariyer_secim_25_plus_s7_retail_6_5;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yenilikçi ve Girişimci Kariyerler") {
-          return kariyer_secim_25_plus_s7_eng_retail_7_5;
+          return kariyer_secim_25_plus_s7_retail_7_5;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Öğretim ve Mentorluk Kariyerleri") {
-          return kariyer_secim_25_plus_s7_eng_retail_8_5;
+          return kariyer_secim_25_plus_s7_retail_8_5;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Analitik ve Veri Odaklı Kariyerler") {
-          return kariyer_secim_25_plus_s7_eng_retail_9_5;
+          return kariyer_secim_25_plus_s7_retail_9_5;
         }
       } else if (type == "s7_retail_x_6") {
         if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yaratıcı ve Sanatsal Kariyerler") {
           return kariyer_secim_25_plus_s7_retail_1_6;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Liderlik ve Yönetim Kariyerleri") {
-          return kariyer_secim_25_plus_s7_eng_retail_2_6;
+          return kariyer_secim_25_plus_s7_retail_2_6;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yardım ve Sosyal Kariyerler") {
-          return kariyer_secim_25_plus_s7_eng_etail_3_6;
+          return kariyer_secim_25_plus_s7_retail_3_6;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Teknik ve Mühendislik Kariyerleri") {
-          return kariyer_secim_25_plus_s7_eng_retail_4_6;
+          return kariyer_secim_25_plus_s7_retail_4_6;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Satış ve İlişki Kurma Kariyerleri") {
-          return kariyer_secim_25_plus_s7_eng_retail_5_6;
+          return kariyer_secim_25_plus_s7_retail_5_6;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Organizasyonel ve İdari Kariyerler") {
-          return kariyer_secim_25_plus_s7_eng_retail_6_6;
+          return kariyer_secim_25_plus_s7_retail_6_6;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yenilikçi ve Girişimci Kariyerler") {
-          return kariyer_secim_25_plus_s7_eng_retail_7_6;
+          return kariyer_secim_25_plus_s7_retail_7_6;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Öğretim ve Mentorluk Kariyerleri") {
-          return kariyer_secim_25_plus_s7_eng_retail_8_6;
+          return kariyer_secim_25_plus_s7_retail_8_6;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Analitik ve Veri Odaklı Kariyerler") {
-          return kariyer_secim_25_plus_s7_eng_retail_9_6;
+          return kariyer_secim_25_plus_s7_retail_9_6;
         }
       } else if (type == "s7_retail_x_7") {
         if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yaratıcı ve Sanatsal Kariyerler") {
-          return kariyer_secim_25_plus_s7_eng_retail_1_7;
+          return kariyer_secim_25_plus_s7_retail_1_7;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Liderlik ve Yönetim Kariyerleri") {
-          return kariyer_secim_25_plus_s7_eng_retail_2_7;
+          return kariyer_secim_25_plus_s7_retail_2_7;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yardım ve Sosyal Kariyerler") {
-          return kariyer_secim_25_plus_s7_eng_retail_3_7;
+          return kariyer_secim_25_plus_s7_retail_3_7;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Teknik ve Mühendislik Kariyerleri") {
-          return kariyer_secim_25_plus_s7_eng_retail_4_7;
+          return kariyer_secim_25_plus_s7_retail_4_7;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Satış ve İlişki Kurma Kariyerleri") {
-          return kariyer_secim_25_plus_s7_eng_retail_5_7;
+          return kariyer_secim_25_plus_s7_retail_5_7;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Organizasyonel ve İdari Kariyerler") {
-          return kariyer_secim_25_plus_s7_eng_retail_6_7;
+          return kariyer_secim_25_plus_s7_retail_6_7;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yenilikçi ve Girişimci Kariyerler") {
-          return kariyer_secim_25_plus_s7_eng_retail_7_7;
+          return kariyer_secim_25_plus_s7_retail_7_7;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Öğretim ve Mentorluk Kariyerleri") {
-          return kariyer_secim_25_plus_s7_eng_retail_8_7;
+          return kariyer_secim_25_plus_s7_retail_8_7;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Analitik ve Veri Odaklı Kariyerler") {
-          return kariyer_secim_25_plus_s7_eng_retail_9_7;
+          return kariyer_secim_25_plus_s7_retail_9_7;
         }
       } else if (type == "s7_health_x_1") {
         if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yaratıcı ve Sanatsal Kariyerler") {
-          return kariyer_secim_25_plus_s7_eng_health_1_1;
+          return kariyer_secim_25_plus_s7_health_1_1;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Liderlik ve Yönetim Kariyerleri") {
-          return kariyer_secim_25_plus_s7_eng_health_2_1;
+          return kariyer_secim_25_plus_s7_health_2_1;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yardım ve Sosyal Kariyerler") {
-          return kariyer_secim_25_plus_s7_eng_health_3_1;
+          return kariyer_secim_25_plus_s7_health_3_1;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Teknik ve Mühendislik Kariyerleri") {
-          return kariyer_secim_25_plus_s7_eng_health_4_1;
+          return kariyer_secim_25_plus_s7_health_4_1;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Satış ve İlişki Kurma Kariyerleri") {
-          return kariyer_secim_25_plus_s7_eng_health_5_1;
+          return kariyer_secim_25_plus_s7_health_5_1;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Organizasyonel ve İdari Kariyerler") {
-          return kariyer_secim_25_plus_s7_eng_health_6_1;
+          return kariyer_secim_25_plus_s7_health_6_1;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yenilikçi ve Girişimci Kariyerler") {
-          return kariyer_secim_25_plus_s7_eng_health_7_1;
+          return kariyer_secim_25_plus_s7_health_7_1;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Öğretim ve Mentorluk Kariyerleri") {
-          return kariyer_secim_25_plus_s7_eng_health_8_1;
+          return kariyer_secim_25_plus_s7_health_8_1;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Analitik ve Veri Odaklı Kariyerler") {
-          return kariyer_secim_25_plus_s7_eng_health_9_1;
+          return kariyer_secim_25_plus_s7_health_9_1;
         }
       } else if (type == "s7_health_x_2") {
         if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yaratıcı ve Sanatsal Kariyerler") {
-          return kariyer_secim_25_plus_s7_eng_health_1_2;
+          return kariyer_secim_25_plus_s7_health_1_2;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Liderlik ve Yönetim Kariyerleri") {
-          return kariyer_secim_25_plus_s7_eng_health_2_2;
+          return kariyer_secim_25_plus_s7_health_2_2;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yardım ve Sosyal Kariyerler") {
-          return kariyer_secim_25_plus_s7_eng_health_3_2;
+          return kariyer_secim_25_plus_s7_health_3_2;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Teknik ve Mühendislik Kariyerleri") {
-          return kariyer_secim_25_plus_s7_eng_health_4_2;
+          return kariyer_secim_25_plus_s7_health_4_2;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Satış ve İlişki Kurma Kariyerleri") {
-          return kariyer_secim_25_plus_s7_eng_health_5_2;
+          return kariyer_secim_25_plus_s7_health_5_2;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Organizasyonel ve İdari Kariyerler") {
-          return kariyer_secim_25_plus_s7_eng_health_6_2;
+          return kariyer_secim_25_plus_s7_health_6_2;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yenilikçi ve Girişimci Kariyerler") {
-          return kariyer_secim_25_plus_s7_eng_health_7_2;
+          return kariyer_secim_25_plus_s7_health_7_2;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Öğretim ve Mentorluk Kariyerleri") {
-          return kariyer_secim_25_plus_s7_eng_health_8_2;
+          return kariyer_secim_25_plus_s7_health_8_2;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Analitik ve Veri Odaklı Kariyerler") {
-          return kariyer_secim_25_plus_s7_eng_health_9_2;
+          return kariyer_secim_25_plus_s7_health_9_2;
         }
       } else if (type == "s7_health_x_3") {
         if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yaratıcı ve Sanatsal Kariyerler") {
-          return kariyer_secim_25_plus_s7_eng_health_1_3;
+          return kariyer_secim_25_plus_s7_health_1_3;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Liderlik ve Yönetim Kariyerleri") {
-          return kariyer_secim_25_plus_s7_eng_health_2_3;
+          return kariyer_secim_25_plus_s7_health_2_3;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yardım ve Sosyal Kariyerler") {
-          return kariyer_secim_25_plus_s7_eng_health_3_3;
+          return kariyer_secim_25_plus_s7_health_3_3;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Teknik ve Mühendislik Kariyerleri") {
-          return kariyer_secim_25_plus_s7_eng_health_4_3;
+          return kariyer_secim_25_plus_s7_health_4_3;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Satış ve İlişki Kurma Kariyerleri") {
-          return kariyer_secim_25_plus_s7_eng_health_5_3;
+          return kariyer_secim_25_plus_s7_health_5_3;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Organizasyonel ve İdari Kariyerler") {
-          return kariyer_secim_25_plus_s7_eng_health_6_3;
+          return kariyer_secim_25_plus_s7_health_6_3;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yenilikçi ve Girişimci Kariyerler") {
-          return kariyer_secim_25_plus_s7_eng_health_7_3;
+          return kariyer_secim_25_plus_s7_health_7_3;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Öğretim ve Mentorluk Kariyerleri") {
-          return kariyer_secim_25_plus_s7_eng_health_8_3;
+          return kariyer_secim_25_plus_s7_health_8_3;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Analitik ve Veri Odaklı Kariyerler") {
-          return kariyer_secim_25_plus_s7_eng_health_9_3;
+          return kariyer_secim_25_plus_s7_health_9_3;
         }
       } else if (type == "s7_health_x_4") {
         if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yaratıcı ve Sanatsal Kariyerler") {
-          return kariyer_secim_25_plus_s7_eng_health_1_4;
+          return kariyer_secim_25_plus_s7_health_1_4;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Liderlik ve Yönetim Kariyerleri") {
-          return kariyer_secim_25_plus_s7_eng_health_2_4;
+          return kariyer_secim_25_plus_s7_health_2_4;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yardım ve Sosyal Kariyerler") {
-          return kariyer_secim_25_plus_s7_eng_health_3_4;
+          return kariyer_secim_25_plus_s7_health_3_4;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Teknik ve Mühendislik Kariyerleri") {
-          return kariyer_secim_25_plus_s7_eng_health_4_4;
+          return kariyer_secim_25_plus_s7_health_4_4;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Satış ve İlişki Kurma Kariyerleri") {
-          return kariyer_secim_25_plus_s7_eng_health_5_4;
+          return kariyer_secim_25_plus_s7_health_5_4;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Organizasyonel ve İdari Kariyerler") {
-          return kariyer_secim_25_plus_s7_eng_health_6_4;
+          return kariyer_secim_25_plus_s7_health_6_4;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yenilikçi ve Girişimci Kariyerler") {
-          return kariyer_secim_25_plus_s7_eng_health_7_4;
+          return kariyer_secim_25_plus_s7_health_7_4;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Öğretim ve Mentorluk Kariyerleri") {
-          return kariyer_secim_25_plus_s7_eng_health_8_4;
+          return kariyer_secim_25_plus_s7_health_8_4;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Analitik ve Veri Odaklı Kariyerler") {
-          return kariyer_secim_25_plus_s7_eng_health_9_4;
+          return kariyer_secim_25_plus_s7_health_9_4;
         }
       } else if (type == "s7_health_x_5") {
         if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Analitik ve Veri Odaklı Kariyerler") {
-          return kariyer_secim_25_plus_s7_eng_health_1_5;
+          return kariyer_secim_25_plus_s7_health_1_5;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yaratıcı ve Sanatsal Kariyerler") {
-          return kariyer_secim_25_plus_s7_eng_health_2_5;
+          return kariyer_secim_25_plus_s7_health_2_5;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Liderlik ve Yönetim Kariyerleri") {
-          return kariyer_secim_25_plus_s7_eng_health_3_5;
+          return kariyer_secim_25_plus_s7_health_3_5;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yardım ve Sosyal Kariyerler") {
-          return kariyer_secim_25_plus_s7_eng_health_4_5;
+          return kariyer_secim_25_plus_s7_health_4_5;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Teknik ve Mühendislik Kariyerleri") {
-          return kariyer_secim_25_plus_s7_eng_health_5_5;
+          return kariyer_secim_25_plus_s7_health_5_5;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Satış ve İlişki Kurma Kariyerleri") {
-          return kariyer_secim_25_plus_s7_eng_health_6_5;
+          return kariyer_secim_25_plus_s7_health_6_5;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Organizasyonel ve İdari Kariyerler") {
-          return kariyer_secim_25_plus_s7_eng_health_7_5;
+          return kariyer_secim_25_plus_s7_health_7_5;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yenilikçi ve Girişimci Kariyerler") {
-          return kariyer_secim_25_plus_s7_eng_health_8_5;
+          return kariyer_secim_25_plus_s7_health_8_5;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Öğretim ve Mentorluk Kariyerleri") {
-          return kariyer_secim_25_plus_s7_eng_health_9_5;
+          return kariyer_secim_25_plus_s7_health_9_5;
         }
       } else if (type == "s7_health_x_6") {
         if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yaratıcı ve Sanatsal Kariyerler") {
-          return kariyer_secim_25_plus_s7_eng_health_1_6;
+          return kariyer_secim_25_plus_s7_health_1_6;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Liderlik ve Yönetim Kariyerleri") {
-          return kariyer_secim_25_plus_s7_eng_health_2_6;
+          return kariyer_secim_25_plus_s7_health_2_6;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yardım ve Sosyal Kariyerler") {
-          return kariyer_secim_25_plus_s7_eng_health_3_6;
+          return kariyer_secim_25_plus_s7_health_3_6;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Teknik ve Mühendislik Kariyerleri") {
-          return kariyer_secim_25_plus_s7_eng_health_4_6;
+          return kariyer_secim_25_plus_s7_health_4_6;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Satış ve İlişki Kurma Kariyerleri") {
-          return kariyer_secim_25_plus_s7_eng_health_5_6;
+          return kariyer_secim_25_plus_s7_health_5_6;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Organizasyonel ve İdari Kariyerler") {
-          return kariyer_secim_25_plus_s7_eng_health_6_6;
+          return kariyer_secim_25_plus_s7_health_6_6;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yenilikçi ve Girişimci Kariyerler") {
-          return kariyer_secim_25_plus_s7_eng_health_7_6;
+          return kariyer_secim_25_plus_s7_health_7_6;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Öğretim ve Mentorluk Kariyerleri") {
-          return kariyer_secim_25_plus_s7_eng_health_8_6;
+          return kariyer_secim_25_plus_s7_health_8_6;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Analitik ve Veri Odaklı Kariyerler") {
-          return kariyer_secim_25_plus_s7_eng_health_9_6;
+          return kariyer_secim_25_plus_s7_health_9_6;
         }
       } else if (type == "s7_health_x_7") {
         if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yaratıcı ve Sanatsal Kariyerler") {
-          return kariyer_secim_25_plus_s7_eng_health_1_7;
+          return kariyer_secim_25_plus_s7_health_1_7;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Liderlik ve Yönetim Kariyerleri") {
-          return kariyer_secim_25_plus_s7_eng_health_2_7;
+          return kariyer_secim_25_plus_s7_health_2_7;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yardım ve Sosyal Kariyerler") {
-          return kariyer_secim_25_plus_s7_eng_health_3_7;
+          return kariyer_secim_25_plus_s7_health_3_7;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Teknik ve Mühendislik Kariyerleri") {
-          return kariyer_secim_25_plus_s7_eng_health_4_7;
+          return kariyer_secim_25_plus_s7_health_4_7;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Satış ve İlişki Kurma Kariyerleri") {
-          return kariyer_secim_25_plus_s7_eng_health_5_7;
+          return kariyer_secim_25_plus_s7_health_5_7;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Organizasyonel ve İdari Kariyerler") {
-          return kariyer_secim_25_plus_s7_eng_health_6_7;
+          return kariyer_secim_25_plus_s7_health_6_7;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yenilikçi ve Girişimci Kariyerler") {
-          return kariyer_secim_25_plus_s7_eng_health_7_7;
+          return kariyer_secim_25_plus_s7_health_7_7;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Öğretim ve Mentorluk Kariyerleri") {
-          return kariyer_secim_25_plus_s7_eng_health_8_7;
+          return kariyer_secim_25_plus_s7_health_8_7;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Analitik ve Veri Odaklı Kariyerler") {
-          return kariyer_secim_25_plus_s7_eng_health_9_7;
+          return kariyer_secim_25_plus_s7_health_9_7;
         }
       } else if (type == "s7_tech_x_1") {
         if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yaratıcı ve Sanatsal Kariyerler") {
-          return kariyer_secim_25_plus_s7_eng_tech_1_1;
+          return kariyer_secim_25_plus_s7_tech_1_1;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Liderlik ve Yönetim Kariyerleri") {
-          return kariyer_secim_25_plus_s7_eng_tech_2_1;
+          return kariyer_secim_25_plus_s7_tech_2_1;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yardım ve Sosyal Kariyerler") {
-          return kariyer_secim_25_plus_s7_eng_tech_3_1;
+          return kariyer_secim_25_plus_s7_tech_3_1;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Teknik ve Mühendislik Kariyerleri") {
-          return kariyer_secim_25_plus_s7_eng_tech_4_1;
+          return kariyer_secim_25_plus_s7_tech_4_1;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Satış ve İlişki Kurma Kariyerleri") {
-          return kariyer_secim_25_plus_s7_eng_tech_5_1;
+          return kariyer_secim_25_plus_s7_tech_5_1;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Organizasyonel ve İdari Kariyerler") {
-          return kariyer_secim_25_plus_s7_eng_tech_6_1;
+          return kariyer_secim_25_plus_s7_tech_6_1;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yenilikçi ve Girişimci Kariyerler") {
-          return kariyer_secim_25_plus_s7_eng_tech_7_1;
+          return kariyer_secim_25_plus_s7_tech_7_1;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Öğretim ve Mentorluk Kariyerleri") {
-          return kariyer_secim_25_plus_s7_eng_tech_8_1;
+          return kariyer_secim_25_plus_s7_tech_8_1;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Analitik ve Veri Odaklı Kariyerler") {
-          return kariyer_secim_25_plus_s7_eng_tech_9_1;
+          return kariyer_secim_25_plus_s7_tech_9_1;
         }
       } else if (type == "s7_tech_x_2") {
         if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yaratıcı ve Sanatsal Kariyerler") {
-          return kariyer_secim_25_plus_s7_eng_tech_1_2;
+          return kariyer_secim_25_plus_s7_tech_1_2;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Liderlik ve Yönetim Kariyerleri") {
-          return kariyer_secim_25_plus_s7_eng_tech_2_2;
+          return kariyer_secim_25_plus_s7_tech_2_2;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yardım ve Sosyal Kariyerler") {
-          return kariyer_secim_25_plus_s7_eng_tech_3_2;
+          return kariyer_secim_25_plus_s7_tech_3_2;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Teknik ve Mühendislik Kariyerleri") {
-          return kariyer_secim_25_plus_s7_eng_tech_4_2;
+          return kariyer_secim_25_plus_s7_tech_4_2;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Satış ve İlişki Kurma Kariyerleri") {
-          return kariyer_secim_25_plus_s7_eng_tech_5_2;
+          return kariyer_secim_25_plus_s7_tech_5_2;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Organizasyonel ve İdari Kariyerler") {
-          return kariyer_secim_25_plus_s7_eng_tech_6_2;
+          return kariyer_secim_25_plus_s7_tech_6_2;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yenilikçi ve Girişimci Kariyerler") {
-          return kariyer_secim_25_plus_s7_eng_tech_7_2;
+          return kariyer_secim_25_plus_s7_tech_7_2;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Öğretim ve Mentorluk Kariyerleri") {
-          return kariyer_secim_25_plus_s7_eng_tech_8_2;
+          return kariyer_secim_25_plus_s7_tech_8_2;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Analitik ve Veri Odaklı Kariyerler") {
-          return kariyer_secim_25_plus_s7_eng_tech_9_2;
+          return kariyer_secim_25_plus_s7_tech_9_2;
         }
       } else if (type == "s7_tech_x_3") {
         if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yaratıcı ve Sanatsal Kariyerler") {
-          return kariyer_secim_25_plus_s7_eng_tech_1_3;
+          return kariyer_secim_25_plus_s7_tech_1_3;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Liderlik ve Yönetim Kariyerleri") {
-          return kariyer_secim_25_plus_s7_eng_tech_2_3;
+          return kariyer_secim_25_plus_s7_tech_2_3;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yardım ve Sosyal Kariyerler") {
-          return kariyer_secim_25_plus_s7_eng_tech_3_3;
+          return kariyer_secim_25_plus_s7_tech_3_3;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Teknik ve Mühendislik Kariyerleri") {
-          return kariyer_secim_25_plus_s7_eng_tech_4_3;
+          return kariyer_secim_25_plus_s7_tech_4_3;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Satış ve İlişki Kurma Kariyerleri") {
-          return kariyer_secim_25_plus_s7_eng_tech_5_3;
+          return kariyer_secim_25_plus_s7_tech_5_3;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Organizasyonel ve İdari Kariyerler") {
-          return kariyer_secim_25_plus_s7_eng_tech_6_3;
+          return kariyer_secim_25_plus_s7_tech_6_3;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yenilikçi ve Girişimci Kariyerler") {
-          return kariyer_secim_25_plus_s7_eng_tech_7_3;
+          return kariyer_secim_25_plus_s7_tech_7_3;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Öğretim ve Mentorluk Kariyerleri") {
-          return kariyer_secim_25_plus_s7_eng_tech_8_3;
+          return kariyer_secim_25_plus_s7_tech_8_3;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Analitik ve Veri Odaklı Kariyerler") {
-          return kariyer_secim_25_plus_s7_eng_tech_9_3;
+          return kariyer_secim_25_plus_s7_tech_9_3;
         }
       } else if (type == "s7_tech_x_4") {
         if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yaratıcı ve Sanatsal Kariyerler") {
-          return kariyer_secim_25_plus_s7_eng_tech_1_4;
+          return kariyer_secim_25_plus_s7_tech_1_4;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Liderlik ve Yönetim Kariyerleri") {
-          return kariyer_secim_25_plus_s7_eng_tech_2_4;
+          return kariyer_secim_25_plus_s7_tech_2_4;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yardım ve Sosyal Kariyerler") {
-          return kariyer_secim_25_plus_s7_eng_tech_3_4;
+          return kariyer_secim_25_plus_s7_tech_3_4;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Teknik ve Mühendislik Kariyerleri") {
-          return kariyer_secim_25_plus_s7_eng_tech_4_4;
+          return kariyer_secim_25_plus_s7_tech_4_4;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Satış ve İlişki Kurma Kariyerleri") {
-          return kariyer_secim_25_plus_s7_eng_tech_5_4;
+          return kariyer_secim_25_plus_s7_tech_5_4;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Organizasyonel ve İdari Kariyerler") {
-          return kariyer_secim_25_plus_s7_eng_tech_6_4;
+          return kariyer_secim_25_plus_s7_tech_6_4;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yenilikçi ve Girişimci Kariyerler") {
-          return kariyer_secim_25_plus_s7_eng_tech_7_4;
+          return kariyer_secim_25_plus_s7_tech_7_4;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Öğretim ve Mentorluk Kariyerleri") {
-          return kariyer_secim_25_plus_s7_eng_tech_8_4;
+          return kariyer_secim_25_plus_s7_tech_8_4;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Analitik ve Veri Odaklı Kariyerler") {
-          return kariyer_secim_25_plus_s7_eng_tech_9_4;
+          return kariyer_secim_25_plus_s7_tech_9_4;
         }
       } else if (type == "s7_tech_x_5") {
         if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yaratıcı ve Sanatsal Kariyerler") {
-          return kariyer_secim_25_plus_s7_eng_tech_1_5;
+          return kariyer_secim_25_plus_s7_tech_1_5;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Liderlik ve Yönetim Kariyerleri") {
-          return kariyer_secim_25_plus_s7_eng_tech_2_5;
+          return kariyer_secim_25_plus_s7_tech_2_5;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yardım ve Sosyal Kariyerler") {
-          return kariyer_secim_25_plus_s7_eng_tech_3_5;
+          return kariyer_secim_25_plus_s7_tech_3_5;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Teknik ve Mühendislik Kariyerleri") {
-          return kariyer_secim_25_plus_s7_eng_tech_4_5;
+          return kariyer_secim_25_plus_s7_tech_4_5;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Satış ve İlişki Kurma Kariyerleri") {
-          return kariyer_secim_25_plus_s7_eng_tech_5_5;
+          return kariyer_secim_25_plus_s7_tech_5_5;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Organizasyonel ve İdari Kariyerler") {
-          return kariyer_secim_25_plus_s7_eng_tech_6_5;
+          return kariyer_secim_25_plus_s7_tech_6_5;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yenilikçi ve Girişimci Kariyerler") {
-          return kariyer_secim_25_plus_s7_eng_tech_7_5;
+          return kariyer_secim_25_plus_s7_tech_7_5;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Öğretim ve Mentorluk Kariyerleri") {
-          return kariyer_secim_25_plus_s7_eng_tech_8_5;
+          return kariyer_secim_25_plus_s7_tech_8_5;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Analitik ve Veri Odaklı Kariyerler") {
-          return kariyer_secim_25_plus_s7_eng_tech_9_5;
+          return kariyer_secim_25_plus_s7_tech_9_5;
         }
       } else if (type == "s7_tech_x_6") {
         if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yaratıcı ve Sanatsal Kariyerler") {
-          return kariyer_secim_25_plus_s7_eng_tech_1_6;
+          return kariyer_secim_25_plus_s7_tech_1_6;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Liderlik ve Yönetim Kariyerleri") {
-          return kariyer_secim_25_plus_s7_eng_tech_2_6;
+          return kariyer_secim_25_plus_s7_tech_2_6;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yardım ve Sosyal Kariyerler") {
-          return kariyer_secim_25_plus_s7_eng_tech_3_6;
+          return kariyer_secim_25_plus_s7_tech_3_6;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Teknik ve Mühendislik Kariyerleri") {
-          return kariyer_secim_25_plus_s7_eng_tech_4_6;
+          return kariyer_secim_25_plus_s7_tech_4_6;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Satış ve İlişki Kurma Kariyerleri") {
-          return kariyer_secim_25_plus_s7_eng_tech_5_6;
+          return kariyer_secim_25_plus_s7_tech_5_6;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Organizasyonel ve İdari Kariyerler") {
-          return kariyer_secim_25_plus_s7_eng_tech_6_6;
+          return kariyer_secim_25_plus_s7_tech_6_6;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yenilikçi ve Girişimci Kariyerler") {
-          return kariyer_secim_25_plus_s7_eng_tech_7_6;
+          return kariyer_secim_25_plus_s7_tech_7_6;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Öğretim ve Mentorluk Kariyerleri") {
-          return kariyer_secim_25_plus_s7_eng_tech_8_6;
+          return kariyer_secim_25_plus_s7_tech_8_6;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Analitik ve Veri Odaklı Kariyerler") {
-          return kariyer_secim_25_plus_s7_eng_tech_9_6;
+          return kariyer_secim_25_plus_s7_tech_9_6;
         }
       } else if (type == "s7_tech_x_7") {
         if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yaratıcı ve Sanatsal Kariyerler") {
-          return kariyer_secim_25_plus_s7_eng_tech_1_7;
+          return kariyer_secim_25_plus_s7_tech_1_7;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Liderlik ve Yönetim Kariyerleri") {
-          return kariyer_secim_25_plus_s7_eng_tech_2_7;
+          return kariyer_secim_25_plus_s7_tech_2_7;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yardım ve Sosyal Kariyerler") {
-          return kariyer_secim_25_plus_s7_eng_tech_3_7;
+          return kariyer_secim_25_plus_s7_tech_3_7;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Teknik ve Mühendislik Kariyerleri") {
-          return kariyer_secim_25_plus_s7_eng_tech_4_7;
+          return kariyer_secim_25_plus_s7_tech_4_7;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Satış ve İlişki Kurma Kariyerleri") {
-          return kariyer_secim_25_plus_s7_eng_tech_5_7;
+          return kariyer_secim_25_plus_s7_tech_5_7;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Organizasyonel ve İdari Kariyerler") {
-          return kariyer_secim_25_plus_s7_eng_tech_6_7;
+          return kariyer_secim_25_plus_s7_tech_6_7;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yenilikçi ve Girişimci Kariyerler") {
-          return kariyer_secim_25_plus_s7_eng_tech_7_7;
+          return kariyer_secim_25_plus_s7_tech_7_7;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Öğretim ve Mentorluk Kariyerleri") {
-          return kariyer_secim_25_plus_s7_eng_tech_8_7;
+          return kariyer_secim_25_plus_s7_tech_8_7;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Analitik ve Veri Odaklı Kariyerler") {
-          return kariyer_secim_25_plus_s7_eng_tech_9_7;
+          return kariyer_secim_25_plus_s7_tech_9_7;
         }
-      } else if (type == "s7_dress_x_1") { // buradan devam et
+      } else if (type == "s7_dress_x_1") {
         if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yaratıcı ve Sanatsal Kariyerler") {
           return kariyer_secim_25_plus_s7_dress_1_1;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Liderlik ve Yönetim Kariyerleri") {
@@ -7213,46 +7213,6 @@ var decision_strategy_eng_s4_11_txt = "By adhering to this decision-making strat
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Analitik ve Veri Odaklı Kariyerler") {
           return kariyer_secim_25_plus_s7_meal_9_7;
         }
-      } else if (type == "ozet_1") {
-        if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yaratıcı ve Sanatsal Kariyerler") {
-          return kariyer_secim_ozet_1_1;
-        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Liderlik ve Yönetim Kariyerleri") {
-          return kariyer_secim_ozet_2_1;
-        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yardım ve Sosyal Kariyerler") {
-          return kariyer_secim_ozet_3_1;
-        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Teknik ve Mühendislik Kariyerleri") {
-          return kariyer_secim_ozet_4_1;
-        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Satış ve İlişki Kurma Kariyerleri") {
-          return kariyer_secim_ozet_5_1;
-        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Organizasyonel ve İdari Kariyerler") {
-          return kariyer_secim_ozet_6_1;
-        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yenilikçi ve Girişimci Kariyerler") {
-          return kariyer_secim_ozet_7_1;
-        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Öğretim ve Mentorluk Kariyerleri") {
-          return kariyer_secim_ozet_8_1;
-        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Analitik ve Veri Odaklı Kariyerler") {
-          return kariyer_secim_ozet_9_1;
-        }
-      } else if (type == "ozet_2") {
-        if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yaratıcı ve Sanatsal Kariyerler") {
-          return kariyer_secim_ozet_1_2;
-        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Liderlik ve Yönetim Kariyerleri") {
-          return kariyer_secim_ozet_2_2;
-        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yardım ve Sosyal Kariyerler") {
-          return kariyer_secim_ozet_3_2;
-        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Teknik ve Mühendislik Kariyerleri") {
-          return kariyer_secim_ozet_4_2;
-        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Satış ve İlişki Kurma Kariyerleri") {
-          return kariyer_secim_ozet_5_2;
-        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Organizasyonel ve İdari Kariyerler") {
-          return kariyer_secim_ozet_6_2;
-        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yenilikçi ve Girişimci Kariyerler") {
-          return kariyer_secim_ozet_7_2;
-        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Öğretim ve Mentorluk Kariyerleri") {
-          return kariyer_secim_ozet_8_2;
-        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Analitik ve Veri Odaklı Kariyerler") {
-          return kariyer_secim_ozet_9_2;
-        }
       }
     } else if (lang == "En") {
       if (type == "name") {
@@ -7288,8 +7248,6 @@ var decision_strategy_eng_s4_11_txt = "By adhering to this decision-making strat
           return "Sağlık ve İlaç";
         } else if (kariyer_secimData == "meal") {
           return "Mutfak Sanatları";
-        } else {
-          return "Diğer";
         }
       } else if (type == "s2_x_2") {
         if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yaratıcı ve Sanatsal Kariyerler") {
@@ -7350,26 +7308,6 @@ var decision_strategy_eng_s4_11_txt = "By adhering to this decision-making strat
           return kariyer_secim_eng_s4_8_1;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Analitik ve Veri Odaklı Kariyerler") {
           return kariyer_secim_eng_s4_9_1;
-        }
-      } else if (type == "s7_x") {
-        if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yaratıcı ve Sanatsal Kariyerler") {
-          return kariyer_secim_25_40_s2_1_1;
-        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yardım ve Sosyal Kariyerler") {
-          return kariyer_secim_25_40_s2_2_1;
-        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Liderlik ve Yönetim Kariyerleri") {
-          return kariyer_secim_25_40_s2_3_1;
-        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Teknik ve Mühendislik Kariyerleri") {
-          return kariyer_secim_25_40_s2_4_1;
-        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Satış ve İlişki Kurma Kariyerleri") {
-          return kariyer_secim_25_40_s2_5_1;
-        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Organizasyonel ve İdari Kariyerler") {
-          return kariyer_secim_25_40_s2_6_1;
-        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yenilikçi ve Girişimci Kariyerler") {
-          return kariyer_secim_25_40_s2_7_1;
-        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Öğretim ve Mentorluk Kariyerleri") {
-          return kariyer_secim_25_40_s2_8_1;
-        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Analitik ve Veri Odaklı Kariyerler") {
-          return kariyer_secim_25_40_s2_9_1;
         }
       } else if (type == "s7_retail_x_1") {
         if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yaratıcı ve Sanatsal Kariyerler") {
@@ -8255,321 +8193,622 @@ var decision_strategy_eng_s4_11_txt = "By adhering to this decision-making strat
     }
   };
 
-  let guclu_yanlarin = (guclu_yanlarinData, age, type) => {
-    if (guclu_yanlarinData.name == "57-10") {
-      if (type == "57-10_1") {
-        return guclu_yanlarin_57_10_1;
-      } else if (type == "57-10_2") {
-        return guclu_yanlarin_57_10_2;
+  let guclu_yanlarin = (guclu_yanlarinData, age, type, lang) => {
+    if (lang == "Tr") {
+      if (guclu_yanlarinData.name == "57-10") {
+        if (type == "57-10_1") {
+          return guclu_yanlarin_57_10_1;
+        } else if (type == "57-10_2") {
+          return guclu_yanlarin_57_10_2;
+        }
+      } else if (guclu_yanlarinData.name == "20-10") {
+        if (type == "20-10_1") {
+          return guclu_yanlarin_20_10_1;
+        } else if (type == "20-10_2") {
+          return guclu_yanlarin_20_10_2;
+        }
+      } else if (guclu_yanlarinData.name == "59-6") {
+        if (type == "59-6_1") {
+          return guclu_yanlarin_59_6_1;
+        } else if (type == "59-6_2") {
+          return guclu_yanlarin_59_6_2;
+        } 
+      } else if (guclu_yanlarinData.name == "63-4") {
+        if (type == "63-4_1") {
+          return guclu_yanlarin_63_4_1;
+        } else if (type == "63-4_2") {
+          return guclu_yanlarin_63_4_2;
+        }
+      } else if (guclu_yanlarinData.name == "21-45") {
+        if (type == "21-45_1") {
+          return guclu_yanlarin_45_21_1;
+        } else if (type == "21-45_2") {
+          return guclu_yanlarin_45_21_2;
+        }
+      } else if (guclu_yanlarinData.name == "3-60") {
+        if (type == "3-60_1") {
+          return guclu_yanlarin_60_3_1;
+        } else if (type == "3-60_2") {
+          return guclu_yanlarin_60_3_2;
+        }
+      } else if (guclu_yanlarinData.name == "15-5") {
+        if (type == "15-5_1") {
+          return guclu_yanlarin_5_15_1;
+        } else if (type == "15-5_2") {
+          return guclu_yanlarin_5_15_2;
+        }
+      } else if (guclu_yanlarinData.name == "64-47") {
+        if (type == "64-47_1") {
+          return guclu_yanlarin_47_64_1;
+        } else if (type == "64-47_2") {
+          return guclu_yanlarin_47_64_2;
+        }
+      } else if (guclu_yanlarinData.name == "27-50") {
+        if (type == "27-50_1") {
+          return guclu_yanlarin_27_50_1;
+        } else if (type == "27-50_2") {
+          return guclu_yanlarin_27_50_2;
+        } else if (type == "27-50_3") {
+        }
+      } else if (guclu_yanlarinData.name == "26-44") {
+        if (type == "26-44_1") {
+          return guclu_yanlarin_26_44_1;
+        } else if (type == "26-44_2") {
+          return guclu_yanlarin_26_44_2;
+        }
+      } else if (guclu_yanlarinData.name == "32-54") {
+        if (type == "32-54_1") {
+          return guclu_yanlarin_54_32_1;
+        } else if (type == "32-54_2") {
+          return guclu_yanlarin_54_32_2;
+        }
+      } else if (guclu_yanlarinData.name == "19-49") {
+        if (type == "19-49_1") {
+          return guclu_yanlarin_49_19_1;
+        } else if (type == "19-49_2") {
+          return guclu_yanlarin_49_19_2;
+        }
+      } else if (guclu_yanlarinData.name == "37-40") {
+        if (type == "37-40_1") {
+          return guclu_yanlarin_37_40_1;
+        } else if (type == "37-40_2") {
+          return guclu_yanlarin_37_40_2;
+        }
+      } else if (guclu_yanlarinData.name == "57-34") {
+        if (type == "57-34_1") {
+          return guclu_yanlarin_34_57_1;
+        } else if (type == "57-34_2") {
+          return guclu_yanlarin_34_57_2;
+        }
+      } else if (guclu_yanlarinData.name == "20-34") {
+        if (type == "20-34_1") {
+          return guclu_yanlarin_20_34_1;
+        } else if (type == "20-34_2") {
+          return guclu_yanlarin_20_34_2;
+        }
+      } else if (guclu_yanlarinData.name == "25-51") {
+        if (type == "25-51_1") {
+          return guclu_yanlarin_51_25_1;
+        } else if (type == "25-51_2") {
+          return guclu_yanlarin_51_25_2;
+        }
+      } else if (guclu_yanlarinData.name == "1-8") {
+        if (type == "1-8_1") {
+          return guclu_yanlarin_8_1_1;
+        } else if (type == "1-8_2") {
+          return guclu_yanlarin_8_1_2;
+        }
+      } else if (guclu_yanlarinData.name == "28-38") {
+        if (type == "28-38_1") {
+          return guclu_yanlarin_28_38_1;
+        } else if (type == "28-38_2") {
+          return guclu_yanlarin_28_38_2;
+        }
+      } else if (guclu_yanlarinData.name == "31-7") {
+        if (type == "31-7_1") {
+          return guclu_yanlarin_31_7_1;
+        } else if (type == "31-7_2") {
+          return guclu_yanlarin_31_7_2;
+        }
+      } else if (guclu_yanlarinData.name == "57-20") {
+        if (type == "57-20_1") {
+          return guclu_yanlarin_57_20_1;
+        } else if (type == "57-20_2") {
+          return guclu_yanlarin_57_20_2;
+        }
+      } else if (guclu_yanlarinData.name == "39-55") {
+        if (type == "39-55_1") {
+          return guclu_yanlarin_39_55_1;
+        } else if (type == "39-55_2") {
+          return guclu_yanlarin_39_55_2;
+        }
+      } else if (guclu_yanlarinData.name == "2-14") {
+        if (type == "2-14_1") {
+          return guclu_yanlarin_2_14_1;
+        } else if (type == "2-14_2") {
+          return guclu_yanlarin_2_14_2;
+        }
+      } else if (guclu_yanlarinData.name == "12-22") {
+        if (type == "12-22_1") {
+          return guclu_yanlarin_12_22_1;
+        } else if (type == "12-22_2") {
+          return guclu_yanlarin_12_22_2;
+        }
+      } else if (guclu_yanlarinData.name == "61-24") {
+        if (type == "61-24_1") {
+          return guclu_yanlarin_61_24_1;
+        } else if (type == "61-24_2") {
+          return guclu_yanlarin_61_24_2;
+        }
+      } else if (guclu_yanlarinData.name == "43-23") {
+        if (type == "43-23_1") {
+          return guclu_yanlarin_43_23_1;
+        } else if (type == "43-23_2") {
+          return guclu_yanlarin_43_23_2;
+        }
+      } else if (guclu_yanlarinData.name == "9-52") {
+        if (type == "9-52_1") {
+          return guclu_yanlarin_9_52_1;
+        } else if (type == "9-52_2") {
+          return guclu_yanlarin_9_52_2;
+        }
+      } else if (guclu_yanlarinData.name == "18-58") {
+        if (type == "18-58_1") {
+          return guclu_yanlarin_18_58_1;
+        } else if (type == "18-58_2") {
+          return guclu_yanlarin_18_58_2;
+        }
+      } else if (guclu_yanlarinData.name == "16-48") {
+        if (type == "16-48_1") {
+          return guclu_yanlarin_48_16_1;
+        } else if (type == "16-48_2") {
+          return guclu_yanlarin_48_16_2;
+        }
+      } else if (guclu_yanlarinData.name == "17-62") {
+        if (type == "17-62_1") {
+          return guclu_yanlarin_17_62_1;
+        } else if (type == "17-62_2") {
+          return guclu_yanlarin_17_62_2;
+        }
+      } else if (guclu_yanlarinData.name == "42-53") {
+        if (type == "42-53_1") {
+          return guclu_yanlarin_53_42_1;
+        } else if (type == "42-53_2") {
+          return guclu_yanlarin_53_42_2;
+        }
+      } else if (guclu_yanlarinData.name == "46-29") {
+        if (type == "46-29_1") {
+          return guclu_yanlarin_46_29_1;
+        } else if (type == "46-29_2") {
+          return guclu_yanlarin_46_29_2;
+        }
+      } else if (guclu_yanlarinData.name == "13-33") {
+        if (type == "13-33_1") {
+          return guclu_yanlarin_33_13_1;
+        } else if (type == "13-33_2") {
+          return guclu_yanlarin_33_13_2;
+        }
+      } else if (guclu_yanlarinData.name == "41-30") {
+        if (type == "41-30_1") {
+          return guclu_yanlarin_30_41_1;
+        } else if (type == "41-30_2") {
+          return guclu_yanlarin_30_41_2;
+        }
+      } else if (guclu_yanlarinData.name == "35-36") {
+        if (type == "35-36_1") {
+          return guclu_yanlarin_35_36_1;
+        } else if (type == "35-36_2") {
+          return guclu_yanlarin_35_36_2;
+        }
+      } else if (guclu_yanlarinData.name == "11-56") {
+        if (type == "11-56_1") {
+          return guclu_yanlarin_56_11_1;
+        } else if (type == "11-56_2") {
+          return guclu_yanlarin_56_11_2;
+        }
+      } else if (guclu_yanlarinData.name == "34-10") {
+        if (type == "34-10_1") {
+          return guclu_yanlarin_10_34_1;
+        } else if (type == "34-10_2") {
+          return guclu_yanlarin_10_34_2;
+        }
+      } else if (guclu_yanlarinData.name == "15") {
+        if (type == "15_1") {
+          return guclu_yanlarin_15_1;
+        } else if (type == "15_2") {
+          return guclu_yanlarin_15_2;
+        }
+      } else if (guclu_yanlarinData.name == "5") {
+        if (type == "5_1") {
+          return guclu_yanlarin_5_1;
+        } else if (type == "5_2") {
+          return guclu_yanlarin_5_2;
+        }
+      } else if (guclu_yanlarinData.name == "46") {
+        if (type == "46_1") {
+          return guclu_yanlarin_46_1;
+        } else if (type == "46_2") {
+          return guclu_yanlarin_46_2;
+        }
+      } else if (guclu_yanlarinData.name == "29") {
+        if (type == "29_1") {
+          return guclu_yanlarin_29_1;
+        } else if (type == "29_2") {
+          return guclu_yanlarin_29_2;
+        }
+      } else if (guclu_yanlarinData.name == "14") {
+        if (type == "14_1") {
+          return guclu_yanlarin_14_1;
+        } else if (type == "14_2") {
+          return guclu_yanlarin_14_2;
+        }
+      } else if (guclu_yanlarinData.name == "2") {
+        if (type == "2_1") {
+          return guclu_yanlarin_2_1;
+        } else if (type == "2_2") {
+          return guclu_yanlarin_2_2;
+        }
+      } else if (guclu_yanlarinData.name == "1") {
+        if (type == "1_1") {
+          return guclu_yanlarin_1_1;
+        } else if (type == "1_2") {
+          return guclu_yanlarin_1_2;
+        }
+      } else if (guclu_yanlarinData.name == "8") {
+        if (type == "8_1") {
+          return guclu_yanlarin_8_1;
+        } else if (type == "8_2") {
+          return guclu_yanlarin_8_2;
+        }
+      } else if (guclu_yanlarinData.name == "7") {
+        if (type == "7_1") {
+          return guclu_yanlarin_7_1;
+        } else if (type == "7_2") {
+          return guclu_yanlarin_7_2;
+        }
+      } else if (guclu_yanlarinData.name == "31") {
+        if (type == "31_1") {
+          return guclu_yanlarin_31_1;
+        } else if (type == "31_2") {
+          return guclu_yanlarin_31_2;
+        }
+      } else if (guclu_yanlarinData.name == "13") {
+        if (type == "13_1") {
+          return guclu_yanlarin_13_1;
+        } else if (type == "13_2") {
+          return guclu_yanlarin_13_2;
+        }
+      } else if (guclu_yanlarinData.name == "33") {
+        if (type == "33_1") {
+          return guclu_yanlarin_33_1;
+        } else if (type == "33_2") {
+          return guclu_yanlarin_33_2;
+        }
       }
-    } else if (guclu_yanlarinData.name == "20-10") {
-      if (type == "20-10_1") {
-        return guclu_yanlarin_20_10_1;
-      } else if (type == "20-10_2") {
-        return guclu_yanlarin_20_10_2;
-      }
-    } else if (guclu_yanlarinData.name == "59-6") {
-      if (type == "59-6_1") {
-        return guclu_yanlarin_59_6_1;
-      } else if (type == "59-6_2") {
-        return guclu_yanlarin_59_6_2;
-      } 
-    } else if (guclu_yanlarinData.name == "63-4") {
-      if (type == "63-4_1") {
-        return guclu_yanlarin_63_4_1;
-      } else if (type == "63-4_2") {
-        return guclu_yanlarin_63_4_2;
-      }
-    } else if (guclu_yanlarinData.name == "21-45") {
-      if (type == "21-45_1") {
-        return guclu_yanlarin_45_21_1;
-      } else if (type == "21-45_2") {
-        return guclu_yanlarin_45_21_2;
-      }
-    } else if (guclu_yanlarinData.name == "3-60") {
-      if (type == "3-60_1") {
-        return guclu_yanlarin_60_3_1;
-      } else if (type == "3-60_2") {
-        return guclu_yanlarin_60_3_2;
-      }
-    } else if (guclu_yanlarinData.name == "15-5") {
-      if (type == "15-5_1") {
-        return guclu_yanlarin_5_15_1;
-      } else if (type == "15-5_2") {
-        return guclu_yanlarin_5_15_2;
-      }
-    } else if (guclu_yanlarinData.name == "64-47") {
-      if (type == "64-47_1") {
-        return guclu_yanlarin_47_64_1;
-      } else if (type == "64-47_2") {
-        return guclu_yanlarin_47_64_2;
-      }
-    } else if (guclu_yanlarinData.name == "27-50") {
-      if (type == "27-50_1") {
-        return guclu_yanlarin_27_50_1;
-      } else if (type == "27-50_2") {
-        return guclu_yanlarin_27_50_2;
-      } else if (type == "27-50_3") {
-      }
-    } else if (guclu_yanlarinData.name == "26-44") {
-      if (type == "26-44_1") {
-        return guclu_yanlarin_26_44_1;
-      } else if (type == "26-44_2") {
-        return guclu_yanlarin_26_44_2;
-      }
-    } else if (guclu_yanlarinData.name == "32-54") {
-      if (type == "32-54_1") {
-        return guclu_yanlarin_54_32_1;
-      } else if (type == "32-54_2") {
-        return guclu_yanlarin_54_32_2;
-      }
-    } else if (guclu_yanlarinData.name == "19-49") {
-      if (type == "19-49_1") {
-        return guclu_yanlarin_49_19_1;
-      } else if (type == "19-49_2") {
-        return guclu_yanlarin_49_19_2;
-      }
-    } else if (guclu_yanlarinData.name == "37-40") {
-      if (type == "37-40_1") {
-        return guclu_yanlarin_37_40_1;
-      } else if (type == "37-40_2") {
-        return guclu_yanlarin_37_40_2;
-      }
-    } else if (guclu_yanlarinData.name == "57-34") {
-      if (type == "57-34_1") {
-        return guclu_yanlarin_34_57_1;
-      } else if (type == "57-34_2") {
-        return guclu_yanlarin_34_57_2;
-      }
-    } else if (guclu_yanlarinData.name == "20-34") {
-      if (type == "20-34_1") {
-        return guclu_yanlarin_20_34_1;
-      } else if (type == "20-34_2") {
-        return guclu_yanlarin_20_34_2;
-      }
-    } else if (guclu_yanlarinData.name == "25-51") {
-      if (type == "25-51_1") {
-        return guclu_yanlarin_51_25_1;
-      } else if (type == "25-51_2") {
-        return guclu_yanlarin_51_25_2;
-      }
-    } else if (guclu_yanlarinData.name == "1-8") {
-      if (type == "1-8_1") {
-        return guclu_yanlarin_8_1_1;
-      } else if (type == "1-8_2") {
-        return guclu_yanlarin_8_1_2;
-      }
-    } else if (guclu_yanlarinData.name == "28-38") {
-      if (type == "28-38_1") {
-        return guclu_yanlarin_28_38_1;
-      } else if (type == "28-38_2") {
-        return guclu_yanlarin_28_38_2;
-      }
-    } else if (guclu_yanlarinData.name == "31-7") {
-      if (type == "31-7_1") {
-        return guclu_yanlarin_31_7_1;
-      } else if (type == "31-7_2") {
-        return guclu_yanlarin_31_7_2;
-      }
-    } else if (guclu_yanlarinData.name == "57-20") {
-      if (type == "57-20_1") {
-        return guclu_yanlarin_57_20_1;
-      } else if (type == "57-20_2") {
-        return guclu_yanlarin_57_20_2;
-      }
-    } else if (guclu_yanlarinData.name == "39-55") {
-      if (type == "39-55_1") {
-        return guclu_yanlarin_39_55_1;
-      } else if (type == "39-55_2") {
-        return guclu_yanlarin_39_55_2;
-      }
-    } else if (guclu_yanlarinData.name == "2-14") {
-      if (type == "2-14_1") {
-        return guclu_yanlarin_2_14_1;
-      } else if (type == "2-14_2") {
-        return guclu_yanlarin_2_14_2;
-      }
-    } else if (guclu_yanlarinData.name == "12-22") {
-      if (type == "12-22_1") {
-        return guclu_yanlarin_12_22_1;
-      } else if (type == "12-22_2") {
-        return guclu_yanlarin_12_22_2;
-      }
-    } else if (guclu_yanlarinData.name == "61-24") {
-      if (type == "61-24_1") {
-        return guclu_yanlarin_61_24_1;
-      } else if (type == "61-24_2") {
-        return guclu_yanlarin_61_24_2;
-      }
-    } else if (guclu_yanlarinData.name == "43-23") {
-      if (type == "43-23_1") {
-        return guclu_yanlarin_43_23_1;
-      } else if (type == "43-23_2") {
-        return guclu_yanlarin_43_23_2;
-      }
-    } else if (guclu_yanlarinData.name == "9-52") {
-      if (type == "9-52_1") {
-        return guclu_yanlarin_9_52_1;
-      } else if (type == "9-52_2") {
-        return guclu_yanlarin_9_52_2;
-      }
-    } else if (guclu_yanlarinData.name == "18-58") {
-      if (type == "18-58_1") {
-        return guclu_yanlarin_18_58_1;
-      } else if (type == "18-58_2") {
-        return guclu_yanlarin_18_58_2;
-      }
-    } else if (guclu_yanlarinData.name == "16-48") {
-      if (type == "16-48_1") {
-        return guclu_yanlarin_48_16_1;
-      } else if (type == "16-48_2") {
-        return guclu_yanlarin_48_16_2;
-      }
-    } else if (guclu_yanlarinData.name == "17-62") {
-      if (type == "17-62_1") {
-        return guclu_yanlarin_17_62_1;
-      } else if (type == "17-62_2") {
-        return guclu_yanlarin_17_62_2;
-      }
-    } else if (guclu_yanlarinData.name == "42-53") {
-      if (type == "42-53_1") {
-        return guclu_yanlarin_53_42_1;
-      } else if (type == "42-53_2") {
-        return guclu_yanlarin_53_42_2;
-      }
-    } else if (guclu_yanlarinData.name == "46-29") {
-      if (type == "46-29_1") {
-        return guclu_yanlarin_46_29_1;
-      } else if (type == "46-29_2") {
-        return guclu_yanlarin_46_29_2;
-      }
-    } else if (guclu_yanlarinData.name == "13-33") {
-      if (type == "13-33_1") {
-        return guclu_yanlarin_33_13_1;
-      } else if (type == "13-33_2") {
-        return guclu_yanlarin_33_13_2;
-      }
-    } else if (guclu_yanlarinData.name == "41-30") {
-      if (type == "41-30_1") {
-        return guclu_yanlarin_30_41_1;
-      } else if (type == "41-30_2") {
-        return guclu_yanlarin_30_41_2;
-      }
-    } else if (guclu_yanlarinData.name == "35-36") {
-      if (type == "35-36_1") {
-        return guclu_yanlarin_35_36_1;
-      } else if (type == "35-36_2") {
-        return guclu_yanlarin_35_36_2;
-      }
-    } else if (guclu_yanlarinData.name == "11-56") {
-      if (type == "11-56_1") {
-        return guclu_yanlarin_56_11_1;
-      } else if (type == "11-56_2") {
-        return guclu_yanlarin_56_11_2;
-      }
-    } else if (guclu_yanlarinData.name == "34-10") {
-      if (type == "34-10_1") {
-        return guclu_yanlarin_10_34_1;
-      } else if (type == "34-10_2") {
-        return guclu_yanlarin_10_34_2;
-      }
-    } else if (guclu_yanlarinData.name == "15") {
-      if (type == "15_1") {
-        return guclu_yanlarin_15_1;
-      } else if (type == "15_2") {
-        return guclu_yanlarin_15_2;
-      }
-    } else if (guclu_yanlarinData.name == "5") {
-      if (type == "5_1") {
-        return guclu_yanlarin_5_1;
-      } else if (type == "5_2") {
-        return guclu_yanlarin_5_2;
-      }
-    } else if (guclu_yanlarinData.name == "46") {
-      if (type == "46_1") {
-        return guclu_yanlarin_46_1;
-      } else if (type == "46_2") {
-        return guclu_yanlarin_46_2;
-      }
-    } else if (guclu_yanlarinData.name == "29") {
-      if (type == "29_1") {
-        return guclu_yanlarin_29_1;
-      } else if (type == "29_2") {
-        return guclu_yanlarin_29_2;
-      }
-    } else if (guclu_yanlarinData.name == "14") {
-      if (type == "14_1") {
-        return guclu_yanlarin_14_1;
-      } else if (type == "14_2") {
-        return guclu_yanlarin_14_2;
-      }
-    } else if (guclu_yanlarinData.name == "2") {
-      if (type == "2_1") {
-        return guclu_yanlarin_2_1;
-      } else if (type == "2_2") {
-        return guclu_yanlarin_2_2;
-      }
-    } else if (guclu_yanlarinData.name == "1") {
-      if (type == "1_1") {
-        return guclu_yanlarin_1_1;
-      } else if (type == "1_2") {
-        return guclu_yanlarin_1_2;
-      }
-    } else if (guclu_yanlarinData.name == "8") {
-      if (type == "8_1") {
-        return guclu_yanlarin_8_1;
-      } else if (type == "8_2") {
-        return guclu_yanlarin_8_2;
-      }
-    } else if (guclu_yanlarinData.name == "7") {
-      if (type == "7_1") {
-        return guclu_yanlarin_7_1;
-      } else if (type == "7_2") {
-        return guclu_yanlarin_7_2;
-      }
-    } else if (guclu_yanlarinData.name == "31") {
-      if (type == "31_1") {
-        return guclu_yanlarin_31_1;
-      } else if (type == "31_2") {
-        return guclu_yanlarin_31_2;
-      }
-    } else if (guclu_yanlarinData.name == "13") {
-      if (type == "13_1") {
-        return guclu_yanlarin_13_1;
-      } else if (type == "13_2") {
-        return guclu_yanlarin_13_2;
-      }
-    } else if (guclu_yanlarinData.name == "33") {
-      if (type == "33_1") {
-        return guclu_yanlarin_33_1;
-      } else if (type == "33_2") {
-        return guclu_yanlarin_33_2;
+    } else if (lang == "En") {
+      if (guclu_yanlarinData.name == "57-10") {
+        if (type == "57-10_1") {
+          return guclu_yanlarin_57_10_eng_1;
+        } else if (type == "57-10_2") {
+          return guclu_yanlarin_57_10_eng_2;
+        }
+      } else if (guclu_yanlarinData.name == "20-10") {
+        if (type == "20-10_1") {
+          return guclu_yanlarin_20_10_eng_1;
+        } else if (type == "20-10_2") {
+          return guclu_yanlarin_20_10_eng_2;
+        }
+      } else if (guclu_yanlarinData.name == "59-6") {
+        if (type == "59-6_1") {
+          return guclu_yanlarin_59_6_eng_1;
+        } else if (type == "59-6_2") {
+          return guclu_yanlarin_59_6_eng_2;
+        } 
+      } else if (guclu_yanlarinData.name == "63-4") {
+        if (type == "63-4_1") {
+          return guclu_yanlarin_63_4_eng_1;
+        } else if (type == "63-4_2") {
+          return guclu_yanlarin_63_4_eng_2;
+        }
+      } else if (guclu_yanlarinData.name == "21-45") {
+        if (type == "21-45_1") {
+          return guclu_yanlarin_45_21_eng_1;
+        } else if (type == "21-45_2") {
+          return guclu_yanlarin_45_21_eng_2;
+        }
+      } else if (guclu_yanlarinData.name == "3-60") {
+        if (type == "3-60_1") {
+          return guclu_yanlarin_60_3_eng_1;
+        } else if (type == "3-60_2") {
+          return guclu_yanlarin_60_3_eng_2;
+        }
+      } else if (guclu_yanlarinData.name == "15-5") {
+        if (type == "15-5_1") {
+          return guclu_yanlarin_5_15_eng_1;
+        } else if (type == "15-5_2") {
+          return guclu_yanlarin_5_15_eng_2;
+        }
+      } else if (guclu_yanlarinData.name == "64-47") {
+        if (type == "64-47_1") {
+          return guclu_yanlarin_47_64_eng_1;
+        } else if (type == "64-47_2") {
+          return guclu_yanlarin_47_64_eng_2;
+        }
+      } else if (guclu_yanlarinData.name == "27-50") {
+        if (type == "27-50_1") {
+          return guclu_yanlarin_27_50_eng_1;
+        } else if (type == "27-50_2") {
+          return guclu_yanlarin_27_50_eng_2;
+        } else if (type == "27-50_3") {
+        }
+      } else if (guclu_yanlarinData.name == "26-44") {
+        if (type == "26-44_1") {
+          return guclu_yanlarin_26_44_eng_1;
+        } else if (type == "26-44_2") {
+          return guclu_yanlarin_26_44_eng_2;
+        }
+      } else if (guclu_yanlarinData.name == "32-54") {
+        if (type == "32-54_1") {
+          return guclu_yanlarin_54_32_eng_1;
+        } else if (type == "32-54_2") {
+          return guclu_yanlarin_54_32_eng_2;
+        }
+      } else if (guclu_yanlarinData.name == "19-49") {
+        if (type == "19-49_1") {
+          return guclu_yanlarin_49_19_eng_1;
+        } else if (type == "19-49_2") {
+          return guclu_yanlarin_49_19_eng_2;
+        }
+      } else if (guclu_yanlarinData.name == "37-40") {
+        if (type == "37-40_1") {
+          return guclu_yanlarin_37_40_eng_1;
+        } else if (type == "37-40_2") {
+          return guclu_yanlarin_37_40_eng_2;
+        }
+      } else if (guclu_yanlarinData.name == "57-34") {
+        if (type == "57-34_1") {
+          return guclu_yanlarin_34_57_eng_1;
+        } else if (type == "57-34_2") {
+          return guclu_yanlarin_34_57_eng_2;
+        }
+      } else if (guclu_yanlarinData.name == "20-34") {
+        if (type == "20-34_1") {
+          return guclu_yanlarin_20_34_eng_1;
+        } else if (type == "20-34_2") {
+          return guclu_yanlarin_20_34_eng_2;
+        }
+      } else if (guclu_yanlarinData.name == "25-51") {
+        if (type == "25-51_1") {
+          return guclu_yanlarin_51_25_eng_1;
+        } else if (type == "25-51_2") {
+          return guclu_yanlarin_51_25_eng_2;
+        }
+      } else if (guclu_yanlarinData.name == "1-8") {
+        if (type == "1-8_1") {
+          return guclu_yanlarin_8_1_eng_1;
+        } else if (type == "1-8_2") {
+          return guclu_yanlarin_8_1_eng_2;
+        }
+      } else if (guclu_yanlarinData.name == "28-38") {
+        if (type == "28-38_1") {
+          return guclu_yanlarin_28_38_eng_1;
+        } else if (type == "28-38_2") {
+          return guclu_yanlarin_28_38_eng_2;
+        }
+      } else if (guclu_yanlarinData.name == "31-7") {
+        if (type == "31-7_1") {
+          return guclu_yanlarin_31_7_eng_1;
+        } else if (type == "31-7_2") {
+          return guclu_yanlarin_31_7_eng_2;
+        }
+      } else if (guclu_yanlarinData.name == "57-20") {
+        if (type == "57-20_1") {
+          return guclu_yanlarin_57_20_eng_1;
+        } else if (type == "57-20_2") {
+          return guclu_yanlarin_57_20_eng_2;
+        }
+      } else if (guclu_yanlarinData.name == "39-55") {
+        if (type == "39-55_1") {
+          return guclu_yanlarin_39_55_eng_1;
+        } else if (type == "39-55_2") {
+          return guclu_yanlarin_39_55_eng_2;
+        }
+      } else if (guclu_yanlarinData.name == "2-14") {
+        if (type == "2-14_1") {
+          return guclu_yanlarin_2_14_eng_1;
+        } else if (type == "2-14_2") {
+          return guclu_yanlarin_2_14_eng_2;
+        }
+      } else if (guclu_yanlarinData.name == "12-22") {
+        if (type == "12-22_1") {
+          return guclu_yanlarin_12_22_eng_1;
+        } else if (type == "12-22_2") {
+          return guclu_yanlarin_12_22_eng_2;
+        }
+      } else if (guclu_yanlarinData.name == "61-24") {
+        if (type == "61-24_1") {
+          return guclu_yanlarin_61_24_eng_1;
+        } else if (type == "61-24_2") {
+          return guclu_yanlarin_61_24_eng_2;
+        }
+      } else if (guclu_yanlarinData.name == "43-23") {
+        if (type == "43-23_1") {
+          return guclu_yanlarin_43_23_eng_1;
+        } else if (type == "43-23_2") {
+          return guclu_yanlarin_43_23_eng_2;
+        }
+      } else if (guclu_yanlarinData.name == "9-52") {
+        if (type == "9-52_1") {
+          return guclu_yanlarin_9_52_eng_1;
+        } else if (type == "9-52_2") {
+          return guclu_yanlarin_9_52_eng_2;
+        }
+      } else if (guclu_yanlarinData.name == "18-58") {
+        if (type == "18-58_1") {
+          return guclu_yanlarin_18_58_eng_1;
+        } else if (type == "18-58_2") {
+          return guclu_yanlarin_18_58_eng_2;
+        }
+      } else if (guclu_yanlarinData.name == "16-48") {
+        if (type == "16-48_1") {
+          return guclu_yanlarin_48_16_eng_1;
+        } else if (type == "16-48_2") {
+          return guclu_yanlarin_48_16_eng_2;
+        }
+      } else if (guclu_yanlarinData.name == "17-62") {
+        if (type == "17-62_1") {
+          return guclu_yanlarin_17_62_eng_1;
+        } else if (type == "17-62_2") {
+          return guclu_yanlarin_17_62_eng_2;
+        }
+      } else if (guclu_yanlarinData.name == "42-53") {
+        if (type == "42-53_1") {
+          return guclu_yanlarin_53_42_eng_1;
+        } else if (type == "42-53_2") {
+          return guclu_yanlarin_53_42_eng_2;
+        }
+      } else if (guclu_yanlarinData.name == "46-29") {
+        if (type == "46-29_1") {
+          return guclu_yanlarin_46_29_eng_1;
+        } else if (type == "46-29_2") {
+          return guclu_yanlarin_46_29_eng_2;
+        }
+      } else if (guclu_yanlarinData.name == "13-33") {
+        if (type == "13-33_1") {
+          return guclu_yanlarin_33_13_eng_1;
+        } else if (type == "13-33_2") {
+          return guclu_yanlarin_33_13_eng_2;
+        }
+      } else if (guclu_yanlarinData.name == "41-30") {
+        if (type == "41-30_1") {
+          return guclu_yanlarin_30_41_eng_1;
+        } else if (type == "41-30_2") {
+          return guclu_yanlarin_30_41_eng_2;
+        }
+      } else if (guclu_yanlarinData.name == "35-36") {
+        if (type == "35-36_1") {
+          return guclu_yanlarin_35_36_eng_1;
+        } else if (type == "35-36_2") {
+          return guclu_yanlarin_35_36_eng_2;
+        }
+      } else if (guclu_yanlarinData.name == "11-56") {
+        if (type == "11-56_1") {
+          return guclu_yanlarin_56_11_eng_1;
+        } else if (type == "11-56_2") {
+          return guclu_yanlarin_56_11_eng_2;
+        }
+      } else if (guclu_yanlarinData.name == "34-10") {
+        if (type == "34-10_1") {
+          return guclu_yanlarin_10_34_eng_1;
+        } else if (type == "34-10_2") {
+          return guclu_yanlarin_10_34_eng_2;
+        }
+      } else if (guclu_yanlarinData.name == "15") {
+        if (type == "15_1") {
+          return guclu_yanlarin_15_eng_1;
+        } else if (type == "15_2") {
+          return guclu_yanlarin_15_eng_2;
+        }
+      } else if (guclu_yanlarinData.name == "5") {
+        if (type == "5_1") {
+          return guclu_yanlarin_5_eng_1;
+        } else if (type == "5_2") {
+          return guclu_yanlarin_5_eng_2;
+        }
+      } else if (guclu_yanlarinData.name == "46") {
+        if (type == "46_1") {
+          return guclu_yanlarin_46_eng_1;
+        } else if (type == "46_2") {
+          return guclu_yanlarin_46_eng_2;
+        }
+      } else if (guclu_yanlarinData.name == "29") {
+        if (type == "29_1") {
+          return guclu_yanlarin_29_eng_1;
+        } else if (type == "29_2") {
+          return guclu_yanlarin_29_eng_2;
+        }
+      } else if (guclu_yanlarinData.name == "14") {
+        if (type == "14_1") {
+          return guclu_yanlarin_14_eng_1;
+        } else if (type == "14_2") {
+          return guclu_yanlarin_14_eng_2;
+        }
+      } else if (guclu_yanlarinData.name == "2") {
+        if (type == "2_1") {
+          return guclu_yanlarin_2_eng_1;
+        } else if (type == "2_2") {
+          return guclu_yanlarin_2_eng_2;
+        }
+      } else if (guclu_yanlarinData.name == "1") {
+        if (type == "1_1") {
+          return guclu_yanlarin_1_eng_1;
+        } else if (type == "1_2") {
+          return guclu_yanlarin_1_eng_2;
+        }
+      } else if (guclu_yanlarinData.name == "8") {
+        if (type == "8_1") {
+          return guclu_yanlarin_8_eng_1;
+        } else if (type == "8_2") {
+          return guclu_yanlarin_8_eng_2;
+        }
+      } else if (guclu_yanlarinData.name == "7") {
+        if (type == "7_1") {
+          return guclu_yanlarin_7_eng_1;
+        } else if (type == "7_2") {
+          return guclu_yanlarin_7_eng_2;
+        }
+      } else if (guclu_yanlarinData.name == "31") {
+        if (type == "31_1") {
+          return guclu_yanlarin_31_eng_1;
+        } else if (type == "31_2") {
+          return guclu_yanlarin_31_eng_2;
+        }
+      } else if (guclu_yanlarinData.name == "13") {
+        if (type == "13_1") {
+          return guclu_yanlarin_13_eng_1;
+        } else if (type == "13_2") {
+          return guclu_yanlarin_13_eng_2;
+        }
+      } else if (guclu_yanlarinData.name == "33") {
+        if (type == "33_1") {
+          return guclu_yanlarin_33_eng_1;
+        } else if (type == "33_2") {
+          return guclu_yanlarin_33_eng_2;
+        }
       }
     }
   };
 
+  var nameSurname = Object.entries(rawData).find((x) => x[0] == "kisiselbilgi / isim")[1] + " " + Object.entries(rawData).find((x) => x[0] == "kisiselbilgi / soyisim")[1];
+  var cinsiyet =  Object.entries(rawData).find((x) => x[0] == "kisiselbilgi / cinsiyet")[1]
   var language = Object.entries(rawData).find((x) => x[0] == "Lang")[1];
 
-  if (language == "Tr") 
-    var dearName = "Sevgili " + Object.entries(rawData).find((x) => x[0] == "kisiselbilgi / isim")[1];
-  else if (language == "En")
+  if (language == "Tr") {
+    var dearName = "Sevgili " + Object.entries(rawData).find((x) => x[0] == "kisiselbilgi / isim")[1] + ",";
+    var kisilikOzelliklerinTop2 = hollandData[0].name + " ve " + hollandData[1].name + " kişilik özelliklerinin baskın, " + hollandData[5].name + " özelliğinin daha geri planda olduğu bir yapın var.";
+    var iletisimVeEtkilesimTarzin = "Başkalarıyla Başarılı Etkileşimlerin Anahtarı...";
+    var kararVermeStratejin1 = "İki Temel Unsur:";
+    var kararVermeStratejin2 = "Karar Verme Stratejini Takip Etmek:";
+    var kararVermeStratejin3 = "Adımlar:";
+    var isYasamindaRolun1 = "İş Hayatında Ve Kariyerinde Güçlü Yönlerin";
+    var isYasamindaRolun2 = "Fırsatlar Ve Zorluklar";
+    var isYasamindaRolun3 = "Hayat Amacını Gerçekleştirmek";
+  }
+  else if (language == "En") {
     var dearName = "Dear " + Object.entries(rawData).find((x) => x[0] == "kisiselbilgi / isim")[1];
-  
-  if (language == "Tr") 
-    var kisilikOzelliklerinTop2 = hollandData[0].name + " ve " + hollandData[1].name + " kişilik özelliklerinin baskın, " + hollandData[5].name + " özelliğinin daha geri planda olduğu bir yapın var.";
-  else if (language == "En") 
-    var kisilikOzelliklerinTop2 = hollandData[0].name + " ve " + hollandData[1].name + " kişilik özelliklerinin baskın, " + hollandData[5].name + " özelliğinin daha geri planda olduğu bir yapın var.";
-  
-  if (language == "Tr")
-    var iletisimVeEtkilesimTarzin = "Başkalarıyla Başarılı Etkileşimlerin Anahtarı..."
-  else if (language == "En")
-    var iletisimVeEtkilesimTarzin = "Effective Communication and Engagement at Work..."
-
-  var cinsiyet =  Object.entries(rawData).find((x) => x[0] == "kisiselbilgi / cinsiyet")[1];
+    var kisilikOzelliklerinTop2 = "You have a personality where " + hollandData[0].name + " and " + hollandData[1].name + " traits are dominant, while " + hollandData[5].name + " traits take a backseat.";
+    var iletisimVeEtkilesimTarzin = "Effective Communication and Engagement at Work...";
+    var kararVermeStratejin1 = "Two Key Aspects:";
+    var kararVermeStratejin2 = "Following Your Decision-Making Strategy:";
+    var kararVermeStratejin3 = "Steps:";
+    var isYasamindaRolun1 = "Strengths in Business and Career";
+    var isYasamindaRolun2 = "Opportunities and Challenges";
+    var isYasamindaRolun3 = "Fulfilling Your Life Purpose";
+  }
 
   var allVariables = { // Burada sadece değişmeyen ilk 28'i tanımlı. alt tarafda gelen güçlü yanlarına göre diğer alanlar objeye push ediliyor.
   
-    P1A1 : Object.entries(rawData).find((x) => x[0] == "kisiselbilgi / isim")[1] + " " + Object.entries(rawData).find((x) => x[0] == "kisiselbilgi / soyisim")[1],
+    P1A1 : nameSurname,
     P2A1 : dearName,
     P4A1 : "chart",
     P4A2 : kisilikOzelliklerinTop2,
@@ -8686,16 +8925,16 @@ var decision_strategy_eng_s4_11_txt = "By adhering to this decision-making strat
     
     P27A1 : is_y_r(is_y_rData[0], 25, "name", language),
     P27A2 : is_y_r(is_y_rData[0], 25, "s2_2", language),
-    P27A3 : "İş Hayatında Ve Kariyerinde Güçlü Yönlerin",
+    P27A3 : isYasamindaRolun1,
     P27A4 : is_y_r(is_y_rData[0], 25, "s2_3", language),
     P27A5 : is_y_r(is_y_rData[0], 25, "s2_4", language),
     P27A6 : is_y_r(is_y_rData[0], 25, "s2_5", language),
     P27A7 : is_y_r(is_y_rData[0], 25, "image", language),
     
     P28A1 : is_y_r(is_y_rData[0], 25, "name", language),
-    P28A2 : "Fırsatlar Ve Zorluklar",
+    P28A2 : isYasamindaRolun2,
     P28A3 : is_y_r(is_y_rData[0], 25, "s3_1", language),
-    P28A4 : "Hayat Amacını Gerçekleştirmek",
+    P28A4 : isYasamindaRolun3,
     P28A5 : is_y_r(is_y_rData[0], 25, "s3_2", language),
 
     graphbig : bigdataPercent,
@@ -8832,13 +9071,13 @@ var decision_strategy_eng_s4_11_txt = "By adhering to this decision-making strat
       
       allVariables.P33A1 = decision_strategy(decision_strategyData, 25, "name", language); // Senin Karar Verme Stratejin
       allVariables.P33A2 = decision_strategy(decision_strategyData, 25, "s3_x_2", language);
-      allVariables.P33A3 = "İki Temel Unsur:";
+      allVariables.P33A3 = gucluYanlarin;
       allVariables.P33A4 = decision_strategy(decision_strategyData, 25, "s3_x_3", language);
       allVariables.P33A5 = decision_strategy(decision_strategyData, 25, "s3_x_4", language);
   
-      allVariables.P34A1 = "Karar Verme Stratejini Takip Etmek:";
+      allVariables.P34A1 = kararVermeStratejin;
       allVariables.P34A2 = decision_strategy(decision_strategyData, 25, "s4_x_text", language);
-      allVariables.P34A3 = "Adımlar:";
+      allVariables.P34A3 = kararVermeStratejin2;
       allVariables.P34A4 = decision_strategy(decision_strategyData, 25, "s4_x_1", language);
       allVariables.P34A5 = decision_strategy(decision_strategyData, 25, "s4_x_txt", language);
       allVariables.P34A6 = decision_strategy(decision_strategyData, 25, "image", language);
@@ -8889,7 +9128,7 @@ var decision_strategy_eng_s4_11_txt = "By adhering to this decision-making strat
       allVariables.P39A18 = kariyer_secim(careerSelectionLastResult[2], 25, "s7_" + decision_strategyData.sectorName + "_x_6", language);
       allVariables.P39A19 = kariyer_secim(careerSelectionLastResult[2], 25, "s7_" + decision_strategyData.sectorName + "_x_7", language);
   
-      allVariables.P41A1 = "Sevgili " + Object.entries(rawData).find((x) => x[0] == "kisiselbilgi / isim")[1]+","; // Sevgili Dinçer
+      allVariables.P41A1 = dearName;
   
       var inputs_25_plus = {
   
@@ -8965,13 +9204,13 @@ var decision_strategy_eng_s4_11_txt = "By adhering to this decision-making strat
       
       allVariables.P34A1 = decision_strategy(decision_strategyData, 25, "name", language); // Senin Karar Verme Stratejin
       allVariables.P34A2 = decision_strategy(decision_strategyData, 25, "s3_x_2", language);
-      allVariables.P34A3 = "İki Temel Unsur:";
+      allVariables.P34A3 = decision_strategy1;
       allVariables.P34A4 = decision_strategy(decision_strategyData, 25, "s3_x_3", language);
       allVariables.P34A5 = decision_strategy(decision_strategyData, 25, "s3_x_4", language);
       
-      allVariables.P35A1 = "Karar Verme Stratejini Takip Etmek:";
+      allVariables.P35A1 = kararVermeStratejin2;
       allVariables.P35A2 = decision_strategy(decision_strategyData, 25, "s4_x_text", language);
-      allVariables.P35A3 = "Adımlar:",
+      allVariables.P35A3 = kararVermeStratejin3;
       allVariables.P35A4 = decision_strategy(decision_strategyData, 25, "s4_x_1", language);
       allVariables.P35A5 = decision_strategy(decision_strategyData, 25, "s4_x_txt", language);
       allVariables.P35A6 = decision_strategy(decision_strategyData, 25, "image", language);
@@ -9022,7 +9261,7 @@ var decision_strategy_eng_s4_11_txt = "By adhering to this decision-making strat
       allVariables.P40A18 = kariyer_secim(careerSelectionLastResult[2], 25, "s7_" + decision_strategyData.sectorName + "_x_6", language);
       allVariables.P40A19 = kariyer_secim(careerSelectionLastResult[2], 25, "s7_" + decision_strategyData.sectorName + "_x_7", language);
       
-      allVariables.P42A1 = "Sevgili " + Object.entries(rawData).find((x) => x[0] == "kisiselbilgi / isim")[1]+","; // Sevgili Dinçer
+      allVariables.P42A1 = dearName;
   
       var inputs_25_plus = {
   
@@ -9103,13 +9342,13 @@ var decision_strategy_eng_s4_11_txt = "By adhering to this decision-making strat
       
       allVariables.P35A1 = decision_strategy(decision_strategyData, 25, "name", language); // Senin Karar Verme Stratejin
       allVariables.P35A2 = decision_strategy(decision_strategyData, 25, "s3_x_2", language);
-      allVariables.P35A3 = "İki Temel Unsur:";
+      allVariables.P35A3 = kararVermeStratejin1;
       allVariables.P35A4 = decision_strategy(decision_strategyData, 25, "s3_x_3", language);
       allVariables.P35A5 = decision_strategy(decision_strategyData, 25, "s3_x_4", language);
   
-      allVariables.P36A1 = "Karar Verme Stratejini Takip Etmek:";
+      allVariables.P36A1 = kararVermeStratejin2;
       allVariables.P36A2 = decision_strategy(decision_strategyData, 25, "s4_x_text", language);
-      allVariables.P36A3 = "Adımlar:";
+      allVariables.P36A3 = kararVermeStratejin3;
       allVariables.P36A4 = decision_strategy(decision_strategyData, 25, "s4_x_1", language);
       allVariables.P36A5 = decision_strategy(decision_strategyData, 25, "s4_x_txt", language);
       allVariables.P36A6 = decision_strategy(decision_strategyData, 25, "image", language);
@@ -9160,7 +9399,7 @@ var decision_strategy_eng_s4_11_txt = "By adhering to this decision-making strat
       allVariables.P41A18 = kariyer_secim(careerSelectionLastResult[2], 25, "s7_" + decision_strategyData.sectorName + "_x_6", language);
       allVariables.P41A19 = kariyer_secim(careerSelectionLastResult[2], 25, "s7_" + decision_strategyData.sectorName + "_x_7", language);
       
-      allVariables.P43A1 = "Sevgili " + Object.entries(rawData).find((x) => x[0] == "kisiselbilgi / isim")[1]+","; // Sevgili Dinçer
+      allVariables.P43A1 = dearName;
   
       var inputs_25_plus = {
   
@@ -9249,13 +9488,13 @@ var decision_strategy_eng_s4_11_txt = "By adhering to this decision-making strat
       
       allVariables.P36A1 = decision_strategy(decision_strategyData, 25, "name", language); // Senin Karar Verme Stratejin
       allVariables.P36A2 = decision_strategy(decision_strategyData, 25, "s3_x_2", language);
-      allVariables.P36A3 = "İki Temel Unsur:";
+      allVariables.P36A3 = kararVermeStratejin1;
       allVariables.P36A4 = decision_strategy(decision_strategyData, 25, "s3_x_3", language);
       allVariables.P36A5 = decision_strategy(decision_strategyData, 25, "s3_x_4", language);
       
-      allVariables.P37A1 = "Karar Verme Stratejini Takip Etmek:";
+      allVariables.P37A1 = kararVermeStratejin2;
       allVariables.P37A2 = decision_strategy(decision_strategyData, 25, "s4_x_text", language);
-      allVariables.P37A3 = "Adımlar:";
+      allVariables.P37A3 = kararVermeStratejin3;
       allVariables.P37A4 = decision_strategy(decision_strategyData, 25, "s4_x_1", language);
       allVariables.P37A5 = decision_strategy(decision_strategyData, 25, "s4_x_txt", language);
       allVariables.P37A6 = decision_strategy(decision_strategyData, 25, "image", language);
@@ -9306,7 +9545,7 @@ var decision_strategy_eng_s4_11_txt = "By adhering to this decision-making strat
       allVariables.P42A18 = kariyer_secim(careerSelectionLastResult[2], 25, "s7_" + decision_strategyData.sectorName + "_x_6", language);
       allVariables.P42A19 = kariyer_secim(careerSelectionLastResult[2], 25, "s7_" + decision_strategyData.sectorName + "_x_7", language);
   
-      allVariables.P44A1 = "Sevgili " + Object.entries(rawData).find((x) => x[0] == "kisiselbilgi / isim")[1]+","; // Sevgili Dinçer
+      allVariables.P44A1 = dearName;
   
       var inputs_25_plus = {
   
@@ -9397,13 +9636,13 @@ var decision_strategy_eng_s4_11_txt = "By adhering to this decision-making strat
       
       allVariables.P37A1 = decision_strategy(decision_strategyData, 25, "name", language); // Senin Karar Verme Stratejin
       allVariables.P37A2 = decision_strategy(decision_strategyData, 25, "s3_x_2", language);
-      allVariables.P37A3 = "İki Temel Unsur:";
+      allVariables.P37A3 = kararVermeStratejin1;
       allVariables.P37A4 = decision_strategy(decision_strategyData, 25, "s3_x_3", language);
       allVariables.P37A5 = decision_strategy(decision_strategyData, 25, "s3_x_4", language);
   
-      allVariables.P38A1 = "Karar Verme Stratejini Takip Etmek:";
+      allVariables.P38A1 = kararVermeStratejin2;
       allVariables.P38A2 = decision_strategy(decision_strategyData, 25, "s4_x_text", language);
-      allVariables.P38A3 = "Adımlar:";
+      allVariables.P38A3 = kararVermeStratejin3;
       allVariables.P38A4 = decision_strategy(decision_strategyData, 25, "s4_x_1", language);
       allVariables.P38A5 = decision_strategy(decision_strategyData, 25, "s4_x_txt", language);
       allVariables.P38A6 = decision_strategy(decision_strategyData, 25, "image", language);
@@ -9454,7 +9693,7 @@ var decision_strategy_eng_s4_11_txt = "By adhering to this decision-making strat
       allVariables.P43A18 = kariyer_secim(careerSelectionLastResult[2], 25, "s7_" + decision_strategyData.sectorName + "_x_6", language);
       allVariables.P43A19 = kariyer_secim(careerSelectionLastResult[2], 25, "s7_" + decision_strategyData.sectorName + "_x_7", language);
   
-      allVariables.P45A1 = "Sevgili " + Object.entries(rawData).find((x) => x[0] == "kisiselbilgi / isim")[1]+","; // Sevgili Dinçer
+      allVariables.P45A1 = dearName;
   
       var inputs_25_plus = {
   
@@ -9554,13 +9793,13 @@ var decision_strategy_eng_s4_11_txt = "By adhering to this decision-making strat
   
       allVariables.P38A1 = decision_strategy(decision_strategyData, 25, "name", language); // Senin Karar Verme Stratejin
       allVariables.P38A2 = decision_strategy(decision_strategyData, 25, "s3_x_2", language);
-      allVariables.P38A3 = "İki Temel Unsur:";
+      allVariables.P38A3 = kararVermeStratejin1;
       allVariables.P38A4 = decision_strategy(decision_strategyData, 25, "s3_x_3", language);
       allVariables.P38A5 = decision_strategy(decision_strategyData, 25, "s3_x_4", language);
   
-      allVariables.P39A1 = "Karar Verme Stratejini Takip Etmek:";
+      allVariables.P39A1 = kararVermeStratejin2;
       allVariables.P39A2 = decision_strategy(decision_strategyData, 25, "s4_x_text", language);
-      allVariables.P39A3 = "Adımlar:";
+      allVariables.P39A3 = kararVermeStratejin3;
       allVariables.P39A4 = decision_strategy(decision_strategyData, 25, "s4_x_1", language);
       allVariables.P39A5 = decision_strategy(decision_strategyData, 25, "s4_x_txt", language);
       allVariables.P39A6 = decision_strategy(decision_strategyData, 25, "image", language);
@@ -9611,7 +9850,7 @@ var decision_strategy_eng_s4_11_txt = "By adhering to this decision-making strat
       allVariables.P44A18 = kariyer_secim(careerSelectionLastResult[2], 25, "s7_" + decision_strategyData.sectorName + "_x_6", language);
       allVariables.P44A19 = kariyer_secim(careerSelectionLastResult[2], 25, "s7_" + decision_strategyData.sectorName + "_x_7", language);
   
-      allVariables.P46A1 = "Sevgili " + Object.entries(rawData).find((x) => x[0] == "kisiselbilgi / isim")[1]+","; // Sevgili Dinçer
+      allVariables.P46A1 = dearName;
   
       var inputs_25_plus = {
   
@@ -9716,13 +9955,13 @@ var decision_strategy_eng_s4_11_txt = "By adhering to this decision-making strat
   
       allVariables.P39A1 = decision_strategy(decision_strategyData, 25, "name", language); // Senin Karar Verme Stratejin
       allVariables.P39A2 = decision_strategy(decision_strategyData, 25, "s3_x_2", language);
-      allVariables.P39A3 = "İki Temel Unsur:";
+      allVariables.P39A3 = kararVermeStratejin1;
       allVariables.P39A4 = decision_strategy(decision_strategyData, 25, "s3_x_3", language);
       allVariables.P39A5 = decision_strategy(decision_strategyData, 25, "s3_x_4", language);
   
-      allVariables.P40A1 = "Karar Verme Stratejini Takip Etmek:";
+      allVariables.P40A1 = kararVermeStratejin2;
       allVariables.P40A2 = decision_strategy(decision_strategyData, 25, "s4_x_text", language);
-      allVariables.P40A3 = "Adımlar:";
+      allVariables.P40A3 = kararVermeStratejin3;
       allVariables.P40A4 = decision_strategy(decision_strategyData, 25, "s4_x_1", language);
       allVariables.P40A5 = decision_strategy(decision_strategyData, 25, "s4_x_txt", language);
       allVariables.P40A6 = decision_strategy(decision_strategyData, 25, "image", language);
@@ -9773,7 +10012,7 @@ var decision_strategy_eng_s4_11_txt = "By adhering to this decision-making strat
       allVariables.P45A18 = kariyer_secim(careerSelectionLastResult[2], 25, "s7_" + decision_strategyData.sectorName + "_x_6", language);
       allVariables.P45A19 = kariyer_secim(careerSelectionLastResult[2], 25, "s7_" + decision_strategyData.sectorName + "_x_7", language);    
   
-      allVariables.P47A1 = "Sevgili " + Object.entries(rawData).find((x) => x[0] == "kisiselbilgi / isim")[1]+","; // Sevgili Dinçer
+      allVariables.P47A1 = dearName;
   
       var inputs_25_plus = {
   
@@ -9886,13 +10125,13 @@ var decision_strategy_eng_s4_11_txt = "By adhering to this decision-making strat
   
       allVariables.P40A1 = decision_strategy(decision_strategyData, 25, "name", language); // Senin Karar Verme Stratejin
       allVariables.P40A2 = decision_strategy(decision_strategyData, 25, "s3_x_2", language);
-      allVariables.P40A3 = "İki Temel Unsur:";
+      allVariables.P40A3 = kararVermeStratejin1;
       allVariables.P40A4 = decision_strategy(decision_strategyData, 25, "s3_x_3", language);
       allVariables.P40A5 = decision_strategy(decision_strategyData, 25, "s3_x_4", language);
       
-      allVariables.P41A1 = "Karar Verme Stratejini Takip Etmek:";
+      allVariables.P41A1 = kararVermeStratejin2;
       allVariables.P41A2 = decision_strategy(decision_strategyData, 25, "s4_x_text", language);
-      allVariables.P41A3 = "Adımlar:";
+      allVariables.P41A3 = kararVermeStratejin3;
       allVariables.P41A4 = decision_strategy(decision_strategyData, 25, "s4_x_1", language);
       allVariables.P41A5 = decision_strategy(decision_strategyData, 25, "s4_x_txt", language);
       allVariables.P41A6 = decision_strategy(decision_strategyData, 25, "image", language);
@@ -9943,7 +10182,7 @@ var decision_strategy_eng_s4_11_txt = "By adhering to this decision-making strat
       allVariables.P46A18 = kariyer_secim(careerSelectionLastResult[2], 25, "s7_" + decision_strategyData.sectorName + "_x_6", language);
       allVariables.P46A19 = kariyer_secim(careerSelectionLastResult[2], 25, "s7_" + decision_strategyData.sectorName + "_x_7", language);
   
-      allVariables.P48A1 = "Sevgili " + Object.entries(rawData).find((x) => x[0] == "kisiselbilgi / isim")[1] + ","; // Sevgili Dinçer
+      allVariables.P48A1 = dearName;
   
       var inputs_25_plus = {
   
@@ -10062,13 +10301,13 @@ var decision_strategy_eng_s4_11_txt = "By adhering to this decision-making strat
       
       allVariables.P41A1 = decision_strategy(decision_strategyData, 25, "name", language); // Senin Karar Verme Stratejin
       allVariables.P41A2 = decision_strategy(decision_strategyData, 25, "s3_x_2", language);
-      allVariables.P41A3 = "İki Temel Unsur:";
+      allVariables.P41A3 = kararVermeStratejin1;
       allVariables.P41A4 = decision_strategy(decision_strategyData, 25, "s3_x_3", language);
       allVariables.P41A5 = decision_strategy(decision_strategyData, 25, "s3_x_4", language);
   
-      allVariables.P42A1 = "Karar Verme Stratejini Takip Etmek:";
+      allVariables.P42A1 = kararVermeStratejin2;
       allVariables.P42A2 = decision_strategy(decision_strategyData, 25, "s4_x_text", language);
-      allVariables.P42A3 = "Adımlar:";
+      allVariables.P42A3 = kararVermeStratejin3;
       allVariables.P42A4 = decision_strategy(decision_strategyData, 25, "s4_x_1", language);
       allVariables.P42A5 = decision_strategy(decision_strategyData, 25, "s4_x_txt", language);
       allVariables.P42A6 = decision_strategy(decision_strategyData, 25, "image", language);
@@ -10119,7 +10358,7 @@ var decision_strategy_eng_s4_11_txt = "By adhering to this decision-making strat
       allVariables.P47A18 = kariyer_secim(careerSelectionLastResult[2], 25, "s7_" + decision_strategyData.sectorName + "_x_6", language);
       allVariables.P47A19 = kariyer_secim(careerSelectionLastResult[2], 25, "s7_" + decision_strategyData.sectorName + "_x_7", language);
   
-      allVariables.P49A1 = "Sevgili " + Object.entries(rawData).find((x) => x[0] == "kisiselbilgi / isim")[1] + ","; // Sevgili Dinçer
+      allVariables.P49A1 = dearName;
   
       var inputs_25_plus = {
   
@@ -10430,13 +10669,13 @@ var decision_strategy_eng_s4_11_txt = "By adhering to this decision-making strat
   
       allVariables.P43A1 = decision_strategy(decision_strategyData, 25, "name", language); // Senin Karar Verme Stratejin
       allVariables.P43A2 = decision_strategy(decision_strategyData, 25, "s3_x_2", language);
-      allVariables.P43A3 = "İki Temel Unsur:";
+      allVariables.P43A3 = kararVermeStratejin1;
       allVariables.P43A4 = decision_strategy(decision_strategyData, 25, "s3_x_3", language);
       allVariables.P43A5 = decision_strategy(decision_strategyData, 25, "s3_x_4", language);
   
-      allVariables.P44A1 = "Karar Verme Stratejini Takip Etmek:";
+      allVariables.P44A1 = kararVermeStratejin2;
       allVariables.P44A2 = decision_strategy(decision_strategyData, 25, "s4_x_text", language);
-      allVariables.P44A3 = "Adımlar:";
+      allVariables.P44A3 = kararVermeStratejin3;
       allVariables.P44A4 = decision_strategy(decision_strategyData, 25, "s4_x_1", language);
       allVariables.P44A8 = decision_strategy(decision_strategyData, 25, "s4_x_txt", language);
       allVariables.P44A9 = decision_strategy(decision_strategyData, 25, "image", language);
@@ -10487,7 +10726,7 @@ var decision_strategy_eng_s4_11_txt = "By adhering to this decision-making strat
       allVariables.P49A18 = kariyer_secim(careerSelectionLastResult[2], 25, "s7_" + decision_strategyData.sectorName + "_x_6", language);
       allVariables.P49A19 = kariyer_secim(careerSelectionLastResult[2], 25, "s7_" + decision_strategyData.sectorName + "_x_7", language);
   
-      allVariables.P51A1 = "Sevgili " + Object.entries(rawData).find((x) => x[0] == "kisiselbilgi / isim")[1] + ","; // Sevgili Dinçer
+      allVariables.P51A1 = dearName;
   
       var inputs_25_plus = {
   
@@ -10625,13 +10864,13 @@ var decision_strategy_eng_s4_11_txt = "By adhering to this decision-making strat
   
       allVariables.P44A1 = decision_strategy(decision_strategyData, 25, "name", language);
       allVariables.P44A2 = decision_strategy(decision_strategyData, 25, "s3_x_2", language);
-      allVariables.P44A3 = "İki Temel Unsur:";
+      allVariables.P44A3 = kararVermeStratejin1;
       allVariables.P44A4 = decision_strategy(decision_strategyData, 25, "s3_x_3", language);
       allVariables.P44A5 = decision_strategy(decision_strategyData, 25, "s3_x_4", language);
   
-      allVariables.P45A1 = "Karar Verme Stratejini Takip Etmek:";
+      allVariables.P45A1 = kararVermeStratejin2;
       allVariables.P45A2 = decision_strategy(decision_strategyData, 25, "s4_x_text", language);
-      allVariables.P45A3 = "Adımlar:";
+      allVariables.P45A3 = kararVermeStratejin3;
       allVariables.P45A4 = decision_strategy(decision_strategyData, 25, "s4_x_1", language);
       allVariables.P45A5 = decision_strategy(decision_strategyData, 25, "s4_x_txt", language);
       allVariables.P45A6 = decision_strategy(decision_strategyData, 25, "image", language);
@@ -10682,7 +10921,7 @@ var decision_strategy_eng_s4_11_txt = "By adhering to this decision-making strat
       allVariables.P50A18 = kariyer_secim(careerSelectionLastResult[2], 25, "s7_" + decision_strategyData.sectorName + "_x_6", language);
       allVariables.P50A19 = kariyer_secim(careerSelectionLastResult[2], 25, "s7_" + decision_strategyData.sectorName + "_x_7", language);
   
-      allVariables.P52A1 = "Sevgili " + Object.entries(rawData).find((x) => x[0] == "kisiselbilgi / isim")[1] + ","; // Sevgili Dinçer
+      allVariables.P52A1 = dearName;
   
       var inputs_25_plus = {
   
