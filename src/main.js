@@ -84,7 +84,7 @@ export default async ({ req, res, log, error }) => {
   var answers = await database.getDocument(
     "65dc57b1e8322b0426ae",
     "65e97978db53e3998c12",
-    String(req),
+    String(req.body),
   );
   var processedData = JSON.parse(answers.ProcessedData);
   var rawData = JSON.parse(answers.RawData);
@@ -11081,5 +11081,5 @@ var decision_strategy_eng_s4_11_txt = "By adhering to this decision-making strat
 
   const jsonString = JSON.stringify(inputs_25_plus)
 
-  return inputs_25_plus;
+  return res.send(inputs_25_plus);
 };
