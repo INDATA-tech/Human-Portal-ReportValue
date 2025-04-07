@@ -29,23 +29,30 @@ export default async ({ req, res, log, error }) => {
   }
 
   function Map2SektorName(sektorName) {
-    if (sektorName == "Teknoloji") {
+    if (sektorName == "Teknoloji")
       return "tech";
-    } else if (sektorName == "Perakende") {
+    else if (sektorName == "Perakende")
       return "retail";
-    } else if (sektorName == "Moda ve Hazır Giyim") {
+    else if (sektorName == "Moda ve Hazır Giyim")
       return "dress";
-    } else if (sektorName == "Otomotiv") {
+    else if (sektorName == "Otomotiv")
       return "auto";
-    } else if (sektorName == "Sağlık ve İlaç") {
+    else if (sektorName == "Sağlık ve İlaç")
       return "health";
-    } else if (sektorName == "Mutfak Sanatları") {
+    else if (sektorName == "Mutfak Sanatları")
       return "meal";
-    } else if (sektorName == "Diğer") {
-      return "other";
-    } else {
-      return sektorName;
-    }
+    else if (sektorName == "Technology")
+      return "tech";
+    else if (sektorName == "Retail")
+      return "retail";
+    else if (sektorName == "Fashion and ready-to-wear")
+      return "dress";
+    else if (sektorName == "Automotive")
+      return "auto";
+    else if (sektorName == "Health and Medicine")
+      return "health";
+    else if (sektorName == "Culinary arts")
+      return "meal";
   }
 
   function siralaValueUzunlugunaGore(gates) {
@@ -863,11 +870,11 @@ export default async ({ req, res, log, error }) => {
     );
   }
   careerSelectionLastResult.sort((a, b) => b.value - a.value);
-  // console.log(hollanddataPercent);
-  // console.log(bigdataPercent);
-  // console.log(careerSelectionLastResult);
-  // console.log(sortedaiData);
-  // console.log(sortedTeamWorkData);
+  console.log(hollanddataPercent);
+  console.log(bigdataPercent);
+  console.log(careerSelectionLastResult);
+  console.log(sortedaiData);
+  console.log(sortedTeamWorkData);
 
   var careerSelectionData = [
     {
@@ -1065,6 +1072,7 @@ var c_o_s_subjective_eng_s3 = "• How can you incorporate different perspective
 var c_o_s_objective_eng_title = "Objective";
 var c_o_s_objective_eng = "With your Objective Assimilation, you have a gift for taking in information without bias, allowing you to share your findings in a way that's truly objective. Your approach to assimilating information involves sampling the environment, reflecting on what you encounter, and evaluating what you perceive with a clear and impartial view.\n\nYour unique capability to sense the overall health of an environment, whether it's the physical space of your office or the emotional climate of your team, is invaluable. You naturally pick up on subtle cues, giving you an objective sense of whether a situation is thriving or if there are underlying issues that need addressing.\n\nWith a keen sense for authenticity, you can intuitively sense when people around you are being genuine or if they’re not aligned with their true selves. This skill enables you to navigate the business landscape with an understanding of who you can trust and who might need encouragement to open.\n\nYour openness allows you to act almost like a mirror, reflecting to people and groups the reality of their actions and choices, especially when they might be causing harm or injustice. This can make you a powerful agent for change, as you help those around you to see things more clearly and make adjustments that benefit everyone. As an Evaluator with Objective Assimilation, everything you experience is processed with the aim of understanding and evaluating it without personal filters. This wide-open approach doesn't mean you're affected by everything; rather, you can let information pass through you, giving you a clear perspective that others might miss.";
 var c_o_s_objective_eng_s3 = "• How do you reflect your impartial observations of what’s happening around you into your work life?\n\n• How do you respond when you sense people's sincerity or lack of alignment, and how do you use this insight?\n\n• How can you make work processes more efficient by leveraging your ability to sense the emotional and physical health of your environment?\n\n• Acting like a mirror at work, what kind of awareness do you bring to others, and how do you think you create change through this process?\n\n• How does your impartial assessment help ensure that your organization stays true to its mission?";
+
 //Kariyer Seçim
 //12-25
 var kariyer_secim_12_25_s2_1_1 = "Yaratıcı ve Sanatsal Kariyerler";
@@ -3999,7 +4007,7 @@ var decision_strategy_eng_s4_11_txt = "By adhering to this decision-making strat
         } else if (hollandName == "Araştırıcı") {
           return kslk_ozl_investigative_eng_your_interests_1;
         } else if (hollandName == "Artistik Sanatsal") {
-          return kslk_ozl_artistic_your_eng_interests_1;
+          return kslk_ozl_artistic_eng_your_eng_interests_1;
         } else if (hollandName == "Sosyal") {
           return kslk_ozl_social_eng_your_interests_1;
         } else if (hollandName == "Girişimci") {
@@ -5065,17 +5073,17 @@ var decision_strategy_eng_s4_11_txt = "By adhering to this decision-making strat
         } else if (worklearnData == "Quadruple Split Definition") {
           return c_o_s_subjective;
         }
-      } else if (type == "s3_1") {
+      } else if (type == "s3") {
         if (worklearnData == "No Definition") {
-          return c_o_s_objective_s3_1;
+          return c_o_s_objective_s3;
         } else if (worklearnData == "Single Definition") {
-          return c_o_s_individual_s3_1;
+          return c_o_s_individual_s3;
         } else if (worklearnData == "Split Definition") {
-          return c_o_s_collaborative_s3_1;
+          return c_o_s_collaborative_s3;
         } else if (worklearnData == "Triple Split Definition") {
-          return c_o_s_synthesizing_s3_1;
+          return c_o_s_synthesizing_s3;
         } else if (worklearnData == "Quadruple Split Definition") {
-          return c_o_s_subjective_s3_1;
+          return c_o_s_subjective_s3;
         }
       } else if (type == "ozet_1") {
         if (worklearnData == "No Definition") {
@@ -5127,7 +5135,7 @@ var decision_strategy_eng_s4_11_txt = "By adhering to this decision-making strat
         } else if (worklearnData == "Quadruple Split Definition") {
           return c_o_s_subjective_eng;
         }
-      } else if (type == "s3_1") {
+      } else if (type == "s3") {
         if (worklearnData == "No Definition") {
           return c_o_s_objective_eng_s3;
         } else if (worklearnData == "Single Definition") {
@@ -5565,29 +5573,29 @@ var decision_strategy_eng_s4_11_txt = "By adhering to this decision-making strat
         }
       } else if (type == "s3_2") {
         if (is_y_rData == "1 / 3") {
-          return is_y_r_1_s3_2;
+          return is_y_r_eng_1_s3_2;
         } else if (is_y_rData == "1 / 4") {
-          return is_y_r_2_s3_2;
+          return is_y_r_eng_2_s3_2;
         } else if (is_y_rData == "2 / 4") {
-          return is_y_r_3_s3_2;
+          return is_y_r_eng_3_s3_2;
         } else if (is_y_rData == "2 / 5") {
-          return is_y_r_4_s3_2;
+          return is_y_r_eng_4_s3_2;
         } else if (is_y_rData == "3 / 5") {
-          return is_y_r_5_s3_2;
+          return is_y_r_eng_5_s3_2;
         } else if (is_y_rData == "3 / 6") {
-          return is_y_r_6_s3_2;
+          return is_y_r_eng_6_s3_2;
         } else if (is_y_rData == "4 / 1") {
-          return is_y_r_7_s3_2;
+          return is_y_r_eng_7_s3_2;
         } else if (is_y_rData == "4 / 6") {
-          return is_y_r_8_s3_2;
+          return is_y_r_eng_8_s3_2;
         } else if (is_y_rData == "5 / 1") {
-          return is_y_r_9_s3_2;
+          return is_y_r_eng_9_s3_2;
         } else if (is_y_rData == "5 / 2") {
-          return is_y_r_10_s3_2;
+          return is_y_r_eng_10_s3_2;
         } else if (is_y_rData == "6 / 2") {
-          return is_y_r_11_s3_2;
+          return is_y_r_eng_11_s3_2;
         } else if (is_y_rData == "6 / 3") {
-          return is_y_r_12_s3_2;
+          return is_y_r_eng_12_s3_2;
         }
       }
     }
@@ -7236,7 +7244,7 @@ var decision_strategy_eng_s4_11_txt = "By adhering to this decision-making strat
           return kariyer_secim_25_plus_eng_s2_9_1;
         }
       } else if (type == "sector") {
-        if (kariyer_secimData == "Technology") {
+        if (kariyer_secimData == "tech") {
           return "Technology";
         } else if (kariyer_secimData == "retail") {
           return "Perakende";
@@ -7311,843 +7319,843 @@ var decision_strategy_eng_s4_11_txt = "By adhering to this decision-making strat
         }
       } else if (type == "s7_retail_x_1") {
         if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yaratıcı ve Sanatsal Kariyerler") {
-          return kariyer_secim_25_plus_s7_retail_1_1;
+          return kariyer_secim_25_plus_s7_eng_retail_1_1;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Liderlik ve Yönetim Kariyerleri") {
-          return kariyer_secim_25_plus_s7_retail_2_1;
+          return kariyer_secim_25_plus_s7_eng_retail_2_1;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yardım ve Sosyal Kariyerler") {
-          return kariyer_secim_25_plus_s7_retail_3_1;
+          return kariyer_secim_25_plus_s7_eng_retail_3_1;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Teknik ve Mühendislik Kariyerleri") {
-          return kariyer_secim_25_plus_s7_retail_4_1;
+          return kariyer_secim_25_plus_s7_eng_retail_4_1;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Satış ve İlişki Kurma Kariyerleri") {
-          return kariyer_secim_25_plus_s7_retail_5_1;
+          return kariyer_secim_25_plus_s7_eng_retail_5_1;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Organizasyonel ve İdari Kariyerler") {
-          return kariyer_secim_25_plus_s7_retail_6_1;
+          return kariyer_secim_25_plus_s7_eng_retail_6_1;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yenilikçi ve Girişimci Kariyerler") {
-          return kariyer_secim_25_plus_s7_retail_7_1;
+          return kariyer_secim_25_plus_s7_eng_retail_7_1;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Öğretim ve Mentorluk Kariyerleri") {
-          return kariyer_secim_25_plus_s7_retail_8_1;
+          return kariyer_secim_25_plus_s7_eng_retail_8_1;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Analitik ve Veri Odaklı Kariyerler") {
-          return kariyer_secim_25_plus_s7_retail_9_1;
+          return kariyer_secim_25_plus_s7_eng_retail_9_1;
         }
       } else if (type == "s7_retail_x_2") {
         if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yaratıcı ve Sanatsal Kariyerler") {
-          return kariyer_secim_25_plus_s7_retail_1_2;
+          return kariyer_secim_25_plus_s7_eng_retail_1_2;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Liderlik ve Yönetim Kariyerleri") {
-          return kariyer_secim_25_plus_s7_retail_2_2;
+          return kariyer_secim_25_plus_s7_eng_retail_2_2;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yardım ve Sosyal Kariyerler") {
-          return kariyer_secim_25_plus_s7_retail_3_2;
+          return kariyer_secim_25_plus_s7_eng_retail_3_2;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Teknik ve Mühendislik Kariyerleri") {
-          return kariyer_secim_25_plus_s7_retail_4_2;
+          return kariyer_secim_25_plus_s7_eng_retail_4_2;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Satış ve İlişki Kurma Kariyerleri") {
-          return kariyer_secim_25_plus_s7_retail_5_2;
+          return kariyer_secim_25_plus_s7_eng_retail_5_2;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Organizasyonel ve İdari Kariyerler") {
-          return kariyer_secim_25_plus_s7_retail_6_2;
+          return kariyer_secim_25_plus_s7_eng_retail_6_2;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yenilikçi ve Girişimci Kariyerler") {
-          return kariyer_secim_25_plus_s7_retail_7_2;
+          return kariyer_secim_25_plus_s7_eng_retail_7_2;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Öğretim ve Mentorluk Kariyerleri") {
-          return kariyer_secim_25_plus_s7_retail_8_2;
+          return kariyer_secim_25_plus_s7_eng_retail_8_2;
         } if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Analitik ve Veri Odaklı Kariyerler") {
-          return kariyer_secim_25_plus_s7_retail_9_2;
+          return kariyer_secim_25_plus_s7_eng_retail_9_2;
         }
       } else if (type == "s7_retail_x_3") {
         if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yaratıcı ve Sanatsal Kariyerler") {
-          return kariyer_secim_25_plus_s7_retail_1_3;
+          return kariyer_secim_25_plus_s7_eng_retail_1_3;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Liderlik ve Yönetim Kariyerleri") {
-          return kariyer_secim_25_plus_s7_retail_2_3;
+          return kariyer_secim_25_plus_s7_eng_retail_2_3;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yardım ve Sosyal Kariyerler") {
-          return kariyer_secim_25_plus_s7_retail_3_3;
+          return kariyer_secim_25_plus_s7_eng_retail_3_3;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Teknik ve Mühendislik Kariyerleri") {
-          return kariyer_secim_25_plus_s7_retail_4_3;
+          return kariyer_secim_25_plus_s7_eng_retail_4_3;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Satış ve İlişki Kurma Kariyerleri") {
-          return kariyer_secim_25_plus_s7_retail_5_3;
+          return kariyer_secim_25_plus_s7_eng_retail_5_3;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Organizasyonel ve İdari Kariyerler") {
-          return kariyer_secim_25_plus_s7_retail_6_3;
+          return kariyer_secim_25_plus_s7_eng_retail_6_3;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yenilikçi ve Girişimci Kariyerler") {
-          return kariyer_secim_25_plus_s7_retail_7_3;
+          return kariyer_secim_25_plus_s7_eng_retail_7_3;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Öğretim ve Mentorluk Kariyerleri") {
-          return kariyer_secim_25_plus_s7_retail_8_3;
+          return kariyer_secim_25_plus_s7_eng_retail_8_3;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Analitik ve Veri Odaklı Kariyerler") {
-          return kariyer_secim_25_plus_s7_retail_9_3;
+          return kariyer_secim_25_plus_s7_eng_retail_9_3;
         }
       } else if (type == "s7_retail_x_4") {
         if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yaratıcı ve Sanatsal Kariyerler") {
-          return kariyer_secim_25_plus_s7_retail_1_4;
+          return kariyer_secim_25_plus_s7_eng_retail_1_4;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Liderlik ve Yönetim Kariyerleri") {
-          return kariyer_secim_25_plus_s7_retail_2_4;
+          return kariyer_secim_25_plus_s7_eng_retail_2_4;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yardım ve Sosyal Kariyerler") {
-          return kariyer_secim_25_plus_s7_retail_3_4;
+          return kariyer_secim_25_plus_s7_eng_retail_3_4;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Teknik ve Mühendislik Kariyerleri") {
-          return kariyer_secim_25_plus_s7_retail_4_4;
+          return kariyer_secim_25_plus_s7_eng_retail_4_4;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Satış ve İlişki Kurma Kariyerleri") {
-          return kariyer_secim_25_plus_s7_retail_5_4;
+          return kariyer_secim_25_plus_s7_eng_retail_5_4;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Organizasyonel ve İdari Kariyerler") {
-          return kariyer_secim_25_plus_s7_retail_6_4;
+          return kariyer_secim_25_plus_s7_eng_retail_6_4;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yenilikçi ve Girişimci Kariyerler") {
-          return kariyer_secim_25_plus_s7_retail_7_4;
+          return kariyer_secim_25_plus_s7_eng_retail_7_4;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Öğretim ve Mentorluk Kariyerleri") {
-          return kariyer_secim_25_plus_s7_retail_8_4;
+          return kariyer_secim_25_plus_s7_eng_retail_8_4;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Analitik ve Veri Odaklı Kariyerler") {
-          return kariyer_secim_25_plus_s7_retail_9_4;
+          return kariyer_secim_25_plus_s7_eng_retail_9_4;
         }
       } else if (type == "s7_retail_x_5") {
         if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yaratıcı ve Sanatsal Kariyerler") {
-          return kariyer_secim_25_plus_s7_retail_1_5;
+          return kariyer_secim_25_plus_s7_eng_retail_1_5;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Liderlik ve Yönetim Kariyerleri") {
-          return kariyer_secim_25_plus_s7_retail_2_5;
+          return kariyer_secim_25_plus_s7_eng_retail_2_5;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yardım ve Sosyal Kariyerler") {
-          return kariyer_secim_25_plus_s7_retail_3_5;
+          return kariyer_secim_25_plus_s7_eng_retail_3_5;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Teknik ve Mühendislik Kariyerleri") {
-          return kariyer_secim_25_plus_s7_retail_4_5;
+          return kariyer_secim_25_plus_s7_eng_retail_4_5;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Satış ve İlişki Kurma Kariyerleri") {
-          return kariyer_secim_25_plus_s7_retail_5_5;
+          return kariyer_secim_25_plus_s7_eng_retail_5_5;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Organizasyonel ve İdari Kariyerler") {
-          return kariyer_secim_25_plus_s7_retail_6_5;
+          return kariyer_secim_25_plus_s7_eng_retail_6_5;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yenilikçi ve Girişimci Kariyerler") {
-          return kariyer_secim_25_plus_s7_retail_7_5;
+          return kariyer_secim_25_plus_s7_eng_retail_7_5;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Öğretim ve Mentorluk Kariyerleri") {
-          return kariyer_secim_25_plus_s7_retail_8_5;
+          return kariyer_secim_25_plus_s7_eng_retail_8_5;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Analitik ve Veri Odaklı Kariyerler") {
-          return kariyer_secim_25_plus_s7_retail_9_5;
+          return kariyer_secim_25_plus_s7_eng_retail_9_5;
         }
       } else if (type == "s7_retail_x_6") {
         if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yaratıcı ve Sanatsal Kariyerler") {
-          return kariyer_secim_25_plus_s7_retail_1_6;
+          return kariyer_secim_25_plus_s7_eng_retail_1_6;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Liderlik ve Yönetim Kariyerleri") {
-          return kariyer_secim_25_plus_s7_retail_2_6;
+          return kariyer_secim_25_plus_s7_eng_retail_2_6;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yardım ve Sosyal Kariyerler") {
-          return kariyer_secim_25_plus_s7_retail_3_6;
+          return kariyer_secim_25_plus_s7_eng_retail_3_6;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Teknik ve Mühendislik Kariyerleri") {
-          return kariyer_secim_25_plus_s7_retail_4_6;
+          return kariyer_secim_25_plus_s7_eng_retail_4_6;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Satış ve İlişki Kurma Kariyerleri") {
-          return kariyer_secim_25_plus_s7_retail_5_6;
+          return kariyer_secim_25_plus_s7_eng_retail_5_6;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Organizasyonel ve İdari Kariyerler") {
-          return kariyer_secim_25_plus_s7_retail_6_6;
+          return kariyer_secim_25_plus_s7_eng_retail_6_6;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yenilikçi ve Girişimci Kariyerler") {
-          return kariyer_secim_25_plus_s7_retail_7_6;
+          return kariyer_secim_25_plus_s7_eng_retail_7_6;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Öğretim ve Mentorluk Kariyerleri") {
-          return kariyer_secim_25_plus_s7_retail_8_6;
+          return kariyer_secim_25_plus_s7_eng_retail_8_6;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Analitik ve Veri Odaklı Kariyerler") {
-          return kariyer_secim_25_plus_s7_retail_9_6;
+          return kariyer_secim_25_plus_s7_eng_retail_9_6;
         }
       } else if (type == "s7_retail_x_7") {
         if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yaratıcı ve Sanatsal Kariyerler") {
-          return kariyer_secim_25_plus_s7_retail_1_7;
+          return kariyer_secim_25_plus_s7_eng_retail_1_7;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Liderlik ve Yönetim Kariyerleri") {
-          return kariyer_secim_25_plus_s7_retail_2_7;
+          return kariyer_secim_25_plus_s7_eng_retail_2_7;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yardım ve Sosyal Kariyerler") {
-          return kariyer_secim_25_plus_s7_retail_3_7;
+          return kariyer_secim_25_plus_s7_eng_retail_3_7;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Teknik ve Mühendislik Kariyerleri") {
-          return kariyer_secim_25_plus_s7_retail_4_7;
+          return kariyer_secim_25_plus_s7_eng_retail_4_7;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Satış ve İlişki Kurma Kariyerleri") {
-          return kariyer_secim_25_plus_s7_retail_5_7;
+          return kariyer_secim_25_plus_s7_eng_retail_5_7;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Organizasyonel ve İdari Kariyerler") {
-          return kariyer_secim_25_plus_s7_retail_6_7;
+          return kariyer_secim_25_plus_s7_eng_retail_6_7;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yenilikçi ve Girişimci Kariyerler") {
-          return kariyer_secim_25_plus_s7_retail_7_7;
+          return kariyer_secim_25_plus_s7_eng_retail_7_7;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Öğretim ve Mentorluk Kariyerleri") {
-          return kariyer_secim_25_plus_s7_retail_8_7;
+          return kariyer_secim_25_plus_s7_eng_retail_8_7;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Analitik ve Veri Odaklı Kariyerler") {
-          return kariyer_secim_25_plus_s7_retail_9_7;
+          return kariyer_secim_25_plus_s7_eng_retail_9_7;
         }
       } else if (type == "s7_health_x_1") {
         if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yaratıcı ve Sanatsal Kariyerler") {
-          return kariyer_secim_25_plus_s7_health_1_1;
+          return kariyer_secim_25_plus_s7_eng_health_1_1;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Liderlik ve Yönetim Kariyerleri") {
-          return kariyer_secim_25_plus_s7_health_2_1;
+          return kariyer_secim_25_plus_s7_eng_health_2_1;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yardım ve Sosyal Kariyerler") {
-          return kariyer_secim_25_plus_s7_health_3_1;
+          return kariyer_secim_25_plus_s7_eng_health_3_1;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Teknik ve Mühendislik Kariyerleri") {
-          return kariyer_secim_25_plus_s7_health_4_1;
+          return kariyer_secim_25_plus_s7_eng_health_4_1;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Satış ve İlişki Kurma Kariyerleri") {
-          return kariyer_secim_25_plus_s7_health_5_1;
+          return kariyer_secim_25_plus_s7_eng_health_5_1;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Organizasyonel ve İdari Kariyerler") {
-          return kariyer_secim_25_plus_s7_health_6_1;
+          return kariyer_secim_25_plus_s7_eng_health_6_1;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yenilikçi ve Girişimci Kariyerler") {
-          return kariyer_secim_25_plus_s7_health_7_1;
+          return kariyer_secim_25_plus_s7_eng_health_7_1;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Öğretim ve Mentorluk Kariyerleri") {
-          return kariyer_secim_25_plus_s7_health_8_1;
+          return kariyer_secim_25_plus_s7_eng_health_8_1;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Analitik ve Veri Odaklı Kariyerler") {
-          return kariyer_secim_25_plus_s7_health_9_1;
+          return kariyer_secim_25_plus_s7_eng_health_9_1;
         }
       } else if (type == "s7_health_x_2") {
         if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yaratıcı ve Sanatsal Kariyerler") {
-          return kariyer_secim_25_plus_s7_health_1_2;
+          return kariyer_secim_25_plus_s7_eng_health_1_2;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Liderlik ve Yönetim Kariyerleri") {
-          return kariyer_secim_25_plus_s7_health_2_2;
+          return kariyer_secim_25_plus_s7_eng_health_2_2;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yardım ve Sosyal Kariyerler") {
-          return kariyer_secim_25_plus_s7_health_3_2;
+          return kariyer_secim_25_plus_s7_eng_health_3_2;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Teknik ve Mühendislik Kariyerleri") {
-          return kariyer_secim_25_plus_s7_health_4_2;
+          return kariyer_secim_25_plus_s7_eng_health_4_2;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Satış ve İlişki Kurma Kariyerleri") {
-          return kariyer_secim_25_plus_s7_health_5_2;
+          return kariyer_secim_25_plus_s7_eng_health_5_2;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Organizasyonel ve İdari Kariyerler") {
-          return kariyer_secim_25_plus_s7_health_6_2;
+          return kariyer_secim_25_plus_s7_eng_health_6_2;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yenilikçi ve Girişimci Kariyerler") {
-          return kariyer_secim_25_plus_s7_health_7_2;
+          return kariyer_secim_25_plus_s7_eng_health_7_2;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Öğretim ve Mentorluk Kariyerleri") {
-          return kariyer_secim_25_plus_s7_health_8_2;
+          return kariyer_secim_25_plus_s7_eng_health_8_2;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Analitik ve Veri Odaklı Kariyerler") {
-          return kariyer_secim_25_plus_s7_health_9_2;
+          return kariyer_secim_25_plus_s7_eng_health_9_2;
         }
       } else if (type == "s7_health_x_3") {
         if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yaratıcı ve Sanatsal Kariyerler") {
-          return kariyer_secim_25_plus_s7_health_1_3;
+          return kariyer_secim_25_plus_s7_eng_health_1_3;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Liderlik ve Yönetim Kariyerleri") {
-          return kariyer_secim_25_plus_s7_health_2_3;
+          return kariyer_secim_25_plus_s7_eng_health_2_3;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yardım ve Sosyal Kariyerler") {
-          return kariyer_secim_25_plus_s7_health_3_3;
+          return kariyer_secim_25_plus_s7_eng_health_3_3;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Teknik ve Mühendislik Kariyerleri") {
-          return kariyer_secim_25_plus_s7_health_4_3;
+          return kariyer_secim_25_plus_s7_eng_health_4_3;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Satış ve İlişki Kurma Kariyerleri") {
-          return kariyer_secim_25_plus_s7_health_5_3;
+          return kariyer_secim_25_plus_s7_eng_health_5_3;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Organizasyonel ve İdari Kariyerler") {
-          return kariyer_secim_25_plus_s7_health_6_3;
+          return kariyer_secim_25_plus_s7_eng_health_6_3;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yenilikçi ve Girişimci Kariyerler") {
-          return kariyer_secim_25_plus_s7_health_7_3;
+          return kariyer_secim_25_plus_s7_eng_health_7_3;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Öğretim ve Mentorluk Kariyerleri") {
-          return kariyer_secim_25_plus_s7_health_8_3;
+          return kariyer_secim_25_plus_s7_eng_health_8_3;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Analitik ve Veri Odaklı Kariyerler") {
-          return kariyer_secim_25_plus_s7_health_9_3;
+          return kariyer_secim_25_plus_s7_eng_health_9_3;
         }
       } else if (type == "s7_health_x_4") {
         if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yaratıcı ve Sanatsal Kariyerler") {
-          return kariyer_secim_25_plus_s7_health_1_4;
+          return kariyer_secim_25_plus_s7_eng_health_1_4;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Liderlik ve Yönetim Kariyerleri") {
-          return kariyer_secim_25_plus_s7_health_2_4;
+          return kariyer_secim_25_plus_s7_eng_health_2_4;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yardım ve Sosyal Kariyerler") {
-          return kariyer_secim_25_plus_s7_health_3_4;
+          return kariyer_secim_25_plus_s7_eng_health_3_4;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Teknik ve Mühendislik Kariyerleri") {
-          return kariyer_secim_25_plus_s7_health_4_4;
+          return kariyer_secim_25_plus_s7_eng_health_4_4;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Satış ve İlişki Kurma Kariyerleri") {
-          return kariyer_secim_25_plus_s7_health_5_4;
+          return kariyer_secim_25_plus_s7_eng_health_5_4;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Organizasyonel ve İdari Kariyerler") {
-          return kariyer_secim_25_plus_s7_health_6_4;
+          return kariyer_secim_25_plus_s7_eng_health_6_4;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yenilikçi ve Girişimci Kariyerler") {
-          return kariyer_secim_25_plus_s7_health_7_4;
+          return kariyer_secim_25_plus_s7_eng_health_7_4;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Öğretim ve Mentorluk Kariyerleri") {
-          return kariyer_secim_25_plus_s7_health_8_4;
+          return kariyer_secim_25_plus_s7_eng_health_8_4;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Analitik ve Veri Odaklı Kariyerler") {
-          return kariyer_secim_25_plus_s7_health_9_4;
+          return kariyer_secim_25_plus_s7_eng_health_9_4;
         }
       } else if (type == "s7_health_x_5") {
         if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Analitik ve Veri Odaklı Kariyerler") {
-          return kariyer_secim_25_plus_s7_health_1_5;
+          return kariyer_secim_25_plus_s7_eng_health_1_5;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yaratıcı ve Sanatsal Kariyerler") {
-          return kariyer_secim_25_plus_s7_health_2_5;
+          return kariyer_secim_25_plus_s7_eng_health_2_5;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Liderlik ve Yönetim Kariyerleri") {
-          return kariyer_secim_25_plus_s7_health_3_5;
+          return kariyer_secim_25_plus_s7_eng_health_3_5;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yardım ve Sosyal Kariyerler") {
-          return kariyer_secim_25_plus_s7_health_4_5;
+          return kariyer_secim_25_plus_s7_eng_health_4_5;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Teknik ve Mühendislik Kariyerleri") {
-          return kariyer_secim_25_plus_s7_health_5_5;
+          return kariyer_secim_25_plus_s7_eng_health_5_5;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Satış ve İlişki Kurma Kariyerleri") {
-          return kariyer_secim_25_plus_s7_health_6_5;
+          return kariyer_secim_25_plus_s7_eng_health_6_5;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Organizasyonel ve İdari Kariyerler") {
-          return kariyer_secim_25_plus_s7_health_7_5;
+          return kariyer_secim_25_plus_s7_eng_health_7_5;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yenilikçi ve Girişimci Kariyerler") {
-          return kariyer_secim_25_plus_s7_health_8_5;
+          return kariyer_secim_25_plus_s7_eng_health_8_5;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Öğretim ve Mentorluk Kariyerleri") {
-          return kariyer_secim_25_plus_s7_health_9_5;
+          return kariyer_secim_25_plus_s7_eng_health_9_5;
         }
       } else if (type == "s7_health_x_6") {
         if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yaratıcı ve Sanatsal Kariyerler") {
-          return kariyer_secim_25_plus_s7_health_1_6;
+          return kariyer_secim_25_plus_s7_eng_health_1_6;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Liderlik ve Yönetim Kariyerleri") {
-          return kariyer_secim_25_plus_s7_health_2_6;
+          return kariyer_secim_25_plus_s7_eng_health_2_6;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yardım ve Sosyal Kariyerler") {
-          return kariyer_secim_25_plus_s7_health_3_6;
+          return kariyer_secim_25_plus_s7_eng_health_3_6;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Teknik ve Mühendislik Kariyerleri") {
-          return kariyer_secim_25_plus_s7_health_4_6;
+          return kariyer_secim_25_plus_s7_eng_health_4_6;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Satış ve İlişki Kurma Kariyerleri") {
-          return kariyer_secim_25_plus_s7_health_5_6;
+          return kariyer_secim_25_plus_s7_eng_health_5_6;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Organizasyonel ve İdari Kariyerler") {
-          return kariyer_secim_25_plus_s7_health_6_6;
+          return kariyer_secim_25_plus_s7_eng_health_6_6;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yenilikçi ve Girişimci Kariyerler") {
-          return kariyer_secim_25_plus_s7_health_7_6;
+          return kariyer_secim_25_plus_s7_eng_health_7_6;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Öğretim ve Mentorluk Kariyerleri") {
-          return kariyer_secim_25_plus_s7_health_8_6;
+          return kariyer_secim_25_plus_s7_eng_health_8_6;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Analitik ve Veri Odaklı Kariyerler") {
-          return kariyer_secim_25_plus_s7_health_9_6;
+          return kariyer_secim_25_plus_s7_eng_health_9_6;
         }
       } else if (type == "s7_health_x_7") {
         if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yaratıcı ve Sanatsal Kariyerler") {
-          return kariyer_secim_25_plus_s7_health_1_7;
+          return kariyer_secim_25_plus_s7_eng_health_1_7;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Liderlik ve Yönetim Kariyerleri") {
-          return kariyer_secim_25_plus_s7_health_2_7;
+          return kariyer_secim_25_plus_s7_eng_ealth_2_7;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yardım ve Sosyal Kariyerler") {
-          return kariyer_secim_25_plus_s7_health_3_7;
+          return kariyer_secim_25_plus_s7_eng_health_3_7;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Teknik ve Mühendislik Kariyerleri") {
-          return kariyer_secim_25_plus_s7_health_4_7;
+          return kariyer_secim_25_plus_s7_eng_health_4_7;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Satış ve İlişki Kurma Kariyerleri") {
-          return kariyer_secim_25_plus_s7_health_5_7;
+          return kariyer_secim_25_plus_s7_eng_health_5_7;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Organizasyonel ve İdari Kariyerler") {
-          return kariyer_secim_25_plus_s7_health_6_7;
+          return kariyer_secim_25_plus_s7_eng_health_6_7;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yenilikçi ve Girişimci Kariyerler") {
-          return kariyer_secim_25_plus_s7_health_7_7;
+          return kariyer_secim_25_plus_s7_eng_health_7_7;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Öğretim ve Mentorluk Kariyerleri") {
-          return kariyer_secim_25_plus_s7_health_8_7;
+          return kariyer_secim_25_plus_s7_eng_health_8_7;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Analitik ve Veri Odaklı Kariyerler") {
-          return kariyer_secim_25_plus_s7_health_9_7;
+          return kariyer_secim_25_plus_s7_eng_health_9_7;
         }
-      } else if (type == "s7_Technology_x_1") {
+      } else if (type == "s7_tech_x_1") {
         if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yaratıcı ve Sanatsal Kariyerler") {
-          return kariyer_secim_25_plus_s7_tech_1_1;
+          return kariyer_secim_25_plus_s7_eng_tech_1_1;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Liderlik ve Yönetim Kariyerleri") {
-          return kariyer_secim_25_plus_s7_tech_2_1;
+          return kariyer_secim_25_plus_s7_eng_tech_2_1;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yardım ve Sosyal Kariyerler") {
-          return kariyer_secim_25_plus_s7_tech_3_1;
+          return kariyer_secim_25_plus_s7_eng_tech_3_1;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Teknik ve Mühendislik Kariyerleri") {
-          return kariyer_secim_25_plus_s7_tech_4_1;
+          return kariyer_secim_25_plus_s7_eng_tech_4_1;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Satış ve İlişki Kurma Kariyerleri") {
-          return kariyer_secim_25_plus_s7_tech_5_1;
+          return kariyer_secim_25_plus_s7_eng_tech_5_1;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Organizasyonel ve İdari Kariyerler") {
-          return kariyer_secim_25_plus_s7_tech_6_1;
+          return kariyer_secim_25_plus_s7_eng_tech_6_1;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yenilikçi ve Girişimci Kariyerler") {
-          return kariyer_secim_25_plus_s7_tech_7_1;
+          return kariyer_secim_25_plus_s7_eng_tech_7_1;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Öğretim ve Mentorluk Kariyerleri") {
-          return kariyer_secim_25_plus_s7_tech_8_1;
+          return kariyer_secim_25_plus_s7_eng_tech_8_1;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Analitik ve Veri Odaklı Kariyerler") {
-          return kariyer_secim_25_plus_s7_tech_9_1;
+          return kariyer_secim_25_plus_s7_eng_tech_9_1;
         }
-      } else if (type == "s7_Technology_x_2") {
+      } else if (type == "s7_tech_x_2") {
         if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yaratıcı ve Sanatsal Kariyerler") {
-          return kariyer_secim_25_plus_s7_tech_1_2;
+          return kariyer_secim_25_plus_s7_eng_tech_1_2;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Liderlik ve Yönetim Kariyerleri") {
-          return kariyer_secim_25_plus_s7_tech_2_2;
+          return kariyer_secim_25_plus_s7_eng_tech_2_2;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yardım ve Sosyal Kariyerler") {
-          return kariyer_secim_25_plus_s7_tech_3_2;
+          return kariyer_secim_25_plus_s7_eng_tech_3_2;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Teknik ve Mühendislik Kariyerleri") {
-          return kariyer_secim_25_plus_s7_tech_4_2;
+          return kariyer_secim_25_plus_s7_eng_tech_4_2;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Satış ve İlişki Kurma Kariyerleri") {
-          return kariyer_secim_25_plus_s7_tech_5_2;
+          return kariyer_secim_25_plus_s7_eng_tech_5_2;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Organizasyonel ve İdari Kariyerler") {
-          return kariyer_secim_25_plus_s7_tech_6_2;
+          return kariyer_secim_25_plus_s7_eng_tech_6_2;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yenilikçi ve Girişimci Kariyerler") {
-          return kariyer_secim_25_plus_s7_tech_7_2;
+          return kariyer_secim_25_plus_s7_eng_tech_7_2;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Öğretim ve Mentorluk Kariyerleri") {
-          return kariyer_secim_25_plus_s7_tech_8_2;
+          return kariyer_secim_25_plus_s7_eng_tech_8_2;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Analitik ve Veri Odaklı Kariyerler") {
-          return kariyer_secim_25_plus_s7_tech_9_2;
+          return kariyer_secim_25_plus_s7_eng_tech_9_2;
         }
-      } else if (type == "s7_Technology_x_3") {
+      } else if (type == "s7_tech_x_3") {
         if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yaratıcı ve Sanatsal Kariyerler") {
-          return kariyer_secim_25_plus_s7_tech_1_3;
+          return kariyer_secim_25_plus_s7_eng_tech_1_3;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Liderlik ve Yönetim Kariyerleri") {
-          return kariyer_secim_25_plus_s7_tech_2_3;
+          return kariyer_secim_25_plus_s7_eng_tech_2_3;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yardım ve Sosyal Kariyerler") {
-          return kariyer_secim_25_plus_s7_tech_3_3;
+          return kariyer_secim_25_plus_s7_eng_tech_3_3;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Teknik ve Mühendislik Kariyerleri") {
-          return kariyer_secim_25_plus_s7_tech_4_3;
+          return kariyer_secim_25_plus_s7_eng_tech_4_3;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Satış ve İlişki Kurma Kariyerleri") {
-          return kariyer_secim_25_plus_s7_tech_5_3;
+          return kariyer_secim_25_plus_s7_eng_tech_5_3;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Organizasyonel ve İdari Kariyerler") {
-          return kariyer_secim_25_plus_s7_tech_6_3;
+          return kariyer_secim_25_plus_s7_eng_tech_6_3;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yenilikçi ve Girişimci Kariyerler") {
-          return kariyer_secim_25_plus_s7_tech_7_3;
+          return kariyer_secim_25_plus_s7_eng_tech_7_3;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Öğretim ve Mentorluk Kariyerleri") {
-          return kariyer_secim_25_plus_s7_tech_8_3;
+          return kariyer_secim_25_plus_s7_eng_tech_8_3;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Analitik ve Veri Odaklı Kariyerler") {
-          return kariyer_secim_25_plus_s7_tech_9_3;
+          return kariyer_secim_25_plus_s7_eng_tech_9_3;
         }
-      } else if (type == "s7_Technology_x_4") {
+      } else if (type == "s7_tech_x_4") {
         if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yaratıcı ve Sanatsal Kariyerler") {
-          return kariyer_secim_25_plus_s7_tech_1_4;
+          return kariyer_secim_25_plus_s7_eng_tech_1_4;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Liderlik ve Yönetim Kariyerleri") {
-          return kariyer_secim_25_plus_s7_tech_2_4;
+          return kariyer_secim_25_plus_s7_eng_tech_2_4;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yardım ve Sosyal Kariyerler") {
-          return kariyer_secim_25_plus_s7_tech_3_4;
+          return kariyer_secim_25_plus_s7_eng_tech_3_4;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Teknik ve Mühendislik Kariyerleri") {
-          return kariyer_secim_25_plus_s7_tech_4_4;
+          return kariyer_secim_25_plus_s7_eng_tech_4_4;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Satış ve İlişki Kurma Kariyerleri") {
-          return kariyer_secim_25_plus_s7_tech_5_4;
+          return kariyer_secim_25_plus_s7_eng_tech_5_4;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Organizasyonel ve İdari Kariyerler") {
-          return kariyer_secim_25_plus_s7_tech_6_4;
+          return kariyer_secim_25_plus_s7_eng_tech_6_4;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yenilikçi ve Girişimci Kariyerler") {
-          return kariyer_secim_25_plus_s7_tech_7_4;
+          return kariyer_secim_25_plus_s7_eng_tech_7_4;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Öğretim ve Mentorluk Kariyerleri") {
-          return kariyer_secim_25_plus_s7_tech_8_4;
+          return kariyer_secim_25_plus_s7_eng_tech_8_4;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Analitik ve Veri Odaklı Kariyerler") {
-          return kariyer_secim_25_plus_s7_tech_9_4;
+          return kariyer_secim_25_plus_s7_eng_tech_9_4;
         }
-      } else if (type == "s7_Technology_x_5") {
+      } else if (type == "s7_tech_x_5") {
         if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yaratıcı ve Sanatsal Kariyerler") {
-          return kariyer_secim_25_plus_s7_tech_1_5;
+          return kariyer_secim_25_plus_s7_eng_tech_1_5;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Liderlik ve Yönetim Kariyerleri") {
-          return kariyer_secim_25_plus_s7_tech_2_5;
+          return kariyer_secim_25_plus_s7_eng_tech_2_5;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yardım ve Sosyal Kariyerler") {
-          return kariyer_secim_25_plus_s7_tech_3_5;
+          return kariyer_secim_25_plus_s7_eng_tech_3_5;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Teknik ve Mühendislik Kariyerleri") {
-          return kariyer_secim_25_plus_s7_tech_4_5;
+          return kariyer_secim_25_plus_s7_eng_tech_4_5;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Satış ve İlişki Kurma Kariyerleri") {
-          return kariyer_secim_25_plus_s7_tech_5_5;
+          return kariyer_secim_25_plus_s7_eng_tech_5_5;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Organizasyonel ve İdari Kariyerler") {
-          return kariyer_secim_25_plus_s7_tech_6_5;
+          return kariyer_secim_25_plus_s7_eng_tech_6_5;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yenilikçi ve Girişimci Kariyerler") {
-          return kariyer_secim_25_plus_s7_tech_7_5;
+          return kariyer_secim_25_plus_s7_eng_tech_7_5;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Öğretim ve Mentorluk Kariyerleri") {
-          return kariyer_secim_25_plus_s7_tech_8_5;
+          return kariyer_secim_25_plus_s7_eng_tech_8_5;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Analitik ve Veri Odaklı Kariyerler") {
-          return kariyer_secim_25_plus_s7_tech_9_5;
+          return kariyer_secim_25_plus_s7_eng_tech_9_5;
         }
-      } else if (type == "s7_Technology_x_6") {
+      } else if (type == "s7_tech_x_6") {
         if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yaratıcı ve Sanatsal Kariyerler") {
-          return kariyer_secim_25_plus_s7_tech_1_6;
+          return kariyer_secim_25_plus_s7_eng_tech_1_6;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Liderlik ve Yönetim Kariyerleri") {
-          return kariyer_secim_25_plus_s7_tech_2_6;
+          return kariyer_secim_25_plus_s7_eng_tech_2_6;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yardım ve Sosyal Kariyerler") {
-          return kariyer_secim_25_plus_s7_tech_3_6;
+          return kariyer_secim_25_plus_s7_eng_tech_3_6;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Teknik ve Mühendislik Kariyerleri") {
-          return kariyer_secim_25_plus_s7_tech_4_6;
+          return kariyer_secim_25_plus_s7_eng_tech_4_6;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Satış ve İlişki Kurma Kariyerleri") {
-          return kariyer_secim_25_plus_s7_tech_5_6;
+          return kariyer_secim_25_plus_s7_eng_tech_5_6;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Organizasyonel ve İdari Kariyerler") {
-          return kariyer_secim_25_plus_s7_tech_6_6;
+          return kariyer_secim_25_plus_s7_eng_tech_6_6;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yenilikçi ve Girişimci Kariyerler") {
-          return kariyer_secim_25_plus_s7_tech_7_6;
+          return kariyer_secim_25_plus_s7_eng_tech_7_6;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Öğretim ve Mentorluk Kariyerleri") {
-          return kariyer_secim_25_plus_s7_tech_8_6;
+          return kariyer_secim_25_plus_s7_eng_tech_8_6;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Analitik ve Veri Odaklı Kariyerler") {
-          return kariyer_secim_25_plus_s7_tech_9_6;
+          return kariyer_secim_25_plus_s7_eng_tech_9_6;
         }
-      } else if (type == "s7_Technology_x_7") {
+      } else if (type == "s7_tech_x_7") {
         if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yaratıcı ve Sanatsal Kariyerler") {
-          return kariyer_secim_25_plus_s7_tech_1_7;
+          return kariyer_secim_25_plus_s7_eng_tech_1_7;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Liderlik ve Yönetim Kariyerleri") {
-          return kariyer_secim_25_plus_s7_tech_2_7;
+          return kariyer_secim_25_plus_s7_eng_tech_2_7;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yardım ve Sosyal Kariyerler") {
-          return kariyer_secim_25_plus_s7_tech_3_7;
+          return kariyer_secim_25_plus_s7_eng_tech_3_7;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Teknik ve Mühendislik Kariyerleri") {
-          return kariyer_secim_25_plus_s7_tech_4_7;
+          return kariyer_secim_25_plus_s7_eng_tech_4_7;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Satış ve İlişki Kurma Kariyerleri") {
-          return kariyer_secim_25_plus_s7_tech_5_7;
+          return kariyer_secim_25_plus_s7_eng_tech_5_7;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Organizasyonel ve İdari Kariyerler") {
-          return kariyer_secim_25_plus_s7_tech_6_7;
+          return kariyer_secim_25_plus_s7_eng_tech_6_7;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yenilikçi ve Girişimci Kariyerler") {
-          return kariyer_secim_25_plus_s7_tech_7_7;
+          return kariyer_secim_25_plus_s7_eng_tech_7_7;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Öğretim ve Mentorluk Kariyerleri") {
-          return kariyer_secim_25_plus_s7_tech_8_7;
+          return kariyer_secim_25_plus_s7_eng_tech_8_7;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Analitik ve Veri Odaklı Kariyerler") {
-          return kariyer_secim_25_plus_s7_tech_9_7;
+          return kariyer_secim_25_plus_s7_eng_tech_9_7;
         }
       } else if (type == "s7_dress_x_1") {
         if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yaratıcı ve Sanatsal Kariyerler") {
-          return kariyer_secim_25_plus_s7_dress_1_1;
+          return kariyer_secim_25_plus_s7_eng_dress_1_1;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Liderlik ve Yönetim Kariyerleri") {
-          return kariyer_secim_25_plus_s7_dress_2_1;
+          return kariyer_secim_25_plus_s7_eng_dress_2_1;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yardım ve Sosyal Kariyerler") {
-          return kariyer_secim_25_plus_s7_dress_3_1;
+          return kariyer_secim_25_plus_s7_eng_dress_3_1;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Teknik ve Mühendislik Kariyerleri") {
-          return kariyer_secim_25_plus_s7_dress_4_1;
+          return kariyer_secim_25_plus_s7_eng_dress_4_1;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Satış ve İlişki Kurma Kariyerleri") {
-          return kariyer_secim_25_plus_s7_dress_5_1;
+          return kariyer_secim_25_plus_s7_eng_dress_5_1;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Organizasyonel ve İdari Kariyerler") {
-          return kariyer_secim_25_plus_s7_dress_6_1;
+          return kariyer_secim_25_plus_s7_eng_dress_6_1;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yenilikçi ve Girişimci Kariyerler") {
-          return kariyer_secim_25_plus_s7_dress_7_1;
+          return kariyer_secim_25_plus_s7_eng_dress_7_1;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Öğretim ve Mentorluk Kariyerleri") {
-          return kariyer_secim_25_plus_s7_dress_8_1;
+          return kariyer_secim_25_plus_s7_eng_dress_8_1;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Analitik ve Veri Odaklı Kariyerler") {
-          return kariyer_secim_25_plus_s7_dress_9_1;
+          return kariyer_secim_25_plus_s7_eng_dress_9_1;
         }
       } else if (type == "s7_dress_x_2") {
         if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yaratıcı ve Sanatsal Kariyerler") {
-          return kariyer_secim_25_plus_s7_dress_1_2;
+          return kariyer_secim_25_plus_s7_eng_dress_1_2;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Liderlik ve Yönetim Kariyerleri") {
-          return kariyer_secim_25_plus_s7_dress_2_2;
+          return kariyer_secim_25_plus_s7_eng_dress_2_2;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yardım ve Sosyal Kariyerler") {
-          return kariyer_secim_25_plus_s7_dress_3_2;
+          return kariyer_secim_25_plus_s7_eng_dress_3_2;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Teknik ve Mühendislik Kariyerleri") {
-          return kariyer_secim_25_plus_s7_dress_4_2;
+          return kariyer_secim_25_plus_s7_eng_dress_4_2;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Satış ve İlişki Kurma Kariyerleri") {
-          return kariyer_secim_25_plus_s7_dress_5_2;
+          return kariyer_secim_25_plus_s7_eng_dress_5_2;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Organizasyonel ve İdari Kariyerler") {
-          return kariyer_secim_25_plus_s7_dress_6_2;
+          return kariyer_secim_25_plus_s7_eng_dress_6_2;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yenilikçi ve Girişimci Kariyerler") {
-          return kariyer_secim_25_plus_s7_dress_7_2;
+          return kariyer_secim_25_plus_s7_eng_dress_7_2;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Öğretim ve Mentorluk Kariyerleri") {
-          return kariyer_secim_25_plus_s7_dress_8_2;
+          return kariyer_secim_25_plus_s7_eng_dress_8_2;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Analitik ve Veri Odaklı Kariyerler") {
-          return kariyer_secim_25_plus_s7_dress_9_2;
+          return kariyer_secim_25_plus_s7_eng_dress_9_2;
         }
       } else if (type == "s7_dress_x_3") {
         if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yaratıcı ve Sanatsal Kariyerler") {
-          return kariyer_secim_25_plus_s7_dress_1_3;
+          return kariyer_secim_25_plus_s7_eng_dress_1_3;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Liderlik ve Yönetim Kariyerleri") {
-          return kariyer_secim_25_plus_s7_dress_2_3;
+          return kariyer_secim_25_plus_s7_eng_dress_2_3;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yardım ve Sosyal Kariyerler") {
-          return kariyer_secim_25_plus_s7_dress_3_3;
+          return kariyer_secim_25_plus_s7_eng_dress_3_3;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Teknik ve Mühendislik Kariyerleri") {
-          return kariyer_secim_25_plus_s7_dress_4_3;
+          return kariyer_secim_25_plus_s7_eng_dress_4_3;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Satış ve İlişki Kurma Kariyerleri") {
-          return kariyer_secim_25_plus_s7_dress_5_3;
+          return kariyer_secim_25_plus_s7_eng_dress_5_3;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Organizasyonel ve İdari Kariyerler") {
-          return kariyer_secim_25_plus_s7_dress_6_3;
+          return kariyer_secim_25_plus_s7_eng_dress_6_3;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yenilikçi ve Girişimci Kariyerler") {
-          return kariyer_secim_25_plus_s7_dress_7_3;
+          return kariyer_secim_25_plus_s7_eng_dress_7_3;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Öğretim ve Mentorluk Kariyerleri") {
-          return kariyer_secim_25_plus_s7_dress_8_3;
+          return kariyer_secim_25_plus_s7_eng_dress_8_3;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Analitik ve Veri Odaklı Kariyerler") {
-          return kariyer_secim_25_plus_s7_dress_9_3;
+          return kariyer_secim_25_plus_s7_eng_dress_9_3;
         }
       } else if (type == "s7_dress_x_4") {
         if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yaratıcı ve Sanatsal Kariyerler") {
-          return kariyer_secim_25_plus_s7_dress_1_4;
+          return kariyer_secim_25_plus_s7_eng_dress_1_4;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Liderlik ve Yönetim Kariyerleri") {
-          return kariyer_secim_25_plus_s7_dress_2_4;
+          return kariyer_secim_25_plus_s7_eng_dress_2_4;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yardım ve Sosyal Kariyerler") {
-          return kariyer_secim_25_plus_s7_dress_3_4;
+          return kariyer_secim_25_plus_s7_eng_dress_3_4;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Teknik ve Mühendislik Kariyerleri") {
-          return kariyer_secim_25_plus_s7_dress_4_4;
+          return kariyer_secim_25_plus_s7_eng_dress_4_4;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Satış ve İlişki Kurma Kariyerleri") {
-          return kariyer_secim_25_plus_s7_dress_5_4;
+          return kariyer_secim_25_plus_s7_eng_dress_5_4;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Organizasyonel ve İdari Kariyerler") {
-          return kariyer_secim_25_plus_s7_dress_6_4;
+          return kariyer_secim_25_plus_s7_eng_dress_6_4;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yenilikçi ve Girişimci Kariyerler") {
-          return kariyer_secim_25_plus_s7_dress_7_4;
+          return kariyer_secim_25_plus_s7_eng_dress_7_4;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Öğretim ve Mentorluk Kariyerleri") {
-          return kariyer_secim_25_plus_s7_dress_8_4;
+          return kariyer_secim_25_plus_s7_eng_dress_8_4;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Analitik ve Veri Odaklı Kariyerler") {
-          return kariyer_secim_25_plus_s7_dress_9_4;
+          return kariyer_secim_25_plus_s7_eng_dress_9_4;
         }
       } else if (type == "s7_dress_x_5") {
         if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yaratıcı ve Sanatsal Kariyerler") {
-          return kariyer_secim_25_plus_s7_dress_1_5;
+          return kariyer_secim_25_plus_s7_eng_dress_1_5;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Liderlik ve Yönetim Kariyerleri") {
-          return kariyer_secim_25_plus_s7_dress_2_5;
+          return kariyer_secim_25_plus_s7_eng_dress_2_5;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yardım ve Sosyal Kariyerler") {
-          return kariyer_secim_25_plus_s7_dress_3_5;
+          return kariyer_secim_25_plus_s7_eng_dress_3_5;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Teknik ve Mühendislik Kariyerleri") {
-          return kariyer_secim_25_plus_s7_dress_4_5;
+          return kariyer_secim_25_plus_s7_eng_dress_4_5;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Satış ve İlişki Kurma Kariyerleri") {
-          return kariyer_secim_25_plus_s7_dress_5_5;
+          return kariyer_secim_25_plus_s7_eng_dress_5_5;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Organizasyonel ve İdari Kariyerler") {
-          return kariyer_secim_25_plus_s7_dress_6_5;
+          return kariyer_secim_25_plus_s7_eng_dress_6_5;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yenilikçi ve Girişimci Kariyerler") {
-          return kariyer_secim_25_plus_s7_dress_7_5;
+          return kariyer_secim_25_plus_s7_eng_dress_7_5;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Öğretim ve Mentorluk Kariyerleri") {
-          return kariyer_secim_25_plus_s7_dress_8_5;
+          return kariyer_secim_25_plus_s7_eng_dress_8_5;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Analitik ve Veri Odaklı Kariyerler") {
-          return kariyer_secim_25_plus_s7_dress_9_5;
+          return kariyer_secim_25_plus_s7_eng_dress_9_5;
         }
       } else if (type == "s7_dress_x_6") {
         if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yaratıcı ve Sanatsal Kariyerler") {
-          return kariyer_secim_25_plus_s7_dress_1_6;
+          return kariyer_secim_25_plus_s7_eng_dress_1_6;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Liderlik ve Yönetim Kariyerleri") {
-          return kariyer_secim_25_plus_s7_dress_2_6;
+          return kariyer_secim_25_plus_s7_eng_dress_2_6;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yardım ve Sosyal Kariyerler") {
-          return kariyer_secim_25_plus_s7_dress_3_6;
+          return kariyer_secim_25_plus_s7_eng_dress_3_6;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Teknik ve Mühendislik Kariyerleri") {
-          return kariyer_secim_25_plus_s7_dress_4_6;
+          return kariyer_secim_25_plus_s7_eng_dress_4_6;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Satış ve İlişki Kurma Kariyerleri") {
-          return kariyer_secim_25_plus_s7_dress_5_6;
+          return kariyer_secim_25_plus_s7_eng_dress_5_6;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Organizasyonel ve İdari Kariyerler") {
-          return kariyer_secim_25_plus_s7_dress_6_6;
+          return kariyer_secim_25_plus_s7_eng_dress_6_6;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yenilikçi ve Girişimci Kariyerler") {
-          return kariyer_secim_25_plus_s7_dress_7_6;
+          return kariyer_secim_25_plus_s7_eng_dress_7_6;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Öğretim ve Mentorluk Kariyerleri") {
-          return kariyer_secim_25_plus_s7_dress_8_6;
+          return kariyer_secim_25_plus_s7_eng_dress_8_6;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Analitik ve Veri Odaklı Kariyerler") {
-          return kariyer_secim_25_plus_s7_dress_9_6;
+          return kariyer_secim_25_plus_s7_eng_dress_9_6;
         }
       } else if (type == "s7_dress_x_7") {
         if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yaratıcı ve Sanatsal Kariyerler") {
-          return kariyer_secim_25_plus_s7_dress_1_7;
+          return kariyer_secim_25_plus_s7_eng_dress_1_7;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Liderlik ve Yönetim Kariyerleri") {
-          return kariyer_secim_25_plus_s7_dress_2_7;
+          return kariyer_secim_25_plus_s7_eng_dress_2_7;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yardım ve Sosyal Kariyerler") {
-          return kariyer_secim_25_plus_s7_dress_3_7;
+          return kariyer_secim_25_plus_s7_eng_dress_3_7;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Teknik ve Mühendislik Kariyerleri") {
-          return kariyer_secim_25_plus_s7_dress_4_7;
+          return kariyer_secim_25_plus_s7_eng_dress_4_7;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Satış ve İlişki Kurma Kariyerleri") {
-          return kariyer_secim_25_plus_s7_dress_5_7;
+          return kariyer_secim_25_plus_s7_eng_dress_5_7;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Organizasyonel ve İdari Kariyerler") {
-          return kariyer_secim_25_plus_s7_dress_6_7;
+          return kariyer_secim_25_plus_s7_eng_dress_6_7;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yenilikçi ve Girişimci Kariyerler") {
-          return kariyer_secim_25_plus_s7_dress_7_7;
+          return kariyer_secim_25_plus_s7_eng_dress_7_7;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Öğretim ve Mentorluk Kariyerleri") {
-          return kariyer_secim_25_plus_s7_dress_8_7;
+          return kariyer_secim_25_plus_s7_eng_dress_8_7;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Analitik ve Veri Odaklı Kariyerler") {
-          return kariyer_secim_25_plus_s7_dress_9_7;
+          return kariyer_secim_25_plus_s7_eng_dress_9_7;
         }
       } else if (type == "s7_auto_x_1") {
         if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yaratıcı ve Sanatsal Kariyerler") {
-          return kariyer_secim_25_plus_s7_auto_1_1;
+          return kariyer_secim_25_plus_s7_eng_auto_1_1;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Liderlik ve Yönetim Kariyerleri") {
-          return kariyer_secim_25_plus_s7_auto_2_1;
+          return kariyer_secim_25_plus_s7_eng_auto_2_1;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yardım ve Sosyal Kariyerler") {
-          return kariyer_secim_25_plus_s7_auto_3_1;
+          return kariyer_secim_25_plus_s7_eng_auto_3_1;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Teknik ve Mühendislik Kariyerleri") {
-          return kariyer_secim_25_plus_s7_auto_4_1;
+          return kariyer_secim_25_plus_s7_eng_auto_4_1;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Satış ve İlişki Kurma Kariyerleri") {
-          return kariyer_secim_25_plus_s7_auto_5_1;
+          return kariyer_secim_25_plus_s7_eng_auto_5_1;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Organizasyonel ve İdari Kariyerler") {
-          return kariyer_secim_25_plus_s7_auto_6_1;
+          return kariyer_secim_25_plus_s7_eng_auto_6_1;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yenilikçi ve Girişimci Kariyerler") {
-          return kariyer_secim_25_plus_s7_auto_7_1;
+          return kariyer_secim_25_plus_s7_eng_auto_7_1;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Öğretim ve Mentorluk Kariyerleri") {
-          return kariyer_secim_25_plus_s7_auto_8_1;
+          return kariyer_secim_25_plus_s7_eng_auto_8_1;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Analitik ve Veri Odaklı Kariyerler") {
-          return kariyer_secim_25_plus_s7_auto_9_1;
+          return kariyer_secim_25_plus_s7_eng_auto_9_1;
         }
       } else if (type == "s7_auto_x_2") {
         if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yaratıcı ve Sanatsal Kariyerler") {
-          return kariyer_secim_25_plus_s7_auto_1_2;
+          return kariyer_secim_25_plus_s7_eng_auto_1_2;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Liderlik ve Yönetim Kariyerleri") {
-          return kariyer_secim_25_plus_s7_auto_2_2;
+          return kariyer_secim_25_plus_s7_eng_auto_2_2;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yardım ve Sosyal Kariyerler") {
-          return kariyer_secim_25_plus_s7_auto_3_2;
+          return kariyer_secim_25_plus_s7_eng_auto_3_2;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Teknik ve Mühendislik Kariyerleri") {
-          return kariyer_secim_25_plus_s7_auto_4_2;
+          return kariyer_secim_25_plus_s7_eng_auto_4_2;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Satış ve İlişki Kurma Kariyerleri") {
-          return kariyer_secim_25_plus_s7_auto_5_2;
+          return kariyer_secim_25_plus_s7_eng_auto_5_2;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Organizasyonel ve İdari Kariyerler") {
-          return kariyer_secim_25_plus_s7_auto_6_2;
+          return kariyer_secim_25_plus_s7_eng_auto_6_2;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yenilikçi ve Girişimci Kariyerler") {
-          return kariyer_secim_25_plus_s7_auto_7_2;
+          return kariyer_secim_25_plus_s7_eng_auto_7_2;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Öğretim ve Mentorluk Kariyerleri") {
-          return kariyer_secim_25_plus_s7_auto_8_2;
+          return kariyer_secim_25_plus_s7_eng_auto_8_2;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Analitik ve Veri Odaklı Kariyerler") {
-          return kariyer_secim_25_plus_s7_auto_9_2;
+          return kariyer_secim_25_plus_s7_eng_auto_9_2;
         }
       } else if (type == "s7_auto_x_3") {
         if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yaratıcı ve Sanatsal Kariyerler") {
-          return kariyer_secim_25_plus_s7_auto_1_3;
+          return kariyer_secim_25_plus_s7_eng_auto_1_3;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Liderlik ve Yönetim Kariyerleri") {
-          return kariyer_secim_25_plus_s7_auto_2_3;
+          return kariyer_secim_25_plus_s7_eng_auto_2_3;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yardım ve Sosyal Kariyerler") {
-          return kariyer_secim_25_plus_s7_auto_3_3;
+          return kariyer_secim_25_plus_s7_eng_auto_3_3;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Teknik ve Mühendislik Kariyerleri") {
-          return kariyer_secim_25_plus_s7_auto_4_3;
+          return kariyer_secim_25_plus_s7_eng_auto_4_3;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Satış ve İlişki Kurma Kariyerleri") {
-          return kariyer_secim_25_plus_s7_auto_5_3;
+          return kariyer_secim_25_plus_s7_eng_auto_5_3;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Organizasyonel ve İdari Kariyerler") {
-          return kariyer_secim_25_plus_s7_auto_6_3;
+          return kariyer_secim_25_plus_s7_eng_auto_6_3;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yenilikçi ve Girişimci Kariyerler") {
-          return kariyer_secim_25_plus_s7_auto_7_3;
+          return kariyer_secim_25_plus_s7_eng_auto_7_3;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Öğretim ve Mentorluk Kariyerleri") {
-          return kariyer_secim_25_plus_s7_auto_8_3;
+          return kariyer_secim_25_plus_s7_eng_auto_8_3;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Analitik ve Veri Odaklı Kariyerler") {
-          return kariyer_secim_25_plus_s7_auto_9_3;
+          return kariyer_secim_25_plus_s7_eng_auto_9_3;
         }
       } else if (type == "s7_auto_x_4") {
         if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yaratıcı ve Sanatsal Kariyerler") {
-          return kariyer_secim_25_plus_s7_auto_1_4;
+          return kariyer_secim_25_plus_s7_eng_auto_1_4;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Liderlik ve Yönetim Kariyerleri") {
-          return kariyer_secim_25_plus_s7_auto_2_4;
+          return kariyer_secim_25_plus_s7_eng_auto_2_4;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yardım ve Sosyal Kariyerler") {
-          return kariyer_secim_25_plus_s7_auto_3_4;
+          return kariyer_secim_25_plus_s7_eng_auto_3_4;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Teknik ve Mühendislik Kariyerleri") {
-          return kariyer_secim_25_plus_s7_auto_4_4;
+          return kariyer_secim_25_plus_s7_eng_auto_4_4;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Satış ve İlişki Kurma Kariyerleri") {
-          return kariyer_secim_25_plus_s7_auto_5_4;
+          return kariyer_secim_25_plus_s7_eng_auto_5_4;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Organizasyonel ve İdari Kariyerler") {
-          return kariyer_secim_25_plus_s7_auto_6_4;
+          return kariyer_secim_25_plus_s7_eng_auto_6_4;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yenilikçi ve Girişimci Kariyerler") {
-          return kariyer_secim_25_plus_s7_auto_7_4;
+          return kariyer_secim_25_plus_s7_eng_auto_7_4;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Öğretim ve Mentorluk Kariyerleri") {
-          return kariyer_secim_25_plus_s7_auto_8_4;
+          return kariyer_secim_25_plus_s7_eng_auto_8_4;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Analitik ve Veri Odaklı Kariyerler") {
-          return kariyer_secim_25_plus_s7_auto_9_4;
+          return kariyer_secim_25_plus_s7_eng_auto_9_4;
         }
       } else if (type == "s7_auto_x_5") {
         if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yaratıcı ve Sanatsal Kariyerler") {
-          return kariyer_secim_25_plus_s7_auto_1_5;
+          return kariyer_secim_25_plus_s7_eng_auto_1_5;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Liderlik ve Yönetim Kariyerleri") {
-          return kariyer_secim_25_plus_s7_auto_2_5;
+          return kariyer_secim_25_plus_s7_eng_auto_2_5;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yardım ve Sosyal Kariyerler") {
-          return kariyer_secim_25_plus_s7_auto_3_5;
+          return kariyer_secim_25_plus_s7_eng_auto_3_5;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Teknik ve Mühendislik Kariyerleri") {
-          return kariyer_secim_25_plus_s7_auto_4_5;
+          return kariyer_secim_25_plus_s7_eng_auto_4_5;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Satış ve İlişki Kurma Kariyerleri") {
-          return kariyer_secim_25_plus_s7_auto_5_5;
+          return kariyer_secim_25_plus_s7_eng_auto_5_5;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Organizasyonel ve İdari Kariyerler") {
-          return kariyer_secim_25_plus_s7_auto_6_5;
+          return kariyer_secim_25_plus_s7_eng_auto_6_5;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yenilikçi ve Girişimci Kariyerler") {
-          return kariyer_secim_25_plus_s7_auto_7_5;
+          return kariyer_secim_25_plus_s7_eng_auto_7_5;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Öğretim ve Mentorluk Kariyerleri") {
-          return kariyer_secim_25_plus_s7_auto_8_5;
+          return kariyer_secim_25_plus_s7_eng_auto_8_5;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Analitik ve Veri Odaklı Kariyerler") {
-          return kariyer_secim_25_plus_s7_auto_9_5;
+          return kariyer_secim_25_plus_s7_eng_auto_9_5;
         }
       } else if (type == "s7_auto_x_6") {
         if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yaratıcı ve Sanatsal Kariyerler") {
-          return kariyer_secim_25_plus_s7_auto_1_6;
+          return kariyer_secim_25_plus_s7_eng_auto_1_6;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Liderlik ve Yönetim Kariyerleri") {
-          return kariyer_secim_25_plus_s7_auto_2_6;
+          return kariyer_secim_25_plus_s7_eng_auto_2_6;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yardım ve Sosyal Kariyerler") {
-          return kariyer_secim_25_plus_s7_auto_3_6;
+          return kariyer_secim_25_plus_s7_eng_auto_3_6;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Teknik ve Mühendislik Kariyerleri") {
-          return kariyer_secim_25_plus_s7_auto_4_6;
+          return kariyer_secim_25_plus_s7_eng_auto_4_6;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Satış ve İlişki Kurma Kariyerleri") {
-          return kariyer_secim_25_plus_s7_auto_5_6;
+          return kariyer_secim_25_plus_s7_eng_auto_5_6;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Organizasyonel ve İdari Kariyerler") {
-          return kariyer_secim_25_plus_s7_auto_6_6;
+          return kariyer_secim_25_plus_s7_eng_auto_6_6;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yenilikçi ve Girişimci Kariyerler") {
-          return kariyer_secim_25_plus_s7_auto_7_6;
+          return kariyer_secim_25_plus_s7_eng_auto_7_6;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Öğretim ve Mentorluk Kariyerleri") {
-          return kariyer_secim_25_plus_s7_auto_8_6;
+          return kariyer_secim_25_plus_s7_eng_auto_8_6;
         } else  if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Analitik ve Veri Odaklı Kariyerler") {
-          return kariyer_secim_25_plus_s7_auto_9_6;
+          return kariyer_secim_25_plus_s7_eng_auto_9_6;
         }
       } else if (type == "s7_auto_x_7") {
         if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yaratıcı ve Sanatsal Kariyerler") {
-          return kariyer_secim_25_plus_s7_auto_1_7;
+          return kariyer_secim_25_plus_s7_eng_auto_1_7;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Liderlik ve Yönetim Kariyerleri") {
-          return kariyer_secim_25_plus_s7_auto_2_7;
+          return kariyer_secim_25_plus_s7_eng_auto_2_7;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yardım ve Sosyal Kariyerler") {
-          return kariyer_secim_25_plus_s7_auto_3_7;
+          return kariyer_secim_25_plus_s7_eng_auto_3_7;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Teknik ve Mühendislik Kariyerleri") {
-          return kariyer_secim_25_plus_s7_auto_4_7;
+          return kariyer_secim_25_plus_s7_eng_auto_4_7;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Satış ve İlişki Kurma Kariyerleri") {
-          return kariyer_secim_25_plus_s7_auto_5_7;
+          return kariyer_secim_25_plus_s7_eng_auto_5_7;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Organizasyonel ve İdari Kariyerler") {
-          return kariyer_secim_25_plus_s7_auto_6_7;
+          return kariyer_secim_25_plus_s7_eng_auto_6_7;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yenilikçi ve Girişimci Kariyerler") {
-          return kariyer_secim_25_plus_s7_auto_7_7;
+          return kariyer_secim_25_plus_s7_eng_auto_7_7;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Öğretim ve Mentorluk Kariyerleri") {
-          return kariyer_secim_25_plus_s7_auto_8_7;
+          return kariyer_secim_25_plus_s7_eng_auto_8_7;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Analitik ve Veri Odaklı Kariyerler") {
-          return kariyer_secim_25_plus_s7_auto_9_7;
+          return kariyer_secim_25_plus_s7_eng_auto_9_7;
         }
       } else if (type == "s7_meal_x_1") {
         if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yaratıcı ve Sanatsal Kariyerler") {
-          return kariyer_secim_25_plus_s7_meal_1_1;
+          return kariyer_secim_25_plus_s7_eng_meal_1_1;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Liderlik ve Yönetim Kariyerleri") {
-          return kariyer_secim_25_plus_s7_meal_2_1;
+          return kariyer_secim_25_plus_s7_eng_meal_2_1;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yardım ve Sosyal Kariyerler") {
-          return kariyer_secim_25_plus_s7_meal_3_1;
+          return kariyer_secim_25_plus_s7_eng_meal_3_1;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Teknik ve Mühendislik Kariyerleri") {
-          return kariyer_secim_25_plus_s7_meal_4_1;
+          return kariyer_secim_25_plus_s7_eng_meal_4_1;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Satış ve İlişki Kurma Kariyerleri") {
-          return kariyer_secim_25_plus_s7_meal_5_1;
+          return kariyer_secim_25_plus_s7_eng_meal_5_1;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Organizasyonel ve İdari Kariyerler") {
-          return kariyer_secim_25_plus_s7_meal_6_1;
+          return kariyer_secim_25_plus_s7_eng_meal_6_1;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yenilikçi ve Girişimci Kariyerler") {
-          return kariyer_secim_25_plus_s7_meal_7_1;
+          return kariyer_secim_25_plus_s7_eng_meal_7_1;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Öğretim ve Mentorluk Kariyerleri") {
-          return kariyer_secim_25_plus_s7_meal_8_1;
+          return kariyer_secim_25_plus_s7_eng_meal_8_1;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Analitik ve Veri Odaklı Kariyerler") {
-          return kariyer_secim_25_plus_s7_meal_9_1;
+          return kariyer_secim_25_plus_s7_eng_meal_9_1;
         } 
       } else if (type == "s7_meal_x_2") {
         if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yaratıcı ve Sanatsal Kariyerler") {
-          return kariyer_secim_25_plus_s7_meal_1_2;
+          return kariyer_secim_25_plus_s7_eng_meal_1_2;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Liderlik ve Yönetim Kariyerleri") {
-          return kariyer_secim_25_plus_s7_meal_2_2;
+          return kariyer_secim_25_plus_s7_eng_meal_2_2;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yardım ve Sosyal Kariyerler") {
-          return kariyer_secim_25_plus_s7_meal_3_2;
+          return kariyer_secim_25_plus_s7_eng_meal_3_2;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Teknik ve Mühendislik Kariyerleri") {
-          return kariyer_secim_25_plus_s7_meal_4_2;
+          return kariyer_secim_25_plus_s7_eng_meal_4_2;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Satış ve İlişki Kurma Kariyerleri") {
-          return kariyer_secim_25_plus_s7_meal_5_2;
+          return kariyer_secim_25_plus_s7_eng_meal_5_2;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Organizasyonel ve İdari Kariyerler") {
-          return kariyer_secim_25_plus_s7_meal_6_2;
+          return kariyer_secim_25_plus_s7_eng_meal_6_2;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yenilikçi ve Girişimci Kariyerler") {
-          return kariyer_secim_25_plus_s7_meal_7_2;
+          return kariyer_secim_25_plus_s7_eng_meal_7_2;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Öğretim ve Mentorluk Kariyerleri") {
-          return kariyer_secim_25_plus_s7_meal_8_2;
+          return kariyer_secim_25_plus_s7_eng_meal_8_2;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Analitik ve Veri Odaklı Kariyerler") {
-          return kariyer_secim_25_plus_s7_meal_9_2;
+          return kariyer_secim_25_plus_s7_eng_meal_9_2;
         }
       } else if (type == "s7_meal_x_3") {
         if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yaratıcı ve Sanatsal Kariyerler") {
-          return kariyer_secim_25_plus_s7_meal_1_3;
+          return kariyer_secim_25_plus_s7_eng_meal_1_3;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Liderlik ve Yönetim Kariyerleri") {
-          return kariyer_secim_25_plus_s7_meal_2_3;
+          return kariyer_secim_25_plus_s7_eng_meal_2_3;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yardım ve Sosyal Kariyerler") {
-          return kariyer_secim_25_plus_s7_meal_3_3;
+          return kariyer_secim_25_plus_s7_eng_meal_3_3;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Teknik ve Mühendislik Kariyerleri") {
-          return kariyer_secim_25_plus_s7_meal_4_3;
+          return kariyer_secim_25_plus_s7_eng_meal_4_3;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Satış ve İlişki Kurma Kariyerleri") {
-          return kariyer_secim_25_plus_s7_meal_5_3;
+          return kariyer_secim_25_plus_s7_eng_meal_5_3;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Organizasyonel ve İdari Kariyerler") {
-          return kariyer_secim_25_plus_s7_meal_6_3;
+          return kariyer_secim_25_plus_s7_eng_meal_6_3;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yenilikçi ve Girişimci Kariyerler") {
-          return kariyer_secim_25_plus_s7_meal_7_3;
+          return kariyer_secim_25_plus_s7_eng_meal_7_3;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Öğretim ve Mentorluk Kariyerleri") {
-          return kariyer_secim_25_plus_s7_meal_8_3;
+          return kariyer_secim_25_plus_s7_eng_meal_8_3;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Analitik ve Veri Odaklı Kariyerler") {
-          return kariyer_secim_25_plus_s7_meal_9_3;
+          return kariyer_secim_25_plus_s7_eng_meal_9_3;
         }
       } else if (type == "s7_meal_x_4") {
         if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yaratıcı ve Sanatsal Kariyerler") {
-          return kariyer_secim_25_plus_s7_meal_1_4;
+          return kariyer_secim_25_plus_s7_eng_meal_1_4;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Liderlik ve Yönetim Kariyerleri") {
-          return kariyer_secim_25_plus_s7_meal_2_4;
+          return kariyer_secim_25_plus_s7_eng_meal_2_4;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yardım ve Sosyal Kariyerler") {
-          return kariyer_secim_25_plus_s7_meal_3_4;
+          return kariyer_secim_25_plus_s7_eng_meal_3_4;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Teknik ve Mühendislik Kariyerleri") {
-          return kariyer_secim_25_plus_s7_meal_4_4;
+          return kariyer_secim_25_plus_s7_eng_meal_4_4;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Satış ve İlişki Kurma Kariyerleri") {
-          return kariyer_secim_25_plus_s7_meal_5_4;
+          return kariyer_secim_25_plus_s7_eng_meal_5_4;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Organizasyonel ve İdari Kariyerler") {
-          return kariyer_secim_25_plus_s7_meal_6_4;
+          return kariyer_secim_25_plus_s7_eng_meal_6_4;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yenilikçi ve Girişimci Kariyerler") {
-          return kariyer_secim_25_plus_s7_meal_7_4;
+          return kariyer_secim_25_plus_s7_eng_meal_7_4;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Öğretim ve Mentorluk Kariyerleri") {
-          return kariyer_secim_25_plus_s7_meal_8_4;
+          return kariyer_secim_25_plus_s7_eng_meal_8_4;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Analitik ve Veri Odaklı Kariyerler") {
-          return kariyer_secim_25_plus_s7_meal_9_4;
+          return kariyer_secim_25_plus_s7_eng_meal_9_4;
         }
       } else if (type == "s7_meal_x_5") {
         if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yaratıcı ve Sanatsal Kariyerler") {
-          return kariyer_secim_25_plus_s7_meal_1_5;
+          return kariyer_secim_25_plus_s7_eng_meal_1_5;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Liderlik ve Yönetim Kariyerleri") {
-          return kariyer_secim_25_plus_s7_meal_2_5;
+          return kariyer_secim_25_plus_s7_eng_meal_2_5;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yardım ve Sosyal Kariyerler") {
-          return kariyer_secim_25_plus_s7_meal_3_5;
+          return kariyer_secim_25_plus_s7_eng_meal_3_5;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Teknik ve Mühendislik Kariyerleri") {
-          return kariyer_secim_25_plus_s7_meal_4_5;
+          return kariyer_secim_25_plus_s7_eng_meal_4_5;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Satış ve İlişki Kurma Kariyerleri") {
-          return kariyer_secim_25_plus_s7_meal_5_5;
+          return kariyer_secim_25_plus_s7_eng_meal_5_5;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Organizasyonel ve İdari Kariyerler") {
-          return kariyer_secim_25_plus_s7_meal_6_5;
+          return kariyer_secim_25_plus_s7_eng_meal_6_5;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yenilikçi ve Girişimci Kariyerler") {
-          return kariyer_secim_25_plus_s7_meal_7_5;
+          return kariyer_secim_25_plus_s7_eng_meal_7_5;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Öğretim ve Mentorluk Kariyerleri") {
-          return kariyer_secim_25_plus_s7_meal_8_5;
+          return kariyer_secim_25_plus_s7_eng_meal_8_5;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Analitik ve Veri Odaklı Kariyerler") {
-          return kariyer_secim_25_plus_s7_meal_9_5;
+          return kariyer_secim_25_plus_s7_eng_meal_9_5;
         }
       } else if (type == "s7_meal_x_6") {
         if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yaratıcı ve Sanatsal Kariyerler") {
-          return kariyer_secim_25_plus_s7_meal_1_6;
+          return kariyer_secim_25_plus_s7_eng_meal_1_6;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Liderlik ve Yönetim Kariyerleri") {
-          return kariyer_secim_25_plus_s7_meal_2_6;
+          return kariyer_secim_25_plus_s7_eng_meal_2_6;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yardım ve Sosyal Kariyerler") {
-          return kariyer_secim_25_plus_s7_meal_3_6;
+          return kariyer_secim_25_plus_s7_eng_meal_3_6;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Teknik ve Mühendislik Kariyerleri") {
-          return kariyer_secim_25_plus_s7_meal_4_6;
+          return kariyer_secim_25_plus_s7_eng_meal_4_6;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Satış ve İlişki Kurma Kariyerleri") {
-          return kariyer_secim_25_plus_s7_meal_5_6;
+          return kariyer_secim_25_plus_s7_eng_meal_5_6;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Organizasyonel ve İdari Kariyerler") {
-          return kariyer_secim_25_plus_s7_meal_6_6;
+          return kariyer_secim_25_plus_s7_eng_meal_6_6;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yenilikçi ve Girişimci Kariyerler") {
-          return kariyer_secim_25_plus_s7_meal_7_6;
+          return kariyer_secim_25_plus_s7_eng_meal_7_6;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Öğretim ve Mentorluk Kariyerleri") {
-          return kariyer_secim_25_plus_s7_meal_8_6;
+          return kariyer_secim_25_plus_s7_eng_meal_8_6;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Analitik ve Veri Odaklı Kariyerler") {
-          return kariyer_secim_25_plus_s7_meal_9_6;
+          return kariyer_secim_25_plus_s7_eng_meal_9_6;
         }
       } else if (type == "s7_meal_x_7") {
         if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yaratıcı ve Sanatsal Kariyerler") {
-          return kariyer_secim_25_plus_s7_meal_1_7;
+          return kariyer_secim_25_plus_s7_eng_meal_1_7;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Liderlik ve Yönetim Kariyerleri") {
-          return kariyer_secim_25_plus_s7_meal_2_7;
+          return kariyer_secim_25_plus_s7_eng_meal_2_7;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yardım ve Sosyal Kariyerler") {
-          return kariyer_secim_25_plus_s7_meal_3_7;
+          return kariyer_secim_25_plus_s7_eng_meal_3_7;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Teknik ve Mühendislik Kariyerleri") {
-          return kariyer_secim_25_plus_s7_meal_4_7;
+          return kariyer_secim_25_plus_s7_eng_meal_4_7;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Satış ve İlişki Kurma Kariyerleri") {
-          return kariyer_secim_25_plus_s7_meal_5_7;
+          return kariyer_secim_25_plus_s7_eng_meal_5_7;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Organizasyonel ve İdari Kariyerler") {
-          return kariyer_secim_25_plus_s7_meal_6_7;
+          return kariyer_secim_25_plus_s7_eng_meal_6_7;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yenilikçi ve Girişimci Kariyerler") {
-          return kariyer_secim_25_plus_s7_meal_7_7;
+          return kariyer_secim_25_plus_s7_eng_meal_7_7;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Öğretim ve Mentorluk Kariyerleri") {
-          return kariyer_secim_25_plus_s7_meal_8_7;
+          return kariyer_secim_25_plus_s7_eng_meal_8_7;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Analitik ve Veri Odaklı Kariyerler") {
-          return kariyer_secim_25_plus_s7_meal_9_7;
+          return kariyer_secim_25_plus_s7_eng_meal_9_7;
         }
       } else if (type == "ozet_1") {
         if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yaratıcı ve Sanatsal Kariyerler") {
@@ -8795,8 +8803,58 @@ var decision_strategy_eng_s4_11_txt = "By adhering to this decision-making strat
     var isYasamindaRolun3 = "Hayat Amacını Gerçekleştirmek";
   }
   else if (language == "En") {
+
+    var hollandDataFirst = "";
+    var hollandDataSecond = "";
+    var hollandDataLast = "";
+    
+    var value = hollandData[0].name;
+    if (value == "Gerçekçi") {
+      hollandDataFirst = "Enterprising";
+    } else if (value == "Araştırıcı") {
+      hollandDataFirst = "Investigative";
+    } else if (value == "Artistik Sanatsal") {
+      hollandDataFirst = "Artistic";
+    } else if (value == "Girişimci") {
+      hollandDataFirst = "Enterprise";
+    } else if (value == "Sosyal") {
+      hollandDataFirst = "Social";
+    } else if (value == "Geleneksel") {
+      hollandDataFirst = "Conventional";
+    }
+
+    var value2 = hollandData[1].name;
+    if (value2 == "Gerçekçi") {
+      hollandDataSecond = "Enterprising";
+    } else if (value2 == "Araştırıcı") {
+      hollandDataSecond = "Investigative";
+    } else if (value2 == "Sanatsal") {
+      hollandDataSecond = "Artistic";
+    } else if (value2 == "Girişimci") {
+      hollandDataSecond = "Enterprise";
+    } else if (value2 == "Sosyal") {
+      hollandDataSecond = "Social";
+    } else if (value2 =="Geleneksel") {
+      hollandDataSecond = "Conventional";
+    }
+
+    var value3 = hollandData[5].name;
+    if (value3 == "Gerçekçi") {
+      hollandDataLast = "Enterprising";
+    } else if (value3 == "Araştırıcı") {
+      hollandDataLast = "Investigative";
+    } else if (value3 == "Sanatsal") {
+      hollandDataLast = "Artistic";
+    } else if (value3 == "Girişimci") {
+      hollandDataLast = "Enterprise";
+    } else if (value3 == "Sosyal") {
+      hollandDataLast = "Social";
+    } else if (value3 =="Geleneksel") {
+      hollandDataLast = "Conventional";
+    }
+
     var dearName = "Dear " + Object.entries(rawData).find((x) => x[0] == "kisiselbilgi / isim")[1];
-    var kisilikOzelliklerinTop2 = "You have a personality where " + hollandData[0].name + " and " + hollandData[1].name + " traits are dominant, while " + hollandData[5].name + " traits take a backseat.";
+    var kisilikOzelliklerinTop2 = "You have a personality where " + hollandDataFirst + " and " + hollandDataSecond + " traits are dominant, while " + hollandDataLast + " traits take a backseat.";
     var iletisimVeEtkilesimTarzin = "Effective Communication and Engagement at Work...";
     var kararVermeStratejin1 = "Two Key Aspects:";
     var kararVermeStratejin2 = "Following Your Decision-Making Strategy:";
@@ -8921,7 +8979,7 @@ var decision_strategy_eng_s4_11_txt = "By adhering to this decision-making strat
     P24A2 : worklearnstyle(worklearnData[0], 25, "context", language),
     
     P25A1 : worklearnstyle(worklearnData[0], 25, "name", language),
-    P25A2 : worklearnstyle(worklearnData[0], 25, "s3_1", language),
+    P25A2 : worklearnstyle(worklearnData[0], 25, "s3", language),
     
     P27A1 : is_y_r(is_y_rData[0], 25, "name", language),
     P27A2 : is_y_r(is_y_rData[0], 25, "s2_2", language),
