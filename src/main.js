@@ -3339,7 +3339,7 @@ var lifestyle_25_plus_eng_projektor_question_name = "Guide";
 var lifestyle_25_plus_eng_projektor_evaluation = "• How can I recognize when it’s time to wait for invitations rather than pushing to be seen or heard?\n\n• What invitations or recognition have I received recently that felt aligned with my strengths, and how did I respond to them?\n\n• In what areas of my life do I feel most seen and valued for my unique perspective, and how can I focus more energy there?\n\n• How do I maintain my energy and avoid burnout, especially when I feel like I’m not being recognized or appreciated?\n\n• What can I do to cultivate more patience and trust in the right opportunities and invitations coming my way?";
 
 var lifestyle_25_plus_eng_manifestor_question_name = "Initiator";
-var lifestyle_25_plus_eng_manifestor_evaluation_1 = "• What inspires me to initiate action, and how can I inform others before doing so to reduce resistance?\n\n• How do I feel when I take the lead without waiting for external permission or approval?\n\n• In what areas of my life do I feel most empowered to start new things, and how can I use this energy more intentionally?\n\n• How do I handle the reaction of others when I step into my natural role as an initiator, and what could I do to ease potential conflict?\n\n• What strategies do I use to manage my energy and avoid burnout after initiating major projects or changes?";
+var lifestyle_25_plus_eng_manifestor_evaluation = "• What inspires me to initiate action, and how can I inform others before doing so to reduce resistance?\n\n• How do I feel when I take the lead without waiting for external permission or approval?\n\n• In what areas of my life do I feel most empowered to start new things, and how can I use this energy more intentionally?\n\n• How do I handle the reaction of others when I step into my natural role as an initiator, and what could I do to ease potential conflict?\n\n• What strategies do I use to manage my energy and avoid burnout after initiating major projects or changes?";
 
 var lifestyle_25_plus_eng_reflektor_question_name = "Evaluator";
 var lifestyle_25_plus_eng_reflektor_evaluation = "How do I feel in my current environment, and what does it reflect about the people and spaces I’m surrounded by?\n\nHow can I give myself more time to make important decisions, trusting in the natural rhythm of the lunar cycle?\n\nIn what situations do I feel the most aligned with my true self, and how can I create more of these experiences in my life?\n\nHow do I handle the emotions and energies of others, and what boundaries do I need to set to protect my own well-being?\n\nWhat can I do to honor my unique sensitivity and ability to reflect the truth of my environment without feeling overwhelmed?";
@@ -3823,7 +3823,7 @@ var decision_strategy_eng_s4_11_txt = "By adhering to this decision-making strat
         }
       } else if (type == "questions") {
         if (big5Name == "Öz Disiplin") {
-          return krktr_ozl_25_plus_self_discipline_questions;
+          return krktr_ozl_eng_25_plus_self_discipline_questions;
         } else if (big5Name == "Dışa Dönüklük") {
           return krktr_ozl_eng_25_plus_extraversion_questions;
         } else if (big5Name == "Uyumluluk") {
@@ -4005,9 +4005,9 @@ var decision_strategy_eng_s4_11_txt = "By adhering to this decision-making strat
         if (hollandName == "Gerçekçi") {
           return kslk_ozl_realistic_eng_your_interests_1;
         } else if (hollandName == "Araştırıcı") {
-          return kslk_ozl_investigative_eng_your_interests_1;
+          return kslk_ozl_investigative_eng_your_interests_1; 
         } else if (hollandName == "Artistik Sanatsal") {
-          return kslk_ozl_artistic_eng_your_eng_interests_1;
+          return kslk_ozl_artistic_eng_your_interests_1;
         } else if (hollandName == "Sosyal") {
           return kslk_ozl_social_eng_your_interests_1;
         } else if (hollandName == "Girişimci") {
@@ -4303,7 +4303,7 @@ var decision_strategy_eng_s4_11_txt = "By adhering to this decision-making strat
         }
       } else if (type == "s4u2_x_2") {
         if (aiName == "Dijital Okuryazarlık") {
-          return ai_25_s4u2_1_2;
+          return ai_25_eng_s4u2_1_2;
         } else if (aiName == "Veri Okur Yazarlığı") {
           return ai_25_eng_s4u2_2_2;
         } else if (aiName == "Kodlama ve Programlama") {
@@ -4580,7 +4580,7 @@ var decision_strategy_eng_s4_11_txt = "By adhering to this decision-making strat
         } else if (lifestyleData == "Projector") {
           return lifestyle_25_plus_projektor_question_name;
         } else if (lifestyleData == "Manifestor") {
-          return lifestyle_25_plus_starter_question_name;
+          return lifestyle_25_plus_manifestor_question_name;
         } else if (lifestyleData == "Reflector") {
           return lifestyle_25_plus_reflektor_evaluation_name;
         }
@@ -4592,7 +4592,7 @@ var decision_strategy_eng_s4_11_txt = "By adhering to this decision-making strat
         } else if (lifestyleData == "Projector") {
           return lifestyle_25_plus_projektor_evaluation;
         } else if (lifestyleData == "Manifestor") {
-          return lifestyle_25_plus_starter_evaluation;
+          return lifestyle_25_plus_manifestor_evaluation;
         } else if (lifestyleData == "Reflector") {
           return lifestyle_25_plus_reflektor_evaluation;
         }
@@ -4702,15 +4702,15 @@ var decision_strategy_eng_s4_11_txt = "By adhering to this decision-making strat
         }
       }  else if (type == "questions") {
         if (lifestyleData == "Manifesting Generator") {
-          return lifestyle_25_plus_eng_manifesting_generator_question_name;
+          return lifestyle_25_plus_eng_manifesting_generator_question_name; 
         } else if (lifestyleData == "Generator") {
           return lifestyle_25_plus_eng_generator_question_name;
         } else if (lifestyleData == "Projector") {
           return lifestyle_25_plus_eng_projektor_question_name;
         } else if (lifestyleData == "Manifestor") {
-          return lifestyle_25_plus_eng_starter_question_name;
+          return lifestyle_25_plus_eng_manifestor_question_name;
         } else if (lifestyleData == "Reflector") {
-          return lifestyle_25_plus_eng_reflektor_evaluation_name;
+          return lifestyle_25_plus_eng_reflektor_question_name;
         }
       } else if (type == "evaluation") {
         if (lifestyleData == "Manifesting Generator") {
@@ -4720,7 +4720,7 @@ var decision_strategy_eng_s4_11_txt = "By adhering to this decision-making strat
         } else if (lifestyleData == "Projector") {
           return lifestyle_25_plus_eng_projektor_evaluation;
         } else if (lifestyleData == "Manifestor") {
-          return lifestyle_25_plus_eng_starter_evaluation;
+          return lifestyle_25_plus_eng_manifestor_evaluation;
         } else if (lifestyleData == "Reflector") {
           return lifestyle_25_plus_eng_reflektor_evaluation;
         }
