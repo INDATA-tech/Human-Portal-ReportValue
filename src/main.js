@@ -3717,7 +3717,7 @@ var decision_strategy_eng_s4_11_txt = "By adhering to this decision-making strat
         } else if (big5Name == "Dışa Dönüklük") {
           return krktr_ozl_strenghts_extraversion_s2_1;
         } else if (big5Name == "Uyumluluk") {
-          return krktr_ozl_strenghts_elements_agreeableness_s2_1;
+          return krktr_ozl_strenghts_agreeableness_s2_1;
         } else if (big5Name == "Duygusal Dayanıklılık") {
           return krktr_ozl_strenghts_emotional_stability_s2_1;
         } else if (big5Name == "Deneyime Açıklık") {
