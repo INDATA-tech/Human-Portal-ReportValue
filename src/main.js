@@ -3693,7 +3693,7 @@ var decision_strategy_eng_s4_11_txt = "By adhering to this decision-making strat
         } else if (big5Name == "Dışa Dönüklük") {
           return krktr_ozl_extraversion;
         } else if (big5Name == "Uyumluluk") {
-          return krktr_ozl_compatibility;
+          return krktr_ozl_agreeableness;
         } else if (big5Name == "Duygusal Dayanıklılık") {
           return krktr_ozl_emotional_stability;
         } else if (big5Name == "Deneyime Açıklık") {
@@ -3705,7 +3705,7 @@ var decision_strategy_eng_s4_11_txt = "By adhering to this decision-making strat
         } else if (big5Name == "Dışa Dönüklük") {
           return krktr_ozl_character_elements_extraversion_s1;
         } else if (big5Name == "Uyumluluk") {
-          return krktr_ozl_character_elements_compatibility_s1;
+          return krktr_ozl_character_elements_agreeableness_s1;
         } else if (big5Name == "Duygusal Dayanıklılık") {
           return krktr_ozl_character_elements_emotional_stability_s1;
         } else if (big5Name == "Deneyime Açıklık") {
@@ -3717,7 +3717,7 @@ var decision_strategy_eng_s4_11_txt = "By adhering to this decision-making strat
         } else if (big5Name == "Dışa Dönüklük") {
           return krktr_ozl_strenghts_extraversion_s2_1;
         } else if (big5Name == "Uyumluluk") {
-          return krktr_ozl_strenghts_compatibility_s2_1;
+          return krktr_ozl_strenghts_elements_agreeableness_s2_1;
         } else if (big5Name == "Duygusal Dayanıklılık") {
           return krktr_ozl_strenghts_emotional_stability_s2_1;
         } else if (big5Name == "Deneyime Açıklık") {
@@ -3729,7 +3729,7 @@ var decision_strategy_eng_s4_11_txt = "By adhering to this decision-making strat
         } else if (big5Name == "Dışa Dönüklük") {
           return krktr_ozl_weaknesses_extraversion_s2_1;;
         } else if (big5Name == "Uyumluluk") {
-          return krktr_ozl_weaknesses_compatibility_s2_1;;
+          return krktr_ozl_weaknesses_agreeableness_s2_1;;
         } else if (big5Name == "Duygusal Dayanıklılık") {
           return krktr_ozl_weaknesses_emotional_stability_s2_1;;
         } else if (big5Name == "Deneyime Açıklık") {
@@ -3741,7 +3741,7 @@ var decision_strategy_eng_s4_11_txt = "By adhering to this decision-making strat
         } else if (big5Name == "Dışa Dönüklük") {
           return krktr_ozl_other_attributes_extraversion_s2;
         } else if (big5Name == "Uyumluluk") {
-          return krktr_ozl_other_attributes_compatibility_s2;
+          return krktr_ozl_other_attributes_agreeableness_s2;
         } else if (big5Name == "Duygusal Dayanıklılık") {
           return krktr_ozl_other_attributes_emotional_stability_s2;
         } else if (big5Name == "Deneyime Açıklık") {
@@ -3753,7 +3753,7 @@ var decision_strategy_eng_s4_11_txt = "By adhering to this decision-making strat
         } else if (big5Name == "Dışa Dönüklük") {
           return krktr_ozl_25_plus_extraversion_questions;
         } else if (big5Name == "Uyumluluk") {
-          return krktr_ozl_25_plus_compatibility_questions;
+          return krktr_ozl_25_plus_agreeableness_questions;
         } else if (big5Name == "Duygusal Dayanıklılık") {
           return krktr_ozl_25_plus_emotional_stability_questions;
         } else if (big5Name == "Deneyime Açıklık") {
