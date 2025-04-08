@@ -2100,9 +2100,9 @@ var kariyer_secim_25_plus_s7_eng_auto_5_1 = "Sales and Relationship Management C
 var kariyer_secim_25_plus_s7_eng_auto_5_2 = "Automotive Industry";
 var kariyer_secim_25_plus_s7_eng_auto_5_3 = "• Car Sales Consultant: Manage customer relationships in dealerships, facilitating car sales and meeting customer needs.";
 var kariyer_secim_25_plus_s7_eng_auto_5_4 = "• Fleet Sales Manager: Develop vehicle sales strategies for large companies or fleet buyers, building relationships with corporate clients.";
-var kariyer_secim_25_plus_s7_eng_auto_5_5 = "• After-Sales Services Specialist: Provide support for customers' service, maintenance, and spare parts needs, enhancing the quality of after-sales services.";
-var kariyer_secim_25_plus_s7_eng_auto_5_6 = "• Marketing Specialist: Manage marketing campaigns for car brands, developing advertising and promotion strategies.";
-var kariyer_secim_25_plus_s7_eng_auto_5_7 = "• Customer Experience Manager: Analyze customer experiences during and after the purchasing process, creating strategies to improve customer satisfaction5";
+var kariyer_secim_25_plus_s7_eng_auto_5_5 = "• Marketing Specialist: Manage marketing campaigns for car brands, developing advertising and promotion strategies.";
+var kariyer_secim_25_plus_s7_eng_auto_5_6 = "• Customer Experience Manager: Analyze customer experiences during and after the purchasing process, creating strategies to improve customer satisfaction5";
+var kariyer_secim_25_plus_s7_eng_auto_5_7 = "• After-Sales Services Specialist: Provide support for customers' service, maintenance, and spare parts needs, enhancing the quality of after-sales services.";
 
 var kariyer_secim_25_plus_s7_eng_auto_6_1 = "Organizational and Administrative Careers";
 var kariyer_secim_25_plus_s7_eng_auto_6_2 = "Automotive Industry";
@@ -7247,15 +7247,15 @@ var decision_strategy_eng_s4_11_txt = "By adhering to this decision-making strat
         if (kariyer_secimData == "tech") {
           return "Technology";
         } else if (kariyer_secimData == "retail") {
-          return "Perakende";
+          return "Retail";
         } else if (kariyer_secimData == "dress") {
-          return "Moda ve Hazır Giyim";
+          return "Fashion and ready-to-wear";
         } else if (kariyer_secimData == "auto") {
-          return "Otomotiv";
+          return "Auotomotive";
         } else if (kariyer_secimData == "health") {
-          return "Sağlık ve İlaç";
+          return "Health and Medicine";
         } else if (kariyer_secimData == "meal") {
-          return "Mutfak Sanatları";
+          return "Culinary arts";
         }
       } else if (type == "s2_x_2") {
         if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yaratıcı ve Sanatsal Kariyerler") {
