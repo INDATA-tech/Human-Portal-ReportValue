@@ -2184,6 +2184,152 @@ var kariyer_secim_25_plus_s7_eng_meal_9_6 = "• Sales Data Analyst: Analyze res
 var kariyer_secim_25_plus_s7_eng_meal_9_7 = "• Food Safety Analyst: Analyze food safety data, contributing to the improvement of hygiene standards and quality control processes.";
 
 
+//Güçlü Yanların 12-25
+var guclu_yanlarin2_57_10_1 = "Mükemmelleştirilmiş Form Gücü (57-10)";
+var guclu_yanlarin2_57_10_2 = "";
+
+var guclu_yanlarin2_20_10_1 = "“Yüksek İlkeler” Gücü (10-20)";
+var guclu_yanlarin2_20_10_2 = "";
+
+var guclu_yanlarin2_59_6_1 = "Etkileşim Gücü (6-59)";
+var guclu_yanlarin2_59_6_2 = "";
+
+var guclu_yanlarin2_63_4_1 = "Mantıksal Süreç Gücü (63-4)";
+var guclu_yanlarin2_63_4_2 = "";
+
+var guclu_yanlarin2_45_21_1 = "Liderlik Gücü (45-21)";
+var guclu_yanlarin2_45_21_2 = "";
+
+var guclu_yanlarin2_60_3_1 = "Yenilik Gücü (3-60)";
+var guclu_yanlarin2_60_3_2 = "";
+
+var guclu_yanlarin2_5_15_1 = "Kalıplar ve Ritim Gücü (5-15)";
+var guclu_yanlarin2_5_15_2 = "";
+
+var guclu_yanlarin2_47_64_1 = "Deneyimsel Süreç Gücü (64-47)";
+var guclu_yanlarin2_47_64_2 = "";
+
+var guclu_yanlarin2_27_50_1 = "Koruyuculuk Gücü (27-50)";
+var guclu_yanlarin2_27_50_2 = "";
+
+var guclu_yanlarin2_26_44_1 = "Satış ve Pazarlama Gücü (26-44)";
+var guclu_yanlarin2_26_44_2 = "";
+
+var guclu_yanlarin2_54_32_1 = "Tutku Gücü (32-54)";
+var guclu_yanlarin2_54_32_2 = "";
+
+var guclu_yanlarin2_49_19_1 = "Kaynaklar Gücü (19-49)";
+var guclu_yanlarin2_49_19_2 = "";
+
+var guclu_yanlarin2_37_40_1 = "Topluluk Gücü (Quantum 37-40)";
+var guclu_yanlarin2_37_40_2 = "";
+
+var guclu_yanlarin2_34_57_1 = "Kuvvet Gücü (Quantum 34-57)";
+var guclu_yanlarin2_34_57_2 = "";
+
+var guclu_yanlarin2_20_34_1 = "Karizma Gücü (Quantum 34-20)";
+var guclu_yanlarin2_20_34_2 = "";
+
+var guclu_yanlarin2_51_25_1 = "Rekabet Gücü (Quantum 51-25)";
+var guclu_yanlarin2_51_25_2 = "";
+
+var guclu_yanlarin2_8_1_1 = "İlham Gücü (Quantum 1-8)";
+var guclu_yanlarin2_8_1_2 = "";
+
+var guclu_yanlarin2_28_38_1 = "Azim Gücü (Quantum 38-28)";
+var guclu_yanlarin2_28_38_2 = "";
+
+var guclu_yanlarin2_31_7_1 = "Liderlik Gücü (Quantum 7-31)";
+var guclu_yanlarin2_31_7_2 = "";
+
+var guclu_yanlarin2_57_20_1 = "Spontanlık Gücü (Quantum 57-20)";
+var guclu_yanlarin2_57_20_2 = "";
+
+var guclu_yanlarin2_39_55_1 = "Kışkırtma Gücü (Quantum 39-55)";
+var guclu_yanlarin2_39_55_2 = "";
+
+var guclu_yanlarin2_2_14_1 = "Yönlendirme Gücü (Quantum 14-2)";
+var guclu_yanlarin2_2_14_2 = "";
+
+var guclu_yanlarin2_12_22_1 = "Sosyallik Gücü (Quantum 22-12)";
+var guclu_yanlarin2_12_22_2 = "";
+
+var guclu_yanlarin2_61_24_1 = "Yaratıcı Süreç Gücü (Quantum 61-24)";
+var guclu_yanlarin2_61_24_2 = "";
+
+var guclu_yanlarin2_43_23_1 = "Verimlilik Gücü (Quantum 43-23)";
+var guclu_yanlarin2_43_23_2 = "";
+
+var guclu_yanlarin2_9_52_1 = "Konsantrasyon Gücü (Quantum 52-9)";
+var guclu_yanlarin2_9_52_2 = "";
+
+var guclu_yanlarin2_18_58_1 = "Mantıklı Yargı Gücü (Quantum 58-18)";
+var guclu_yanlarin2_18_58_2 = "";
+
+var guclu_yanlarin2_48_16_1 = "Yetenek Gücü (Quantum 48-16)";
+var guclu_yanlarin2_48_16_2 = "";
+
+var guclu_yanlarin2_17_62_1 = "Organizasyon Gücü (Quantum 17-62)";
+var guclu_yanlarin2_17_62_2 = "";
+
+var guclu_yanlarin2_53_42_1 = "“Döngüler” Gücü (Quantum 53-42)";
+var guclu_yanlarin2_53_42_2 = "";
+
+var guclu_yanlarin2_46_29_1 = "“Keşif” Gücü (Quantum 29-46)";
+var guclu_yanlarin2_46_29_2 = "";
+
+var guclu_yanlarin2_33_13_1 = "“Tanıklık” Gücü (Kuantum 13-33)";
+var guclu_yanlarin2_33_13_2 = "";
+
+var guclu_yanlarin2_30_41_1 = "“Hayal Etme” Gücü (Kuantum 41-30)";
+var guclu_yanlarin2_30_41_2 = "";
+
+var guclu_yanlarin2_35_36_1 = "“Deneyimleyen” Gücü (Kuantum 36-35)";
+var guclu_yanlarin2_35_36_2 = "";
+
+var guclu_yanlarin2_56_11_1 = "“Merak” Gücü (11-56)";
+var guclu_yanlarin2_56_11_2 = "";
+
+var guclu_yanlarin2_10_34_1 = "“İnanç” Gücü (Quantum 34-10)";
+var guclu_yanlarin2_10_34_2 = "";
+
+//Bunlar gates
+var guclu_yanlarin2_15_1 = "Güven Kaynağı";
+var guclu_yanlarin2_15_2 = "";
+
+var guclu_yanlarin2_5_1 = "Kültür Mimarı";
+var guclu_yanlarin2_5_2 = "";
+
+var guclu_yanlarin2_46_1 = "Harmoni Yaratıcısı";
+var guclu_yanlarin2_46_2 = "";
+
+var guclu_yanlarin2_29_1 = "Amaca Bağlayıcı";
+var guclu_yanlarin2_29_2 = "";
+
+var guclu_yanlarin2_14_1 = "Kaynak Yaratıcı";
+var guclu_yanlarin2_14_2 = "";
+
+var guclu_yanlarin2_2_1 = "Yön Belirleyici";
+var guclu_yanlarin2_2_2 = "";
+
+var guclu_yanlarin2_1_1 = "Satış Ustası";
+var guclu_yanlarin2_1_2 = "";
+
+var guclu_yanlarin2_8_1 = "İmaj Yöneticisi";
+var guclu_yanlarin2_8_2 = "";
+
+var guclu_yanlarin2_7_1 = "Stratejik Planlayıcı";
+var guclu_yanlarin2_7_2 = "";
+
+var guclu_yanlarin2_31_1 = "Uygulama Ustası";
+var guclu_yanlarin2_31_2 = "";
+
+var guclu_yanlarin2_13_1 = "Rakam Stratejisti";
+var guclu_yanlarin2_13_2 = "";
+
+var guclu_yanlarin2_33_1 = "Gözlem Ustası";
+var guclu_yanlarin2_33_2 = "";
+
 //Güçlü Yanların + 25
 var guclu_yanlarin_57_10_1 = "Mükemmelleştirilmiş Form” Gücü (57-10)";
 var guclu_yanlarin_57_10_2 = "Hızlı düşünme yeteneğin dinamik iş ortamlarında çok değerli. Yaratıcılığın ile hayatta kalmayı garanti eden ve gelecekteki belirsizliklerden koruma sağlayan ortamlar yaratma ve tasarlama kabiliyetin var.\nFormu Mükemmelleştirmek Kendini, sanatı, müziği, yazıyı, iç tasarımı, yiyeceği, bahçeciliği, mimariyi – kendi ve başkalarının davranışlarını içeren her şeyi mükemmelleştirmeyi seversin. Bu detaylara gösterdiğin özen ve mükemmellik arzusu, herhangi bir profesyonel alanda yüksek kaliteli çıktılar üretmene yardımcı olur.\n\nKendin Olmak Sadece kendin olarak yaşayarak sağlıklı ve güzel bir şey yaratırsın. Bu otantiklik başkalarına ilham verebilir ve olumlu ve üretken bir çalışma ortamı yaratabilir. Rolün, kendin ve hayatın da dahil olmak üzere, sevdiğin şeyi yaratmak ve yarattığın şeyi sevmektir.\n\nİş Dünyasında Gücünü Kullanmak Yaratıcılık ve tasarım gerektiren rollerde, detaylara gösterdiğin özen ve sezgisel yaklaşım, yenilikçi ve estetik açıdan hoş sonuçlara doğurur. Liderlikte, işinin her yönünü kucaklama ve mükemmelleştirme yeteneğin, ekibini mükemmellik için çabalamaya teşvik edebilir.\n\nMükemmelleştirilmiş form gücün, iş dünyasında sezgi, yaratıcılık ve mükemmelik arzusu açısından benzersiz bir karışım sunan güçlü bir özelliktir. Bu gücü kullanarak yaratıcı olabilir, üretkenliği artırabilir, olumlu bir çalışma ortamı yaratabilir ve organizasyonunu daha büyük bir başarıya yönlendirebilirsin. Bu gücü benimsemen ve geliştirmen, anlamlı ve etkili bir kariyere vesile olabilir.";
@@ -3013,7 +3159,54 @@ var krktr_ozl_eng_25_plus_emotional_stability_questions = "• What results do I
 
 
 //Yapay Zeka Çağı Yetkinliklerin
-var ai_25_s3_1_1 = "Dijital Okuryazarlık ";
+//12-25
+var ai_12_s3_1_1 = "Dijital Okuryazarlık";
+var ai_12_s3_1_2 = "";
+var ai_12_s4u1_1_2 = "";
+var ai_12_s4u2_1_2 = "";
+
+var ai_12_s3_2_1 = "Veri Okuryazarlığı";
+var ai_12_s3_2_2 = "";
+var ai_12_s4u1_2_2 = "";
+var ai_12_s4u2_2_2 = "";
+
+var ai_12_s3_3_1 = "Kodlama ve Programlama";
+var ai_12_s3_3_2 = "";
+var ai_12_s4u1_3_2 = "";
+var ai_12_s4u2_3_2 = "";
+
+var ai_12_s3_4_1 = "Eleştirel Düşünme ve Problem Çözme";
+var ai_12_s3_4_2 = "";
+var ai_12_s4u1_4_2 = "";
+var ai_12_s4u2_4_2 = "";
+
+var ai_12_s3_5_1 = "Uyarlanabilirlik ve Sürekli Öğrenme";
+var ai_12_s3_5_2 = "";
+var ai_12_s4u1_5_2 = "";
+var ai_12_s4u2_5_2 = "";
+
+var ai_12_s3_6_1 = "İletişim ve İşbirliği";
+var ai_12_s3_6_2 = "";
+var ai_12_s4u1_6_2 = "";
+var ai_12_s4u2_6_2 = "";
+
+var ai_12_s3_7_1 = "Etik ve Sosyal Sorumluluk";
+var ai_12_s3_7_2 = "";
+var ai_12_s4u1_7_2 = "";
+var ai_12_s4u2_7_2 = "";
+
+var ai_12_s3_8_1 = "Duygusal Zeka (EQ)";
+var ai_12_s3_8_2 = "";
+var ai_12_s4u1_8_2 = "";
+var ai_12_s4u2_8_2 = "";
+
+var ai_12_s3_9_1 = "Yenilikçi ve Girişimci Düşünce";
+var ai_12_s3_9_2 = "";
+var ai_12_s4u1_9_2 = "";
+var ai_12_s4u2_9_2 = "";
+
+//25+
+var ai_25_s3_1_1 = "Dijital Okuryazarlık";
 var ai_25_s3_1_2 = "• Temel Bilgisayar ve Teknoloji Becerileri: Bilgisayar kullanımını, yazılım ve donanım bilgilerini kapsar. Gençler teknolojiyi etkili ve verimli bir şekilde kullanabilmelidir.\n\n• Yapay Zeka Temelleri: AI'nın ne olduğu, nasıl çalıştığı ve hayatımızı nasıl şekillendirdiği hakkında temel bilgilere sahip olmak giderek önem kazanıyor.";
 var ai_25_s4u1_1_2 = "• Bilgisayar ve teknoloji becerilerinle hangi alanlarda fark yaratabilirsin? Bu becerilerini okul projelerinde ya da gelecekteki kariyerinde nasıl daha etkin kullanabilirsin?\n\n• AI hakkında sahip olduğun temel bilgileri derinleştirip, yapay zekanın gelecekte hangi mesleklerde önemli olacağını ön görebiliyor musun? Bu alanlarda nasıl bir kariyer planlayabilirsin?";
 var ai_25_s4u2_1_2 = "• Hangi temel bilgisayar becerilerine sahibim ve bu becerileri daha ileriye taşımak için neler yapabilirim?\n\n• Teknolojiyi günlük yaşantımda nasıl kullanıyorum? Teknolojiyi sadece tüketici olarak mı kullanıyorum, yoksa üretici de olabiliyor muyum?\n\n• Yapay zeka hakkında neler biliyorum? AI'nın hayatımı nasıl etkilediğini anlamaya ne kadar zaman ayırdım?\n\n• Yapay zeka ve onun sunduğu fırsatlar hakkında bilgi edinmek beni heyecanlandırıyor mu? Bu alanda kendimi geliştirmek için hangi adımları atabilirim? ";
@@ -3038,7 +3231,7 @@ var ai_25_s3_5_2 = "• Esneklik: Sürekli değişen teknoloji ve iş dünyasın
 var ai_25_s4u1_5_2 = "•	Hızla değişen teknoloji dünyasında nasıl adapte olabilirsin? Esnek olma yeteneğinle hangi mesleklerde daha başarılı olabileceğini düşünüyorsun?\n\n•	Yaşam boyu öğrenme anlayışınla hangi yeni teknolojileri öğrenmeyi planlıyorsun? Bu öğrenme sürecini kariyerin boyunca nasıl sürdürebilirsin?";
 var ai_25_s4u2_5_2 = "• Yeni teknolojilere ve değişen iş dünyasına ne kadar hızlı uyum sağlayabiliyorum? Değişikliklere karşı nasıl tepki veriyorum?\n\n• Yapay zekanın hızlı gelişimi karşısında nasıl esnek olabilirim? İş hayatımda daha uyumlu olmak için hangi adımları atmalıyım?\n\n• Kendimi geliştirmek için ne kadar istekliyim? Teknolojideki yenilikleri takip etme konusunda ne kadar aktifim?\n\n• Hangi alanlarda kendimi daha fazla geliştirmem gerektiğini düşünüyorum? AI dünyasında öğrenmeye nasıl devam edebilirim? ";
 
-var ai_25_s3_6_1 = "İletişim ve İşbirliği ";
+var ai_25_s3_6_1 = "İletişim ve İşbirliği";
 var ai_25_s3_6_2 = "• Teknik ve İnsan Dili Arasındaki Köprü: AI ve teknoloji alanında çalışırken karmaşık bilgileri sade bir şekilde açıklayabilme yeteneği önemlidir.\n\n• Takım Çalışması: Özellikle çok disiplinli projelerde işbirliği yapabilmek, AI projelerinde başarıya ulaşmanın anahtarlarından biridir.";
 var ai_25_s4u1_6_2 = "• Takım çalışması becerinle hangi disiplinler arası projelerde başarılı olabilirsin? AI projelerinde işbirliği yaparak hangi hedeflere ulaşmayı planlıyorsun?\n\n• Karmaşık teknik bilgileri sade bir şekilde açıklayabilme yeteneğinle hangi projelerde liderlik yapabilir ya da takım arkadaşlarına rehberlik edebilirsin? Bu beceriyi hangi iş alanlarında kullanabileceğini düşünüyorsun?";
 var ai_25_s4u2_6_2 = "• Teknik konuları başkalarına açıklarken ne kadar başarılıyım? Kendi bilgimi sade ve anlaşılır hale getirme konusunda ne kadar becerikliyim?\n\n• Teknik bilgileri ekip arkadaşlarıma veya müşterilere daha net ifade edebilmek için hangi becerileri geliştirmeliyim?\n\n• Takım içinde fikirlerimi paylaşırken ne kadar rahatım? Grup dinamiklerini anlamak ve katkı sağlamak için hangi becerilerimi geliştirmeliyim?\n\n• AI projelerinde ekip üyeleriyle nasıl daha iyi iş birliği yapabilirim? Takım arkadaşlarımın güçlü yanlarını nasıl daha etkili kullanabilirim?";
@@ -3871,6 +4064,8 @@ var decision_strategy_eng_s4_11_txt = "By adhering to this decision-making strat
       } else if (pair == ["Gerçekçi", "Geleneksel"].sort().join("-")) {
         return kslk_ozl_ozet_2_1;
       } else if (pair == ["Gerçekçi", "Sosyal"].sort().join("-")) {
+        return kslk_ozl_ozet_3_1;
+      } else if (pair == ["Gerçekçi", "Artistik Sanatsal"].sort().join("-")) {
         return kslk_ozl_ozet_4_1;
       } else if (pair == ["Gerçekçi", "Araştırıcı"].sort().join("-")) {
         return kslk_ozl_ozet_5_1;
@@ -3903,6 +4098,8 @@ var decision_strategy_eng_s4_11_txt = "By adhering to this decision-making strat
       } else if (pair == ["Gerçekçi", "Geleneksel"].sort().join("-")) {
         return kslk_ozl_ozet_2_2;
       } else if (pair == ["Gerçekçi", "Sosyal"].sort().join("-")) {
+        return kslk_ozl_ozet_3_2;
+      } else if (pair == ["Gerçekçi", "Artistik Sanatsal"].sort().join("-")) {
         return kslk_ozl_ozet_4_2;
       } else if (pair == ["Gerçekçi", "Araştırıcı"].sort().join("-")) {
         return kslk_ozl_ozet_5_2;
@@ -9930,130 +10127,130 @@ var decision_strategy_eng_s4_11_txt = "By adhering to this decision-making strat
       P2A1 : dearName,
       P4A1 : "chart",
       P4A2 : kisilikOzelliklerinTop2,
-      P4A3 : kslk_ozl(hollandData[0].name, 25, "name", language), 
-      P4A4 : kslk_ozl(hollandData[1].name, 25, "name", language),
-      P4A5 : kslk_ozl(hollandData[0].name, 25, "profile", language),
-      P4A6 : kslk_ozl(hollandData[1].name, 25, "profile", language),
+      P4A3 : kslk_ozl(hollandData[0].name, age, "name", language), 
+      P4A4 : kslk_ozl(hollandData[1].name, age, "name", language),
+      P4A5 : kslk_ozl(hollandData[0].name, age, "profile", language),
+      P4A6 : kslk_ozl(hollandData[1].name, age, "profile", language),
       
-      P5A1 : kslk_ozl(hollandData[0].name, 25, "interest_1", language),
-      P5A2 : kslk_ozl(hollandData[1].name, 25, "interest_1", language),
-      P5A3 : kslk_ozl(hollandData[0].name, 25, "interest_2", language),
-      P5A4 : kslk_ozl(hollandData[1].name, 25, "interest_2", language),
-      P5A5 : kslk_ozl(hollandData[0].name, 25, "work_areas", language),
-      P5A6 : kslk_ozl(hollandData[0].name, 25, "may_not_like", language),
-      P5A7 : kslk_ozl(hollandData[1].name, 25, "work_areas", language),
-      P5A8 : kslk_ozl(hollandData[1].name, 25, "may_not_like", language),
+      P5A1 : kslk_ozl(hollandData[0].name, age, "interest_1", language),
+      P5A2 : kslk_ozl(hollandData[1].name, age, "interest_1", language),
+      P5A3 : kslk_ozl(hollandData[0].name, age, "interest_2", language),
+      P5A4 : kslk_ozl(hollandData[1].name, age, "interest_2", language),
+      P5A5 : kslk_ozl(hollandData[0].name, age, "work_areas", language),
+      P5A6 : kslk_ozl(hollandData[0].name, age, "may_not_like", language),
+      P5A7 : kslk_ozl(hollandData[1].name, age, "work_areas", language),
+      P5A8 : kslk_ozl(hollandData[1].name, age, "may_not_like", language),
     
-      P6A1 : kslk_ozl(hollandData[0].name, 25, "name", language),
-      P6A2 : kslk_ozl(hollandData[0].name, 25, "questions", language),
-      P6A3 : kslk_ozl(hollandData[1].name, 25, "name", language),
-      P6A4 : kslk_ozl(hollandData[1].name, 25, "questions", language),
+      P6A1 : kslk_ozl(hollandData[0].name, age, "name", language),
+      P6A2 : kslk_ozl(hollandData[0].name, age, "questions", language),
+      P6A3 : kslk_ozl(hollandData[1].name, age, "name", language),
+      P6A4 : kslk_ozl(hollandData[1].name, age, "questions", language),
     
       P7A1 : "chart",
-      P7A2: krktr_ozl(big5Data[0].name || "", 25, "name", language).toLocaleUpperCase(language === 'Tr' ? 'tr-TR' : 'en-US'),
-      P7A3 : krktr_ozl(big5Data[1].name || "", 25, "name", language).toLocaleUpperCase(language === 'Tr' ? 'tr-TR' : 'en-US'),
-      P7A4 : krktr_ozl(big5Data[0].name, 25, "character_elements", language),
-      P7A5 : krktr_ozl(big5Data[1].name, 25, "character_elements", language),
+      P7A2: krktr_ozl(big5Data[0].name || "", age, "name", language).toLocaleUpperCase(language === 'Tr' ? 'tr-TR' : 'en-US'),
+      P7A3 : krktr_ozl(big5Data[1].name || "", age, "name", language).toLocaleUpperCase(language === 'Tr' ? 'tr-TR' : 'en-US'),
+      P7A4 : krktr_ozl(big5Data[0].name, age, "character_elements", language),
+      P7A5 : krktr_ozl(big5Data[1].name, age, "character_elements", language),
       
-      P8A1 : krktr_ozl(big5Data[0].name, 25, "strength", language),
-      P8A2 : krktr_ozl(big5Data[0].name, 25, "weakness", language),
-      P8A3 : krktr_ozl(big5Data[1].name, 25, "strength", language),
-      P8A4 : krktr_ozl(big5Data[1].name, 25, "weakness", language),
-      P8A5 : krktr_ozl(big5Data[2].name, 25, "strength", language),
-      P8A6 : krktr_ozl(big5Data[2].name, 25, "weakness", language),
-      P8A7 : krktr_ozl(big5Data[0].name, 25, "other_attributes", language),
-      P8A8 : krktr_ozl(big5Data[1].name, 25, "other_attributes", language),
-      P8A9 : krktr_ozl(big5Data[2].name, 25, "other_attributes", language),
+      P8A1 : krktr_ozl(big5Data[0].name, age, "strength", language),
+      P8A2 : krktr_ozl(big5Data[0].name, age, "weakness", language),
+      P8A3 : krktr_ozl(big5Data[1].name, age, "strength", language),
+      P8A4 : krktr_ozl(big5Data[1].name, age, "weakness", language),
+      P8A5 : krktr_ozl(big5Data[2].name, age, "strength", language),
+      P8A6 : krktr_ozl(big5Data[2].name, age, "weakness", language),
+      P8A7 : krktr_ozl(big5Data[0].name, age, "other_attributes", language),
+      P8A8 : krktr_ozl(big5Data[1].name, age, "other_attributes", language),
+      P8A9 : krktr_ozl(big5Data[2].name, age, "other_attributes", language),
       
-      P9A1 : krktr_ozl(big5Data[0].name, 25, "name", language),
-      P9A2 : krktr_ozl(big5Data[0].name, 25, "questions", language),
-      P9A3 : krktr_ozl(big5Data[1].name, 25, "name", language),
-      P9A4 : krktr_ozl(big5Data[1].name, 25, "questions", language),
+      P9A1 : krktr_ozl(big5Data[0].name, age, "name", language),
+      P9A2 : krktr_ozl(big5Data[0].name, age, "questions", language),
+      P9A3 : krktr_ozl(big5Data[1].name, age, "name", language),
+      P9A4 : krktr_ozl(big5Data[1].name, age, "questions", language),
     
       P11A1 : "chart",
     
-      P12A1 : ai(sortedaiData[0].name, 25, "name", language),
-      P12A2 : ai(sortedaiData[1].name, 25, "name", language),
-      P12A3 : ai(sortedaiData[0].name, 25, "s3_x_2", language),
-      P12A4 : ai(sortedaiData[1].name, 25, "s3_x_2", language),
-      P12A5 : ai(sortedaiData[sortedaiData.length - 1].name, 25, "name", language),
-      P12A6 : ai(sortedaiData[sortedaiData.length - 2].name, 25, "name", language),
-      P12A7 : ai(sortedaiData[sortedaiData.length - 1].name, 25, "s3_x_2", language),
-      P12A8 : ai(sortedaiData[sortedaiData.length - 2].name, 25, "s3_x_2", language),
+      P12A1 : ai(sortedaiData[0].name, age, "name", language),
+      P12A2 : ai(sortedaiData[1].name, age, "name", language),
+      P12A3 : ai(sortedaiData[0].name, age, "s3_x_2", language),
+      P12A4 : ai(sortedaiData[1].name, age, "s3_x_2", language),
+      P12A5 : ai(sortedaiData[sortedaiData.length - 1].name, age, "name", language),
+      P12A6 : ai(sortedaiData[sortedaiData.length - 2].name, age, "name", language),
+      P12A7 : ai(sortedaiData[sortedaiData.length - 1].name, age, "s3_x_2", language),
+      P12A8 : ai(sortedaiData[sortedaiData.length - 2].name, age, "s3_x_2", language),
     
-      P13A1 : ai(sortedaiData[0].name, 25, "name", language),
+      P13A1 : ai(sortedaiData[0].name, age, "name", language),
       P13A2 : ai(sortedaiData[0].name, 25, "s4u1_x_2", language),
-      P13A3 : ai(sortedaiData[1].name, 25, "name", language),
+      P13A3 : ai(sortedaiData[1].name, age, "name", language),
       P13A4 : ai(sortedaiData[1].name, 25, "s4u1_x_2", language),
-      P13A5 : ai(sortedaiData[sortedaiData.length - 1].name, 25, "name", language),
+      P13A5 : ai(sortedaiData[sortedaiData.length - 1].name, age, "name", language),
       P13A6 : ai(sortedaiData[0].name, 25, "s4u2_x_2", language),
   
       P14A1 : "chart",
     
-      P15A1 : teamwork(sortedTeamWorkData[0].name, 25, "name", language),
-      P15A2 : teamwork(sortedTeamWorkData[1].name, 25, "name", language),
-      P15A3 : teamwork(sortedTeamWorkData[0].name, 25, "best", language),
-      P15A4 : teamwork(sortedTeamWorkData[1].name, 25, "best", language),
-      P15A5 : teamwork(sortedTeamWorkData[sortedTeamWorkData.length - 1].name, 25, "name", language),
-      P15A6 : teamwork(sortedTeamWorkData[sortedTeamWorkData.length - 2].name, 25, "name", language),
-      P15A7 : teamwork(sortedTeamWorkData[sortedTeamWorkData.length - 1].name, 25, "best", language),
-      P15A8 : teamwork(sortedTeamWorkData[sortedTeamWorkData.length - 2].name, 25, "best", language),
+      P15A1 : teamwork(sortedTeamWorkData[0].name, age, "name", language),
+      P15A2 : teamwork(sortedTeamWorkData[1].name, age, "name", language),
+      P15A3 : teamwork(sortedTeamWorkData[0].name, age, "best", language),
+      P15A4 : teamwork(sortedTeamWorkData[1].name, age, "best", language),
+      P15A5 : teamwork(sortedTeamWorkData[sortedTeamWorkData.length - 1].name, age, "name", language),
+      P15A6 : teamwork(sortedTeamWorkData[sortedTeamWorkData.length - 2].name, age, "name", language),
+      P15A7 : teamwork(sortedTeamWorkData[sortedTeamWorkData.length - 1].name, age, "best", language),
+      P15A8 : teamwork(sortedTeamWorkData[sortedTeamWorkData.length - 2].name, age, "best", language),
       
-      P16A1 : teamwork(sortedTeamWorkData[0].name, 25, "name", language),
-      P16A2 : teamwork(sortedTeamWorkData[0].name, 25, "s3u1_x_1", language),
-      P16A3 : teamwork(sortedTeamWorkData[1].name, 25, "name", language),
-      P16A4 : teamwork(sortedTeamWorkData[1].name, 25, "s3u1_x_1", language),
-      P16A5 : teamwork(sortedTeamWorkData[sortedTeamWorkData.length - 1].name, 25, "name", language),
-      P16A6 : teamwork(sortedTeamWorkData[sortedTeamWorkData.length - 1].name, 25, "s3u2_x_1", language),
+      P16A1 : teamwork(sortedTeamWorkData[0].name, age, "name", language),
+      P16A2 : teamwork(sortedTeamWorkData[0].name, age, "s3u1_x_1", language),
+      P16A3 : teamwork(sortedTeamWorkData[1].name, age, "name", language),
+      P16A4 : teamwork(sortedTeamWorkData[1].name, age, "s3u1_x_1", language),
+      P16A5 : teamwork(sortedTeamWorkData[sortedTeamWorkData.length - 1].name, age, "name", language),
+      P16A6 : teamwork(sortedTeamWorkData[sortedTeamWorkData.length - 1].name, age, "s3u2_x_1", language),
       
-      P17A1 : lifestyle(lifestyleData[0], 25, "name", language),
-      P17A2 : lifestyle(lifestyleData[0], 25, "p1", language),
-      P17A3 : lifestyle(lifestyleData[0], 25, "image", language),
+      P17A1 : lifestyle(lifestyleData[0], age, "name", language),
+      P17A2 : lifestyle(lifestyleData[0], age, "p1", language),
+      P17A3 : lifestyle(lifestyleData[0], age, "image", language),
       
-      P18A1 : lifestyle(lifestyleData[0], 25, "p2", language),
-      P18A2 : lifestyle(lifestyleData[0], 25, "p3", language),
-      P18A3 : lifestyle(lifestyleData[0] || "", 25, "motto", language),
+      P18A1 : lifestyle(lifestyleData[0], age, "p2", language),
+      P18A2 : lifestyle(lifestyleData[0], age, "p3", language),
+      P18A3 : lifestyle(lifestyleData[0] || "", age, "motto", language),
     
-      P19A1 : lifestyle(lifestyleData[0], 25, "questions", language),
-      P19A2 : lifestyle(lifestyleData[0], 25, "evaluation", language),
+      P19A1 : lifestyle(lifestyleData[0], age, "questions", language),
+      P19A2 : lifestyle(lifestyleData[0], age, "evaluation", language),
       
-      P20A1 : communication(communicationData[0], 25, "name", language),
-      P20A2 : communication(communicationData[0], 25, "1", language),
+      P20A1 : communication(communicationData[0], age, "name", language),
+      P20A2 : communication(communicationData[0], age, "1", language),
       P20A3 : iletisimVeEtkilesimTarzin,
-      P20A4 : communication(communicationData[0], 25, "2", language),
-      P20A5 : communication(communicationData[0], 25, "3", language),
-      P20A6 : communication(communicationData[0], 25, "4", language),
-      P20A7 : communication(communicationData[0], 25, "5", language),
-      P20A8 : communication(communicationData[0], 25, "6", language),
-      P20A9 : communication(communicationData[0], 25, "7", language),
+      P20A4 : communication(communicationData[0], age, "2", language),
+      P20A5 : communication(communicationData[0], age, "3", language),
+      P20A6 : communication(communicationData[0], age, "4", language),
+      P20A7 : communication(communicationData[0], age, "5", language),
+      P20A8 : communication(communicationData[0], age, "6", language),
+      P20A9 : communication(communicationData[0], age, "7", language),
       
-      P21A1 : communication(communicationData[0], 25, "1_s2", language),
-      P21A2 : communication(communicationData[0], 25, "2_s2", language),
-      P21A3 : communication(communicationData[0], 25, "3_s2", language),
-      P21A4 : communication(communicationData[0], 25, "4_s2", language),
+      P21A1 : communication(communicationData[0], age, "1_s2", language),
+      P21A2 : communication(communicationData[0], age, "2_s2", language),
+      P21A3 : communication(communicationData[0], age, "3_s2", language),
+      P21A4 : communication(communicationData[0], age, "4_s2", language),
       
-      P22A1 : communication(communicationData[0], 25, "name", language),
-      P22A2 : communication(communicationData[0], 25, "1_s3", language),
+      P22A1 : communication(communicationData[0], age, "name", language),
+      P22A2 : communication(communicationData[0], age, "1_s3", language),
     
-      P24A1 : worklearnstyle(worklearnData[0], 25, "name", language),
-      P24A2 : worklearnstyle(worklearnData[0], 25, "context", language),
+      P24A1 : worklearnstyle(worklearnData[0], age, "name", language),
+      P24A2 : worklearnstyle(worklearnData[0], age, "context", language),
       
-      P25A1 : worklearnstyle(worklearnData[0], 25, "name", language),
-      P25A2 : worklearnstyle(worklearnData[0], 25, "s3", language),
+      P25A1 : worklearnstyle(worklearnData[0], age, "name", language),
+      P25A2 : worklearnstyle(worklearnData[0], age, "s3", language),
       
-      P27A1 : is_y_r(is_y_rData[0], 25, "name", language),
-      P27A2 : is_y_r(is_y_rData[0], 25, "s2_2", language),
+      P27A1 : is_y_r(is_y_rData[0], age, "name", language),
+      P27A2 : is_y_r(is_y_rData[0], age, "s2_2", language),
       P27A3 : isYasamindaRolun1,
-      P27A4 : is_y_r(is_y_rData[0], 25, "s2_3", language),
-      P27A5 : is_y_r(is_y_rData[0], 25, "s2_4", language),
-      P27A6 : is_y_r(is_y_rData[0], 25, "s2_5", language),
-      P27A7 : is_y_r(is_y_rData[0], 25, "image", language),
+      P27A4 : is_y_r(is_y_rData[0], age, "s2_3", language),
+      P27A5 : is_y_r(is_y_rData[0], age, "s2_4", language),
+      P27A6 : is_y_r(is_y_rData[0], age, "s2_5", language),
+      P27A7 : is_y_r(is_y_rData[0], age, "image", language),
       
-      P28A1 : is_y_r(is_y_rData[0], 25, "name", language),
+      P28A1 : is_y_r(is_y_rData[0], age, "name", language),
       P28A2 : isYasamindaRolun2,
-      P28A3 : is_y_r(is_y_rData[0], 25, "s3_1", language),
+      P28A3 : is_y_r(is_y_rData[0], age, "s3_1", language),
       P28A4 : isYasamindaRolun3,
-      P28A5 : is_y_r(is_y_rData[0], 25, "s3_2", language),
+      P28A5 : is_y_r(is_y_rData[0], age, "s3_2", language),
   
       graphbig : bigdataPercent,
       graphholland : hollanddataPercent,
@@ -10188,130 +10385,130 @@ var decision_strategy_eng_s4_11_txt = "By adhering to this decision-making strat
       P2A1 : dearName,
       P4A1 : "chart",
       P4A2 : kisilikOzelliklerinTop2,
-      P4A3 : kslk_ozl(hollandData[0].name, 25, "name", language), 
-      P4A4 : kslk_ozl(hollandData[1].name, 25, "name", language),
-      P4A5 : kslk_ozl(hollandData[0].name, 25, "profile", language),
-      P4A6 : kslk_ozl(hollandData[1].name, 25, "profile", language),
+      P4A3 : kslk_ozl(hollandData[0].name, age, "name", language), 
+      P4A4 : kslk_ozl(hollandData[1].name, age, "name", language),
+      P4A5 : kslk_ozl(hollandData[0].name, age, "profile", language),
+      P4A6 : kslk_ozl(hollandData[1].name, age, "profile", language),
       
-      P5A1 : kslk_ozl(hollandData[0].name, 25, "interest_1", language),
-      P5A2 : kslk_ozl(hollandData[1].name, 25, "interest_1", language),
-      P5A3 : kslk_ozl(hollandData[0].name, 25, "interest_2", language),
-      P5A4 : kslk_ozl(hollandData[1].name, 25, "interest_2", language),
-      P5A5 : kslk_ozl(hollandData[0].name, 25, "work_areas", language),
-      P5A6 : kslk_ozl(hollandData[0].name, 25, "may_not_like", language),
-      P5A7 : kslk_ozl(hollandData[1].name, 25, "work_areas", language),
-      P5A8 : kslk_ozl(hollandData[1].name, 25, "may_not_like", language),
+      P5A1 : kslk_ozl(hollandData[0].name, age, "interest_1", language),
+      P5A2 : kslk_ozl(hollandData[1].name, age, "interest_1", language),
+      P5A3 : kslk_ozl(hollandData[0].name, age, "interest_2", language),
+      P5A4 : kslk_ozl(hollandData[1].name, age, "interest_2", language),
+      P5A5 : kslk_ozl(hollandData[0].name, age, "work_areas", language),
+      P5A6 : kslk_ozl(hollandData[0].name, age, "may_not_like", language),
+      P5A7 : kslk_ozl(hollandData[1].name, age, "work_areas", language),
+      P5A8 : kslk_ozl(hollandData[1].name, age, "may_not_like", language),
     
-      P6A1 : kslk_ozl(hollandData[0].name, 25, "name", language),
-      P6A2 : kslk_ozl(hollandData[0].name, 25, "questions", language),
-      P6A3 : kslk_ozl(hollandData[1].name, 25, "name", language),
-      P6A4 : kslk_ozl(hollandData[1].name, 25, "questions", language),
+      P6A1 : kslk_ozl(hollandData[0].name, age, "name", language),
+      P6A2 : kslk_ozl(hollandData[0].name, age, "questions", language),
+      P6A3 : kslk_ozl(hollandData[1].name, age, "name", language),
+      P6A4 : kslk_ozl(hollandData[1].name, age, "questions", language),
     
       P7A1 : "chart",
-      P7A2: krktr_ozl(big5Data[0].name || "", 25, "name", language).toLocaleUpperCase(language === 'Tr' ? 'tr-TR' : 'en-US'),
-      P7A3 : krktr_ozl(big5Data[1].name || "", 25, "name", language).toLocaleUpperCase(language === 'Tr' ? 'tr-TR' : 'en-US'),
-      P7A4 : krktr_ozl(big5Data[0].name, 25, "character_elements", language),
-      P7A5 : krktr_ozl(big5Data[1].name, 25, "character_elements", language),
+      P7A2: krktr_ozl(big5Data[0].name || "", age, "name", language).toLocaleUpperCase(language === 'Tr' ? 'tr-TR' : 'en-US'),
+      P7A3 : krktr_ozl(big5Data[1].name || "", age, "name", language).toLocaleUpperCase(language === 'Tr' ? 'tr-TR' : 'en-US'),
+      P7A4 : krktr_ozl(big5Data[0].name, age, "character_elements", language),
+      P7A5 : krktr_ozl(big5Data[1].name, age, "character_elements", language),
       
-      P8A1 : krktr_ozl(big5Data[0].name, 25, "strength", language),
-      P8A2 : krktr_ozl(big5Data[0].name, 25, "weakness", language),
-      P8A3 : krktr_ozl(big5Data[1].name, 25, "strength", language),
-      P8A4 : krktr_ozl(big5Data[1].name, 25, "weakness", language),
-      P8A5 : krktr_ozl(big5Data[2].name, 25, "strength", language),
-      P8A6 : krktr_ozl(big5Data[2].name, 25, "weakness", language),
-      P8A7 : krktr_ozl(big5Data[0].name, 25, "other_attributes", language),
-      P8A8 : krktr_ozl(big5Data[1].name, 25, "other_attributes", language),
-      P8A9 : krktr_ozl(big5Data[2].name, 25, "other_attributes", language),
+      P8A1 : krktr_ozl(big5Data[0].name, age, "strength", language),
+      P8A2 : krktr_ozl(big5Data[0].name, age, "weakness", language),
+      P8A3 : krktr_ozl(big5Data[1].name, age, "strength", language),
+      P8A4 : krktr_ozl(big5Data[1].name, age, "weakness", language),
+      P8A5 : krktr_ozl(big5Data[2].name, age, "strength", language),
+      P8A6 : krktr_ozl(big5Data[2].name, age, "weakness", language),
+      P8A7 : krktr_ozl(big5Data[0].name, age, "other_attributes", language),
+      P8A8 : krktr_ozl(big5Data[1].name, age, "other_attributes", language),
+      P8A9 : krktr_ozl(big5Data[2].name, age, "other_attributes", language),
       
-      P9A1 : krktr_ozl(big5Data[0].name, 25, "name", language),
-      P9A2 : krktr_ozl(big5Data[0].name, 25, "questions", language),
-      P9A3 : krktr_ozl(big5Data[1].name, 25, "name", language),
-      P9A4 : krktr_ozl(big5Data[1].name, 25, "questions", language),
+      P9A1 : krktr_ozl(big5Data[0].name, age, "name", language),
+      P9A2 : krktr_ozl(big5Data[0].name, age, "questions", language),
+      P9A3 : krktr_ozl(big5Data[1].name, age, "name", language),
+      P9A4 : krktr_ozl(big5Data[1].name, age, "questions", language),
     
       P11A1 : "chart",
     
-      P12A1 : ai(sortedaiData[0].name, 25, "name", language),
-      P12A2 : ai(sortedaiData[1].name, 25, "name", language),
-      P12A3 : ai(sortedaiData[0].name, 25, "s3_x_2", language),
-      P12A4 : ai(sortedaiData[1].name, 25, "s3_x_2", language),
-      P12A5 : ai(sortedaiData[sortedaiData.length - 1].name, 25, "name", language),
-      P12A6 : ai(sortedaiData[sortedaiData.length - 2].name, 25, "name", language),
-      P12A7 : ai(sortedaiData[sortedaiData.length - 1].name, 25, "s3_x_2", language),
-      P12A8 : ai(sortedaiData[sortedaiData.length - 2].name, 25, "s3_x_2", language),
+      P12A1 : ai(sortedaiData[0].name, age, "name", language),
+      P12A2 : ai(sortedaiData[1].name, age, "name", language),
+      P12A3 : ai(sortedaiData[0].name, age, "s3_x_2", language),
+      P12A4 : ai(sortedaiData[1].name, age, "s3_x_2", language),
+      P12A5 : ai(sortedaiData[sortedaiData.length - 1].name, age, "name", language),
+      P12A6 : ai(sortedaiData[sortedaiData.length - 2].name, age, "name", language),
+      P12A7 : ai(sortedaiData[sortedaiData.length - 1].name, age, "s3_x_2", language),
+      P12A8 : ai(sortedaiData[sortedaiData.length - 2].name, age, "s3_x_2", language),
     
-      P13A1 : ai(sortedaiData[0].name, 25, "name", language),
+      P13A1 : ai(sortedaiData[0].name, age, "name", language),
       P13A2 : ai(sortedaiData[0].name, 25, "s4u1_x_2", language),
-      P13A3 : ai(sortedaiData[1].name, 25, "name", language),
+      P13A3 : ai(sortedaiData[1].name, age, "name", language),
       P13A4 : ai(sortedaiData[1].name, 25, "s4u1_x_2", language),
-      P13A5 : ai(sortedaiData[sortedaiData.length - 1].name, 25, "name", language),
+      P13A5 : ai(sortedaiData[sortedaiData.length - 1].name, age, "name", language),
       P13A6 : ai(sortedaiData[0].name, 25, "s4u2_x_2", language),
   
       P14A1 : "chart",
     
-      P15A1 : teamwork(sortedTeamWorkData[0].name, 25, "name", language),
-      P15A2 : teamwork(sortedTeamWorkData[1].name, 25, "name", language),
-      P15A3 : teamwork(sortedTeamWorkData[0].name, 25, "best", language),
-      P15A4 : teamwork(sortedTeamWorkData[1].name, 25, "best", language),
-      P15A5 : teamwork(sortedTeamWorkData[sortedTeamWorkData.length - 1].name, 25, "name", language),
-      P15A6 : teamwork(sortedTeamWorkData[sortedTeamWorkData.length - 2].name, 25, "name", language),
-      P15A7 : teamwork(sortedTeamWorkData[sortedTeamWorkData.length - 1].name, 25, "best", language),
-      P15A8 : teamwork(sortedTeamWorkData[sortedTeamWorkData.length - 2].name, 25, "best", language),
+      P15A1 : teamwork(sortedTeamWorkData[0].name, age, "name", language),
+      P15A2 : teamwork(sortedTeamWorkData[1].name, age, "name", language),
+      P15A3 : teamwork(sortedTeamWorkData[0].name, age, "best", language),
+      P15A4 : teamwork(sortedTeamWorkData[1].name, age, "best", language),
+      P15A5 : teamwork(sortedTeamWorkData[sortedTeamWorkData.length - 1].name, age, "name", language),
+      P15A6 : teamwork(sortedTeamWorkData[sortedTeamWorkData.length - 2].name, age, "name", language),
+      P15A7 : teamwork(sortedTeamWorkData[sortedTeamWorkData.length - 1].name, age, "best", language),
+      P15A8 : teamwork(sortedTeamWorkData[sortedTeamWorkData.length - 2].name, age, "best", language),
       
-      P16A1 : teamwork(sortedTeamWorkData[0].name, 25, "name", language),
-      P16A2 : teamwork(sortedTeamWorkData[0].name, 25, "s3u1_x_1", language),
-      P16A3 : teamwork(sortedTeamWorkData[1].name, 25, "name", language),
-      P16A4 : teamwork(sortedTeamWorkData[1].name, 25, "s3u1_x_1", language),
-      P16A5 : teamwork(sortedTeamWorkData[sortedTeamWorkData.length - 1].name, 25, "name", language),
-      P16A6 : teamwork(sortedTeamWorkData[sortedTeamWorkData.length - 1].name, 25, "s3u2_x_1", language),
+      P16A1 : teamwork(sortedTeamWorkData[0].name, age, "name", language),
+      P16A2 : teamwork(sortedTeamWorkData[0].name, age, "s3u1_x_1", language),
+      P16A3 : teamwork(sortedTeamWorkData[1].name, age, "name", language),
+      P16A4 : teamwork(sortedTeamWorkData[1].name, age, "s3u1_x_1", language),
+      P16A5 : teamwork(sortedTeamWorkData[sortedTeamWorkData.length - 1].name, age, "name", language),
+      P16A6 : teamwork(sortedTeamWorkData[sortedTeamWorkData.length - 1].name, age, "s3u2_x_1", language),
       
-      P17A1 : lifestyle(lifestyleData[0], 25, "name", language),
-      P17A2 : lifestyle(lifestyleData[0], 25, "p1", language),
-      P17A3 : lifestyle(lifestyleData[0], 25, "image", language),
+      P17A1 : lifestyle(lifestyleData[0], age, "name", language),
+      P17A2 : lifestyle(lifestyleData[0], age, "motto", language),
+      P17A3 : lifestyle(lifestyleData[0], age, "image", language),
       
-      P18A1 : lifestyle(lifestyleData[0], 25, "p2", language),
-      P18A2 : lifestyle(lifestyleData[0], 25, "p3", language),
-      P18A3 : lifestyle(lifestyleData[0] || "", 25, "motto", language),
+      P18A1 : lifestyle(lifestyleData[0], age, "motto", language),
+      P18A2 : lifestyle(lifestyleData[0], age, "p3", language),
+      P18A3 : lifestyle(lifestyleData[0] || "", age, "motto", language),
     
-      P19A1 : lifestyle(lifestyleData[0], 25, "questions", language),
-      P19A2 : lifestyle(lifestyleData[0], 25, "evaluation", language),
+      P19A1 : lifestyle(lifestyleData[0], age, "questions", language),
+      P19A2 : lifestyle(lifestyleData[0], age, "evaluation", language),
       
-      P20A1 : communication(communicationData[0], 25, "name", language),
-      P20A2 : communication(communicationData[0], 25, "1", language),
+      P20A1 : communication(communicationData[0], age, "name", language),
+      P20A2 : communication(communicationData[0], age, "1", language),
       P20A3 : iletisimVeEtkilesimTarzin,
-      P20A4 : communication(communicationData[0], 25, "2", language),
-      P20A5 : communication(communicationData[0], 25, "3", language),
-      P20A6 : communication(communicationData[0], 25, "4", language),
-      P20A7 : communication(communicationData[0], 25, "5", language),
-      P20A8 : communication(communicationData[0], 25, "6", language),
-      P20A9 : communication(communicationData[0], 25, "7", language),
+      P20A4 : communication(communicationData[0], age, "2", language),
+      P20A5 : communication(communicationData[0], age, "3", language),
+      P20A6 : communication(communicationData[0], age, "4", language),
+      P20A7 : communication(communicationData[0], age, "5", language),
+      P20A8 : communication(communicationData[0], age, "6", language),
+      P20A9 : communication(communicationData[0], age, "7", language),
       
-      P21A1 : communication(communicationData[0], 25, "1_s2", language),
-      P21A2 : communication(communicationData[0], 25, "2_s2", language),
-      P21A3 : communication(communicationData[0], 25, "3_s2", language),
-      P21A4 : communication(communicationData[0], 25, "4_s2", language),
+      P21A1 : communication(communicationData[0], age, "1_s2", language),
+      P21A2 : communication(communicationData[0], age, "2_s2", language),
+      P21A3 : communication(communicationData[0], age, "3_s2", language),
+      P21A4 : communication(communicationData[0], age, "4_s2", language),
       
-      P22A1 : communication(communicationData[0], 25, "name", language),
-      P22A2 : communication(communicationData[0], 25, "1_s3", language),
+      P22A1 : communication(communicationData[0], age, "name", language),
+      P22A2 : communication(communicationData[0], age, "1_s3", language),
     
-      P24A1 : worklearnstyle(worklearnData[0], 25, "name", language),
-      P24A2 : worklearnstyle(worklearnData[0], 25, "context", language),
+      P24A1 : worklearnstyle(worklearnData[0], age, "name", language),
+      P24A2 : worklearnstyle(worklearnData[0], age, "context", language),
       
-      P25A1 : worklearnstyle(worklearnData[0], 25, "name", language),
-      P25A2 : worklearnstyle(worklearnData[0], 25, "s3", language),
+      P25A1 : worklearnstyle(worklearnData[0], age, "name", language),
+      P25A2 : worklearnstyle(worklearnData[0], age, "s3", language),
       
-      P27A1 : is_y_r(is_y_rData[0], 25, "name", language),
-      P27A2 : is_y_r(is_y_rData[0], 25, "s2_2", language),
+      P27A1 : is_y_r(is_y_rData[0], age, "name", language),
+      P27A2 : is_y_r(is_y_rData[0], age, "s2_2", language),
       P27A3 : isYasamindaRolun1,
-      P27A4 : is_y_r(is_y_rData[0], 25, "s2_3", language),
-      P27A5 : is_y_r(is_y_rData[0], 25, "s2_4", language),
-      P27A6 : is_y_r(is_y_rData[0], 25, "s2_5", language),
-      P27A7 : is_y_r(is_y_rData[0], 25, "image", language),
+      P27A4 : is_y_r(is_y_rData[0], age, "s2_3", language),
+      P27A5 : is_y_r(is_y_rData[0], age, "s2_4", language),
+      P27A6 : is_y_r(is_y_rData[0], age, "s2_5", language),
+      P27A7 : is_y_r(is_y_rData[0], age, "image", language),
       
-      P28A1 : is_y_r(is_y_rData[0], 25, "name", language),
+      P28A1 : is_y_r(is_y_rData[0], age, "name", language),
       P28A2 : isYasamindaRolun2,
-      P28A3 : is_y_r(is_y_rData[0], 25, "s3_1", language),
+      P28A3 : is_y_r(is_y_rData[0], age, "s3_1", language),
       P28A4 : isYasamindaRolun3,
-      P28A5 : is_y_r(is_y_rData[0], 25, "s3_2", language),
+      P28A5 : is_y_r(is_y_rData[0], age, "s3_2", language),
   
       graphbig : bigdataPercent,
       graphholland : hollanddataPercent,
@@ -10445,81 +10642,81 @@ var decision_strategy_eng_s4_11_txt = "By adhering to this decision-making strat
 
       allVariables,
   
-      allVariables.P30A1 = guclu_yanlarin(guclu_yanlarinData[0], 25, guclu_yanlarinData[0].name + "_1", language); 
-      allVariables.P30A2 = guclu_yanlarin(guclu_yanlarinData[0], 25, guclu_yanlarinData[0].name + "_2", language); 
+      allVariables.P30A1 = guclu_yanlarin(guclu_yanlarinData[0], age, guclu_yanlarinData[0].name + "_1", language); 
+      allVariables.P30A2 = guclu_yanlarin(guclu_yanlarinData[0], age, guclu_yanlarinData[0].name + "_2", language); 
       
-      allVariables.P33A1 = decision_strategy(decision_strategyData, 25, "name", language); // Senin Karar Verme Stratejin
-      allVariables.P33A2 = decision_strategy(decision_strategyData, 25, "s3_x_2", language);
+      allVariables.P33A1 = decision_strategy(decision_strategyData, age, "name", language); // Senin Karar Verme Stratejin
+      allVariables.P33A2 = decision_strategy(decision_strategyData, age, "s3_x_2", language);
       allVariables.P33A3 = gucluYanlarin;
-      allVariables.P33A4 = decision_strategy(decision_strategyData, 25, "s3_x_3", language);
-      allVariables.P33A5 = decision_strategy(decision_strategyData, 25, "s3_x_4", language);
+      allVariables.P33A4 = decision_strategy(decision_strategyData, age, "s3_x_3", language);
+      allVariables.P33A5 = decision_strategy(decision_strategyData, age, "s3_x_4", language);
   
       allVariables.P34A1 = kararVermeStratejin;
-      allVariables.P34A2 = decision_strategy(decision_strategyData, 25, "s4_x_text", language);
+      allVariables.P34A2 = decision_strategy(decision_strategyData, age, "s4_x_text", language);
       allVariables.P34A3 = kararVermeStratejin2;
-      allVariables.P34A4 = decision_strategy(decision_strategyData, 25, "s4_x_1", language);
-      allVariables.P34A5 = decision_strategy(decision_strategyData, 25, "s4_x_txt", language);
-      allVariables.P34A6 = decision_strategy(decision_strategyData, 25, "image", language);
+      allVariables.P34A4 = decision_strategy(decision_strategyData, age, "s4_x_1", language);
+      allVariables.P34A5 = decision_strategy(decision_strategyData, age, "s4_x_txt", language);
+      allVariables.P34A6 = decision_strategy(decision_strategyData, age, "image", language);
   
       allVariables.P35A1 = "image"; // Sana uygun kariyer dağılımların
-      allVariables.P35A2 = "1." + kariyer_secim(careerSelectionLastResult[0], 25, "name", language);
-      allVariables.P35A3 = "2." + kariyer_secim(careerSelectionLastResult[1], 25, "name", language);
-      allVariables.P35A4 = "3." + kariyer_secim(careerSelectionLastResult[2], 25, "name", language);
+      allVariables.P35A2 = "1." + kariyer_secim(careerSelectionLastResult[0], age, "name", language);
+      allVariables.P35A3 = "2." + kariyer_secim(careerSelectionLastResult[1], age, "name", language);
+      allVariables.P35A4 = "3." + kariyer_secim(careerSelectionLastResult[2], age, "name", language);
   
-      allVariables.P36A1 = kariyer_secim(careerSelectionLastResult[0], 25, "name", language);
-      allVariables.P36A2 = kariyer_secim(careerSelectionLastResult[0], 25, "s2_x_2", language);
-      allVariables.P36A3 = kariyer_secim(careerSelectionLastResult[1], 25, "name", language);
-      allVariables.P36A4 = kariyer_secim(careerSelectionLastResult[1], 25, "s2_x_2", language);
-      allVariables.P36A5 = kariyer_secim(careerSelectionLastResult[2], 25, "name", language);
-      allVariables.P36A6 = kariyer_secim(careerSelectionLastResult[2], 25, "s2_x_2", language);
+      allVariables.P36A1 = kariyer_secim(careerSelectionLastResult[0], age, "name", language);
+      allVariables.P36A2 = kariyer_secim(careerSelectionLastResult[0], age, "s2_x_2", language);
+      allVariables.P36A3 = kariyer_secim(careerSelectionLastResult[1], age, "name", language);
+      allVariables.P36A4 = kariyer_secim(careerSelectionLastResult[1], age, "s2_x_2", language);
+      allVariables.P36A5 = kariyer_secim(careerSelectionLastResult[2], age, "name", language);
+      allVariables.P36A6 = kariyer_secim(careerSelectionLastResult[2], age, "s2_x_2", language);
   
-      allVariables.P37A1 = kariyer_secim(careerSelectionLastResult[0], 25, "name", language); // Sana En uygun kariyer Seçenekleri Genel Sektörler
-      allVariables.P37A2 = kariyer_secim(careerSelectionLastResult[1], 25, "name", language);
-      allVariables.P37A3 = kariyer_secim(careerSelectionLastResult[2], 25, "name", language);
-      allVariables.P37A4 = kariyer_secim(careerSelectionLastResult[0], 25, "s3_x_1", language); // Güncel İşler
-      allVariables.P37A5 = kariyer_secim(careerSelectionLastResult[1], 25, "s3_x_1", language);
-      allVariables.P37A6 = kariyer_secim(careerSelectionLastResult[2], 25, "s3_x_1", language);
+      allVariables.P37A1 = kariyer_secim(careerSelectionLastResult[0], age, "name", language); // Sana En uygun kariyer Seçenekleri Genel Sektörler
+      allVariables.P37A2 = kariyer_secim(careerSelectionLastResult[1], age, "name", language);
+      allVariables.P37A3 = kariyer_secim(careerSelectionLastResult[2], age, "name", language);
+      allVariables.P37A4 = kariyer_secim(careerSelectionLastResult[0], age, "s3_x_1", language); // Güncel İşler
+      allVariables.P37A5 = kariyer_secim(careerSelectionLastResult[1], age, "s3_x_1", language);
+      allVariables.P37A6 = kariyer_secim(careerSelectionLastResult[2], age, "s3_x_1", language);
   
-      allVariables.P38A1 = kariyer_secim(careerSelectionLastResult[0], 25, "name", language);
-      allVariables.P38A2 = kariyer_secim(careerSelectionLastResult[1], 25, "name", language);
-      allVariables.P38A3 = kariyer_secim(careerSelectionLastResult[2], 25, "name", language);
-      allVariables.P38A4 = kariyer_secim(careerSelectionLastResult[0], 25, "s4_x_1", language); // Geleceğin İşleri
-      allVariables.P38A5 = kariyer_secim(careerSelectionLastResult[1], 25, "s4_x_1", language);
-      allVariables.P38A6 = kariyer_secim(careerSelectionLastResult[2], 25, "s4_x_1", language);
+      allVariables.P38A1 = kariyer_secim(careerSelectionLastResult[0], age, "name", language);
+      allVariables.P38A2 = kariyer_secim(careerSelectionLastResult[1], age, "name", language);
+      allVariables.P38A3 = kariyer_secim(careerSelectionLastResult[2], age, "name", language);
+      allVariables.P38A4 = kariyer_secim(careerSelectionLastResult[0], age, "s4_x_1", language); // Geleceğin İşleri
+      allVariables.P38A5 = kariyer_secim(careerSelectionLastResult[1], age, "s4_x_1", language);
+      allVariables.P38A6 = kariyer_secim(careerSelectionLastResult[2], age, "s4_x_1", language);
 
-      allVariables.P39A1 = kariyer_secim(careerSelectionLastResult[0], 25, "name", language);
+      allVariables.P39A1 = kariyer_secim(careerSelectionLastResult[0], age, "name", language);
       allVariables.P39A2 = kariyer_secim(careerSelectionLastResult[0], 25, "s5_x_1", language);
-      allVariables.P39A3 = kariyer_secim(careerSelectionLastResult[1], 25, "name", language);
+      allVariables.P39A3 = kariyer_secim(careerSelectionLastResult[1], age, "name", language);
       allVariables.P39A4 = kariyer_secim(careerSelectionLastResult[1], 25, "s5_x_1", language);
-      allVariables.P39A5 = kariyer_secim(careerSelectionLastResult[2], 25, "name", language);
+      allVariables.P39A5 = kariyer_secim(careerSelectionLastResult[2], age, "name", language);
       allVariables.P39A6 = kariyer_secim(careerSelectionLastResult[2], 25, "s5_x_1", language);
 
-      allVariables.P40A1 = kariyer_secim(careerSelectionLastResult[0], 25, "name", language);
+      allVariables.P40A1 = kariyer_secim(careerSelectionLastResult[0], age, "name", language);
       allVariables.P40A2 = kariyer_secim(careerSelectionLastResult[0], 25, "s6_x_1", language);
       allVariables.P40A3 = kariyer_secim(careerSelectionLastResult[0], 25, "s6_x_2", language);
-      allVariables.P40A4 = kariyer_secim(careerSelectionLastResult[1], 25, "name", language);
+      allVariables.P40A4 = kariyer_secim(careerSelectionLastResult[1], age, "name", language);
       allVariables.P40A5 = kariyer_secim(careerSelectionLastResult[1], 25, "s6_x_1", language);
       allVariables.P40A6 = kariyer_secim(careerSelectionLastResult[1], 25, "s6_x_2", language);
   
-      allVariables.P41A1 = kariyer_secim(decision_strategyData.sectorName, 25, "sector", language); // Sana En uygun kariyer seçenekleri
-      allVariables.P41A2 = kariyer_secim(careerSelectionLastResult[0], 25, "s7_" + decision_strategyData.sectorName + "_x_1", language);
-      allVariables.P41A3 = kariyer_secim(careerSelectionLastResult[0], 25, "s7_" + decision_strategyData.sectorName + "_x_3", language);
-      allVariables.P41A4 = kariyer_secim(careerSelectionLastResult[0], 25, "s7_" + decision_strategyData.sectorName + "_x_4", language);
-      allVariables.P41A5 = kariyer_secim(careerSelectionLastResult[0], 25, "s7_" + decision_strategyData.sectorName + "_x_5", language);
-      allVariables.P41A6 = kariyer_secim(careerSelectionLastResult[0], 25, "s7_" + decision_strategyData.sectorName + "_x_6", language);
-      allVariables.P41A7 = kariyer_secim(careerSelectionLastResult[0], 25, "s7_" + decision_strategyData.sectorName + "_x_7", language);
-      allVariables.P41A8 = kariyer_secim(careerSelectionLastResult[1], 25, "s7_" + decision_strategyData.sectorName + "_x_1", language);
-      allVariables.P41A9 = kariyer_secim(careerSelectionLastResult[1], 25, "s7_" + decision_strategyData.sectorName + "_x_3", language);
-      allVariables.P41A10 = kariyer_secim(careerSelectionLastResult[1], 25, "s7_" + decision_strategyData.sectorName + "_x_4", language);
-      allVariables.P41A11 = kariyer_secim(careerSelectionLastResult[1], 25, "s7_" + decision_strategyData.sectorName + "_x_5", language);
-      allVariables.P41A12 = kariyer_secim(careerSelectionLastResult[1], 25, "s7_" + decision_strategyData.sectorName + "_x_6", language);
-      allVariables.P41A13 = kariyer_secim(careerSelectionLastResult[1], 25, "s7_" + decision_strategyData.sectorName + "_x_7", language);
-      allVariables.P41A14 = kariyer_secim(careerSelectionLastResult[2], 25, "s7_" + decision_strategyData.sectorName + "_x_1", language);
-      allVariables.P41A15 = kariyer_secim(careerSelectionLastResult[2], 25, "s7_" + decision_strategyData.sectorName + "_x_3", language);
-      allVariables.P41A16 = kariyer_secim(careerSelectionLastResult[2], 25, "s7_" + decision_strategyData.sectorName + "_x_4", language);
-      allVariables.P41A17 = kariyer_secim(careerSelectionLastResult[2], 25, "s7_" + decision_strategyData.sectorName + "_x_5", language);
-      allVariables.P41A18 = kariyer_secim(careerSelectionLastResult[2], 25, "s7_" + decision_strategyData.sectorName + "_x_6", language);
-      allVariables.P41A19 = kariyer_secim(careerSelectionLastResult[2], 25, "s7_" + decision_strategyData.sectorName + "_x_7", language);
+      allVariables.P41A1 = kariyer_secim(decision_strategyData.sectorName, age, "sector", language); // Sana En uygun kariyer seçenekleri
+      allVariables.P41A2 = kariyer_secim(careerSelectionLastResult[0], age, "s7_" + decision_strategyData.sectorName + "_x_1", language);
+      allVariables.P41A3 = kariyer_secim(careerSelectionLastResult[0], age, "s7_" + decision_strategyData.sectorName + "_x_3", language);
+      allVariables.P41A4 = kariyer_secim(careerSelectionLastResult[0], age, "s7_" + decision_strategyData.sectorName + "_x_4", language);
+      allVariables.P41A5 = kariyer_secim(careerSelectionLastResult[0], age, "s7_" + decision_strategyData.sectorName + "_x_5", language);
+      allVariables.P41A6 = kariyer_secim(careerSelectionLastResult[0], age, "s7_" + decision_strategyData.sectorName + "_x_6", language);
+      allVariables.P41A7 = kariyer_secim(careerSelectionLastResult[0], age, "s7_" + decision_strategyData.sectorName + "_x_7", language);
+      allVariables.P41A8 = kariyer_secim(careerSelectionLastResult[1], age, "s7_" + decision_strategyData.sectorName + "_x_1", language);
+      allVariables.P41A9 = kariyer_secim(careerSelectionLastResult[1], age, "s7_" + decision_strategyData.sectorName + "_x_3", language);
+      allVariables.P41A10 = kariyer_secim(careerSelectionLastResult[1], age, "s7_" + decision_strategyData.sectorName + "_x_4", language);
+      allVariables.P41A11 = kariyer_secim(careerSelectionLastResult[1], age, "s7_" + decision_strategyData.sectorName + "_x_5", language);
+      allVariables.P41A12 = kariyer_secim(careerSelectionLastResult[1], age, "s7_" + decision_strategyData.sectorName + "_x_6", language);
+      allVariables.P41A13 = kariyer_secim(careerSelectionLastResult[1], age, "s7_" + decision_strategyData.sectorName + "_x_7", language);
+      allVariables.P41A14 = kariyer_secim(careerSelectionLastResult[2], age, "s7_" + decision_strategyData.sectorName + "_x_1", language);
+      allVariables.P41A15 = kariyer_secim(careerSelectionLastResult[2], age, "s7_" + decision_strategyData.sectorName + "_x_3", language);
+      allVariables.P41A16 = kariyer_secim(careerSelectionLastResult[2], age, "s7_" + decision_strategyData.sectorName + "_x_4", language);
+      allVariables.P41A17 = kariyer_secim(careerSelectionLastResult[2], age, "s7_" + decision_strategyData.sectorName + "_x_5", language);
+      allVariables.P41A18 = kariyer_secim(careerSelectionLastResult[2], age, "s7_" + decision_strategyData.sectorName + "_x_6", language);
+      allVariables.P41A19 = kariyer_secim(careerSelectionLastResult[2], age, "s7_" + decision_strategyData.sectorName + "_x_7", language);
   
       allVariables.P43A1 = dearName;
   
@@ -10596,70 +10793,70 @@ var decision_strategy_eng_s4_11_txt = "By adhering to this decision-making strat
   
       allVariables,
   
-      allVariables.P30A1 = guclu_yanlarin(guclu_yanlarinData[0], 25, guclu_yanlarinData[0].name + "_1", language); 
-      allVariables.P30A2 = guclu_yanlarin(guclu_yanlarinData[0], 25, guclu_yanlarinData[0].name + "_2", language); 
+      allVariables.P30A1 = guclu_yanlarin(guclu_yanlarinData[0], age, guclu_yanlarinData[0].name + "_1", language); 
+      allVariables.P30A2 = guclu_yanlarin(guclu_yanlarinData[0], age, guclu_yanlarinData[0].name + "_2", language); 
       
-      allVariables.P31A1 = guclu_yanlarin(guclu_yanlarinData[1], 25, guclu_yanlarinData[1].name + "_1", language);
-      allVariables.P31A2 = guclu_yanlarin(guclu_yanlarinData[1], 25, guclu_yanlarinData[1].name + "_2", language);
+      allVariables.P31A1 = guclu_yanlarin(guclu_yanlarinData[1], age, guclu_yanlarinData[1].name + "_1", language);
+      allVariables.P31A2 = guclu_yanlarin(guclu_yanlarinData[1], age, guclu_yanlarinData[1].name + "_2", language);
       
-      allVariables.P34A1 = decision_strategy(decision_strategyData, 25, "name", language); // Senin Karar Verme Stratejin
-      allVariables.P34A2 = decision_strategy(decision_strategyData, 25, "s3_x_2", language);
+      allVariables.P34A1 = decision_strategy(decision_strategyData, age, "name", language); // Senin Karar Verme Stratejin
+      allVariables.P34A2 = decision_strategy(decision_strategyData, age, "s3_x_2", language);
       allVariables.P34A3 = decision_strategy1;
-      allVariables.P34A4 = decision_strategy(decision_strategyData, 25, "s3_x_3", language);
-      allVariables.P34A5 = decision_strategy(decision_strategyData, 25, "s3_x_4", language);
+      allVariables.P34A4 = decision_strategy(decision_strategyData, age, "s3_x_3", language);
+      allVariables.P34A5 = decision_strategy(decision_strategyData, age, "s3_x_4", language);
       
       allVariables.P35A1 = kararVermeStratejin2;
-      allVariables.P35A2 = decision_strategy(decision_strategyData, 25, "s4_x_text", language);
+      allVariables.P35A2 = decision_strategy(decision_strategyData, age, "s4_x_text", language);
       allVariables.P35A3 = kararVermeStratejin3;
-      allVariables.P35A4 = decision_strategy(decision_strategyData, 25, "s4_x_1", language);
-      allVariables.P35A5 = decision_strategy(decision_strategyData, 25, "s4_x_txt", language);
-      allVariables.P35A6 = decision_strategy(decision_strategyData, 25, "image", language);
+      allVariables.P35A4 = decision_strategy(decision_strategyData, age, "s4_x_1", language);
+      allVariables.P35A5 = decision_strategy(decision_strategyData, age, "s4_x_txt", language);
+      allVariables.P35A6 = decision_strategy(decision_strategyData, age, "image", language);
       
       allVariables.P36A1 = "image"; // Sana uygun kariyer dağılımların
-      allVariables.P36A2 = "1." + kariyer_secim(careerSelectionLastResult[0], 25, "name", language);
-      allVariables.P36A3 = "2." + kariyer_secim(careerSelectionLastResult[1], 25, "name", language);
-      allVariables.P36A4 = "3." + kariyer_secim(careerSelectionLastResult[2], 25, "name", language);
+      allVariables.P36A2 = "1." + kariyer_secim(careerSelectionLastResult[0], age, "name", language);
+      allVariables.P36A3 = "2." + kariyer_secim(careerSelectionLastResult[1], age, "name", language);
+      allVariables.P36A4 = "3." + kariyer_secim(careerSelectionLastResult[2], age, "name", language);
       
-      allVariables.P37A1 = kariyer_secim(careerSelectionLastResult[0], 25, "name", language);
-      allVariables.P37A2 = kariyer_secim(careerSelectionLastResult[0], 25, "s2_x_2", language);
-      allVariables.P37A3 = kariyer_secim(careerSelectionLastResult[1], 25, "name", language);
-      allVariables.P37A4 = kariyer_secim(careerSelectionLastResult[1], 25, "s2_x_2", language);
-      allVariables.P37A5 = kariyer_secim(careerSelectionLastResult[2], 25, "name", language);
-      allVariables.P37A6 = kariyer_secim(careerSelectionLastResult[2], 25, "s2_x_2", language);
+      allVariables.P37A1 = kariyer_secim(careerSelectionLastResult[0], age, "name", language);
+      allVariables.P37A2 = kariyer_secim(careerSelectionLastResult[0], age, "s2_x_2", language);
+      allVariables.P37A3 = kariyer_secim(careerSelectionLastResult[1], age, "name", language);
+      allVariables.P37A4 = kariyer_secim(careerSelectionLastResult[1], age, "s2_x_2", language);
+      allVariables.P37A5 = kariyer_secim(careerSelectionLastResult[2], age, "name", language);
+      allVariables.P37A6 = kariyer_secim(careerSelectionLastResult[2], age, "s2_x_2", language);
       
-      allVariables.P38A1 = kariyer_secim(careerSelectionLastResult[0], 25, "name", language); // Sana En uygun kariyer Seçenekleri Genel Sektörler
-      allVariables.P38A2 = kariyer_secim(careerSelectionLastResult[1], 25, "name", language);
-      allVariables.P38A3 = kariyer_secim(careerSelectionLastResult[2], 25, "name", language);
-      allVariables.P38A4 = kariyer_secim(careerSelectionLastResult[0], 25, "s3_x_1", language); // Güncel İşler
-      allVariables.P38A5 = kariyer_secim(careerSelectionLastResult[1], 25, "s3_x_1", language);
-      allVariables.P38A6 = kariyer_secim(careerSelectionLastResult[2], 25, "s3_x_1", language);
+      allVariables.P38A1 = kariyer_secim(careerSelectionLastResult[0], age, "name", language); // Sana En uygun kariyer Seçenekleri Genel Sektörler
+      allVariables.P38A2 = kariyer_secim(careerSelectionLastResult[1], age, "name", language);
+      allVariables.P38A3 = kariyer_secim(careerSelectionLastResult[2], age, "name", language);
+      allVariables.P38A4 = kariyer_secim(careerSelectionLastResult[0], age, "s3_x_1", language); // Güncel İşler
+      allVariables.P38A5 = kariyer_secim(careerSelectionLastResult[1], age, "s3_x_1", language);
+      allVariables.P38A6 = kariyer_secim(careerSelectionLastResult[2], age, "s3_x_1", language);
       
-      allVariables.P39A1 = kariyer_secim(careerSelectionLastResult[0], 25, "name", language);
-      allVariables.P39A2 = kariyer_secim(careerSelectionLastResult[1], 25, "name", language);
-      allVariables.P39A3 = kariyer_secim(careerSelectionLastResult[2], 25, "name", language);
-      allVariables.P39A4 = kariyer_secim(careerSelectionLastResult[0], 25, "s4_x_1", language); // Geleceğin İşleri
-      allVariables.P39A5 = kariyer_secim(careerSelectionLastResult[1], 25, "s4_x_1", language);
-      allVariables.P39A6 = kariyer_secim(careerSelectionLastResult[2], 25, "s4_x_1", language);
+      allVariables.P39A1 = kariyer_secim(careerSelectionLastResult[0], age, "name", language);
+      allVariables.P39A2 = kariyer_secim(careerSelectionLastResult[1], age, "name", language);
+      allVariables.P39A3 = kariyer_secim(careerSelectionLastResult[2], age, "name", language);
+      allVariables.P39A4 = kariyer_secim(careerSelectionLastResult[0], age, "s4_x_1", language); // Geleceğin İşleri
+      allVariables.P39A5 = kariyer_secim(careerSelectionLastResult[1], age, "s4_x_1", language);
+      allVariables.P39A6 = kariyer_secim(careerSelectionLastResult[2], age, "s4_x_1", language);
       
-      allVariables.P40A1 = kariyer_secim(decision_strategyData.sectorName, 25, "sector", language); // Sana En uygun kariyer seçenekleri
-      allVariables.P40A2 = kariyer_secim(careerSelectionLastResult[0], 25, "s7_" + decision_strategyData.sectorName + "_x_1", language);
-      allVariables.P40A3 = kariyer_secim(careerSelectionLastResult[0], 25, "s7_" + decision_strategyData.sectorName + "_x_3", language);
-      allVariables.P40A4 = kariyer_secim(careerSelectionLastResult[0], 25, "s7_" + decision_strategyData.sectorName + "_x_4", language);
-      allVariables.P40A5 = kariyer_secim(careerSelectionLastResult[0], 25, "s7_" + decision_strategyData.sectorName + "_x_5", language);
-      allVariables.P40A6 = kariyer_secim(careerSelectionLastResult[0], 25, "s7_" + decision_strategyData.sectorName + "_x_6", language);
-      allVariables.P40A7 = kariyer_secim(careerSelectionLastResult[0], 25, "s7_" + decision_strategyData.sectorName + "_x_7", language);
-      allVariables.P40A8 = kariyer_secim(careerSelectionLastResult[1], 25, "s7_" + decision_strategyData.sectorName + "_x_1", language);
-      allVariables.P40A9 = kariyer_secim(careerSelectionLastResult[1], 25, "s7_" + decision_strategyData.sectorName + "_x_3", language);
-      allVariables.P40A10 = kariyer_secim(careerSelectionLastResult[1], 25, "s7_" + decision_strategyData.sectorName + "_x_4", language);
-      allVariables.P40A11 = kariyer_secim(careerSelectionLastResult[1], 25, "s7_" + decision_strategyData.sectorName + "_x_5", language);
-      allVariables.P40A12 = kariyer_secim(careerSelectionLastResult[1], 25, "s7_" + decision_strategyData.sectorName + "_x_6", language);
-      allVariables.P40A13 = kariyer_secim(careerSelectionLastResult[1], 25, "s7_" + decision_strategyData.sectorName + "_x_7", language);
-      allVariables.P40A14 = kariyer_secim(careerSelectionLastResult[2], 25, "s7_" + decision_strategyData.sectorName + "_x_1", language);
-      allVariables.P40A15 = kariyer_secim(careerSelectionLastResult[2], 25, "s7_" + decision_strategyData.sectorName + "_x_3", language);
-      allVariables.P40A16 = kariyer_secim(careerSelectionLastResult[2], 25, "s7_" + decision_strategyData.sectorName + "_x_4", language);
-      allVariables.P40A17 = kariyer_secim(careerSelectionLastResult[2], 25, "s7_" + decision_strategyData.sectorName + "_x_5", language);
-      allVariables.P40A18 = kariyer_secim(careerSelectionLastResult[2], 25, "s7_" + decision_strategyData.sectorName + "_x_6", language);
-      allVariables.P40A19 = kariyer_secim(careerSelectionLastResult[2], 25, "s7_" + decision_strategyData.sectorName + "_x_7", language);
+      allVariables.P40A1 = kariyer_secim(decision_strategyData.sectorName, age, "sector", language); // Sana En uygun kariyer seçenekleri
+      allVariables.P40A2 = kariyer_secim(careerSelectionLastResult[0], age, "s7_" + decision_strategyData.sectorName + "_x_1", language);
+      allVariables.P40A3 = kariyer_secim(careerSelectionLastResult[0], age, "s7_" + decision_strategyData.sectorName + "_x_3", language);
+      allVariables.P40A4 = kariyer_secim(careerSelectionLastResult[0], age, "s7_" + decision_strategyData.sectorName + "_x_4", language);
+      allVariables.P40A5 = kariyer_secim(careerSelectionLastResult[0], age, "s7_" + decision_strategyData.sectorName + "_x_5", language);
+      allVariables.P40A6 = kariyer_secim(careerSelectionLastResult[0], age, "s7_" + decision_strategyData.sectorName + "_x_6", language);
+      allVariables.P40A7 = kariyer_secim(careerSelectionLastResult[0], age, "s7_" + decision_strategyData.sectorName + "_x_7", language);
+      allVariables.P40A8 = kariyer_secim(careerSelectionLastResult[1], age, "s7_" + decision_strategyData.sectorName + "_x_1", language);
+      allVariables.P40A9 = kariyer_secim(careerSelectionLastResult[1], age, "s7_" + decision_strategyData.sectorName + "_x_3", language);
+      allVariables.P40A10 = kariyer_secim(careerSelectionLastResult[1], age, "s7_" + decision_strategyData.sectorName + "_x_4", language);
+      allVariables.P40A11 = kariyer_secim(careerSelectionLastResult[1], age, "s7_" + decision_strategyData.sectorName + "_x_5", language);
+      allVariables.P40A12 = kariyer_secim(careerSelectionLastResult[1], age, "s7_" + decision_strategyData.sectorName + "_x_6", language);
+      allVariables.P40A13 = kariyer_secim(careerSelectionLastResult[1], age, "s7_" + decision_strategyData.sectorName + "_x_7", language);
+      allVariables.P40A14 = kariyer_secim(careerSelectionLastResult[2], age, "s7_" + decision_strategyData.sectorName + "_x_1", language);
+      allVariables.P40A15 = kariyer_secim(careerSelectionLastResult[2], age, "s7_" + decision_strategyData.sectorName + "_x_3", language);
+      allVariables.P40A16 = kariyer_secim(careerSelectionLastResult[2], age, "s7_" + decision_strategyData.sectorName + "_x_4", language);
+      allVariables.P40A17 = kariyer_secim(careerSelectionLastResult[2], age, "s7_" + decision_strategyData.sectorName + "_x_5", language);
+      allVariables.P40A18 = kariyer_secim(careerSelectionLastResult[2], age, "s7_" + decision_strategyData.sectorName + "_x_6", language);
+      allVariables.P40A19 = kariyer_secim(careerSelectionLastResult[2], age, "s7_" + decision_strategyData.sectorName + "_x_7", language);
       
       allVariables.P42A1 = dearName;
   
@@ -10731,73 +10928,73 @@ var decision_strategy_eng_s4_11_txt = "By adhering to this decision-making strat
   
       allVariables,
   
-      allVariables.P30A1 = guclu_yanlarin(guclu_yanlarinData[0], 25, guclu_yanlarinData[0].name + "_1", language); 
-      allVariables.P30A2 = guclu_yanlarin(guclu_yanlarinData[0], 25, guclu_yanlarinData[0].name + "_2", language); 
+      allVariables.P30A1 = guclu_yanlarin(guclu_yanlarinData[0], age, guclu_yanlarinData[0].name + "_1", language); 
+      allVariables.P30A2 = guclu_yanlarin(guclu_yanlarinData[0], age, guclu_yanlarinData[0].name + "_2", language); 
       
-      allVariables.P31A1 = guclu_yanlarin(guclu_yanlarinData[1], 25, guclu_yanlarinData[1].name + "_1", language);
-      allVariables.P31A2 = guclu_yanlarin(guclu_yanlarinData[1], 25, guclu_yanlarinData[1].name + "_2", language);
+      allVariables.P31A1 = guclu_yanlarin(guclu_yanlarinData[1], age, guclu_yanlarinData[1].name + "_1", language);
+      allVariables.P31A2 = guclu_yanlarin(guclu_yanlarinData[1], age, guclu_yanlarinData[1].name + "_2", language);
   
-      allVariables.P32A1 = guclu_yanlarin(guclu_yanlarinData[2], 25, guclu_yanlarinData[2].name + "_1", language);
-      allVariables.P32A2 = guclu_yanlarin(guclu_yanlarinData[2], 25, guclu_yanlarinData[2].name + "_2", language);
+      allVariables.P32A1 = guclu_yanlarin(guclu_yanlarinData[2], age, guclu_yanlarinData[2].name + "_1", language);
+      allVariables.P32A2 = guclu_yanlarin(guclu_yanlarinData[2], age, guclu_yanlarinData[2].name + "_2", language);
       
-      allVariables.P35A1 = decision_strategy(decision_strategyData, 25, "name", language); // Senin Karar Verme Stratejin
-      allVariables.P35A2 = decision_strategy(decision_strategyData, 25, "s3_x_2", language);
+      allVariables.P35A1 = decision_strategy(decision_strategyData, age, "name", language); // Senin Karar Verme Stratejin
+      allVariables.P35A2 = decision_strategy(decision_strategyData, age, "s3_x_2", language);
       allVariables.P35A3 = kararVermeStratejin1;
-      allVariables.P35A4 = decision_strategy(decision_strategyData, 25, "s3_x_3", language);
-      allVariables.P35A5 = decision_strategy(decision_strategyData, 25, "s3_x_4", language);
+      allVariables.P35A4 = decision_strategy(decision_strategyData, age, "s3_x_3", language);
+      allVariables.P35A5 = decision_strategy(decision_strategyData, age, "s3_x_4", language);
   
       allVariables.P36A1 = kararVermeStratejin2;
-      allVariables.P36A2 = decision_strategy(decision_strategyData, 25, "s4_x_text", language);
+      allVariables.P36A2 = decision_strategy(decision_strategyData, age, "s4_x_text", language);
       allVariables.P36A3 = kararVermeStratejin3;
-      allVariables.P36A4 = decision_strategy(decision_strategyData, 25, "s4_x_1", language);
-      allVariables.P36A5 = decision_strategy(decision_strategyData, 25, "s4_x_txt", language);
-      allVariables.P36A6 = decision_strategy(decision_strategyData, 25, "image", language);
+      allVariables.P36A4 = decision_strategy(decision_strategyData, age, "s4_x_1", language);
+      allVariables.P36A5 = decision_strategy(decision_strategyData, age, "s4_x_txt", language);
+      allVariables.P36A6 = decision_strategy(decision_strategyData, age, "image", language);
   
       allVariables.P37A1 = "image"; // Sana uygun kariyer dağılımların
-      allVariables.P37A2 = "1." + kariyer_secim(careerSelectionLastResult[0], 25, "name", language);
-      allVariables.P37A3 = "2." + kariyer_secim(careerSelectionLastResult[1], 25, "name", language);
-      allVariables.P37A4 = "3." + kariyer_secim(careerSelectionLastResult[2], 25, "name", language);
+      allVariables.P37A2 = "1." + kariyer_secim(careerSelectionLastResult[0], age, "name", language);
+      allVariables.P37A3 = "2." + kariyer_secim(careerSelectionLastResult[1], age, "name", language);
+      allVariables.P37A4 = "3." + kariyer_secim(careerSelectionLastResult[2], age, "name", language);
   
-      allVariables.P38A1 = kariyer_secim(careerSelectionLastResult[0], 25, "name", language);
-      allVariables.P38A2 = kariyer_secim(careerSelectionLastResult[0], 25, "s2_x_2", language);
-      allVariables.P38A3 = kariyer_secim(careerSelectionLastResult[1], 25, "name", language);
-      allVariables.P38A4 = kariyer_secim(careerSelectionLastResult[1], 25, "s2_x_2", language);
-      allVariables.P38A5 = kariyer_secim(careerSelectionLastResult[2], 25, "name", language);
-      allVariables.P38A6 = kariyer_secim(careerSelectionLastResult[2], 25, "s2_x_2", language);
+      allVariables.P38A1 = kariyer_secim(careerSelectionLastResult[0], age, "name", language);
+      allVariables.P38A2 = kariyer_secim(careerSelectionLastResult[0], age, "s2_x_2", language);
+      allVariables.P38A3 = kariyer_secim(careerSelectionLastResult[1], age, "name", language);
+      allVariables.P38A4 = kariyer_secim(careerSelectionLastResult[1], age, "s2_x_2", language);
+      allVariables.P38A5 = kariyer_secim(careerSelectionLastResult[2], age, "name", language);
+      allVariables.P38A6 = kariyer_secim(careerSelectionLastResult[2], age, "s2_x_2", language);
   
-      allVariables.P39A1 = kariyer_secim(careerSelectionLastResult[0], 25, "name", language); // Sana En uygun kariyer Seçenekleri Genel Sektörler
-      allVariables.P39A2 = kariyer_secim(careerSelectionLastResult[1], 25, "name", language);
-      allVariables.P39A3 = kariyer_secim(careerSelectionLastResult[2], 25, "name", language);
-      allVariables.P39A4 = kariyer_secim(careerSelectionLastResult[0], 25, "s3_x_1", language); // Güncel İşler
-      allVariables.P39A5 = kariyer_secim(careerSelectionLastResult[1], 25, "s3_x_1", language);
-      allVariables.P39A6 = kariyer_secim(careerSelectionLastResult[2], 25, "s3_x_1", language);
+      allVariables.P39A1 = kariyer_secim(careerSelectionLastResult[0], age, "name", language); // Sana En uygun kariyer Seçenekleri Genel Sektörler
+      allVariables.P39A2 = kariyer_secim(careerSelectionLastResult[1], age, "name", language);
+      allVariables.P39A3 = kariyer_secim(careerSelectionLastResult[2], age, "name", language);
+      allVariables.P39A4 = kariyer_secim(careerSelectionLastResult[0], age, "s3_x_1", language); // Güncel İşler
+      allVariables.P39A5 = kariyer_secim(careerSelectionLastResult[1], age, "s3_x_1", language);
+      allVariables.P39A6 = kariyer_secim(careerSelectionLastResult[2], age, "s3_x_1", language);
   
-      allVariables.P40A1 = kariyer_secim(careerSelectionLastResult[0], 25, "name", language);
-      allVariables.P40A2 = kariyer_secim(careerSelectionLastResult[1], 25, "name", language);
-      allVariables.P40A3 = kariyer_secim(careerSelectionLastResult[2], 25, "name", language);
-      allVariables.P40A4 = kariyer_secim(careerSelectionLastResult[0], 25, "s4_x_1", language); // Geleceğin İşleri
-      allVariables.P40A5 = kariyer_secim(careerSelectionLastResult[1], 25, "s4_x_1", language);
-      allVariables.P40A6 = kariyer_secim(careerSelectionLastResult[2], 25, "s4_x_1", language);
+      allVariables.P40A1 = kariyer_secim(careerSelectionLastResult[0], age, "name", language);
+      allVariables.P40A2 = kariyer_secim(careerSelectionLastResult[1], age, "name", language);
+      allVariables.P40A3 = kariyer_secim(careerSelectionLastResult[2], age, "name", language);
+      allVariables.P40A4 = kariyer_secim(careerSelectionLastResult[0], age, "s4_x_1", language); // Geleceğin İşleri
+      allVariables.P40A5 = kariyer_secim(careerSelectionLastResult[1], age, "s4_x_1", language);
+      allVariables.P40A6 = kariyer_secim(careerSelectionLastResult[2], age, "s4_x_1", language);
   
-      allVariables.P41A1 = kariyer_secim(decision_strategyData.sectorName, 25, "sector", language); // Sana En uygun kariyer seçenekleri
-      allVariables.P41A2 = kariyer_secim(careerSelectionLastResult[0], 25, "s7_" + decision_strategyData.sectorName + "_x_1", language);
-      allVariables.P41A3 = kariyer_secim(careerSelectionLastResult[0], 25, "s7_" + decision_strategyData.sectorName + "_x_3", language);
-      allVariables.P41A4 = kariyer_secim(careerSelectionLastResult[0], 25, "s7_" + decision_strategyData.sectorName + "_x_4", language);
-      allVariables.P41A5 = kariyer_secim(careerSelectionLastResult[0], 25, "s7_" + decision_strategyData.sectorName + "_x_5", language);
-      allVariables.P41A6 = kariyer_secim(careerSelectionLastResult[0], 25, "s7_" + decision_strategyData.sectorName + "_x_6", language);
-      allVariables.P41A7 = kariyer_secim(careerSelectionLastResult[0], 25, "s7_" + decision_strategyData.sectorName + "_x_7", language);
-      allVariables.P41A8 = kariyer_secim(careerSelectionLastResult[1], 25, "s7_" + decision_strategyData.sectorName + "_x_1", language);
-      allVariables.P41A9 = kariyer_secim(careerSelectionLastResult[1], 25, "s7_" + decision_strategyData.sectorName + "_x_3", language);
-      allVariables.P41A10 = kariyer_secim(careerSelectionLastResult[1], 25, "s7_" + decision_strategyData.sectorName + "_x_4", language);
-      allVariables.P41A11 = kariyer_secim(careerSelectionLastResult[1], 25, "s7_" + decision_strategyData.sectorName + "_x_5", language);
-      allVariables.P41A12 = kariyer_secim(careerSelectionLastResult[1], 25, "s7_" + decision_strategyData.sectorName + "_x_6", language);
-      allVariables.P41A13 = kariyer_secim(careerSelectionLastResult[1], 25, "s7_" + decision_strategyData.sectorName + "_x_7", language);
-      allVariables.P41A14 = kariyer_secim(careerSelectionLastResult[2], 25, "s7_" + decision_strategyData.sectorName + "_x_1", language);
-      allVariables.P41A15 = kariyer_secim(careerSelectionLastResult[2], 25, "s7_" + decision_strategyData.sectorName + "_x_3", language);
-      allVariables.P41A16 = kariyer_secim(careerSelectionLastResult[2], 25, "s7_" + decision_strategyData.sectorName + "_x_4", language);
-      allVariables.P41A17 = kariyer_secim(careerSelectionLastResult[2], 25, "s7_" + decision_strategyData.sectorName + "_x_5", language);
-      allVariables.P41A18 = kariyer_secim(careerSelectionLastResult[2], 25, "s7_" + decision_strategyData.sectorName + "_x_6", language);
-      allVariables.P41A19 = kariyer_secim(careerSelectionLastResult[2], 25, "s7_" + decision_strategyData.sectorName + "_x_7", language);
+      allVariables.P41A1 = kariyer_secim(decision_strategyData.sectorName, age, "sector", language); // Sana En uygun kariyer seçenekleri
+      allVariables.P41A2 = kariyer_secim(careerSelectionLastResult[0], age, "s7_" + decision_strategyData.sectorName + "_x_1", language);
+      allVariables.P41A3 = kariyer_secim(careerSelectionLastResult[0], age, "s7_" + decision_strategyData.sectorName + "_x_3", language);
+      allVariables.P41A4 = kariyer_secim(careerSelectionLastResult[0], age, "s7_" + decision_strategyData.sectorName + "_x_4", language);
+      allVariables.P41A5 = kariyer_secim(careerSelectionLastResult[0], age, "s7_" + decision_strategyData.sectorName + "_x_5", language);
+      allVariables.P41A6 = kariyer_secim(careerSelectionLastResult[0], age, "s7_" + decision_strategyData.sectorName + "_x_6", language);
+      allVariables.P41A7 = kariyer_secim(careerSelectionLastResult[0], age, "s7_" + decision_strategyData.sectorName + "_x_7", language);
+      allVariables.P41A8 = kariyer_secim(careerSelectionLastResult[1], age, "s7_" + decision_strategyData.sectorName + "_x_1", language);
+      allVariables.P41A9 = kariyer_secim(careerSelectionLastResult[1], age, "s7_" + decision_strategyData.sectorName + "_x_3", language);
+      allVariables.P41A10 = kariyer_secim(careerSelectionLastResult[1], age, "s7_" + decision_strategyData.sectorName + "_x_4", language);
+      allVariables.P41A11 = kariyer_secim(careerSelectionLastResult[1], age, "s7_" + decision_strategyData.sectorName + "_x_5", language);
+      allVariables.P41A12 = kariyer_secim(careerSelectionLastResult[1], age, "s7_" + decision_strategyData.sectorName + "_x_6", language);
+      allVariables.P41A13 = kariyer_secim(careerSelectionLastResult[1], age, "s7_" + decision_strategyData.sectorName + "_x_7", language);
+      allVariables.P41A14 = kariyer_secim(careerSelectionLastResult[2], age, "s7_" + decision_strategyData.sectorName + "_x_1", language);
+      allVariables.P41A15 = kariyer_secim(careerSelectionLastResult[2], age, "s7_" + decision_strategyData.sectorName + "_x_3", language);
+      allVariables.P41A16 = kariyer_secim(careerSelectionLastResult[2], age, "s7_" + decision_strategyData.sectorName + "_x_4", language);
+      allVariables.P41A17 = kariyer_secim(careerSelectionLastResult[2], age, "s7_" + decision_strategyData.sectorName + "_x_5", language);
+      allVariables.P41A18 = kariyer_secim(careerSelectionLastResult[2], age, "s7_" + decision_strategyData.sectorName + "_x_6", language);
+      allVariables.P41A19 = kariyer_secim(careerSelectionLastResult[2], age, "s7_" + decision_strategyData.sectorName + "_x_7", language);
       
       allVariables.P43A1 = dearName;
   
@@ -10874,76 +11071,76 @@ var decision_strategy_eng_s4_11_txt = "By adhering to this decision-making strat
   
       allVariables,
   
-      allVariables.P30A1 = guclu_yanlarin(guclu_yanlarinData[0], 25, guclu_yanlarinData[0].name + "_1", language); 
-      allVariables.P30A2 = guclu_yanlarin(guclu_yanlarinData[0], 25, guclu_yanlarinData[0].name + "_2", language); 
+      allVariables.P30A1 = guclu_yanlarin(guclu_yanlarinData[0], age, guclu_yanlarinData[0].name + "_1", language); 
+      allVariables.P30A2 = guclu_yanlarin(guclu_yanlarinData[0], age, guclu_yanlarinData[0].name + "_2", language); 
       
-      allVariables.P31A1 = guclu_yanlarin(guclu_yanlarinData[1], 25, guclu_yanlarinData[1].name + "_1", language);
-      allVariables.P31A2 = guclu_yanlarin(guclu_yanlarinData[1], 25, guclu_yanlarinData[1].name + "_2", language);
+      allVariables.P31A1 = guclu_yanlarin(guclu_yanlarinData[1], age, guclu_yanlarinData[1].name + "_1", language);
+      allVariables.P31A2 = guclu_yanlarin(guclu_yanlarinData[1], age, guclu_yanlarinData[1].name + "_2", language);
   
-      allVariables.P32A1 = guclu_yanlarin(guclu_yanlarinData[2], 25, guclu_yanlarinData[2].name + "_1", language);
-      allVariables.P32A2 = guclu_yanlarin(guclu_yanlarinData[2], 25, guclu_yanlarinData[2].name + "_2", language);
+      allVariables.P32A1 = guclu_yanlarin(guclu_yanlarinData[2], age, guclu_yanlarinData[2].name + "_1", language);
+      allVariables.P32A2 = guclu_yanlarin(guclu_yanlarinData[2], age, guclu_yanlarinData[2].name + "_2", language);
   
-      allVariables.P33A1 = guclu_yanlarin(guclu_yanlarinData[3], 25, guclu_yanlarinData[3].name + "_1", language);
-      allVariables.P33A2 = guclu_yanlarin(guclu_yanlarinData[3], 25, guclu_yanlarinData[3].name + "_2", language);
+      allVariables.P33A1 = guclu_yanlarin(guclu_yanlarinData[3], age, guclu_yanlarinData[3].name + "_1", language);
+      allVariables.P33A2 = guclu_yanlarin(guclu_yanlarinData[3], age, guclu_yanlarinData[3].name + "_2", language);
       
-      allVariables.P36A1 = decision_strategy(decision_strategyData, 25, "name", language); // Senin Karar Verme Stratejin
-      allVariables.P36A2 = decision_strategy(decision_strategyData, 25, "s3_x_2", language);
+      allVariables.P36A1 = decision_strategy(decision_strategyData, age, "name", language); // Senin Karar Verme Stratejin
+      allVariables.P36A2 = decision_strategy(decision_strategyData, age, "s3_x_2", language);
       allVariables.P36A3 = kararVermeStratejin1;
-      allVariables.P36A4 = decision_strategy(decision_strategyData, 25, "s3_x_3", language);
-      allVariables.P36A5 = decision_strategy(decision_strategyData, 25, "s3_x_4", language);
+      allVariables.P36A4 = decision_strategy(decision_strategyData, age, "s3_x_3", language);
+      allVariables.P36A5 = decision_strategy(decision_strategyData, age, "s3_x_4", language);
       
       allVariables.P37A1 = kararVermeStratejin2;
-      allVariables.P37A2 = decision_strategy(decision_strategyData, 25, "s4_x_text", language);
+      allVariables.P37A2 = decision_strategy(decision_strategyData, age, "s4_x_text", language);
       allVariables.P37A3 = kararVermeStratejin3;
-      allVariables.P37A4 = decision_strategy(decision_strategyData, 25, "s4_x_1", language);
-      allVariables.P37A5 = decision_strategy(decision_strategyData, 25, "s4_x_txt", language);
-      allVariables.P37A6 = decision_strategy(decision_strategyData, 25, "image", language);
+      allVariables.P37A4 = decision_strategy(decision_strategyData, age, "s4_x_1", language);
+      allVariables.P37A5 = decision_strategy(decision_strategyData, age, "s4_x_txt", language);
+      allVariables.P37A6 = decision_strategy(decision_strategyData, age, "image", language);
       
       allVariables.P38A1 = "image"; // Sana uygun kariyer dağılımların
-      allVariables.P38A2 = "1." + kariyer_secim(careerSelectionLastResult[0], 25, "name", language);
-      allVariables.P38A3 = "2." + kariyer_secim(careerSelectionLastResult[1], 25, "name", language);
-      allVariables.P38A4 = "3." + kariyer_secim(careerSelectionLastResult[2], 25, "name", language);
+      allVariables.P38A2 = "1." + kariyer_secim(careerSelectionLastResult[0], age, "name", language);
+      allVariables.P38A3 = "2." + kariyer_secim(careerSelectionLastResult[1], age, "name", language);
+      allVariables.P38A4 = "3." + kariyer_secim(careerSelectionLastResult[2], age, "name", language);
       
-      allVariables.P39A1 = kariyer_secim(careerSelectionLastResult[0], 25, "name", language);
-      allVariables.P39A2 = kariyer_secim(careerSelectionLastResult[0], 25, "s2_x_2", language);
-      allVariables.P39A3 = kariyer_secim(careerSelectionLastResult[1], 25, "name", language);
-      allVariables.P39A4 = kariyer_secim(careerSelectionLastResult[1], 25, "s2_x_2", language);
-      allVariables.P39A5 = kariyer_secim(careerSelectionLastResult[2], 25, "name", language);
-      allVariables.P39A6 = kariyer_secim(careerSelectionLastResult[2], 25, "s2_x_2", language);
+      allVariables.P39A1 = kariyer_secim(careerSelectionLastResult[0], age, "name", language);
+      allVariables.P39A2 = kariyer_secim(careerSelectionLastResult[0], age, "s2_x_2", language);
+      allVariables.P39A3 = kariyer_secim(careerSelectionLastResult[1], age, "name", language);
+      allVariables.P39A4 = kariyer_secim(careerSelectionLastResult[1], age, "s2_x_2", language);
+      allVariables.P39A5 = kariyer_secim(careerSelectionLastResult[2], age, "name", language);
+      allVariables.P39A6 = kariyer_secim(careerSelectionLastResult[2], age, "s2_x_2", language);
       
-      allVariables.P40A1 = kariyer_secim(careerSelectionLastResult[0], 25, "name", language); // Sana En uygun kariyer Seçenekleri Genel Sektörler
-      allVariables.P40A2 = kariyer_secim(careerSelectionLastResult[1], 25, "name", language);
-      allVariables.P40A3 = kariyer_secim(careerSelectionLastResult[2], 25, "name", language);
-      allVariables.P40A4 = kariyer_secim(careerSelectionLastResult[0], 25, "s3_x_1", language); // Güncel İşler
-      allVariables.P40A5 = kariyer_secim(careerSelectionLastResult[1], 25, "s3_x_1", language);
-      allVariables.P40A6 = kariyer_secim(careerSelectionLastResult[2], 25, "s3_x_1", language);
+      allVariables.P40A1 = kariyer_secim(careerSelectionLastResult[0], age, "name", language); // Sana En uygun kariyer Seçenekleri Genel Sektörler
+      allVariables.P40A2 = kariyer_secim(careerSelectionLastResult[1], age, "name", language);
+      allVariables.P40A3 = kariyer_secim(careerSelectionLastResult[2], age, "name", language);
+      allVariables.P40A4 = kariyer_secim(careerSelectionLastResult[0], age, "s3_x_1", language); // Güncel İşler
+      allVariables.P40A5 = kariyer_secim(careerSelectionLastResult[1], age, "s3_x_1", language);
+      allVariables.P40A6 = kariyer_secim(careerSelectionLastResult[2], age, "s3_x_1", language);
       
-      allVariables.P41A1 = kariyer_secim(careerSelectionLastResult[0], 25, "name", language);
-      allVariables.P41A2 = kariyer_secim(careerSelectionLastResult[1], 25, "name", language);
-      allVariables.P41A3 = kariyer_secim(careerSelectionLastResult[2], 25, "name", language);
-      allVariables.P41A4 = kariyer_secim(careerSelectionLastResult[0], 25, "s4_x_1", language); // Geleceğin İşleri
-      allVariables.P41A5 = kariyer_secim(careerSelectionLastResult[1], 25, "s4_x_1", language);
-      allVariables.P41A6 = kariyer_secim(careerSelectionLastResult[2], 25, "s4_x_1", language);    
+      allVariables.P41A1 = kariyer_secim(careerSelectionLastResult[0], age, "name", language);
+      allVariables.P41A2 = kariyer_secim(careerSelectionLastResult[1], age, "name", language);
+      allVariables.P41A3 = kariyer_secim(careerSelectionLastResult[2], age, "name", language);
+      allVariables.P41A4 = kariyer_secim(careerSelectionLastResult[0], age, "s4_x_1", language); // Geleceğin İşleri
+      allVariables.P41A5 = kariyer_secim(careerSelectionLastResult[1], age, "s4_x_1", language);
+      allVariables.P41A6 = kariyer_secim(careerSelectionLastResult[2], age, "s4_x_1", language);    
   
-      allVariables.P42A1 = kariyer_secim(decision_strategyData.sectorName, 25, "sector", language); // Sana En uygun kariyer seçenekleri
-      allVariables.P42A2 = kariyer_secim(careerSelectionLastResult[0], 25, "s7_" + decision_strategyData.sectorName + "_x_1", language);
-      allVariables.P42A3 = kariyer_secim(careerSelectionLastResult[0], 25, "s7_" + decision_strategyData.sectorName + "_x_3", language);
-      allVariables.P42A4 = kariyer_secim(careerSelectionLastResult[0], 25, "s7_" + decision_strategyData.sectorName + "_x_4", language);
-      allVariables.P42A5 = kariyer_secim(careerSelectionLastResult[0], 25, "s7_" + decision_strategyData.sectorName + "_x_5", language);
-      allVariables.P42A6 = kariyer_secim(careerSelectionLastResult[0], 25, "s7_" + decision_strategyData.sectorName + "_x_6", language);
-      allVariables.P42A7 = kariyer_secim(careerSelectionLastResult[0], 25, "s7_" + decision_strategyData.sectorName + "_x_7", language);
-      allVariables.P42A8 = kariyer_secim(careerSelectionLastResult[1], 25, "s7_" + decision_strategyData.sectorName + "_x_1", language);
-      allVariables.P42A9 = kariyer_secim(careerSelectionLastResult[1], 25, "s7_" + decision_strategyData.sectorName + "_x_3", language);
-      allVariables.P42A10 = kariyer_secim(careerSelectionLastResult[1], 25, "s7_" + decision_strategyData.sectorName + "_x_4", language);
-      allVariables.P42A11 = kariyer_secim(careerSelectionLastResult[1], 25, "s7_" + decision_strategyData.sectorName + "_x_5", language);
-      allVariables.P42A12 = kariyer_secim(careerSelectionLastResult[1], 25, "s7_" + decision_strategyData.sectorName + "_x_6", language);
-      allVariables.P42A13 = kariyer_secim(careerSelectionLastResult[1], 25, "s7_" + decision_strategyData.sectorName + "_x_7", language);
-      allVariables.P42A14 = kariyer_secim(careerSelectionLastResult[2], 25, "s7_" + decision_strategyData.sectorName + "_x_1", language);
-      allVariables.P42A15 = kariyer_secim(careerSelectionLastResult[2], 25, "s7_" + decision_strategyData.sectorName + "_x_3", language);
-      allVariables.P42A16 = kariyer_secim(careerSelectionLastResult[2], 25, "s7_" + decision_strategyData.sectorName + "_x_4", language);
-      allVariables.P42A17 = kariyer_secim(careerSelectionLastResult[2], 25, "s7_" + decision_strategyData.sectorName + "_x_5", language);
-      allVariables.P42A18 = kariyer_secim(careerSelectionLastResult[2], 25, "s7_" + decision_strategyData.sectorName + "_x_6", language);
-      allVariables.P42A19 = kariyer_secim(careerSelectionLastResult[2], 25, "s7_" + decision_strategyData.sectorName + "_x_7", language);
+      allVariables.P42A1 = kariyer_secim(decision_strategyData.sectorName, age, "sector", language); // Sana En uygun kariyer seçenekleri
+      allVariables.P42A2 = kariyer_secim(careerSelectionLastResult[0], age, "s7_" + decision_strategyData.sectorName + "_x_1", language);
+      allVariables.P42A3 = kariyer_secim(careerSelectionLastResult[0], age, "s7_" + decision_strategyData.sectorName + "_x_3", language);
+      allVariables.P42A4 = kariyer_secim(careerSelectionLastResult[0], age, "s7_" + decision_strategyData.sectorName + "_x_4", language);
+      allVariables.P42A5 = kariyer_secim(careerSelectionLastResult[0], age, "s7_" + decision_strategyData.sectorName + "_x_5", language);
+      allVariables.P42A6 = kariyer_secim(careerSelectionLastResult[0], age, "s7_" + decision_strategyData.sectorName + "_x_6", language);
+      allVariables.P42A7 = kariyer_secim(careerSelectionLastResult[0], age, "s7_" + decision_strategyData.sectorName + "_x_7", language);
+      allVariables.P42A8 = kariyer_secim(careerSelectionLastResult[1], age, "s7_" + decision_strategyData.sectorName + "_x_1", language);
+      allVariables.P42A9 = kariyer_secim(careerSelectionLastResult[1], age, "s7_" + decision_strategyData.sectorName + "_x_3", language);
+      allVariables.P42A10 = kariyer_secim(careerSelectionLastResult[1], age, "s7_" + decision_strategyData.sectorName + "_x_4", language);
+      allVariables.P42A11 = kariyer_secim(careerSelectionLastResult[1], age, "s7_" + decision_strategyData.sectorName + "_x_5", language);
+      allVariables.P42A12 = kariyer_secim(careerSelectionLastResult[1], age, "s7_" + decision_strategyData.sectorName + "_x_6", language);
+      allVariables.P42A13 = kariyer_secim(careerSelectionLastResult[1], age, "s7_" + decision_strategyData.sectorName + "_x_7", language);
+      allVariables.P42A14 = kariyer_secim(careerSelectionLastResult[2], age, "s7_" + decision_strategyData.sectorName + "_x_1", language);
+      allVariables.P42A15 = kariyer_secim(careerSelectionLastResult[2], age, "s7_" + decision_strategyData.sectorName + "_x_3", language);
+      allVariables.P42A16 = kariyer_secim(careerSelectionLastResult[2], age, "s7_" + decision_strategyData.sectorName + "_x_4", language);
+      allVariables.P42A17 = kariyer_secim(careerSelectionLastResult[2], age, "s7_" + decision_strategyData.sectorName + "_x_5", language);
+      allVariables.P42A18 = kariyer_secim(careerSelectionLastResult[2], age, "s7_" + decision_strategyData.sectorName + "_x_6", language);
+      allVariables.P42A19 = kariyer_secim(careerSelectionLastResult[2], age, "s7_" + decision_strategyData.sectorName + "_x_7", language);
   
       allVariables.P44A1 = dearName;
   
@@ -11019,79 +11216,79 @@ var decision_strategy_eng_s4_11_txt = "By adhering to this decision-making strat
       };
     } else if (usageGate.length === 5) {
   
-      allVariables.P30A1 = guclu_yanlarin(guclu_yanlarinData[0], 25, guclu_yanlarinData[0].name + "_1", language); 
-      allVariables.P30A2 = guclu_yanlarin(guclu_yanlarinData[0], 25, guclu_yanlarinData[0].name + "_2", language); 
+      allVariables.P30A1 = guclu_yanlarin(guclu_yanlarinData[0], age, guclu_yanlarinData[0].name + "_1", language); 
+      allVariables.P30A2 = guclu_yanlarin(guclu_yanlarinData[0], age, guclu_yanlarinData[0].name + "_2", language); 
   
-      allVariables.P31A1 = guclu_yanlarin(guclu_yanlarinData[1], 25, guclu_yanlarinData[1].name + "_1", language);
-      allVariables.P31A2 = guclu_yanlarin(guclu_yanlarinData[1], 25, guclu_yanlarinData[1].name + "_2", language);
+      allVariables.P31A1 = guclu_yanlarin(guclu_yanlarinData[1], age, guclu_yanlarinData[1].name + "_1", language);
+      allVariables.P31A2 = guclu_yanlarin(guclu_yanlarinData[1], age, guclu_yanlarinData[1].name + "_2", language);
   
-      allVariables.P32A1 = guclu_yanlarin(guclu_yanlarinData[2], 25, guclu_yanlarinData[2].name + "_1", language);
-      allVariables.P32A2 = guclu_yanlarin(guclu_yanlarinData[2], 25, guclu_yanlarinData[2].name + "_2", language);
+      allVariables.P32A1 = guclu_yanlarin(guclu_yanlarinData[2], age, guclu_yanlarinData[2].name + "_1", language);
+      allVariables.P32A2 = guclu_yanlarin(guclu_yanlarinData[2], age, guclu_yanlarinData[2].name + "_2", language);
   
-      allVariables.P33A1 = guclu_yanlarin(guclu_yanlarinData[3], 25, guclu_yanlarinData[3].name + "_1", language);
-      allVariables.P33A2 = guclu_yanlarin(guclu_yanlarinData[3], 25, guclu_yanlarinData[3].name + "_2", language);;
+      allVariables.P33A1 = guclu_yanlarin(guclu_yanlarinData[3], age, guclu_yanlarinData[3].name + "_1", language);
+      allVariables.P33A2 = guclu_yanlarin(guclu_yanlarinData[3], age, guclu_yanlarinData[3].name + "_2", language);;
   
-      allVariables.P34A1 = guclu_yanlarin(guclu_yanlarinData[4], 25, guclu_yanlarinData[4].name + "_1", language);
-      allVariables.P34A2 = guclu_yanlarin(guclu_yanlarinData[4], 25, guclu_yanlarinData[4].name + "_2", language);
+      allVariables.P34A1 = guclu_yanlarin(guclu_yanlarinData[4], age, guclu_yanlarinData[4].name + "_1", language);
+      allVariables.P34A2 = guclu_yanlarin(guclu_yanlarinData[4], age, guclu_yanlarinData[4].name + "_2", language);
       
-      allVariables.P37A1 = decision_strategy(decision_strategyData, 25, "name", language); // Senin Karar Verme Stratejin
-      allVariables.P37A2 = decision_strategy(decision_strategyData, 25, "s3_x_2", language);
+      allVariables.P37A1 = decision_strategy(decision_strategyData, age, "name", language); // Senin Karar Verme Stratejin
+      allVariables.P37A2 = decision_strategy(decision_strategyData, age, "s3_x_2", language);
       allVariables.P37A3 = kararVermeStratejin1;
-      allVariables.P37A4 = decision_strategy(decision_strategyData, 25, "s3_x_3", language);
-      allVariables.P37A5 = decision_strategy(decision_strategyData, 25, "s3_x_4", language);
+      allVariables.P37A4 = decision_strategy(decision_strategyData, age, "s3_x_3", language);
+      allVariables.P37A5 = decision_strategy(decision_strategyData, age, "s3_x_4", language);
   
       allVariables.P38A1 = kararVermeStratejin2;
-      allVariables.P38A2 = decision_strategy(decision_strategyData, 25, "s4_x_text", language);
+      allVariables.P38A2 = decision_strategy(decision_strategyData, age, "s4_x_text", language);
       allVariables.P38A3 = kararVermeStratejin3;
-      allVariables.P38A4 = decision_strategy(decision_strategyData, 25, "s4_x_1", language);
-      allVariables.P38A5 = decision_strategy(decision_strategyData, 25, "s4_x_txt", language);
-      allVariables.P38A6 = decision_strategy(decision_strategyData, 25, "image", language);
+      allVariables.P38A4 = decision_strategy(decision_strategyData, age, "s4_x_1", language);
+      allVariables.P38A5 = decision_strategy(decision_strategyData, age, "s4_x_txt", language);
+      allVariables.P38A6 = decision_strategy(decision_strategyData, age, "image", language);
   
       allVariables.P39A1 = "image"; // Sana uygun kariyer dağılımların
-      allVariables.P39A2 = "1." + kariyer_secim(careerSelectionLastResult[0], 25, "name", language);
-      allVariables.P39A3 = "2." + kariyer_secim(careerSelectionLastResult[1], 25, "name", language);
-      allVariables.P39A4 = "3." + kariyer_secim(careerSelectionLastResult[2], 25, "name", language);
+      allVariables.P39A2 = "1." + kariyer_secim(careerSelectionLastResult[0], age, "name", language);
+      allVariables.P39A3 = "2." + kariyer_secim(careerSelectionLastResult[1], age, "name", language);
+      allVariables.P39A4 = "3." + kariyer_secim(careerSelectionLastResult[2], age, "name", language);
   
-      allVariables.P40A1 = kariyer_secim(careerSelectionLastResult[0], 25, "name", language);
-      allVariables.P40A2 = kariyer_secim(careerSelectionLastResult[0], 25, "s2_x_2", language);
-      allVariables.P40A3 = kariyer_secim(careerSelectionLastResult[1], 25, "name", language);
-      allVariables.P40A4 = kariyer_secim(careerSelectionLastResult[1], 25, "s2_x_2", language);
-      allVariables.P40A5 = kariyer_secim(careerSelectionLastResult[2], 25, "name", language);
-      allVariables.P40A6 = kariyer_secim(careerSelectionLastResult[2], 25, "s2_x_2", language);
+      allVariables.P40A1 = kariyer_secim(careerSelectionLastResult[0], age, "name", language);
+      allVariables.P40A2 = kariyer_secim(careerSelectionLastResult[0], age, "s2_x_2", language);
+      allVariables.P40A3 = kariyer_secim(careerSelectionLastResult[1], age, "name", language);
+      allVariables.P40A4 = kariyer_secim(careerSelectionLastResult[1], age, "s2_x_2", language);
+      allVariables.P40A5 = kariyer_secim(careerSelectionLastResult[2], age, "name", language);
+      allVariables.P40A6 = kariyer_secim(careerSelectionLastResult[2], age, "s2_x_2", language);
   
-      allVariables.P41A1 = kariyer_secim(careerSelectionLastResult[0], 25, "name", language); // Sana En uygun kariyer Seçenekleri Genel Sektörler
-      allVariables.P41A2 = kariyer_secim(careerSelectionLastResult[1], 25, "name", language);
-      allVariables.P41A3 = kariyer_secim(careerSelectionLastResult[2], 25, "name", language);
-      allVariables.P41A4 = kariyer_secim(careerSelectionLastResult[0], 25, "s3_x_1", language); // Güncel İşler
-      allVariables.P41A5 = kariyer_secim(careerSelectionLastResult[1], 25, "s3_x_1", language);
-      allVariables.P41A6 = kariyer_secim(careerSelectionLastResult[2], 25, "s3_x_1", language);
+      allVariables.P41A1 = kariyer_secim(careerSelectionLastResult[0], age, "name", language); // Sana En uygun kariyer Seçenekleri Genel Sektörler
+      allVariables.P41A2 = kariyer_secim(careerSelectionLastResult[1], age, "name", language);
+      allVariables.P41A3 = kariyer_secim(careerSelectionLastResult[2], age, "name", language);
+      allVariables.P41A4 = kariyer_secim(careerSelectionLastResult[0], age, "s3_x_1", language); // Güncel İşler
+      allVariables.P41A5 = kariyer_secim(careerSelectionLastResult[1], age, "s3_x_1", language);
+      allVariables.P41A6 = kariyer_secim(careerSelectionLastResult[2], age, "s3_x_1", language);
   
-      allVariables.P42A1 = kariyer_secim(careerSelectionLastResult[0], 25, "name", language);
-      allVariables.P42A2 = kariyer_secim(careerSelectionLastResult[1], 25, "name", language);
-      allVariables.P42A3 = kariyer_secim(careerSelectionLastResult[2], 25, "name", language);
-      allVariables.P42A4 = kariyer_secim(careerSelectionLastResult[0], 25, "s4_x_1", language); // Geleceğin İşleri
-      allVariables.P42A5 = kariyer_secim(careerSelectionLastResult[1], 25, "s4_x_1", language);
-      allVariables.P42A6 = kariyer_secim(careerSelectionLastResult[2], 25, "s4_x_1", language);
+      allVariables.P42A1 = kariyer_secim(careerSelectionLastResult[0], age, "name", language);
+      allVariables.P42A2 = kariyer_secim(careerSelectionLastResult[1], age, "name", language);
+      allVariables.P42A3 = kariyer_secim(careerSelectionLastResult[2], age, "name", language);
+      allVariables.P42A4 = kariyer_secim(careerSelectionLastResult[0], age, "s4_x_1", language); // Geleceğin İşleri
+      allVariables.P42A5 = kariyer_secim(careerSelectionLastResult[1], age, "s4_x_1", language);
+      allVariables.P42A6 = kariyer_secim(careerSelectionLastResult[2], age, "s4_x_1", language);
   
-      allVariables.P43A1 = kariyer_secim(decision_strategyData.sectorName, 25, "sector", language); // Sana En uygun kariyer seçenekleri
-      allVariables.P43A2 = kariyer_secim(careerSelectionLastResult[0], 25, "s7_" + decision_strategyData.sectorName + "_x_1", language);
-      allVariables.P43A3 = kariyer_secim(careerSelectionLastResult[0], 25, "s7_" + decision_strategyData.sectorName + "_x_3", language);
-      allVariables.P43A4 = kariyer_secim(careerSelectionLastResult[0], 25, "s7_" + decision_strategyData.sectorName + "_x_4", language);
-      allVariables.P43A5 = kariyer_secim(careerSelectionLastResult[0], 25, "s7_" + decision_strategyData.sectorName + "_x_5", language);
-      allVariables.P43A6 = kariyer_secim(careerSelectionLastResult[0], 25, "s7_" + decision_strategyData.sectorName + "_x_6", language);
-      allVariables.P43A7 = kariyer_secim(careerSelectionLastResult[0], 25, "s7_" + decision_strategyData.sectorName + "_x_7", language);
-      allVariables.P43A8 = kariyer_secim(careerSelectionLastResult[1], 25, "s7_" + decision_strategyData.sectorName + "_x_1", language);
-      allVariables.P43A9 = kariyer_secim(careerSelectionLastResult[1], 25, "s7_" + decision_strategyData.sectorName + "_x_3", language);
-      allVariables.P43A10 = kariyer_secim(careerSelectionLastResult[1], 25, "s7_" + decision_strategyData.sectorName + "_x_4", language);
-      allVariables.P43A11 = kariyer_secim(careerSelectionLastResult[1], 25, "s7_" + decision_strategyData.sectorName + "_x_5", language);
-      allVariables.P43A12 = kariyer_secim(careerSelectionLastResult[1], 25, "s7_" + decision_strategyData.sectorName + "_x_6", language);
-      allVariables.P43A13 = kariyer_secim(careerSelectionLastResult[1], 25, "s7_" + decision_strategyData.sectorName + "_x_7", language);
-      allVariables.P43A14 = kariyer_secim(careerSelectionLastResult[2], 25, "s7_" + decision_strategyData.sectorName + "_x_1", language);
-      allVariables.P43A15 = kariyer_secim(careerSelectionLastResult[2], 25, "s7_" + decision_strategyData.sectorName + "_x_3", language);
-      allVariables.P43A16 = kariyer_secim(careerSelectionLastResult[2], 25, "s7_" + decision_strategyData.sectorName + "_x_4", language);
-      allVariables.P43A17 = kariyer_secim(careerSelectionLastResult[2], 25, "s7_" + decision_strategyData.sectorName + "_x_5", language);
-      allVariables.P43A18 = kariyer_secim(careerSelectionLastResult[2], 25, "s7_" + decision_strategyData.sectorName + "_x_6", language);
-      allVariables.P43A19 = kariyer_secim(careerSelectionLastResult[2], 25, "s7_" + decision_strategyData.sectorName + "_x_7", language);
+      allVariables.P43A1 = kariyer_secim(decision_strategyData.sectorName, age, "sector", language); // Sana En uygun kariyer seçenekleri
+      allVariables.P43A2 = kariyer_secim(careerSelectionLastResult[0], age, "s7_" + decision_strategyData.sectorName + "_x_1", language);
+      allVariables.P43A3 = kariyer_secim(careerSelectionLastResult[0], age, "s7_" + decision_strategyData.sectorName + "_x_3", language);
+      allVariables.P43A4 = kariyer_secim(careerSelectionLastResult[0], age, "s7_" + decision_strategyData.sectorName + "_x_4", language);
+      allVariables.P43A5 = kariyer_secim(careerSelectionLastResult[0], age, "s7_" + decision_strategyData.sectorName + "_x_5", language);
+      allVariables.P43A6 = kariyer_secim(careerSelectionLastResult[0], age, "s7_" + decision_strategyData.sectorName + "_x_6", language);
+      allVariables.P43A7 = kariyer_secim(careerSelectionLastResult[0], age, "s7_" + decision_strategyData.sectorName + "_x_7", language);
+      allVariables.P43A8 = kariyer_secim(careerSelectionLastResult[1], age, "s7_" + decision_strategyData.sectorName + "_x_1", language);
+      allVariables.P43A9 = kariyer_secim(careerSelectionLastResult[1], age, "s7_" + decision_strategyData.sectorName + "_x_3", language);
+      allVariables.P43A10 = kariyer_secim(careerSelectionLastResult[1], age, "s7_" + decision_strategyData.sectorName + "_x_4", language);
+      allVariables.P43A11 = kariyer_secim(careerSelectionLastResult[1], age, "s7_" + decision_strategyData.sectorName + "_x_5", language);
+      allVariables.P43A12 = kariyer_secim(careerSelectionLastResult[1], age, "s7_" + decision_strategyData.sectorName + "_x_6", language);
+      allVariables.P43A13 = kariyer_secim(careerSelectionLastResult[1], age, "s7_" + decision_strategyData.sectorName + "_x_7", language);
+      allVariables.P43A14 = kariyer_secim(careerSelectionLastResult[2], age, "s7_" + decision_strategyData.sectorName + "_x_1", language);
+      allVariables.P43A15 = kariyer_secim(careerSelectionLastResult[2], age, "s7_" + decision_strategyData.sectorName + "_x_3", language);
+      allVariables.P43A16 = kariyer_secim(careerSelectionLastResult[2], age, "s7_" + decision_strategyData.sectorName + "_x_4", language);
+      allVariables.P43A17 = kariyer_secim(careerSelectionLastResult[2], age, "s7_" + decision_strategyData.sectorName + "_x_5", language);
+      allVariables.P43A18 = kariyer_secim(careerSelectionLastResult[2], age, "s7_" + decision_strategyData.sectorName + "_x_6", language);
+      allVariables.P43A19 = kariyer_secim(careerSelectionLastResult[2], age, "s7_" + decision_strategyData.sectorName + "_x_7", language);
   
       allVariables.P45A1 = dearName;
   
@@ -11173,82 +11370,82 @@ var decision_strategy_eng_s4_11_txt = "By adhering to this decision-making strat
   
       allVariables,
   
-      allVariables.P30A1 = guclu_yanlarin(guclu_yanlarinData[0], 25, guclu_yanlarinData[0].name + "_1", language); 
-      allVariables.P30A2 = guclu_yanlarin(guclu_yanlarinData[0], 25, guclu_yanlarinData[0].name + "_2", language); 
+      allVariables.P30A1 = guclu_yanlarin(guclu_yanlarinData[0], age, guclu_yanlarinData[0].name + "_1", language); 
+      allVariables.P30A2 = guclu_yanlarin(guclu_yanlarinData[0], age, guclu_yanlarinData[0].name + "_2", language); 
       
-      allVariables.P31A1 = guclu_yanlarin(guclu_yanlarinData[1], 25, guclu_yanlarinData[1].name + "_1", language);
-      allVariables.P31A2 = guclu_yanlarin(guclu_yanlarinData[1], 25, guclu_yanlarinData[1].name + "_2", language);
+      allVariables.P31A1 = guclu_yanlarin(guclu_yanlarinData[1], age, guclu_yanlarinData[1].name + "_1", language);
+      allVariables.P31A2 = guclu_yanlarin(guclu_yanlarinData[1], age, guclu_yanlarinData[1].name + "_2", language);
   
-      allVariables.P32A1 = guclu_yanlarin(guclu_yanlarinData[2], 25, guclu_yanlarinData[2].name + "_1", language);
-      allVariables.P32A2 = guclu_yanlarin(guclu_yanlarinData[2], 25, guclu_yanlarinData[2].name + "_2", language);
+      allVariables.P32A1 = guclu_yanlarin(guclu_yanlarinData[2], age, guclu_yanlarinData[2].name + "_1", language);
+      allVariables.P32A2 = guclu_yanlarin(guclu_yanlarinData[2], age, guclu_yanlarinData[2].name + "_2", language);
   
-      allVariables.P33A1 = guclu_yanlarin(guclu_yanlarinData[3], 25, guclu_yanlarinData[3].name + "_1", language);
-      allVariables.P33A2 = guclu_yanlarin(guclu_yanlarinData[3], 25, guclu_yanlarinData[3].name + "_2", language);
+      allVariables.P33A1 = guclu_yanlarin(guclu_yanlarinData[3], age, guclu_yanlarinData[3].name + "_1", language);
+      allVariables.P33A2 = guclu_yanlarin(guclu_yanlarinData[3], age, guclu_yanlarinData[3].name + "_2", language);
   
-      allVariables.P34A1 = guclu_yanlarin(guclu_yanlarinData[4], 25, guclu_yanlarinData[4].name + "_1", language);
-      allVariables.P34A2 = guclu_yanlarin(guclu_yanlarinData[4], 25, guclu_yanlarinData[4].name + "_2", language);
+      allVariables.P34A1 = guclu_yanlarin(guclu_yanlarinData[4], age, guclu_yanlarinData[4].name + "_1", language);
+      allVariables.P34A2 = guclu_yanlarin(guclu_yanlarinData[4], age, guclu_yanlarinData[4].name + "_2", language);
   
-      allVariables.P35A1 = guclu_yanlarin(guclu_yanlarinData[5], 25, guclu_yanlarinData[5].name + "_1", language);
-      allVariables.P35A2 = guclu_yanlarin(guclu_yanlarinData[5], 25, guclu_yanlarinData[5].name + "_2", language);
+      allVariables.P35A1 = guclu_yanlarin(guclu_yanlarinData[5], age, guclu_yanlarinData[5].name + "_1", language);
+      allVariables.P35A2 = guclu_yanlarin(guclu_yanlarinData[5], age, guclu_yanlarinData[5].name + "_2", language);
   
-      allVariables.P38A1 = decision_strategy(decision_strategyData, 25, "name", language); // Senin Karar Verme Stratejin
-      allVariables.P38A2 = decision_strategy(decision_strategyData, 25, "s3_x_2", language);
+      allVariables.P38A1 = decision_strategy(decision_strategyData, age, "name", language); // Senin Karar Verme Stratejin
+      allVariables.P38A2 = decision_strategy(decision_strategyData, age, "s3_x_2", language);
       allVariables.P38A3 = kararVermeStratejin1;
-      allVariables.P38A4 = decision_strategy(decision_strategyData, 25, "s3_x_3", language);
-      allVariables.P38A5 = decision_strategy(decision_strategyData, 25, "s3_x_4", language);
+      allVariables.P38A4 = decision_strategy(decision_strategyData, age, "s3_x_3", language);
+      allVariables.P38A5 = decision_strategy(decision_strategyData, age, "s3_x_4", language);
   
       allVariables.P39A1 = kararVermeStratejin2;
-      allVariables.P39A2 = decision_strategy(decision_strategyData, 25, "s4_x_text", language);
+      allVariables.P39A2 = decision_strategy(decision_strategyData, age, "s4_x_text", language);
       allVariables.P39A3 = kararVermeStratejin3;
-      allVariables.P39A4 = decision_strategy(decision_strategyData, 25, "s4_x_1", language);
-      allVariables.P39A5 = decision_strategy(decision_strategyData, 25, "s4_x_txt", language);
-      allVariables.P39A6 = decision_strategy(decision_strategyData, 25, "image", language);
+      allVariables.P39A4 = decision_strategy(decision_strategyData, age, "s4_x_1", language);
+      allVariables.P39A5 = decision_strategy(decision_strategyData, age, "s4_x_txt", language);
+      allVariables.P39A6 = decision_strategy(decision_strategyData, age, "image", language);
   
       allVariables.P40A1 = "image"; // Sana uygun kariyer dağılımların
-      allVariables.P40A2 = "1." + kariyer_secim(careerSelectionLastResult[0], 25, "name", language);
-      allVariables.P40A3 = "2." + kariyer_secim(careerSelectionLastResult[1], 25, "name", language);
-      allVariables.P40A4 = "3." + kariyer_secim(careerSelectionLastResult[2], 25, "name", language);
+      allVariables.P40A2 = "1." + kariyer_secim(careerSelectionLastResult[0], age, "name", language);
+      allVariables.P40A3 = "2." + kariyer_secim(careerSelectionLastResult[1], age, "name", language);
+      allVariables.P40A4 = "3." + kariyer_secim(careerSelectionLastResult[2], age, "name", language);
   
-      allVariables.P41A1 = kariyer_secim(careerSelectionLastResult[0], 25, "name", language);
-      allVariables.P41A2 = kariyer_secim(careerSelectionLastResult[0], 25, "s2_x_2", language);
-      allVariables.P41A3 = kariyer_secim(careerSelectionLastResult[1], 25, "name", language);
-      allVariables.P41A4 = kariyer_secim(careerSelectionLastResult[1], 25, "s2_x_2", language);
-      allVariables.P41A5 = kariyer_secim(careerSelectionLastResult[2], 25, "name", language);
-      allVariables.P41A6 = kariyer_secim(careerSelectionLastResult[2], 25, "s2_x_2", language);
+      allVariables.P41A1 = kariyer_secim(careerSelectionLastResult[0], age, "name", language);
+      allVariables.P41A2 = kariyer_secim(careerSelectionLastResult[0], age, "s2_x_2", language);
+      allVariables.P41A3 = kariyer_secim(careerSelectionLastResult[1], age, "name", language);
+      allVariables.P41A4 = kariyer_secim(careerSelectionLastResult[1], age, "s2_x_2", language);
+      allVariables.P41A5 = kariyer_secim(careerSelectionLastResult[2], age, "name", language);
+      allVariables.P41A6 = kariyer_secim(careerSelectionLastResult[2], age, "s2_x_2", language);
   
-      allVariables.P42A1 = kariyer_secim(careerSelectionLastResult[0], 25, "name", language); // Sana En uygun kariyer Seçenekleri Genel Sektörler
-      allVariables.P42A2 = kariyer_secim(careerSelectionLastResult[1], 25, "name", language);
-      allVariables.P42A3 = kariyer_secim(careerSelectionLastResult[2], 25, "name", language);
-      allVariables.P42A4 = kariyer_secim(careerSelectionLastResult[0], 25, "s3_x_1", language); // Güncel İşler
-      allVariables.P42A5 = kariyer_secim(careerSelectionLastResult[1], 25, "s3_x_1", language);
-      allVariables.P42A6 = kariyer_secim(careerSelectionLastResult[2], 25, "s3_x_1", language);
+      allVariables.P42A1 = kariyer_secim(careerSelectionLastResult[0], age, "name", language); // Sana En uygun kariyer Seçenekleri Genel Sektörler
+      allVariables.P42A2 = kariyer_secim(careerSelectionLastResult[1], age, "name", language);
+      allVariables.P42A3 = kariyer_secim(careerSelectionLastResult[2], age, "name", language);
+      allVariables.P42A4 = kariyer_secim(careerSelectionLastResult[0], age, "s3_x_1", language); // Güncel İşler
+      allVariables.P42A5 = kariyer_secim(careerSelectionLastResult[1], age, "s3_x_1", language);
+      allVariables.P42A6 = kariyer_secim(careerSelectionLastResult[2], age, "s3_x_1", language);
   
-      allVariables.P43A1 = kariyer_secim(careerSelectionLastResult[0], 25, "name", language);
-      allVariables.P43A2 = kariyer_secim(careerSelectionLastResult[1], 25, "name", language);
-      allVariables.P43A3 = kariyer_secim(careerSelectionLastResult[2], 25, "name", language);
-      allVariables.P43A4 = kariyer_secim(careerSelectionLastResult[0], 25, "s4_x_1", language); // Geleceğin İşleri
-      allVariables.P43A5 = kariyer_secim(careerSelectionLastResult[1], 25, "s4_x_1", language);
-      allVariables.P43A6 = kariyer_secim(careerSelectionLastResult[2], 25, "s4_x_1", language);
+      allVariables.P43A1 = kariyer_secim(careerSelectionLastResult[0], age, "name", language);
+      allVariables.P43A2 = kariyer_secim(careerSelectionLastResult[1], age, "name", language);
+      allVariables.P43A3 = kariyer_secim(careerSelectionLastResult[2], age, "name", language);
+      allVariables.P43A4 = kariyer_secim(careerSelectionLastResult[0], age, "s4_x_1", language); // Geleceğin İşleri
+      allVariables.P43A5 = kariyer_secim(careerSelectionLastResult[1], age, "s4_x_1", language);
+      allVariables.P43A6 = kariyer_secim(careerSelectionLastResult[2], age, "s4_x_1", language);
   
-      allVariables.P44A1 = kariyer_secim(decision_strategyData.sectorName, 25, "sector", language); // Sana En uygun kariyer seçenekleri
-      allVariables.P44A2 = kariyer_secim(careerSelectionLastResult[0], 25, "s7_" + decision_strategyData.sectorName + "_x_1", language);
-      allVariables.P44A3 = kariyer_secim(careerSelectionLastResult[0], 25, "s7_" + decision_strategyData.sectorName + "_x_3", language);
-      allVariables.P44A4 = kariyer_secim(careerSelectionLastResult[0], 25, "s7_" + decision_strategyData.sectorName + "_x_4", language);
-      allVariables.P44A5 = kariyer_secim(careerSelectionLastResult[0], 25, "s7_" + decision_strategyData.sectorName + "_x_5", language);
-      allVariables.P44A6 = kariyer_secim(careerSelectionLastResult[0], 25, "s7_" + decision_strategyData.sectorName + "_x_6", language);
-      allVariables.P44A7 = kariyer_secim(careerSelectionLastResult[0], 25, "s7_" + decision_strategyData.sectorName + "_x_7", language);
-      allVariables.P44A8 = kariyer_secim(careerSelectionLastResult[1], 25, "s7_" + decision_strategyData.sectorName + "_x_1", language);
-      allVariables.P44A9 = kariyer_secim(careerSelectionLastResult[1], 25, "s7_" + decision_strategyData.sectorName + "_x_3", language);
-      allVariables.P44A10 = kariyer_secim(careerSelectionLastResult[1], 25, "s7_" + decision_strategyData.sectorName + "_x_4", language);
-      allVariables.P44A11 = kariyer_secim(careerSelectionLastResult[1], 25, "s7_" + decision_strategyData.sectorName + "_x_5", language);
-      allVariables.P44A12 = kariyer_secim(careerSelectionLastResult[1], 25, "s7_" + decision_strategyData.sectorName + "_x_6", language);
-      allVariables.P44A13 = kariyer_secim(careerSelectionLastResult[1], 25, "s7_" + decision_strategyData.sectorName + "_x_7", language);
-      allVariables.P44A14 = kariyer_secim(careerSelectionLastResult[2], 25, "s7_" + decision_strategyData.sectorName + "_x_1", language);
-      allVariables.P44A15 = kariyer_secim(careerSelectionLastResult[2], 25, "s7_" + decision_strategyData.sectorName + "_x_3", language);
-      allVariables.P44A16 = kariyer_secim(careerSelectionLastResult[2], 25, "s7_" + decision_strategyData.sectorName + "_x_4", language);
-      allVariables.P44A17 = kariyer_secim(careerSelectionLastResult[2], 25, "s7_" + decision_strategyData.sectorName + "_x_5", language);
-      allVariables.P44A18 = kariyer_secim(careerSelectionLastResult[2], 25, "s7_" + decision_strategyData.sectorName + "_x_6", language);
-      allVariables.P44A19 = kariyer_secim(careerSelectionLastResult[2], 25, "s7_" + decision_strategyData.sectorName + "_x_7", language);
+      allVariables.P44A1 = kariyer_secim(decision_strategyData.sectorName, age, "sector", language); // Sana En uygun kariyer seçenekleri
+      allVariables.P44A2 = kariyer_secim(careerSelectionLastResult[0], age, "s7_" + decision_strategyData.sectorName + "_x_1", language);
+      allVariables.P44A3 = kariyer_secim(careerSelectionLastResult[0], age, "s7_" + decision_strategyData.sectorName + "_x_3", language);
+      allVariables.P44A4 = kariyer_secim(careerSelectionLastResult[0], age, "s7_" + decision_strategyData.sectorName + "_x_4", language);
+      allVariables.P44A5 = kariyer_secim(careerSelectionLastResult[0], age, "s7_" + decision_strategyData.sectorName + "_x_5", language);
+      allVariables.P44A6 = kariyer_secim(careerSelectionLastResult[0], age, "s7_" + decision_strategyData.sectorName + "_x_6", language);
+      allVariables.P44A7 = kariyer_secim(careerSelectionLastResult[0], age, "s7_" + decision_strategyData.sectorName + "_x_7", language);
+      allVariables.P44A8 = kariyer_secim(careerSelectionLastResult[1], age, "s7_" + decision_strategyData.sectorName + "_x_1", language);
+      allVariables.P44A9 = kariyer_secim(careerSelectionLastResult[1], age, "s7_" + decision_strategyData.sectorName + "_x_3", language);
+      allVariables.P44A10 = kariyer_secim(careerSelectionLastResult[1], age, "s7_" + decision_strategyData.sectorName + "_x_4", language);
+      allVariables.P44A11 = kariyer_secim(careerSelectionLastResult[1], age, "s7_" + decision_strategyData.sectorName + "_x_5", language);
+      allVariables.P44A12 = kariyer_secim(careerSelectionLastResult[1], age, "s7_" + decision_strategyData.sectorName + "_x_6", language);
+      allVariables.P44A13 = kariyer_secim(careerSelectionLastResult[1], age, "s7_" + decision_strategyData.sectorName + "_x_7", language);
+      allVariables.P44A14 = kariyer_secim(careerSelectionLastResult[2], age, "s7_" + decision_strategyData.sectorName + "_x_1", language);
+      allVariables.P44A15 = kariyer_secim(careerSelectionLastResult[2], age, "s7_" + decision_strategyData.sectorName + "_x_3", language);
+      allVariables.P44A16 = kariyer_secim(careerSelectionLastResult[2], age, "s7_" + decision_strategyData.sectorName + "_x_4", language);
+      allVariables.P44A17 = kariyer_secim(careerSelectionLastResult[2], age, "s7_" + decision_strategyData.sectorName + "_x_5", language);
+      allVariables.P44A18 = kariyer_secim(careerSelectionLastResult[2], age, "s7_" + decision_strategyData.sectorName + "_x_6", language);
+      allVariables.P44A19 = kariyer_secim(careerSelectionLastResult[2], age, "s7_" + decision_strategyData.sectorName + "_x_7", language);
   
       allVariables.P46A1 = dearName;
   
@@ -11332,85 +11529,85 @@ var decision_strategy_eng_s4_11_txt = "By adhering to this decision-making strat
   
       allVariables,
   
-      allVariables.P30A1 = guclu_yanlarin(guclu_yanlarinData[0], 25, guclu_yanlarinData[0].name + "_1", language); 
-      allVariables.P30A2 = guclu_yanlarin(guclu_yanlarinData[0], 25, guclu_yanlarinData[0].name + "_2", language); 
+      allVariables.P30A1 = guclu_yanlarin(guclu_yanlarinData[0], age, guclu_yanlarinData[0].name + "_1", language); 
+      allVariables.P30A2 = guclu_yanlarin(guclu_yanlarinData[0], age, guclu_yanlarinData[0].name + "_2", language); 
       
-      allVariables.P31A1 = guclu_yanlarin(guclu_yanlarinData[1], 25, guclu_yanlarinData[1].name + "_1", language);
-      allVariables.P31A2 = guclu_yanlarin(guclu_yanlarinData[1], 25, guclu_yanlarinData[1].name + "_2", language);
+      allVariables.P31A1 = guclu_yanlarin(guclu_yanlarinData[1], age, guclu_yanlarinData[1].name + "_1", language);
+      allVariables.P31A2 = guclu_yanlarin(guclu_yanlarinData[1], age, guclu_yanlarinData[1].name + "_2", language);
   
-      allVariables.P32A1 = guclu_yanlarin(guclu_yanlarinData[2], 25, guclu_yanlarinData[2].name + "_1", language);
-      allVariables.P32A2 = guclu_yanlarin(guclu_yanlarinData[2], 25, guclu_yanlarinData[2].name + "_2", language);
+      allVariables.P32A1 = guclu_yanlarin(guclu_yanlarinData[2], age, guclu_yanlarinData[2].name + "_1", language);
+      allVariables.P32A2 = guclu_yanlarin(guclu_yanlarinData[2], age, guclu_yanlarinData[2].name + "_2", language);
   
-      allVariables.P33A1 = guclu_yanlarin(guclu_yanlarinData[3], 25, guclu_yanlarinData[3].name + "_1", language);
-      allVariables.P33A2 = guclu_yanlarin(guclu_yanlarinData[3], 25, guclu_yanlarinData[3].name + "_2", language);
+      allVariables.P33A1 = guclu_yanlarin(guclu_yanlarinData[3], age, guclu_yanlarinData[3].name + "_1", language);
+      allVariables.P33A2 = guclu_yanlarin(guclu_yanlarinData[3], age, guclu_yanlarinData[3].name + "_2", language);
   
-      allVariables.P34A1 = guclu_yanlarin(guclu_yanlarinData[4], 25, guclu_yanlarinData[4].name + "_1", language);
-      allVariables.P34A2 = guclu_yanlarin(guclu_yanlarinData[4], 25, guclu_yanlarinData[4].name + "_2", language);
+      allVariables.P34A1 = guclu_yanlarin(guclu_yanlarinData[4], age, guclu_yanlarinData[4].name + "_1", language);
+      allVariables.P34A2 = guclu_yanlarin(guclu_yanlarinData[4], age, guclu_yanlarinData[4].name + "_2", language);
   
-      allVariables.P35A1 = guclu_yanlarin(guclu_yanlarinData[5], 25, guclu_yanlarinData[5].name + "_1", language);
-      allVariables.P35A2 = guclu_yanlarin(guclu_yanlarinData[5], 25, guclu_yanlarinData[5].name + "_2", language);
+      allVariables.P35A1 = guclu_yanlarin(guclu_yanlarinData[5], age, guclu_yanlarinData[5].name + "_1", language);
+      allVariables.P35A2 = guclu_yanlarin(guclu_yanlarinData[5], age, guclu_yanlarinData[5].name + "_2", language);
   
-      allVariables.P36A1 = guclu_yanlarin(guclu_yanlarinData[6], 25, guclu_yanlarinData[6].name + "_1", language);
-      allVariables.P36A2 = guclu_yanlarin(guclu_yanlarinData[6], 25, guclu_yanlarinData[6].name + "_2", language);
+      allVariables.P36A1 = guclu_yanlarin(guclu_yanlarinData[6], age, guclu_yanlarinData[6].name + "_1", language);
+      allVariables.P36A2 = guclu_yanlarin(guclu_yanlarinData[6], age, guclu_yanlarinData[6].name + "_2", language);
   
-      allVariables.P39A1 = decision_strategy(decision_strategyData, 25, "name", language); // Senin Karar Verme Stratejin
-      allVariables.P39A2 = decision_strategy(decision_strategyData, 25, "s3_x_2", language);
+      allVariables.P39A1 = decision_strategy(decision_strategyData, age, "name", language); // Senin Karar Verme Stratejin
+      allVariables.P39A2 = decision_strategy(decision_strategyData, age, "s3_x_2", language);
       allVariables.P39A3 = kararVermeStratejin1;
-      allVariables.P39A4 = decision_strategy(decision_strategyData, 25, "s3_x_3", language);
-      allVariables.P39A5 = decision_strategy(decision_strategyData, 25, "s3_x_4", language);
+      allVariables.P39A4 = decision_strategy(decision_strategyData, age, "s3_x_3", language);
+      allVariables.P39A5 = decision_strategy(decision_strategyData, age, "s3_x_4", language);
   
       allVariables.P40A1 = kararVermeStratejin2;
-      allVariables.P40A2 = decision_strategy(decision_strategyData, 25, "s4_x_text", language);
+      allVariables.P40A2 = decision_strategy(decision_strategyData, age, "s4_x_text", language);
       allVariables.P40A3 = kararVermeStratejin3;
-      allVariables.P40A4 = decision_strategy(decision_strategyData, 25, "s4_x_1", language);
-      allVariables.P40A5 = decision_strategy(decision_strategyData, 25, "s4_x_txt", language);
-      allVariables.P40A6 = decision_strategy(decision_strategyData, 25, "image", language);
+      allVariables.P40A4 = decision_strategy(decision_strategyData, age, "s4_x_1", language);
+      allVariables.P40A5 = decision_strategy(decision_strategyData, age, "s4_x_txt", language);
+      allVariables.P40A6 = decision_strategy(decision_strategyData, age, "image", language);
   
       allVariables.P41A1 = "image"; // Sana uygun kariyer dağılımların
-      allVariables.P41A2 = "1." + kariyer_secim(careerSelectionLastResult[0], 25, "name", language);
-      allVariables.P41A3 = "2." + kariyer_secim(careerSelectionLastResult[1], 25, "name", language);
-      allVariables.P41A4 = "3." + kariyer_secim(careerSelectionLastResult[2], 25, "name", language);
+      allVariables.P41A2 = "1." + kariyer_secim(careerSelectionLastResult[0], age, "name", language);
+      allVariables.P41A3 = "2." + kariyer_secim(careerSelectionLastResult[1], age, "name", language);
+      allVariables.P41A4 = "3." + kariyer_secim(careerSelectionLastResult[2], age, "name", language);
   
-      allVariables.P42A1 = kariyer_secim(careerSelectionLastResult[0], 25, "name", language);
-      allVariables.P42A2 = kariyer_secim(careerSelectionLastResult[0], 25, "s2_x_2", language);
-      allVariables.P42A3 = kariyer_secim(careerSelectionLastResult[1], 25, "name", language);
-      allVariables.P42A4 = kariyer_secim(careerSelectionLastResult[1], 25, "s2_x_2", language);
-      allVariables.P42A5 = kariyer_secim(careerSelectionLastResult[2], 25, "name", language);
-      allVariables.P42A6 = kariyer_secim(careerSelectionLastResult[2], 25, "s2_x_2", language);
+      allVariables.P42A1 = kariyer_secim(careerSelectionLastResult[0], age, "name", language);
+      allVariables.P42A2 = kariyer_secim(careerSelectionLastResult[0], age, "s2_x_2", language);
+      allVariables.P42A3 = kariyer_secim(careerSelectionLastResult[1], age, "name", language);
+      allVariables.P42A4 = kariyer_secim(careerSelectionLastResult[1], age, "s2_x_2", language);
+      allVariables.P42A5 = kariyer_secim(careerSelectionLastResult[2], age, "name", language);
+      allVariables.P42A6 = kariyer_secim(careerSelectionLastResult[2], age, "s2_x_2", language);
   
-      allVariables.P43A1 = kariyer_secim(careerSelectionLastResult[0], 25, "name", language); // Sana En uygun kariyer Seçenekleri Genel Sektörler
-      allVariables.P43A2 = kariyer_secim(careerSelectionLastResult[1], 25, "name", language);
-      allVariables.P43A3 = kariyer_secim(careerSelectionLastResult[2], 25, "name", language);
-      allVariables.P43A4 = kariyer_secim(careerSelectionLastResult[0], 25, "s3_x_1", language); // Güncel İşler
-      allVariables.P43A5 = kariyer_secim(careerSelectionLastResult[1], 25, "s3_x_1", language);
-      allVariables.P43A6 = kariyer_secim(careerSelectionLastResult[2], 25, "s3_x_1", language);
+      allVariables.P43A1 = kariyer_secim(careerSelectionLastResult[0], age, "name", language); // Sana En uygun kariyer Seçenekleri Genel Sektörler
+      allVariables.P43A2 = kariyer_secim(careerSelectionLastResult[1], age, "name", language);
+      allVariables.P43A3 = kariyer_secim(careerSelectionLastResult[2], age, "name", language);
+      allVariables.P43A4 = kariyer_secim(careerSelectionLastResult[0], age, "s3_x_1", language); // Güncel İşler
+      allVariables.P43A5 = kariyer_secim(careerSelectionLastResult[1], age, "s3_x_1", language);
+      allVariables.P43A6 = kariyer_secim(careerSelectionLastResult[2], age, "s3_x_1", language);
   
-      allVariables.P44A1 = kariyer_secim(careerSelectionLastResult[0], 25, "name", language);
-      allVariables.P44A2 = kariyer_secim(careerSelectionLastResult[1], 25, "name", language);
-      allVariables.P44A3 = kariyer_secim(careerSelectionLastResult[2], 25, "name", language);
-      allVariables.P44A4 = kariyer_secim(careerSelectionLastResult[0], 25, "s4_x_1", language); // Geleceğin İşleri
-      allVariables.P44A5 = kariyer_secim(careerSelectionLastResult[1], 25, "s4_x_1", language);
-      allVariables.P44A6 = kariyer_secim(careerSelectionLastResult[2], 25, "s4_x_1", language);
+      allVariables.P44A1 = kariyer_secim(careerSelectionLastResult[0], age, "name", language);
+      allVariables.P44A2 = kariyer_secim(careerSelectionLastResult[1], age, "name", language);
+      allVariables.P44A3 = kariyer_secim(careerSelectionLastResult[2], age, "name", language);
+      allVariables.P44A4 = kariyer_secim(careerSelectionLastResult[0], age, "s4_x_1", language); // Geleceğin İşleri
+      allVariables.P44A5 = kariyer_secim(careerSelectionLastResult[1], age, "s4_x_1", language);
+      allVariables.P44A6 = kariyer_secim(careerSelectionLastResult[2], age, "s4_x_1", language);
   
-      allVariables.P45A1 = kariyer_secim(decision_strategyData.sectorName, 25, "sector", language); // Sana En uygun kariyer seçenekleri
-      allVariables.P45A2 = kariyer_secim(careerSelectionLastResult[0], 25, "s7_" + decision_strategyData.sectorName + "_x_1", language);
-      allVariables.P45A3 = kariyer_secim(careerSelectionLastResult[0], 25, "s7_" + decision_strategyData.sectorName + "_x_3", language);
-      allVariables.P45A4 = kariyer_secim(careerSelectionLastResult[0], 25, "s7_" + decision_strategyData.sectorName + "_x_4", language);
-      allVariables.P45A5 = kariyer_secim(careerSelectionLastResult[0], 25, "s7_" + decision_strategyData.sectorName + "_x_5", language);
-      allVariables.P45A6 = kariyer_secim(careerSelectionLastResult[0], 25, "s7_" + decision_strategyData.sectorName + "_x_6", language);
-      allVariables.P45A7 = kariyer_secim(careerSelectionLastResult[0], 25, "s7_" + decision_strategyData.sectorName + "_x_7", language);
-      allVariables.P45A8 = kariyer_secim(careerSelectionLastResult[1], 25, "s7_" + decision_strategyData.sectorName + "_x_1", language);
-      allVariables.P45A9 = kariyer_secim(careerSelectionLastResult[1], 25, "s7_" + decision_strategyData.sectorName + "_x_3", language);
-      allVariables.P45A10 = kariyer_secim(careerSelectionLastResult[1], 25, "s7_" + decision_strategyData.sectorName + "_x_4", language);
-      allVariables.P45A11 = kariyer_secim(careerSelectionLastResult[1], 25, "s7_" + decision_strategyData.sectorName + "_x_5", language);
-      allVariables.P45A12 = kariyer_secim(careerSelectionLastResult[1], 25, "s7_" + decision_strategyData.sectorName + "_x_6", language);
-      allVariables.P45A13 = kariyer_secim(careerSelectionLastResult[1], 25, "s7_" + decision_strategyData.sectorName + "_x_7", language);
-      allVariables.P45A14 = kariyer_secim(careerSelectionLastResult[2], 25, "s7_" + decision_strategyData.sectorName + "_x_1", language);
-      allVariables.P45A15 = kariyer_secim(careerSelectionLastResult[2], 25, "s7_" + decision_strategyData.sectorName + "_x_3", language);
-      allVariables.P45A16 = kariyer_secim(careerSelectionLastResult[2], 25, "s7_" + decision_strategyData.sectorName + "_x_4", language);
-      allVariables.P45A17 = kariyer_secim(careerSelectionLastResult[2], 25, "s7_" + decision_strategyData.sectorName + "_x_5", language);
-      allVariables.P45A18 = kariyer_secim(careerSelectionLastResult[2], 25, "s7_" + decision_strategyData.sectorName + "_x_6", language);
-      allVariables.P45A19 = kariyer_secim(careerSelectionLastResult[2], 25, "s7_" + decision_strategyData.sectorName + "_x_7", language);    
+      allVariables.P45A1 = kariyer_secim(decision_strategyData.sectorName, age, "sector", language); // Sana En uygun kariyer seçenekleri
+      allVariables.P45A2 = kariyer_secim(careerSelectionLastResult[0], age, "s7_" + decision_strategyData.sectorName + "_x_1", language);
+      allVariables.P45A3 = kariyer_secim(careerSelectionLastResult[0], age, "s7_" + decision_strategyData.sectorName + "_x_3", language);
+      allVariables.P45A4 = kariyer_secim(careerSelectionLastResult[0], age, "s7_" + decision_strategyData.sectorName + "_x_4", language);
+      allVariables.P45A5 = kariyer_secim(careerSelectionLastResult[0], age, "s7_" + decision_strategyData.sectorName + "_x_5", language);
+      allVariables.P45A6 = kariyer_secim(careerSelectionLastResult[0], age, "s7_" + decision_strategyData.sectorName + "_x_6", language);
+      allVariables.P45A7 = kariyer_secim(careerSelectionLastResult[0], age, "s7_" + decision_strategyData.sectorName + "_x_7", language);
+      allVariables.P45A8 = kariyer_secim(careerSelectionLastResult[1], age, "s7_" + decision_strategyData.sectorName + "_x_1", language);
+      allVariables.P45A9 = kariyer_secim(careerSelectionLastResult[1], age, "s7_" + decision_strategyData.sectorName + "_x_3", language);
+      allVariables.P45A10 = kariyer_secim(careerSelectionLastResult[1], age, "s7_" + decision_strategyData.sectorName + "_x_4", language);
+      allVariables.P45A11 = kariyer_secim(careerSelectionLastResult[1], age, "s7_" + decision_strategyData.sectorName + "_x_5", language);
+      allVariables.P45A12 = kariyer_secim(careerSelectionLastResult[1], age, "s7_" + decision_strategyData.sectorName + "_x_6", language);
+      allVariables.P45A13 = kariyer_secim(careerSelectionLastResult[1], age, "s7_" + decision_strategyData.sectorName + "_x_7", language);
+      allVariables.P45A14 = kariyer_secim(careerSelectionLastResult[2], age, "s7_" + decision_strategyData.sectorName + "_x_1", language);
+      allVariables.P45A15 = kariyer_secim(careerSelectionLastResult[2], age, "s7_" + decision_strategyData.sectorName + "_x_3", language);
+      allVariables.P45A16 = kariyer_secim(careerSelectionLastResult[2], age, "s7_" + decision_strategyData.sectorName + "_x_4", language);
+      allVariables.P45A17 = kariyer_secim(careerSelectionLastResult[2], age, "s7_" + decision_strategyData.sectorName + "_x_5", language);
+      allVariables.P45A18 = kariyer_secim(careerSelectionLastResult[2], age, "s7_" + decision_strategyData.sectorName + "_x_6", language);
+      allVariables.P45A19 = kariyer_secim(careerSelectionLastResult[2], age, "s7_" + decision_strategyData.sectorName + "_x_7", language);    
   
       allVariables.P47A1 = dearName;
   
@@ -11499,88 +11696,88 @@ var decision_strategy_eng_s4_11_txt = "By adhering to this decision-making strat
   
       allVariables,
   
-      allVariables.P30A1 = guclu_yanlarin(guclu_yanlarinData[0], 25, guclu_yanlarinData[0].name + "_1", language); 
-      allVariables.P30A2 = guclu_yanlarin(guclu_yanlarinData[0], 25, guclu_yanlarinData[0].name + "_2", language); 
+      allVariables.P30A1 = guclu_yanlarin(guclu_yanlarinData[0], age, guclu_yanlarinData[0].name + "_1", language); 
+      allVariables.P30A2 = guclu_yanlarin(guclu_yanlarinData[0], age, guclu_yanlarinData[0].name + "_2", language); 
   
-      allVariables.P31A1 = guclu_yanlarin(guclu_yanlarinData[1], 25, guclu_yanlarinData[1].name + "_1", language);
-      allVariables.P31A2 = guclu_yanlarin(guclu_yanlarinData[1], 25, guclu_yanlarinData[1].name + "_2", language);
+      allVariables.P31A1 = guclu_yanlarin(guclu_yanlarinData[1], age, guclu_yanlarinData[1].name + "_1", language);
+      allVariables.P31A2 = guclu_yanlarin(guclu_yanlarinData[1], age, guclu_yanlarinData[1].name + "_2", language);
   
-      allVariables.P32A1 = guclu_yanlarin(guclu_yanlarinData[2], 25, guclu_yanlarinData[2].name + "_1", language);
-      allVariables.P32A2 = guclu_yanlarin(guclu_yanlarinData[2], 25, guclu_yanlarinData[2].name + "_2", language);
+      allVariables.P32A1 = guclu_yanlarin(guclu_yanlarinData[2], age, guclu_yanlarinData[2].name + "_1", language);
+      allVariables.P32A2 = guclu_yanlarin(guclu_yanlarinData[2], age, guclu_yanlarinData[2].name + "_2", language);
   
-      allVariables.P33A1 = guclu_yanlarin(guclu_yanlarinData[3], 25, guclu_yanlarinData[3].name + "_1", language);
-      allVariables.P33A2 = guclu_yanlarin(guclu_yanlarinData[3], 25, guclu_yanlarinData[3].name + "_2", language);
+      allVariables.P33A1 = guclu_yanlarin(guclu_yanlarinData[3], age, guclu_yanlarinData[3].name + "_1", language);
+      allVariables.P33A2 = guclu_yanlarin(guclu_yanlarinData[3], age, guclu_yanlarinData[3].name + "_2", language);
   
-      allVariables.P34A1 = guclu_yanlarin(guclu_yanlarinData[4], 25, guclu_yanlarinData[4].name + "_1", language);
-      allVariables.P34A2 = guclu_yanlarin(guclu_yanlarinData[4], 25, guclu_yanlarinData[4].name + "_2", language);
+      allVariables.P34A1 = guclu_yanlarin(guclu_yanlarinData[4], age, guclu_yanlarinData[4].name + "_1", language);
+      allVariables.P34A2 = guclu_yanlarin(guclu_yanlarinData[4], age, guclu_yanlarinData[4].name + "_2", language);
   
-      allVariables.P35A1 = guclu_yanlarin(guclu_yanlarinData[5], 25, guclu_yanlarinData[5].name + "_1", language);
-      allVariables.P35A2 = guclu_yanlarin(guclu_yanlarinData[5], 25, guclu_yanlarinData[5].name + "_2", language);
+      allVariables.P35A1 = guclu_yanlarin(guclu_yanlarinData[5], age, guclu_yanlarinData[5].name + "_1", language);
+      allVariables.P35A2 = guclu_yanlarin(guclu_yanlarinData[5], age, guclu_yanlarinData[5].name + "_2", language);
   
-      allVariables.P36A1 = guclu_yanlarin(guclu_yanlarinData[6], 25, guclu_yanlarinData[6].name + "_1", language);
-      allVariables.P36A2 = guclu_yanlarin(guclu_yanlarinData[6], 25, guclu_yanlarinData[6].name + "_2", language);
+      allVariables.P36A1 = guclu_yanlarin(guclu_yanlarinData[6], age, guclu_yanlarinData[6].name + "_1", language);
+      allVariables.P36A2 = guclu_yanlarin(guclu_yanlarinData[6], age, guclu_yanlarinData[6].name + "_2", language);
   
-      allVariables.P37A1 = guclu_yanlarin(guclu_yanlarinData[7], 25, guclu_yanlarinData[7].name + "_1", language);
-      allVariables.P37A2 = guclu_yanlarin(guclu_yanlarinData[7], 25, guclu_yanlarinData[7].name + "_2", language);
+      allVariables.P37A1 = guclu_yanlarin(guclu_yanlarinData[7], age, guclu_yanlarinData[7].name + "_1", language);
+      allVariables.P37A2 = guclu_yanlarin(guclu_yanlarinData[7], age, guclu_yanlarinData[7].name + "_2", language);
   
-      allVariables.P40A1 = decision_strategy(decision_strategyData, 25, "name", language); // Senin Karar Verme Stratejin
-      allVariables.P40A2 = decision_strategy(decision_strategyData, 25, "s3_x_2", language);
+      allVariables.P40A1 = decision_strategy(decision_strategyData, age, "name", language); // Senin Karar Verme Stratejin
+      allVariables.P40A2 = decision_strategy(decision_strategyData, age, "s3_x_2", language);
       allVariables.P40A3 = kararVermeStratejin1;
-      allVariables.P40A4 = decision_strategy(decision_strategyData, 25, "s3_x_3", language);
-      allVariables.P40A5 = decision_strategy(decision_strategyData, 25, "s3_x_4", language);
+      allVariables.P40A4 = decision_strategy(decision_strategyData, age, "s3_x_3", language);
+      allVariables.P40A5 = decision_strategy(decision_strategyData, age, "s3_x_4", language);
       
       allVariables.P41A1 = kararVermeStratejin2;
-      allVariables.P41A2 = decision_strategy(decision_strategyData, 25, "s4_x_text", language);
+      allVariables.P41A2 = decision_strategy(decision_strategyData, age, "s4_x_text", language);
       allVariables.P41A3 = kararVermeStratejin3;
-      allVariables.P41A4 = decision_strategy(decision_strategyData, 25, "s4_x_1", language);
-      allVariables.P41A5 = decision_strategy(decision_strategyData, 25, "s4_x_txt", language);
-      allVariables.P41A6 = decision_strategy(decision_strategyData, 25, "image", language);
+      allVariables.P41A4 = decision_strategy(decision_strategyData, age, "s4_x_1", language);
+      allVariables.P41A5 = decision_strategy(decision_strategyData, age, "s4_x_txt", language);
+      allVariables.P41A6 = decision_strategy(decision_strategyData, age, "image", language);
       
       allVariables.P42A1 = "image"; // Sana uygun kariyer dağılımların
-      allVariables.P42A2 = "1." + kariyer_secim(careerSelectionLastResult[0], 25, "name", language,);
-      allVariables.P42A3 = "2." + kariyer_secim(careerSelectionLastResult[1], 25, "name", language,);
-      allVariables.P42A4 = "3." + kariyer_secim(careerSelectionLastResult[2], 25, "name", language);
+      allVariables.P42A2 = "1." + kariyer_secim(careerSelectionLastResult[0], age, "name", language,);
+      allVariables.P42A3 = "2." + kariyer_secim(careerSelectionLastResult[1], age, "name", language,);
+      allVariables.P42A4 = "3." + kariyer_secim(careerSelectionLastResult[2], age, "name", language);
       
-      allVariables.P43A1 = kariyer_secim(careerSelectionLastResult[0], 25, "name", language);
-      allVariables.P43A2 = kariyer_secim(careerSelectionLastResult[0], 25, "s2_x_2", language);
-      allVariables.P43A3 = kariyer_secim(careerSelectionLastResult[1], 25, "name", language);
-      allVariables.P43A4 = kariyer_secim(careerSelectionLastResult[1], 25, "s2_x_2", language);
-      allVariables.P43A5 = kariyer_secim(careerSelectionLastResult[2], 25, "name", language);
-      allVariables.P43A6 = kariyer_secim(careerSelectionLastResult[2], 25, "s2_x_2", language);
+      allVariables.P43A1 = kariyer_secim(careerSelectionLastResult[0], age, "name", language);
+      allVariables.P43A2 = kariyer_secim(careerSelectionLastResult[0], age, "s2_x_2", language);
+      allVariables.P43A3 = kariyer_secim(careerSelectionLastResult[1], age, "name", language);
+      allVariables.P43A4 = kariyer_secim(careerSelectionLastResult[1], age, "s2_x_2", language);
+      allVariables.P43A5 = kariyer_secim(careerSelectionLastResult[2], age, "name", language);
+      allVariables.P43A6 = kariyer_secim(careerSelectionLastResult[2], age, "s2_x_2", language);
       
-      allVariables.P44A1 = kariyer_secim(careerSelectionLastResult[0], 25, "name", language); // Sana En uygun kariyer Seçenekleri Genel Sektörler
-      allVariables.P44A2 = kariyer_secim(careerSelectionLastResult[1], 25, "name", language);
-      allVariables.P44A3 = kariyer_secim(careerSelectionLastResult[2], 25, "name", language);
-      allVariables.P44A4 = kariyer_secim(careerSelectionLastResult[0], 25, "s3_x_1", language); // Güncel İşler
-      allVariables.P44A5 = kariyer_secim(careerSelectionLastResult[1], 25, "s3_x_1", language);
-      allVariables.P44A6 = kariyer_secim(careerSelectionLastResult[2], 25, "s3_x_1", language);
+      allVariables.P44A1 = kariyer_secim(careerSelectionLastResult[0], age, "name", language); // Sana En uygun kariyer Seçenekleri Genel Sektörler
+      allVariables.P44A2 = kariyer_secim(careerSelectionLastResult[1], age, "name", language);
+      allVariables.P44A3 = kariyer_secim(careerSelectionLastResult[2], age, "name", language);
+      allVariables.P44A4 = kariyer_secim(careerSelectionLastResult[0], age, "s3_x_1", language); // Güncel İşler
+      allVariables.P44A5 = kariyer_secim(careerSelectionLastResult[1], age, "s3_x_1", language);
+      allVariables.P44A6 = kariyer_secim(careerSelectionLastResult[2], age, "s3_x_1", language);
       
-      allVariables.P45A1 = kariyer_secim(careerSelectionLastResult[0], 25, "name", language);
-      allVariables.P45A2 = kariyer_secim(careerSelectionLastResult[1], 25, "name", language);
-      allVariables.P45A3 = kariyer_secim(careerSelectionLastResult[2], 25, "name", language);
-      allVariables.P45A4 = kariyer_secim(careerSelectionLastResult[0], 25, "s4_x_1", language); // Geleceğin İşleri
-      allVariables.P45A5 = kariyer_secim(careerSelectionLastResult[1], 25, "s4_x_1", language);
-      allVariables.P45A6 = kariyer_secim(careerSelectionLastResult[2], 25, "s4_x_1", language);    
+      allVariables.P45A1 = kariyer_secim(careerSelectionLastResult[0], age, "name", language);
+      allVariables.P45A2 = kariyer_secim(careerSelectionLastResult[1], age, "name", language);
+      allVariables.P45A3 = kariyer_secim(careerSelectionLastResult[2], age, "name", language);
+      allVariables.P45A4 = kariyer_secim(careerSelectionLastResult[0], age, "s4_x_1", language); // Geleceğin İşleri
+      allVariables.P45A5 = kariyer_secim(careerSelectionLastResult[1], age, "s4_x_1", language);
+      allVariables.P45A6 = kariyer_secim(careerSelectionLastResult[2], age, "s4_x_1", language);    
   
-      allVariables.P46A1 = kariyer_secim(decision_strategyData.sectorName, 25, "sector", language); // Sana En uygun kariyer seçenekleri
-      allVariables.P46A2 = kariyer_secim(careerSelectionLastResult[0], 25, "s7_" + decision_strategyData.sectorName + "_x_1", language);
-      allVariables.P46A3 = kariyer_secim(careerSelectionLastResult[0], 25, "s7_" + decision_strategyData.sectorName + "_x_3", language);
-      allVariables.P46A4 = kariyer_secim(careerSelectionLastResult[0], 25, "s7_" + decision_strategyData.sectorName + "_x_4", language);
-      allVariables.P46A5 = kariyer_secim(careerSelectionLastResult[0], 25, "s7_" + decision_strategyData.sectorName + "_x_5", language);
-      allVariables.P46A6 = kariyer_secim(careerSelectionLastResult[0], 25, "s7_" + decision_strategyData.sectorName + "_x_6", language);
-      allVariables.P46A7 = kariyer_secim(careerSelectionLastResult[0], 25, "s7_" + decision_strategyData.sectorName + "_x_7", language);
-      allVariables.P46A8 = kariyer_secim(careerSelectionLastResult[1], 25, "s7_" + decision_strategyData.sectorName + "_x_1", language);
-      allVariables.P46A9 = kariyer_secim(careerSelectionLastResult[1], 25, "s7_" + decision_strategyData.sectorName + "_x_3", language);
-      allVariables.P46A10 = kariyer_secim(careerSelectionLastResult[1], 25, "s7_" + decision_strategyData.sectorName + "_x_4", language);
-      allVariables.P46A11 = kariyer_secim(careerSelectionLastResult[1], 25, "s7_" + decision_strategyData.sectorName + "_x_5", language);
-      allVariables.P46A12 = kariyer_secim(careerSelectionLastResult[1], 25, "s7_" + decision_strategyData.sectorName + "_x_6", language);
-      allVariables.P46A13 = kariyer_secim(careerSelectionLastResult[1], 25, "s7_" + decision_strategyData.sectorName + "_x_7", language);
-      allVariables.P46A14 = kariyer_secim(careerSelectionLastResult[2], 25, "s7_" + decision_strategyData.sectorName + "_x_1", language);
-      allVariables.P46A15 = kariyer_secim(careerSelectionLastResult[2], 25, "s7_" + decision_strategyData.sectorName + "_x_3", language);
-      allVariables.P46A16 = kariyer_secim(careerSelectionLastResult[2], 25, "s7_" + decision_strategyData.sectorName + "_x_4", language);
-      allVariables.P46A17 = kariyer_secim(careerSelectionLastResult[2], 25, "s7_" + decision_strategyData.sectorName + "_x_5", language);
-      allVariables.P46A18 = kariyer_secim(careerSelectionLastResult[2], 25, "s7_" + decision_strategyData.sectorName + "_x_6", language);
-      allVariables.P46A19 = kariyer_secim(careerSelectionLastResult[2], 25, "s7_" + decision_strategyData.sectorName + "_x_7", language);
+      allVariables.P46A1 = kariyer_secim(decision_strategyData.sectorName, age, "sector", language); // Sana En uygun kariyer seçenekleri
+      allVariables.P46A2 = kariyer_secim(careerSelectionLastResult[0], age, "s7_" + decision_strategyData.sectorName + "_x_1", language);
+      allVariables.P46A3 = kariyer_secim(careerSelectionLastResult[0], age, "s7_" + decision_strategyData.sectorName + "_x_3", language);
+      allVariables.P46A4 = kariyer_secim(careerSelectionLastResult[0], age, "s7_" + decision_strategyData.sectorName + "_x_4", language);
+      allVariables.P46A5 = kariyer_secim(careerSelectionLastResult[0], age, "s7_" + decision_strategyData.sectorName + "_x_5", language);
+      allVariables.P46A6 = kariyer_secim(careerSelectionLastResult[0], age, "s7_" + decision_strategyData.sectorName + "_x_6", language);
+      allVariables.P46A7 = kariyer_secim(careerSelectionLastResult[0], age, "s7_" + decision_strategyData.sectorName + "_x_7", language);
+      allVariables.P46A8 = kariyer_secim(careerSelectionLastResult[1], age, "s7_" + decision_strategyData.sectorName + "_x_1", language);
+      allVariables.P46A9 = kariyer_secim(careerSelectionLastResult[1], age, "s7_" + decision_strategyData.sectorName + "_x_3", language);
+      allVariables.P46A10 = kariyer_secim(careerSelectionLastResult[1], age, "s7_" + decision_strategyData.sectorName + "_x_4", language);
+      allVariables.P46A11 = kariyer_secim(careerSelectionLastResult[1], age, "s7_" + decision_strategyData.sectorName + "_x_5", language);
+      allVariables.P46A12 = kariyer_secim(careerSelectionLastResult[1], age, "s7_" + decision_strategyData.sectorName + "_x_6", language);
+      allVariables.P46A13 = kariyer_secim(careerSelectionLastResult[1], age, "s7_" + decision_strategyData.sectorName + "_x_7", language);
+      allVariables.P46A14 = kariyer_secim(careerSelectionLastResult[2], age, "s7_" + decision_strategyData.sectorName + "_x_1", language);
+      allVariables.P46A15 = kariyer_secim(careerSelectionLastResult[2], age, "s7_" + decision_strategyData.sectorName + "_x_3", language);
+      allVariables.P46A16 = kariyer_secim(careerSelectionLastResult[2], age, "s7_" + decision_strategyData.sectorName + "_x_4", language);
+      allVariables.P46A17 = kariyer_secim(careerSelectionLastResult[2], age, "s7_" + decision_strategyData.sectorName + "_x_5", language);
+      allVariables.P46A18 = kariyer_secim(careerSelectionLastResult[2], age, "s7_" + decision_strategyData.sectorName + "_x_6", language);
+      allVariables.P46A19 = kariyer_secim(careerSelectionLastResult[2], age, "s7_" + decision_strategyData.sectorName + "_x_7", language);
   
       allVariables.P48A1 = dearName;
   
@@ -11672,91 +11869,91 @@ var decision_strategy_eng_s4_11_txt = "By adhering to this decision-making strat
   
       allVariables,
   
-      allVariables.P30A1 = guclu_yanlarin(guclu_yanlarinData[0], 25, guclu_yanlarinData[0].name + "_1", language); 
-      allVariables.P30A2 = guclu_yanlarin(guclu_yanlarinData[0], 25, guclu_yanlarinData[0].name + "_2", language); 
+      allVariables.P30A1 = guclu_yanlarin(guclu_yanlarinData[0], age, guclu_yanlarinData[0].name + "_1", language); 
+      allVariables.P30A2 = guclu_yanlarin(guclu_yanlarinData[0], age, guclu_yanlarinData[0].name + "_2", language); 
   
-      allVariables.P31A1 = guclu_yanlarin(guclu_yanlarinData[1], 25, guclu_yanlarinData[1].name + "_1", language);
-      allVariables.P31A2 = guclu_yanlarin(guclu_yanlarinData[1], 25, guclu_yanlarinData[1].name + "_2", language);
+      allVariables.P31A1 = guclu_yanlarin(guclu_yanlarinData[1], age, guclu_yanlarinData[1].name + "_1", language);
+      allVariables.P31A2 = guclu_yanlarin(guclu_yanlarinData[1], age, guclu_yanlarinData[1].name + "_2", language);
   
-      allVariables.P32A1 = guclu_yanlarin(guclu_yanlarinData[2], 25, guclu_yanlarinData[2].name + "_1", language);
-      allVariables.P32A2 = guclu_yanlarin(guclu_yanlarinData[2], 25, guclu_yanlarinData[2].name + "_2", language);
+      allVariables.P32A1 = guclu_yanlarin(guclu_yanlarinData[2], age, guclu_yanlarinData[2].name + "_1", language);
+      allVariables.P32A2 = guclu_yanlarin(guclu_yanlarinData[2], age, guclu_yanlarinData[2].name + "_2", language);
   
-      allVariables.P33A1 = guclu_yanlarin(guclu_yanlarinData[3], 25, guclu_yanlarinData[3].name + "_1", language);
-      allVariables.P33A2 = guclu_yanlarin(guclu_yanlarinData[3], 25, guclu_yanlarinData[3].name + "_2", language);
+      allVariables.P33A1 = guclu_yanlarin(guclu_yanlarinData[3], age, guclu_yanlarinData[3].name + "_1", language);
+      allVariables.P33A2 = guclu_yanlarin(guclu_yanlarinData[3], age, guclu_yanlarinData[3].name + "_2", language);
   
-      allVariables.P34A1 = guclu_yanlarin(guclu_yanlarinData[4], 25, guclu_yanlarinData[4].name + "_1", language);
-      allVariables.P34A2 = guclu_yanlarin(guclu_yanlarinData[4], 25, guclu_yanlarinData[4].name + "_2", language);
+      allVariables.P34A1 = guclu_yanlarin(guclu_yanlarinData[4], age, guclu_yanlarinData[4].name + "_1", language);
+      allVariables.P34A2 = guclu_yanlarin(guclu_yanlarinData[4], age, guclu_yanlarinData[4].name + "_2", language);
   
-      allVariables.P35A1 = guclu_yanlarin(guclu_yanlarinData[5], 25, guclu_yanlarinData[5].name + "_1", language);
-      allVariables.P35A2 = guclu_yanlarin(guclu_yanlarinData[5], 25, guclu_yanlarinData[5].name + "_2", language);
+      allVariables.P35A1 = guclu_yanlarin(guclu_yanlarinData[5], age, guclu_yanlarinData[5].name + "_1", language);
+      allVariables.P35A2 = guclu_yanlarin(guclu_yanlarinData[5], age, guclu_yanlarinData[5].name + "_2", language);
   
-      allVariables.P36A1 = guclu_yanlarin(guclu_yanlarinData[6], 25, guclu_yanlarinData[6].name + "_1", language);
-      allVariables.P36A2 = guclu_yanlarin(guclu_yanlarinData[6], 25, guclu_yanlarinData[6].name + "_2", language);
+      allVariables.P36A1 = guclu_yanlarin(guclu_yanlarinData[6], age, guclu_yanlarinData[6].name + "_1", language);
+      allVariables.P36A2 = guclu_yanlarin(guclu_yanlarinData[6], age, guclu_yanlarinData[6].name + "_2", language);
   
-      allVariables.P37A1 = guclu_yanlarin(guclu_yanlarinData[7], 25, guclu_yanlarinData[7].name + "_1", language);
-      allVariables.P37A2 = guclu_yanlarin(guclu_yanlarinData[7], 25, guclu_yanlarinData[7].name + "_2", language);
+      allVariables.P37A1 = guclu_yanlarin(guclu_yanlarinData[7], age, guclu_yanlarinData[7].name + "_1", language);
+      allVariables.P37A2 = guclu_yanlarin(guclu_yanlarinData[7], age, guclu_yanlarinData[7].name + "_2", language);
     
-      allVariables.P38A1 = guclu_yanlarin(guclu_yanlarinData[8], 25, guclu_yanlarinData[8].name + "_1", language);
-      allVariables.P38A2 = guclu_yanlarin(guclu_yanlarinData[8], 25, guclu_yanlarinData[8].name + "_2", language);
+      allVariables.P38A1 = guclu_yanlarin(guclu_yanlarinData[8], age, guclu_yanlarinData[8].name + "_1", language);
+      allVariables.P38A2 = guclu_yanlarin(guclu_yanlarinData[8], age, guclu_yanlarinData[8].name + "_2", language);
       
-      allVariables.P41A1 = decision_strategy(decision_strategyData, 25, "name", language); // Senin Karar Verme Stratejin
-      allVariables.P41A2 = decision_strategy(decision_strategyData, 25, "s3_x_2", language);
+      allVariables.P41A1 = decision_strategy(decision_strategyData, age, "name", language); // Senin Karar Verme Stratejin
+      allVariables.P41A2 = decision_strategy(decision_strategyData, age, "s3_x_2", language);
       allVariables.P41A3 = kararVermeStratejin1;
-      allVariables.P41A4 = decision_strategy(decision_strategyData, 25, "s3_x_3", language);
-      allVariables.P41A5 = decision_strategy(decision_strategyData, 25, "s3_x_4", language);
+      allVariables.P41A4 = decision_strategy(decision_strategyData, age, "s3_x_3", language);
+      allVariables.P41A5 = decision_strategy(decision_strategyData, age, "s3_x_4", language);
   
       allVariables.P42A1 = kararVermeStratejin2;
-      allVariables.P42A2 = decision_strategy(decision_strategyData, 25, "s4_x_text", language);
+      allVariables.P42A2 = decision_strategy(decision_strategyData, age, "s4_x_text", language);
       allVariables.P42A3 = kararVermeStratejin3;
-      allVariables.P42A4 = decision_strategy(decision_strategyData, 25, "s4_x_1", language);
-      allVariables.P42A5 = decision_strategy(decision_strategyData, 25, "s4_x_txt", language);
-      allVariables.P42A6 = decision_strategy(decision_strategyData, 25, "image", language);
+      allVariables.P42A4 = decision_strategy(decision_strategyData, age, "s4_x_1", language);
+      allVariables.P42A5 = decision_strategy(decision_strategyData, age, "s4_x_txt", language);
+      allVariables.P42A6 = decision_strategy(decision_strategyData, age, "image", language);
   
       allVariables.P43A1 = "image"; // Sana uygun kariyer dağılımların
-      allVariables.P43A2 = "1." + kariyer_secim(careerSelectionLastResult[0], 25, "name", language);
-      allVariables.P43A3 = "2." + kariyer_secim(careerSelectionLastResult[1], 25, "name", language);
-      allVariables.P43A4 = "3." + kariyer_secim(careerSelectionLastResult[2], 25, "name", language);
+      allVariables.P43A2 = "1." + kariyer_secim(careerSelectionLastResult[0], age, "name", language);
+      allVariables.P43A3 = "2." + kariyer_secim(careerSelectionLastResult[1], age, "name", language);
+      allVariables.P43A4 = "3." + kariyer_secim(careerSelectionLastResult[2], age, "name", language);
   
-      allVariables.P44A1 = kariyer_secim(careerSelectionLastResult[0], 25, "name", language);
-      allVariables.P44A2 = kariyer_secim(careerSelectionLastResult[0], 25, "s2_x_2", language);
-      allVariables.P44A3 = kariyer_secim(careerSelectionLastResult[1], 25, "name", language);
-      allVariables.P44A4 = kariyer_secim(careerSelectionLastResult[1], 25, "s2_x_2", language);
-      allVariables.P44A5 = kariyer_secim(careerSelectionLastResult[2], 25, "name", language);
-      allVariables.P44A6 = kariyer_secim(careerSelectionLastResult[2], 25, "s2_x_2", language);
+      allVariables.P44A1 = kariyer_secim(careerSelectionLastResult[0], age, "name", language);
+      allVariables.P44A2 = kariyer_secim(careerSelectionLastResult[0], age, "s2_x_2", language);
+      allVariables.P44A3 = kariyer_secim(careerSelectionLastResult[1], age, "name", language);
+      allVariables.P44A4 = kariyer_secim(careerSelectionLastResult[1], age, "s2_x_2", language);
+      allVariables.P44A5 = kariyer_secim(careerSelectionLastResult[2], age, "name", language);
+      allVariables.P44A6 = kariyer_secim(careerSelectionLastResult[2], age, "s2_x_2", language);
   
-      allVariables.P45A1 = kariyer_secim(careerSelectionLastResult[0], 25, "name", language); // Sana En uygun kariyer Seçenekleri Genel Sektörler
-      allVariables.P45A2 = kariyer_secim(careerSelectionLastResult[1], 25, "name", language);
-      allVariables.P45A3 = kariyer_secim(careerSelectionLastResult[2], 25, "name", language);
-      allVariables.P45A4 = kariyer_secim(careerSelectionLastResult[0], 25, "s3_x_1", language); // Güncel İşler
-      allVariables.P45A5 = kariyer_secim(careerSelectionLastResult[1], 25, "s3_x_1", language);
-      allVariables.P45A6 = kariyer_secim(careerSelectionLastResult[2], 25, "s3_x_1", language);
+      allVariables.P45A1 = kariyer_secim(careerSelectionLastResult[0], age, "name", language); // Sana En uygun kariyer Seçenekleri Genel Sektörler
+      allVariables.P45A2 = kariyer_secim(careerSelectionLastResult[1], age, "name", language);
+      allVariables.P45A3 = kariyer_secim(careerSelectionLastResult[2], age, "name", language);
+      allVariables.P45A4 = kariyer_secim(careerSelectionLastResult[0], age, "s3_x_1", language); // Güncel İşler
+      allVariables.P45A5 = kariyer_secim(careerSelectionLastResult[1], age, "s3_x_1", language);
+      allVariables.P45A6 = kariyer_secim(careerSelectionLastResult[2], age, "s3_x_1", language);
   
-      allVariables.P46A1 = kariyer_secim(careerSelectionLastResult[0], 25, "name", language);
-      allVariables.P46A2 = kariyer_secim(careerSelectionLastResult[1], 25, "name", language);
-      allVariables.P46A3 = kariyer_secim(careerSelectionLastResult[2], 25, "name", language);
-      allVariables.P46A4 = kariyer_secim(careerSelectionLastResult[0], 25, "s4_x_1", language); // Geleceğin İşleri
-      allVariables.P46A5 = kariyer_secim(careerSelectionLastResult[1], 25, "s4_x_1", language);
-      allVariables.P46A6 = kariyer_secim(careerSelectionLastResult[2], 25, "s4_x_1", language);
+      allVariables.P46A1 = kariyer_secim(careerSelectionLastResult[0], age, "name", language);
+      allVariables.P46A2 = kariyer_secim(careerSelectionLastResult[1], age, "name", language);
+      allVariables.P46A3 = kariyer_secim(careerSelectionLastResult[2], age, "name", language);
+      allVariables.P46A4 = kariyer_secim(careerSelectionLastResult[0], age, "s4_x_1", language); // Geleceğin İşleri
+      allVariables.P46A5 = kariyer_secim(careerSelectionLastResult[1], age, "s4_x_1", language);
+      allVariables.P46A6 = kariyer_secim(careerSelectionLastResult[2], age, "s4_x_1", language);
   
-      allVariables.P47A1 = kariyer_secim(decision_strategyData.sectorName, 25, "sector", language); // Sana En uygun kariyer seçenekleri
-      allVariables.P47A2 = kariyer_secim(careerSelectionLastResult[0], 25, "s7_" + decision_strategyData.sectorName + "_x_1", language);
-      allVariables.P47A3 = kariyer_secim(careerSelectionLastResult[0], 25, "s7_" + decision_strategyData.sectorName + "_x_3", language);
-      allVariables.P47A4 = kariyer_secim(careerSelectionLastResult[0], 25, "s7_" + decision_strategyData.sectorName + "_x_4", language);
-      allVariables.P47A5 = kariyer_secim(careerSelectionLastResult[0], 25, "s7_" + decision_strategyData.sectorName + "_x_5", language);
-      allVariables.P47A6 = kariyer_secim(careerSelectionLastResult[0], 25, "s7_" + decision_strategyData.sectorName + "_x_6", language);
-      allVariables.P47A7 = kariyer_secim(careerSelectionLastResult[0], 25, "s7_" + decision_strategyData.sectorName + "_x_7", language);
-      allVariables.P47A8 = kariyer_secim(careerSelectionLastResult[1], 25, "s7_" + decision_strategyData.sectorName + "_x_1", language);
-      allVariables.P47A9 = kariyer_secim(careerSelectionLastResult[1], 25, "s7_" + decision_strategyData.sectorName + "_x_3", language);
-      allVariables.P47A10 = kariyer_secim(careerSelectionLastResult[1], 25, "s7_" + decision_strategyData.sectorName + "_x_4", language);
-      allVariables.P47A11 = kariyer_secim(careerSelectionLastResult[1], 25, "s7_" + decision_strategyData.sectorName + "_x_5", language);
-      allVariables.P47A12 = kariyer_secim(careerSelectionLastResult[1], 25, "s7_" + decision_strategyData.sectorName + "_x_6", language);
-      allVariables.P47A13 = kariyer_secim(careerSelectionLastResult[1], 25, "s7_" + decision_strategyData.sectorName + "_x_7", language);
-      allVariables.P47A14 = kariyer_secim(careerSelectionLastResult[2], 25, "s7_" + decision_strategyData.sectorName + "_x_1", language);
-      allVariables.P47A15 = kariyer_secim(careerSelectionLastResult[2], 25, "s7_" + decision_strategyData.sectorName + "_x_3", language);
-      allVariables.P47A16 = kariyer_secim(careerSelectionLastResult[2], 25, "s7_" + decision_strategyData.sectorName + "_x_4", language);
-      allVariables.P47A17 = kariyer_secim(careerSelectionLastResult[2], 25, "s7_" + decision_strategyData.sectorName + "_x_5", language);
-      allVariables.P47A18 = kariyer_secim(careerSelectionLastResult[2], 25, "s7_" + decision_strategyData.sectorName + "_x_6", language);
-      allVariables.P47A19 = kariyer_secim(careerSelectionLastResult[2], 25, "s7_" + decision_strategyData.sectorName + "_x_7", language);
+      allVariables.P47A1 = kariyer_secim(decision_strategyData.sectorName, age, "sector", language); // Sana En uygun kariyer seçenekleri
+      allVariables.P47A2 = kariyer_secim(careerSelectionLastResult[0], age, "s7_" + decision_strategyData.sectorName + "_x_1", language);
+      allVariables.P47A3 = kariyer_secim(careerSelectionLastResult[0], age, "s7_" + decision_strategyData.sectorName + "_x_3", language);
+      allVariables.P47A4 = kariyer_secim(careerSelectionLastResult[0], age, "s7_" + decision_strategyData.sectorName + "_x_4", language);
+      allVariables.P47A5 = kariyer_secim(careerSelectionLastResult[0], age, "s7_" + decision_strategyData.sectorName + "_x_5", language);
+      allVariables.P47A6 = kariyer_secim(careerSelectionLastResult[0], age, "s7_" + decision_strategyData.sectorName + "_x_6", language);
+      allVariables.P47A7 = kariyer_secim(careerSelectionLastResult[0], age, "s7_" + decision_strategyData.sectorName + "_x_7", language);
+      allVariables.P47A8 = kariyer_secim(careerSelectionLastResult[1], age, "s7_" + decision_strategyData.sectorName + "_x_1", language);
+      allVariables.P47A9 = kariyer_secim(careerSelectionLastResult[1], age, "s7_" + decision_strategyData.sectorName + "_x_3", language);
+      allVariables.P47A10 = kariyer_secim(careerSelectionLastResult[1], age, "s7_" + decision_strategyData.sectorName + "_x_4", language);
+      allVariables.P47A11 = kariyer_secim(careerSelectionLastResult[1], age, "s7_" + decision_strategyData.sectorName + "_x_5", language);
+      allVariables.P47A12 = kariyer_secim(careerSelectionLastResult[1], age, "s7_" + decision_strategyData.sectorName + "_x_6", language);
+      allVariables.P47A13 = kariyer_secim(careerSelectionLastResult[1], age, "s7_" + decision_strategyData.sectorName + "_x_7", language);
+      allVariables.P47A14 = kariyer_secim(careerSelectionLastResult[2], age, "s7_" + decision_strategyData.sectorName + "_x_1", language);
+      allVariables.P47A15 = kariyer_secim(careerSelectionLastResult[2], age, "s7_" + decision_strategyData.sectorName + "_x_3", language);
+      allVariables.P47A16 = kariyer_secim(careerSelectionLastResult[2], age, "s7_" + decision_strategyData.sectorName + "_x_4", language);
+      allVariables.P47A17 = kariyer_secim(careerSelectionLastResult[2], age, "s7_" + decision_strategyData.sectorName + "_x_5", language);
+      allVariables.P47A18 = kariyer_secim(careerSelectionLastResult[2], age, "s7_" + decision_strategyData.sectorName + "_x_6", language);
+      allVariables.P47A19 = kariyer_secim(careerSelectionLastResult[2], age, "s7_" + decision_strategyData.sectorName + "_x_7", language);
   
       allVariables.P49A1 = dearName;
   
@@ -11849,94 +12046,94 @@ var decision_strategy_eng_s4_11_txt = "By adhering to this decision-making strat
   
       allVariables,
   
-      allVariables.P30A1 = guclu_yanlarin(guclu_yanlarinData[0], 25, guclu_yanlarinData[0].name + "_1", language); 
-      allVariables.P30A2 = guclu_yanlarin(guclu_yanlarinData[0], 25, guclu_yanlarinData[0].name + "_2", language); 
+      allVariables.P30A1 = guclu_yanlarin(guclu_yanlarinData[0], age, guclu_yanlarinData[0].name + "_1", language); 
+      allVariables.P30A2 = guclu_yanlarin(guclu_yanlarinData[0], age, guclu_yanlarinData[0].name + "_2", language); 
   
-      allVariables.P31A1 = guclu_yanlarin(guclu_yanlarinData[1], 25, guclu_yanlarinData[1].name + "_1", language);
-      allVariables.P31A2 = guclu_yanlarin(guclu_yanlarinData[1], 25, guclu_yanlarinData[1].name + "_2", language);
+      allVariables.P31A1 = guclu_yanlarin(guclu_yanlarinData[1], age, guclu_yanlarinData[1].name + "_1", language);
+      allVariables.P31A2 = guclu_yanlarin(guclu_yanlarinData[1], age, guclu_yanlarinData[1].name + "_2", language);
   
-      allVariables.P32A1 = guclu_yanlarin(guclu_yanlarinData[2], 25, guclu_yanlarinData[2].name + "_1", language);
-      allVariables.P32A2 = guclu_yanlarin(guclu_yanlarinData[2], 25, guclu_yanlarinData[2].name + "_2", language);
+      allVariables.P32A1 = guclu_yanlarin(guclu_yanlarinData[2], age, guclu_yanlarinData[2].name + "_1", language);
+      allVariables.P32A2 = guclu_yanlarin(guclu_yanlarinData[2], age, guclu_yanlarinData[2].name + "_2", language);
   
-      allVariables.P33A1 = guclu_yanlarin(guclu_yanlarinData[3], 25, guclu_yanlarinData[3].name + "_1", language);
-      allVariables.P33A2 = guclu_yanlarin(guclu_yanlarinData[3], 25, guclu_yanlarinData[3].name + "_2", language);
+      allVariables.P33A1 = guclu_yanlarin(guclu_yanlarinData[3], age, guclu_yanlarinData[3].name + "_1", language);
+      allVariables.P33A2 = guclu_yanlarin(guclu_yanlarinData[3], age, guclu_yanlarinData[3].name + "_2", language);
   
-      allVariables.P34A1 = guclu_yanlarin(guclu_yanlarinData[4], 25, guclu_yanlarinData[4].name + "_1", language);
-      allVariables.P34A2 = guclu_yanlarin(guclu_yanlarinData[4], 25, guclu_yanlarinData[4].name + "_2", language);
+      allVariables.P34A1 = guclu_yanlarin(guclu_yanlarinData[4], age, guclu_yanlarinData[4].name + "_1", language);
+      allVariables.P34A2 = guclu_yanlarin(guclu_yanlarinData[4], age, guclu_yanlarinData[4].name + "_2", language);
   
-      allVariables.P35A1 = guclu_yanlarin(guclu_yanlarinData[5], 25, guclu_yanlarinData[5].name + "_1", language);
-      allVariables.P35A2 = guclu_yanlarin(guclu_yanlarinData[5], 25, guclu_yanlarinData[5].name + "_2", language);
+      allVariables.P35A1 = guclu_yanlarin(guclu_yanlarinData[5], age, guclu_yanlarinData[5].name + "_1", language);
+      allVariables.P35A2 = guclu_yanlarin(guclu_yanlarinData[5], age, guclu_yanlarinData[5].name + "_2", language);
   
-      allVariables.P36A1 = guclu_yanlarin(guclu_yanlarinData[6], 25, guclu_yanlarinData[6].name + "_1", language);
-      allVariables.P36A2 = guclu_yanlarin(guclu_yanlarinData[6], 25, guclu_yanlarinData[6].name + "_2", language);
+      allVariables.P36A1 = guclu_yanlarin(guclu_yanlarinData[6], age, guclu_yanlarinData[6].name + "_1", language);
+      allVariables.P36A2 = guclu_yanlarin(guclu_yanlarinData[6], age, guclu_yanlarinData[6].name + "_2", language);
   
-      allVariables.P37A1 = guclu_yanlarin(guclu_yanlarinData[7], 25, guclu_yanlarinData[7].name + "_1", language);
-      allVariables.P37A2 = guclu_yanlarin(guclu_yanlarinData[7], 25, guclu_yanlarinData[7].name + "_2", language);
+      allVariables.P37A1 = guclu_yanlarin(guclu_yanlarinData[7], age, guclu_yanlarinData[7].name + "_1", language);
+      allVariables.P37A2 = guclu_yanlarin(guclu_yanlarinData[7], age, guclu_yanlarinData[7].name + "_2", language);
   
-      allVariables.P38A1 = guclu_yanlarin(guclu_yanlarinData[8], 25, guclu_yanlarinData[8].name + "_1", language);
-      allVariables.P38A2 = guclu_yanlarin(guclu_yanlarinData[8], 25, guclu_yanlarinData[8].name + "_2", language);
+      allVariables.P38A1 = guclu_yanlarin(guclu_yanlarinData[8], age, guclu_yanlarinData[8].name + "_1", language);
+      allVariables.P38A2 = guclu_yanlarin(guclu_yanlarinData[8], age, guclu_yanlarinData[8].name + "_2", language);
   
-      allVariables.P39A1 = guclu_yanlarin(guclu_yanlarinData[9], 25, guclu_yanlarinData[9].name + "_1", language);
-      allVariables.P39A2 = guclu_yanlarin(guclu_yanlarinData[9], 25, guclu_yanlarinData[9].name + "_2", language);
+      allVariables.P39A1 = guclu_yanlarin(guclu_yanlarinData[9], age, guclu_yanlarinData[9].name + "_1", language);
+      allVariables.P39A2 = guclu_yanlarin(guclu_yanlarinData[9], age, guclu_yanlarinData[9].name + "_2", language);
   
-      allVariables.P42A1 = decision_strategy(decision_strategyData, 25, "name", language); // Senin Karar Verme Stratejin
-      allVariables.P42A2 = decision_strategy(decision_strategyData, 25, "s3_x_2", language);
+      allVariables.P42A1 = decision_strategy(decision_strategyData, age, "name", language); // Senin Karar Verme Stratejin
+      allVariables.P42A2 = decision_strategy(decision_strategyData, age, "s3_x_2", language);
       allVariables.P42A3 = "İki Temel Unsur:";
-      allVariables.P42A4 = decision_strategy(decision_strategyData, 25, "s3_x_3", language);
-      allVariables.P42A5 = decision_strategy(decision_strategyData, 25, "s3_x_4", language);
+      allVariables.P42A4 = decision_strategy(decision_strategyData, age, "s3_x_3", language);
+      allVariables.P42A5 = decision_strategy(decision_strategyData, age, "s3_x_4", language);
   
       allVariables.P43A1 = "Karar Verme Stratejini Takip Etmek:";
-      allVariables.P43A2 = decision_strategy(decision_strategyData, 25, "s4_x_text", language);
+      allVariables.P43A2 = decision_strategy(decision_strategyData, age, "s4_x_text", language);
       allVariables.P43A3 = "Adımlar:";
-      allVariables.P43A4 = decision_strategy(decision_strategyData, 25, "s4_x_1", language);
-      allVariables.P43A5 = decision_strategy(decision_strategyData, 25, "s4_x_txt", language);
-      allVariables.P43A6 = decision_strategy(decision_strategyData, 25, "image", language);
+      allVariables.P43A4 = decision_strategy(decision_strategyData, age, "s4_x_1", language);
+      allVariables.P43A5 = decision_strategy(decision_strategyData, age, "s4_x_txt", language);
+      allVariables.P43A6 = decision_strategy(decision_strategyData, age, "image", language);
   
       allVariables.P44A1 = "image"; // Sana uygun kariyer dağılımların
-      allVariables.P44A2 = "1." + kariyer_secim(careerSelectionLastResult[0], 25, "name", language);
-      allVariables.P44A3 = "2." + kariyer_secim(careerSelectionLastResult[1], 25, "name", language);
-      allVariables.P44A4 = "3." + kariyer_secim(careerSelectionLastResult[2], 25, "name", language);
+      allVariables.P44A2 = "1." + kariyer_secim(careerSelectionLastResult[0], age, "name", language);
+      allVariables.P44A3 = "2." + kariyer_secim(careerSelectionLastResult[1], age, "name", language);
+      allVariables.P44A4 = "3." + kariyer_secim(careerSelectionLastResult[2], age, "name", language);
   
-      allVariables.P45A1 = kariyer_secim(careerSelectionLastResult[0], 25, "name", language);
-      allVariables.P45A2 = kariyer_secim(careerSelectionLastResult[0], 25, "s2_x_2", language);
-      allVariables.P45A3 = kariyer_secim(careerSelectionLastResult[1], 25, "name", language);
-      allVariables.P45A4 = kariyer_secim(careerSelectionLastResult[1], 25, "s2_x_2", language);
-      allVariables.P45A5 = kariyer_secim(careerSelectionLastResult[2], 25, "name", language);
-      allVariables.P45A6 = kariyer_secim(careerSelectionLastResult[2], 25, "s2_x_2", language);
+      allVariables.P45A1 = kariyer_secim(careerSelectionLastResult[0], age, "name", language);
+      allVariables.P45A2 = kariyer_secim(careerSelectionLastResult[0], age, "s2_x_2", language);
+      allVariables.P45A3 = kariyer_secim(careerSelectionLastResult[1], age, "name", language);
+      allVariables.P45A4 = kariyer_secim(careerSelectionLastResult[1], age, "s2_x_2", language);
+      allVariables.P45A5 = kariyer_secim(careerSelectionLastResult[2], age, "name", language);
+      allVariables.P45A6 = kariyer_secim(careerSelectionLastResult[2], age, "s2_x_2", language);
   
-      allVariables.P46A1 = kariyer_secim(careerSelectionLastResult[0], 25, "name", language); // Sana En uygun kariyer Seçenekleri Genel Sektörler
-      allVariables.P46A2 = kariyer_secim(careerSelectionLastResult[1], 25, "name", language);
-      allVariables.P46A3 = kariyer_secim(careerSelectionLastResult[2], 25, "name", language);
-      allVariables.P46A4 = kariyer_secim(careerSelectionLastResult[0], 25, "s3_x_1", language); // Güncel İşler
-      allVariables.P46A5 = kariyer_secim(careerSelectionLastResult[1], 25, "s3_x_1", language);
-      allVariables.P46A6 = kariyer_secim(careerSelectionLastResult[2], 25, "s3_x_1", language);
+      allVariables.P46A1 = kariyer_secim(careerSelectionLastResult[0], age, "name", language); // Sana En uygun kariyer Seçenekleri Genel Sektörler
+      allVariables.P46A2 = kariyer_secim(careerSelectionLastResult[1], age, "name", language);
+      allVariables.P46A3 = kariyer_secim(careerSelectionLastResult[2], age, "name", language);
+      allVariables.P46A4 = kariyer_secim(careerSelectionLastResult[0], age, "s3_x_1", language); // Güncel İşler
+      allVariables.P46A5 = kariyer_secim(careerSelectionLastResult[1], age, "s3_x_1", language);
+      allVariables.P46A6 = kariyer_secim(careerSelectionLastResult[2], age, "s3_x_1", language);
   
-      allVariables.P47A1 = kariyer_secim(careerSelectionLastResult[0], 25, "name", language);
-      allVariables.P47A2 = kariyer_secim(careerSelectionLastResult[1], 25, "name", language);
-      allVariables.P47A3 = kariyer_secim(careerSelectionLastResult[2], 25, "name", language);
-      allVariables.P47A4 = kariyer_secim(careerSelectionLastResult[0], 25, "s4_x_1", language); // Geleceğin İşleri
-      allVariables.P47A5 = kariyer_secim(careerSelectionLastResult[1], 25, "s4_x_1", language);
-      allVariables.P47A6 = kariyer_secim(careerSelectionLastResult[2], 25, "s4_x_1", language);
+      allVariables.P47A1 = kariyer_secim(careerSelectionLastResult[0], age, "name", language);
+      allVariables.P47A2 = kariyer_secim(careerSelectionLastResult[1], age, "name", language);
+      allVariables.P47A3 = kariyer_secim(careerSelectionLastResult[2], age, "name", language);
+      allVariables.P47A4 = kariyer_secim(careerSelectionLastResult[0], age, "s4_x_1", language); // Geleceğin İşleri
+      allVariables.P47A5 = kariyer_secim(careerSelectionLastResult[1], age, "s4_x_1", language);
+      allVariables.P47A6 = kariyer_secim(careerSelectionLastResult[2], age, "s4_x_1", language);
   
-      allVariables.P48A1 = kariyer_secim(decision_strategyData.sectorName, 25, "sector", language); // Sana En uygun kariyer seçenekleri
-      allVariables.P48A2 = kariyer_secim(careerSelectionLastResult[0], 25, "s7_" + decision_strategyData.sectorName + "_x_1", language);
-      allVariables.P48A3 = kariyer_secim(careerSelectionLastResult[0], 25, "s7_" + decision_strategyData.sectorName + "_x_3", language);
-      allVariables.P48A4 = kariyer_secim(careerSelectionLastResult[0], 25, "s7_" + decision_strategyData.sectorName + "_x_4", language);
-      allVariables.P48A5 = kariyer_secim(careerSelectionLastResult[0], 25, "s7_" + decision_strategyData.sectorName + "_x_5", language);
-      allVariables.P48A6 = kariyer_secim(careerSelectionLastResult[0], 25, "s7_" + decision_strategyData.sectorName + "_x_6", language);
-      allVariables.P48A7 = kariyer_secim(careerSelectionLastResult[0], 25, "s7_" + decision_strategyData.sectorName + "_x_7", language);
-      allVariables.P48A8 = kariyer_secim(careerSelectionLastResult[1], 25, "s7_" + decision_strategyData.sectorName + "_x_1", language);
-      allVariables.P48A9 = kariyer_secim(careerSelectionLastResult[1], 25, "s7_" + decision_strategyData.sectorName + "_x_3", language);
-      allVariables.P48A10 = kariyer_secim(careerSelectionLastResult[1], 25, "s7_" + decision_strategyData.sectorName + "_x_4", language);
-      allVariables.P48A11 = kariyer_secim(careerSelectionLastResult[1], 25, "s7_" + decision_strategyData.sectorName + "_x_5", language);
-      allVariables.P48A12 = kariyer_secim(careerSelectionLastResult[1], 25, "s7_" + decision_strategyData.sectorName + "_x_6", language);
-      allVariables.P48A13 = kariyer_secim(careerSelectionLastResult[1], 25, "s7_" + decision_strategyData.sectorName + "_x_7", language);
-      allVariables.P48A14 = kariyer_secim(careerSelectionLastResult[2], 25, "s7_" + decision_strategyData.sectorName + "_x_1", language);
-      allVariables.P48A15 = kariyer_secim(careerSelectionLastResult[2], 25, "s7_" + decision_strategyData.sectorName + "_x_3", language);
-      allVariables.P48A16 = kariyer_secim(careerSelectionLastResult[2], 25, "s7_" + decision_strategyData.sectorName + "_x_4", language);
-      allVariables.P48A17 = kariyer_secim(careerSelectionLastResult[2], 25, "s7_" + decision_strategyData.sectorName + "_x_5", language);
-      allVariables.P48A18 = kariyer_secim(careerSelectionLastResult[2], 25, "s7_" + decision_strategyData.sectorName + "_x_6", language);
-      allVariables.P48A19 = kariyer_secim(careerSelectionLastResult[2], 25, "s7_" + decision_strategyData.sectorName + "_x_7", language);
+      allVariables.P48A1 = kariyer_secim(decision_strategyData.sectorName, age, "sector", language); // Sana En uygun kariyer seçenekleri
+      allVariables.P48A2 = kariyer_secim(careerSelectionLastResult[0], age, "s7_" + decision_strategyData.sectorName + "_x_1", language);
+      allVariables.P48A3 = kariyer_secim(careerSelectionLastResult[0], age, "s7_" + decision_strategyData.sectorName + "_x_3", language);
+      allVariables.P48A4 = kariyer_secim(careerSelectionLastResult[0], age, "s7_" + decision_strategyData.sectorName + "_x_4", language);
+      allVariables.P48A5 = kariyer_secim(careerSelectionLastResult[0], age, "s7_" + decision_strategyData.sectorName + "_x_5", language);
+      allVariables.P48A6 = kariyer_secim(careerSelectionLastResult[0], age, "s7_" + decision_strategyData.sectorName + "_x_6", language);
+      allVariables.P48A7 = kariyer_secim(careerSelectionLastResult[0], age, "s7_" + decision_strategyData.sectorName + "_x_7", language);
+      allVariables.P48A8 = kariyer_secim(careerSelectionLastResult[1], age, "s7_" + decision_strategyData.sectorName + "_x_1", language);
+      allVariables.P48A9 = kariyer_secim(careerSelectionLastResult[1], age, "s7_" + decision_strategyData.sectorName + "_x_3", language);
+      allVariables.P48A10 = kariyer_secim(careerSelectionLastResult[1], age, "s7_" + decision_strategyData.sectorName + "_x_4", language);
+      allVariables.P48A11 = kariyer_secim(careerSelectionLastResult[1], age, "s7_" + decision_strategyData.sectorName + "_x_5", language);
+      allVariables.P48A12 = kariyer_secim(careerSelectionLastResult[1], age, "s7_" + decision_strategyData.sectorName + "_x_6", language);
+      allVariables.P48A13 = kariyer_secim(careerSelectionLastResult[1], age, "s7_" + decision_strategyData.sectorName + "_x_7", language);
+      allVariables.P48A14 = kariyer_secim(careerSelectionLastResult[2], age, "s7_" + decision_strategyData.sectorName + "_x_1", language);
+      allVariables.P48A15 = kariyer_secim(careerSelectionLastResult[2], age, "s7_" + decision_strategyData.sectorName + "_x_3", language);
+      allVariables.P48A16 = kariyer_secim(careerSelectionLastResult[2], age, "s7_" + decision_strategyData.sectorName + "_x_4", language);
+      allVariables.P48A17 = kariyer_secim(careerSelectionLastResult[2], age, "s7_" + decision_strategyData.sectorName + "_x_5", language);
+      allVariables.P48A18 = kariyer_secim(careerSelectionLastResult[2], age, "s7_" + decision_strategyData.sectorName + "_x_6", language);
+      allVariables.P48A19 = kariyer_secim(careerSelectionLastResult[2], age, "s7_" + decision_strategyData.sectorName + "_x_7", language);
   
       allVariables.P50A1 = "Sevgili " + Object.entries(rawData).find((x) => x[0] == "kisiselbilgi / isim")[1] + ","; // Sevgili Dinçer
   
@@ -12034,97 +12231,97 @@ var decision_strategy_eng_s4_11_txt = "By adhering to this decision-making strat
   
       allVariables,
   
-      allVariables.P30A1 = guclu_yanlarin(guclu_yanlarinData[0], 25, guclu_yanlarinData[0].name + "_1", language); 
-      allVariables.P30A2 = guclu_yanlarin(guclu_yanlarinData[0], 25, guclu_yanlarinData[0].name + "_2", language); 
+      allVariables.P30A1 = guclu_yanlarin(guclu_yanlarinData[0], age, guclu_yanlarinData[0].name + "_1", language); 
+      allVariables.P30A2 = guclu_yanlarin(guclu_yanlarinData[0], age, guclu_yanlarinData[0].name + "_2", language); 
       
-      allVariables.P31A1 = guclu_yanlarin(guclu_yanlarinData[1], 25, guclu_yanlarinData[1].name + "_1", language);
-      allVariables.P31A2 = guclu_yanlarin(guclu_yanlarinData[1], 25, guclu_yanlarinData[1].name + "_2", language);
+      allVariables.P31A1 = guclu_yanlarin(guclu_yanlarinData[1], age, guclu_yanlarinData[1].name + "_1", language);
+      allVariables.P31A2 = guclu_yanlarin(guclu_yanlarinData[1], age, guclu_yanlarinData[1].name + "_2", language);
   
-      allVariables.P32A1 = guclu_yanlarin(guclu_yanlarinData[2], 25, guclu_yanlarinData[2].name + "_1", language);
-      allVariables.P32A2 = guclu_yanlarin(guclu_yanlarinData[2], 25, guclu_yanlarinData[2].name + "_2", language);
+      allVariables.P32A1 = guclu_yanlarin(guclu_yanlarinData[2], age, guclu_yanlarinData[2].name + "_1", language);
+      allVariables.P32A2 = guclu_yanlarin(guclu_yanlarinData[2], age, guclu_yanlarinData[2].name + "_2", language);
   
-      allVariables.P33A1 = guclu_yanlarin(guclu_yanlarinData[3], 25, guclu_yanlarinData[3].name + "_1", language);
-      allVariables.P33A2 = guclu_yanlarin(guclu_yanlarinData[3], 25, guclu_yanlarinData[3].name + "_2", language);
+      allVariables.P33A1 = guclu_yanlarin(guclu_yanlarinData[3], age, guclu_yanlarinData[3].name + "_1", language);
+      allVariables.P33A2 = guclu_yanlarin(guclu_yanlarinData[3], age, guclu_yanlarinData[3].name + "_2", language);
   
-      allVariables.P34A1 = guclu_yanlarin(guclu_yanlarinData[4], 25, guclu_yanlarinData[4].name + "_1", language);
-      allVariables.P34A2 = guclu_yanlarin(guclu_yanlarinData[4], 25, guclu_yanlarinData[4].name + "_2", language);
+      allVariables.P34A1 = guclu_yanlarin(guclu_yanlarinData[4], age, guclu_yanlarinData[4].name + "_1", language);
+      allVariables.P34A2 = guclu_yanlarin(guclu_yanlarinData[4], age, guclu_yanlarinData[4].name + "_2", language);
   
-      allVariables.P35A1 = guclu_yanlarin(guclu_yanlarinData[5], 25, guclu_yanlarinData[5].name + "_1", language);
-      allVariables.P35A2 = guclu_yanlarin(guclu_yanlarinData[5], 25, guclu_yanlarinData[5].name + "_2", language);
+      allVariables.P35A1 = guclu_yanlarin(guclu_yanlarinData[5], age, guclu_yanlarinData[5].name + "_1", language);
+      allVariables.P35A2 = guclu_yanlarin(guclu_yanlarinData[5], age, guclu_yanlarinData[5].name + "_2", language);
   
-      allVariables.P36A1 = guclu_yanlarin(guclu_yanlarinData[6], 25, guclu_yanlarinData[6].name + "_1", language);
-      allVariables.P36A2 = guclu_yanlarin(guclu_yanlarinData[6], 25, guclu_yanlarinData[6].name + "_2", language);
+      allVariables.P36A1 = guclu_yanlarin(guclu_yanlarinData[6], age, guclu_yanlarinData[6].name + "_1", language);
+      allVariables.P36A2 = guclu_yanlarin(guclu_yanlarinData[6], age, guclu_yanlarinData[6].name + "_2", language);
   
-      allVariables.P37A1 = guclu_yanlarin(guclu_yanlarinData[7], 25, guclu_yanlarinData[7].name + "_1", language);
-      allVariables.P37A2 = guclu_yanlarin(guclu_yanlarinData[7], 25, guclu_yanlarinData[7].name + "_2", language);
+      allVariables.P37A1 = guclu_yanlarin(guclu_yanlarinData[7], age, guclu_yanlarinData[7].name + "_1", language);
+      allVariables.P37A2 = guclu_yanlarin(guclu_yanlarinData[7], age, guclu_yanlarinData[7].name + "_2", language);
   
-      allVariables.P38A1 = guclu_yanlarin(guclu_yanlarinData[8], 25, guclu_yanlarinData[8].name + "_1", language);
-      allVariables.P38A2 = guclu_yanlarin(guclu_yanlarinData[8], 25, guclu_yanlarinData[8].name + "_2", language);
+      allVariables.P38A1 = guclu_yanlarin(guclu_yanlarinData[8], age, guclu_yanlarinData[8].name + "_1", language);
+      allVariables.P38A2 = guclu_yanlarin(guclu_yanlarinData[8], age, guclu_yanlarinData[8].name + "_2", language);
   
-      allVariables.P39A1 = guclu_yanlarin(guclu_yanlarinData[9], 25, guclu_yanlarinData[9].name + "_1", language);
-      allVariables.P39A2 = guclu_yanlarin(guclu_yanlarinData[9], 25, guclu_yanlarinData[9].name + "_2", language);
+      allVariables.P39A1 = guclu_yanlarin(guclu_yanlarinData[9], age, guclu_yanlarinData[9].name + "_1", language);
+      allVariables.P39A2 = guclu_yanlarin(guclu_yanlarinData[9], age, guclu_yanlarinData[9].name + "_2", language);
   
-      allVariables.P40A1 = guclu_yanlarin(guclu_yanlarinData[10], 25, guclu_yanlarinData[10].name + "_1", language);
-      allVariables.P40A2 = guclu_yanlarin(guclu_yanlarinData[10], 25, guclu_yanlarinData[10].name + "_2", language);
+      allVariables.P40A1 = guclu_yanlarin(guclu_yanlarinData[10], age, guclu_yanlarinData[10].name + "_1", language);
+      allVariables.P40A2 = guclu_yanlarin(guclu_yanlarinData[10], age, guclu_yanlarinData[10].name + "_2", language);
   
-      allVariables.P43A1 = decision_strategy(decision_strategyData, 25, "name", language); // Senin Karar Verme Stratejin
-      allVariables.P43A2 = decision_strategy(decision_strategyData, 25, "s3_x_2", language);
+      allVariables.P43A1 = decision_strategy(decision_strategyData, age, "name", language); // Senin Karar Verme Stratejin
+      allVariables.P43A2 = decision_strategy(decision_strategyData, age, "s3_x_2", language);
       allVariables.P43A3 = kararVermeStratejin1;
-      allVariables.P43A4 = decision_strategy(decision_strategyData, 25, "s3_x_3", language);
-      allVariables.P43A5 = decision_strategy(decision_strategyData, 25, "s3_x_4", language);
+      allVariables.P43A4 = decision_strategy(decision_strategyData, age, "s3_x_3", language);
+      allVariables.P43A5 = decision_strategy(decision_strategyData, age, "s3_x_4", language);
   
       allVariables.P44A1 = kararVermeStratejin2;
-      allVariables.P44A2 = decision_strategy(decision_strategyData, 25, "s4_x_text", language);
+      allVariables.P44A2 = decision_strategy(decision_strategyData, age, "s4_x_text", language);
       allVariables.P44A3 = kararVermeStratejin3;
-      allVariables.P44A4 = decision_strategy(decision_strategyData, 25, "s4_x_1", language);
-      allVariables.P44A8 = decision_strategy(decision_strategyData, 25, "s4_x_txt", language);
-      allVariables.P44A9 = decision_strategy(decision_strategyData, 25, "image", language);
+      allVariables.P44A4 = decision_strategy(decision_strategyData, age, "s4_x_1", language);
+      allVariables.P44A8 = decision_strategy(decision_strategyData, age, "s4_x_txt", language);
+      allVariables.P44A9 = decision_strategy(decision_strategyData, age, "image", language);
   
       allVariables.P45A1 = "image"; // Sana uygun kariyer dağılımların
-      allVariables.P45A2 = "1." + kariyer_secim(careerSelectionLastResult[0], 25, "name", language);
-      allVariables.P45A3 = "2." + kariyer_secim(careerSelectionLastResult[1], 25, "name", language);
-      allVariables.P45A4 = "3." + kariyer_secim(careerSelectionLastResult[2], 25, "name", language);
+      allVariables.P45A2 = "1." + kariyer_secim(careerSelectionLastResult[0], age, "name", language);
+      allVariables.P45A3 = "2." + kariyer_secim(careerSelectionLastResult[1], age, "name", language);
+      allVariables.P45A4 = "3." + kariyer_secim(careerSelectionLastResult[2], age, "name", language);
   
-      allVariables.P46A1 = kariyer_secim(careerSelectionLastResult[0], 25, "name", language);
-      allVariables.P46A2 = kariyer_secim(careerSelectionLastResult[0], 25, "s2_x_2", language);
-      allVariables.P46A3 = kariyer_secim(careerSelectionLastResult[1], 25, "name", language);
-      allVariables.P46A4 = kariyer_secim(careerSelectionLastResult[1], 25, "s2_x_2", language);
-      allVariables.P46A5 = kariyer_secim(careerSelectionLastResult[2], 25, "name", language);
-      allVariables.P46A6 = kariyer_secim(careerSelectionLastResult[2], 25, "s2_x_2", language);
+      allVariables.P46A1 = kariyer_secim(careerSelectionLastResult[0], age, "name", language);
+      allVariables.P46A2 = kariyer_secim(careerSelectionLastResult[0], age, "s2_x_2", language);
+      allVariables.P46A3 = kariyer_secim(careerSelectionLastResult[1], age, "name", language);
+      allVariables.P46A4 = kariyer_secim(careerSelectionLastResult[1], age, "s2_x_2", language);
+      allVariables.P46A5 = kariyer_secim(careerSelectionLastResult[2], age, "name", language);
+      allVariables.P46A6 = kariyer_secim(careerSelectionLastResult[2], age, "s2_x_2", language);
   
-      allVariables.P47A1 = kariyer_secim(careerSelectionLastResult[0], 25, "name", language); // Sana En uygun kariyer Seçenekleri Genel Sektörler
-      allVariables.P47A2 = kariyer_secim(careerSelectionLastResult[1], 25, "name", language);
-      allVariables.P47A3 = kariyer_secim(careerSelectionLastResult[2], 25, "name", language);
-      allVariables.P47A4 = kariyer_secim(careerSelectionLastResult[0], 25, "s3_x_1", language); // Güncel İşler
-      allVariables.P47A5 = kariyer_secim(careerSelectionLastResult[1], 25, "s3_x_1", language);
-      allVariables.P47A6 = kariyer_secim(careerSelectionLastResult[2], 25, "s3_x_1", language);
+      allVariables.P47A1 = kariyer_secim(careerSelectionLastResult[0], age, "name", language); // Sana En uygun kariyer Seçenekleri Genel Sektörler
+      allVariables.P47A2 = kariyer_secim(careerSelectionLastResult[1], age, "name", language);
+      allVariables.P47A3 = kariyer_secim(careerSelectionLastResult[2], age, "name", language);
+      allVariables.P47A4 = kariyer_secim(careerSelectionLastResult[0], age, "s3_x_1", language); // Güncel İşler
+      allVariables.P47A5 = kariyer_secim(careerSelectionLastResult[1], age, "s3_x_1", language);
+      allVariables.P47A6 = kariyer_secim(careerSelectionLastResult[2], age, "s3_x_1", language);
   
-      allVariables.P48A1 = kariyer_secim(careerSelectionLastResult[0], 25, "name", language);
-      allVariables.P48A2 = kariyer_secim(careerSelectionLastResult[1], 25, "name", language);
-      allVariables.P48A3 = kariyer_secim(careerSelectionLastResult[2], 25, "name", language);
-      allVariables.P48A4 = kariyer_secim(careerSelectionLastResult[0], 25, "s4_x_1", language); // Geleceğin İşleri
-      allVariables.P48A5 = kariyer_secim(careerSelectionLastResult[1], 25, "s4_x_1", language);
-      allVariables.P48A6 = kariyer_secim(careerSelectionLastResult[2], 25, "s4_x_1", language);
+      allVariables.P48A1 = kariyer_secim(careerSelectionLastResult[0], age, "name", language);
+      allVariables.P48A2 = kariyer_secim(careerSelectionLastResult[1], age, "name", language);
+      allVariables.P48A3 = kariyer_secim(careerSelectionLastResult[2], age, "name", language);
+      allVariables.P48A4 = kariyer_secim(careerSelectionLastResult[0], age, "s4_x_1", language); // Geleceğin İşleri
+      allVariables.P48A5 = kariyer_secim(careerSelectionLastResult[1], age, "s4_x_1", language);
+      allVariables.P48A6 = kariyer_secim(careerSelectionLastResult[2], age, "s4_x_1", language);
   
-      allVariables.P49A1 = kariyer_secim(decision_strategyData.sectorName, 25, "sector", language); // Sana En uygun kariyer seçenekleri
-      allVariables.P49A2 = kariyer_secim(careerSelectionLastResult[0], 25, "s7_" + decision_strategyData.sectorName + "_x_1", language);
-      allVariables.P49A3 = kariyer_secim(careerSelectionLastResult[0], 25, "s7_" + decision_strategyData.sectorName + "_x_3", language);
-      allVariables.P49A4 = kariyer_secim(careerSelectionLastResult[0], 25, "s7_" + decision_strategyData.sectorName + "_x_4", language);
-      allVariables.P49A5 = kariyer_secim(careerSelectionLastResult[0], 25, "s7_" + decision_strategyData.sectorName + "_x_5", language);
-      allVariables.P49A6 = kariyer_secim(careerSelectionLastResult[0], 25, "s7_" + decision_strategyData.sectorName + "_x_6", language);
-      allVariables.P49A7 = kariyer_secim(careerSelectionLastResult[0], 25, "s7_" + decision_strategyData.sectorName + "_x_7", language);
-      allVariables.P49A8 = kariyer_secim(careerSelectionLastResult[1], 25, "s7_" + decision_strategyData.sectorName + "_x_1", language);
-      allVariables.P49A9 = kariyer_secim(careerSelectionLastResult[1], 25, "s7_" + decision_strategyData.sectorName + "_x_3", language);
-      allVariables.P49A10 = kariyer_secim(careerSelectionLastResult[1], 25, "s7_" + decision_strategyData.sectorName + "_x_4", language);
-      allVariables.P49A11 = kariyer_secim(careerSelectionLastResult[1], 25, "s7_" + decision_strategyData.sectorName + "_x_5", language);
-      allVariables.P49A12 = kariyer_secim(careerSelectionLastResult[1], 25, "s7_" + decision_strategyData.sectorName + "_x_6", language);
-      allVariables.P49A13 = kariyer_secim(careerSelectionLastResult[1], 25, "s7_" + decision_strategyData.sectorName + "_x_7", language);
-      allVariables.P49A14 = kariyer_secim(careerSelectionLastResult[2], 25, "s7_" + decision_strategyData.sectorName + "_x_1", language);
-      allVariables.P49A15 = kariyer_secim(careerSelectionLastResult[2], 25, "s7_" + decision_strategyData.sectorName + "_x_3", language);
-      allVariables.P49A16 = kariyer_secim(careerSelectionLastResult[2], 25, "s7_" + decision_strategyData.sectorName + "_x_4", language);
-      allVariables.P49A17 = kariyer_secim(careerSelectionLastResult[2], 25, "s7_" + decision_strategyData.sectorName + "_x_5", language);
-      allVariables.P49A18 = kariyer_secim(careerSelectionLastResult[2], 25, "s7_" + decision_strategyData.sectorName + "_x_6", language);
-      allVariables.P49A19 = kariyer_secim(careerSelectionLastResult[2], 25, "s7_" + decision_strategyData.sectorName + "_x_7", language);
+      allVariables.P49A1 = kariyer_secim(decision_strategyData.sectorName, age, "sector", language); // Sana En uygun kariyer seçenekleri
+      allVariables.P49A2 = kariyer_secim(careerSelectionLastResult[0], age, "s7_" + decision_strategyData.sectorName + "_x_1", language);
+      allVariables.P49A3 = kariyer_secim(careerSelectionLastResult[0], age, "s7_" + decision_strategyData.sectorName + "_x_3", language);
+      allVariables.P49A4 = kariyer_secim(careerSelectionLastResult[0], age, "s7_" + decision_strategyData.sectorName + "_x_4", language);
+      allVariables.P49A5 = kariyer_secim(careerSelectionLastResult[0], age, "s7_" + decision_strategyData.sectorName + "_x_5", language);
+      allVariables.P49A6 = kariyer_secim(careerSelectionLastResult[0], age, "s7_" + decision_strategyData.sectorName + "_x_6", language);
+      allVariables.P49A7 = kariyer_secim(careerSelectionLastResult[0], age, "s7_" + decision_strategyData.sectorName + "_x_7", language);
+      allVariables.P49A8 = kariyer_secim(careerSelectionLastResult[1], age, "s7_" + decision_strategyData.sectorName + "_x_1", language);
+      allVariables.P49A9 = kariyer_secim(careerSelectionLastResult[1], age, "s7_" + decision_strategyData.sectorName + "_x_3", language);
+      allVariables.P49A10 = kariyer_secim(careerSelectionLastResult[1], age, "s7_" + decision_strategyData.sectorName + "_x_4", language);
+      allVariables.P49A11 = kariyer_secim(careerSelectionLastResult[1], age, "s7_" + decision_strategyData.sectorName + "_x_5", language);
+      allVariables.P49A12 = kariyer_secim(careerSelectionLastResult[1], age, "s7_" + decision_strategyData.sectorName + "_x_6", language);
+      allVariables.P49A13 = kariyer_secim(careerSelectionLastResult[1], age, "s7_" + decision_strategyData.sectorName + "_x_7", language);
+      allVariables.P49A14 = kariyer_secim(careerSelectionLastResult[2], age, "s7_" + decision_strategyData.sectorName + "_x_1", language);
+      allVariables.P49A15 = kariyer_secim(careerSelectionLastResult[2], age, "s7_" + decision_strategyData.sectorName + "_x_3", language);
+      allVariables.P49A16 = kariyer_secim(careerSelectionLastResult[2], age, "s7_" + decision_strategyData.sectorName + "_x_4", language);
+      allVariables.P49A17 = kariyer_secim(careerSelectionLastResult[2], age, "s7_" + decision_strategyData.sectorName + "_x_5", language);
+      allVariables.P49A18 = kariyer_secim(careerSelectionLastResult[2], age, "s7_" + decision_strategyData.sectorName + "_x_6", language);
+      allVariables.P49A19 = kariyer_secim(careerSelectionLastResult[2], age, "s7_" + decision_strategyData.sectorName + "_x_7", language);
   
       allVariables.P51A1 = dearName;
   
@@ -12226,100 +12423,100 @@ var decision_strategy_eng_s4_11_txt = "By adhering to this decision-making strat
   
       allVariables,
   
-      allVariables.P30A1 = guclu_yanlarin(guclu_yanlarinData[0], 25, guclu_yanlarinData[0].name + "_1", language); 
-      allVariables.P30A2 = guclu_yanlarin(guclu_yanlarinData[0], 25, guclu_yanlarinData[0].name + "_2", language); 
+      allVariables.P30A1 = guclu_yanlarin(guclu_yanlarinData[0], age, guclu_yanlarinData[0].name + "_1", language); 
+      allVariables.P30A2 = guclu_yanlarin(guclu_yanlarinData[0], age, guclu_yanlarinData[0].name + "_2", language); 
   
-      allVariables.P31A1 = guclu_yanlarin(guclu_yanlarinData[1], 25, guclu_yanlarinData[1].name + "_1", language);
-      allVariables.P31A2 = guclu_yanlarin(guclu_yanlarinData[1], 25, guclu_yanlarinData[1].name + "_2", language);
+      allVariables.P31A1 = guclu_yanlarin(guclu_yanlarinData[1], age, guclu_yanlarinData[1].name + "_1", language);
+      allVariables.P31A2 = guclu_yanlarin(guclu_yanlarinData[1], age, guclu_yanlarinData[1].name + "_2", language);
   
-      allVariables.P32A1 = guclu_yanlarin(guclu_yanlarinData[2], 25, guclu_yanlarinData[2].name + "_1", language);
-      allVariables.P32A2 = guclu_yanlarin(guclu_yanlarinData[2], 25, guclu_yanlarinData[2].name + "_2", language);
+      allVariables.P32A1 = guclu_yanlarin(guclu_yanlarinData[2], age, guclu_yanlarinData[2].name + "_1", language);
+      allVariables.P32A2 = guclu_yanlarin(guclu_yanlarinData[2], age, guclu_yanlarinData[2].name + "_2", language);
   
-      allVariables.P33A1 = guclu_yanlarin(guclu_yanlarinData[3], 25, guclu_yanlarinData[3].name + "_1", language);
-      allVariables.P33A2 = guclu_yanlarin(guclu_yanlarinData[3], 25, guclu_yanlarinData[3].name + "_2", language);
+      allVariables.P33A1 = guclu_yanlarin(guclu_yanlarinData[3], age, guclu_yanlarinData[3].name + "_1", language);
+      allVariables.P33A2 = guclu_yanlarin(guclu_yanlarinData[3], age, guclu_yanlarinData[3].name + "_2", language);
   
-      allVariables.P34A1 = guclu_yanlarin(guclu_yanlarinData[4], 25, guclu_yanlarinData[4].name + "_1", language);
-      allVariables.P34A2 = guclu_yanlarin(guclu_yanlarinData[4], 25, guclu_yanlarinData[4].name + "_2", language);
+      allVariables.P34A1 = guclu_yanlarin(guclu_yanlarinData[4], age, guclu_yanlarinData[4].name + "_1", language);
+      allVariables.P34A2 = guclu_yanlarin(guclu_yanlarinData[4], age, guclu_yanlarinData[4].name + "_2", language);
   
-      allVariables.P35A1 = guclu_yanlarin(guclu_yanlarinData[5], 25, guclu_yanlarinData[5].name + "_1", language);
-      allVariables.P35A2 = guclu_yanlarin(guclu_yanlarinData[5], 25, guclu_yanlarinData[5].name + "_2", language);
+      allVariables.P35A1 = guclu_yanlarin(guclu_yanlarinData[5], age, guclu_yanlarinData[5].name + "_1", language);
+      allVariables.P35A2 = guclu_yanlarin(guclu_yanlarinData[5], age, guclu_yanlarinData[5].name + "_2", language);
   
-      allVariables.P36A1 = guclu_yanlarin(guclu_yanlarinData[6], 25, guclu_yanlarinData[6].name + "_1", language);
-      allVariables.P36A2 = guclu_yanlarin(guclu_yanlarinData[6], 25, guclu_yanlarinData[6].name + "_2", language);
+      allVariables.P36A1 = guclu_yanlarin(guclu_yanlarinData[6], age, guclu_yanlarinData[6].name + "_1", language);
+      allVariables.P36A2 = guclu_yanlarin(guclu_yanlarinData[6], age, guclu_yanlarinData[6].name + "_2", language);
   
-      allVariables.P37A1 = guclu_yanlarin(guclu_yanlarinData[7], 25, guclu_yanlarinData[7].name + "_1", language);
-      allVariables.P37A2 = guclu_yanlarin(guclu_yanlarinData[7], 25, guclu_yanlarinData[7].name + "_2", language);
+      allVariables.P37A1 = guclu_yanlarin(guclu_yanlarinData[7], age, guclu_yanlarinData[7].name + "_1", language);
+      allVariables.P37A2 = guclu_yanlarin(guclu_yanlarinData[7], age, guclu_yanlarinData[7].name + "_2", language);
   
-      allVariables.P38A1 = guclu_yanlarin(guclu_yanlarinData[8], 25, guclu_yanlarinData[8].name + "_1", language);
-      allVariables.P38A2 = guclu_yanlarin(guclu_yanlarinData[8], 25, guclu_yanlarinData[8].name + "_2", language);
+      allVariables.P38A1 = guclu_yanlarin(guclu_yanlarinData[8], age, guclu_yanlarinData[8].name + "_1", language);
+      allVariables.P38A2 = guclu_yanlarin(guclu_yanlarinData[8], age, guclu_yanlarinData[8].name + "_2", language);
   
-      allVariables.P39A1 = guclu_yanlarin(guclu_yanlarinData[9], 25, guclu_yanlarinData[9].name + "_1", language);
-      allVariables.P39A2 = guclu_yanlarin(guclu_yanlarinData[9], 25, guclu_yanlarinData[9].name + "_2", language);
+      allVariables.P39A1 = guclu_yanlarin(guclu_yanlarinData[9], age, guclu_yanlarinData[9].name + "_1", language);
+      allVariables.P39A2 = guclu_yanlarin(guclu_yanlarinData[9], age, guclu_yanlarinData[9].name + "_2", language);
   
-      allVariables.P40A1 = guclu_yanlarin(guclu_yanlarinData[10], 25, guclu_yanlarinData[10].name + "_1", language);
-      allVariables.P40A2 = guclu_yanlarin(guclu_yanlarinData[10], 25, guclu_yanlarinData[10].name + "_2", language);
+      allVariables.P40A1 = guclu_yanlarin(guclu_yanlarinData[10], age, guclu_yanlarinData[10].name + "_1", language);
+      allVariables.P40A2 = guclu_yanlarin(guclu_yanlarinData[10], age, guclu_yanlarinData[10].name + "_2", language);
   
-      allVariables.P41A1 = guclu_yanlarin(guclu_yanlarinData[11], 25, guclu_yanlarinData[11].name + "_1", language);
-      allVariables.P41A2 = guclu_yanlarin(guclu_yanlarinData[11], 25, guclu_yanlarinData[11].name + "_2", language);
+      allVariables.P41A1 = guclu_yanlarin(guclu_yanlarinData[11], age, guclu_yanlarinData[11].name + "_1", language);
+      allVariables.P41A2 = guclu_yanlarin(guclu_yanlarinData[11], age, guclu_yanlarinData[11].name + "_2", language);
   
-      allVariables.P44A1 = decision_strategy(decision_strategyData, 25, "name", language);
-      allVariables.P44A2 = decision_strategy(decision_strategyData, 25, "s3_x_2", language);
+      allVariables.P44A1 = decision_strategy(decision_strategyData, age, "name", language);
+      allVariables.P44A2 = decision_strategy(decision_strategyData, age, "s3_x_2", language);
       allVariables.P44A3 = kararVermeStratejin1;
-      allVariables.P44A4 = decision_strategy(decision_strategyData, 25, "s3_x_3", language);
-      allVariables.P44A5 = decision_strategy(decision_strategyData, 25, "s3_x_4", language);
+      allVariables.P44A4 = decision_strategy(decision_strategyData, age, "s3_x_3", language);
+      allVariables.P44A5 = decision_strategy(decision_strategyData, age, "s3_x_4", language);
   
       allVariables.P45A1 = kararVermeStratejin2;
-      allVariables.P45A2 = decision_strategy(decision_strategyData, 25, "s4_x_text", language);
+      allVariables.P45A2 = decision_strategy(decision_strategyData, age, "s4_x_text", language);
       allVariables.P45A3 = kararVermeStratejin3;
-      allVariables.P45A4 = decision_strategy(decision_strategyData, 25, "s4_x_1", language);
-      allVariables.P45A5 = decision_strategy(decision_strategyData, 25, "s4_x_txt", language);
-      allVariables.P45A6 = decision_strategy(decision_strategyData, 25, "image", language);
+      allVariables.P45A4 = decision_strategy(decision_strategyData, age, "s4_x_1", language);
+      allVariables.P45A5 = decision_strategy(decision_strategyData, age, "s4_x_txt", language);
+      allVariables.P45A6 = decision_strategy(decision_strategyData, age, "image", language);
   
       allVariables.P46A1 = "image"; // Sana uygun kariyer dağılımların
-      allVariables.P46A2 = "1." + kariyer_secim(careerSelectionLastResult[0], 25, "name", language);
-      allVariables.P46A3 = "2." + kariyer_secim(careerSelectionLastResult[1], 25, "name", language);
-      allVariables.P46A4 = "3." + kariyer_secim(careerSelectionLastResult[2], 25, "name", language);
+      allVariables.P46A2 = "1." + kariyer_secim(careerSelectionLastResult[0], age, "name", language);
+      allVariables.P46A3 = "2." + kariyer_secim(careerSelectionLastResult[1], age, "name", language);
+      allVariables.P46A4 = "3." + kariyer_secim(careerSelectionLastResult[2], age, "name", language);
   
-      allVariables.P47A1 = kariyer_secim(careerSelectionLastResult[0], 25, "name", language);
-      allVariables.P47A2 = kariyer_secim(careerSelectionLastResult[0], 25, "s2_x_2", language);
-      allVariables.P47A3 = kariyer_secim(careerSelectionLastResult[1], 25, "name", language);
-      allVariables.P47A4 = kariyer_secim(careerSelectionLastResult[1], 25, "s2_x_2", language);
-      allVariables.P47A5 = kariyer_secim(careerSelectionLastResult[2], 25, "name", language);
-      allVariables.P47A6 = kariyer_secim(careerSelectionLastResult[2], 25, "s2_x_2", language);
+      allVariables.P47A1 = kariyer_secim(careerSelectionLastResult[0], age, "name", language);
+      allVariables.P47A2 = kariyer_secim(careerSelectionLastResult[0], age, "s2_x_2", language);
+      allVariables.P47A3 = kariyer_secim(careerSelectionLastResult[1], age, "name", language);
+      allVariables.P47A4 = kariyer_secim(careerSelectionLastResult[1], age, "s2_x_2", language);
+      allVariables.P47A5 = kariyer_secim(careerSelectionLastResult[2], age, "name", language);
+      allVariables.P47A6 = kariyer_secim(careerSelectionLastResult[2], age, "s2_x_2", language);
   
-      allVariables.P48A1 = kariyer_secim(careerSelectionLastResult[0], 25, "name", language); // Sana En uygun kariyer Seçenekleri Genel Sektörler
-      allVariables.P48A2 = kariyer_secim(careerSelectionLastResult[1], 25, "name", language);
-      allVariables.P48A3 = kariyer_secim(careerSelectionLastResult[2], 25, "name", language);
-      allVariables.P48A4 = kariyer_secim(careerSelectionLastResult[0], 25, "s3_x_1", language); // Güncel İşler
-      allVariables.P48A5 = kariyer_secim(careerSelectionLastResult[1], 25, "s3_x_1", language);
-      allVariables.P48A6 = kariyer_secim(careerSelectionLastResult[2], 25, "s3_x_1", language);
+      allVariables.P48A1 = kariyer_secim(careerSelectionLastResult[0], age, "name", language); // Sana En uygun kariyer Seçenekleri Genel Sektörler
+      allVariables.P48A2 = kariyer_secim(careerSelectionLastResult[1], age, "name", language);
+      allVariables.P48A3 = kariyer_secim(careerSelectionLastResult[2], age, "name", language);
+      allVariables.P48A4 = kariyer_secim(careerSelectionLastResult[0], age, "s3_x_1", language); // Güncel İşler
+      allVariables.P48A5 = kariyer_secim(careerSelectionLastResult[1], age, "s3_x_1", language);
+      allVariables.P48A6 = kariyer_secim(careerSelectionLastResult[2], age, "s3_x_1", language);
   
-      allVariables.P49A1 = kariyer_secim(careerSelectionLastResult[0], 25, "name", language);
-      allVariables.P49A2 = kariyer_secim(careerSelectionLastResult[1], 25, "name", language);
-      allVariables.P49A3 = kariyer_secim(careerSelectionLastResult[2], 25, "name", language);
-      allVariables.P49A4 = kariyer_secim(careerSelectionLastResult[0], 25, "s4_x_1", language); // Geleceğin İşleri
-      allVariables.P49A5 = kariyer_secim(careerSelectionLastResult[1], 25, "s4_x_1", language);
-      allVariables.P49A6 = kariyer_secim(careerSelectionLastResult[2], 25, "s4_x_1", language);
+      allVariables.P49A1 = kariyer_secim(careerSelectionLastResult[0], age, "name", language);
+      allVariables.P49A2 = kariyer_secim(careerSelectionLastResult[1], age, "name", language);
+      allVariables.P49A3 = kariyer_secim(careerSelectionLastResult[2], age, "name", language);
+      allVariables.P49A4 = kariyer_secim(careerSelectionLastResult[0], age, "s4_x_1", language); // Geleceğin İşleri
+      allVariables.P49A5 = kariyer_secim(careerSelectionLastResult[1], age, "s4_x_1", language);
+      allVariables.P49A6 = kariyer_secim(careerSelectionLastResult[2], age, "s4_x_1", language);
   
-      allVariables.P50A1 = kariyer_secim(decision_strategyData.sectorName, 25, "sector", language); // Sana En uygun kariyer seçenekleri
-      allVariables.P50A2 = kariyer_secim(careerSelectionLastResult[0], 25, "s7_" + decision_strategyData.sectorName + "_x_1", language);
-      allVariables.P50A3 = kariyer_secim(careerSelectionLastResult[0], 25, "s7_" + decision_strategyData.sectorName + "_x_3", language);
-      allVariables.P50A4 = kariyer_secim(careerSelectionLastResult[0], 25, "s7_" + decision_strategyData.sectorName + "_x_4", language);
-      allVariables.P50A5 = kariyer_secim(careerSelectionLastResult[0], 25, "s7_" + decision_strategyData.sectorName + "_x_5", language);
-      allVariables.P50A6 = kariyer_secim(careerSelectionLastResult[0], 25, "s7_" + decision_strategyData.sectorName + "_x_6", language);
-      allVariables.P50A7 = kariyer_secim(careerSelectionLastResult[0], 25, "s7_" + decision_strategyData.sectorName + "_x_7", language);
-      allVariables.P50A8 = kariyer_secim(careerSelectionLastResult[1], 25, "s7_" + decision_strategyData.sectorName + "_x_1", language);
-      allVariables.P50A9 = kariyer_secim(careerSelectionLastResult[1], 25, "s7_" + decision_strategyData.sectorName + "_x_3", language);
-      allVariables.P50A10 = kariyer_secim(careerSelectionLastResult[1], 25, "s7_" + decision_strategyData.sectorName + "_x_4", language);
-      allVariables.P50A11 = kariyer_secim(careerSelectionLastResult[1], 25, "s7_" + decision_strategyData.sectorName + "_x_5", language);
-      allVariables.P50A12 = kariyer_secim(careerSelectionLastResult[1], 25, "s7_" + decision_strategyData.sectorName + "_x_6", language);
-      allVariables.P50A13 = kariyer_secim(careerSelectionLastResult[1], 25, "s7_" + decision_strategyData.sectorName + "_x_7", language);
-      allVariables.P50A14 = kariyer_secim(careerSelectionLastResult[2], 25, "s7_" + decision_strategyData.sectorName + "_x_1", language);
-      allVariables.P50A15 = kariyer_secim(careerSelectionLastResult[2], 25, "s7_" + decision_strategyData.sectorName + "_x_3", language);
-      allVariables.P50A16 = kariyer_secim(careerSelectionLastResult[2], 25, "s7_" + decision_strategyData.sectorName + "_x_4", language);
-      allVariables.P50A17 = kariyer_secim(careerSelectionLastResult[2], 25, "s7_" + decision_strategyData.sectorName + "_x_5", language);
-      allVariables.P50A18 = kariyer_secim(careerSelectionLastResult[2], 25, "s7_" + decision_strategyData.sectorName + "_x_6", language);
-      allVariables.P50A19 = kariyer_secim(careerSelectionLastResult[2], 25, "s7_" + decision_strategyData.sectorName + "_x_7", language);
+      allVariables.P50A1 = kariyer_secim(decision_strategyData.sectorName, age, "sector", language); // Sana En uygun kariyer seçenekleri
+      allVariables.P50A2 = kariyer_secim(careerSelectionLastResult[0], age, "s7_" + decision_strategyData.sectorName + "_x_1", language);
+      allVariables.P50A3 = kariyer_secim(careerSelectionLastResult[0], age, "s7_" + decision_strategyData.sectorName + "_x_3", language);
+      allVariables.P50A4 = kariyer_secim(careerSelectionLastResult[0], age, "s7_" + decision_strategyData.sectorName + "_x_4", language);
+      allVariables.P50A5 = kariyer_secim(careerSelectionLastResult[0], age, "s7_" + decision_strategyData.sectorName + "_x_5", language);
+      allVariables.P50A6 = kariyer_secim(careerSelectionLastResult[0], age, "s7_" + decision_strategyData.sectorName + "_x_6", language);
+      allVariables.P50A7 = kariyer_secim(careerSelectionLastResult[0], age, "s7_" + decision_strategyData.sectorName + "_x_7", language);
+      allVariables.P50A8 = kariyer_secim(careerSelectionLastResult[1], age, "s7_" + decision_strategyData.sectorName + "_x_1", language);
+      allVariables.P50A9 = kariyer_secim(careerSelectionLastResult[1], age, "s7_" + decision_strategyData.sectorName + "_x_3", language);
+      allVariables.P50A10 = kariyer_secim(careerSelectionLastResult[1], age, "s7_" + decision_strategyData.sectorName + "_x_4", language);
+      allVariables.P50A11 = kariyer_secim(careerSelectionLastResult[1], age, "s7_" + decision_strategyData.sectorName + "_x_5", language);
+      allVariables.P50A12 = kariyer_secim(careerSelectionLastResult[1], age, "s7_" + decision_strategyData.sectorName + "_x_6", language);
+      allVariables.P50A13 = kariyer_secim(careerSelectionLastResult[1], age, "s7_" + decision_strategyData.sectorName + "_x_7", language);
+      allVariables.P50A14 = kariyer_secim(careerSelectionLastResult[2], age, "s7_" + decision_strategyData.sectorName + "_x_1", language);
+      allVariables.P50A15 = kariyer_secim(careerSelectionLastResult[2], age, "s7_" + decision_strategyData.sectorName + "_x_3", language);
+      allVariables.P50A16 = kariyer_secim(careerSelectionLastResult[2], age, "s7_" + decision_strategyData.sectorName + "_x_4", language);
+      allVariables.P50A17 = kariyer_secim(careerSelectionLastResult[2], age, "s7_" + decision_strategyData.sectorName + "_x_5", language);
+      allVariables.P50A18 = kariyer_secim(careerSelectionLastResult[2], age, "s7_" + decision_strategyData.sectorName + "_x_6", language);
+      allVariables.P50A19 = kariyer_secim(careerSelectionLastResult[2], age, "s7_" + decision_strategyData.sectorName + "_x_7", language);
   
       allVariables.P52A1 = dearName;
   
@@ -12423,80 +12620,80 @@ var decision_strategy_eng_s4_11_txt = "By adhering to this decision-making strat
 
       allVariables,
   
-      allVariables.P30A1 = guclu_yanlarin(guclu_yanlarinData[0], 25, guclu_yanlarinData[0].name + "_1", language); 
-      allVariables.P30A2 = guclu_yanlarin(guclu_yanlarinData[0], 25, guclu_yanlarinData[0].name + "_2", language); 
+      allVariables.P30A1 = guclu_yanlarin(guclu_yanlarinData[0], age, guclu_yanlarinData[0].name + "_1", language); 
+      allVariables.P30A2 = guclu_yanlarin(guclu_yanlarinData[0], age, guclu_yanlarinData[0].name + "_2", language); 
       
-      allVariables.P33A1 = decision_strategy(decision_strategyData, 25, "name", language); // Senin Karar Verme Stratejin
-      allVariables.P33A2 = decision_strategy(decision_strategyData, 25, "s3_x_2", language);
+      allVariables.P33A1 = decision_strategy(decision_strategyData, age, "name", language); // Senin Karar Verme Stratejin
+      allVariables.P33A2 = decision_strategy(decision_strategyData, age, "s3_x_2", language);
       allVariables.P33A3 = gucluYanlarin;
-      allVariables.P33A4 = decision_strategy(decision_strategyData, 25, "s3_x_3", language);
-      allVariables.P33A5 = decision_strategy(decision_strategyData, 25, "s3_x_4", language);
+      allVariables.P33A4 = decision_strategy(decision_strategyData, age, "s3_x_3", language);
+      allVariables.P33A5 = decision_strategy(decision_strategyData, age, "s3_x_4", language);
   
       allVariables.P34A1 = kararVermeStratejin;
-      allVariables.P34A2 = decision_strategy(decision_strategyData, 25, "s4_x_text", language);
+      allVariables.P34A2 = decision_strategy(decision_strategyData, age, "s4_x_text", language);
       allVariables.P34A3 = kararVermeStratejin2;
-      allVariables.P34A4 = decision_strategy(decision_strategyData, 25, "s4_x_1", language);
-      allVariables.P34A5 = decision_strategy(decision_strategyData, 25, "s4_x_txt", language);
-      allVariables.P34A6 = decision_strategy(decision_strategyData, 25, "image", language);
+      allVariables.P34A4 = decision_strategy(decision_strategyData, age, "s4_x_1", language);
+      allVariables.P34A5 = decision_strategy(decision_strategyData, age, "s4_x_txt", language);
+      allVariables.P34A6 = decision_strategy(decision_strategyData, age, "image", language);
   
       allVariables.P35A1 = "image"; // Sana uygun kariyer dağılımların
-      allVariables.P35A2 = "1." + kariyer_secim(careerSelectionLastResult[0], 25, "name", language);
-      allVariables.P35A3 = "2." + kariyer_secim(careerSelectionLastResult[1], 25, "name", language);
-      allVariables.P35A4 = "3." + kariyer_secim(careerSelectionLastResult[2], 25, "name", language);
+      allVariables.P35A2 = "1." + kariyer_secim(careerSelectionLastResult[0], age, "name", language);
+      allVariables.P35A3 = "2." + kariyer_secim(careerSelectionLastResult[1], age, "name", language);
+      allVariables.P35A4 = "3." + kariyer_secim(careerSelectionLastResult[2], age, "name", language);
   
-      allVariables.P36A1 = kariyer_secim(careerSelectionLastResult[0], 25, "name", language);
-      allVariables.P36A2 = kariyer_secim(careerSelectionLastResult[0], 25, "s2_x_2", language);
-      allVariables.P36A3 = kariyer_secim(careerSelectionLastResult[1], 25, "name", language);
-      allVariables.P36A4 = kariyer_secim(careerSelectionLastResult[1], 25, "s2_x_2", language);
-      allVariables.P36A5 = kariyer_secim(careerSelectionLastResult[2], 25, "name", language);
-      allVariables.P36A6 = kariyer_secim(careerSelectionLastResult[2], 25, "s2_x_2", language);
+      allVariables.P36A1 = kariyer_secim(careerSelectionLastResult[0], age, "name", language);
+      allVariables.P36A2 = kariyer_secim(careerSelectionLastResult[0], age, "s2_x_2", language);
+      allVariables.P36A3 = kariyer_secim(careerSelectionLastResult[1], age, "name", language);
+      allVariables.P36A4 = kariyer_secim(careerSelectionLastResult[1], age, "s2_x_2", language);
+      allVariables.P36A5 = kariyer_secim(careerSelectionLastResult[2], age, "name", language);
+      allVariables.P36A6 = kariyer_secim(careerSelectionLastResult[2], age, "s2_x_2", language);
   
-      allVariables.P37A1 = kariyer_secim(careerSelectionLastResult[0], 25, "name", language); // Sana En uygun kariyer Seçenekleri Genel Sektörler
-      allVariables.P37A2 = kariyer_secim(careerSelectionLastResult[1], 25, "name", language);
-      allVariables.P37A3 = kariyer_secim(careerSelectionLastResult[2], 25, "name", language);
-      allVariables.P37A4 = kariyer_secim(careerSelectionLastResult[0], 25, "s3_x_1", language); // Güncel İşler
-      allVariables.P37A5 = kariyer_secim(careerSelectionLastResult[1], 25, "s3_x_1", language);
-      allVariables.P37A6 = kariyer_secim(careerSelectionLastResult[2], 25, "s3_x_1", language);
+      allVariables.P37A1 = kariyer_secim(careerSelectionLastResult[0], age, "name", language); // Sana En uygun kariyer Seçenekleri Genel Sektörler
+      allVariables.P37A2 = kariyer_secim(careerSelectionLastResult[1], age, "name", language);
+      allVariables.P37A3 = kariyer_secim(careerSelectionLastResult[2], age, "name", language);
+      allVariables.P37A4 = kariyer_secim(careerSelectionLastResult[0], age, "s3_x_1", language); // Güncel İşler
+      allVariables.P37A5 = kariyer_secim(careerSelectionLastResult[1], age, "s3_x_1", language);
+      allVariables.P37A6 = kariyer_secim(careerSelectionLastResult[2], age, "s3_x_1", language);
   
-      allVariables.P38A1 = kariyer_secim(careerSelectionLastResult[0], 25, "name", language);
-      allVariables.P38A2 = kariyer_secim(careerSelectionLastResult[1], 25, "name", language);
-      allVariables.P38A3 = kariyer_secim(careerSelectionLastResult[2], 25, "name", language);
-      allVariables.P38A4 = kariyer_secim(careerSelectionLastResult[0], 25, "s4_x_1", language); // Geleceğin İşleri
-      allVariables.P38A5 = kariyer_secim(careerSelectionLastResult[1], 25, "s4_x_1", language);
-      allVariables.P38A6 = kariyer_secim(careerSelectionLastResult[2], 25, "s4_x_1", language);
+      allVariables.P38A1 = kariyer_secim(careerSelectionLastResult[0], age, "name", language);
+      allVariables.P38A2 = kariyer_secim(careerSelectionLastResult[1], age, "name", language);
+      allVariables.P38A3 = kariyer_secim(careerSelectionLastResult[2], age, "name", language);
+      allVariables.P38A4 = kariyer_secim(careerSelectionLastResult[0], age, "s4_x_1", language); // Geleceğin İşleri
+      allVariables.P38A5 = kariyer_secim(careerSelectionLastResult[1], age, "s4_x_1", language);
+      allVariables.P38A6 = kariyer_secim(careerSelectionLastResult[2], age, "s4_x_1", language);
   
-      allVariables.P39A1 = kariyer_secim(decision_strategyData.sectorName, 25, "sector", language); // Sana En uygun kariyer seçenekleri
-      allVariables.P39A2 = kariyer_secim(careerSelectionLastResult[0], 25, "s7_" + decision_strategyData.sectorName + "_x_1", language);
-      allVariables.P39A3 = kariyer_secim(careerSelectionLastResult[0], 25, "s7_" + decision_strategyData.sectorName + "_x_3", language);
-      allVariables.P39A4 = kariyer_secim(careerSelectionLastResult[0], 25, "s7_" + decision_strategyData.sectorName + "_x_4", language);
-      allVariables.P39A5 = kariyer_secim(careerSelectionLastResult[0], 25, "s7_" + decision_strategyData.sectorName + "_x_5", language);
-      allVariables.P39A6 = kariyer_secim(careerSelectionLastResult[0], 25, "s7_" + decision_strategyData.sectorName + "_x_6", language);
-      allVariables.P39A7 = kariyer_secim(careerSelectionLastResult[0], 25, "s7_" + decision_strategyData.sectorName + "_x_7", language);
-      allVariables.P39A8 = kariyer_secim(careerSelectionLastResult[1], 25, "s7_" + decision_strategyData.sectorName + "_x_1", language);
-      allVariables.P39A9 = kariyer_secim(careerSelectionLastResult[1], 25, "s7_" + decision_strategyData.sectorName + "_x_3", language);
-      allVariables.P39A10 = kariyer_secim(careerSelectionLastResult[1], 25, "s7_" + decision_strategyData.sectorName + "_x_4", language);
-      allVariables.P39A11 = kariyer_secim(careerSelectionLastResult[1], 25, "s7_" + decision_strategyData.sectorName + "_x_5", language);
-      allVariables.P39A12 = kariyer_secim(careerSelectionLastResult[1], 25, "s7_" + decision_strategyData.sectorName + "_x_6", language);
-      allVariables.P39A13 = kariyer_secim(careerSelectionLastResult[1], 25, "s7_" + decision_strategyData.sectorName + "_x_7", language);
-      allVariables.P39A14 = kariyer_secim(careerSelectionLastResult[2], 25, "s7_" + decision_strategyData.sectorName + "_x_1", language);
-      allVariables.P39A15 = kariyer_secim(careerSelectionLastResult[2], 25, "s7_" + decision_strategyData.sectorName + "_x_3", language);
-      allVariables.P39A16 = kariyer_secim(careerSelectionLastResult[2], 25, "s7_" + decision_strategyData.sectorName + "_x_4", language);
-      allVariables.P39A17 = kariyer_secim(careerSelectionLastResult[2], 25, "s7_" + decision_strategyData.sectorName + "_x_5", language);
-      allVariables.P39A18 = kariyer_secim(careerSelectionLastResult[2], 25, "s7_" + decision_strategyData.sectorName + "_x_6", language);
-      allVariables.P39A19 = kariyer_secim(careerSelectionLastResult[2], 25, "s7_" + decision_strategyData.sectorName + "_x_7", language);
+      allVariables.P39A1 = kariyer_secim(decision_strategyData.sectorName, age, "sector", language); // Sana En uygun kariyer seçenekleri
+      allVariables.P39A2 = kariyer_secim(careerSelectionLastResult[0], age, "s7_" + decision_strategyData.sectorName + "_x_1", language);
+      allVariables.P39A3 = kariyer_secim(careerSelectionLastResult[0], age, "s7_" + decision_strategyData.sectorName + "_x_3", language);
+      allVariables.P39A4 = kariyer_secim(careerSelectionLastResult[0], age, "s7_" + decision_strategyData.sectorName + "_x_4", language);
+      allVariables.P39A5 = kariyer_secim(careerSelectionLastResult[0], age, "s7_" + decision_strategyData.sectorName + "_x_5", language);
+      allVariables.P39A6 = kariyer_secim(careerSelectionLastResult[0], age, "s7_" + decision_strategyData.sectorName + "_x_6", language);
+      allVariables.P39A7 = kariyer_secim(careerSelectionLastResult[0], age, "s7_" + decision_strategyData.sectorName + "_x_7", language);
+      allVariables.P39A8 = kariyer_secim(careerSelectionLastResult[1], age, "s7_" + decision_strategyData.sectorName + "_x_1", language);
+      allVariables.P39A9 = kariyer_secim(careerSelectionLastResult[1], age, "s7_" + decision_strategyData.sectorName + "_x_3", language);
+      allVariables.P39A10 = kariyer_secim(careerSelectionLastResult[1], age, "s7_" + decision_strategyData.sectorName + "_x_4", language);
+      allVariables.P39A11 = kariyer_secim(careerSelectionLastResult[1], age, "s7_" + decision_strategyData.sectorName + "_x_5", language);
+      allVariables.P39A12 = kariyer_secim(careerSelectionLastResult[1], age, "s7_" + decision_strategyData.sectorName + "_x_6", language);
+      allVariables.P39A13 = kariyer_secim(careerSelectionLastResult[1], age, "s7_" + decision_strategyData.sectorName + "_x_7", language);
+      allVariables.P39A14 = kariyer_secim(careerSelectionLastResult[2], age, "s7_" + decision_strategyData.sectorName + "_x_1", language);
+      allVariables.P39A15 = kariyer_secim(careerSelectionLastResult[2], age, "s7_" + decision_strategyData.sectorName + "_x_3", language);
+      allVariables.P39A16 = kariyer_secim(careerSelectionLastResult[2], age, "s7_" + decision_strategyData.sectorName + "_x_4", language);
+      allVariables.P39A17 = kariyer_secim(careerSelectionLastResult[2], age, "s7_" + decision_strategyData.sectorName + "_x_5", language);
+      allVariables.P39A18 = kariyer_secim(careerSelectionLastResult[2], age, "s7_" + decision_strategyData.sectorName + "_x_6", language);
+      allVariables.P39A19 = kariyer_secim(careerSelectionLastResult[2], age, "s7_" + decision_strategyData.sectorName + "_x_7", language);
 
-      allVariables.P41A1 = kslk_ozl_ozet(hollandData[0].name, hollandData[1].name, 25, "ozet_1", language),
-      allVariables.P41A2 = kslk_ozl_ozet(hollandData[0].name, hollandData[1].name, 25, "ozet_2", language),
-      allVariables.P41A3 = krktr_ozl_ozet(big5Data[0].name, big5Data[1].name, 25, "ozet_1", language),
-      allVariables.P41A4 = krktr_ozl_ozet(big5Data[0].name, big5Data[1].name, 25, "ozet_2", language),
-      allVariables.P41A5 = lifestyle(lifestyleData[0], 25, "ozet_1", language),
-      allVariables.P41A6 = lifestyle(lifestyleData[0], 25, "ozet_2", language),
-      allVariables.P41A7 = worklearnstyle(worklearnData[0], 25, "ozet_1", language),
-      allVariables.P41A8 = worklearnstyle(worklearnData[0], 25, "ozet_2", language),
-      allVariables.P41A9 = decision_strategy(decision_strategyData, 25, "ozet_1", language),
-      allVariables.P41A10 = decision_strategy(decision_strategyData, 25, "ozet_2", language),
-      allVariables.P41A11 = kariyer_secim(careerSelectionLastResult[0], 25, "ozet_1", language),
-      allVariables.P41A12 = kariyer_secim(careerSelectionLastResult[0], 25, "ozet_2", language),
+      allVariables.P41A1 = kslk_ozl_ozet(hollandData[0].name, hollandData[1].name, age, "ozet_1", language),
+      allVariables.P41A2 = kslk_ozl_ozet(hollandData[0].name, hollandData[1].name, age, "ozet_2", language),
+      allVariables.P41A3 = krktr_ozl_ozet(big5Data[0].name, big5Data[1].name, age, "ozet_1", language),
+      allVariables.P41A4 = krktr_ozl_ozet(big5Data[0].name, big5Data[1].name, age, "ozet_2", language),
+      allVariables.P41A5 = lifestyle(lifestyleData[0], age, "ozet_1", language),
+      allVariables.P41A6 = lifestyle(lifestyleData[0], age, "ozet_2", language),
+      allVariables.P41A7 = worklearnstyle(worklearnData[0], age, "ozet_1", language),
+      allVariables.P41A8 = worklearnstyle(worklearnData[0], age, "ozet_2", language),
+      allVariables.P41A9 = decision_strategy(decision_strategyData, age, "ozet_1", language),
+      allVariables.P41A10 = decision_strategy(decision_strategyData, age, "ozet_2", language),
+      allVariables.P41A11 = kariyer_secim(careerSelectionLastResult[0], age, "ozet_1", language),
+      allVariables.P41A12 = kariyer_secim(careerSelectionLastResult[0], age, "ozet_2", language),
   
       allVariables.P42A1 = dearName;
   
@@ -12578,83 +12775,83 @@ var decision_strategy_eng_s4_11_txt = "By adhering to this decision-making strat
   
       allVariables,
   
-      allVariables.P30A1 = guclu_yanlarin(guclu_yanlarinData[0], 25, guclu_yanlarinData[0].name + "_1", language); 
-      allVariables.P30A2 = guclu_yanlarin(guclu_yanlarinData[0], 25, guclu_yanlarinData[0].name + "_2", language); 
+      allVariables.P30A1 = guclu_yanlarin(guclu_yanlarinData[0], age, guclu_yanlarinData[0].name + "_1", language); 
+      allVariables.P30A2 = guclu_yanlarin(guclu_yanlarinData[0], age, guclu_yanlarinData[0].name + "_2", language); 
       
-      allVariables.P31A1 = guclu_yanlarin(guclu_yanlarinData[1], 25, guclu_yanlarinData[1].name + "_1", language);
-      allVariables.P31A2 = guclu_yanlarin(guclu_yanlarinData[1], 25, guclu_yanlarinData[1].name + "_2", language);
+      allVariables.P31A1 = guclu_yanlarin(guclu_yanlarinData[1], age, guclu_yanlarinData[1].name + "_1", language);
+      allVariables.P31A2 = guclu_yanlarin(guclu_yanlarinData[1], age, guclu_yanlarinData[1].name + "_2", language);
       
-      allVariables.P34A1 = decision_strategy(decision_strategyData, 25, "name", language); // Senin Karar Verme Stratejin
-      allVariables.P34A2 = decision_strategy(decision_strategyData, 25, "s3_x_2", language);
+      allVariables.P34A1 = decision_strategy(decision_strategyData, age, "name", language); // Senin Karar Verme Stratejin
+      allVariables.P34A2 = decision_strategy(decision_strategyData, age, "s3_x_2", language);
       allVariables.P34A3 = decision_strategy1;
-      allVariables.P34A4 = decision_strategy(decision_strategyData, 25, "s3_x_3", language);
-      allVariables.P34A5 = decision_strategy(decision_strategyData, 25, "s3_x_4", language);
+      allVariables.P34A4 = decision_strategy(decision_strategyData, age, "s3_x_3", language);
+      allVariables.P34A5 = decision_strategy(decision_strategyData, age, "s3_x_4", language);
       
       allVariables.P35A1 = kararVermeStratejin2;
-      allVariables.P35A2 = decision_strategy(decision_strategyData, 25, "s4_x_text", language);
+      allVariables.P35A2 = decision_strategy(decision_strategyData, age, "s4_x_text", language);
       allVariables.P35A3 = kararVermeStratejin3;
-      allVariables.P35A4 = decision_strategy(decision_strategyData, 25, "s4_x_1", language);
-      allVariables.P35A5 = decision_strategy(decision_strategyData, 25, "s4_x_txt", language);
-      allVariables.P35A6 = decision_strategy(decision_strategyData, 25, "image", language);
+      allVariables.P35A4 = decision_strategy(decision_strategyData, age, "s4_x_1", language);
+      allVariables.P35A5 = decision_strategy(decision_strategyData, age, "s4_x_txt", language);
+      allVariables.P35A6 = decision_strategy(decision_strategyData, age, "image", language);
       
       allVariables.P36A1 = "image"; // Sana uygun kariyer dağılımların
-      allVariables.P36A2 = "1." + kariyer_secim(careerSelectionLastResult[0], 25, "name", language);
-      allVariables.P36A3 = "2." + kariyer_secim(careerSelectionLastResult[1], 25, "name", language);
-      allVariables.P36A4 = "3." + kariyer_secim(careerSelectionLastResult[2], 25, "name", language);
+      allVariables.P36A2 = "1." + kariyer_secim(careerSelectionLastResult[0], age, "name", language);
+      allVariables.P36A3 = "2." + kariyer_secim(careerSelectionLastResult[1], age, "name", language);
+      allVariables.P36A4 = "3." + kariyer_secim(careerSelectionLastResult[2], age, "name", language);
       
-      allVariables.P37A1 = kariyer_secim(careerSelectionLastResult[0], 25, "name", language);
-      allVariables.P37A2 = kariyer_secim(careerSelectionLastResult[0], 25, "s2_x_2", language);
-      allVariables.P37A3 = kariyer_secim(careerSelectionLastResult[1], 25, "name", language);
-      allVariables.P37A4 = kariyer_secim(careerSelectionLastResult[1], 25, "s2_x_2", language);
-      allVariables.P37A5 = kariyer_secim(careerSelectionLastResult[2], 25, "name", language);
-      allVariables.P37A6 = kariyer_secim(careerSelectionLastResult[2], 25, "s2_x_2", language);
+      allVariables.P37A1 = kariyer_secim(careerSelectionLastResult[0], age, "name", language);
+      allVariables.P37A2 = kariyer_secim(careerSelectionLastResult[0], age, "s2_x_2", language);
+      allVariables.P37A3 = kariyer_secim(careerSelectionLastResult[1], age, "name", language);
+      allVariables.P37A4 = kariyer_secim(careerSelectionLastResult[1], age, "s2_x_2", language);
+      allVariables.P37A5 = kariyer_secim(careerSelectionLastResult[2], age, "name", language);
+      allVariables.P37A6 = kariyer_secim(careerSelectionLastResult[2], age, "s2_x_2", language);
       
-      allVariables.P38A1 = kariyer_secim(careerSelectionLastResult[0], 25, "name", language); // Sana En uygun kariyer Seçenekleri Genel Sektörler
-      allVariables.P38A2 = kariyer_secim(careerSelectionLastResult[1], 25, "name", language);
-      allVariables.P38A3 = kariyer_secim(careerSelectionLastResult[2], 25, "name", language);
-      allVariables.P38A4 = kariyer_secim(careerSelectionLastResult[0], 25, "s3_x_1", language); // Güncel İşler
-      allVariables.P38A5 = kariyer_secim(careerSelectionLastResult[1], 25, "s3_x_1", language);
-      allVariables.P38A6 = kariyer_secim(careerSelectionLastResult[2], 25, "s3_x_1", language);
+      allVariables.P38A1 = kariyer_secim(careerSelectionLastResult[0], age, "name", language); // Sana En uygun kariyer Seçenekleri Genel Sektörler
+      allVariables.P38A2 = kariyer_secim(careerSelectionLastResult[1], age, "name", language);
+      allVariables.P38A3 = kariyer_secim(careerSelectionLastResult[2], age, "name", language);
+      allVariables.P38A4 = kariyer_secim(careerSelectionLastResult[0], age, "s3_x_1", language); // Güncel İşler
+      allVariables.P38A5 = kariyer_secim(careerSelectionLastResult[1], age, "s3_x_1", language);
+      allVariables.P38A6 = kariyer_secim(careerSelectionLastResult[2], age, "s3_x_1", language);
       
-      allVariables.P39A1 = kariyer_secim(careerSelectionLastResult[0], 25, "name", language);
-      allVariables.P39A2 = kariyer_secim(careerSelectionLastResult[1], 25, "name", language);
-      allVariables.P39A3 = kariyer_secim(careerSelectionLastResult[2], 25, "name", language);
-      allVariables.P39A4 = kariyer_secim(careerSelectionLastResult[0], 25, "s4_x_1", language); // Geleceğin İşleri
-      allVariables.P39A5 = kariyer_secim(careerSelectionLastResult[1], 25, "s4_x_1", language);
-      allVariables.P39A6 = kariyer_secim(careerSelectionLastResult[2], 25, "s4_x_1", language);
+      allVariables.P39A1 = kariyer_secim(careerSelectionLastResult[0], age, "name", language);
+      allVariables.P39A2 = kariyer_secim(careerSelectionLastResult[1], age, "name", language);
+      allVariables.P39A3 = kariyer_secim(careerSelectionLastResult[2], age, "name", language);
+      allVariables.P39A4 = kariyer_secim(careerSelectionLastResult[0], age, "s4_x_1", language); // Geleceğin İşleri
+      allVariables.P39A5 = kariyer_secim(careerSelectionLastResult[1], age, "s4_x_1", language);
+      allVariables.P39A6 = kariyer_secim(careerSelectionLastResult[2], age, "s4_x_1", language);
       
-      allVariables.P40A1 = kariyer_secim(decision_strategyData.sectorName, 25, "sector", language); // Sana En uygun kariyer seçenekleri
-      allVariables.P40A2 = kariyer_secim(careerSelectionLastResult[0], 25, "s7_" + decision_strategyData.sectorName + "_x_1", language);
-      allVariables.P40A3 = kariyer_secim(careerSelectionLastResult[0], 25, "s7_" + decision_strategyData.sectorName + "_x_3", language);
-      allVariables.P40A4 = kariyer_secim(careerSelectionLastResult[0], 25, "s7_" + decision_strategyData.sectorName + "_x_4", language);
-      allVariables.P40A5 = kariyer_secim(careerSelectionLastResult[0], 25, "s7_" + decision_strategyData.sectorName + "_x_5", language);
-      allVariables.P40A6 = kariyer_secim(careerSelectionLastResult[0], 25, "s7_" + decision_strategyData.sectorName + "_x_6", language);
-      allVariables.P40A7 = kariyer_secim(careerSelectionLastResult[0], 25, "s7_" + decision_strategyData.sectorName + "_x_7", language);
-      allVariables.P40A8 = kariyer_secim(careerSelectionLastResult[1], 25, "s7_" + decision_strategyData.sectorName + "_x_1", language);
-      allVariables.P40A9 = kariyer_secim(careerSelectionLastResult[1], 25, "s7_" + decision_strategyData.sectorName + "_x_3", language);
-      allVariables.P40A10 = kariyer_secim(careerSelectionLastResult[1], 25, "s7_" + decision_strategyData.sectorName + "_x_4", language);
-      allVariables.P40A11 = kariyer_secim(careerSelectionLastResult[1], 25, "s7_" + decision_strategyData.sectorName + "_x_5", language);
-      allVariables.P40A12 = kariyer_secim(careerSelectionLastResult[1], 25, "s7_" + decision_strategyData.sectorName + "_x_6", language);
-      allVariables.P40A13 = kariyer_secim(careerSelectionLastResult[1], 25, "s7_" + decision_strategyData.sectorName + "_x_7", language);
-      allVariables.P40A14 = kariyer_secim(careerSelectionLastResult[2], 25, "s7_" + decision_strategyData.sectorName + "_x_1", language);
-      allVariables.P40A15 = kariyer_secim(careerSelectionLastResult[2], 25, "s7_" + decision_strategyData.sectorName + "_x_3", language);
-      allVariables.P40A16 = kariyer_secim(careerSelectionLastResult[2], 25, "s7_" + decision_strategyData.sectorName + "_x_4", language);
-      allVariables.P40A17 = kariyer_secim(careerSelectionLastResult[2], 25, "s7_" + decision_strategyData.sectorName + "_x_5", language);
-      allVariables.P40A18 = kariyer_secim(careerSelectionLastResult[2], 25, "s7_" + decision_strategyData.sectorName + "_x_6", language);
-      allVariables.P40A19 = kariyer_secim(careerSelectionLastResult[2], 25, "s7_" + decision_strategyData.sectorName + "_x_7", language);
+      allVariables.P40A1 = kariyer_secim(decision_strategyData.sectorName, age, "sector", language); // Sana En uygun kariyer seçenekleri
+      allVariables.P40A2 = kariyer_secim(careerSelectionLastResult[0], age, "s7_" + decision_strategyData.sectorName + "_x_1", language);
+      allVariables.P40A3 = kariyer_secim(careerSelectionLastResult[0], age, "s7_" + decision_strategyData.sectorName + "_x_3", language);
+      allVariables.P40A4 = kariyer_secim(careerSelectionLastResult[0], age, "s7_" + decision_strategyData.sectorName + "_x_4", language);
+      allVariables.P40A5 = kariyer_secim(careerSelectionLastResult[0], age, "s7_" + decision_strategyData.sectorName + "_x_5", language);
+      allVariables.P40A6 = kariyer_secim(careerSelectionLastResult[0], age, "s7_" + decision_strategyData.sectorName + "_x_6", language);
+      allVariables.P40A7 = kariyer_secim(careerSelectionLastResult[0], age, "s7_" + decision_strategyData.sectorName + "_x_7", language);
+      allVariables.P40A8 = kariyer_secim(careerSelectionLastResult[1], age, "s7_" + decision_strategyData.sectorName + "_x_1", language);
+      allVariables.P40A9 = kariyer_secim(careerSelectionLastResult[1], age, "s7_" + decision_strategyData.sectorName + "_x_3", language);
+      allVariables.P40A10 = kariyer_secim(careerSelectionLastResult[1], age, "s7_" + decision_strategyData.sectorName + "_x_4", language);
+      allVariables.P40A11 = kariyer_secim(careerSelectionLastResult[1], age, "s7_" + decision_strategyData.sectorName + "_x_5", language);
+      allVariables.P40A12 = kariyer_secim(careerSelectionLastResult[1], age, "s7_" + decision_strategyData.sectorName + "_x_6", language);
+      allVariables.P40A13 = kariyer_secim(careerSelectionLastResult[1], age, "s7_" + decision_strategyData.sectorName + "_x_7", language);
+      allVariables.P40A14 = kariyer_secim(careerSelectionLastResult[2], age, "s7_" + decision_strategyData.sectorName + "_x_1", language);
+      allVariables.P40A15 = kariyer_secim(careerSelectionLastResult[2], age, "s7_" + decision_strategyData.sectorName + "_x_3", language);
+      allVariables.P40A16 = kariyer_secim(careerSelectionLastResult[2], age, "s7_" + decision_strategyData.sectorName + "_x_4", language);
+      allVariables.P40A17 = kariyer_secim(careerSelectionLastResult[2], age, "s7_" + decision_strategyData.sectorName + "_x_5", language);
+      allVariables.P40A18 = kariyer_secim(careerSelectionLastResult[2], age, "s7_" + decision_strategyData.sectorName + "_x_6", language);
+      allVariables.P40A19 = kariyer_secim(careerSelectionLastResult[2], age, "s7_" + decision_strategyData.sectorName + "_x_7", language);
 
-      allVariables.P42A1 = kslk_ozl_ozet(hollandData[0].name, hollandData[1].name, 25, "ozet_1", language),
-      allVariables.P42A2 = kslk_ozl_ozet(hollandData[0].name, hollandData[1].name, 25, "ozet_2", language),
-      allVariables.P42A3 = krktr_ozl_ozet(big5Data[0].name, big5Data[1].name, 25, "ozet_1", language),
-      allVariables.P42A4 = krktr_ozl_ozet(big5Data[0].name, big5Data[1].name, 25, "ozet_2", language),
-      allVariables.P42A5 = lifestyle(lifestyleData[0], 25, "ozet_1", language),
-      allVariables.P42A6 = lifestyle(lifestyleData[0], 25, "ozet_2", language),
-      allVariables.P42A7 = worklearnstyle(worklearnData[0], 25, "ozet_1", language),
-      allVariables.P42A8 = worklearnstyle(worklearnData[0], 25, "ozet_2", language),
-      allVariables.P42A9 = decision_strategy(decision_strategyData, 25, "ozet_1", language),
-      allVariables.P42A10 = decision_strategy(decision_strategyData, 25, "ozet_2", language),
-      allVariables.P42A11 = kariyer_secim(careerSelectionLastResult[0], 25, "ozet_1", language),
-      allVariables.P42A12 = kariyer_secim(careerSelectionLastResult[0], 25, "ozet_2", language),
+      allVariables.P42A1 = kslk_ozl_ozet(hollandData[0].name, hollandData[1].name, age, "ozet_1", language),
+      allVariables.P42A2 = kslk_ozl_ozet(hollandData[0].name, hollandData[1].name, age, "ozet_2", language),
+      allVariables.P42A3 = krktr_ozl_ozet(big5Data[0].name, big5Data[1].name, age, "ozet_1", language),
+      allVariables.P42A4 = krktr_ozl_ozet(big5Data[0].name, big5Data[1].name, age, "ozet_2", language),
+      allVariables.P42A5 = lifestyle(lifestyleData[0], age, "ozet_1", language),
+      allVariables.P42A6 = lifestyle(lifestyleData[0], age, "ozet_2", language),
+      allVariables.P42A7 = worklearnstyle(worklearnData[0], age, "ozet_1", language),
+      allVariables.P42A8 = worklearnstyle(worklearnData[0], age, "ozet_2", language),
+      allVariables.P42A9 = decision_strategy(decision_strategyData, age, "ozet_1", language),
+      allVariables.P42A10 = decision_strategy(decision_strategyData, age, "ozet_2", language),
+      allVariables.P42A11 = kariyer_secim(careerSelectionLastResult[0], age, "ozet_1", language),
+      allVariables.P42A12 = kariyer_secim(careerSelectionLastResult[0], age, "ozet_2", language),
 
       allVariables.P43A1 = dearName;
   
@@ -12739,84 +12936,84 @@ var decision_strategy_eng_s4_11_txt = "By adhering to this decision-making strat
   
       allVariables,
   
-      allVariables.P30A1 = guclu_yanlarin(guclu_yanlarinData[0], 25, guclu_yanlarinData[0].name + "_1", language); 
-      allVariables.P30A2 = guclu_yanlarin(guclu_yanlarinData[0], 25, guclu_yanlarinData[0].name + "_2", language); 
+      allVariables.P30A1 = guclu_yanlarin(guclu_yanlarinData[0], age, guclu_yanlarinData[0].name + "_1", language); 
+      allVariables.P30A2 = guclu_yanlarin(guclu_yanlarinData[0], age, guclu_yanlarinData[0].name + "_2", language); 
       
-      allVariables.P31A1 = guclu_yanlarin(guclu_yanlarinData[1], 25, guclu_yanlarinData[1].name + "_1", language);
-      allVariables.P31A2 = guclu_yanlarin(guclu_yanlarinData[1], 25, guclu_yanlarinData[1].name + "_2", language);
+      allVariables.P31A1 = guclu_yanlarin(guclu_yanlarinData[1], age, guclu_yanlarinData[1].name + "_1", language);
+      allVariables.P31A2 = guclu_yanlarin(guclu_yanlarinData[1], age, guclu_yanlarinData[1].name + "_2", language);
   
-      allVariables.P32A1 = guclu_yanlarin(guclu_yanlarinData[2], 25, guclu_yanlarinData[2].name + "_1", language);
-      allVariables.P32A2 = guclu_yanlarin(guclu_yanlarinData[2], 25, guclu_yanlarinData[2].name + "_2", language);
+      allVariables.P32A1 = guclu_yanlarin(guclu_yanlarinData[2], age, guclu_yanlarinData[2].name + "_1", language);
+      allVariables.P32A2 = guclu_yanlarin(guclu_yanlarinData[2], age, guclu_yanlarinData[2].name + "_2", language);
       
-      allVariables.P35A1 = decision_strategy(decision_strategyData, 25, "name", language); // Senin Karar Verme Stratejin
-      allVariables.P35A2 = decision_strategy(decision_strategyData, 25, "s3_x_2", language);
+      allVariables.P35A1 = decision_strategy(decision_strategyData, age, "name", language); // Senin Karar Verme Stratejin
+      allVariables.P35A2 = decision_strategy(decision_strategyData, age, "s3_x_2", language);
       allVariables.P35A3 = kararVermeStratejin1;
-      allVariables.P35A4 = decision_strategy(decision_strategyData, 25, "s3_x_3", language);
-      allVariables.P35A5 = decision_strategy(decision_strategyData, 25, "s3_x_4", language);
+      allVariables.P35A4 = decision_strategy(decision_strategyData, age, "s3_x_3", language);
+      allVariables.P35A5 = decision_strategy(decision_strategyData, age, "s3_x_4", language);
   
       allVariables.P36A1 = kararVermeStratejin2;
-      allVariables.P36A2 = decision_strategy(decision_strategyData, 25, "s4_x_text", language);
+      allVariables.P36A2 = decision_strategy(decision_strategyData, age, "s4_x_text", language);
       allVariables.P36A3 = kararVermeStratejin3;
-      allVariables.P36A4 = decision_strategy(decision_strategyData, 25, "s4_x_1", language);
-      allVariables.P36A5 = decision_strategy(decision_strategyData, 25, "s4_x_txt", language);
-      allVariables.P36A6 = decision_strategy(decision_strategyData, 25, "image", language);
+      allVariables.P36A4 = decision_strategy(decision_strategyData, age, "s4_x_1", language);
+      allVariables.P36A5 = decision_strategy(decision_strategyData, age, "s4_x_txt", language);
+      allVariables.P36A6 = decision_strategy(decision_strategyData, age, "image", language);
   
       allVariables.P37A1 = "image"; // Sana uygun kariyer dağılımların
-      allVariables.P37A2 = "1." + kariyer_secim(careerSelectionLastResult[0], 25, "name", language);
-      allVariables.P37A3 = "2." + kariyer_secim(careerSelectionLastResult[1], 25, "name", language);
-      allVariables.P37A4 = "3." + kariyer_secim(careerSelectionLastResult[2], 25, "name", language);
+      allVariables.P37A2 = "1." + kariyer_secim(careerSelectionLastResult[0], age, "name", language);
+      allVariables.P37A3 = "2." + kariyer_secim(careerSelectionLastResult[1], age, "name", language);
+      allVariables.P37A4 = "3." + kariyer_secim(careerSelectionLastResult[2], age, "name", language);
   
-      allVariables.P38A1 = kariyer_secim(careerSelectionLastResult[0], 25, "name", language);
-      allVariables.P38A2 = kariyer_secim(careerSelectionLastResult[0], 25, "s2_x_2", language);
-      allVariables.P38A3 = kariyer_secim(careerSelectionLastResult[1], 25, "name", language);
-      allVariables.P38A4 = kariyer_secim(careerSelectionLastResult[1], 25, "s2_x_2", language);
-      allVariables.P38A5 = kariyer_secim(careerSelectionLastResult[2], 25, "name", language);
-      allVariables.P38A6 = kariyer_secim(careerSelectionLastResult[2], 25, "s2_x_2", language);
+      allVariables.P38A1 = kariyer_secim(careerSelectionLastResult[0], age, "name", language);
+      allVariables.P38A2 = kariyer_secim(careerSelectionLastResult[0], age, "s2_x_2", language);
+      allVariables.P38A3 = kariyer_secim(careerSelectionLastResult[1], age, "name", language);
+      allVariables.P38A4 = kariyer_secim(careerSelectionLastResult[1], age, "s2_x_2", language);
+      allVariables.P38A5 = kariyer_secim(careerSelectionLastResult[2], age, "name", language);
+      allVariables.P38A6 = kariyer_secim(careerSelectionLastResult[2], age, "s2_x_2", language);
   
-      allVariables.P39A1 = kariyer_secim(careerSelectionLastResult[0], 25, "name", language); // Sana En uygun kariyer Seçenekleri Genel Sektörler
-      allVariables.P39A2 = kariyer_secim(careerSelectionLastResult[1], 25, "name", language);
-      allVariables.P39A3 = kariyer_secim(careerSelectionLastResult[2], 25, "name", language);
-      allVariables.P39A4 = kariyer_secim(careerSelectionLastResult[0], 25, "s3_x_1", language); // Güncel İşler
-      allVariables.P39A5 = kariyer_secim(careerSelectionLastResult[1], 25, "s3_x_1", language);
-      allVariables.P39A6 = kariyer_secim(careerSelectionLastResult[2], 25, "s3_x_1", language);
+      allVariables.P39A1 = kariyer_secim(careerSelectionLastResult[0], age, "name", language); // Sana En uygun kariyer Seçenekleri Genel Sektörler
+      allVariables.P39A2 = kariyer_secim(careerSelectionLastResult[1], age, "name", language);
+      allVariables.P39A3 = kariyer_secim(careerSelectionLastResult[2], age, "name", language);
+      allVariables.P39A4 = kariyer_secim(careerSelectionLastResult[0], age, "s3_x_1", language); // Güncel İşler
+      allVariables.P39A5 = kariyer_secim(careerSelectionLastResult[1], age, "s3_x_1", language);
+      allVariables.P39A6 = kariyer_secim(careerSelectionLastResult[2], age, "s3_x_1", language);
   
-      allVariables.P40A1 = kariyer_secim(careerSelectionLastResult[0], 25, "name", language);
-      allVariables.P40A2 = kariyer_secim(careerSelectionLastResult[1], 25, "name", language);
-      allVariables.P40A3 = kariyer_secim(careerSelectionLastResult[2], 25, "name", language);
-      allVariables.P40A4 = kariyer_secim(careerSelectionLastResult[0], 25, "s4_x_1", language); // Geleceğin İşleri
-      allVariables.P40A5 = kariyer_secim(careerSelectionLastResult[1], 25, "s4_x_1", language);
-      allVariables.P40A6 = kariyer_secim(careerSelectionLastResult[2], 25, "s4_x_1", language);
+      allVariables.P40A1 = kariyer_secim(careerSelectionLastResult[0], age, "name", language);
+      allVariables.P40A2 = kariyer_secim(careerSelectionLastResult[1], age, "name", language);
+      allVariables.P40A3 = kariyer_secim(careerSelectionLastResult[2], age, "name", language);
+      allVariables.P40A4 = kariyer_secim(careerSelectionLastResult[0], age, "s4_x_1", language); // Geleceğin İşleri
+      allVariables.P40A5 = kariyer_secim(careerSelectionLastResult[1], age, "s4_x_1", language);
+      allVariables.P40A6 = kariyer_secim(careerSelectionLastResult[2], age, "s4_x_1", language);
   
-      allVariables.P41A1 = kariyer_secim(decision_strategyData.sectorName, 25, "sector", language); // Sana En uygun kariyer seçenekleri
-      allVariables.P41A2 = kariyer_secim(careerSelectionLastResult[0], 25, "s7_" + decision_strategyData.sectorName + "_x_1", language);
-      allVariables.P41A3 = kariyer_secim(careerSelectionLastResult[0], 25, "s7_" + decision_strategyData.sectorName + "_x_3", language);
-      allVariables.P41A4 = kariyer_secim(careerSelectionLastResult[0], 25, "s7_" + decision_strategyData.sectorName + "_x_4", language);
-      allVariables.P41A5 = kariyer_secim(careerSelectionLastResult[0], 25, "s7_" + decision_strategyData.sectorName + "_x_5", language);
-      allVariables.P41A6 = kariyer_secim(careerSelectionLastResult[0], 25, "s7_" + decision_strategyData.sectorName + "_x_6", language);
-      allVariables.P41A7 = kariyer_secim(careerSelectionLastResult[0], 25, "s7_" + decision_strategyData.sectorName + "_x_7", language);
-      allVariables.P41A8 = kariyer_secim(careerSelectionLastResult[1], 25, "s7_" + decision_strategyData.sectorName + "_x_1", language);
-      allVariables.P41A9 = kariyer_secim(careerSelectionLastResult[1], 25, "s7_" + decision_strategyData.sectorName + "_x_3", language);
-      allVariables.P41A10 = kariyer_secim(careerSelectionLastResult[1], 25, "s7_" + decision_strategyData.sectorName + "_x_4", language);
-      allVariables.P41A11 = kariyer_secim(careerSelectionLastResult[1], 25, "s7_" + decision_strategyData.sectorName + "_x_5", language);
-      allVariables.P41A12 = kariyer_secim(careerSelectionLastResult[1], 25, "s7_" + decision_strategyData.sectorName + "_x_6", language);
-      allVariables.P41A13 = kariyer_secim(careerSelectionLastResult[1], 25, "s7_" + decision_strategyData.sectorName + "_x_7", language);
-      allVariables.P41A14 = kariyer_secim(careerSelectionLastResult[2], 25, "s7_" + decision_strategyData.sectorName + "_x_1", language);
-      allVariables.P41A15 = kariyer_secim(careerSelectionLastResult[2], 25, "s7_" + decision_strategyData.sectorName + "_x_3", language);
-      allVariables.P41A16 = kariyer_secim(careerSelectionLastResult[2], 25, "s7_" + decision_strategyData.sectorName + "_x_4", language);
-      allVariables.P41A17 = kariyer_secim(careerSelectionLastResult[2], 25, "s7_" + decision_strategyData.sectorName + "_x_5", language);
-      allVariables.P41A18 = kariyer_secim(careerSelectionLastResult[2], 25, "s7_" + decision_strategyData.sectorName + "_x_6", language);
-      allVariables.P41A19 = kariyer_secim(careerSelectionLastResult[2], 25, "s7_" + decision_strategyData.sectorName + "_x_7", language);
+      allVariables.P41A1 = kariyer_secim(decision_strategyData.sectorName, age, "sector", language); // Sana En uygun kariyer seçenekleri
+      allVariables.P41A2 = kariyer_secim(careerSelectionLastResult[0], age, "s7_" + decision_strategyData.sectorName + "_x_1", language);
+      allVariables.P41A3 = kariyer_secim(careerSelectionLastResult[0], age, "s7_" + decision_strategyData.sectorName + "_x_3", language);
+      allVariables.P41A4 = kariyer_secim(careerSelectionLastResult[0], age, "s7_" + decision_strategyData.sectorName + "_x_4", language);
+      allVariables.P41A5 = kariyer_secim(careerSelectionLastResult[0], age, "s7_" + decision_strategyData.sectorName + "_x_5", language);
+      allVariables.P41A6 = kariyer_secim(careerSelectionLastResult[0], age, "s7_" + decision_strategyData.sectorName + "_x_6", language);
+      allVariables.P41A7 = kariyer_secim(careerSelectionLastResult[0], age, "s7_" + decision_strategyData.sectorName + "_x_7", language);
+      allVariables.P41A8 = kariyer_secim(careerSelectionLastResult[1], age, "s7_" + decision_strategyData.sectorName + "_x_1", language);
+      allVariables.P41A9 = kariyer_secim(careerSelectionLastResult[1], age, "s7_" + decision_strategyData.sectorName + "_x_3", language);
+      allVariables.P41A10 = kariyer_secim(careerSelectionLastResult[1], age, "s7_" + decision_strategyData.sectorName + "_x_4", language);
+      allVariables.P41A11 = kariyer_secim(careerSelectionLastResult[1], age, "s7_" + decision_strategyData.sectorName + "_x_5", language);
+      allVariables.P41A12 = kariyer_secim(careerSelectionLastResult[1], age, "s7_" + decision_strategyData.sectorName + "_x_6", language);
+      allVariables.P41A13 = kariyer_secim(careerSelectionLastResult[1], age, "s7_" + decision_strategyData.sectorName + "_x_7", language);
+      allVariables.P41A14 = kariyer_secim(careerSelectionLastResult[2], age, "s7_" + decision_strategyData.sectorName + "_x_1", language);
+      allVariables.P41A15 = kariyer_secim(careerSelectionLastResult[2], age, "s7_" + decision_strategyData.sectorName + "_x_3", language);
+      allVariables.P41A16 = kariyer_secim(careerSelectionLastResult[2], age, "s7_" + decision_strategyData.sectorName + "_x_4", language);
+      allVariables.P41A17 = kariyer_secim(careerSelectionLastResult[2], age, "s7_" + decision_strategyData.sectorName + "_x_5", language);
+      allVariables.P41A18 = kariyer_secim(careerSelectionLastResult[2], age, "s7_" + decision_strategyData.sectorName + "_x_6", language);
+      allVariables.P41A19 = kariyer_secim(careerSelectionLastResult[2], age, "s7_" + decision_strategyData.sectorName + "_x_7", language);
 
-      allVariables.P43A1 = kslk_ozl_ozet(hollandData[0].name, hollandData[1].name, 25, "ozet_1", language),
-      allVariables.P43A2 = kslk_ozl_ozet(hollandData[0].name, hollandData[1].name, 25, "ozet_2", language),
-      allVariables.P43A3 = krktr_ozl_ozet(big5Data[0].name, big5Data[1].name, 25, "ozet_1", language),
-      allVariables.P43A4 = krktr_ozl_ozet(big5Data[0].name, big5Data[1].name, 25, "ozet_2", language),
-      allVariables.P43A5 = lifestyle(lifestyleData[0], 25, "ozet_1", language),
-      allVariables.P43A6 = lifestyle(lifestyleData[0], 25, "ozet_2", language),
-      allVariables.P43A7 = worklearnstyle(worklearnData[0], 25, "ozet_1", language),
-      allVariables.P43A8 = worklearnstyle(worklearnData[0], 25, "ozet_2", language),
-      allVariables.P43A9 = decision_strategy(decision_strategyData, 25, "ozet_1", language),
-      allVariables.P43A10 = decision_strategy(decision_strategyData, 25, "ozet_2", language),
+      allVariables.P43A1 = kslk_ozl_ozet(hollandData[0].name, hollandData[1].name, age, "ozet_1", language),
+      allVariables.P43A2 = kslk_ozl_ozet(hollandData[0].name, hollandData[1].name, age, "ozet_2", language),
+      allVariables.P43A3 = krktr_ozl_ozet(big5Data[0].name, big5Data[1].name, age, "ozet_1", language),
+      allVariables.P43A4 = krktr_ozl_ozet(big5Data[0].name, big5Data[1].name, age, "ozet_2", language),
+      allVariables.P43A5 = lifestyle(lifestyleData[0], age, "ozet_1", language),
+      allVariables.P43A6 = lifestyle(lifestyleData[0], age, "ozet_2", language),
+      allVariables.P43A7 = worklearnstyle(worklearnData[0], age, "ozet_1", language),
+      allVariables.P43A8 = worklearnstyle(worklearnData[0], age, "ozet_2", language),
+      allVariables.P43A9 = decision_strategy(decision_strategyData, age, "ozet_1", language),
+      allVariables.P43A10 = decision_strategy(decision_strategyData, age, "ozet_2", language),
       allVariables.P43A11 = kariyer_secim(careerSelectionLastResult[0], age, "ozet_1", language),
       allVariables.P43A12 = kariyer_secim(careerSelectionLastResult[0], age, "ozet_2", language),
 
@@ -12907,89 +13104,89 @@ var decision_strategy_eng_s4_11_txt = "By adhering to this decision-making strat
   
       allVariables,
   
-      allVariables.P30A1 = guclu_yanlarin(guclu_yanlarinData[0], 25, guclu_yanlarinData[0].name + "_1", language); 
-      allVariables.P30A2 = guclu_yanlarin(guclu_yanlarinData[0], 25, guclu_yanlarinData[0].name + "_2", language); 
+      allVariables.P30A1 = guclu_yanlarin(guclu_yanlarinData[0], age, guclu_yanlarinData[0].name + "_1", language); 
+      allVariables.P30A2 = guclu_yanlarin(guclu_yanlarinData[0], age, guclu_yanlarinData[0].name + "_2", language); 
       
-      allVariables.P31A1 = guclu_yanlarin(guclu_yanlarinData[1], 25, guclu_yanlarinData[1].name + "_1", language);
-      allVariables.P31A2 = guclu_yanlarin(guclu_yanlarinData[1], 25, guclu_yanlarinData[1].name + "_2", language);
+      allVariables.P31A1 = guclu_yanlarin(guclu_yanlarinData[1], age, guclu_yanlarinData[1].name + "_1", language);
+      allVariables.P31A2 = guclu_yanlarin(guclu_yanlarinData[1], age, guclu_yanlarinData[1].name + "_2", language);
   
-      allVariables.P32A1 = guclu_yanlarin(guclu_yanlarinData[2], 25, guclu_yanlarinData[2].name + "_1", language);
-      allVariables.P32A2 = guclu_yanlarin(guclu_yanlarinData[2], 25, guclu_yanlarinData[2].name + "_2", language);
+      allVariables.P32A1 = guclu_yanlarin(guclu_yanlarinData[2], age, guclu_yanlarinData[2].name + "_1", language);
+      allVariables.P32A2 = guclu_yanlarin(guclu_yanlarinData[2], age, guclu_yanlarinData[2].name + "_2", language);
   
-      allVariables.P33A1 = guclu_yanlarin(guclu_yanlarinData[3], 25, guclu_yanlarinData[3].name + "_1", language);
-      allVariables.P33A2 = guclu_yanlarin(guclu_yanlarinData[3], 25, guclu_yanlarinData[3].name + "_2", language);
+      allVariables.P33A1 = guclu_yanlarin(guclu_yanlarinData[3], age, guclu_yanlarinData[3].name + "_1", language);
+      allVariables.P33A2 = guclu_yanlarin(guclu_yanlarinData[3], age, guclu_yanlarinData[3].name + "_2", language);
       
-      allVariables.P36A1 = decision_strategy(decision_strategyData, 25, "name", language); // Senin Karar Verme Stratejin
-      allVariables.P36A2 = decision_strategy(decision_strategyData, 25, "s3_x_2", language);
+      allVariables.P36A1 = decision_strategy(decision_strategyData, age, "name", language); // Senin Karar Verme Stratejin
+      allVariables.P36A2 = decision_strategy(decision_strategyData, age, "s3_x_2", language);
       allVariables.P36A3 = kararVermeStratejin1;
-      allVariables.P36A4 = decision_strategy(decision_strategyData, 25, "s3_x_3", language);
-      allVariables.P36A5 = decision_strategy(decision_strategyData, 25, "s3_x_4", language);
+      allVariables.P36A4 = decision_strategy(decision_strategyData, age, "s3_x_3", language);
+      allVariables.P36A5 = decision_strategy(decision_strategyData, age, "s3_x_4", language);
       
       allVariables.P37A1 = kararVermeStratejin2;
-      allVariables.P37A2 = decision_strategy(decision_strategyData, 25, "s4_x_text", language);
+      allVariables.P37A2 = decision_strategy(decision_strategyData, age, "s4_x_text", language);
       allVariables.P37A3 = kararVermeStratejin3;
-      allVariables.P37A4 = decision_strategy(decision_strategyData, 25, "s4_x_1", language);
-      allVariables.P37A5 = decision_strategy(decision_strategyData, 25, "s4_x_txt", language);
-      allVariables.P37A6 = decision_strategy(decision_strategyData, 25, "image", language);
+      allVariables.P37A4 = decision_strategy(decision_strategyData, age, "s4_x_1", language);
+      allVariables.P37A5 = decision_strategy(decision_strategyData, age, "s4_x_txt", language);
+      allVariables.P37A6 = decision_strategy(decision_strategyData, age, "image", language);
       
       allVariables.P38A1 = "image"; // Sana uygun kariyer dağılımların
-      allVariables.P38A2 = "1." + kariyer_secim(careerSelectionLastResult[0], 25, "name", language);
-      allVariables.P38A3 = "2." + kariyer_secim(careerSelectionLastResult[1], 25, "name", language);
-      allVariables.P38A4 = "3." + kariyer_secim(careerSelectionLastResult[2], 25, "name", language);
+      allVariables.P38A2 = "1." + kariyer_secim(careerSelectionLastResult[0], age, "name", language);
+      allVariables.P38A3 = "2." + kariyer_secim(careerSelectionLastResult[1], age, "name", language);
+      allVariables.P38A4 = "3." + kariyer_secim(careerSelectionLastResult[2], age, "name", language);
       
-      allVariables.P39A1 = kariyer_secim(careerSelectionLastResult[0], 25, "name", language);
-      allVariables.P39A2 = kariyer_secim(careerSelectionLastResult[0], 25, "s2_x_2", language);
-      allVariables.P39A3 = kariyer_secim(careerSelectionLastResult[1], 25, "name", language);
-      allVariables.P39A4 = kariyer_secim(careerSelectionLastResult[1], 25, "s2_x_2", language);
-      allVariables.P39A5 = kariyer_secim(careerSelectionLastResult[2], 25, "name", language);
-      allVariables.P39A6 = kariyer_secim(careerSelectionLastResult[2], 25, "s2_x_2", language);
+      allVariables.P39A1 = kariyer_secim(careerSelectionLastResult[0], age, "name", language);
+      allVariables.P39A2 = kariyer_secim(careerSelectionLastResult[0], age, "s2_x_2", language);
+      allVariables.P39A3 = kariyer_secim(careerSelectionLastResult[1], age, "name", language);
+      allVariables.P39A4 = kariyer_secim(careerSelectionLastResult[1], age, "s2_x_2", language);
+      allVariables.P39A5 = kariyer_secim(careerSelectionLastResult[2], age, "name", language);
+      allVariables.P39A6 = kariyer_secim(careerSelectionLastResult[2], age, "s2_x_2", language);
       
-      allVariables.P40A1 = kariyer_secim(careerSelectionLastResult[0], 25, "name", language); // Sana En uygun kariyer Seçenekleri Genel Sektörler
-      allVariables.P40A2 = kariyer_secim(careerSelectionLastResult[1], 25, "name", language);
-      allVariables.P40A3 = kariyer_secim(careerSelectionLastResult[2], 25, "name", language);
-      allVariables.P40A4 = kariyer_secim(careerSelectionLastResult[0], 25, "s3_x_1", language); // Güncel İşler
-      allVariables.P40A5 = kariyer_secim(careerSelectionLastResult[1], 25, "s3_x_1", language);
-      allVariables.P40A6 = kariyer_secim(careerSelectionLastResult[2], 25, "s3_x_1", language);
+      allVariables.P40A1 = kariyer_secim(careerSelectionLastResult[0], age, "name", language); // Sana En uygun kariyer Seçenekleri Genel Sektörler
+      allVariables.P40A2 = kariyer_secim(careerSelectionLastResult[1], age, "name", language);
+      allVariables.P40A3 = kariyer_secim(careerSelectionLastResult[2], age, "name", language);
+      allVariables.P40A4 = kariyer_secim(careerSelectionLastResult[0], age, "s3_x_1", language); // Güncel İşler
+      allVariables.P40A5 = kariyer_secim(careerSelectionLastResult[1], age, "s3_x_1", language);
+      allVariables.P40A6 = kariyer_secim(careerSelectionLastResult[2], age, "s3_x_1", language);
       
-      allVariables.P41A1 = kariyer_secim(careerSelectionLastResult[0], 25, "name", language);
-      allVariables.P41A2 = kariyer_secim(careerSelectionLastResult[1], 25, "name", language);
-      allVariables.P41A3 = kariyer_secim(careerSelectionLastResult[2], 25, "name", language);
-      allVariables.P41A4 = kariyer_secim(careerSelectionLastResult[0], 25, "s4_x_1", language); // Geleceğin İşleri
-      allVariables.P41A5 = kariyer_secim(careerSelectionLastResult[1], 25, "s4_x_1", language);
-      allVariables.P41A6 = kariyer_secim(careerSelectionLastResult[2], 25, "s4_x_1", language);    
+      allVariables.P41A1 = kariyer_secim(careerSelectionLastResult[0], age, "name", language);
+      allVariables.P41A2 = kariyer_secim(careerSelectionLastResult[1], age, "name", language);
+      allVariables.P41A3 = kariyer_secim(careerSelectionLastResult[2], age, "name", language);
+      allVariables.P41A4 = kariyer_secim(careerSelectionLastResult[0], age, "s4_x_1", language); // Geleceğin İşleri
+      allVariables.P41A5 = kariyer_secim(careerSelectionLastResult[1], age, "s4_x_1", language);
+      allVariables.P41A6 = kariyer_secim(careerSelectionLastResult[2], age, "s4_x_1", language);    
   
-      allVariables.P42A1 = kariyer_secim(decision_strategyData.sectorName, 25, "sector", language); // Sana En uygun kariyer seçenekleri
-      allVariables.P42A2 = kariyer_secim(careerSelectionLastResult[0], 25, "s7_" + decision_strategyData.sectorName + "_x_1", language);
-      allVariables.P42A3 = kariyer_secim(careerSelectionLastResult[0], 25, "s7_" + decision_strategyData.sectorName + "_x_3", language);
-      allVariables.P42A4 = kariyer_secim(careerSelectionLastResult[0], 25, "s7_" + decision_strategyData.sectorName + "_x_4", language);
-      allVariables.P42A5 = kariyer_secim(careerSelectionLastResult[0], 25, "s7_" + decision_strategyData.sectorName + "_x_5", language);
-      allVariables.P42A6 = kariyer_secim(careerSelectionLastResult[0], 25, "s7_" + decision_strategyData.sectorName + "_x_6", language);
-      allVariables.P42A7 = kariyer_secim(careerSelectionLastResult[0], 25, "s7_" + decision_strategyData.sectorName + "_x_7", language);
-      allVariables.P42A8 = kariyer_secim(careerSelectionLastResult[1], 25, "s7_" + decision_strategyData.sectorName + "_x_1", language);
-      allVariables.P42A9 = kariyer_secim(careerSelectionLastResult[1], 25, "s7_" + decision_strategyData.sectorName + "_x_3", language);
-      allVariables.P42A10 = kariyer_secim(careerSelectionLastResult[1], 25, "s7_" + decision_strategyData.sectorName + "_x_4", language);
-      allVariables.P42A11 = kariyer_secim(careerSelectionLastResult[1], 25, "s7_" + decision_strategyData.sectorName + "_x_5", language);
-      allVariables.P42A12 = kariyer_secim(careerSelectionLastResult[1], 25, "s7_" + decision_strategyData.sectorName + "_x_6", language);
-      allVariables.P42A13 = kariyer_secim(careerSelectionLastResult[1], 25, "s7_" + decision_strategyData.sectorName + "_x_7", language);
-      allVariables.P42A14 = kariyer_secim(careerSelectionLastResult[2], 25, "s7_" + decision_strategyData.sectorName + "_x_1", language);
-      allVariables.P42A15 = kariyer_secim(careerSelectionLastResult[2], 25, "s7_" + decision_strategyData.sectorName + "_x_3", language);
-      allVariables.P42A16 = kariyer_secim(careerSelectionLastResult[2], 25, "s7_" + decision_strategyData.sectorName + "_x_4", language);
-      allVariables.P42A17 = kariyer_secim(careerSelectionLastResult[2], 25, "s7_" + decision_strategyData.sectorName + "_x_5", language);
-      allVariables.P42A18 = kariyer_secim(careerSelectionLastResult[2], 25, "s7_" + decision_strategyData.sectorName + "_x_6", language);
-      allVariables.P42A19 = kariyer_secim(careerSelectionLastResult[2], 25, "s7_" + decision_strategyData.sectorName + "_x_7", language);
+      allVariables.P42A1 = kariyer_secim(decision_strategyData.sectorName, age, "sector", language); // Sana En uygun kariyer seçenekleri
+      allVariables.P42A2 = kariyer_secim(careerSelectionLastResult[0], age, "s7_" + decision_strategyData.sectorName + "_x_1", language);
+      allVariables.P42A3 = kariyer_secim(careerSelectionLastResult[0], age, "s7_" + decision_strategyData.sectorName + "_x_3", language);
+      allVariables.P42A4 = kariyer_secim(careerSelectionLastResult[0], age, "s7_" + decision_strategyData.sectorName + "_x_4", language);
+      allVariables.P42A5 = kariyer_secim(careerSelectionLastResult[0], age, "s7_" + decision_strategyData.sectorName + "_x_5", language);
+      allVariables.P42A6 = kariyer_secim(careerSelectionLastResult[0], age, "s7_" + decision_strategyData.sectorName + "_x_6", language);
+      allVariables.P42A7 = kariyer_secim(careerSelectionLastResult[0], age, "s7_" + decision_strategyData.sectorName + "_x_7", language);
+      allVariables.P42A8 = kariyer_secim(careerSelectionLastResult[1], age, "s7_" + decision_strategyData.sectorName + "_x_1", language);
+      allVariables.P42A9 = kariyer_secim(careerSelectionLastResult[1], age, "s7_" + decision_strategyData.sectorName + "_x_3", language);
+      allVariables.P42A10 = kariyer_secim(careerSelectionLastResult[1], age, "s7_" + decision_strategyData.sectorName + "_x_4", language);
+      allVariables.P42A11 = kariyer_secim(careerSelectionLastResult[1], age, "s7_" + decision_strategyData.sectorName + "_x_5", language);
+      allVariables.P42A12 = kariyer_secim(careerSelectionLastResult[1], age, "s7_" + decision_strategyData.sectorName + "_x_6", language);
+      allVariables.P42A13 = kariyer_secim(careerSelectionLastResult[1], age, "s7_" + decision_strategyData.sectorName + "_x_7", language);
+      allVariables.P42A14 = kariyer_secim(careerSelectionLastResult[2], age, "s7_" + decision_strategyData.sectorName + "_x_1", language);
+      allVariables.P42A15 = kariyer_secim(careerSelectionLastResult[2], age, "s7_" + decision_strategyData.sectorName + "_x_3", language);
+      allVariables.P42A16 = kariyer_secim(careerSelectionLastResult[2], age, "s7_" + decision_strategyData.sectorName + "_x_4", language);
+      allVariables.P42A17 = kariyer_secim(careerSelectionLastResult[2], age, "s7_" + decision_strategyData.sectorName + "_x_5", language);
+      allVariables.P42A18 = kariyer_secim(careerSelectionLastResult[2], age, "s7_" + decision_strategyData.sectorName + "_x_6", language);
+      allVariables.P42A19 = kariyer_secim(careerSelectionLastResult[2], age, "s7_" + decision_strategyData.sectorName + "_x_7", language);
 
-      allVariables.P44A1 = kslk_ozl_ozet(hollandData[0].name, hollandData[1].name, 25, "ozet_1", language),
-      allVariables.P44A2 = kslk_ozl_ozet(hollandData[0].name, hollandData[1].name, 25, "ozet_2", language),
-      allVariables.P44A3 = krktr_ozl_ozet(big5Data[0].name, big5Data[1].name, 25, "ozet_1", language),
-      allVariables.P44A4 = krktr_ozl_ozet(big5Data[0].name, big5Data[1].name, 25, "ozet_2", language),
-      allVariables.P44A5 = lifestyle(lifestyleData[0], 25, "ozet_1", language),
-      allVariables.P44A6 = lifestyle(lifestyleData[0], 25, "ozet_2", language),
-      allVariables.P44A7 = worklearnstyle(worklearnData[0], 25, "ozet_1", language),
-      allVariables.P44A8 = worklearnstyle(worklearnData[0], 25, "ozet_2", language),
-      allVariables.P44A9 = decision_strategy(decision_strategyData, 25, "ozet_1", language),
-      allVariables.P44A10 = decision_strategy(decision_strategyData, 25, "ozet_2", language),
-      allVariables.P44A11 = kariyer_secim(careerSelectionLastResult[0], 25, "ozet_1", language),
-      allVariables.P44A12 = kariyer_secim(careerSelectionLastResult[0], 25, "ozet_2", language),
+      allVariables.P44A1 = kslk_ozl_ozet(hollandData[0].name, hollandData[1].name, age, "ozet_1", language),
+      allVariables.P44A2 = kslk_ozl_ozet(hollandData[0].name, hollandData[1].name, age, "ozet_2", language),
+      allVariables.P44A3 = krktr_ozl_ozet(big5Data[0].name, big5Data[1].name, age, "ozet_1", language),
+      allVariables.P44A4 = krktr_ozl_ozet(big5Data[0].name, big5Data[1].name, age, "ozet_2", language),
+      allVariables.P44A5 = lifestyle(lifestyleData[0], age, "ozet_1", language),
+      allVariables.P44A6 = lifestyle(lifestyleData[0], age, "ozet_2", language),
+      allVariables.P44A7 = worklearnstyle(worklearnData[0], age, "ozet_1", language),
+      allVariables.P44A8 = worklearnstyle(worklearnData[0], age, "ozet_2", language),
+      allVariables.P44A9 = decision_strategy(decision_strategyData, age, "ozet_1", language),
+      allVariables.P44A10 = decision_strategy(decision_strategyData, age, "ozet_2", language),
+      allVariables.P44A11 = kariyer_secim(careerSelectionLastResult[0], age, "ozet_1", language),
+      allVariables.P44A12 = kariyer_secim(careerSelectionLastResult[0], age, "ozet_2", language),
 
       allVariables.P45A1 = dearName;
   
@@ -13077,92 +13274,92 @@ var decision_strategy_eng_s4_11_txt = "By adhering to this decision-making strat
       };
     } else if (usageGate.length === 5) {
   
-      allVariables.P30A1 = guclu_yanlarin(guclu_yanlarinData[0], 25, guclu_yanlarinData[0].name + "_1", language); 
-      allVariables.P30A2 = guclu_yanlarin(guclu_yanlarinData[0], 25, guclu_yanlarinData[0].name + "_2", language); 
+      allVariables.P30A1 = guclu_yanlarin(guclu_yanlarinData[0], age, guclu_yanlarinData[0].name + "_1", language); 
+      allVariables.P30A2 = guclu_yanlarin(guclu_yanlarinData[0], age, guclu_yanlarinData[0].name + "_2", language); 
   
-      allVariables.P31A1 = guclu_yanlarin(guclu_yanlarinData[1], 25, guclu_yanlarinData[1].name + "_1", language);
-      allVariables.P31A2 = guclu_yanlarin(guclu_yanlarinData[1], 25, guclu_yanlarinData[1].name + "_2", language);
+      allVariables.P31A1 = guclu_yanlarin(guclu_yanlarinData[1], age, guclu_yanlarinData[1].name + "_1", language);
+      allVariables.P31A2 = guclu_yanlarin(guclu_yanlarinData[1], age, guclu_yanlarinData[1].name + "_2", language);
   
-      allVariables.P32A1 = guclu_yanlarin(guclu_yanlarinData[2], 25, guclu_yanlarinData[2].name + "_1", language);
-      allVariables.P32A2 = guclu_yanlarin(guclu_yanlarinData[2], 25, guclu_yanlarinData[2].name + "_2", language);
+      allVariables.P32A1 = guclu_yanlarin(guclu_yanlarinData[2], age, guclu_yanlarinData[2].name + "_1", language);
+      allVariables.P32A2 = guclu_yanlarin(guclu_yanlarinData[2], age, guclu_yanlarinData[2].name + "_2", language);
   
-      allVariables.P33A1 = guclu_yanlarin(guclu_yanlarinData[3], 25, guclu_yanlarinData[3].name + "_1", language);
-      allVariables.P33A2 = guclu_yanlarin(guclu_yanlarinData[3], 25, guclu_yanlarinData[3].name + "_2", language);;
+      allVariables.P33A1 = guclu_yanlarin(guclu_yanlarinData[3], age, guclu_yanlarinData[3].name + "_1", language);
+      allVariables.P33A2 = guclu_yanlarin(guclu_yanlarinData[3], age, guclu_yanlarinData[3].name + "_2", language);;
   
-      allVariables.P34A1 = guclu_yanlarin(guclu_yanlarinData[4], 25, guclu_yanlarinData[4].name + "_1", language);
-      allVariables.P34A2 = guclu_yanlarin(guclu_yanlarinData[4], 25, guclu_yanlarinData[4].name + "_2", language);
+      allVariables.P34A1 = guclu_yanlarin(guclu_yanlarinData[4], age, guclu_yanlarinData[4].name + "_1", language);
+      allVariables.P34A2 = guclu_yanlarin(guclu_yanlarinData[4], age, guclu_yanlarinData[4].name + "_2", language);
       
-      allVariables.P37A1 = decision_strategy(decision_strategyData, 25, "name", language); // Senin Karar Verme Stratejin
-      allVariables.P37A2 = decision_strategy(decision_strategyData, 25, "s3_x_2", language);
+      allVariables.P37A1 = decision_strategy(decision_strategyData, age, "name", language); // Senin Karar Verme Stratejin
+      allVariables.P37A2 = decision_strategy(decision_strategyData, age, "s3_x_2", language);
       allVariables.P37A3 = kararVermeStratejin1;
-      allVariables.P37A4 = decision_strategy(decision_strategyData, 25, "s3_x_3", language);
-      allVariables.P37A5 = decision_strategy(decision_strategyData, 25, "s3_x_4", language);
+      allVariables.P37A4 = decision_strategy(decision_strategyData, age, "s3_x_3", language);
+      allVariables.P37A5 = decision_strategy(decision_strategyData, age, "s3_x_4", language);
   
       allVariables.P38A1 = kararVermeStratejin2;
-      allVariables.P38A2 = decision_strategy(decision_strategyData, 25, "s4_x_text", language);
+      allVariables.P38A2 = decision_strategy(decision_strategyData, age, "s4_x_text", language);
       allVariables.P38A3 = kararVermeStratejin3;
-      allVariables.P38A4 = decision_strategy(decision_strategyData, 25, "s4_x_1", language);
-      allVariables.P38A5 = decision_strategy(decision_strategyData, 25, "s4_x_txt", language);
-      allVariables.P38A6 = decision_strategy(decision_strategyData, 25, "image", language);
+      allVariables.P38A4 = decision_strategy(decision_strategyData, age, "s4_x_1", language);
+      allVariables.P38A5 = decision_strategy(decision_strategyData, age, "s4_x_txt", language);
+      allVariables.P38A6 = decision_strategy(decision_strategyData, age, "image", language);
   
       allVariables.P39A1 = "image"; // Sana uygun kariyer dağılımların
-      allVariables.P39A2 = "1." + kariyer_secim(careerSelectionLastResult[0], 25, "name", language);
-      allVariables.P39A3 = "2." + kariyer_secim(careerSelectionLastResult[1], 25, "name", language);
-      allVariables.P39A4 = "3." + kariyer_secim(careerSelectionLastResult[2], 25, "name", language);
+      allVariables.P39A2 = "1." + kariyer_secim(careerSelectionLastResult[0], age, "name", language);
+      allVariables.P39A3 = "2." + kariyer_secim(careerSelectionLastResult[1], age, "name", language);
+      allVariables.P39A4 = "3." + kariyer_secim(careerSelectionLastResult[2], age, "name", language);
   
-      allVariables.P40A1 = kariyer_secim(careerSelectionLastResult[0], 25, "name", language);
-      allVariables.P40A2 = kariyer_secim(careerSelectionLastResult[0], 25, "s2_x_2", language);
-      allVariables.P40A3 = kariyer_secim(careerSelectionLastResult[1], 25, "name", language);
-      allVariables.P40A4 = kariyer_secim(careerSelectionLastResult[1], 25, "s2_x_2", language);
-      allVariables.P40A5 = kariyer_secim(careerSelectionLastResult[2], 25, "name", language);
-      allVariables.P40A6 = kariyer_secim(careerSelectionLastResult[2], 25, "s2_x_2", language);
+      allVariables.P40A1 = kariyer_secim(careerSelectionLastResult[0], age, "name", language);
+      allVariables.P40A2 = kariyer_secim(careerSelectionLastResult[0], age, "s2_x_2", language);
+      allVariables.P40A3 = kariyer_secim(careerSelectionLastResult[1], age, "name", language);
+      allVariables.P40A4 = kariyer_secim(careerSelectionLastResult[1], age, "s2_x_2", language);
+      allVariables.P40A5 = kariyer_secim(careerSelectionLastResult[2], age, "name", language);
+      allVariables.P40A6 = kariyer_secim(careerSelectionLastResult[2], age, "s2_x_2", language);
   
-      allVariables.P41A1 = kariyer_secim(careerSelectionLastResult[0], 25, "name", language); // Sana En uygun kariyer Seçenekleri Genel Sektörler
-      allVariables.P41A2 = kariyer_secim(careerSelectionLastResult[1], 25, "name", language);
-      allVariables.P41A3 = kariyer_secim(careerSelectionLastResult[2], 25, "name", language);
-      allVariables.P41A4 = kariyer_secim(careerSelectionLastResult[0], 25, "s3_x_1", language); // Güncel İşler
-      allVariables.P41A5 = kariyer_secim(careerSelectionLastResult[1], 25, "s3_x_1", language);
-      allVariables.P41A6 = kariyer_secim(careerSelectionLastResult[2], 25, "s3_x_1", language);
+      allVariables.P41A1 = kariyer_secim(careerSelectionLastResult[0], age, "name", language); // Sana En uygun kariyer Seçenekleri Genel Sektörler
+      allVariables.P41A2 = kariyer_secim(careerSelectionLastResult[1], age, "name", language);
+      allVariables.P41A3 = kariyer_secim(careerSelectionLastResult[2], age, "name", language);
+      allVariables.P41A4 = kariyer_secim(careerSelectionLastResult[0], age, "s3_x_1", language); // Güncel İşler
+      allVariables.P41A5 = kariyer_secim(careerSelectionLastResult[1], age, "s3_x_1", language);
+      allVariables.P41A6 = kariyer_secim(careerSelectionLastResult[2], age, "s3_x_1", language);
   
-      allVariables.P42A1 = kariyer_secim(careerSelectionLastResult[0], 25, "name", language);
-      allVariables.P42A2 = kariyer_secim(careerSelectionLastResult[1], 25, "name", language);
-      allVariables.P42A3 = kariyer_secim(careerSelectionLastResult[2], 25, "name", language);
-      allVariables.P42A4 = kariyer_secim(careerSelectionLastResult[0], 25, "s4_x_1", language); // Geleceğin İşleri
-      allVariables.P42A5 = kariyer_secim(careerSelectionLastResult[1], 25, "s4_x_1", language);
-      allVariables.P42A6 = kariyer_secim(careerSelectionLastResult[2], 25, "s4_x_1", language);
+      allVariables.P42A1 = kariyer_secim(careerSelectionLastResult[0], age, "name", language);
+      allVariables.P42A2 = kariyer_secim(careerSelectionLastResult[1], age, "name", language);
+      allVariables.P42A3 = kariyer_secim(careerSelectionLastResult[2], age, "name", language);
+      allVariables.P42A4 = kariyer_secim(careerSelectionLastResult[0], age, "s4_x_1", language); // Geleceğin İşleri
+      allVariables.P42A5 = kariyer_secim(careerSelectionLastResult[1], age, "s4_x_1", language);
+      allVariables.P42A6 = kariyer_secim(careerSelectionLastResult[2], age, "s4_x_1", language);
   
-      allVariables.P43A1 = kariyer_secim(decision_strategyData.sectorName, 25, "sector", language); // Sana En uygun kariyer seçenekleri
-      allVariables.P43A2 = kariyer_secim(careerSelectionLastResult[0], 25, "s7_" + decision_strategyData.sectorName + "_x_1", language);
-      allVariables.P43A3 = kariyer_secim(careerSelectionLastResult[0], 25, "s7_" + decision_strategyData.sectorName + "_x_3", language);
-      allVariables.P43A4 = kariyer_secim(careerSelectionLastResult[0], 25, "s7_" + decision_strategyData.sectorName + "_x_4", language);
-      allVariables.P43A5 = kariyer_secim(careerSelectionLastResult[0], 25, "s7_" + decision_strategyData.sectorName + "_x_5", language);
-      allVariables.P43A6 = kariyer_secim(careerSelectionLastResult[0], 25, "s7_" + decision_strategyData.sectorName + "_x_6", language);
-      allVariables.P43A7 = kariyer_secim(careerSelectionLastResult[0], 25, "s7_" + decision_strategyData.sectorName + "_x_7", language);
-      allVariables.P43A8 = kariyer_secim(careerSelectionLastResult[1], 25, "s7_" + decision_strategyData.sectorName + "_x_1", language);
-      allVariables.P43A9 = kariyer_secim(careerSelectionLastResult[1], 25, "s7_" + decision_strategyData.sectorName + "_x_3", language);
-      allVariables.P43A10 = kariyer_secim(careerSelectionLastResult[1], 25, "s7_" + decision_strategyData.sectorName + "_x_4", language);
-      allVariables.P43A11 = kariyer_secim(careerSelectionLastResult[1], 25, "s7_" + decision_strategyData.sectorName + "_x_5", language);
-      allVariables.P43A12 = kariyer_secim(careerSelectionLastResult[1], 25, "s7_" + decision_strategyData.sectorName + "_x_6", language);
-      allVariables.P43A13 = kariyer_secim(careerSelectionLastResult[1], 25, "s7_" + decision_strategyData.sectorName + "_x_7", language);
-      allVariables.P43A14 = kariyer_secim(careerSelectionLastResult[2], 25, "s7_" + decision_strategyData.sectorName + "_x_1", language);
-      allVariables.P43A15 = kariyer_secim(careerSelectionLastResult[2], 25, "s7_" + decision_strategyData.sectorName + "_x_3", language);
-      allVariables.P43A16 = kariyer_secim(careerSelectionLastResult[2], 25, "s7_" + decision_strategyData.sectorName + "_x_4", language);
-      allVariables.P43A17 = kariyer_secim(careerSelectionLastResult[2], 25, "s7_" + decision_strategyData.sectorName + "_x_5", language);
-      allVariables.P43A18 = kariyer_secim(careerSelectionLastResult[2], 25, "s7_" + decision_strategyData.sectorName + "_x_6", language);
-      allVariables.P43A19 = kariyer_secim(careerSelectionLastResult[2], 25, "s7_" + decision_strategyData.sectorName + "_x_7", language);
+      allVariables.P43A1 = kariyer_secim(decision_strategyData.sectorName, age, "sector", language); // Sana En uygun kariyer seçenekleri
+      allVariables.P43A2 = kariyer_secim(careerSelectionLastResult[0], age, "s7_" + decision_strategyData.sectorName + "_x_1", language);
+      allVariables.P43A3 = kariyer_secim(careerSelectionLastResult[0], age, "s7_" + decision_strategyData.sectorName + "_x_3", language);
+      allVariables.P43A4 = kariyer_secim(careerSelectionLastResult[0], age, "s7_" + decision_strategyData.sectorName + "_x_4", language);
+      allVariables.P43A5 = kariyer_secim(careerSelectionLastResult[0], age, "s7_" + decision_strategyData.sectorName + "_x_5", language);
+      allVariables.P43A6 = kariyer_secim(careerSelectionLastResult[0], age, "s7_" + decision_strategyData.sectorName + "_x_6", language);
+      allVariables.P43A7 = kariyer_secim(careerSelectionLastResult[0], age, "s7_" + decision_strategyData.sectorName + "_x_7", language);
+      allVariables.P43A8 = kariyer_secim(careerSelectionLastResult[1], age, "s7_" + decision_strategyData.sectorName + "_x_1", language);
+      allVariables.P43A9 = kariyer_secim(careerSelectionLastResult[1], age, "s7_" + decision_strategyData.sectorName + "_x_3", language);
+      allVariables.P43A10 = kariyer_secim(careerSelectionLastResult[1], age, "s7_" + decision_strategyData.sectorName + "_x_4", language);
+      allVariables.P43A11 = kariyer_secim(careerSelectionLastResult[1], age, "s7_" + decision_strategyData.sectorName + "_x_5", language);
+      allVariables.P43A12 = kariyer_secim(careerSelectionLastResult[1], age, "s7_" + decision_strategyData.sectorName + "_x_6", language);
+      allVariables.P43A13 = kariyer_secim(careerSelectionLastResult[1], age, "s7_" + decision_strategyData.sectorName + "_x_7", language);
+      allVariables.P43A14 = kariyer_secim(careerSelectionLastResult[2], age, "s7_" + decision_strategyData.sectorName + "_x_1", language);
+      allVariables.P43A15 = kariyer_secim(careerSelectionLastResult[2], age, "s7_" + decision_strategyData.sectorName + "_x_3", language);
+      allVariables.P43A16 = kariyer_secim(careerSelectionLastResult[2], age, "s7_" + decision_strategyData.sectorName + "_x_4", language);
+      allVariables.P43A17 = kariyer_secim(careerSelectionLastResult[2], age, "s7_" + decision_strategyData.sectorName + "_x_5", language);
+      allVariables.P43A18 = kariyer_secim(careerSelectionLastResult[2], age, "s7_" + decision_strategyData.sectorName + "_x_6", language);
+      allVariables.P43A19 = kariyer_secim(careerSelectionLastResult[2], age, "s7_" + decision_strategyData.sectorName + "_x_7", language);
 
-      allVariables.P45A1 = kslk_ozl_ozet(hollandData[0].name, hollandData[1].name, 25, "ozet_1", language),
-      allVariables.P45A2 = kslk_ozl_ozet(hollandData[0].name, hollandData[1].name, 25, "ozet_2", language),
-      allVariables.P45A3 = krktr_ozl_ozet(big5Data[0].name, big5Data[1].name, 25, "ozet_1", language),
-      allVariables.P45A4 = krktr_ozl_ozet(big5Data[0].name, big5Data[1].name, 25, "ozet_2", language),
-      allVariables.P45A5 = lifestyle(lifestyleData[0], 25, "ozet_1", language),
-      allVariables.P45A6 = lifestyle(lifestyleData[0], 25, "ozet_2", language),
-      allVariables.P45A7 = worklearnstyle(worklearnData[0], 25, "ozet_1", language),
-      allVariables.P45A8 = worklearnstyle(worklearnData[0], 25, "ozet_2", language),
-      allVariables.P45A9 = decision_strategy(decision_strategyData, 25, "ozet_1", language),
-      allVariables.P45A10 = decision_strategy(decision_strategyData, 25, "ozet_2", language),
-      allVariables.P45A11 = kariyer_secim(careerSelectionLastResult[0], 25, "ozet_1", language),
-      allVariables.P45A12 = kariyer_secim(careerSelectionLastResult[0], 25, "ozet_2", language),
+      allVariables.P45A1 = kslk_ozl_ozet(hollandData[0].name, hollandData[1].name, age, "ozet_1", language),
+      allVariables.P45A2 = kslk_ozl_ozet(hollandData[0].name, hollandData[1].name, age, "ozet_2", language),
+      allVariables.P45A3 = krktr_ozl_ozet(big5Data[0].name, big5Data[1].name, age, "ozet_1", language),
+      allVariables.P45A4 = krktr_ozl_ozet(big5Data[0].name, big5Data[1].name, age, "ozet_2", language),
+      allVariables.P45A5 = lifestyle(lifestyleData[0], age, "ozet_1", language),
+      allVariables.P45A6 = lifestyle(lifestyleData[0], age, "ozet_2", language),
+      allVariables.P45A7 = worklearnstyle(worklearnData[0], age, "ozet_1", language),
+      allVariables.P45A8 = worklearnstyle(worklearnData[0], age, "ozet_2", language),
+      allVariables.P45A9 = decision_strategy(decision_strategyData, age, "ozet_1", language),
+      allVariables.P45A10 = decision_strategy(decision_strategyData, age, "ozet_2", language),
+      allVariables.P45A11 = kariyer_secim(careerSelectionLastResult[0], age, "ozet_1", language),
+      allVariables.P45A12 = kariyer_secim(careerSelectionLastResult[0], age, "ozet_2", language),
   
       allVariables.P46A1 = dearName;
   
@@ -13257,95 +13454,95 @@ var decision_strategy_eng_s4_11_txt = "By adhering to this decision-making strat
   
       allVariables,
   
-      allVariables.P30A1 = guclu_yanlarin(guclu_yanlarinData[0], 25, guclu_yanlarinData[0].name + "_1", language); 
-      allVariables.P30A2 = guclu_yanlarin(guclu_yanlarinData[0], 25, guclu_yanlarinData[0].name + "_2", language); 
+      allVariables.P30A1 = guclu_yanlarin(guclu_yanlarinData[0], age, guclu_yanlarinData[0].name + "_1", language); 
+      allVariables.P30A2 = guclu_yanlarin(guclu_yanlarinData[0], age, guclu_yanlarinData[0].name + "_2", language); 
       
-      allVariables.P31A1 = guclu_yanlarin(guclu_yanlarinData[1], 25, guclu_yanlarinData[1].name + "_1", language);
-      allVariables.P31A2 = guclu_yanlarin(guclu_yanlarinData[1], 25, guclu_yanlarinData[1].name + "_2", language);
+      allVariables.P31A1 = guclu_yanlarin(guclu_yanlarinData[1], age, guclu_yanlarinData[1].name + "_1", language);
+      allVariables.P31A2 = guclu_yanlarin(guclu_yanlarinData[1], age, guclu_yanlarinData[1].name + "_2", language);
   
-      allVariables.P32A1 = guclu_yanlarin(guclu_yanlarinData[2], 25, guclu_yanlarinData[2].name + "_1", language);
-      allVariables.P32A2 = guclu_yanlarin(guclu_yanlarinData[2], 25, guclu_yanlarinData[2].name + "_2", language);
+      allVariables.P32A1 = guclu_yanlarin(guclu_yanlarinData[2], age, guclu_yanlarinData[2].name + "_1", language);
+      allVariables.P32A2 = guclu_yanlarin(guclu_yanlarinData[2], age, guclu_yanlarinData[2].name + "_2", language);
   
-      allVariables.P33A1 = guclu_yanlarin(guclu_yanlarinData[3], 25, guclu_yanlarinData[3].name + "_1", language);
-      allVariables.P33A2 = guclu_yanlarin(guclu_yanlarinData[3], 25, guclu_yanlarinData[3].name + "_2", language);
+      allVariables.P33A1 = guclu_yanlarin(guclu_yanlarinData[3], age, guclu_yanlarinData[3].name + "_1", language);
+      allVariables.P33A2 = guclu_yanlarin(guclu_yanlarinData[3], age, guclu_yanlarinData[3].name + "_2", language);
   
-      allVariables.P34A1 = guclu_yanlarin(guclu_yanlarinData[4], 25, guclu_yanlarinData[4].name + "_1", language);
-      allVariables.P34A2 = guclu_yanlarin(guclu_yanlarinData[4], 25, guclu_yanlarinData[4].name + "_2", language);
+      allVariables.P34A1 = guclu_yanlarin(guclu_yanlarinData[4], age, guclu_yanlarinData[4].name + "_1", language);
+      allVariables.P34A2 = guclu_yanlarin(guclu_yanlarinData[4], age, guclu_yanlarinData[4].name + "_2", language);
   
-      allVariables.P35A1 = guclu_yanlarin(guclu_yanlarinData[5], 25, guclu_yanlarinData[5].name + "_1", language);
-      allVariables.P35A2 = guclu_yanlarin(guclu_yanlarinData[5], 25, guclu_yanlarinData[5].name + "_2", language);
+      allVariables.P35A1 = guclu_yanlarin(guclu_yanlarinData[5], age, guclu_yanlarinData[5].name + "_1", language);
+      allVariables.P35A2 = guclu_yanlarin(guclu_yanlarinData[5], age, guclu_yanlarinData[5].name + "_2", language);
   
-      allVariables.P38A1 = decision_strategy(decision_strategyData, 25, "name", language); // Senin Karar Verme Stratejin
-      allVariables.P38A2 = decision_strategy(decision_strategyData, 25, "s3_x_2", language);
+      allVariables.P38A1 = decision_strategy(decision_strategyData, age, "name", language); // Senin Karar Verme Stratejin
+      allVariables.P38A2 = decision_strategy(decision_strategyData, age, "s3_x_2", language);
       allVariables.P38A3 = kararVermeStratejin1;
-      allVariables.P38A4 = decision_strategy(decision_strategyData, 25, "s3_x_3", language);
-      allVariables.P38A5 = decision_strategy(decision_strategyData, 25, "s3_x_4", language);
+      allVariables.P38A4 = decision_strategy(decision_strategyData, age, "s3_x_3", language);
+      allVariables.P38A5 = decision_strategy(decision_strategyData, age, "s3_x_4", language);
   
       allVariables.P39A1 = kararVermeStratejin2;
-      allVariables.P39A2 = decision_strategy(decision_strategyData, 25, "s4_x_text", language);
+      allVariables.P39A2 = decision_strategy(decision_strategyData, age, "s4_x_text", language);
       allVariables.P39A3 = kararVermeStratejin3;
-      allVariables.P39A4 = decision_strategy(decision_strategyData, 25, "s4_x_1", language);
-      allVariables.P39A5 = decision_strategy(decision_strategyData, 25, "s4_x_txt", language);
-      allVariables.P39A6 = decision_strategy(decision_strategyData, 25, "image", language);
+      allVariables.P39A4 = decision_strategy(decision_strategyData, age, "s4_x_1", language);
+      allVariables.P39A5 = decision_strategy(decision_strategyData, age, "s4_x_txt", language);
+      allVariables.P39A6 = decision_strategy(decision_strategyData, age, "image", language);
   
       allVariables.P40A1 = "image"; // Sana uygun kariyer dağılımların
-      allVariables.P40A2 = "1." + kariyer_secim(careerSelectionLastResult[0], 25, "name", language);
-      allVariables.P40A3 = "2." + kariyer_secim(careerSelectionLastResult[1], 25, "name", language);
-      allVariables.P40A4 = "3." + kariyer_secim(careerSelectionLastResult[2], 25, "name", language);
+      allVariables.P40A2 = "1." + kariyer_secim(careerSelectionLastResult[0], age, "name", language);
+      allVariables.P40A3 = "2." + kariyer_secim(careerSelectionLastResult[1], age, "name", language);
+      allVariables.P40A4 = "3." + kariyer_secim(careerSelectionLastResult[2], age, "name", language);
   
-      allVariables.P41A1 = kariyer_secim(careerSelectionLastResult[0], 25, "name", language);
-      allVariables.P41A2 = kariyer_secim(careerSelectionLastResult[0], 25, "s2_x_2", language);
-      allVariables.P41A3 = kariyer_secim(careerSelectionLastResult[1], 25, "name", language);
-      allVariables.P41A4 = kariyer_secim(careerSelectionLastResult[1], 25, "s2_x_2", language);
-      allVariables.P41A5 = kariyer_secim(careerSelectionLastResult[2], 25, "name", language);
-      allVariables.P41A6 = kariyer_secim(careerSelectionLastResult[2], 25, "s2_x_2", language);
+      allVariables.P41A1 = kariyer_secim(careerSelectionLastResult[0], age, "name", language);
+      allVariables.P41A2 = kariyer_secim(careerSelectionLastResult[0], age, "s2_x_2", language);
+      allVariables.P41A3 = kariyer_secim(careerSelectionLastResult[1], age, "name", language);
+      allVariables.P41A4 = kariyer_secim(careerSelectionLastResult[1], age, "s2_x_2", language);
+      allVariables.P41A5 = kariyer_secim(careerSelectionLastResult[2], age, "name", language);
+      allVariables.P41A6 = kariyer_secim(careerSelectionLastResult[2], age, "s2_x_2", language);
   
-      allVariables.P42A1 = kariyer_secim(careerSelectionLastResult[0], 25, "name", language); // Sana En uygun kariyer Seçenekleri Genel Sektörler
-      allVariables.P42A2 = kariyer_secim(careerSelectionLastResult[1], 25, "name", language);
-      allVariables.P42A3 = kariyer_secim(careerSelectionLastResult[2], 25, "name", language);
-      allVariables.P42A4 = kariyer_secim(careerSelectionLastResult[0], 25, "s3_x_1", language); // Güncel İşler
-      allVariables.P42A5 = kariyer_secim(careerSelectionLastResult[1], 25, "s3_x_1", language);
-      allVariables.P42A6 = kariyer_secim(careerSelectionLastResult[2], 25, "s3_x_1", language);
+      allVariables.P42A1 = kariyer_secim(careerSelectionLastResult[0], age, "name", language); // Sana En uygun kariyer Seçenekleri Genel Sektörler
+      allVariables.P42A2 = kariyer_secim(careerSelectionLastResult[1], age, "name", language);
+      allVariables.P42A3 = kariyer_secim(careerSelectionLastResult[2], age, "name", language);
+      allVariables.P42A4 = kariyer_secim(careerSelectionLastResult[0], age, "s3_x_1", language); // Güncel İşler
+      allVariables.P42A5 = kariyer_secim(careerSelectionLastResult[1], age, "s3_x_1", language);
+      allVariables.P42A6 = kariyer_secim(careerSelectionLastResult[2], age, "s3_x_1", language);
   
-      allVariables.P43A1 = kariyer_secim(careerSelectionLastResult[0], 25, "name", language);
-      allVariables.P43A2 = kariyer_secim(careerSelectionLastResult[1], 25, "name", language);
-      allVariables.P43A3 = kariyer_secim(careerSelectionLastResult[2], 25, "name", language);
-      allVariables.P43A4 = kariyer_secim(careerSelectionLastResult[0], 25, "s4_x_1", language); // Geleceğin İşleri
-      allVariables.P43A5 = kariyer_secim(careerSelectionLastResult[1], 25, "s4_x_1", language);
-      allVariables.P43A6 = kariyer_secim(careerSelectionLastResult[2], 25, "s4_x_1", language);
+      allVariables.P43A1 = kariyer_secim(careerSelectionLastResult[0], age, "name", language);
+      allVariables.P43A2 = kariyer_secim(careerSelectionLastResult[1], age, "name", language);
+      allVariables.P43A3 = kariyer_secim(careerSelectionLastResult[2], age, "name", language);
+      allVariables.P43A4 = kariyer_secim(careerSelectionLastResult[0], age, "s4_x_1", language); // Geleceğin İşleri
+      allVariables.P43A5 = kariyer_secim(careerSelectionLastResult[1], age, "s4_x_1", language);
+      allVariables.P43A6 = kariyer_secim(careerSelectionLastResult[2], age, "s4_x_1", language);
   
-      allVariables.P44A1 = kariyer_secim(decision_strategyData.sectorName, 25, "sector", language); // Sana En uygun kariyer seçenekleri
-      allVariables.P44A2 = kariyer_secim(careerSelectionLastResult[0], 25, "s7_" + decision_strategyData.sectorName + "_x_1", language);
-      allVariables.P44A3 = kariyer_secim(careerSelectionLastResult[0], 25, "s7_" + decision_strategyData.sectorName + "_x_3", language);
-      allVariables.P44A4 = kariyer_secim(careerSelectionLastResult[0], 25, "s7_" + decision_strategyData.sectorName + "_x_4", language);
-      allVariables.P44A5 = kariyer_secim(careerSelectionLastResult[0], 25, "s7_" + decision_strategyData.sectorName + "_x_5", language);
-      allVariables.P44A6 = kariyer_secim(careerSelectionLastResult[0], 25, "s7_" + decision_strategyData.sectorName + "_x_6", language);
-      allVariables.P44A7 = kariyer_secim(careerSelectionLastResult[0], 25, "s7_" + decision_strategyData.sectorName + "_x_7", language);
-      allVariables.P44A8 = kariyer_secim(careerSelectionLastResult[1], 25, "s7_" + decision_strategyData.sectorName + "_x_1", language);
-      allVariables.P44A9 = kariyer_secim(careerSelectionLastResult[1], 25, "s7_" + decision_strategyData.sectorName + "_x_3", language);
-      allVariables.P44A10 = kariyer_secim(careerSelectionLastResult[1], 25, "s7_" + decision_strategyData.sectorName + "_x_4", language);
-      allVariables.P44A11 = kariyer_secim(careerSelectionLastResult[1], 25, "s7_" + decision_strategyData.sectorName + "_x_5", language);
-      allVariables.P44A12 = kariyer_secim(careerSelectionLastResult[1], 25, "s7_" + decision_strategyData.sectorName + "_x_6", language);
-      allVariables.P44A13 = kariyer_secim(careerSelectionLastResult[1], 25, "s7_" + decision_strategyData.sectorName + "_x_7", language);
-      allVariables.P44A14 = kariyer_secim(careerSelectionLastResult[2], 25, "s7_" + decision_strategyData.sectorName + "_x_1", language);
-      allVariables.P44A15 = kariyer_secim(careerSelectionLastResult[2], 25, "s7_" + decision_strategyData.sectorName + "_x_3", language);
-      allVariables.P44A16 = kariyer_secim(careerSelectionLastResult[2], 25, "s7_" + decision_strategyData.sectorName + "_x_4", language);
-      allVariables.P44A17 = kariyer_secim(careerSelectionLastResult[2], 25, "s7_" + decision_strategyData.sectorName + "_x_5", language);
-      allVariables.P44A18 = kariyer_secim(careerSelectionLastResult[2], 25, "s7_" + decision_strategyData.sectorName + "_x_6", language);
-      allVariables.P44A19 = kariyer_secim(careerSelectionLastResult[2], 25, "s7_" + decision_strategyData.sectorName + "_x_7", language);
+      allVariables.P44A1 = kariyer_secim(decision_strategyData.sectorName, age, "sector", language); // Sana En uygun kariyer seçenekleri
+      allVariables.P44A2 = kariyer_secim(careerSelectionLastResult[0], age, "s7_" + decision_strategyData.sectorName + "_x_1", language);
+      allVariables.P44A3 = kariyer_secim(careerSelectionLastResult[0], age, "s7_" + decision_strategyData.sectorName + "_x_3", language);
+      allVariables.P44A4 = kariyer_secim(careerSelectionLastResult[0], age, "s7_" + decision_strategyData.sectorName + "_x_4", language);
+      allVariables.P44A5 = kariyer_secim(careerSelectionLastResult[0], age, "s7_" + decision_strategyData.sectorName + "_x_5", language);
+      allVariables.P44A6 = kariyer_secim(careerSelectionLastResult[0], age, "s7_" + decision_strategyData.sectorName + "_x_6", language);
+      allVariables.P44A7 = kariyer_secim(careerSelectionLastResult[0], age, "s7_" + decision_strategyData.sectorName + "_x_7", language);
+      allVariables.P44A8 = kariyer_secim(careerSelectionLastResult[1], age, "s7_" + decision_strategyData.sectorName + "_x_1", language);
+      allVariables.P44A9 = kariyer_secim(careerSelectionLastResult[1], age, "s7_" + decision_strategyData.sectorName + "_x_3", language);
+      allVariables.P44A10 = kariyer_secim(careerSelectionLastResult[1], age, "s7_" + decision_strategyData.sectorName + "_x_4", language);
+      allVariables.P44A11 = kariyer_secim(careerSelectionLastResult[1], age, "s7_" + decision_strategyData.sectorName + "_x_5", language);
+      allVariables.P44A12 = kariyer_secim(careerSelectionLastResult[1], age, "s7_" + decision_strategyData.sectorName + "_x_6", language);
+      allVariables.P44A13 = kariyer_secim(careerSelectionLastResult[1], age, "s7_" + decision_strategyData.sectorName + "_x_7", language);
+      allVariables.P44A14 = kariyer_secim(careerSelectionLastResult[2], age, "s7_" + decision_strategyData.sectorName + "_x_1", language);
+      allVariables.P44A15 = kariyer_secim(careerSelectionLastResult[2], age, "s7_" + decision_strategyData.sectorName + "_x_3", language);
+      allVariables.P44A16 = kariyer_secim(careerSelectionLastResult[2], age, "s7_" + decision_strategyData.sectorName + "_x_4", language);
+      allVariables.P44A17 = kariyer_secim(careerSelectionLastResult[2], age, "s7_" + decision_strategyData.sectorName + "_x_5", language);
+      allVariables.P44A18 = kariyer_secim(careerSelectionLastResult[2], age, "s7_" + decision_strategyData.sectorName + "_x_6", language);
+      allVariables.P44A19 = kariyer_secim(careerSelectionLastResult[2], age, "s7_" + decision_strategyData.sectorName + "_x_7", language);
 
-      allVariables.P46A1 = kslk_ozl_ozet(hollandData[0].name, hollandData[1].name, 25, "ozet_1", language),
-      allVariables.P46A2 = kslk_ozl_ozet(hollandData[0].name, hollandData[1].name, 25, "ozet_2", language),
-      allVariables.P46A3 = krktr_ozl_ozet(big5Data[0].name, big5Data[1].name, 25, "ozet_1", language),
-      allVariables.P46A4 = krktr_ozl_ozet(big5Data[0].name, big5Data[1].name, 25, "ozet_2", language),
-      allVariables.P46A5 = lifestyle(lifestyleData[0], 25, "ozet_1", language),
-      allVariables.P46A6 = lifestyle(lifestyleData[0], 25, "ozet_2", language),
-      allVariables.P46A7 = worklearnstyle(worklearnData[0], 25, "ozet_1", language),
-      allVariables.P46A8 = worklearnstyle(worklearnData[0], 25, "ozet_2", language),
-      allVariables.P46A9 = decision_strategy(decision_strategyData, 25, "ozet_1", language),
-      allVariables.P46A10 = decision_strategy(decision_strategyData, 25, "ozet_2", language),
-      allVariables.P46A11 = kariyer_secim(careerSelectionLastResult[0], 25, "ozet_1", language),
-      allVariables.P46A12 = kariyer_secim(careerSelectionLastResult[0], 25, "ozet_2", language),
+      allVariables.P46A1 = kslk_ozl_ozet(hollandData[0].name, hollandData[1].name, age, "ozet_1", language),
+      allVariables.P46A2 = kslk_ozl_ozet(hollandData[0].name, hollandData[1].name, age, "ozet_2", language),
+      allVariables.P46A3 = krktr_ozl_ozet(big5Data[0].name, big5Data[1].name, age, "ozet_1", language),
+      allVariables.P46A4 = krktr_ozl_ozet(big5Data[0].name, big5Data[1].name, age, "ozet_2", language),
+      allVariables.P46A5 = lifestyle(lifestyleData[0], age, "ozet_1", language),
+      allVariables.P46A6 = lifestyle(lifestyleData[0], age, "ozet_2", language),
+      allVariables.P46A7 = worklearnstyle(worklearnData[0], age, "ozet_1", language),
+      allVariables.P46A8 = worklearnstyle(worklearnData[0], age, "ozet_2", language),
+      allVariables.P46A9 = decision_strategy(decision_strategyData, age, "ozet_1", language),
+      allVariables.P46A10 = decision_strategy(decision_strategyData, age, "ozet_2", language),
+      allVariables.P46A11 = kariyer_secim(careerSelectionLastResult[0], age, "ozet_1", language),
+      allVariables.P46A12 = kariyer_secim(careerSelectionLastResult[0], age, "ozet_2", language),
 
       allVariables.P47A1 = dearName;
   
@@ -13437,102 +13634,102 @@ var decision_strategy_eng_s4_11_txt = "By adhering to this decision-making strat
         P46A12: allVariables.P46A12,
         P47A1: allVariables.P47A1, // SevgiWli Dinçer
       };
-    } else if (usageGate.length === 7) { //buradan devam
+    } else if (usageGate.length === 7) {
   
       allVariables,
   
-      allVariables.P30A1 = guclu_yanlarin(guclu_yanlarinData[0], 25, guclu_yanlarinData[0].name + "_1", language); 
-      allVariables.P30A2 = guclu_yanlarin(guclu_yanlarinData[0], 25, guclu_yanlarinData[0].name + "_2", language); 
+      allVariables.P30A1 = guclu_yanlarin(guclu_yanlarinData[0], age, guclu_yanlarinData[0].name + "_1", language); 
+      allVariables.P30A2 = guclu_yanlarin(guclu_yanlarinData[0], age, guclu_yanlarinData[0].name + "_2", language); 
       
-      allVariables.P31A1 = guclu_yanlarin(guclu_yanlarinData[1], 25, guclu_yanlarinData[1].name + "_1", language);
-      allVariables.P31A2 = guclu_yanlarin(guclu_yanlarinData[1], 25, guclu_yanlarinData[1].name + "_2", language);
+      allVariables.P31A1 = guclu_yanlarin(guclu_yanlarinData[1], age, guclu_yanlarinData[1].name + "_1", language);
+      allVariables.P31A2 = guclu_yanlarin(guclu_yanlarinData[1], age, guclu_yanlarinData[1].name + "_2", language);
   
-      allVariables.P32A1 = guclu_yanlarin(guclu_yanlarinData[2], 25, guclu_yanlarinData[2].name + "_1", language);
-      allVariables.P32A2 = guclu_yanlarin(guclu_yanlarinData[2], 25, guclu_yanlarinData[2].name + "_2", language);
+      allVariables.P32A1 = guclu_yanlarin(guclu_yanlarinData[2], age, guclu_yanlarinData[2].name + "_1", language);
+      allVariables.P32A2 = guclu_yanlarin(guclu_yanlarinData[2], age, guclu_yanlarinData[2].name + "_2", language);
   
-      allVariables.P33A1 = guclu_yanlarin(guclu_yanlarinData[3], 25, guclu_yanlarinData[3].name + "_1", language);
-      allVariables.P33A2 = guclu_yanlarin(guclu_yanlarinData[3], 25, guclu_yanlarinData[3].name + "_2", language);
+      allVariables.P33A1 = guclu_yanlarin(guclu_yanlarinData[3], age, guclu_yanlarinData[3].name + "_1", language);
+      allVariables.P33A2 = guclu_yanlarin(guclu_yanlarinData[3], age, guclu_yanlarinData[3].name + "_2", language);
   
-      allVariables.P34A1 = guclu_yanlarin(guclu_yanlarinData[4], 25, guclu_yanlarinData[4].name + "_1", language);
-      allVariables.P34A2 = guclu_yanlarin(guclu_yanlarinData[4], 25, guclu_yanlarinData[4].name + "_2", language);
+      allVariables.P34A1 = guclu_yanlarin(guclu_yanlarinData[4], age, guclu_yanlarinData[4].name + "_1", language);
+      allVariables.P34A2 = guclu_yanlarin(guclu_yanlarinData[4], age, guclu_yanlarinData[4].name + "_2", language);
   
-      allVariables.P35A1 = guclu_yanlarin(guclu_yanlarinData[5], 25, guclu_yanlarinData[5].name + "_1", language);
-      allVariables.P35A2 = guclu_yanlarin(guclu_yanlarinData[5], 25, guclu_yanlarinData[5].name + "_2", language);
+      allVariables.P35A1 = guclu_yanlarin(guclu_yanlarinData[5], age, guclu_yanlarinData[5].name + "_1", language);
+      allVariables.P35A2 = guclu_yanlarin(guclu_yanlarinData[5], age, guclu_yanlarinData[5].name + "_2", language);
   
-      allVariables.P36A1 = guclu_yanlarin(guclu_yanlarinData[6], 25, guclu_yanlarinData[6].name + "_1", language);
-      allVariables.P36A2 = guclu_yanlarin(guclu_yanlarinData[6], 25, guclu_yanlarinData[6].name + "_2", language);
+      allVariables.P36A1 = guclu_yanlarin(guclu_yanlarinData[6], age, guclu_yanlarinData[6].name + "_1", language);
+      allVariables.P36A2 = guclu_yanlarin(guclu_yanlarinData[6], age, guclu_yanlarinData[6].name + "_2", language);
   
-      allVariables.P39A1 = decision_strategy(decision_strategyData, 25, "name", language); // Senin Karar Verme Stratejin
-      allVariables.P39A2 = decision_strategy(decision_strategyData, 25, "s3_x_2", language);
+      allVariables.P39A1 = decision_strategy(decision_strategyData, age, "name", language); // Senin Karar Verme Stratejin
+      allVariables.P39A2 = decision_strategy(decision_strategyData, age, "s3_x_2", language);
       allVariables.P39A3 = kararVermeStratejin1;
-      allVariables.P39A4 = decision_strategy(decision_strategyData, 25, "s3_x_3", language);
-      allVariables.P39A5 = decision_strategy(decision_strategyData, 25, "s3_x_4", language);
+      allVariables.P39A4 = decision_strategy(decision_strategyData, age, "s3_x_3", language);
+      allVariables.P39A5 = decision_strategy(decision_strategyData, age, "s3_x_4", language);
   
       allVariables.P40A1 = kararVermeStratejin2;
-      allVariables.P40A2 = decision_strategy(decision_strategyData, 25, "s4_x_text", language);
+      allVariables.P40A2 = decision_strategy(decision_strategyData, age, "s4_x_text", language);
       allVariables.P40A3 = kararVermeStratejin3;
-      allVariables.P40A4 = decision_strategy(decision_strategyData, 25, "s4_x_1", language);
-      allVariables.P40A5 = decision_strategy(decision_strategyData, 25, "s4_x_txt", language);
-      allVariables.P40A6 = decision_strategy(decision_strategyData, 25, "image", language);
+      allVariables.P40A4 = decision_strategy(decision_strategyData, age, "s4_x_1", language);
+      allVariables.P40A5 = decision_strategy(decision_strategyData, age, "s4_x_txt", language);
+      allVariables.P40A6 = decision_strategy(decision_strategyData, age, "image", language);
   
       allVariables.P41A1 = "image"; // Sana uygun kariyer dağılımların
-      allVariables.P41A2 = "1." + kariyer_secim(careerSelectionLastResult[0], 25, "name", language);
-      allVariables.P41A3 = "2." + kariyer_secim(careerSelectionLastResult[1], 25, "name", language);
-      allVariables.P41A4 = "3." + kariyer_secim(careerSelectionLastResult[2], 25, "name", language);
+      allVariables.P41A2 = "1." + kariyer_secim(careerSelectionLastResult[0], age, "name", language);
+      allVariables.P41A3 = "2." + kariyer_secim(careerSelectionLastResult[1], age, "name", language);
+      allVariables.P41A4 = "3." + kariyer_secim(careerSelectionLastResult[2], age, "name", language);
   
-      allVariables.P42A1 = kariyer_secim(careerSelectionLastResult[0], 25, "name", language);
-      allVariables.P42A2 = kariyer_secim(careerSelectionLastResult[0], 25, "s2_x_2", language);
-      allVariables.P42A3 = kariyer_secim(careerSelectionLastResult[1], 25, "name", language);
-      allVariables.P42A4 = kariyer_secim(careerSelectionLastResult[1], 25, "s2_x_2", language);
-      allVariables.P42A5 = kariyer_secim(careerSelectionLastResult[2], 25, "name", language);
-      allVariables.P42A6 = kariyer_secim(careerSelectionLastResult[2], 25, "s2_x_2", language);
+      allVariables.P42A1 = kariyer_secim(careerSelectionLastResult[0], age, "name", language);
+      allVariables.P42A2 = kariyer_secim(careerSelectionLastResult[0], age, "s2_x_2", language);
+      allVariables.P42A3 = kariyer_secim(careerSelectionLastResult[1], age, "name", language);
+      allVariables.P42A4 = kariyer_secim(careerSelectionLastResult[1], age, "s2_x_2", language);
+      allVariables.P42A5 = kariyer_secim(careerSelectionLastResult[2], age, "name", language);
+      allVariables.P42A6 = kariyer_secim(careerSelectionLastResult[2], age, "s2_x_2", language);
   
-      allVariables.P43A1 = kariyer_secim(careerSelectionLastResult[0], 25, "name", language); // Sana En uygun kariyer Seçenekleri Genel Sektörler
-      allVariables.P43A2 = kariyer_secim(careerSelectionLastResult[1], 25, "name", language);
-      allVariables.P43A3 = kariyer_secim(careerSelectionLastResult[2], 25, "name", language);
-      allVariables.P43A4 = kariyer_secim(careerSelectionLastResult[0], 25, "s3_x_1", language); // Güncel İşler
-      allVariables.P43A5 = kariyer_secim(careerSelectionLastResult[1], 25, "s3_x_1", language);
-      allVariables.P43A6 = kariyer_secim(careerSelectionLastResult[2], 25, "s3_x_1", language);
+      allVariables.P43A1 = kariyer_secim(careerSelectionLastResult[0], age, "name", language); // Sana En uygun kariyer Seçenekleri Genel Sektörler
+      allVariables.P43A2 = kariyer_secim(careerSelectionLastResult[1], age, "name", language);
+      allVariables.P43A3 = kariyer_secim(careerSelectionLastResult[2], age, "name", language);
+      allVariables.P43A4 = kariyer_secim(careerSelectionLastResult[0], age, "s3_x_1", language); // Güncel İşler
+      allVariables.P43A5 = kariyer_secim(careerSelectionLastResult[1], age, "s3_x_1", language);
+      allVariables.P43A6 = kariyer_secim(careerSelectionLastResult[2], age, "s3_x_1", language);
   
-      allVariables.P44A1 = kariyer_secim(careerSelectionLastResult[0], 25, "name", language);
-      allVariables.P44A2 = kariyer_secim(careerSelectionLastResult[1], 25, "name", language);
-      allVariables.P44A3 = kariyer_secim(careerSelectionLastResult[2], 25, "name", language);
-      allVariables.P44A4 = kariyer_secim(careerSelectionLastResult[0], 25, "s4_x_1", language); // Geleceğin İşleri
-      allVariables.P44A5 = kariyer_secim(careerSelectionLastResult[1], 25, "s4_x_1", language);
-      allVariables.P44A6 = kariyer_secim(careerSelectionLastResult[2], 25, "s4_x_1", language);
+      allVariables.P44A1 = kariyer_secim(careerSelectionLastResult[0], age, "name", language);
+      allVariables.P44A2 = kariyer_secim(careerSelectionLastResult[1], age, "name", language);
+      allVariables.P44A3 = kariyer_secim(careerSelectionLastResult[2], age, "name", language);
+      allVariables.P44A4 = kariyer_secim(careerSelectionLastResult[0], age, "s4_x_1", language); // Geleceğin İşleri
+      allVariables.P44A5 = kariyer_secim(careerSelectionLastResult[1], age, "s4_x_1", language);
+      allVariables.P44A6 = kariyer_secim(careerSelectionLastResult[2], age, "s4_x_1", language);
   
-      allVariables.P45A1 = kariyer_secim(decision_strategyData.sectorName, 25, "sector", language); // Sana En uygun kariyer seçenekleri
-      allVariables.P45A2 = kariyer_secim(careerSelectionLastResult[0], 25, "s7_" + decision_strategyData.sectorName + "_x_1", language);
-      allVariables.P45A3 = kariyer_secim(careerSelectionLastResult[0], 25, "s7_" + decision_strategyData.sectorName + "_x_3", language);
-      allVariables.P45A4 = kariyer_secim(careerSelectionLastResult[0], 25, "s7_" + decision_strategyData.sectorName + "_x_4", language);
-      allVariables.P45A5 = kariyer_secim(careerSelectionLastResult[0], 25, "s7_" + decision_strategyData.sectorName + "_x_5", language);
-      allVariables.P45A6 = kariyer_secim(careerSelectionLastResult[0], 25, "s7_" + decision_strategyData.sectorName + "_x_6", language);
-      allVariables.P45A7 = kariyer_secim(careerSelectionLastResult[0], 25, "s7_" + decision_strategyData.sectorName + "_x_7", language);
-      allVariables.P45A8 = kariyer_secim(careerSelectionLastResult[1], 25, "s7_" + decision_strategyData.sectorName + "_x_1", language);
-      allVariables.P45A9 = kariyer_secim(careerSelectionLastResult[1], 25, "s7_" + decision_strategyData.sectorName + "_x_3", language);
-      allVariables.P45A10 = kariyer_secim(careerSelectionLastResult[1], 25, "s7_" + decision_strategyData.sectorName + "_x_4", language);
-      allVariables.P45A11 = kariyer_secim(careerSelectionLastResult[1], 25, "s7_" + decision_strategyData.sectorName + "_x_5", language);
-      allVariables.P45A12 = kariyer_secim(careerSelectionLastResult[1], 25, "s7_" + decision_strategyData.sectorName + "_x_6", language);
-      allVariables.P45A13 = kariyer_secim(careerSelectionLastResult[1], 25, "s7_" + decision_strategyData.sectorName + "_x_7", language);
-      allVariables.P45A14 = kariyer_secim(careerSelectionLastResult[2], 25, "s7_" + decision_strategyData.sectorName + "_x_1", language);
-      allVariables.P45A15 = kariyer_secim(careerSelectionLastResult[2], 25, "s7_" + decision_strategyData.sectorName + "_x_3", language);
-      allVariables.P45A16 = kariyer_secim(careerSelectionLastResult[2], 25, "s7_" + decision_strategyData.sectorName + "_x_4", language);
-      allVariables.P45A17 = kariyer_secim(careerSelectionLastResult[2], 25, "s7_" + decision_strategyData.sectorName + "_x_5", language);
-      allVariables.P45A18 = kariyer_secim(careerSelectionLastResult[2], 25, "s7_" + decision_strategyData.sectorName + "_x_6", language);
-      allVariables.P45A19 = kariyer_secim(careerSelectionLastResult[2], 25, "s7_" + decision_strategyData.sectorName + "_x_7", language);
+      allVariables.P45A1 = kariyer_secim(decision_strategyData.sectorName, age, "sector", language); // Sana En uygun kariyer seçenekleri
+      allVariables.P45A2 = kariyer_secim(careerSelectionLastResult[0], age, "s7_" + decision_strategyData.sectorName + "_x_1", language);
+      allVariables.P45A3 = kariyer_secim(careerSelectionLastResult[0], age, "s7_" + decision_strategyData.sectorName + "_x_3", language);
+      allVariables.P45A4 = kariyer_secim(careerSelectionLastResult[0], age, "s7_" + decision_strategyData.sectorName + "_x_4", language);
+      allVariables.P45A5 = kariyer_secim(careerSelectionLastResult[0], age, "s7_" + decision_strategyData.sectorName + "_x_5", language);
+      allVariables.P45A6 = kariyer_secim(careerSelectionLastResult[0], age, "s7_" + decision_strategyData.sectorName + "_x_6", language);
+      allVariables.P45A7 = kariyer_secim(careerSelectionLastResult[0], age, "s7_" + decision_strategyData.sectorName + "_x_7", language);
+      allVariables.P45A8 = kariyer_secim(careerSelectionLastResult[1], age, "s7_" + decision_strategyData.sectorName + "_x_1", language);
+      allVariables.P45A9 = kariyer_secim(careerSelectionLastResult[1], age, "s7_" + decision_strategyData.sectorName + "_x_3", language);
+      allVariables.P45A10 = kariyer_secim(careerSelectionLastResult[1], age, "s7_" + decision_strategyData.sectorName + "_x_4", language);
+      allVariables.P45A11 = kariyer_secim(careerSelectionLastResult[1], age, "s7_" + decision_strategyData.sectorName + "_x_5", language);
+      allVariables.P45A12 = kariyer_secim(careerSelectionLastResult[1], age, "s7_" + decision_strategyData.sectorName + "_x_6", language);
+      allVariables.P45A13 = kariyer_secim(careerSelectionLastResult[1], age, "s7_" + decision_strategyData.sectorName + "_x_7", language);
+      allVariables.P45A14 = kariyer_secim(careerSelectionLastResult[2], age, "s7_" + decision_strategyData.sectorName + "_x_1", language);
+      allVariables.P45A15 = kariyer_secim(careerSelectionLastResult[2], age, "s7_" + decision_strategyData.sectorName + "_x_3", language);
+      allVariables.P45A16 = kariyer_secim(careerSelectionLastResult[2], age, "s7_" + decision_strategyData.sectorName + "_x_4", language);
+      allVariables.P45A17 = kariyer_secim(careerSelectionLastResult[2], age, "s7_" + decision_strategyData.sectorName + "_x_5", language);
+      allVariables.P45A18 = kariyer_secim(careerSelectionLastResult[2], age, "s7_" + decision_strategyData.sectorName + "_x_6", language);
+      allVariables.P45A19 = kariyer_secim(careerSelectionLastResult[2], age, "s7_" + decision_strategyData.sectorName + "_x_7", language);
 
-      allVariables.P47A1 = kslk_ozl_ozet(hollandData[0].name, hollandData[1].name, 25, "ozet_1", language),
-      allVariables.P47A2 = kslk_ozl_ozet(hollandData[0].name, hollandData[1].name, 25, "ozet_2", language),
-      allVariables.P47A3 = krktr_ozl_ozet(big5Data[0].name, big5Data[1].name, 25, "ozet_1", language),
-      allVariables.P47A4 = krktr_ozl_ozet(big5Data[0].name, big5Data[1].name, 25, "ozet_2", language),
-      allVariables.P47A5 = lifestyle(lifestyleData[0], 25, "ozet_1", language),
-      allVariables.P47A6 = lifestyle(lifestyleData[0], 25, "ozet_2", language),
-      allVariables.P47A7 = worklearnstyle(worklearnData[0], 25, "ozet_1", language),
-      allVariables.P47A8 = worklearnstyle(worklearnData[0], 25, "ozet_2", language),
-      allVariables.P47A9 = decision_strategy(decision_strategyData, 25, "ozet_1", language),
-      allVariables.P47A10 = decision_strategy(decision_strategyData, 25, "ozet_2", language),
-      allVariables.P47A11 = kariyer_secim(careerSelectionLastResult[0], 25, "ozet_1", language),
-      allVariables.P47A12 = kariyer_secim(careerSelectionLastResult[0], 25, "ozet_2", language),
+      allVariables.P47A1 = kslk_ozl_ozet(hollandData[0].name, hollandData[1].name, age, "ozet_1", language),
+      allVariables.P47A2 = kslk_ozl_ozet(hollandData[0].name, hollandData[1].name, age, "ozet_2", language),
+      allVariables.P47A3 = krktr_ozl_ozet(big5Data[0].name, big5Data[1].name, age, "ozet_1", language),
+      allVariables.P47A4 = krktr_ozl_ozet(big5Data[0].name, big5Data[1].name, age, "ozet_2", language),
+      allVariables.P47A5 = lifestyle(lifestyleData[0], age, "ozet_1", language),
+      allVariables.P47A6 = lifestyle(lifestyleData[0], age, "ozet_2", language),
+      allVariables.P47A7 = worklearnstyle(worklearnData[0], age, "ozet_1", language),
+      allVariables.P47A8 = worklearnstyle(worklearnData[0], age, "ozet_2", language),
+      allVariables.P47A9 = decision_strategy(decision_strategyData, age, "ozet_1", language),
+      allVariables.P47A10 = decision_strategy(decision_strategyData, age, "ozet_2", language),
+      allVariables.P47A11 = kariyer_secim(careerSelectionLastResult[0], age, "ozet_1", language),
+      allVariables.P47A12 = kariyer_secim(careerSelectionLastResult[0], age, "ozet_2", language),
 
       allVariables.P48A1 = dearName;
   
@@ -13633,101 +13830,101 @@ var decision_strategy_eng_s4_11_txt = "By adhering to this decision-making strat
   
       allVariables,
   
-      allVariables.P30A1 = guclu_yanlarin(guclu_yanlarinData[0], 25, guclu_yanlarinData[0].name + "_1", language); 
-      allVariables.P30A2 = guclu_yanlarin(guclu_yanlarinData[0], 25, guclu_yanlarinData[0].name + "_2", language); 
+      allVariables.P30A1 = guclu_yanlarin(guclu_yanlarinData[0], age, guclu_yanlarinData[0].name + "_1", language); 
+      allVariables.P30A2 = guclu_yanlarin(guclu_yanlarinData[0], age, guclu_yanlarinData[0].name + "_2", language); 
   
-      allVariables.P31A1 = guclu_yanlarin(guclu_yanlarinData[1], 25, guclu_yanlarinData[1].name + "_1", language);
-      allVariables.P31A2 = guclu_yanlarin(guclu_yanlarinData[1], 25, guclu_yanlarinData[1].name + "_2", language);
+      allVariables.P31A1 = guclu_yanlarin(guclu_yanlarinData[1], age, guclu_yanlarinData[1].name + "_1", language);
+      allVariables.P31A2 = guclu_yanlarin(guclu_yanlarinData[1], age, guclu_yanlarinData[1].name + "_2", language);
   
-      allVariables.P32A1 = guclu_yanlarin(guclu_yanlarinData[2], 25, guclu_yanlarinData[2].name + "_1", language);
-      allVariables.P32A2 = guclu_yanlarin(guclu_yanlarinData[2], 25, guclu_yanlarinData[2].name + "_2", language);
+      allVariables.P32A1 = guclu_yanlarin(guclu_yanlarinData[2], age, guclu_yanlarinData[2].name + "_1", language);
+      allVariables.P32A2 = guclu_yanlarin(guclu_yanlarinData[2], age, guclu_yanlarinData[2].name + "_2", language);
   
-      allVariables.P33A1 = guclu_yanlarin(guclu_yanlarinData[3], 25, guclu_yanlarinData[3].name + "_1", language);
-      allVariables.P33A2 = guclu_yanlarin(guclu_yanlarinData[3], 25, guclu_yanlarinData[3].name + "_2", language);
+      allVariables.P33A1 = guclu_yanlarin(guclu_yanlarinData[3], age, guclu_yanlarinData[3].name + "_1", language);
+      allVariables.P33A2 = guclu_yanlarin(guclu_yanlarinData[3], age, guclu_yanlarinData[3].name + "_2", language);
   
-      allVariables.P34A1 = guclu_yanlarin(guclu_yanlarinData[4], 25, guclu_yanlarinData[4].name + "_1", language);
-      allVariables.P34A2 = guclu_yanlarin(guclu_yanlarinData[4], 25, guclu_yanlarinData[4].name + "_2", language);
+      allVariables.P34A1 = guclu_yanlarin(guclu_yanlarinData[4], age, guclu_yanlarinData[4].name + "_1", language);
+      allVariables.P34A2 = guclu_yanlarin(guclu_yanlarinData[4], age, guclu_yanlarinData[4].name + "_2", language);
   
-      allVariables.P35A1 = guclu_yanlarin(guclu_yanlarinData[5], 25, guclu_yanlarinData[5].name + "_1", language);
-      allVariables.P35A2 = guclu_yanlarin(guclu_yanlarinData[5], 25, guclu_yanlarinData[5].name + "_2", language);
+      allVariables.P35A1 = guclu_yanlarin(guclu_yanlarinData[5], age, guclu_yanlarinData[5].name + "_1", language);
+      allVariables.P35A2 = guclu_yanlarin(guclu_yanlarinData[5], age, guclu_yanlarinData[5].name + "_2", language);
   
-      allVariables.P36A1 = guclu_yanlarin(guclu_yanlarinData[6], 25, guclu_yanlarinData[6].name + "_1", language);
-      allVariables.P36A2 = guclu_yanlarin(guclu_yanlarinData[6], 25, guclu_yanlarinData[6].name + "_2", language);
+      allVariables.P36A1 = guclu_yanlarin(guclu_yanlarinData[6], age, guclu_yanlarinData[6].name + "_1", language);
+      allVariables.P36A2 = guclu_yanlarin(guclu_yanlarinData[6], age, guclu_yanlarinData[6].name + "_2", language);
   
-      allVariables.P37A1 = guclu_yanlarin(guclu_yanlarinData[7], 25, guclu_yanlarinData[7].name + "_1", language);
-      allVariables.P37A2 = guclu_yanlarin(guclu_yanlarinData[7], 25, guclu_yanlarinData[7].name + "_2", language);
+      allVariables.P37A1 = guclu_yanlarin(guclu_yanlarinData[7], age, guclu_yanlarinData[7].name + "_1", language);
+      allVariables.P37A2 = guclu_yanlarin(guclu_yanlarinData[7], age, guclu_yanlarinData[7].name + "_2", language);
   
-      allVariables.P40A1 = decision_strategy(decision_strategyData, 25, "name", language); // Senin Karar Verme Stratejin
-      allVariables.P40A2 = decision_strategy(decision_strategyData, 25, "s3_x_2", language);
+      allVariables.P40A1 = decision_strategy(decision_strategyData, age, "name", language); // Senin Karar Verme Stratejin
+      allVariables.P40A2 = decision_strategy(decision_strategyData, age, "s3_x_2", language);
       allVariables.P40A3 = kararVermeStratejin1;
-      allVariables.P40A4 = decision_strategy(decision_strategyData, 25, "s3_x_3", language);
-      allVariables.P40A5 = decision_strategy(decision_strategyData, 25, "s3_x_4", language);
+      allVariables.P40A4 = decision_strategy(decision_strategyData, age, "s3_x_3", language);
+      allVariables.P40A5 = decision_strategy(decision_strategyData, age, "s3_x_4", language);
       
       allVariables.P41A1 = kararVermeStratejin2;
-      allVariables.P41A2 = decision_strategy(decision_strategyData, 25, "s4_x_text", language);
+      allVariables.P41A2 = decision_strategy(decision_strategyData, age, "s4_x_text", language);
       allVariables.P41A3 = kararVermeStratejin3;
-      allVariables.P41A4 = decision_strategy(decision_strategyData, 25, "s4_x_1", language);
-      allVariables.P41A5 = decision_strategy(decision_strategyData, 25, "s4_x_txt", language);
-      allVariables.P41A6 = decision_strategy(decision_strategyData, 25, "image", language);
+      allVariables.P41A4 = decision_strategy(decision_strategyData, age, "s4_x_1", language);
+      allVariables.P41A5 = decision_strategy(decision_strategyData, age, "s4_x_txt", language);
+      allVariables.P41A6 = decision_strategy(decision_strategyData, age, "image", language);
       
       allVariables.P42A1 = "image"; // Sana uygun kariyer dağılımların
-      allVariables.P42A2 = "1." + kariyer_secim(careerSelectionLastResult[0], 25, "name", language,);
-      allVariables.P42A3 = "2." + kariyer_secim(careerSelectionLastResult[1], 25, "name", language,);
-      allVariables.P42A4 = "3." + kariyer_secim(careerSelectionLastResult[2], 25, "name", language);
+      allVariables.P42A2 = "1." + kariyer_secim(careerSelectionLastResult[0], age, "name", language,);
+      allVariables.P42A3 = "2." + kariyer_secim(careerSelectionLastResult[1], age, "name", language,);
+      allVariables.P42A4 = "3." + kariyer_secim(careerSelectionLastResult[2], age, "name", language);
       
-      allVariables.P43A1 = kariyer_secim(careerSelectionLastResult[0], 25, "name", language);
-      allVariables.P43A2 = kariyer_secim(careerSelectionLastResult[0], 25, "s2_x_2", language);
-      allVariables.P43A3 = kariyer_secim(careerSelectionLastResult[1], 25, "name", language);
-      allVariables.P43A4 = kariyer_secim(careerSelectionLastResult[1], 25, "s2_x_2", language);
-      allVariables.P43A5 = kariyer_secim(careerSelectionLastResult[2], 25, "name", language);
-      allVariables.P43A6 = kariyer_secim(careerSelectionLastResult[2], 25, "s2_x_2", language);
+      allVariables.P43A1 = kariyer_secim(careerSelectionLastResult[0], age, "name", language);
+      allVariables.P43A2 = kariyer_secim(careerSelectionLastResult[0], age, "s2_x_2", language);
+      allVariables.P43A3 = kariyer_secim(careerSelectionLastResult[1], age, "name", language);
+      allVariables.P43A4 = kariyer_secim(careerSelectionLastResult[1], age, "s2_x_2", language);
+      allVariables.P43A5 = kariyer_secim(careerSelectionLastResult[2], age, "name", language);
+      allVariables.P43A6 = kariyer_secim(careerSelectionLastResult[2], age, "s2_x_2", language);
       
-      allVariables.P44A1 = kariyer_secim(careerSelectionLastResult[0], 25, "name", language); // Sana En uygun kariyer Seçenekleri Genel Sektörler
-      allVariables.P44A2 = kariyer_secim(careerSelectionLastResult[1], 25, "name", language);
-      allVariables.P44A3 = kariyer_secim(careerSelectionLastResult[2], 25, "name", language);
-      allVariables.P44A4 = kariyer_secim(careerSelectionLastResult[0], 25, "s3_x_1", language); // Güncel İşler
-      allVariables.P44A5 = kariyer_secim(careerSelectionLastResult[1], 25, "s3_x_1", language);
-      allVariables.P44A6 = kariyer_secim(careerSelectionLastResult[2], 25, "s3_x_1", language);
+      allVariables.P44A1 = kariyer_secim(careerSelectionLastResult[0], age, "name", language); // Sana En uygun kariyer Seçenekleri Genel Sektörler
+      allVariables.P44A2 = kariyer_secim(careerSelectionLastResult[1], age, "name", language);
+      allVariables.P44A3 = kariyer_secim(careerSelectionLastResult[2], age, "name", language);
+      allVariables.P44A4 = kariyer_secim(careerSelectionLastResult[0], age, "s3_x_1", language); // Güncel İşler
+      allVariables.P44A5 = kariyer_secim(careerSelectionLastResult[1], age, "s3_x_1", language);
+      allVariables.P44A6 = kariyer_secim(careerSelectionLastResult[2], age, "s3_x_1", language);
       
-      allVariables.P45A1 = kariyer_secim(careerSelectionLastResult[0], 25, "name", language);
-      allVariables.P45A2 = kariyer_secim(careerSelectionLastResult[1], 25, "name", language);
-      allVariables.P45A3 = kariyer_secim(careerSelectionLastResult[2], 25, "name", language);
-      allVariables.P45A4 = kariyer_secim(careerSelectionLastResult[0], 25, "s4_x_1", language); // Geleceğin İşleri
-      allVariables.P45A5 = kariyer_secim(careerSelectionLastResult[1], 25, "s4_x_1", language);
-      allVariables.P45A6 = kariyer_secim(careerSelectionLastResult[2], 25, "s4_x_1", language);    
+      allVariables.P45A1 = kariyer_secim(careerSelectionLastResult[0], age, "name", language);
+      allVariables.P45A2 = kariyer_secim(careerSelectionLastResult[1], age, "name", language);
+      allVariables.P45A3 = kariyer_secim(careerSelectionLastResult[2], age, "name", language);
+      allVariables.P45A4 = kariyer_secim(careerSelectionLastResult[0], age, "s4_x_1", language); // Geleceğin İşleri
+      allVariables.P45A5 = kariyer_secim(careerSelectionLastResult[1], age, "s4_x_1", language);
+      allVariables.P45A6 = kariyer_secim(careerSelectionLastResult[2], age, "s4_x_1", language);    
   
-      allVariables.P46A1 = kariyer_secim(decision_strategyData.sectorName, 25, "sector", language); // Sana En uygun kariyer seçenekleri
-      allVariables.P46A2 = kariyer_secim(careerSelectionLastResult[0], 25, "s7_" + decision_strategyData.sectorName + "_x_1", language);
-      allVariables.P46A3 = kariyer_secim(careerSelectionLastResult[0], 25, "s7_" + decision_strategyData.sectorName + "_x_3", language);
-      allVariables.P46A4 = kariyer_secim(careerSelectionLastResult[0], 25, "s7_" + decision_strategyData.sectorName + "_x_4", language);
-      allVariables.P46A5 = kariyer_secim(careerSelectionLastResult[0], 25, "s7_" + decision_strategyData.sectorName + "_x_5", language);
-      allVariables.P46A6 = kariyer_secim(careerSelectionLastResult[0], 25, "s7_" + decision_strategyData.sectorName + "_x_6", language);
-      allVariables.P46A7 = kariyer_secim(careerSelectionLastResult[0], 25, "s7_" + decision_strategyData.sectorName + "_x_7", language);
-      allVariables.P46A8 = kariyer_secim(careerSelectionLastResult[1], 25, "s7_" + decision_strategyData.sectorName + "_x_1", language);
-      allVariables.P46A9 = kariyer_secim(careerSelectionLastResult[1], 25, "s7_" + decision_strategyData.sectorName + "_x_3", language);
-      allVariables.P46A10 = kariyer_secim(careerSelectionLastResult[1], 25, "s7_" + decision_strategyData.sectorName + "_x_4", language);
-      allVariables.P46A11 = kariyer_secim(careerSelectionLastResult[1], 25, "s7_" + decision_strategyData.sectorName + "_x_5", language);
-      allVariables.P46A12 = kariyer_secim(careerSelectionLastResult[1], 25, "s7_" + decision_strategyData.sectorName + "_x_6", language);
-      allVariables.P46A13 = kariyer_secim(careerSelectionLastResult[1], 25, "s7_" + decision_strategyData.sectorName + "_x_7", language);
-      allVariables.P46A14 = kariyer_secim(careerSelectionLastResult[2], 25, "s7_" + decision_strategyData.sectorName + "_x_1", language);
-      allVariables.P46A15 = kariyer_secim(careerSelectionLastResult[2], 25, "s7_" + decision_strategyData.sectorName + "_x_3", language);
-      allVariables.P46A16 = kariyer_secim(careerSelectionLastResult[2], 25, "s7_" + decision_strategyData.sectorName + "_x_4", language);
-      allVariables.P46A17 = kariyer_secim(careerSelectionLastResult[2], 25, "s7_" + decision_strategyData.sectorName + "_x_5", language);
-      allVariables.P46A18 = kariyer_secim(careerSelectionLastResult[2], 25, "s7_" + decision_strategyData.sectorName + "_x_6", language);
-      allVariables.P46A19 = kariyer_secim(careerSelectionLastResult[2], 25, "s7_" + decision_strategyData.sectorName + "_x_7", language);
+      allVariables.P46A1 = kariyer_secim(decision_strategyData.sectorName, age, "sector", language); // Sana En uygun kariyer seçenekleri
+      allVariables.P46A2 = kariyer_secim(careerSelectionLastResult[0], age, "s7_" + decision_strategyData.sectorName + "_x_1", language);
+      allVariables.P46A3 = kariyer_secim(careerSelectionLastResult[0], age, "s7_" + decision_strategyData.sectorName + "_x_3", language);
+      allVariables.P46A4 = kariyer_secim(careerSelectionLastResult[0], age, "s7_" + decision_strategyData.sectorName + "_x_4", language);
+      allVariables.P46A5 = kariyer_secim(careerSelectionLastResult[0], age, "s7_" + decision_strategyData.sectorName + "_x_5", language);
+      allVariables.P46A6 = kariyer_secim(careerSelectionLastResult[0], age, "s7_" + decision_strategyData.sectorName + "_x_6", language);
+      allVariables.P46A7 = kariyer_secim(careerSelectionLastResult[0], age, "s7_" + decision_strategyData.sectorName + "_x_7", language);
+      allVariables.P46A8 = kariyer_secim(careerSelectionLastResult[1], age, "s7_" + decision_strategyData.sectorName + "_x_1", language);
+      allVariables.P46A9 = kariyer_secim(careerSelectionLastResult[1], age, "s7_" + decision_strategyData.sectorName + "_x_3", language);
+      allVariables.P46A10 = kariyer_secim(careerSelectionLastResult[1], age, "s7_" + decision_strategyData.sectorName + "_x_4", language);
+      allVariables.P46A11 = kariyer_secim(careerSelectionLastResult[1], age, "s7_" + decision_strategyData.sectorName + "_x_5", language);
+      allVariables.P46A12 = kariyer_secim(careerSelectionLastResult[1], age, "s7_" + decision_strategyData.sectorName + "_x_6", language);
+      allVariables.P46A13 = kariyer_secim(careerSelectionLastResult[1], age, "s7_" + decision_strategyData.sectorName + "_x_7", language);
+      allVariables.P46A14 = kariyer_secim(careerSelectionLastResult[2], age, "s7_" + decision_strategyData.sectorName + "_x_1", language);
+      allVariables.P46A15 = kariyer_secim(careerSelectionLastResult[2], age, "s7_" + decision_strategyData.sectorName + "_x_3", language);
+      allVariables.P46A16 = kariyer_secim(careerSelectionLastResult[2], age, "s7_" + decision_strategyData.sectorName + "_x_4", language);
+      allVariables.P46A17 = kariyer_secim(careerSelectionLastResult[2], age, "s7_" + decision_strategyData.sectorName + "_x_5", language);
+      allVariables.P46A18 = kariyer_secim(careerSelectionLastResult[2], age, "s7_" + decision_strategyData.sectorName + "_x_6", language);
+      allVariables.P46A19 = kariyer_secim(careerSelectionLastResult[2], age, "s7_" + decision_strategyData.sectorName + "_x_7", language);
 
-      allVariables.P48A1 = kslk_ozl_ozet(hollandData[0].name, hollandData[1].name, 25, "ozet_1", language),
-      allVariables.P48A2 = kslk_ozl_ozet(hollandData[0].name, hollandData[1].name, 25, "ozet_2", language),
-      allVariables.P48A3 = krktr_ozl_ozet(big5Data[0].name, big5Data[1].name, 25, "ozet_1", language),
-      allVariables.P48A4 = krktr_ozl_ozet(big5Data[0].name, big5Data[1].name, 25, "ozet_2", language),
-      allVariables.P48A5 = lifestyle(lifestyleData[0], 25, "ozet_1", language),
-      allVariables.P48A6 = lifestyle(lifestyleData[0], 25, "ozet_2", language),
-      allVariables.P48A7 = worklearnstyle(worklearnData[0], 25, "ozet_1", language),
-      allVariables.P48A8 = worklearnstyle(worklearnData[0], 25, "ozet_2", language),
-      allVariables.P48A9 = decision_strategy(decision_strategyData, 25, "ozet_1", language),
-      allVariables.P48A10 = decision_strategy(decision_strategyData, 25, "ozet_2", language),
-      allVariables.P48A11 = kariyer_secim(careerSelectionLastResult[0], 25, "ozet_1", language),
-      allVariables.P48A12 = kariyer_secim(careerSelectionLastResult[0], 25, "ozet_2", language),
+      allVariables.P48A1 = kslk_ozl_ozet(hollandData[0].name, hollandData[1].name, age, "ozet_1", language),
+      allVariables.P48A2 = kslk_ozl_ozet(hollandData[0].name, hollandData[1].name, age, "ozet_2", language),
+      allVariables.P48A3 = krktr_ozl_ozet(big5Data[0].name, big5Data[1].name, age, "ozet_1", language),
+      allVariables.P48A4 = krktr_ozl_ozet(big5Data[0].name, big5Data[1].name, age, "ozet_2", language),
+      allVariables.P48A5 = lifestyle(lifestyleData[0], age, "ozet_1", language),
+      allVariables.P48A6 = lifestyle(lifestyleData[0], age, "ozet_2", language),
+      allVariables.P48A7 = worklearnstyle(worklearnData[0], age, "ozet_1", language),
+      allVariables.P48A8 = worklearnstyle(worklearnData[0], age, "ozet_2", language),
+      allVariables.P48A9 = decision_strategy(decision_strategyData, age, "ozet_1", language),
+      allVariables.P48A10 = decision_strategy(decision_strategyData, age, "ozet_2", language),
+      allVariables.P48A11 = kariyer_secim(careerSelectionLastResult[0], age, "ozet_1", language),
+      allVariables.P48A12 = kariyer_secim(careerSelectionLastResult[0], age, "ozet_2", language),
       
       allVariables.P49A1 = dearName;
   
@@ -13832,104 +14029,104 @@ var decision_strategy_eng_s4_11_txt = "By adhering to this decision-making strat
   
       allVariables,
   
-      allVariables.P30A1 = guclu_yanlarin(guclu_yanlarinData[0], 25, guclu_yanlarinData[0].name + "_1", language); 
-      allVariables.P30A2 = guclu_yanlarin(guclu_yanlarinData[0], 25, guclu_yanlarinData[0].name + "_2", language); 
+      allVariables.P30A1 = guclu_yanlarin(guclu_yanlarinData[0], age, guclu_yanlarinData[0].name + "_1", language); 
+      allVariables.P30A2 = guclu_yanlarin(guclu_yanlarinData[0], age, guclu_yanlarinData[0].name + "_2", language); 
   
-      allVariables.P31A1 = guclu_yanlarin(guclu_yanlarinData[1], 25, guclu_yanlarinData[1].name + "_1", language);
-      allVariables.P31A2 = guclu_yanlarin(guclu_yanlarinData[1], 25, guclu_yanlarinData[1].name + "_2", language);
+      allVariables.P31A1 = guclu_yanlarin(guclu_yanlarinData[1], age, guclu_yanlarinData[1].name + "_1", language);
+      allVariables.P31A2 = guclu_yanlarin(guclu_yanlarinData[1], age, guclu_yanlarinData[1].name + "_2", language);
   
-      allVariables.P32A1 = guclu_yanlarin(guclu_yanlarinData[2], 25, guclu_yanlarinData[2].name + "_1", language);
-      allVariables.P32A2 = guclu_yanlarin(guclu_yanlarinData[2], 25, guclu_yanlarinData[2].name + "_2", language);
+      allVariables.P32A1 = guclu_yanlarin(guclu_yanlarinData[2], age, guclu_yanlarinData[2].name + "_1", language);
+      allVariables.P32A2 = guclu_yanlarin(guclu_yanlarinData[2], age, guclu_yanlarinData[2].name + "_2", language);
   
-      allVariables.P33A1 = guclu_yanlarin(guclu_yanlarinData[3], 25, guclu_yanlarinData[3].name + "_1", language);
-      allVariables.P33A2 = guclu_yanlarin(guclu_yanlarinData[3], 25, guclu_yanlarinData[3].name + "_2", language);
+      allVariables.P33A1 = guclu_yanlarin(guclu_yanlarinData[3], age, guclu_yanlarinData[3].name + "_1", language);
+      allVariables.P33A2 = guclu_yanlarin(guclu_yanlarinData[3], age, guclu_yanlarinData[3].name + "_2", language);
   
-      allVariables.P34A1 = guclu_yanlarin(guclu_yanlarinData[4], 25, guclu_yanlarinData[4].name + "_1", language);
-      allVariables.P34A2 = guclu_yanlarin(guclu_yanlarinData[4], 25, guclu_yanlarinData[4].name + "_2", language);
+      allVariables.P34A1 = guclu_yanlarin(guclu_yanlarinData[4], age, guclu_yanlarinData[4].name + "_1", language);
+      allVariables.P34A2 = guclu_yanlarin(guclu_yanlarinData[4], age, guclu_yanlarinData[4].name + "_2", language);
   
-      allVariables.P35A1 = guclu_yanlarin(guclu_yanlarinData[5], 25, guclu_yanlarinData[5].name + "_1", language);
-      allVariables.P35A2 = guclu_yanlarin(guclu_yanlarinData[5], 25, guclu_yanlarinData[5].name + "_2", language);
+      allVariables.P35A1 = guclu_yanlarin(guclu_yanlarinData[5], age, guclu_yanlarinData[5].name + "_1", language);
+      allVariables.P35A2 = guclu_yanlarin(guclu_yanlarinData[5], age, guclu_yanlarinData[5].name + "_2", language);
   
-      allVariables.P36A1 = guclu_yanlarin(guclu_yanlarinData[6], 25, guclu_yanlarinData[6].name + "_1", language);
-      allVariables.P36A2 = guclu_yanlarin(guclu_yanlarinData[6], 25, guclu_yanlarinData[6].name + "_2", language);
+      allVariables.P36A1 = guclu_yanlarin(guclu_yanlarinData[6], age, guclu_yanlarinData[6].name + "_1", language);
+      allVariables.P36A2 = guclu_yanlarin(guclu_yanlarinData[6], age, guclu_yanlarinData[6].name + "_2", language);
   
-      allVariables.P37A1 = guclu_yanlarin(guclu_yanlarinData[7], 25, guclu_yanlarinData[7].name + "_1", language);
-      allVariables.P37A2 = guclu_yanlarin(guclu_yanlarinData[7], 25, guclu_yanlarinData[7].name + "_2", language);
+      allVariables.P37A1 = guclu_yanlarin(guclu_yanlarinData[7], age, guclu_yanlarinData[7].name + "_1", language);
+      allVariables.P37A2 = guclu_yanlarin(guclu_yanlarinData[7], age, guclu_yanlarinData[7].name + "_2", language);
     
-      allVariables.P38A1 = guclu_yanlarin(guclu_yanlarinData[8], 25, guclu_yanlarinData[8].name + "_1", language);
-      allVariables.P38A2 = guclu_yanlarin(guclu_yanlarinData[8], 25, guclu_yanlarinData[8].name + "_2", language);
+      allVariables.P38A1 = guclu_yanlarin(guclu_yanlarinData[8], age, guclu_yanlarinData[8].name + "_1", language);
+      allVariables.P38A2 = guclu_yanlarin(guclu_yanlarinData[8], age, guclu_yanlarinData[8].name + "_2", language);
       
-      allVariables.P41A1 = decision_strategy(decision_strategyData, 25, "name", language); // Senin Karar Verme Stratejin
-      allVariables.P41A2 = decision_strategy(decision_strategyData, 25, "s3_x_2", language);
+      allVariables.P41A1 = decision_strategy(decision_strategyData, age, "name", language); // Senin Karar Verme Stratejin
+      allVariables.P41A2 = decision_strategy(decision_strategyData, age, "s3_x_2", language);
       allVariables.P41A3 = kararVermeStratejin1;
-      allVariables.P41A4 = decision_strategy(decision_strategyData, 25, "s3_x_3", language);
-      allVariables.P41A5 = decision_strategy(decision_strategyData, 25, "s3_x_4", language);
+      allVariables.P41A4 = decision_strategy(decision_strategyData, age, "s3_x_3", language);
+      allVariables.P41A5 = decision_strategy(decision_strategyData, age, "s3_x_4", language);
   
       allVariables.P42A1 = kararVermeStratejin2;
-      allVariables.P42A2 = decision_strategy(decision_strategyData, 25, "s4_x_text", language);
+      allVariables.P42A2 = decision_strategy(decision_strategyData, age, "s4_x_text", language);
       allVariables.P42A3 = kararVermeStratejin3;
-      allVariables.P42A4 = decision_strategy(decision_strategyData, 25, "s4_x_1", language);
-      allVariables.P42A5 = decision_strategy(decision_strategyData, 25, "s4_x_txt", language);
-      allVariables.P42A6 = decision_strategy(decision_strategyData, 25, "image", language);
+      allVariables.P42A4 = decision_strategy(decision_strategyData, age, "s4_x_1", language);
+      allVariables.P42A5 = decision_strategy(decision_strategyData, age, "s4_x_txt", language);
+      allVariables.P42A6 = decision_strategy(decision_strategyData, age, "image", language);
   
       allVariables.P43A1 = "image"; // Sana uygun kariyer dağılımların
-      allVariables.P43A2 = "1." + kariyer_secim(careerSelectionLastResult[0], 25, "name", language);
-      allVariables.P43A3 = "2." + kariyer_secim(careerSelectionLastResult[1], 25, "name", language);
-      allVariables.P43A4 = "3." + kariyer_secim(careerSelectionLastResult[2], 25, "name", language);
+      allVariables.P43A2 = "1." + kariyer_secim(careerSelectionLastResult[0], age, "name", language);
+      allVariables.P43A3 = "2." + kariyer_secim(careerSelectionLastResult[1], age, "name", language);
+      allVariables.P43A4 = "3." + kariyer_secim(careerSelectionLastResult[2], age, "name", language);
   
-      allVariables.P44A1 = kariyer_secim(careerSelectionLastResult[0], 25, "name", language);
-      allVariables.P44A2 = kariyer_secim(careerSelectionLastResult[0], 25, "s2_x_2", language);
-      allVariables.P44A3 = kariyer_secim(careerSelectionLastResult[1], 25, "name", language);
-      allVariables.P44A4 = kariyer_secim(careerSelectionLastResult[1], 25, "s2_x_2", language);
-      allVariables.P44A5 = kariyer_secim(careerSelectionLastResult[2], 25, "name", language);
-      allVariables.P44A6 = kariyer_secim(careerSelectionLastResult[2], 25, "s2_x_2", language);
+      allVariables.P44A1 = kariyer_secim(careerSelectionLastResult[0], age, "name", language);
+      allVariables.P44A2 = kariyer_secim(careerSelectionLastResult[0], age, "s2_x_2", language);
+      allVariables.P44A3 = kariyer_secim(careerSelectionLastResult[1], age, "name", language);
+      allVariables.P44A4 = kariyer_secim(careerSelectionLastResult[1], age, "s2_x_2", language);
+      allVariables.P44A5 = kariyer_secim(careerSelectionLastResult[2], age, "name", language);
+      allVariables.P44A6 = kariyer_secim(careerSelectionLastResult[2], age, "s2_x_2", language);
   
-      allVariables.P45A1 = kariyer_secim(careerSelectionLastResult[0], 25, "name", language); // Sana En uygun kariyer Seçenekleri Genel Sektörler
-      allVariables.P45A2 = kariyer_secim(careerSelectionLastResult[1], 25, "name", language);
-      allVariables.P45A3 = kariyer_secim(careerSelectionLastResult[2], 25, "name", language);
-      allVariables.P45A4 = kariyer_secim(careerSelectionLastResult[0], 25, "s3_x_1", language); // Güncel İşler
-      allVariables.P45A5 = kariyer_secim(careerSelectionLastResult[1], 25, "s3_x_1", language);
-      allVariables.P45A6 = kariyer_secim(careerSelectionLastResult[2], 25, "s3_x_1", language);
+      allVariables.P45A1 = kariyer_secim(careerSelectionLastResult[0], age, "name", language); // Sana En uygun kariyer Seçenekleri Genel Sektörler
+      allVariables.P45A2 = kariyer_secim(careerSelectionLastResult[1], age, "name", language);
+      allVariables.P45A3 = kariyer_secim(careerSelectionLastResult[2], age, "name", language);
+      allVariables.P45A4 = kariyer_secim(careerSelectionLastResult[0], age, "s3_x_1", language); // Güncel İşler
+      allVariables.P45A5 = kariyer_secim(careerSelectionLastResult[1], age, "s3_x_1", language);
+      allVariables.P45A6 = kariyer_secim(careerSelectionLastResult[2], age, "s3_x_1", language);
   
-      allVariables.P46A1 = kariyer_secim(careerSelectionLastResult[0], 25, "name", language);
-      allVariables.P46A2 = kariyer_secim(careerSelectionLastResult[1], 25, "name", language);
-      allVariables.P46A3 = kariyer_secim(careerSelectionLastResult[2], 25, "name", language);
-      allVariables.P46A4 = kariyer_secim(careerSelectionLastResult[0], 25, "s4_x_1", language); // Geleceğin İşleri
-      allVariables.P46A5 = kariyer_secim(careerSelectionLastResult[1], 25, "s4_x_1", language);
-      allVariables.P46A6 = kariyer_secim(careerSelectionLastResult[2], 25, "s4_x_1", language);
+      allVariables.P46A1 = kariyer_secim(careerSelectionLastResult[0], age, "name", language);
+      allVariables.P46A2 = kariyer_secim(careerSelectionLastResult[1], age, "name", language);
+      allVariables.P46A3 = kariyer_secim(careerSelectionLastResult[2], age, "name", language);
+      allVariables.P46A4 = kariyer_secim(careerSelectionLastResult[0], age, "s4_x_1", language); // Geleceğin İşleri
+      allVariables.P46A5 = kariyer_secim(careerSelectionLastResult[1], age, "s4_x_1", language);
+      allVariables.P46A6 = kariyer_secim(careerSelectionLastResult[2], age, "s4_x_1", language);
   
-      allVariables.P47A1 = kariyer_secim(decision_strategyData.sectorName, 25, "sector", language); // Sana En uygun kariyer seçenekleri
-      allVariables.P47A2 = kariyer_secim(careerSelectionLastResult[0], 25, "s7_" + decision_strategyData.sectorName + "_x_1", language);
-      allVariables.P47A3 = kariyer_secim(careerSelectionLastResult[0], 25, "s7_" + decision_strategyData.sectorName + "_x_3", language);
-      allVariables.P47A4 = kariyer_secim(careerSelectionLastResult[0], 25, "s7_" + decision_strategyData.sectorName + "_x_4", language);
-      allVariables.P47A5 = kariyer_secim(careerSelectionLastResult[0], 25, "s7_" + decision_strategyData.sectorName + "_x_5", language);
-      allVariables.P47A6 = kariyer_secim(careerSelectionLastResult[0], 25, "s7_" + decision_strategyData.sectorName + "_x_6", language);
-      allVariables.P47A7 = kariyer_secim(careerSelectionLastResult[0], 25, "s7_" + decision_strategyData.sectorName + "_x_7", language);
-      allVariables.P47A8 = kariyer_secim(careerSelectionLastResult[1], 25, "s7_" + decision_strategyData.sectorName + "_x_1", language);
-      allVariables.P47A9 = kariyer_secim(careerSelectionLastResult[1], 25, "s7_" + decision_strategyData.sectorName + "_x_3", language);
-      allVariables.P47A10 = kariyer_secim(careerSelectionLastResult[1], 25, "s7_" + decision_strategyData.sectorName + "_x_4", language);
-      allVariables.P47A11 = kariyer_secim(careerSelectionLastResult[1], 25, "s7_" + decision_strategyData.sectorName + "_x_5", language);
-      allVariables.P47A12 = kariyer_secim(careerSelectionLastResult[1], 25, "s7_" + decision_strategyData.sectorName + "_x_6", language);
-      allVariables.P47A13 = kariyer_secim(careerSelectionLastResult[1], 25, "s7_" + decision_strategyData.sectorName + "_x_7", language);
-      allVariables.P47A14 = kariyer_secim(careerSelectionLastResult[2], 25, "s7_" + decision_strategyData.sectorName + "_x_1", language);
-      allVariables.P47A15 = kariyer_secim(careerSelectionLastResult[2], 25, "s7_" + decision_strategyData.sectorName + "_x_3", language);
-      allVariables.P47A16 = kariyer_secim(careerSelectionLastResult[2], 25, "s7_" + decision_strategyData.sectorName + "_x_4", language);
-      allVariables.P47A17 = kariyer_secim(careerSelectionLastResult[2], 25, "s7_" + decision_strategyData.sectorName + "_x_5", language);
-      allVariables.P47A18 = kariyer_secim(careerSelectionLastResult[2], 25, "s7_" + decision_strategyData.sectorName + "_x_6", language);
-      allVariables.P47A19 = kariyer_secim(careerSelectionLastResult[2], 25, "s7_" + decision_strategyData.sectorName + "_x_7", language);
+      allVariables.P47A1 = kariyer_secim(decision_strategyData.sectorName, age, "sector", language); // Sana En uygun kariyer seçenekleri
+      allVariables.P47A2 = kariyer_secim(careerSelectionLastResult[0], age, "s7_" + decision_strategyData.sectorName + "_x_1", language);
+      allVariables.P47A3 = kariyer_secim(careerSelectionLastResult[0], age, "s7_" + decision_strategyData.sectorName + "_x_3", language);
+      allVariables.P47A4 = kariyer_secim(careerSelectionLastResult[0], age, "s7_" + decision_strategyData.sectorName + "_x_4", language);
+      allVariables.P47A5 = kariyer_secim(careerSelectionLastResult[0], age, "s7_" + decision_strategyData.sectorName + "_x_5", language);
+      allVariables.P47A6 = kariyer_secim(careerSelectionLastResult[0], age, "s7_" + decision_strategyData.sectorName + "_x_6", language);
+      allVariables.P47A7 = kariyer_secim(careerSelectionLastResult[0], age, "s7_" + decision_strategyData.sectorName + "_x_7", language);
+      allVariables.P47A8 = kariyer_secim(careerSelectionLastResult[1], age, "s7_" + decision_strategyData.sectorName + "_x_1", language);
+      allVariables.P47A9 = kariyer_secim(careerSelectionLastResult[1], age, "s7_" + decision_strategyData.sectorName + "_x_3", language);
+      allVariables.P47A10 = kariyer_secim(careerSelectionLastResult[1], age, "s7_" + decision_strategyData.sectorName + "_x_4", language);
+      allVariables.P47A11 = kariyer_secim(careerSelectionLastResult[1], age, "s7_" + decision_strategyData.sectorName + "_x_5", language);
+      allVariables.P47A12 = kariyer_secim(careerSelectionLastResult[1], age, "s7_" + decision_strategyData.sectorName + "_x_6", language);
+      allVariables.P47A13 = kariyer_secim(careerSelectionLastResult[1], age, "s7_" + decision_strategyData.sectorName + "_x_7", language);
+      allVariables.P47A14 = kariyer_secim(careerSelectionLastResult[2], age, "s7_" + decision_strategyData.sectorName + "_x_1", language);
+      allVariables.P47A15 = kariyer_secim(careerSelectionLastResult[2], age, "s7_" + decision_strategyData.sectorName + "_x_3", language);
+      allVariables.P47A16 = kariyer_secim(careerSelectionLastResult[2], age, "s7_" + decision_strategyData.sectorName + "_x_4", language);
+      allVariables.P47A17 = kariyer_secim(careerSelectionLastResult[2], age, "s7_" + decision_strategyData.sectorName + "_x_5", language);
+      allVariables.P47A18 = kariyer_secim(careerSelectionLastResult[2], age, "s7_" + decision_strategyData.sectorName + "_x_6", language);
+      allVariables.P47A19 = kariyer_secim(careerSelectionLastResult[2], age, "s7_" + decision_strategyData.sectorName + "_x_7", language);
 
-      allVariables.P49A1 = kslk_ozl_ozet(hollandData[0].name, hollandData[1].name, 25, "ozet_1", language),
-      allVariables.P49A2 = kslk_ozl_ozet(hollandData[0].name, hollandData[1].name, 25, "ozet_2", language),
-      allVariables.P49A3 = krktr_ozl_ozet(big5Data[0].name, big5Data[1].name, 25, "ozet_1", language),
-      allVariables.P49A4 = krktr_ozl_ozet(big5Data[0].name, big5Data[1].name, 25, "ozet_2", language),
-      allVariables.P49A5 = lifestyle(lifestyleData[0], 25, "ozet_1", language),
-      allVariables.P49A6 = lifestyle(lifestyleData[0], 25, "ozet_2", language),
-      allVariables.P49A7 = worklearnstyle(worklearnData[0], 25, "ozet_1", language),
-      allVariables.P49A8 = worklearnstyle(worklearnData[0], 25, "ozet_2", language),
-      allVariables.P49A9 = decision_strategy(decision_strategyData, 25, "ozet_1", language),
-      allVariables.P49A10 = decision_strategy(decision_strategyData, 25, "ozet_2", language),
-      allVariables.P49A11 = kariyer_secim(careerSelectionLastResult[0], 25, "ozet_1", language),
-      allVariables.P49A12 = kariyer_secim(careerSelectionLastResult[0], 25, "ozet_2", language),      
+      allVariables.P49A1 = kslk_ozl_ozet(hollandData[0].name, hollandData[1].name, age, "ozet_1", language),
+      allVariables.P49A2 = kslk_ozl_ozet(hollandData[0].name, hollandData[1].name, age, "ozet_2", language),
+      allVariables.P49A3 = krktr_ozl_ozet(big5Data[0].name, big5Data[1].name, age, "ozet_1", language),
+      allVariables.P49A4 = krktr_ozl_ozet(big5Data[0].name, big5Data[1].name, age, "ozet_2", language),
+      allVariables.P49A5 = lifestyle(lifestyleData[0], age, "ozet_1", language),
+      allVariables.P49A6 = lifestyle(lifestyleData[0], age, "ozet_2", language),
+      allVariables.P49A7 = worklearnstyle(worklearnData[0], age, "ozet_1", language),
+      allVariables.P49A8 = worklearnstyle(worklearnData[0], age, "ozet_2", language),
+      allVariables.P49A9 = decision_strategy(decision_strategyData, age, "ozet_1", language),
+      allVariables.P49A10 = decision_strategy(decision_strategyData, age, "ozet_2", language),
+      allVariables.P49A11 = kariyer_secim(careerSelectionLastResult[0], age, "ozet_1", language),
+      allVariables.P49A12 = kariyer_secim(careerSelectionLastResult[0], age, "ozet_2", language),      
   
       allVariables.P50A1 = dearName;
   
@@ -14035,107 +14232,107 @@ var decision_strategy_eng_s4_11_txt = "By adhering to this decision-making strat
   
       allVariables,
   
-      allVariables.P30A1 = guclu_yanlarin(guclu_yanlarinData[0], 25, guclu_yanlarinData[0].name + "_1", language); 
-      allVariables.P30A2 = guclu_yanlarin(guclu_yanlarinData[0], 25, guclu_yanlarinData[0].name + "_2", language); 
+      allVariables.P30A1 = guclu_yanlarin(guclu_yanlarinData[0], age, guclu_yanlarinData[0].name + "_1", language); 
+      allVariables.P30A2 = guclu_yanlarin(guclu_yanlarinData[0], age, guclu_yanlarinData[0].name + "_2", language); 
   
-      allVariables.P31A1 = guclu_yanlarin(guclu_yanlarinData[1], 25, guclu_yanlarinData[1].name + "_1", language);
-      allVariables.P31A2 = guclu_yanlarin(guclu_yanlarinData[1], 25, guclu_yanlarinData[1].name + "_2", language);
+      allVariables.P31A1 = guclu_yanlarin(guclu_yanlarinData[1], age, guclu_yanlarinData[1].name + "_1", language);
+      allVariables.P31A2 = guclu_yanlarin(guclu_yanlarinData[1], age, guclu_yanlarinData[1].name + "_2", language);
   
-      allVariables.P32A1 = guclu_yanlarin(guclu_yanlarinData[2], 25, guclu_yanlarinData[2].name + "_1", language);
-      allVariables.P32A2 = guclu_yanlarin(guclu_yanlarinData[2], 25, guclu_yanlarinData[2].name + "_2", language);
+      allVariables.P32A1 = guclu_yanlarin(guclu_yanlarinData[2], age, guclu_yanlarinData[2].name + "_1", language);
+      allVariables.P32A2 = guclu_yanlarin(guclu_yanlarinData[2], age, guclu_yanlarinData[2].name + "_2", language);
   
-      allVariables.P33A1 = guclu_yanlarin(guclu_yanlarinData[3], 25, guclu_yanlarinData[3].name + "_1", language);
-      allVariables.P33A2 = guclu_yanlarin(guclu_yanlarinData[3], 25, guclu_yanlarinData[3].name + "_2", language);
+      allVariables.P33A1 = guclu_yanlarin(guclu_yanlarinData[3], age, guclu_yanlarinData[3].name + "_1", language);
+      allVariables.P33A2 = guclu_yanlarin(guclu_yanlarinData[3], age, guclu_yanlarinData[3].name + "_2", language);
   
-      allVariables.P34A1 = guclu_yanlarin(guclu_yanlarinData[4], 25, guclu_yanlarinData[4].name + "_1", language);
-      allVariables.P34A2 = guclu_yanlarin(guclu_yanlarinData[4], 25, guclu_yanlarinData[4].name + "_2", language);
+      allVariables.P34A1 = guclu_yanlarin(guclu_yanlarinData[4], age, guclu_yanlarinData[4].name + "_1", language);
+      allVariables.P34A2 = guclu_yanlarin(guclu_yanlarinData[4], age, guclu_yanlarinData[4].name + "_2", language);
   
-      allVariables.P35A1 = guclu_yanlarin(guclu_yanlarinData[5], 25, guclu_yanlarinData[5].name + "_1", language);
-      allVariables.P35A2 = guclu_yanlarin(guclu_yanlarinData[5], 25, guclu_yanlarinData[5].name + "_2", language);
+      allVariables.P35A1 = guclu_yanlarin(guclu_yanlarinData[5], age, guclu_yanlarinData[5].name + "_1", language);
+      allVariables.P35A2 = guclu_yanlarin(guclu_yanlarinData[5], age, guclu_yanlarinData[5].name + "_2", language);
   
-      allVariables.P36A1 = guclu_yanlarin(guclu_yanlarinData[6], 25, guclu_yanlarinData[6].name + "_1", language);
-      allVariables.P36A2 = guclu_yanlarin(guclu_yanlarinData[6], 25, guclu_yanlarinData[6].name + "_2", language);
+      allVariables.P36A1 = guclu_yanlarin(guclu_yanlarinData[6], age, guclu_yanlarinData[6].name + "_1", language);
+      allVariables.P36A2 = guclu_yanlarin(guclu_yanlarinData[6], age, guclu_yanlarinData[6].name + "_2", language);
   
-      allVariables.P37A1 = guclu_yanlarin(guclu_yanlarinData[7], 25, guclu_yanlarinData[7].name + "_1", language);
-      allVariables.P37A2 = guclu_yanlarin(guclu_yanlarinData[7], 25, guclu_yanlarinData[7].name + "_2", language);
+      allVariables.P37A1 = guclu_yanlarin(guclu_yanlarinData[7], age, guclu_yanlarinData[7].name + "_1", language);
+      allVariables.P37A2 = guclu_yanlarin(guclu_yanlarinData[7], age, guclu_yanlarinData[7].name + "_2", language);
   
-      allVariables.P38A1 = guclu_yanlarin(guclu_yanlarinData[8], 25, guclu_yanlarinData[8].name + "_1", language);
-      allVariables.P38A2 = guclu_yanlarin(guclu_yanlarinData[8], 25, guclu_yanlarinData[8].name + "_2", language);
+      allVariables.P38A1 = guclu_yanlarin(guclu_yanlarinData[8], age, guclu_yanlarinData[8].name + "_1", language);
+      allVariables.P38A2 = guclu_yanlarin(guclu_yanlarinData[8], age, guclu_yanlarinData[8].name + "_2", language);
   
-      allVariables.P39A1 = guclu_yanlarin(guclu_yanlarinData[9], 25, guclu_yanlarinData[9].name + "_1", language);
-      allVariables.P39A2 = guclu_yanlarin(guclu_yanlarinData[9], 25, guclu_yanlarinData[9].name + "_2", language);
+      allVariables.P39A1 = guclu_yanlarin(guclu_yanlarinData[9], age, guclu_yanlarinData[9].name + "_1", language);
+      allVariables.P39A2 = guclu_yanlarin(guclu_yanlarinData[9], age, guclu_yanlarinData[9].name + "_2", language);
   
-      allVariables.P42A1 = decision_strategy(decision_strategyData, 25, "name", language); // Senin Karar Verme Stratejin
-      allVariables.P42A2 = decision_strategy(decision_strategyData, 25, "s3_x_2", language);
+      allVariables.P42A1 = decision_strategy(decision_strategyData, age, "name", language); // Senin Karar Verme Stratejin
+      allVariables.P42A2 = decision_strategy(decision_strategyData, age, "s3_x_2", language);
       allVariables.P42A3 = "İki Temel Unsur:";
-      allVariables.P42A4 = decision_strategy(decision_strategyData, 25, "s3_x_3", language);
-      allVariables.P42A5 = decision_strategy(decision_strategyData, 25, "s3_x_4", language);
+      allVariables.P42A4 = decision_strategy(decision_strategyData, age, "s3_x_3", language);
+      allVariables.P42A5 = decision_strategy(decision_strategyData, age, "s3_x_4", language);
   
       allVariables.P43A1 = "Karar Verme Stratejini Takip Etmek:";
-      allVariables.P43A2 = decision_strategy(decision_strategyData, 25, "s4_x_text", language);
+      allVariables.P43A2 = decision_strategy(decision_strategyData, age, "s4_x_text", language);
       allVariables.P43A3 = "Adımlar:";
-      allVariables.P43A4 = decision_strategy(decision_strategyData, 25, "s4_x_1", language);
-      allVariables.P43A5 = decision_strategy(decision_strategyData, 25, "s4_x_txt", language);
-      allVariables.P43A6 = decision_strategy(decision_strategyData, 25, "image", language);
+      allVariables.P43A4 = decision_strategy(decision_strategyData, age, "s4_x_1", language);
+      allVariables.P43A5 = decision_strategy(decision_strategyData, age, "s4_x_txt", language);
+      allVariables.P43A6 = decision_strategy(decision_strategyData, age, "image", language);
   
       allVariables.P44A1 = "image"; // Sana uygun kariyer dağılımların
-      allVariables.P44A2 = "1." + kariyer_secim(careerSelectionLastResult[0], 25, "name", language);
-      allVariables.P44A3 = "2." + kariyer_secim(careerSelectionLastResult[1], 25, "name", language);
-      allVariables.P44A4 = "3." + kariyer_secim(careerSelectionLastResult[2], 25, "name", language);
+      allVariables.P44A2 = "1." + kariyer_secim(careerSelectionLastResult[0], age, "name", language);
+      allVariables.P44A3 = "2." + kariyer_secim(careerSelectionLastResult[1], age, "name", language);
+      allVariables.P44A4 = "3." + kariyer_secim(careerSelectionLastResult[2], age, "name", language);
   
-      allVariables.P45A1 = kariyer_secim(careerSelectionLastResult[0], 25, "name", language);
-      allVariables.P45A2 = kariyer_secim(careerSelectionLastResult[0], 25, "s2_x_2", language);
-      allVariables.P45A3 = kariyer_secim(careerSelectionLastResult[1], 25, "name", language);
-      allVariables.P45A4 = kariyer_secim(careerSelectionLastResult[1], 25, "s2_x_2", language);
-      allVariables.P45A5 = kariyer_secim(careerSelectionLastResult[2], 25, "name", language);
-      allVariables.P45A6 = kariyer_secim(careerSelectionLastResult[2], 25, "s2_x_2", language);
+      allVariables.P45A1 = kariyer_secim(careerSelectionLastResult[0], age, "name", language);
+      allVariables.P45A2 = kariyer_secim(careerSelectionLastResult[0], age, "s2_x_2", language);
+      allVariables.P45A3 = kariyer_secim(careerSelectionLastResult[1], age, "name", language);
+      allVariables.P45A4 = kariyer_secim(careerSelectionLastResult[1], age, "s2_x_2", language);
+      allVariables.P45A5 = kariyer_secim(careerSelectionLastResult[2], age, "name", language);
+      allVariables.P45A6 = kariyer_secim(careerSelectionLastResult[2], age, "s2_x_2", language);
   
-      allVariables.P46A1 = kariyer_secim(careerSelectionLastResult[0], 25, "name", language); // Sana En uygun kariyer Seçenekleri Genel Sektörler
-      allVariables.P46A2 = kariyer_secim(careerSelectionLastResult[1], 25, "name", language);
-      allVariables.P46A3 = kariyer_secim(careerSelectionLastResult[2], 25, "name", language);
-      allVariables.P46A4 = kariyer_secim(careerSelectionLastResult[0], 25, "s3_x_1", language); // Güncel İşler
-      allVariables.P46A5 = kariyer_secim(careerSelectionLastResult[1], 25, "s3_x_1", language);
-      allVariables.P46A6 = kariyer_secim(careerSelectionLastResult[2], 25, "s3_x_1", language);
+      allVariables.P46A1 = kariyer_secim(careerSelectionLastResult[0], age, "name", language); // Sana En uygun kariyer Seçenekleri Genel Sektörler
+      allVariables.P46A2 = kariyer_secim(careerSelectionLastResult[1], age, "name", language);
+      allVariables.P46A3 = kariyer_secim(careerSelectionLastResult[2], age, "name", language);
+      allVariables.P46A4 = kariyer_secim(careerSelectionLastResult[0], age, "s3_x_1", language); // Güncel İşler
+      allVariables.P46A5 = kariyer_secim(careerSelectionLastResult[1], age, "s3_x_1", language);
+      allVariables.P46A6 = kariyer_secim(careerSelectionLastResult[2], age, "s3_x_1", language);
   
-      allVariables.P47A1 = kariyer_secim(careerSelectionLastResult[0], 25, "name", language);
-      allVariables.P47A2 = kariyer_secim(careerSelectionLastResult[1], 25, "name", language);
-      allVariables.P47A3 = kariyer_secim(careerSelectionLastResult[2], 25, "name", language);
-      allVariables.P47A4 = kariyer_secim(careerSelectionLastResult[0], 25, "s4_x_1", language); // Geleceğin İşleri
-      allVariables.P47A5 = kariyer_secim(careerSelectionLastResult[1], 25, "s4_x_1", language);
-      allVariables.P47A6 = kariyer_secim(careerSelectionLastResult[2], 25, "s4_x_1", language);
+      allVariables.P47A1 = kariyer_secim(careerSelectionLastResult[0], age, "name", language);
+      allVariables.P47A2 = kariyer_secim(careerSelectionLastResult[1], age, "name", language);
+      allVariables.P47A3 = kariyer_secim(careerSelectionLastResult[2], age, "name", language);
+      allVariables.P47A4 = kariyer_secim(careerSelectionLastResult[0], age, "s4_x_1", language); // Geleceğin İşleri
+      allVariables.P47A5 = kariyer_secim(careerSelectionLastResult[1], age, "s4_x_1", language);
+      allVariables.P47A6 = kariyer_secim(careerSelectionLastResult[2], age, "s4_x_1", language);
   
-      allVariables.P48A1 = kariyer_secim(decision_strategyData.sectorName, 25, "sector", language); // Sana En uygun kariyer seçenekleri
-      allVariables.P48A2 = kariyer_secim(careerSelectionLastResult[0], 25, "s7_" + decision_strategyData.sectorName + "_x_1", language);
-      allVariables.P48A3 = kariyer_secim(careerSelectionLastResult[0], 25, "s7_" + decision_strategyData.sectorName + "_x_3", language);
-      allVariables.P48A4 = kariyer_secim(careerSelectionLastResult[0], 25, "s7_" + decision_strategyData.sectorName + "_x_4", language);
-      allVariables.P48A5 = kariyer_secim(careerSelectionLastResult[0], 25, "s7_" + decision_strategyData.sectorName + "_x_5", language);
-      allVariables.P48A6 = kariyer_secim(careerSelectionLastResult[0], 25, "s7_" + decision_strategyData.sectorName + "_x_6", language);
-      allVariables.P48A7 = kariyer_secim(careerSelectionLastResult[0], 25, "s7_" + decision_strategyData.sectorName + "_x_7", language);
-      allVariables.P48A8 = kariyer_secim(careerSelectionLastResult[1], 25, "s7_" + decision_strategyData.sectorName + "_x_1", language);
-      allVariables.P48A9 = kariyer_secim(careerSelectionLastResult[1], 25, "s7_" + decision_strategyData.sectorName + "_x_3", language);
-      allVariables.P48A10 = kariyer_secim(careerSelectionLastResult[1], 25, "s7_" + decision_strategyData.sectorName + "_x_4", language);
-      allVariables.P48A11 = kariyer_secim(careerSelectionLastResult[1], 25, "s7_" + decision_strategyData.sectorName + "_x_5", language);
-      allVariables.P48A12 = kariyer_secim(careerSelectionLastResult[1], 25, "s7_" + decision_strategyData.sectorName + "_x_6", language);
-      allVariables.P48A13 = kariyer_secim(careerSelectionLastResult[1], 25, "s7_" + decision_strategyData.sectorName + "_x_7", language);
-      allVariables.P48A14 = kariyer_secim(careerSelectionLastResult[2], 25, "s7_" + decision_strategyData.sectorName + "_x_1", language);
-      allVariables.P48A15 = kariyer_secim(careerSelectionLastResult[2], 25, "s7_" + decision_strategyData.sectorName + "_x_3", language);
-      allVariables.P48A16 = kariyer_secim(careerSelectionLastResult[2], 25, "s7_" + decision_strategyData.sectorName + "_x_4", language);
-      allVariables.P48A17 = kariyer_secim(careerSelectionLastResult[2], 25, "s7_" + decision_strategyData.sectorName + "_x_5", language);
-      allVariables.P48A18 = kariyer_secim(careerSelectionLastResult[2], 25, "s7_" + decision_strategyData.sectorName + "_x_6", language);
-      allVariables.P48A19 = kariyer_secim(careerSelectionLastResult[2], 25, "s7_" + decision_strategyData.sectorName + "_x_7", language);
+      allVariables.P48A1 = kariyer_secim(decision_strategyData.sectorName, age, "sector", language); // Sana En uygun kariyer seçenekleri
+      allVariables.P48A2 = kariyer_secim(careerSelectionLastResult[0], age, "s7_" + decision_strategyData.sectorName + "_x_1", language);
+      allVariables.P48A3 = kariyer_secim(careerSelectionLastResult[0], age, "s7_" + decision_strategyData.sectorName + "_x_3", language);
+      allVariables.P48A4 = kariyer_secim(careerSelectionLastResult[0], age, "s7_" + decision_strategyData.sectorName + "_x_4", language);
+      allVariables.P48A5 = kariyer_secim(careerSelectionLastResult[0], age, "s7_" + decision_strategyData.sectorName + "_x_5", language);
+      allVariables.P48A6 = kariyer_secim(careerSelectionLastResult[0], age, "s7_" + decision_strategyData.sectorName + "_x_6", language);
+      allVariables.P48A7 = kariyer_secim(careerSelectionLastResult[0], age, "s7_" + decision_strategyData.sectorName + "_x_7", language);
+      allVariables.P48A8 = kariyer_secim(careerSelectionLastResult[1], age, "s7_" + decision_strategyData.sectorName + "_x_1", language);
+      allVariables.P48A9 = kariyer_secim(careerSelectionLastResult[1], age, "s7_" + decision_strategyData.sectorName + "_x_3", language);
+      allVariables.P48A10 = kariyer_secim(careerSelectionLastResult[1], age, "s7_" + decision_strategyData.sectorName + "_x_4", language);
+      allVariables.P48A11 = kariyer_secim(careerSelectionLastResult[1], age, "s7_" + decision_strategyData.sectorName + "_x_5", language);
+      allVariables.P48A12 = kariyer_secim(careerSelectionLastResult[1], age, "s7_" + decision_strategyData.sectorName + "_x_6", language);
+      allVariables.P48A13 = kariyer_secim(careerSelectionLastResult[1], age, "s7_" + decision_strategyData.sectorName + "_x_7", language);
+      allVariables.P48A14 = kariyer_secim(careerSelectionLastResult[2], age, "s7_" + decision_strategyData.sectorName + "_x_1", language);
+      allVariables.P48A15 = kariyer_secim(careerSelectionLastResult[2], age, "s7_" + decision_strategyData.sectorName + "_x_3", language);
+      allVariables.P48A16 = kariyer_secim(careerSelectionLastResult[2], age, "s7_" + decision_strategyData.sectorName + "_x_4", language);
+      allVariables.P48A17 = kariyer_secim(careerSelectionLastResult[2], age, "s7_" + decision_strategyData.sectorName + "_x_5", language);
+      allVariables.P48A18 = kariyer_secim(careerSelectionLastResult[2], age, "s7_" + decision_strategyData.sectorName + "_x_6", language);
+      allVariables.P48A19 = kariyer_secim(careerSelectionLastResult[2], age, "s7_" + decision_strategyData.sectorName + "_x_7", language);
 
-      allVariables.P50A1 = kslk_ozl_ozet(hollandData[0].name, hollandData[1].name, 25, "ozet_1", language),
-      allVariables.P50A2 = kslk_ozl_ozet(hollandData[0].name, hollandData[1].name, 25, "ozet_2", language),
-      allVariables.P50A3 = krktr_ozl_ozet(big5Data[0].name, big5Data[1].name, 25, "ozet_1", language),
-      allVariables.P50A4 = krktr_ozl_ozet(big5Data[0].name, big5Data[1].name, 25, "ozet_2", language),
-      allVariables.P50A5 = lifestyle(lifestyleData[0], 25, "ozet_1", language),
-      allVariables.P50A6 = lifestyle(lifestyleData[0], 25, "ozet_2", language),
-      allVariables.P50A7 = worklearnstyle(worklearnData[0], 25, "ozet_1", language),
-      allVariables.P50A8 = worklearnstyle(worklearnData[0], 25, "ozet_2", language),
-      allVariables.P50A9 = decision_strategy(decision_strategyData, 25, "ozet_1", language),
-      allVariables.P50A10 = decision_strategy(decision_strategyData, 25, "ozet_2", language),
-      allVariables.P50A11 = kariyer_secim(careerSelectionLastResult[0], 25, "ozet_1", language),
-      allVariables.P50A12 = kariyer_secim(careerSelectionLastResult[0], 25, "ozet_2", language),      
+      allVariables.P50A1 = kslk_ozl_ozet(hollandData[0].name, hollandData[1].name, age, "ozet_1", language),
+      allVariables.P50A2 = kslk_ozl_ozet(hollandData[0].name, hollandData[1].name, age, "ozet_2", language),
+      allVariables.P50A3 = krktr_ozl_ozet(big5Data[0].name, big5Data[1].name, age, "ozet_1", language),
+      allVariables.P50A4 = krktr_ozl_ozet(big5Data[0].name, big5Data[1].name, age, "ozet_2", language),
+      allVariables.P50A5 = lifestyle(lifestyleData[0], age, "ozet_1", language),
+      allVariables.P50A6 = lifestyle(lifestyleData[0], age, "ozet_2", language),
+      allVariables.P50A7 = worklearnstyle(worklearnData[0], age, "ozet_1", language),
+      allVariables.P50A8 = worklearnstyle(worklearnData[0], age, "ozet_2", language),
+      allVariables.P50A9 = decision_strategy(decision_strategyData, age, "ozet_1", language),
+      allVariables.P50A10 = decision_strategy(decision_strategyData, age, "ozet_2", language),
+      allVariables.P50A11 = kariyer_secim(careerSelectionLastResult[0], age, "ozet_1", language),
+      allVariables.P50A12 = kariyer_secim(careerSelectionLastResult[0], age, "ozet_2", language),      
   
       allVariables.P51A1 = "Sevgili " + Object.entries(rawData).find((x) => x[0] == "kisiselbilgi / isim")[1] + ","; // Sevgili Dinçer
   
@@ -14245,110 +14442,110 @@ var decision_strategy_eng_s4_11_txt = "By adhering to this decision-making strat
   
       allVariables,
   
-      allVariables.P30A1 = guclu_yanlarin(guclu_yanlarinData[0], 25, guclu_yanlarinData[0].name + "_1", language); 
-      allVariables.P30A2 = guclu_yanlarin(guclu_yanlarinData[0], 25, guclu_yanlarinData[0].name + "_2", language); 
+      allVariables.P30A1 = guclu_yanlarin(guclu_yanlarinData[0], age, guclu_yanlarinData[0].name + "_1", language); 
+      allVariables.P30A2 = guclu_yanlarin(guclu_yanlarinData[0], age, guclu_yanlarinData[0].name + "_2", language); 
       
-      allVariables.P31A1 = guclu_yanlarin(guclu_yanlarinData[1], 25, guclu_yanlarinData[1].name + "_1", language);
-      allVariables.P31A2 = guclu_yanlarin(guclu_yanlarinData[1], 25, guclu_yanlarinData[1].name + "_2", language);
+      allVariables.P31A1 = guclu_yanlarin(guclu_yanlarinData[1], age, guclu_yanlarinData[1].name + "_1", language);
+      allVariables.P31A2 = guclu_yanlarin(guclu_yanlarinData[1], age, guclu_yanlarinData[1].name + "_2", language);
   
-      allVariables.P32A1 = guclu_yanlarin(guclu_yanlarinData[2], 25, guclu_yanlarinData[2].name + "_1", language);
-      allVariables.P32A2 = guclu_yanlarin(guclu_yanlarinData[2], 25, guclu_yanlarinData[2].name + "_2", language);
+      allVariables.P32A1 = guclu_yanlarin(guclu_yanlarinData[2], age, guclu_yanlarinData[2].name + "_1", language);
+      allVariables.P32A2 = guclu_yanlarin(guclu_yanlarinData[2], age, guclu_yanlarinData[2].name + "_2", language);
   
-      allVariables.P33A1 = guclu_yanlarin(guclu_yanlarinData[3], 25, guclu_yanlarinData[3].name + "_1", language);
-      allVariables.P33A2 = guclu_yanlarin(guclu_yanlarinData[3], 25, guclu_yanlarinData[3].name + "_2", language);
+      allVariables.P33A1 = guclu_yanlarin(guclu_yanlarinData[3], age, guclu_yanlarinData[3].name + "_1", language);
+      allVariables.P33A2 = guclu_yanlarin(guclu_yanlarinData[3], age, guclu_yanlarinData[3].name + "_2", language);
   
-      allVariables.P34A1 = guclu_yanlarin(guclu_yanlarinData[4], 25, guclu_yanlarinData[4].name + "_1", language);
-      allVariables.P34A2 = guclu_yanlarin(guclu_yanlarinData[4], 25, guclu_yanlarinData[4].name + "_2", language);
+      allVariables.P34A1 = guclu_yanlarin(guclu_yanlarinData[4], age, guclu_yanlarinData[4].name + "_1", language);
+      allVariables.P34A2 = guclu_yanlarin(guclu_yanlarinData[4], age, guclu_yanlarinData[4].name + "_2", language);
   
-      allVariables.P35A1 = guclu_yanlarin(guclu_yanlarinData[5], 25, guclu_yanlarinData[5].name + "_1", language);
-      allVariables.P35A2 = guclu_yanlarin(guclu_yanlarinData[5], 25, guclu_yanlarinData[5].name + "_2", language);
+      allVariables.P35A1 = guclu_yanlarin(guclu_yanlarinData[5], age, guclu_yanlarinData[5].name + "_1", language);
+      allVariables.P35A2 = guclu_yanlarin(guclu_yanlarinData[5], age, guclu_yanlarinData[5].name + "_2", language);
   
-      allVariables.P36A1 = guclu_yanlarin(guclu_yanlarinData[6], 25, guclu_yanlarinData[6].name + "_1", language);
-      allVariables.P36A2 = guclu_yanlarin(guclu_yanlarinData[6], 25, guclu_yanlarinData[6].name + "_2", language);
+      allVariables.P36A1 = guclu_yanlarin(guclu_yanlarinData[6], age, guclu_yanlarinData[6].name + "_1", language);
+      allVariables.P36A2 = guclu_yanlarin(guclu_yanlarinData[6], age, guclu_yanlarinData[6].name + "_2", language);
   
-      allVariables.P37A1 = guclu_yanlarin(guclu_yanlarinData[7], 25, guclu_yanlarinData[7].name + "_1", language);
-      allVariables.P37A2 = guclu_yanlarin(guclu_yanlarinData[7], 25, guclu_yanlarinData[7].name + "_2", language);
+      allVariables.P37A1 = guclu_yanlarin(guclu_yanlarinData[7], age, guclu_yanlarinData[7].name + "_1", language);
+      allVariables.P37A2 = guclu_yanlarin(guclu_yanlarinData[7], age, guclu_yanlarinData[7].name + "_2", language);
   
-      allVariables.P38A1 = guclu_yanlarin(guclu_yanlarinData[8], 25, guclu_yanlarinData[8].name + "_1", language);
-      allVariables.P38A2 = guclu_yanlarin(guclu_yanlarinData[8], 25, guclu_yanlarinData[8].name + "_2", language);
+      allVariables.P38A1 = guclu_yanlarin(guclu_yanlarinData[8], age, guclu_yanlarinData[8].name + "_1", language);
+      allVariables.P38A2 = guclu_yanlarin(guclu_yanlarinData[8], age, guclu_yanlarinData[8].name + "_2", language);
   
-      allVariables.P39A1 = guclu_yanlarin(guclu_yanlarinData[9], 25, guclu_yanlarinData[9].name + "_1", language);
-      allVariables.P39A2 = guclu_yanlarin(guclu_yanlarinData[9], 25, guclu_yanlarinData[9].name + "_2", language);
+      allVariables.P39A1 = guclu_yanlarin(guclu_yanlarinData[9], age, guclu_yanlarinData[9].name + "_1", language);
+      allVariables.P39A2 = guclu_yanlarin(guclu_yanlarinData[9], age, guclu_yanlarinData[9].name + "_2", language);
   
-      allVariables.P40A1 = guclu_yanlarin(guclu_yanlarinData[10], 25, guclu_yanlarinData[10].name + "_1", language);
-      allVariables.P40A2 = guclu_yanlarin(guclu_yanlarinData[10], 25, guclu_yanlarinData[10].name + "_2", language);
+      allVariables.P40A1 = guclu_yanlarin(guclu_yanlarinData[10], age, guclu_yanlarinData[10].name + "_1", language);
+      allVariables.P40A2 = guclu_yanlarin(guclu_yanlarinData[10], age, guclu_yanlarinData[10].name + "_2", language);
   
-      allVariables.P43A1 = decision_strategy(decision_strategyData, 25, "name", language); // Senin Karar Verme Stratejin
-      allVariables.P43A2 = decision_strategy(decision_strategyData, 25, "s3_x_2", language);
+      allVariables.P43A1 = decision_strategy(decision_strategyData, age, "name", language); // Senin Karar Verme Stratejin
+      allVariables.P43A2 = decision_strategy(decision_strategyData, age, "s3_x_2", language);
       allVariables.P43A3 = kararVermeStratejin1;
-      allVariables.P43A4 = decision_strategy(decision_strategyData, 25, "s3_x_3", language);
-      allVariables.P43A5 = decision_strategy(decision_strategyData, 25, "s3_x_4", language);
+      allVariables.P43A4 = decision_strategy(decision_strategyData, age, "s3_x_3", language);
+      allVariables.P43A5 = decision_strategy(decision_strategyData, age, "s3_x_4", language);
   
       allVariables.P44A1 = kararVermeStratejin2;
-      allVariables.P44A2 = decision_strategy(decision_strategyData, 25, "s4_x_text", language);
+      allVariables.P44A2 = decision_strategy(decision_strategyData, age, "s4_x_text", language);
       allVariables.P44A3 = kararVermeStratejin3;
-      allVariables.P44A4 = decision_strategy(decision_strategyData, 25, "s4_x_1", language);
-      allVariables.P44A8 = decision_strategy(decision_strategyData, 25, "s4_x_txt", language);
-      allVariables.P44A9 = decision_strategy(decision_strategyData, 25, "image", language);
+      allVariables.P44A4 = decision_strategy(decision_strategyData, age, "s4_x_1", language);
+      allVariables.P44A8 = decision_strategy(decision_strategyData, age, "s4_x_txt", language);
+      allVariables.P44A9 = decision_strategy(decision_strategyData, age, "image", language);
   
       allVariables.P45A1 = "image"; // Sana uygun kariyer dağılımların
-      allVariables.P45A2 = "1." + kariyer_secim(careerSelectionLastResult[0], 25, "name", language);
-      allVariables.P45A3 = "2." + kariyer_secim(careerSelectionLastResult[1], 25, "name", language);
-      allVariables.P45A4 = "3." + kariyer_secim(careerSelectionLastResult[2], 25, "name", language);
+      allVariables.P45A2 = "1." + kariyer_secim(careerSelectionLastResult[0], age, "name", language);
+      allVariables.P45A3 = "2." + kariyer_secim(careerSelectionLastResult[1], age, "name", language);
+      allVariables.P45A4 = "3." + kariyer_secim(careerSelectionLastResult[2], age, "name", language);
   
-      allVariables.P46A1 = kariyer_secim(careerSelectionLastResult[0], 25, "name", language);
-      allVariables.P46A2 = kariyer_secim(careerSelectionLastResult[0], 25, "s2_x_2", language);
-      allVariables.P46A3 = kariyer_secim(careerSelectionLastResult[1], 25, "name", language);
-      allVariables.P46A4 = kariyer_secim(careerSelectionLastResult[1], 25, "s2_x_2", language);
-      allVariables.P46A5 = kariyer_secim(careerSelectionLastResult[2], 25, "name", language);
-      allVariables.P46A6 = kariyer_secim(careerSelectionLastResult[2], 25, "s2_x_2", language);
+      allVariables.P46A1 = kariyer_secim(careerSelectionLastResult[0], age, "name", language);
+      allVariables.P46A2 = kariyer_secim(careerSelectionLastResult[0], age, "s2_x_2", language);
+      allVariables.P46A3 = kariyer_secim(careerSelectionLastResult[1], age, "name", language);
+      allVariables.P46A4 = kariyer_secim(careerSelectionLastResult[1], age, "s2_x_2", language);
+      allVariables.P46A5 = kariyer_secim(careerSelectionLastResult[2], age, "name", language);
+      allVariables.P46A6 = kariyer_secim(careerSelectionLastResult[2], age, "s2_x_2", language);
   
-      allVariables.P47A1 = kariyer_secim(careerSelectionLastResult[0], 25, "name", language); // Sana En uygun kariyer Seçenekleri Genel Sektörler
-      allVariables.P47A2 = kariyer_secim(careerSelectionLastResult[1], 25, "name", language);
-      allVariables.P47A3 = kariyer_secim(careerSelectionLastResult[2], 25, "name", language);
-      allVariables.P47A4 = kariyer_secim(careerSelectionLastResult[0], 25, "s3_x_1", language); // Güncel İşler
-      allVariables.P47A5 = kariyer_secim(careerSelectionLastResult[1], 25, "s3_x_1", language);
-      allVariables.P47A6 = kariyer_secim(careerSelectionLastResult[2], 25, "s3_x_1", language);
+      allVariables.P47A1 = kariyer_secim(careerSelectionLastResult[0], age, "name", language); // Sana En uygun kariyer Seçenekleri Genel Sektörler
+      allVariables.P47A2 = kariyer_secim(careerSelectionLastResult[1], age, "name", language);
+      allVariables.P47A3 = kariyer_secim(careerSelectionLastResult[2], age, "name", language);
+      allVariables.P47A4 = kariyer_secim(careerSelectionLastResult[0], age, "s3_x_1", language); // Güncel İşler
+      allVariables.P47A5 = kariyer_secim(careerSelectionLastResult[1], age, "s3_x_1", language);
+      allVariables.P47A6 = kariyer_secim(careerSelectionLastResult[2], age, "s3_x_1", language);
   
-      allVariables.P48A1 = kariyer_secim(careerSelectionLastResult[0], 25, "name", language);
-      allVariables.P48A2 = kariyer_secim(careerSelectionLastResult[1], 25, "name", language);
-      allVariables.P48A3 = kariyer_secim(careerSelectionLastResult[2], 25, "name", language);
-      allVariables.P48A4 = kariyer_secim(careerSelectionLastResult[0], 25, "s4_x_1", language); // Geleceğin İşleri
-      allVariables.P48A5 = kariyer_secim(careerSelectionLastResult[1], 25, "s4_x_1", language);
-      allVariables.P48A6 = kariyer_secim(careerSelectionLastResult[2], 25, "s4_x_1", language);
+      allVariables.P48A1 = kariyer_secim(careerSelectionLastResult[0], age, "name", language);
+      allVariables.P48A2 = kariyer_secim(careerSelectionLastResult[1], age, "name", language);
+      allVariables.P48A3 = kariyer_secim(careerSelectionLastResult[2], age, "name", language);
+      allVariables.P48A4 = kariyer_secim(careerSelectionLastResult[0], age, "s4_x_1", language); // Geleceğin İşleri
+      allVariables.P48A5 = kariyer_secim(careerSelectionLastResult[1], age, "s4_x_1", language);
+      allVariables.P48A6 = kariyer_secim(careerSelectionLastResult[2], age, "s4_x_1", language);
   
-      allVariables.P49A1 = kariyer_secim(decision_strategyData.sectorName, 25, "sector", language); // Sana En uygun kariyer seçenekleri
-      allVariables.P49A2 = kariyer_secim(careerSelectionLastResult[0], 25, "s7_" + decision_strategyData.sectorName + "_x_1", language);
-      allVariables.P49A3 = kariyer_secim(careerSelectionLastResult[0], 25, "s7_" + decision_strategyData.sectorName + "_x_3", language);
-      allVariables.P49A4 = kariyer_secim(careerSelectionLastResult[0], 25, "s7_" + decision_strategyData.sectorName + "_x_4", language);
-      allVariables.P49A5 = kariyer_secim(careerSelectionLastResult[0], 25, "s7_" + decision_strategyData.sectorName + "_x_5", language);
-      allVariables.P49A6 = kariyer_secim(careerSelectionLastResult[0], 25, "s7_" + decision_strategyData.sectorName + "_x_6", language);
-      allVariables.P49A7 = kariyer_secim(careerSelectionLastResult[0], 25, "s7_" + decision_strategyData.sectorName + "_x_7", language);
-      allVariables.P49A8 = kariyer_secim(careerSelectionLastResult[1], 25, "s7_" + decision_strategyData.sectorName + "_x_1", language);
-      allVariables.P49A9 = kariyer_secim(careerSelectionLastResult[1], 25, "s7_" + decision_strategyData.sectorName + "_x_3", language);
-      allVariables.P49A10 = kariyer_secim(careerSelectionLastResult[1], 25, "s7_" + decision_strategyData.sectorName + "_x_4", language);
-      allVariables.P49A11 = kariyer_secim(careerSelectionLastResult[1], 25, "s7_" + decision_strategyData.sectorName + "_x_5", language);
-      allVariables.P49A12 = kariyer_secim(careerSelectionLastResult[1], 25, "s7_" + decision_strategyData.sectorName + "_x_6", language);
-      allVariables.P49A13 = kariyer_secim(careerSelectionLastResult[1], 25, "s7_" + decision_strategyData.sectorName + "_x_7", language);
-      allVariables.P49A14 = kariyer_secim(careerSelectionLastResult[2], 25, "s7_" + decision_strategyData.sectorName + "_x_1", language);
-      allVariables.P49A15 = kariyer_secim(careerSelectionLastResult[2], 25, "s7_" + decision_strategyData.sectorName + "_x_3", language);
-      allVariables.P49A16 = kariyer_secim(careerSelectionLastResult[2], 25, "s7_" + decision_strategyData.sectorName + "_x_4", language);
-      allVariables.P49A17 = kariyer_secim(careerSelectionLastResult[2], 25, "s7_" + decision_strategyData.sectorName + "_x_5", language);
-      allVariables.P49A18 = kariyer_secim(careerSelectionLastResult[2], 25, "s7_" + decision_strategyData.sectorName + "_x_6", language);
-      allVariables.P49A19 = kariyer_secim(careerSelectionLastResult[2], 25, "s7_" + decision_strategyData.sectorName + "_x_7", language);
+      allVariables.P49A1 = kariyer_secim(decision_strategyData.sectorName, age, "sector", language); // Sana En uygun kariyer seçenekleri
+      allVariables.P49A2 = kariyer_secim(careerSelectionLastResult[0], age, "s7_" + decision_strategyData.sectorName + "_x_1", language);
+      allVariables.P49A3 = kariyer_secim(careerSelectionLastResult[0], age, "s7_" + decision_strategyData.sectorName + "_x_3", language);
+      allVariables.P49A4 = kariyer_secim(careerSelectionLastResult[0], age, "s7_" + decision_strategyData.sectorName + "_x_4", language);
+      allVariables.P49A5 = kariyer_secim(careerSelectionLastResult[0], age, "s7_" + decision_strategyData.sectorName + "_x_5", language);
+      allVariables.P49A6 = kariyer_secim(careerSelectionLastResult[0], age, "s7_" + decision_strategyData.sectorName + "_x_6", language);
+      allVariables.P49A7 = kariyer_secim(careerSelectionLastResult[0], age, "s7_" + decision_strategyData.sectorName + "_x_7", language);
+      allVariables.P49A8 = kariyer_secim(careerSelectionLastResult[1], age, "s7_" + decision_strategyData.sectorName + "_x_1", language);
+      allVariables.P49A9 = kariyer_secim(careerSelectionLastResult[1], age, "s7_" + decision_strategyData.sectorName + "_x_3", language);
+      allVariables.P49A10 = kariyer_secim(careerSelectionLastResult[1], age, "s7_" + decision_strategyData.sectorName + "_x_4", language);
+      allVariables.P49A11 = kariyer_secim(careerSelectionLastResult[1], age, "s7_" + decision_strategyData.sectorName + "_x_5", language);
+      allVariables.P49A12 = kariyer_secim(careerSelectionLastResult[1], age, "s7_" + decision_strategyData.sectorName + "_x_6", language);
+      allVariables.P49A13 = kariyer_secim(careerSelectionLastResult[1], age, "s7_" + decision_strategyData.sectorName + "_x_7", language);
+      allVariables.P49A14 = kariyer_secim(careerSelectionLastResult[2], age, "s7_" + decision_strategyData.sectorName + "_x_1", language);
+      allVariables.P49A15 = kariyer_secim(careerSelectionLastResult[2], age, "s7_" + decision_strategyData.sectorName + "_x_3", language);
+      allVariables.P49A16 = kariyer_secim(careerSelectionLastResult[2], age, "s7_" + decision_strategyData.sectorName + "_x_4", language);
+      allVariables.P49A17 = kariyer_secim(careerSelectionLastResult[2], age, "s7_" + decision_strategyData.sectorName + "_x_5", language);
+      allVariables.P49A18 = kariyer_secim(careerSelectionLastResult[2], age, "s7_" + decision_strategyData.sectorName + "_x_6", language);
+      allVariables.P49A19 = kariyer_secim(careerSelectionLastResult[2], age, "s7_" + decision_strategyData.sectorName + "_x_7", language);
 
-      allVariables.P51A1 = kslk_ozl_ozet(hollandData[0].name, hollandData[1].name, 25, "ozet_1", language),
-      allVariables.P51A2 = kslk_ozl_ozet(hollandData[0].name, hollandData[1].name, 25, "ozet_2", language),
-      allVariables.P51A3 = krktr_ozl_ozet(big5Data[0].name, big5Data[1].name, 25, "ozet_1", language),
-      allVariables.P51A4 = krktr_ozl_ozet(big5Data[0].name, big5Data[1].name, 25, "ozet_2", language),
-      allVariables.P51A5 = lifestyle(lifestyleData[0], 25, "ozet_1", language),
-      allVariables.P51A6 = lifestyle(lifestyleData[0], 25, "ozet_2", language),
-      allVariables.P51A7 = worklearnstyle(worklearnData[0], 25, "ozet_1", language),
-      allVariables.P51A8 = worklearnstyle(worklearnData[0], 25, "ozet_2", language),
-      allVariables.P51A9 = decision_strategy(decision_strategyData, 25, "ozet_1", language),
-      allVariables.P51A10 = decision_strategy(decision_strategyData, 25, "ozet_2", language),
-      allVariables.P51A11 = kariyer_secim(careerSelectionLastResult[0], 25, "ozet_1", language),
-      allVariables.P51A12 = kariyer_secim(careerSelectionLastResult[0], 25, "ozet_2", language),      
+      allVariables.P51A1 = kslk_ozl_ozet(hollandData[0].name, hollandData[1].name, age, "ozet_1", language),
+      allVariables.P51A2 = kslk_ozl_ozet(hollandData[0].name, hollandData[1].name, age, "ozet_2", language),
+      allVariables.P51A3 = krktr_ozl_ozet(big5Data[0].name, big5Data[1].name, age, "ozet_1", language),
+      allVariables.P51A4 = krktr_ozl_ozet(big5Data[0].name, big5Data[1].name, age, "ozet_2", language),
+      allVariables.P51A5 = lifestyle(lifestyleData[0], age, "ozet_1", language),
+      allVariables.P51A6 = lifestyle(lifestyleData[0], age, "ozet_2", language),
+      allVariables.P51A7 = worklearnstyle(worklearnData[0], age, "ozet_1", language),
+      allVariables.P51A8 = worklearnstyle(worklearnData[0], age, "ozet_2", language),
+      allVariables.P51A9 = decision_strategy(decision_strategyData, age, "ozet_1", language),
+      allVariables.P51A10 = decision_strategy(decision_strategyData, age, "ozet_2", language),
+      allVariables.P51A11 = kariyer_secim(careerSelectionLastResult[0], age, "ozet_1", language),
+      allVariables.P51A12 = kariyer_secim(careerSelectionLastResult[0], age, "ozet_2", language),      
   
       allVariables.P52A1 = dearName;
   
@@ -14459,113 +14656,113 @@ var decision_strategy_eng_s4_11_txt = "By adhering to this decision-making strat
   
       allVariables,
   
-      allVariables.P30A1 = guclu_yanlarin(guclu_yanlarinData[0], 25, guclu_yanlarinData[0].name + "_1", language); 
-      allVariables.P30A2 = guclu_yanlarin(guclu_yanlarinData[0], 25, guclu_yanlarinData[0].name + "_2", language); 
+      allVariables.P30A1 = guclu_yanlarin(guclu_yanlarinData[0], age, guclu_yanlarinData[0].name + "_1", language); 
+      allVariables.P30A2 = guclu_yanlarin(guclu_yanlarinData[0], age, guclu_yanlarinData[0].name + "_2", language); 
   
-      allVariables.P31A1 = guclu_yanlarin(guclu_yanlarinData[1], 25, guclu_yanlarinData[1].name + "_1", language);
-      allVariables.P31A2 = guclu_yanlarin(guclu_yanlarinData[1], 25, guclu_yanlarinData[1].name + "_2", language);
+      allVariables.P31A1 = guclu_yanlarin(guclu_yanlarinData[1], age, guclu_yanlarinData[1].name + "_1", language);
+      allVariables.P31A2 = guclu_yanlarin(guclu_yanlarinData[1], age, guclu_yanlarinData[1].name + "_2", language);
   
-      allVariables.P32A1 = guclu_yanlarin(guclu_yanlarinData[2], 25, guclu_yanlarinData[2].name + "_1", language);
-      allVariables.P32A2 = guclu_yanlarin(guclu_yanlarinData[2], 25, guclu_yanlarinData[2].name + "_2", language);
+      allVariables.P32A1 = guclu_yanlarin(guclu_yanlarinData[2], age, guclu_yanlarinData[2].name + "_1", language);
+      allVariables.P32A2 = guclu_yanlarin(guclu_yanlarinData[2], age, guclu_yanlarinData[2].name + "_2", language);
   
-      allVariables.P33A1 = guclu_yanlarin(guclu_yanlarinData[3], 25, guclu_yanlarinData[3].name + "_1", language);
-      allVariables.P33A2 = guclu_yanlarin(guclu_yanlarinData[3], 25, guclu_yanlarinData[3].name + "_2", language);
+      allVariables.P33A1 = guclu_yanlarin(guclu_yanlarinData[3], age, guclu_yanlarinData[3].name + "_1", language);
+      allVariables.P33A2 = guclu_yanlarin(guclu_yanlarinData[3], age, guclu_yanlarinData[3].name + "_2", language);
   
-      allVariables.P34A1 = guclu_yanlarin(guclu_yanlarinData[4], 25, guclu_yanlarinData[4].name + "_1", language);
-      allVariables.P34A2 = guclu_yanlarin(guclu_yanlarinData[4], 25, guclu_yanlarinData[4].name + "_2", language);
+      allVariables.P34A1 = guclu_yanlarin(guclu_yanlarinData[4], age, guclu_yanlarinData[4].name + "_1", language);
+      allVariables.P34A2 = guclu_yanlarin(guclu_yanlarinData[4], age, guclu_yanlarinData[4].name + "_2", language);
   
-      allVariables.P35A1 = guclu_yanlarin(guclu_yanlarinData[5], 25, guclu_yanlarinData[5].name + "_1", language);
-      allVariables.P35A2 = guclu_yanlarin(guclu_yanlarinData[5], 25, guclu_yanlarinData[5].name + "_2", language);
+      allVariables.P35A1 = guclu_yanlarin(guclu_yanlarinData[5], age, guclu_yanlarinData[5].name + "_1", language);
+      allVariables.P35A2 = guclu_yanlarin(guclu_yanlarinData[5], age, guclu_yanlarinData[5].name + "_2", language);
   
-      allVariables.P36A1 = guclu_yanlarin(guclu_yanlarinData[6], 25, guclu_yanlarinData[6].name + "_1", language);
-      allVariables.P36A2 = guclu_yanlarin(guclu_yanlarinData[6], 25, guclu_yanlarinData[6].name + "_2", language);
+      allVariables.P36A1 = guclu_yanlarin(guclu_yanlarinData[6], age, guclu_yanlarinData[6].name + "_1", language);
+      allVariables.P36A2 = guclu_yanlarin(guclu_yanlarinData[6], age, guclu_yanlarinData[6].name + "_2", language);
   
-      allVariables.P37A1 = guclu_yanlarin(guclu_yanlarinData[7], 25, guclu_yanlarinData[7].name + "_1", language);
-      allVariables.P37A2 = guclu_yanlarin(guclu_yanlarinData[7], 25, guclu_yanlarinData[7].name + "_2", language);
+      allVariables.P37A1 = guclu_yanlarin(guclu_yanlarinData[7], age, guclu_yanlarinData[7].name + "_1", language);
+      allVariables.P37A2 = guclu_yanlarin(guclu_yanlarinData[7], age, guclu_yanlarinData[7].name + "_2", language);
   
-      allVariables.P38A1 = guclu_yanlarin(guclu_yanlarinData[8], 25, guclu_yanlarinData[8].name + "_1", language);
-      allVariables.P38A2 = guclu_yanlarin(guclu_yanlarinData[8], 25, guclu_yanlarinData[8].name + "_2", language);
+      allVariables.P38A1 = guclu_yanlarin(guclu_yanlarinData[8], age, guclu_yanlarinData[8].name + "_1", language);
+      allVariables.P38A2 = guclu_yanlarin(guclu_yanlarinData[8], age, guclu_yanlarinData[8].name + "_2", language);
   
-      allVariables.P39A1 = guclu_yanlarin(guclu_yanlarinData[9], 25, guclu_yanlarinData[9].name + "_1", language);
-      allVariables.P39A2 = guclu_yanlarin(guclu_yanlarinData[9], 25, guclu_yanlarinData[9].name + "_2", language);
+      allVariables.P39A1 = guclu_yanlarin(guclu_yanlarinData[9], age, guclu_yanlarinData[9].name + "_1", language);
+      allVariables.P39A2 = guclu_yanlarin(guclu_yanlarinData[9], age, guclu_yanlarinData[9].name + "_2", language);
   
-      allVariables.P40A1 = guclu_yanlarin(guclu_yanlarinData[10], 25, guclu_yanlarinData[10].name + "_1", language);
-      allVariables.P40A2 = guclu_yanlarin(guclu_yanlarinData[10], 25, guclu_yanlarinData[10].name + "_2", language);
+      allVariables.P40A1 = guclu_yanlarin(guclu_yanlarinData[10], age, guclu_yanlarinData[10].name + "_1", language);
+      allVariables.P40A2 = guclu_yanlarin(guclu_yanlarinData[10], age, guclu_yanlarinData[10].name + "_2", language);
   
-      allVariables.P41A1 = guclu_yanlarin(guclu_yanlarinData[11], 25, guclu_yanlarinData[11].name + "_1", language);
-      allVariables.P41A2 = guclu_yanlarin(guclu_yanlarinData[11], 25, guclu_yanlarinData[11].name + "_2", language);
+      allVariables.P41A1 = guclu_yanlarin(guclu_yanlarinData[11], age, guclu_yanlarinData[11].name + "_1", language);
+      allVariables.P41A2 = guclu_yanlarin(guclu_yanlarinData[11], age, guclu_yanlarinData[11].name + "_2", language);
   
-      allVariables.P44A1 = decision_strategy(decision_strategyData, 25, "name", language);
-      allVariables.P44A2 = decision_strategy(decision_strategyData, 25, "s3_x_2", language);
+      allVariables.P44A1 = decision_strategy(decision_strategyData, age, "name", language);
+      allVariables.P44A2 = decision_strategy(decision_strategyData, age, "s3_x_2", language);
       allVariables.P44A3 = kararVermeStratejin1;
-      allVariables.P44A4 = decision_strategy(decision_strategyData, 25, "s3_x_3", language);
-      allVariables.P44A5 = decision_strategy(decision_strategyData, 25, "s3_x_4", language);
+      allVariables.P44A4 = decision_strategy(decision_strategyData, age, "s3_x_3", language);
+      allVariables.P44A5 = decision_strategy(decision_strategyData, age, "s3_x_4", language);
   
       allVariables.P45A1 = kararVermeStratejin2;
-      allVariables.P45A2 = decision_strategy(decision_strategyData, 25, "s4_x_text", language);
+      allVariables.P45A2 = decision_strategy(decision_strategyData, age, "s4_x_text", language);
       allVariables.P45A3 = kararVermeStratejin3;
-      allVariables.P45A4 = decision_strategy(decision_strategyData, 25, "s4_x_1", language);
-      allVariables.P45A5 = decision_strategy(decision_strategyData, 25, "s4_x_txt", language);
-      allVariables.P45A6 = decision_strategy(decision_strategyData, 25, "image", language);
+      allVariables.P45A4 = decision_strategy(decision_strategyData, age, "s4_x_1", language);
+      allVariables.P45A5 = decision_strategy(decision_strategyData, age, "s4_x_txt", language);
+      allVariables.P45A6 = decision_strategy(decision_strategyData, age, "image", language);
   
       allVariables.P46A1 = "image"; // Sana uygun kariyer dağılımların
-      allVariables.P46A2 = "1." + kariyer_secim(careerSelectionLastResult[0], 25, "name", language);
-      allVariables.P46A3 = "2." + kariyer_secim(careerSelectionLastResult[1], 25, "name", language);
-      allVariables.P46A4 = "3." + kariyer_secim(careerSelectionLastResult[2], 25, "name", language);
+      allVariables.P46A2 = "1." + kariyer_secim(careerSelectionLastResult[0], age, "name", language);
+      allVariables.P46A3 = "2." + kariyer_secim(careerSelectionLastResult[1], age, "name", language);
+      allVariables.P46A4 = "3." + kariyer_secim(careerSelectionLastResult[2], age, "name", language);
   
-      allVariables.P47A1 = kariyer_secim(careerSelectionLastResult[0], 25, "name", language);
-      allVariables.P47A2 = kariyer_secim(careerSelectionLastResult[0], 25, "s2_x_2", language);
-      allVariables.P47A3 = kariyer_secim(careerSelectionLastResult[1], 25, "name", language);
-      allVariables.P47A4 = kariyer_secim(careerSelectionLastResult[1], 25, "s2_x_2", language);
-      allVariables.P47A5 = kariyer_secim(careerSelectionLastResult[2], 25, "name", language);
-      allVariables.P47A6 = kariyer_secim(careerSelectionLastResult[2], 25, "s2_x_2", language);
+      allVariables.P47A1 = kariyer_secim(careerSelectionLastResult[0], age, "name", language);
+      allVariables.P47A2 = kariyer_secim(careerSelectionLastResult[0], age, "s2_x_2", language);
+      allVariables.P47A3 = kariyer_secim(careerSelectionLastResult[1], age, "name", language);
+      allVariables.P47A4 = kariyer_secim(careerSelectionLastResult[1], age, "s2_x_2", language);
+      allVariables.P47A5 = kariyer_secim(careerSelectionLastResult[2], age, "name", language);
+      allVariables.P47A6 = kariyer_secim(careerSelectionLastResult[2], age, "s2_x_2", language);
   
-      allVariables.P48A1 = kariyer_secim(careerSelectionLastResult[0], 25, "name", language); // Sana En uygun kariyer Seçenekleri Genel Sektörler
-      allVariables.P48A2 = kariyer_secim(careerSelectionLastResult[1], 25, "name", language);
-      allVariables.P48A3 = kariyer_secim(careerSelectionLastResult[2], 25, "name", language);
-      allVariables.P48A4 = kariyer_secim(careerSelectionLastResult[0], 25, "s3_x_1", language); // Güncel İşler
-      allVariables.P48A5 = kariyer_secim(careerSelectionLastResult[1], 25, "s3_x_1", language);
-      allVariables.P48A6 = kariyer_secim(careerSelectionLastResult[2], 25, "s3_x_1", language);
+      allVariables.P48A1 = kariyer_secim(careerSelectionLastResult[0], age, "name", language); // Sana En uygun kariyer Seçenekleri Genel Sektörler
+      allVariables.P48A2 = kariyer_secim(careerSelectionLastResult[1], age, "name", language);
+      allVariables.P48A3 = kariyer_secim(careerSelectionLastResult[2], age, "name", language);
+      allVariables.P48A4 = kariyer_secim(careerSelectionLastResult[0], age, "s3_x_1", language); // Güncel İşler
+      allVariables.P48A5 = kariyer_secim(careerSelectionLastResult[1], age, "s3_x_1", language);
+      allVariables.P48A6 = kariyer_secim(careerSelectionLastResult[2], age, "s3_x_1", language);
   
-      allVariables.P49A1 = kariyer_secim(careerSelectionLastResult[0], 25, "name", language);
-      allVariables.P49A2 = kariyer_secim(careerSelectionLastResult[1], 25, "name", language);
-      allVariables.P49A3 = kariyer_secim(careerSelectionLastResult[2], 25, "name", language);
-      allVariables.P49A4 = kariyer_secim(careerSelectionLastResult[0], 25, "s4_x_1", language); // Geleceğin İşleri
-      allVariables.P49A5 = kariyer_secim(careerSelectionLastResult[1], 25, "s4_x_1", language);
-      allVariables.P49A6 = kariyer_secim(careerSelectionLastResult[2], 25, "s4_x_1", language);
+      allVariables.P49A1 = kariyer_secim(careerSelectionLastResult[0], age, "name", language);
+      allVariables.P49A2 = kariyer_secim(careerSelectionLastResult[1], age, "name", language);
+      allVariables.P49A3 = kariyer_secim(careerSelectionLastResult[2], age, "name", language);
+      allVariables.P49A4 = kariyer_secim(careerSelectionLastResult[0], age, "s4_x_1", language); // Geleceğin İşleri
+      allVariables.P49A5 = kariyer_secim(careerSelectionLastResult[1], age, "s4_x_1", language);
+      allVariables.P49A6 = kariyer_secim(careerSelectionLastResult[2], age, "s4_x_1", language);
   
-      allVariables.P50A1 = kariyer_secim(decision_strategyData.sectorName, 25, "sector", language); // Sana En uygun kariyer seçenekleri
-      allVariables.P50A2 = kariyer_secim(careerSelectionLastResult[0], 25, "s7_" + decision_strategyData.sectorName + "_x_1", language);
-      allVariables.P50A3 = kariyer_secim(careerSelectionLastResult[0], 25, "s7_" + decision_strategyData.sectorName + "_x_3", language);
-      allVariables.P50A4 = kariyer_secim(careerSelectionLastResult[0], 25, "s7_" + decision_strategyData.sectorName + "_x_4", language);
-      allVariables.P50A5 = kariyer_secim(careerSelectionLastResult[0], 25, "s7_" + decision_strategyData.sectorName + "_x_5", language);
-      allVariables.P50A6 = kariyer_secim(careerSelectionLastResult[0], 25, "s7_" + decision_strategyData.sectorName + "_x_6", language);
-      allVariables.P50A7 = kariyer_secim(careerSelectionLastResult[0], 25, "s7_" + decision_strategyData.sectorName + "_x_7", language);
-      allVariables.P50A8 = kariyer_secim(careerSelectionLastResult[1], 25, "s7_" + decision_strategyData.sectorName + "_x_1", language);
-      allVariables.P50A9 = kariyer_secim(careerSelectionLastResult[1], 25, "s7_" + decision_strategyData.sectorName + "_x_3", language);
-      allVariables.P50A10 = kariyer_secim(careerSelectionLastResult[1], 25, "s7_" + decision_strategyData.sectorName + "_x_4", language);
-      allVariables.P50A11 = kariyer_secim(careerSelectionLastResult[1], 25, "s7_" + decision_strategyData.sectorName + "_x_5", language);
-      allVariables.P50A12 = kariyer_secim(careerSelectionLastResult[1], 25, "s7_" + decision_strategyData.sectorName + "_x_6", language);
-      allVariables.P50A13 = kariyer_secim(careerSelectionLastResult[1], 25, "s7_" + decision_strategyData.sectorName + "_x_7", language);
-      allVariables.P50A14 = kariyer_secim(careerSelectionLastResult[2], 25, "s7_" + decision_strategyData.sectorName + "_x_1", language);
-      allVariables.P50A15 = kariyer_secim(careerSelectionLastResult[2], 25, "s7_" + decision_strategyData.sectorName + "_x_3", language);
-      allVariables.P50A16 = kariyer_secim(careerSelectionLastResult[2], 25, "s7_" + decision_strategyData.sectorName + "_x_4", language);
-      allVariables.P50A17 = kariyer_secim(careerSelectionLastResult[2], 25, "s7_" + decision_strategyData.sectorName + "_x_5", language);
-      allVariables.P50A18 = kariyer_secim(careerSelectionLastResult[2], 25, "s7_" + decision_strategyData.sectorName + "_x_6", language);
-      allVariables.P50A19 = kariyer_secim(careerSelectionLastResult[2], 25, "s7_" + decision_strategyData.sectorName + "_x_7", language);
+      allVariables.P50A1 = kariyer_secim(decision_strategyData.sectorName, age, "sector", language); // Sana En uygun kariyer seçenekleri
+      allVariables.P50A2 = kariyer_secim(careerSelectionLastResult[0], age, "s7_" + decision_strategyData.sectorName + "_x_1", language);
+      allVariables.P50A3 = kariyer_secim(careerSelectionLastResult[0], age, "s7_" + decision_strategyData.sectorName + "_x_3", language);
+      allVariables.P50A4 = kariyer_secim(careerSelectionLastResult[0], age, "s7_" + decision_strategyData.sectorName + "_x_4", language);
+      allVariables.P50A5 = kariyer_secim(careerSelectionLastResult[0], age, "s7_" + decision_strategyData.sectorName + "_x_5", language);
+      allVariables.P50A6 = kariyer_secim(careerSelectionLastResult[0], age, "s7_" + decision_strategyData.sectorName + "_x_6", language);
+      allVariables.P50A7 = kariyer_secim(careerSelectionLastResult[0], age, "s7_" + decision_strategyData.sectorName + "_x_7", language);
+      allVariables.P50A8 = kariyer_secim(careerSelectionLastResult[1], age, "s7_" + decision_strategyData.sectorName + "_x_1", language);
+      allVariables.P50A9 = kariyer_secim(careerSelectionLastResult[1], age, "s7_" + decision_strategyData.sectorName + "_x_3", language);
+      allVariables.P50A10 = kariyer_secim(careerSelectionLastResult[1], age, "s7_" + decision_strategyData.sectorName + "_x_4", language);
+      allVariables.P50A11 = kariyer_secim(careerSelectionLastResult[1], age, "s7_" + decision_strategyData.sectorName + "_x_5", language);
+      allVariables.P50A12 = kariyer_secim(careerSelectionLastResult[1], age, "s7_" + decision_strategyData.sectorName + "_x_6", language);
+      allVariables.P50A13 = kariyer_secim(careerSelectionLastResult[1], age, "s7_" + decision_strategyData.sectorName + "_x_7", language);
+      allVariables.P50A14 = kariyer_secim(careerSelectionLastResult[2], age, "s7_" + decision_strategyData.sectorName + "_x_1", language);
+      allVariables.P50A15 = kariyer_secim(careerSelectionLastResult[2], age, "s7_" + decision_strategyData.sectorName + "_x_3", language);
+      allVariables.P50A16 = kariyer_secim(careerSelectionLastResult[2], age, "s7_" + decision_strategyData.sectorName + "_x_4", language);
+      allVariables.P50A17 = kariyer_secim(careerSelectionLastResult[2], age, "s7_" + decision_strategyData.sectorName + "_x_5", language);
+      allVariables.P50A18 = kariyer_secim(careerSelectionLastResult[2], age, "s7_" + decision_strategyData.sectorName + "_x_6", language);
+      allVariables.P50A19 = kariyer_secim(careerSelectionLastResult[2], age, "s7_" + decision_strategyData.sectorName + "_x_7", language);
 
-      allVariables.P52A1 = kslk_ozl_ozet(hollandData[0].name, hollandData[1].name, 25, "ozet_1", language),
-      allVariables.P52A2 = kslk_ozl_ozet(hollandData[0].name, hollandData[1].name, 25, "ozet_2", language),
-      allVariables.P52A3 = krktr_ozl_ozet(big5Data[0].name, big5Data[1].name, 25, "ozet_1", language),
-      allVariables.P52A4 = krktr_ozl_ozet(big5Data[0].name, big5Data[1].name, 25, "ozet_2", language),
-      allVariables.P52A5 = lifestyle(lifestyleData[0], 25, "ozet_1", language),
-      allVariables.P52A6 = lifestyle(lifestyleData[0], 25, "ozet_2", language),
-      allVariables.P52A7 = worklearnstyle(worklearnData[0], 25, "ozet_1", language),
-      allVariables.P52A8 = worklearnstyle(worklearnData[0], 25, "ozet_2", language),
-      allVariables.P52A9 = decision_strategy(decision_strategyData, 25, "ozet_1", language),
-      allVariables.P52A10 = decision_strategy(decision_strategyData, 25, "ozet_2", language),
-      allVariables.P52A11 = kariyer_secim(careerSelectionLastResult[0], 25, "ozet_1", language),
-      allVariables.P52A12 = kariyer_secim(careerSelectionLastResult[0], 25, "ozet_2", language), 
+      allVariables.P52A1 = kslk_ozl_ozet(hollandData[0].name, hollandData[1].name, age, "ozet_1", language),
+      allVariables.P52A2 = kslk_ozl_ozet(hollandData[0].name, hollandData[1].name, age, "ozet_2", language),
+      allVariables.P52A3 = krktr_ozl_ozet(big5Data[0].name, big5Data[1].name, age, "ozet_1", language),
+      allVariables.P52A4 = krktr_ozl_ozet(big5Data[0].name, big5Data[1].name, age, "ozet_2", language),
+      allVariables.P52A5 = lifestyle(lifestyleData[0], age, "ozet_1", language),
+      allVariables.P52A6 = lifestyle(lifestyleData[0], age, "ozet_2", language),
+      allVariables.P52A7 = worklearnstyle(worklearnData[0], age, "ozet_1", language),
+      allVariables.P52A8 = worklearnstyle(worklearnData[0], age, "ozet_2", language),
+      allVariables.P52A9 = decision_strategy(decision_strategyData, age, "ozet_1", language),
+      allVariables.P52A10 = decision_strategy(decision_strategyData, age, "ozet_2", language),
+      allVariables.P52A11 = kariyer_secim(careerSelectionLastResult[0], age, "ozet_1", language),
+      allVariables.P52A12 = kariyer_secim(careerSelectionLastResult[0], age, "ozet_2", language), 
   
       allVariables.P53A1 = dearName;
   
