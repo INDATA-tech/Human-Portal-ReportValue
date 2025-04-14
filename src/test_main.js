@@ -10611,7 +10611,7 @@ var decision_strategy_eng_s4_11_txt = "By adhering to this decision-making strat
   }
 
 
-  if(age >= 12 && age <= 25) { //allVariables ve inputModel burada
+  if(age >= 12 && age <= 25) { //allVariables2 ve inputModel2 burada
     var allVariables2 = { // Burada sadece değişmeyen ilk 25'i tanımlı. alt tarafda gelen güçlü yanlarına göre diğer alanlar objeye push ediliyor.
   
       P1A1 : nameSurname,
@@ -10826,7 +10826,7 @@ var decision_strategy_eng_s4_11_txt = "By adhering to this decision-making strat
     }
   }
 
-  if(age > 25) { //allVariables2 ve inputModel2 burada
+  if(age > 25) { //allVariables ve inputModel burada
     var allVariables = { // Burada sadece değişmeyen ilk 28'i tanımlı. alt tarafda gelen güçlü yanlarına göre diğer alanlar objeye push ediliyor.
   
       P1A1 : nameSurname,
@@ -11083,7 +11083,7 @@ var decision_strategy_eng_s4_11_txt = "By adhering to this decision-making strat
       graphteamwork: sortedTeamWorkData,
     }
   }
-  
+
 
   if (age >= 12 && age <= 25) {
     if (usageGate.length === 1) {
@@ -15919,8 +15919,11 @@ var decision_strategy_eng_s4_11_txt = "By adhering to this decision-making strat
   }
     
   inputs_25_plus.usageGate = usageGate.length;
+  inputs_25_plus.age = age;
 
   const jsonString = JSON.stringify(inputs_25_plus)
+
+  console.log("test");
 
   return inputs_25_plus;
 };
