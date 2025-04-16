@@ -3151,49 +3151,49 @@ var krktr_ozl_eng_25_plus_emotional_stability_questions = "• What results do I
 //Yapay Zeka Çağı Yetkinliklerin
 //12-25
 var ai_12_s3_1_1 = "Dijital Okuryazarlık";
-var ai_12_s3_1_2 = "";
-var ai_12_s4u1_1_2 = "";
-var ai_12_s4u2_1_2 = "";
+var ai_12_s3_1_2 = "• Temel Bilgisayar ve Teknoloji Becerileri: Bilgisayar kullanımını, yazılım ve donanım bilgilerini kapsar. Gençler teknolojiyi etkili ve verimli bir şekilde kullanabilmelidir.\n\n• Yapay Zeka Temelleri: AI'nın ne olduğu, nasıl çalıştığı ve hayatımızı nasıl şekillendirdiği hakkında temel bilgilere sahip olmak giderek önem kazanıyor.";
+var ai_12_s4u1_1_2 = "• Bilgisayar ve teknoloji becerilerinle hangi alanlarda fark yaratabilirsin? Bu becerilerini okul projelerinde ya da gelecekteki kariyerinde nasıl daha etkin kullanabilirsin?\n\n• AI hakkında sahip olduğun temel bilgileri derinleştirip, yapay zekanın gelecekte hangi mesleklerde önemli olacağını ön görebiliyor musun? Bu alanlarda nasıl bir kariyer planlayabilirsin?";
+var ai_12_s4u2_1_2 = "• Hangi temel bilgisayar becerilerine sahibim ve bu becerileri daha ileriye taşımak için neler yapabilirim?\n\n• Teknolojiyi günlük yaşantımda nasıl kullanıyorum? Teknolojiyi sadece tüketici olarak mı kullanıyorum, yoksa üretici de olabiliyor muyum?\n\n• Yapay zeka hakkında neler biliyorum? AI'nın hayatımı nasıl etkilediğini anlamaya ne kadar zaman ayırdım?\n\n• Yapay zeka ve onun sunduğu fırsatlar hakkında bilgi edinmek beni heyecanlandırıyor mu? Bu alanda kendimi geliştirmek için hangi adımları atabilirim?";
 
 var ai_12_s3_2_1 = "Veri Okuryazarlığı";
-var ai_12_s3_2_2 = "";
-var ai_12_s4u1_2_2 = "";
-var ai_12_s4u2_2_2 = "";
+var ai_12_s3_2_2 = "• Veri Analizi: Verileri toplama, analiz etme ve bu verilerden anlamlı sonuçlar çıkarabilme yeteneği. Günümüz dünyasında kararlar veri odaklı alındığı için bu beceri çok değerlidir.\n\n• Veri Gizliliği ve Güvenlik: Gençlerin veri güvenliğinin ve gizliliğin önemini anlamaları, kişisel verilerin nasıl korunacağını bilmeleri gereklidir.";
+var ai_12_s4u1_2_2 = "• Verileri analiz etme yeteneğini, okul projelerinde ya da iş hayatında nasıl kullanabilirsin? Verilere dayalı kararlar almanın sana nasıl avantaj sağlayacağını düşünüyorsun?\n\n• Veri güvenliği ve gizliliği konusunda ne kadar bilinçlisin? Bu bilgini ileride çalışacağın bir şirkette ya da kendi girişiminde nasıl kullanabilirsin?";
+var ai_12_s4u2_2_2 = "• Bir sorunla karşılaştığımda verilerden nasıl yararlanıyorum? Verilere dayalı kararlar almak işimi nasıl kolaylaştırıyor?\n\n• Kişisel verilerimi nasıl koruyorum? İnternette gizliliğimi sağlamak için hangi adımları atıyorum?\n\n• Çevrim içi güvenlik ve veri gizliliği konularında ne kadar bilgi sahibiyim? Güvenlik açıkları konusunda farkındalığımı nasıl artırabilirim?\n\n• Kişisel ve başkalarına ait verileri koruma sorumluluğumun bilincinde miyim? Bu konuda geliştirmem gereken davranışlar neler?";
 
 var ai_12_s3_3_1 = "Kodlama ve Programlama";
-var ai_12_s3_3_2 = "";
-var ai_12_s4u1_3_2 = "";
-var ai_12_s4u2_3_2 = "";
+var ai_12_s3_3_2 = "• Programlama Dilleri: Python, JavaScript gibi temel programlama dillerini öğrenmek, AI geliştirme ve teknolojiyle ilgili işlerde başarılı olmak için önemlidir.\n\n• Algoritmik Düşünme: Problemleri çözmek için sistematik ve mantıklı yollar geliştirmek, AI çağında temel bir beceridir.\n\nAnalitik Düşünme: Verilerden veya olaylardan anlam çıkarma, çözüm yolları geliştirme yeteneği. AI araçlarını doğru ve etkili bir şekilde kullanabilmek için bu beceri hayati önem taşır.\n\nYaratıcı Problem Çözme: Yenilikçi ve yaratıcı yollarla çözümler üretebilme, özellikle AI ve teknoloji alanlarında avantaj sağlar.";
+var ai_12_s4u1_3_2 = "• Programlama becerilerini okul projelerinde nasıl kullanabilir ve bu sayede farklı projelerde liderlik yapabilirsin? Hangi programlama dillerini öğrenmenin kariyer hedeflerine ulaşmada sana yardımcı olacağını düşünüyorsun?\n\n• Algoritmik düşünme yeteneğinle karşılaştığın problemleri nasıl daha sistematik çözümlerle çözebilirsin? Bu beceriyi ileride hangi mesleklerde avantaj olarak kullanabilirsin?";
+var ai_12_s4u2_3_2 = "Programlama dilleri öğrenmeye olan ilgim ne düzeyde? Yeni bir dil öğrenmeyi düşündüğümde nereden başlamalıyım?\n\nHangi alanlarda programlama bilgimi daha da geliştirebilirim? Mevcut projelerimde daha etkin olmak için hangi dilleri öğrenmeliyim?\n\nProblemleri çözmek için hangi adımları izliyorum? Mantıksal düşünme becerilerim ne kadar gelişmiş?\n\nAlgoritmik düşünme yeteneğimi geliştirmek için hangi araçlardan faydalanabilirim? Bu beceriyi iş veya eğitim hayatımda nasıl daha iyi kullanabilirim?";
 
 var ai_12_s3_4_1 = "Eleştirel Düşünme ve Problem Çözme";
-var ai_12_s3_4_2 = "";
-var ai_12_s4u1_4_2 = "";
-var ai_12_s4u2_4_2 = "";
+var ai_12_s3_4_2 = "• Analitik Düşünme: Verilerden veya olaylardan anlam çıkarma, çözüm yolları geliştirme yeteneği. AI araçlarını doğru ve etkili bir şekilde kullanabilmek için bu beceri hayati önem taşır.\n\n• Yaratıcı Problem Çözme: Yenilikçi ve yaratıcı yollarla çözümler üretebilme, özellikle AI ve teknoloji alanlarında avantaj sağlar.";
+var ai_12_s4u1_4_2 = "• Analitik düşünme becerinle verilerden ya da olaylardan anlam çıkarma yeteneğini hangi alanlarda geliştirebilir ve kullanabilirsin? Bu becerinin sana ileride hangi kariyer fırsatlarını sunacağını düşünüyorsun?\n\n• Yaratıcı problem çözme yeteneğini kullanarak hangi projelerde ya da iş alanlarında fark yaratabileceğini düşünüyorsun? Bu beceriyi nasıl daha fazla geliştirebilirsin?";
+var ai_12_s4u2_4_2 = "• Karar verirken olaylara nasıl yaklaşırım? Farklı seçenekleri değerlendirme konusunda ne kadar analitik düşünüyorum?\n\n• Analitik düşünme yeteneğimi geliştirmek için hangi kaynaklardan faydalanıyorum? Zorlu problemlere karşı nasıl bir strateji izliyorum?\n\n• Yaratıcı düşünceyi nasıl geliştirebilirim? Farklı perspektiflerden bakmayı nasıl öğrenebilirim?\n\n• Teknoloji ve AI kullanarak daha yenilikçi çözümler üretme konusunda ne kadar isteklilik gösteriyorum?";
 
 var ai_12_s3_5_1 = "Uyarlanabilirlik ve Sürekli Öğrenme";
-var ai_12_s3_5_2 = "";
-var ai_12_s4u1_5_2 = "";
-var ai_12_s4u2_5_2 = "";
+var ai_12_s3_5_2 = "• Esneklik: Sürekli değişen teknoloji ve iş dünyasına hızla adapte olabilmek. Yeni AI araçlarını, sistemlerini öğrenme yeteneği önemlidir.\n\n• Yaşam Boyu Öğrenme: Teknoloji geliştikçe, yeni beceriler öğrenme ve mevcut becerileri güncelleme yeteneği daha da önem kazanıyor.";
+var ai_12_s4u1_5_2 = "• Hızla değişen teknoloji dünyasında nasıl adapte olabilirsin? Esnek olma yeteneğinle hangi mesleklerde daha başarılı olabileceğini düşünüyorsun?\n\n• Yaşam boyu öğrenme anlayışınla hangi yeni teknolojileri öğrenmeyi planlıyorsun? Bu öğrenme sürecini kariyerin boyunca nasıl sürdürebilirsin?";
+var ai_12_s4u2_5_2 = "• Yeni teknolojilere ve değişen iş dünyasına ne kadar hızlı uyum sağlayabiliyorum? Değişikliklere karşı nasıl tepki veriyorum?\n\n• Yapay zekanın hızlı gelişimi karşısında nasıl esnek olabilirim? İş hayatımda daha uyumlu olmak için hangi adımları atmalıyım?\n\n• Kendimi geliştirmek için ne kadar istekliyim? Teknolojideki yenilikleri takip etme konusunda ne kadar aktifim?\n\n• Hangi alanlarda kendimi daha fazla geliştirmem gerektiğini düşünüyorum? AI dünyasında öğrenmeye nasıl devam edebilirim?";
 
 var ai_12_s3_6_1 = "İletişim ve İşbirliği";
-var ai_12_s3_6_2 = "";
-var ai_12_s4u1_6_2 = "";
-var ai_12_s4u2_6_2 = "";
+var ai_12_s3_6_2 = "• Teknik ve İnsan Dili Arasındaki Köprü: AI ve teknoloji alanında çalışırken karmaşık bilgileri sade bir şekilde açıklayabilme yeteneği önemlidir.\n\n• Takım Çalışması: Özellikle çok disiplinli projelerde işbirliği yapabilmek, AI projelerinde başarıya ulaşmanın anahtarlarından biridir.";
+var ai_12_s4u1_6_2 = "• Karmaşık teknik bilgileri sade bir şekilde açıklayabilme yeteneğinle hangi projelerde liderlik yapabilir ya da takım arkadaşlarına rehberlik edebilirsin? Bu beceriyi hangi iş alanlarında kullanabileceğini düşünüyorsun?\n\n• Takım çalışması becerinle hangi disiplinler arası projelerde başarılı olabilirsin? AI projelerinde işbirliği yaparak hangi hedeflere ulaşmayı planlıyorsun?";
+var ai_12_s4u2_6_2 = "• Teknik konuları başkalarına açıklarken ne kadar başarılıyım? Kendi bilgimi sade ve anlaşılır hale getirme konusunda ne kadar becerikliyim?\n\n• Teknik bilgileri ekip arkadaşlarıma veya müşterilere daha net ifade edebilmek için hangi becerileri geliştirmeliyim?\n\n• Takım içinde fikirlerimi paylaşırken ne kadar rahatım? Grup dinamiklerini anlamak ve katkı sağlamak için hangi becerilerimi geliştirmeliyim?\n\n• AI projelerinde ekip üyeleriyle nasıl daha iyi iş birliği yapabilirim? Takım arkadaşlarımın güçlü yanlarını nasıl daha etkili kullanabilirim?";
 
 var ai_12_s3_7_1 = "Etik ve Sosyal Sorumluluk";
-var ai_12_s3_7_2 = "";
-var ai_12_s4u1_7_2 = "";
-var ai_12_s4u2_7_2 = "";
+var ai_12_s3_7_2 = "• AI Etikleri: Yapay zekanın toplumsal etkileri, karar alma süreçlerindeki rolü ve insanlara olan etkileri konusunda bilinçli olmak.\n\n• Sosyal Sorumluluk: AI'nın etkilerini anlamak ve bu teknolojiyi sosyal fayda yaratacak şekilde kullanmak, gençlerin sadece teknik anlamda değil, etik anlamda da gelişmiş bireyler olmalarını sağlar.";
+var ai_12_s4u1_7_2 = "• Yapay zekanın etik kullanımı hakkında sahip olduğun bilinçle hangi alanlarda fark yaratabilirsin? AI'nın sosyal etkilerini göz önünde bulundurarak, hangi projelerde yer almayı planlıyorsun?\n\• nAI teknolojilerini sosyal sorumluluk bilinciyle kullanarak toplumda nasıl bir etki yaratabilirsin? Bu farkındalığı okul ve kariyer hayatında nasıl kullanabilirsin?";
+var ai_12_s4u2_7_2 = "• AI kullanırken etik sorumluluklarım nelerdir? Bu sorumlulukları daha iyi yönetmek için neler yapmalıyım?\n\n• AI projelerinde etik kararlar alırken, topluma ve çevreme nasıl bir fayda sağlayabilirim?\n\n• Yapay zeka projelerinde sosyal sorumluluk bilincimi nasıl geliştirebilirim? Toplumun iyiliği için hangi AI projelerine katkı sağlayabilirim?\n\n• AI teknolojilerinin getirdiği fırsatları toplumsal faydaya nasıl dönüştürebilirim?";
 
 var ai_12_s3_8_1 = "Duygusal Zeka (EQ)";
-var ai_12_s3_8_2 = "";
-var ai_12_s4u1_8_2 = "";
-var ai_12_s4u2_8_2 = "";
+var ai_12_s3_8_2 = "• Empati ve Duygusal Anlayış: AI ve teknolojik araçlarla yoğun bir şekilde çalışırken, insan ilişkilerini ve duygusal farkındalığı kaybetmemek önemlidir. Liderlik ve yönetim becerileri için duygusal zeka oldukça kıymetlidir.\n\n• Stres Yönetimi: AI ve dijital dünyada sürekli öğrenme ve adaptasyonun getirdiği stresle başa çıkma becerileri de gelişmelidir.";
+var ai_12_s4u1_8_2 = "• Empati yeteneğinle iş arkadaşların ya da müşterilerin ihtiyaçlarını nasıl daha iyi anlayabilirsin? Bu beceriyi liderlik ya da yönetim pozisyonlarında nasıl kullanabilirsin?\n\n• Stres yönetimi konusunda sahip olduğun yetkinliklerle yoğun ve zorlu projelerde nasıl başarılı olabilirsin? Bu beceriyi kariyer hayatında nasıl geliştirebilirsin?";
+var ai_12_s4u2_8_2 = "• Yapay zeka ve teknolojiyle çalışırken insan ilişkilerime ne kadar önem veriyorum? Empati yeteneğimi nasıl geliştirebilirim?\n\n• Teknoloji projelerinde duygusal zekamı ne kadar kullanıyorum? İş yerinde daha empatik olabilmek için neler yapabilirim?\n\n• AI ve dijital dünyada sürekli öğrenmenin getirdiği stresle nasıl başa çıkıyorum? Stresle baş etme stratejilerim neler?\n\n• Zorlayıcı projelerde kendimi nasıl rahatlatıyorum? Stres yönetimi konusunda hangi becerilerimi geliştirmeliyim?";
 
 var ai_12_s3_9_1 = "Yenilikçi ve Girişimci Düşünce";
-var ai_12_s3_9_2 = "";
-var ai_12_s4u1_9_2 = "";
-var ai_12_s4u2_9_2 = "";
+var ai_12_s3_9_2 = "• Girişimcilik: AI çağında yenilikçi iş fikirleri geliştirip bu fikirleri hayata geçirme becerisi.\n\n• Risk Alma ve Deney Yapma: AI ve teknolojik inovasyonlar genellikle belirsizlik içerir. Bu yüzden gençlerin risk almaya istekli ve deneysel düşünceye açık olmaları gerekir.";
+var ai_12_s4u1_9_2 = "• Girişimci düşünme yeteneğinle AI çağında hangi yenilikçi iş fikirlerini hayata geçirebilirsin? Bu fikirleri gerçekleştirmek için hangi adımları atmayı düşünüyorsun?\n\n• Risk alma ve deney yapma konusunda ne kadar cesaretlisin? Bu cesareti okul projelerinde ya da iş hayatında nasıl fırsatlara dönüştürebilirsin?";
+var ai_12_s4u2_9_2 = "• Yapay zeka ile ilgili yenilikçi iş fikirleri geliştirme konusunda ne kadar istekliyim? Yeni projeler başlatmak için hangi adımları atıyorum?\n\n• Girişimcilik becerilerimi geliştirmek için hangi fırsatları değerlendiriyorum? AI projelerinde hangi iş fırsatlarını görebiliyorum?\n\n• Deneysel düşünce yapısına ne kadar açığım? Yeni fikirleri test etmek için hangi stratejileri uyguluyorum?\n\n• Belirsizliklerle başa çıkarken nasıl kararlar alıyorum? Risk almanın getirdiği fırsatları nasıl değerlendirebilirim?";
 
 //25+
 var ai_25_s3_1_1 = "Dijital Okuryazarlık";
@@ -4486,7 +4486,89 @@ var decision_strategy_eng_s4_11_txt = "By adhering to this decision-making strat
           return ai_25_s4u2_9_2;
         }
       }
-    } else if (lang == "En") {
+    } else if (lang == "Tr" && age <= 25) {
+      if (type == "name") {
+        if (aiName == "Dijital Okuryazarlık") {
+          return ai_12_s3_1_1;
+        } else if (aiName == "Veri Okur Yazarlığı") {
+          return ai_12_s3_2_1;
+        } else if (aiName == "Kodlama ve Programlama") {
+          return ai_12_s3_3_1;
+        } else if (aiName == "Eleştirel Düşünme ve Problem Çözme") {
+          return ai_12_s3_4_1;
+        } else if (aiName == "Uyarlanabilirlik ve Sürekli Öğrenme") {
+          return ai_12_s3_5_1;
+        } else if (aiName == "İletişim ve İşbirliği") {
+          return ai_12_s3_6_1;
+        } else if (aiName == "Etik ve Sosyal Sorumluluk") {
+          return ai_12_s3_7_1;
+        } else if (aiName == "Duygusal Zeka (EQ)") {
+          return ai_12_s3_8_1;
+        } else if (aiName == "Yenilikçi ve Girişimci Düşünce") {
+          return ai_12_s3_9_1;
+        }
+    } else if (type == "s3_x_2") {
+        if (aiName == "Dijital Okuryazarlık") {
+          return ai_12_s3_1_2;
+        } else if (aiName == "Veri Okur Yazarlığı") {
+          return ai_12_s3_2_2;
+        } else if (aiName == "Kodlama ve Programlama") {
+          return ai_12_s3_3_2;
+        } else if (aiName == "Eleştirel Düşünme ve Problem Çözme") {
+          return ai_12_s3_4_2;
+        } else if (aiName == "Uyarlanabilirlik ve Sürekli Öğrenme") {
+          return ai_12_s3_5_2;
+        } else if (aiName == "İletişim ve İşbirliği") {
+          return ai_12_s3_6_2;
+        } else if (aiName == "Etik ve Sosyal Sorumluluk") {
+          return ai_12_s3_7_2;
+        } else if (aiName == "Duygusal Zeka (EQ)") {
+          return ai_12_s3_8_2;
+        } else if (aiName == "Yenilikçi ve Girişimci Düşünce") {
+          return ai_12_s3_9_2;
+        }
+      } else if (type == "s4u1_x_2") {
+        if (aiName == "Dijital Okuryazarlık") {
+          return ai_12_s4u1_1_2;
+        } else if (aiName == "Veri Okur Yazarlığı") {
+          return ai_12_s4u1_2_2;
+        } else if (aiName == "Kodlama ve Programlama") {
+          return ai_12_s4u1_3_2;
+        } else if (aiName == "Eleştirel Düşünme ve Problem Çözme") {
+          return ai_12_s4u1_4_2;
+        } else if (aiName == "Uyarlanabilirlik ve Sürekli Öğrenme") {
+          return ai_12_s4u1_5_2;
+        } else if (aiName == "İletişim ve İşbirliği") {
+          return ai_12_s4u1_6_2;
+        } else if (aiName == "Etik ve Sosyal Sorumluluk") {
+          return ai_12_s4u1_7_2;
+        } else if (aiName == "Duygusal Zeka (EQ)") {
+          return ai_12_s4u1_8_2;
+        } else if (aiName == "Yenilikçi ve Girişimci Düşünce") {
+          return ai_12_s4u1_9_2;
+        }
+      } else if (type == "s4u2_x_2") {
+        if (aiName == "Dijital Okuryazarlık") {
+          return ai_12_s4u2_1_2;
+        } else if (aiName == "Veri Okur Yazarlığı") {
+          return ai_12_s4u2_2_2;
+        } else if (aiName == "Kodlama ve Programlama") {
+          return ai_12_s4u2_3_2;
+        } else if (aiName == "Eleştirel Düşünme ve Problem Çözme") {
+          return ai_12_s4u2_4_2;
+        } else if (aiName == "Uyarlanabilirlik ve Sürekli Öğrenme") {
+          return ai_12_s4u2_5_2;
+        } else if (aiName == "İletişim ve İşbirliği") {
+          return ai_12_s4u2_6_2;
+        } else if (aiName == "Etik ve Sosyal Sorumluluk") {
+          return ai_12_s4u2_7_2;
+        } else if (aiName == "Duygusal Zeka (EQ)") {
+          return ai_12_s4u2_8_2;
+        } else if (aiName == "Yenilikçi ve Girişimci Düşünce") {
+          return ai_12_s4u2_9_2;
+        }
+      }
+    } else if (lang == "En" && age > 25) {
       if (type == "name") {
         if (aiName == "Dijital Okuryazarlık") {
           return ai_25_eng_s3_1_1;
@@ -4569,7 +4651,6 @@ var decision_strategy_eng_s4_11_txt = "By adhering to this decision-making strat
         }
       }
     }
-    
   };
 
   let teamwork = (teamworkName, age, type, lang) => {
@@ -15922,8 +16003,6 @@ var decision_strategy_eng_s4_11_txt = "By adhering to this decision-making strat
   inputs_25_plus.age = age;
 
   const jsonString = JSON.stringify(inputs_25_plus)
-
-  console.log("test");
 
   return inputs_25_plus;
 };
