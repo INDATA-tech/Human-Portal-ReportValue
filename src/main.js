@@ -13359,18 +13359,18 @@ var decision_strategy_eng_s4_11_txt = "By adhering to this decision-making strat
       allVariables2.P47A18 = kariyer_secim(careerSelectionLastResult[2], age, "s7_" + decision_strategyData.sectorName + "_x_6", language);
       allVariables2.P47A19 = kariyer_secim(careerSelectionLastResult[2], age, "s7_" + decision_strategyData.sectorName + "_x_7", language);
 
-      allVariables.P49A1 = kslk_ozl_ozet(hollandData[0].name, hollandData[1].name, age, "ozet_1", language),
-      allVariables.P49A2 = kslk_ozl_ozet(hollandData[0].name, hollandData[1].name, age, "ozet_2", language),
-      allVariables.P49A3 = krktr_ozl_ozet(big5Data[0].name, big5Data[1].name, age, "ozet_1", language),
-      allVariables.P49A4 = krktr_ozl_ozet(big5Data[0].name, big5Data[1].name, age, "ozet_2", language),
-      allVariables.P49A5 = lifestyle(lifestyleData[0], age, "ozet_1", language),
-      allVariables.P49A6 = lifestyle(lifestyleData[0], age, "ozet_2", language),
-      allVariables.P49A7 = worklearnstyle(worklearnData[0], age, "ozet_1", language),
-      allVariables.P49A8 = worklearnstyle(worklearnData[0], age, "ozet_2", language),
-      allVariables.P49A9 = decision_strategy(decision_strategyData, age, "ozet_1", language),
-      allVariables.P49A10 = decision_strategy(decision_strategyData, age, "ozet_2", language),
-      allVariables.P49A11 = kariyer_secim(careerSelectionLastResult[0], age, "ozet_1", language),
-      allVariables.P49A12 = kariyer_secim(careerSelectionLastResult[0], age, "ozet_2", language),
+      allVariables2.P49A1 = kslk_ozl_ozet(hollandData[0].name, hollandData[1].name, age, "ozet_1", language),
+      allVariables2.P49A2 = kslk_ozl_ozet(hollandData[0].name, hollandData[1].name, age, "ozet_2", language),
+      allVariables2.P49A3 = krktr_ozl_ozet(big5Data[0].name, big5Data[1].name, age, "ozet_1", language),
+      allVariables2.P49A4 = krktr_ozl_ozet(big5Data[0].name, big5Data[1].name, age, "ozet_2", language),
+      allVariables2.P49A5 = lifestyle(lifestyleData[0], age, "ozet_1", language),
+      allVariables2.P49A6 = lifestyle(lifestyleData[0], age, "ozet_2", language),
+      allVariables2.P49A7 = worklearnstyle(worklearnData[0], age, "ozet_1", language),
+      allVariables2.P49A8 = worklearnstyle(worklearnData[0], age, "ozet_2", language),
+      allVariables2.P49A9 = decision_strategy(decision_strategyData, age, "ozet_1", language),
+      allVariables2.P49A10 = decision_strategy(decision_strategyData, age, "ozet_2", language),
+      allVariables2.P49A11 = kariyer_secim(careerSelectionLastResult[0], age, "ozet_1", language),
+      allVariables2.P49A12 = kariyer_secim(careerSelectionLastResult[0], age, "ozet_2", language),
       
       allVariables2.P50A1 = dearName;
   
