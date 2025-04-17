@@ -13421,7 +13421,7 @@ var decision_strategy_eng_s4_11_txt = "By adhering to this decision-making strat
         P40A3: allVariables2.P40A3,
         P40A4: allVariables2.P40A4,
         P40A5: allVariables2.P40A5,
-        P44A5: allVariables2.P40A6,
+        P40A6: allVariables2.P40A6,
         P41A1: allVariables2.P41A1,
         P41A2: allVariables2.P41A2,
         P41A3: allVariables2.P41A3,
