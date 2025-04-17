@@ -13330,7 +13330,7 @@ var decision_strategy_eng_s4_11_txt = "By adhering to this decision-making strat
       allVariables2.P45A3 = kariyer_secim(careerSelectionLastResult[1], age, "name", language);
       allVariables2.P45A4 = kariyer_secim(careerSelectionLastResult[1], age, "s5_x_1", language);
       allVariables2.P45A5 = kariyer_secim(careerSelectionLastResult[2], age, "name", language);
-      allVariables2.P45A6 = kariyer_secim(careerSelectionLastResult[2], age, "s5_x_2", language);
+      allVariables2.P45A6 = kariyer_secim(careerSelectionLastResult[2], age, "s5_x_1", language);
       
       allVariables2.P46A1 = kariyer_secim(careerSelectionLastResult[0], age, "name", language);
       allVariables2.P46A2 = kariyer_secim(careerSelectionLastResult[0], age, "s6_x_1", language);
