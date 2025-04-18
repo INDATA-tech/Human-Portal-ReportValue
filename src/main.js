@@ -3796,6 +3796,8 @@ var decision_strategy_eng_s3_1_4 = "Wait for Clarity: Rather than rushing into a
 var decision_strategy_eng_s4_1_text = "Acting from the mind can lead to second-guessing your gut responses, feeling anxious, and missing out on opportunities. In contrast, acting from response and clarity involves actively waiting for life to come towards you and trusting your gut's guidance while also seeking emotional clarity before making decisions.";
 var decision_strategy_eng_s4_1_1 = "1.Actively Wait: Be receptive to life's cues and signals, allowing yourself to observe without immediate action.\nRespond: Listen for your gut's response – an \"ah-huh\" for yes, a \"uhn-un\" for no, or a \"hmmmmm\" for not now.\n2.Wait for Clarity: Sleep on it and allow yourself to feel out your emotional wave. Avoid making decisions during heightened emotional states.\n3.Decide: Based on your gut response and emotional clarity, make a decision – yes, no, or not now.\n4.Act or Not: Finally, take action or refrain from action based on your decision, trusting in the wisdom of your gut instincts and emotional clarity.";
 var decision_strategy_eng_s4_1_txt = "By adhering to this decision-making strategy, you can navigate through choices with patience, discernment, and confidence, leading to greater success and fulfillment in your career and business endeavors.";
+var decision_strategy_eng_ozet_1_1 = "";
+var decision_strategy_eng_ozet_1_2 = "";
 
 var decision_strategy_eng_s3_2_0 = "Karşılık Vermek için Bekle ve İçgüdülerini Takip Et";
 var decision_strategy_eng_s3_2_1 = "Wait to Respond then Follow Your Gut";
@@ -3805,6 +3807,8 @@ var decision_strategy_eng_s3_2_4 = "Follow Your Gut: Your gut response will mani
 var decision_strategy_eng_s4_2_text = "Acting from the mind can lead to second-guessing your gut instincts, feeling anxious, and missing out on opportunities. In contrast, acting from response involves actively waiting for life to come towards you and trusting your gut's guidance. Surrender to the unfolding magic of life and allow yourself to be pulled towards what resonates with you and away from what doesn't.";
 var decision_strategy_eng_s4_2_1 = "1.Actively Wait: Be receptive to life's cues and signals, whether they come in the form of questions, interactions, or experiences.\n2.Respond: Listen for your gut's response – an \"ah-huh\" for yes, a \"uhn-un\" for no, or a \"hmmmmm\" for not now.\n3.Decide: Based on your gut's response, make a decision – yes, no, or not now. Be wary of the mind's interference at this stage.\n4.Act or Not: Finally, take action or refrain from action based on your decision, trusting in the wisdom of your gut instincts.";
 var decision_strategy_eng_s4_2_txt = "By adhering to this decision-making strategy, you can navigate through choices with clarity, confidence, and authenticity, leading to greater success and fulfillment in your career and business endeavors";
+var decision_strategy_eng_ozet_2_1 = "";
+var decision_strategy_eng_ozet_2_2 = "";
 
 var decision_strategy_eng_s3_3_0 = "Tanınma ve Davet Al, Netlik ile Karar Al";
 var decision_strategy_eng_s3_3_1 = "Wait for Recognition, Invitation, and Clarity";
@@ -3814,6 +3818,8 @@ var decision_strategy_eng_s3_3_4 = "Wait for Emotional Clarity: Once recognized 
 var decision_strategy_eng_s4_3_text = "Acting from the mind can lead to impulsivity, doubt, and missed opportunities, while waiting for recognition, invitation, and clarity allows you to trust in the silent magic of your chemistry and opportunities.";
 var decision_strategy_eng_s4_3_1 = "1.Actively Wait for Recognition & an Invitation: Exercise patience and keen observation as you wait for recognition and an invitation to present themselves. Trust in the process and be selective in your choices.\n2.Wait for Clarity: Once recognized and invited, take the time to sleep on it and feel out your emotional wave. Avoid making decisions based on emotional impulses and wait for the calm confidence that signals clarity.\n3.Decide: Based on your emotional clarity, make a decision – yes, no, or not now – that aligns with your truth and intuition.\n4.Act or Not: Proceed with confidence if the decision feels right, or refrain from action if further contemplation is needed.";
 var decision_strategy_eng_s4_3_txt = "By adhering to this decision-making strategy, you can navigate through choices with patience, trust, and emotional clarity, ensuring that your actions are aligned with your true intentions and leading to greater fulfillment and success.";
+var decision_strategy_eng_ozet_3_1 = "";
+var decision_strategy_eng_ozet_3_2 = "";
 
 var decision_strategy_eng_s3_4_0 = "Tanınma ve Davet Al, İçgüdülerini Takip Et";
 var decision_strategy_eng_s3_4_1 = "Wait for Recognition, Invitation, and Follow Your Instincts";
@@ -3823,6 +3829,8 @@ var decision_strategy_eng_s3_4_4 = "Follow Your Instincts: Once recognized and i
 var decision_strategy_eng_s4_4_text = "Acting from the mind can lead to doubt, anxiety, and missed opportunities, while following recognition, invitation, and instincts allows you to trust in the silent magic of your chemistry and opportunities.";
 var decision_strategy_eng_s4_4_1 = "1.Actively Wait for Recognition & an Invitation: Exercise patience and keen observation as you await recognition and invitation. Trust in the process and remain selective in your choices.\n2.Follow Your Instincts: Once recognized and invited, trust your instincts in the moment. Stay present and attuned to your body's sensations, allowing your spontaneous knowing to guide your decisions. Remember, instinctive knowing speaks softly and subtly, often during noise and activity. Stay present and receptive to its guidance, even in the busiest of moments. Trust that your body is attuned to what is right for you and allow its wisdom to inform your decisions as you navigate through life's twists and turns. With practice, you'll learn to harness the power of instinctive knowing wherever you are, leading to greater clarity and confidence in your choices.\n3.Decide: Based on your instincts and intuitive knowing, make a decision – yes, no, or not now – that resonates with your truth.\n4.Act or Not: Proceed with confidence if the decision feels right, or refrain from action if further contemplation is needed.";
 var decision_strategy_eng_s4_4_txt = "By adhering to this decision-making strategy, you can navigate through choices with patience, trust, and authenticity, ensuring that your actions are aligned with your true instincts and leading to greater fulfillment and success.";
+var decision_strategy_eng_ozet_4_1 = "";
+var decision_strategy_eng_ozet_4_2 = "";
 
 var decision_strategy_eng_s3_5_0 = "Tanınma ve Davet Al, İradeli Kararlılığını Takip Et";
 var decision_strategy_eng_s3_5_1 = "Wait for Recognition, Invitation, and Follow Your Willful Determination";
@@ -3832,6 +3840,8 @@ var decision_strategy_eng_s3_5_4 = "Follow Your Willful Determination: Once reco
 var decision_strategy_eng_s4_5_text = "Acting from the mind may lead to doubt, anxiety, and missed opportunities, while following recognition, invitation, and willfulness empowers you to trust in the silent magic of your chemistry and opportunities.";
 var decision_strategy_eng_s4_5_1 = "1.Actively Wait for Recognition & an Invitation: Exercise patience, observation, and trust as you await recognition and invitation. Remain selective and attentive, ensuring that opportunities align with your desires.\n2.Listen to Your Willful Determination: Once recognized and invited, tune into your willful determination to assess your commitment and desire. Selfishly prioritize your own needs and desires to ensure alignment with your true intentions.\n3.Decide: Based on your assessment of your willful determination, make a decision – yes, no, or not now – that reflects your true desires and intentions.\n4.Act or Not: Proceed with confidence if your heart is fully invested and the decision aligns with your true intentions. Refrain from action if further contemplation is needed to ensure alignment.";
 var decision_strategy_eng_s4_5_txt = "By adhering to this decision-making strategy, you can navigate choices with patience, trust, and self-awareness, ensuring that your actions are aligned with your true desires and leading to greater fulfillment and success.";
+var decision_strategy_eng_ozet_5_1 = "";
+var decision_strategy_eng_ozet_5_2 = "";
 
 var decision_strategy_eng_s3_6_0 = "Tanınma ve Davet Al, Söylediklerini Dinle";
 var decision_strategy_eng_s3_6_1 = "Wait for Recognition, Invitation, and Listen to What You Say";
@@ -3841,6 +3851,8 @@ var decision_strategy_eng_s3_6_4 = "Listen to What You Say: Once recognized and 
 var decision_strategy_eng_s4_6_text = "Your decision-making strategy revolves around patiently waiting for recognition and invitation, then attentively listening to your own voice as you speak to a few people you trust to hear what you are saying. By engaging in self-reflection and trusting your inner wisdom, you can ensure that your decisions are authentic and aligned with your true desires.";
 var decision_strategy_eng_s4_6_1 = "Dökümanda bulunmuyor.";
 var decision_strategy_eng_s4_6_txt = "Dökümanda bulunmuyor.";
+var decision_strategy_eng_ozet_6_1 = "";
+var decision_strategy_eng_ozet_6_2 = "";
 
 var decision_strategy_eng_s3_7_0 = "Tanınma ve Davet Al, Kendi Söylediklerini Dinle";
 var decision_strategy_eng_s3_7_1 = "Wait for Recognition, Invitation, and Listen to What You Say";
@@ -3850,6 +3862,8 @@ var decision_strategy_eng_s3_7_4 = "Listen to What You Say: Engage in conversati
 var decision_strategy_eng_s4_7_text = "Acting from the mind may lead to doubt, anxiety, and missed opportunities, while following recognition, invitation, and listening empowers you to trust in the silent wisdom of your inner voice and environmental cues.";
 var decision_strategy_eng_s4_7_1 = "1.Actively Wait for Recognition & an Invitation: Exercise patience, observation, and trust as you await recognition and invitation. Pay attention to the environment and ensure it feels correct, as you are sensitive to atmospheric cues.\n2.Listen to What YOU Say: Engage in conversations with trusted individuals as sounding boards, focusing on listening to your own voice. Reflect on whether decisions align with your happiness, self-expression, and personal direction, while seeking different perspectives to gain clarity.\n3.Decide: Based on your reflections and inner wisdom, make a decision – yes, no, or not now – that reflects your authentic desires and intentions, considering both your emotional responses and environmental cues.\n4.Act or Not: Proceed with confidence if decisions align with your true desires and resonate with your inner voice and environmental cues. Refrain from action if further contemplation or environmental adjustments are needed to ensure alignment.";
 var decision_strategy_eng_s4_7_txt = "By adhering to this decision-making strategy, you can navigate choices with self-awareness, authenticity, and trust in your inner wisdom and environmental sensitivity, ensuring that your actions are aligned with your true desires and lead to greater fulfillment and success.";
+var decision_strategy_eng_ozet_7_1 = "";
+var decision_strategy_eng_ozet_7_2 = "";
 
 var decision_strategy_eng_s3_8_0 = "Gör, Netlik Bekle ve Bilgi Ver";
 var decision_strategy_eng_s3_8_1 = "Wait to be Moved by Emotional Clarity then Inform Before Acting";
@@ -3859,6 +3873,8 @@ var decision_strategy_eng_s3_8_4 = "Inform Before Taking Action: Recognize that 
 var decision_strategy_eng_s4_8_text = "Acting from the mind can lead to impulsive actions, anxiety, and negative impacts on others. In contrast, informing before acting involves waiting for emotional clarity and considering the potential impact on others before proceeding, fostering effective communication and collaboration.";
 var decision_strategy_eng_s4_8_1 = "1.See: Recognize what needs to happen or be initiated.\n2.Wait to be Moved by Emotional Clarity: Sleep on it and allow nervousness to subside. Feel out your emotional wave to gain clarity on your course of action.\n3.Decide: Based on your emotional clarity, make a decision – yes, no, or not now.\n4.Inform: Before taking action, consider who will be impacted by your decision and inform them accordingly. This proactive communication removes resistance and fosters understanding.\n5.Take Action: Proceed with your chosen course of action, mindful of the impact on others and the power of informed communication.";
 var decision_strategy_eng_s4_8_txt = "By adhering to this decision-making strategy, you can navigate through choices with mindfulness, consideration, and effective communication, leading to greater success and collaboration in your endeavors.";
+var decision_strategy_eng_ozet_8_1 = "";
+var decision_strategy_eng_ozet_8_2 = "";
 
 var decision_strategy_eng_s3_9_0 = "Gör, İç güdülerine Kulak ver ve Bilgi Ver";
 var decision_strategy_eng_s3_9_1 = "Trust Your Instinctive Knowing Then Inform Before Acting";
@@ -3868,6 +3884,8 @@ var decision_strategy_eng_s3_9_4 = "Inform Before Taking Action: Recognize that 
 var decision_strategy_eng_s4_9_text = "Acting from the mind can lead to second-guessing your instinctive knowing, impulsivity, and negative impacts on others. In contrast, informing before acting involves trusting your instinctive knowing and considering the potential impact on others before proceeding, fostering effective communication and collaboration.";
 var decision_strategy_eng_s4_9_1 = "1.See: Recognize what needs to happen or be initiated.\n2.Wait to be Moved By Your Instinctive Knowing: Sense it in the moment and trust your gut feelings.\n3.Decide: Based on your instinctive knowing, make a decision – yes, no, or not now.\n4.Inform: Consider who will be impacted by your decision and inform them before taking action, removing resistance and fostering understanding.\n5.Take Action: Proceed with your chosen course of action, mindful of the impact on others and the power of informed communication.";
 var decision_strategy_eng_s4_9_txt = "By adhering to this decision-making strategy, you can navigate through choices with spontaneity, mindfulness, and effective communication, leading to greater success and collaboration in your endeavors.";
+var decision_strategy_eng_ozet_9_1 = "";
+var decision_strategy_eng_ozet_9_2 = "";
 
 var decision_strategy_eng_s3_10_0 = "Gör, İradeni Dinle ve Bilgi Ver";
 var decision_strategy_eng_s3_10_1 = "Being Moved by Your Willful Determination & Informing Before Acting";
@@ -3877,6 +3895,8 @@ var decision_strategy_eng_s3_10_4 = "Informing Before Taking Action: Acknowledge
 var decision_strategy_eng_s4_10_text = "Acting from the mind can lead to doubts, impulsivity, and negative impacts on others. In contrast, informing before acting involves recognizing your willful determination and considering the potential impact on others before proceeding, fostering effective communication and collaboration.";
 var decision_strategy_eng_s4_10_1 = "1.See: Recognize what needs to happen or be initiated.\n2.Wait to be Moved By Your Willful Determination: Assess whether you have the will and desire to take action. Consider what is in it for you and whether your heart is truly in it.\n3.Decide: Based on your willful determination, make a decision – yes, no, or not now.\n4.Inform: Consider who will be impacted by your decision and inform them before taking action, removing resistance and fostering understanding.\n5.Take Action: Proceed with your chosen course of action, mindful of the impact on others and the power of informed communication";
 var decision_strategy_eng_s4_10_txt = "By adhering to this decision-making strategy, you can navigate through choices with determination, clarity, and effective communication, leading to greater success and collaboration in your endeavors.";
+var decision_strategy_eng_ozet_10_1 = "";
+var decision_strategy_eng_ozet_10_2 = "";
 
 var decision_strategy_eng_s3_11_0 = "Senin için önemli konularda en doğru kararları almak, yansıtmak, değerlendirmek ve tartışmak için yaklaşık bir ay beklemelisin.";
 var decision_strategy_eng_s3_11_1 = "Wait a 28-Day Cycle to Reflect, Assess & Discuss";
@@ -3886,6 +3906,8 @@ var decision_strategy_eng_s3_11_4 = "Deep Sudden Inner Knowing: Through the proc
 var decision_strategy_eng_s4_11_text = "Acting from the mind can lead to doubt, impulsivity, and missed opportunities, while waiting, reflecting, and discussing allows you to refine your perceptions and arrive at clarity over time, leading to a more informed decision-making process.";
 var decision_strategy_eng_s4_11_1 = "1.Wait for an Offer or Invitation: Resist the urge to initiate yourself. Wait for others to extend an offer or invitation, aligning with your natural inclination.\n2.Wait, Reflect, Discuss: Take your time, allowing approximately a month for waiting, reflecting on the decision, and engaging in discussions with others. Use these conversations not for advice, but to articulate your thoughts and hear your potential truth.\n3.Feel a Deep Sudden Inner Knowing: Trust in your inner guidance, recognizing when a decision resonates deeply within you, signaling its alignment with your truth.\n4.Decide: Based on your reflections and discussions, make a decision – yes, no, or not now – informed by your newfound clarity.\n5.Take Action: Proceed with confidence, knowing that your decision is rooted in your personal truth and supported by thoughtful consideration and dialogue.";
 var decision_strategy_eng_s4_11_txt = "By adhering to this decision-making strategy, you can navigate through choices with patience, clarity, and a deep understanding of your own truth, leading to greater fulfillment and alignment in your endeavors.";
+var decision_strategy_eng_ozet_11_1 = "";
+var decision_strategy_eng_ozet_11_2 = "";
 
 //----
 
