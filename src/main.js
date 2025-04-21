@@ -12184,7 +12184,7 @@ var decision_strategy_eng_ozet_11_2 = "";
       allVariables2.P34A4 = decision_strategy(decision_strategyData, age, "s3_x_3", language);
       allVariables2.P34A5 = decision_strategy(decision_strategyData, age, "s3_x_4", language);
       
-      allVariables2.P35A1 = kararVermeStratejiN2;
+      allVariables2.P35A1 = kararVermeStratejin2;
       allVariables2.P35A2 = decision_strategy(decision_strategyData, age, "s4_x_text", language);
       allVariables2.P35A3 = kararVermeStratejin3;
       allVariables2.P35A4 = decision_strategy(decision_strategyData, age, "s4_x_1", language);
