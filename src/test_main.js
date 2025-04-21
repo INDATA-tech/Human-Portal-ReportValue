@@ -1458,8 +1458,8 @@ var kariyer_secim_25_plus_s7_dress_3_2 = "Hazır giyim sektöründe yardımsever
 var kariyer_secim_25_plus_s7_dress_3_3 = "• Moda Danışmanı (Mağaza): Müşterilere kıyafet seçimlerinde yardımcı olabilir, onların tarzlarına uygun kombinler önererek sosyal becerilerinizi kullanabilirsiniz. "; 
 var kariyer_secim_25_plus_s7_dress_3_4 = "• Sürdürülebilir Moda Uzmanı: Çevre dostu ve etik giyim üretimi üzerine çalışmalar yaparak topluma ve çevreye katkıda bulunabilirsiniz. "; 
 var kariyer_secim_25_plus_s7_dress_3_5 = "• Müşteri Hizmetleri Uzmanı: Giyim mağazalarında ya da moda markalarında müşterilere yardımcı olabilir, ürünler hakkında destek sağlayabilirsiniz. "; 
-var kariyer_secim_25_plus_s7_dress_3_6 = "• Moda Bağış Organizasyonları Koordinatörü: İhtiyaç sahiplerine giyim bağışı yapmak üzere organizasyonlar düzenleyebilir, sosyal sorumluluk projelerinde yer alabilirsiniz. "; 
-var kariyer_secim_25_plus_s7_dress_3_7 = "• Kariyer Danışmanı (Moda): Gençlere ve öğrencilere moda sektöründe kariyer olanakları hakkında rehberlik yapabilirsiniz. ";
+var kariyer_secim_25_plus_s7_dress_3_6 = "• Kariyer Danışmanı (Moda): Gençlere ve öğrencilere moda sektöründe kariyer olanakları hakkında rehberlik yapabilirsiniz. ";
+var kariyer_secim_25_plus_s7_dress_3_7 = "• Moda Bağış Organizasyonları Koordinatörü: İhtiyaç sahiplerine giyim bağışı yapmak üzere organizasyonlar düzenleyebilir, sosyal sorumluluk projelerinde yer alabilirsiniz. "; 
 
 var kariyer_secim_25_plus_s7_dress_4_1 = "Teknik ve Mühendislik Kariyerleri "; 
 var kariyer_secim_25_plus_s7_dress_4_2 = "Hazır giyim sektöründe teknik ve mühendislik becerilerinizi kullanabileceğiniz işler şunlar olabilir: "; 
