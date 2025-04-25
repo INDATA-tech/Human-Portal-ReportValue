@@ -3597,7 +3597,7 @@ var communication_manifestor_s3 = "• Harekete geçmeden önce çevrendekileri 
 
 var communication_reflektor_0 = "Yansıtıcı";
 var communication_reflektor_1 = "Dirençli, ancak çevreyi emmeden örnekleme ve yansıtma yeteneğine sahip bir varlığın var. Sözsüz varlığın sessiz, nazik ve müdahaleci değildir, çevreye ve içindeki insanlara bir ayna görevi görür.";
-var communication_reflektor_2 = "Ne Kadar Eşsiz Olduğunu Fark Etmek ve Etkileşime Girmeden Önce Beklemek, Yansıtmak ve Tartışmak:";
+var communication_reflektor_2 = "Etkileşime Girmeden Önce Beklemek, Yansıtmak ve Tartışmak:";
 var communication_reflektor_3 = "Benzersizliğin, seni olağanüstü derecede nadir ve değerli kılan çevreyi yansıtmak ve örneklemektir. Nüfusun sadece %1'ini temsil ettiğini ve dünyayı diğerlerinden farklı gördüğünü kabul etmen gerekiyor. Benzersizliğini kucaklayarak, başkalarıyla güç ve bilgelik dolu bir yerden etkileşime girebilirsin.";
 var communication_reflektor_4 = "Yansıtıcı Doğanı Anla:";
 var communication_reflektor_5 = "Etrafındakileri yansıtma ve büyütme yeteneğin, çevrenin sağlığını objektif olarak gözlemlemene ve değerlendirmene olanak tanır. Etkileşime girmeden önce bekleyip düşündüğünde, direnci ortadan kaldırır ve iç görülerinin alınması ve değerlendirilmesi için alan açarsın.";
@@ -6810,9 +6810,9 @@ var decision_strategy_eng_ozet_11_2 = "";
         } else if (decisionStrategyData.strategy == "To Inform" && decisionStrategyData.innerAuthority == "Ego Manifested") {
           return decision_strategy_eng_ozet_10_2; 
         } else if (decisionStrategyData.strategy == "Wait a Lunar Cycle" && decisionStrategyData.innerAuthority == "Lunar") {
-          return decision_strategy_eng_ozet_11_; 
+          return decision_strategy_eng_ozet_11_2; 
         } else if (decisionStrategyData.strategy == "Wait a Lunar Cycle" && decisionStrategyData.innerAuthority == "N") {
-          return decision_strategy_eng_ozet_11_; 
+          return decision_strategy_eng_ozet_11_2; 
         }
       }
     }
