@@ -1094,6 +1094,7 @@ var kariyer_secim_12_25_s2_8_2 = "Bilgini başkalarıyla paylaşmaktan hoşlanı
 var kariyer_secim_12_25_s2_9_1 = "Analitik ve Veri Odaklı Kariyerler";
 var kariyer_secim_12_25_s2_9_2 = "Sayılarla ve analizlerle aranın iyi olduğunu görüyoruz, veri bilimi ya da iş analitiği gibi kariyerlerde başarılı olabilirsin. Bu tür kariyerler, büyük miktarda veriyi analiz edip kararlar almaya yardımcı olmayı içerir. Örneğin, bir veri bilimcisi olarak bir şirketin satış verilerini analiz edebilir ve gelecekte nasıl daha iyi performans gösterebileceklerini belirleyebilirsin.";
 
+//--
 var kariyer_secim_12_25_s5_1_1 = "Yaratıcı ve Sanatsal Kariyerler";
 var kariyer_secim_12_25_s5_1_2 = "• Grafik Tasarımı\n• Güzel Sanatlar\n• İç Mimarlık\n• Moda Tasarımı\n• Reklamcılık\n• Sinema ve Televizyon\n• Müzik\n• Yaratıcı Yazarlık\n• Sahne Sanatları";
 
@@ -1121,61 +1122,62 @@ var kariyer_secim_12_25_s5_8_2 = "• Eğitim Fakülteleri (Fizik, Kimya, Matema
 var kariyer_secim_12_25_s5_9_1 = "Analitik ve Veri Odaklı Kariyerler";
 var kariyer_secim_12_25_s5_9_2 = "• Veri Bilimi ve İş Analitiği\n• İstatistik\n• Matematik\n• Ekonomi\n• Finans\n• Bilgisayar Mühendisliği\n• Yapay Zeka ve Veri Mühendisliği (Yüksek Lisans)\n• Endüstri Mühendisliği";
 
+//-
 var kariyer_secim_12_25_s6_1_1 = "Yaratıcı ve Sanatsal Kariyerler";
-var kariyer_secim_12_25_s6_1_2 = "Üniversite diploması olmadan da yaratıcı ve sanatsal alanlarda başarılı olabilirsiniz. Özellikle meslek liselerinde tasarım, grafik, moda, görsel sanatlar gibi bölümlerden mezun olduktan sonra şu yolları izleyebilirsiniz: ";
-var kariyer_secim_12_25_s6_1_3 = "• Freelance Tasarımcı: Grafik tasarım, web tasarımı, illüstrasyon gibi alanlarda kendi portföyünüzü oluşturarak freelance çalışabilirsiniz.\n\n• Moda Tasarımcısı: Moda atölyelerinde çalışarak, sektörde deneyim kazanabilir, kendi markanızı oluşturabilirsiniz.\n\n• Fotoğrafçılık: Bir fotoğraf stüdyosunda çalışarak ya da kendi ekipmanlarınızı edinerek, düğün, etkinlik veya moda fotoğrafçısı olabilirsiniz.\n\n• Müzisyen veya Sanatçı: Kendinizi müzik veya sanat alanında geliştirebilir, sosyal medya ve dijital platformlar üzerinden eserlerinizi paylaşarak tanınabilirsiniz.";
+var kariyer_secim_12_25_s6_1_2 = "Üniversite diploması olmadan da yaratıcı ve sanatsal alanlarda başarılı olabilirsin. Özellikle meslek liselerinde tasarım, grafik, moda, görsel sanatlar gibi bölümlerden mezun olduktan sonra şu yolları izleyebilirsin:";
+var kariyer_secim_12_25_s6_1_3 = "• Freelance Tasarımcı: Grafik tasarım, web tasarımı, illüstrasyon gibi alanlarda kendi portföyünü oluşturarak freelance çalışabilirsin.\n\n• Moda Tasarımcısı: Moda atölyelerinde çalışarak, sektörde deneyim kazanabilir, kendi markanı oluşturabilirsin.\n\n• Fotoğrafçılık: Bir fotoğraf stüdyosunda çalışarak ya da kendi ekipmanlarını edinerek, düğün, etkinlik veya moda fotoğrafçısı olabilirsin\n\n• Müzisyen veya Sanatçı: Kendini müzik veya sanat alanında geliştirebilir, sosyal medya ve dijital platformlar üzerinden eserlerini paylaşarak tanınabilirsin.";
 
 var kariyer_secim_12_25_s6_2_1 = "Liderlik ve Yönetim Kariyerleri";
 var kariyer_secim_12_25_s6_2_2 = "Meslek lisesi ya da lise mezuniyeti ile liderlik ve yönetim kariyerlerinde ilerlemek de mümkündür:";
-var kariyer_secim_12_25_s6_2_3 = "• Süpervizör veya Takım Lideri: Perakende, lojistik veya üretim sektörlerinde çalışarak takım liderliği ya da süpervizör pozisyonuna yükselebilirsiniz.\n\n• İşletme Yönetimi: Kendi küçük işletmenizi kurabilir ya da bir aile işletmesinde yönetici olarak deneyim kazanabilirsiniz.\n\n• Satış Ekipleri Yönetimi: Satış alanında deneyim kazandıktan sonra bir satış ekibini yönetebilir, liderlik becerilerinizi geliştirebilirsiniz.\n\n• Mağaza Müdürü: Perakende sektöründe satış temsilcisi olarak başlayıp, mağaza müdürlüğü seviyesine çıkabilirsiniz.";
+var kariyer_secim_12_25_s6_2_3 = "• Süpervizör veya Takım Lideri: Perakende, lojistik veya üretim sektörlerinde çalışarak takım liderliği ya da süpervizör pozisyonuna yükselebilirsin.\n\n• İşletme Yönetimi: Kendi küçük işletmeni kurabilir ya da bir aile işletmesinde yönetici olarak deneyim kazanabilirsin.\n\n• Satış Ekipleri Yönetimi: Satış alanında deneyim kazandıktan sonra bir satış ekibini yönetebilir, liderlik becerilerini geliştirebilirsin.\n\n• Mağaza Müdürü: Perakende sektöründe satış temsilcisi olarak başlayıp, mağaza müdürlüğü seviyesine çıkabilirsin.";
 
 var kariyer_secim_12_25_s6_3_1 = "Yardım ve Sosyal Kariyerler";
-var kariyer_secim_12_25_s6_3_2 = "Üniversite okumadan da yardım ve sosyal kariyerlerde çalışabilirsiniz:";
-var kariyer_secim_12_25_s6_3_3 = "• Hasta Bakıcı: Sağlık meslek liselerinde hasta bakım eğitimi aldıktan sonra sağlık sektöründe çalışabilirsiniz.\n\n• Sosyal Yardım Çalışanı: Sosyal yardım kurumlarında gönüllü çalışarak, deneyim kazandıktan sonra profesyonel olarak bu alanda çalışabilirsiniz.\n\n• Rehabilitasyon ve Huzurevi Çalışanı: Yaşlı bakımı ya da engelli bireylerle ilgili kurumlarda iş bulabilir, topluma katkı sağlayabilirsiniz.\n\n• Özel Eğitim Yardımcısı: Özel eğitim alanında eğitim yardımcısı olarak, bireylere destek sağlayabilirsiniz.";
+var kariyer_secim_12_25_s6_3_2 = "Üniversite okumadan da yardım ve sosyal kariyerlerde çalışabilirsin:";
+var kariyer_secim_12_25_s6_3_3 = "• Hasta Bakıcı: Sağlık meslek liselerinde hasta bakım eğitimi aldıktan sonra sağlık sektöründe çalışabilirsin.\n\n• •	Sosyal Yardım Çalışanı: Sosyal yardım kurumlarında gönüllü çalışarak, deneyim kazandıktan sonra profesyonel olarak bu alanda çalışabilirsin.\n\n• Rehabilitasyon ve Huzurevi Çalışanı: Yaşlı bakımı ya da engelli bireylerle ilgili kurumlarda iş bulabilir, topluma katkı sağlayabilirsin.\n\n• Özel Eğitim Yardımcısı: Özel eğitim alanında eğitim yardımcısı olarak, bireylere destek sağlayabilirsin.";
 
 var kariyer_secim_12_25_s6_4_1 = "Teknik ve Mühendislik Kariyerleri";
-var kariyer_secim_12_25_s6_4_2 = "Teknik ve mühendislik kariyerlerinde, meslek lisesi ya da doğrudan iş deneyimiyle başarılı olabilirsiniz:";
-var kariyer_secim_12_25_s6_4_3 = "• Tekniker/Teknisyen: Meslek liselerinden mezun olup elektrik, elektronik, makine, bilgisayar gibi alanlarda tekniker veya teknisyen olarak çalışabilirsiniz.\n\n• Bilgisayar Destek Uzmanı: Bilgisayar donanımı ve yazılımı konularında bilgi edinerek, bilgisayar desteği sağlayabilirsiniz.\n\n• Ustalık ve Çıraklık: Elektrik ustası, makine tamircisi, otomotiv teknisyeni gibi alanlarda usta-çırak ilişkisi ile kariyer yapabilirsiniz.\n\n• Yazılım Geliştirici: Kendinizi yazılım ve kodlama konusunda online kurslar ve sertifika programlarıyla geliştirebilir, freelance yazılım projelerinde yer alabilirsiniz.";
+var kariyer_secim_12_25_s6_4_2 = "Teknik ve mühendislik kariyerlerinde, meslek lisesi ya da doğrudan iş deneyimiyle başarılı olabilirsin:";
+var kariyer_secim_12_25_s6_4_3 = "• Tekniker/Teknisyen: Meslek liselerinden mezun olup elektrik, elektronik, makine, bilgisayar gibi alanlarda tekniker veya teknisyen olarak çalışabilirsin.\n\n• Bilgisayar Destek Uzmanı: Bilgisayar donanımı ve yazılımı konularında bilgi edinerek, bilgisayar desteği sağlayabilirsin.\n\n• Ustalık ve Çıraklık: Elektrik ustası, makine tamircisi, otomotiv teknisyeni gibi alanlarda usta-çırak ilişkisi ile kariyer yapabilirsin.\n\n• Yazılım Geliştirici: Kendini yazılım ve kodlama konusunda online kurslar ve sertifika programlarıyla geliştirebilir, freelance yazılım projelerinde yer alabilirsin.";
 
 var kariyer_secim_12_25_s6_5_1 = "Satış ve İlişki Kurma Kariyerleri";
-var kariyer_secim_12_25_s6_5_2 = "• Satış ve ilişki yönetimi kariyerlerinde, üniversite eğitimi olmadan da başarılı olabilirsiniz:";
-var kariyer_secim_12_25_s6_5_3 = "• Satış Temsilcisi: Doğrudan satış veya perakende sektöründe çalışarak deneyim kazanabilir, satış ekiplerinde liderliğe yükselebilirsiniz.\n\n• Müşteri Temsilcisi: Müşteri hizmetleri alanında çalışarak, iletişim becerilerinizi geliştirip kariyerinizi bu yönde ilerletebilirsiniz.\n\n• Kendi İşinizi Kurma: Küçük ölçekli ticaret yaparak veya pazarlama becerilerinizi geliştirerek, kendi satış odaklı işinizi kurabilirsiniz.\n\n• E-Ticaret Satıcı: Online platformlarda (Trendyol, Etsy, Amazon gibi) ürün satarak dijital ticaret yapabilirsiniz.";
+var kariyer_secim_12_25_s6_5_2 = "Satış ve ilişki yönetimi kariyerlerinde, üniversite eğitimi olmadan da başarılı olabilirsin:";
+var kariyer_secim_12_25_s6_5_3 = "• Satış Temsilcisi: Doğrudan satış veya perakende sektöründe çalışarak deneyim kazanabilir, satış ekiplerinde liderliğe yükselebilirsin.\n\n• Müşteri Temsilcisi: Müşteri hizmetleri alanında çalışarak, iletişim becerilerini geliştirip kariyerinizbu yönde ilerletebilirsin.\n\n• Kendi İşinizi Kurma: Küçük ölçekli ticaret yaparak veya pazarlama becerilerini geliştirerek, kendi satış odaklı işini kurabilirsin.\n\n• E-Ticaret Satıcı: Online platformlarda (Trendyol, Etsy, Amazon gibi) ürün satarak dijital ticaret yapabilirsin.";
 
 var kariyer_secim_12_25_s6_6_1 = "Organizasyonel ve İdari Kariyerler";
-var kariyer_secim_12_25_s6_6_2 = "Düzen ve organizasyon becerilerinizi iş hayatında kullanarak, bu alanlarda ilerleyebilirsiniz:";
-var kariyer_secim_12_25_s6_6_3 = "• Ofis Asistanı: Bir ofiste sekreterlik veya idari asistanlık yaparak organizasyonel becerilerinizi geliştirebilirsiniz.\n\n• Proje Asistanı: Proje yönetim ekiplerinde asistan olarak başlayıp, deneyim kazandıkça daha sorumlu pozisyonlara geçebilirsiniz.\n\n• İnsan Kaynakları Asistanı: İnsan kaynakları departmanlarında yardımcı pozisyonlarda çalışarak deneyim kazanabilirsiniz.\n\n• Lojistik veya Stok Yönetimi: Lojistik sektöründe ya da depo yönetiminde çalışarak, organizasyonel süreçleri öğrenebilirsiniz.";
+var kariyer_secim_12_25_s6_6_2 = "Düzen ve organizasyon becerilerini iş hayatında kullanarak, bu alanlarda ilerleyebilirsin:";
+var kariyer_secim_12_25_s6_6_3 = "•	Ofis Asistanı: Bir ofiste sekreterlik veya idari asistanlık yaparak organizasyonel becerilerini geliştirebilirsin.\n\n• Proje Asistanı: Proje yönetim ekiplerinde asistan olarak başlayıp, deneyim kazandıkça daha sorumlu pozisyonlara geçebilirsin.\n\n• İnsan Kaynakları Asistanı: İnsan kaynakları departmanlarında yardımcı pozisyonlarda çalışarak deneyim kazanabilirsin.\n\n• Lojistik veya Stok Yönetimi: Lojistik sektöründe ya da depo yönetiminde çalışarak, organizasyonel süreçleri öğrenebilirsin.";
 
 var kariyer_secim_12_25_s6_7_1 = "Yenilikçi ve Girişimci Kariyerler";
-var kariyer_secim_12_25_s6_7_2 = "Girişimcilik ve yenilikçilik için üniversite diplomasına ihtiyaç duymadan da birçok adım atabilirsiniz:";
-var kariyer_secim_12_25_s6_7_3 = "• Kendi İşini Kurma: Yeteneklerinize ve ilgi alanlarınıza dayalı olarak bir iş kurabilir, örneğin küçük çaplı bir atölye ya da e-ticaret platformu açabilirsiniz.\n\n• Start-up Kurucusu: Teknoloji odaklı ya da yaratıcı bir girişim fikri ile yatırım alarak start-up projeleri geliştirebilirsiniz.\n\n• Sosyal Medya Girişimciliği: Sosyal medya platformları üzerinden içerik üreticiliği yapabilir, markalarla iş birliği içinde gelir elde edebilirsiniz.\n\n• Ürün Geliştirme: Atölyelerde veya fabrikalarda çalışarak ürün geliştirme sürecinde yer alabilir, yenilikçi fikirler üretebilirsiniz.";
+var kariyer_secim_12_25_s6_7_2 = "Girişimcilik ve yenilikçilik için üniversite diplomasına ihtiyaç duymadan da birçok adım atabilirsin:";
+var kariyer_secim_12_25_s6_7_3 = "•	Kendi İşini Kurma: Yeteneklerine ve ilgi alanlarına dayalı olarak bir iş kurabilir, örneğin küçük çaplı bir atölye ya da e-ticaret platformu açabilirsin.\n\n• Start-up Kurucusu: Teknoloji odaklı ya da yaratıcı bir girişim fikri ile yatırım alarak start-up projeleri geliştirebilirsin.\n\n• Sosyal Medya Girişimciliği: Sosyal medya platformları üzerinden içerik üreticiliği yapabilir, markalarla iş birliği içinde gelir elde edebilirsin.\n\n• Ürün Geliştirme: Atölyelerde veya fabrikalarda çalışarak ürün geliştirme sürecinde yer alabilir, yenilikçi fikirler üretebilirsin.";
 
 var kariyer_secim_12_25_s6_8_1 = "Öğretim ve Mentorluk Kariyerleri";
-var kariyer_secim_12_25_s6_8_2 = "Öğretim ve mentorluk alanında deneyim kazanarak da üniversite eğitimi olmadan kariyer yapabilirsiniz:";
-var kariyer_secim_12_25_s6_8_3 = "• Özel Ders: Belirli bir konuda (matematik, yabancı dil, müzik gibi) uzmanlaşıp öğrencilere özel ders verebilirsiniz.\n\n• Koçluk ve Mentorluk: Yaşam koçluğu, kariyer koçluğu gibi alanlarda sertifika programlarına katılarak insanlara rehberlik edebilirsiniz.\n\n• Eğitim Asistanı: Okullarda veya eğitim kurumlarında asistan olarak çalışarak deneyim kazanabilirsiniz.\n\n• Gelişim Atölyeleri: Çocuklar ve gençler için yaratıcı atölyeler düzenleyebilir, kendi eğitim programlarınızı geliştirebilirsiniz.";
+var kariyer_secim_12_25_s6_8_2 = "Öğretim ve mentorluk alanında deneyim kazanarak da üniversite eğitimi olmadan kariyer yapabilirsin:";
+var kariyer_secim_12_25_s6_8_3 = "• Özel Ders: Belirli bir konuda (matematik, yabancı dil, müzik gibi) uzmanlaşıp öğrencilere özel ders verebilirsin.\n\n• Koçluk ve Mentorluk: Yaşam koçluğu, kariyer koçluğu gibi alanlarda sertifika programlarına katılarak insanlara rehberlik edebilirsin.\n\n• Eğitim Asistanı: Okullarda veya eğitim kurumlarında asistan olarak çalışarak deneyim kazanabilirsin.\n\n• Gelişim Atölyeleri: Çocuklar ve gençler için yaratıcı atölyeler düzenleyebilir, kendi eğitim programlarını geliştirebilirsin.";
 
 var kariyer_secim_12_25_s6_9_1 = "Analitik ve Veri Odaklı Kariyerler";
-var kariyer_secim_12_25_s6_9_2 = "Analitik ve veri odaklı kariyerlerde, üniversite eğitimi olmadan da pratik yollarla ilerleyebilirsiniz:";
-var kariyer_secim_12_25_s6_9_3 = "• Veri Analiz Kursları: Online veri analitiği, SQL, Python gibi araçları öğrenerek veri analiz projelerinde çalışabilirsiniz.\n\n• Finansal Danışmanlık: Finansal analiz ve muhasebe alanlarında iş deneyimi kazanarak, küçük işletmelere danışmanlık yapabilirsiniz.\n\n• Pazarlama Analitiği: Dijital pazarlama araçlarını öğrenip, sosyal medya veya SEO analizleri yaparak şirketlere danışmanlık verebilirsiniz.\n\n• Staj ve Sertifikalar: Veri analitiği alanında staj yaparak ya da online sertifika programlarıyla uzmanlık kazanabilirsiniz.";
+var kariyer_secim_12_25_s6_9_2 = "Analitik ve veri odaklı kariyerlerde, üniversite eğitimi olmadan da pratik yollarla ilerleyebilirsin:";
+var kariyer_secim_12_25_s6_9_3 = "• Veri Analiz Kursları: Online veri analitiği, SQL, Python gibi araçları öğrenerek veri analiz projelerinde çalışabilirsin.\n\n• Finansal Danışmanlık: Finansal analiz ve muhasebe alanlarında iş deneyimi kazanarak, küçük işletmelere danışmanlık yapabilirsin.\n\n• Pazarlama Analitiği: Dijital pazarlama araçlarını öğrenip, sosyal medya veya SEO analizleri yaparak şirketlere danışmanlık verebilirsin.\n\n• Staj ve Sertifikalar: Veri analitiği alanında staj yaparak ya da online sertifika programlarıyla uzmanlık kazanabilirsin.";
 
 //25+
 var kariyer_secim_25_plus_s2_1_1 = "Yaratıcı ve Sanatsal Kariyerler";
-var kariyer_secim_25_plus_s2_1_2 = "Eğer yaratıcı yönünüzü iş hayatında kullanmak istiyorsanız, bu alanlar size uygun olabilir. Reklamcılık, grafik tasarım, moda, müzik, sinema ya da yazarlık gibi alanlarda kariyer yapmak, estetik anlayışınızı ve özgün fikirlerinizi profesyonel projelere yansıtmanızı sağlar. Örneğin, bir marka için yenilikçi reklam kampanyaları tasarlayabilir ya da bir içerik yazarı olarak yaratıcı projelere imza atabilirsiniz. Sanatın her dalında kariyer fırsatları geniş ve esnektir, freelance çalışabilir ya da bir ajansla iş birliği yapabilirsiniz. ";
+var kariyer_secim_25_plus_s2_1_2 = "Eğer yaratıcı yönünü iş hayatında kullanmak istiyorsan, bu alanlar sana uygun olabilir. Reklamcılık, grafik tasarım, moda, müzik, sinema ya da yazarlık gibi alanlarda kariyer yapmak, estetik anlayışını ve özgün fikirlerini profesyonel projelere yansıtmanı sağlar. Örneğin, bir marka için yenilikçi reklam kampanyaları tasarlayabilir ya da bir içerik yazarı olarak yaratıcı projelere imza atabilirsin. Sanatın her dalında kariyer fırsatları geniş ve esnektir, freelance çalışabilir ya da bir ajansla iş birliği yapabilirsin.";
 var kariyer_secim_25_plus_s2_2_1 = "Liderlik ve Yönetim Kariyerleri";
-var kariyer_secim_25_plus_s2_2_2 = "Doğal bir liderlik yeteneğiniz var, ekip yönetimi ve stratejik karar alma konularında başarılı olabilirsiniz.  Proje yönetimi, takım liderliği, operasyon yönetimi veya üst düzey yöneticilik pozisyonları, sorumluluk alarak hedeflere ulaşmanızı gerektirir. Örneğin, bir işletme müdürü olarak organizasyonun tüm süreçlerini yönetebilir, yeni stratejiler geliştirerek büyümeye katkı sağlayabilirsiniz. Bu kariyerler, uzun vadeli başarı ve kariyer ilerlemesi için güçlü liderlik becerileri gerektirir.";
+var kariyer_secim_25_plus_s2_2_2 = "Doğal bir liderlik yeteneğin var, ekip yönetimi ve stratejik karar alma konularında başarılı olabilirsin. Proje yönetimi, takım liderliği, operasyon yönetimi veya üst düzey yöneticilik pozisyonları, sorumluluk alarak hedeflere ulaşmanı gerektirir. Örneğin, bir işletme müdürü olarak organizasyonun tüm süreçlerini yönetebilir, yeni stratejiler geliştirerek büyümeye katkı sağlayabilirsin. Bu kariyerler, uzun vadeli başarı ve kariyer ilerlemesi için güçlü liderlik becerileri gerektirir.";
 var kariyer_secim_25_plus_s2_3_1 = "Yardım ve Sosyal Kariyerler";
-var kariyer_secim_25_plus_s2_3_2 = "İnsanlara yardım etme tutkunuzu görebiliyoruz. Sağlık, sosyal hizmetler ya da kar amacı gütmeyen organizasyonlarda tatmin edici bir kariyer bulabilirsiniz.  Sosyal sorumluluk projelerinde yer almak, bir terapist ya da sağlık çalışanı olarak insanların hayatlarını iyileştirmek gibi meslekler bu alanda öne çıkar. Örneğin, bir sosyal hizmet uzmanı olarak dezavantajlı gruplara yardım edebilir ya da bir sağlık yöneticisi olarak sağlık hizmetlerinin daha verimli işlemesini sağlayabilirsiniz.";
+var kariyer_secim_25_plus_s2_3_2 = "İnsanlara yardım etme tutkunu görebiliyoruz. Sağlık, sosyal hizmetler ya da kar amacı gütmeyen organizasyonlarda tatmin edici bir kariyer bulabilirsin. Sosyal sorumluluk projelerinde yer almak, bir terapist ya da sağlık çalışanı olarak insanların hayatlarını iyileştirmek gibi meslekler bu alanda öne çıkar. Örneğin, bir sosyal hizmet uzmanı olarak dezavantajlı gruplara yardım edebilir ya da bir sağlık yöneticisi olarak sağlık hizmetlerinin daha verimli işlemesini sağlayabilirsin.";
 var kariyer_secim_25_plus_s2_4_1 = "Teknik ve Mühendislik Kariyerleri";
-var kariyer_secim_25_plus_s2_4_2 = "Teknik becerileriniz ve analitik düşünce yapınızla, mühendislik ya da teknoloji alanlarında uzmanlaşabilirsiniz.  Yazılım geliştirme, makine mühendisliği ya da siber güvenlik gibi alanlarda çalışarak iş dünyasının sürekli değişen taleplerine yanıt verebilirsiniz. Örneğin, bir yazılım mühendisi olarak yeni uygulamalar geliştirebilir ya da bir ağ güvenliği uzmanı olarak şirketlerin dijital altyapılarını koruyabilirsiniz. Bu alanlar, hızla gelişen teknolojilere ayak uydurma ve sürekli öğrenmeyi gerektirir.";
+var kariyer_secim_25_plus_s2_4_2 = "Teknik becerilerinle ve analitik düşünce yapınla, mühendislik ya da teknoloji alanlarında uzmanlaşabilirsiniz. Yazılım geliştirme, makine mühendisliği ya da siber güvenlik gibi alanlarda çalışarak iş dünyasının sürekli değişen taleplerine yanıt verebilirsin. Örneğin, bir yazılım mühendisi olarak yeni uygulamalar geliştirebilir ya da bir ağ güvenliği uzmanı olarak şirketlerin dijital altyapılarını koruyabilirsin. Bu alanlar, hızla gelişen teknolojilere ayak uydurma ve sürekli öğrenmeyi gerektirir.";
 var kariyer_secim_25_plus_s2_5_1 = "Satış ve İlişki Kurma Kariyerleri";
-var kariyer_secim_25_plus_s2_5_2 = "İletişim becerileriniz ve insan ilişkilerini yönetme yeteneğiniz sayesinde satış ve müşteri ilişkileri alanlarında başarılı olabilirsiniz. Satış yönetimi, iş geliştirme ya da müşteri hizmetleri gibi alanlarda çalışarak, şirketin büyümesine doğrudan katkı sağlayabilirsiniz. Örneğin, bir satış yöneticisi olarak ekiplerinizi hedeflere yönlendirebilir ya da bir iş geliştirme uzmanı olarak yeni müşteriler kazanabilirsiniz. Bu kariyerler, ikna kabiliyetinizi ve ilişki yönetimi yetkinliklerinizi ön plana çıkarır. ";
+var kariyer_secim_25_plus_s2_5_2 = "İletişim becerilerin ve insan ilişkilerini yönetme yeteneğin sayesinde satış ve müşteri ilişkileri alanlarında başarılı olabilirsin. Satış yönetimi, iş geliştirme ya da müşteri hizmetleri gibi alanlarda çalışarak, şirketin büyümesine doğrudan katkı sağlayabilirsin. Örneğin, bir satış yöneticisi olarak ekiplerini hedeflere yönlendirebilir ya da bir iş geliştirme uzmanı olarak yeni müşteriler kazanabilirsin. Bu kariyerler, ikna kabiliyetini ve ilişki yönetimi yetkinliklerini ön plana çıkarır.";
 var kariyer_secim_25_plus_s2_6_1 = "Organizasyonel ve İdari Kariyerler";
-var kariyer_secim_25_plus_s2_6_2 = "Düzen, planlama ve organizasyon becerileriniz güçlü, idari yönetim ve organizasyon alanlarında kariyer yapabilirsiniz. İnsan kaynakları, ofis yönetimi ya da proje koordinasyonu gibi roller, iş süreçlerinin düzenli ve etkili şekilde yürümesini sağlar. Örneğin, bir insan kaynakları yöneticisi olarak işe alım süreçlerini yönetebilir ya da bir proje yöneticisi olarak farklı ekiplerin aynı hedefe ulaşması için çalışabilirsiniz. Bu alanlarda detaylara hakimiyet ve çok yönlü düşünme önemlidir.";
+var kariyer_secim_25_plus_s2_6_2 = "Düzen, planlama ve organizasyon becerilerin güçlü, idari yönetim ve organizasyon alanlarında kariyer yapabilirsin. İnsan kaynakları, ofis yönetimi ya da proje koordinasyonu gibi roller, iş süreçlerinin düzenli ve etkili şekilde yürümesini sağlar. Örneğin, bir insan kaynakları yöneticisi olarak işe alım süreçlerini yönetebilir ya da bir proje yöneticisi olarak farklı ekiplerin aynı hedefe ulaşması için çalışabilirsin. Bu alanlarda detaylara hakimiyet ve çok yönlü düşünme önemlidir.";
 var kariyer_secim_25_plus_s2_7_1 = "Yenilikçi ve Girişimci Kariyerler";
-var kariyer_secim_25_plus_s2_7_2 = "Girişimci bir ruha sahipsiniz, yenilikçi fikirlerinizi hayata geçirme fırsatını bulabileceğiniz alanlar mevcuttur. Kendi işinizi kurabilir, bir start-up'ı yönlendirebilir ya da yeni ürün ve hizmetler geliştirerek piyasada fark yaratabilirsiniz. Örneğin, teknoloji alanında bir start-up kurarak yeni bir mobil uygulama geliştirebilir ya da e-ticaret sektöründe yenilikçi bir iş modeli hayata geçirebilirsiniz. Bu kariyerler risk almayı ve yaratıcılığı birleştirir. ";
+var kariyer_secim_25_plus_s2_7_2 = "Girişimci bir ruha sahipsin, yenilikçi fikirlerini hayata geçirme fırsatını bulabileceğin alanlar mevcut. Kendi işini kurabilir, bir start-up'ı yönlendirebilir ya da yeni ürün ve hizmetler geliştirerek piyasada fark yaratabilirsin. Örneğin, teknoloji alanında bir start-up kurarak yeni bir mobil uygulama geliştirebilir ya da e-ticaret sektöründe yenilikçi bir iş modeli hayata geçirebilirsin. Bu kariyerler risk almayı ve yaratıcılığı birleştirir.";
 var kariyer_secim_25_plus_s2_8_1 = "Öğretim ve Mentorluk Kariyerleri";
-var kariyer_secim_25_plus_s2_8_2 = "Bilginizi ve deneyimlerinizi başkalarıyla paylaşmaktan keyif alıyorsunuz, öğretim ve mentorluk alanında kariyer yapabilirsiniz.  Eğitim sektöründe öğretmenlik, akademik danışmanlık ya da koçluk yaparak, bireylerin gelişimine katkı sağlayabilirsiniz. Örneğin, bir eğitmen olarak yetişkinlere mesleki beceriler kazandırabilir ya da bir mentor olarak genç profesyonellere rehberlik edebilirsiniz. Bu kariyerlerde etkili iletişim ve rehberlik becerileri ön plandadır. ";
+var kariyer_secim_25_plus_s2_8_2 = "Bilgini ve deneyimlerini başkalarıyla paylaşmaktan keyif alıyorsun, öğretim ve mentorluk alanında kariyer yapabilirsin. Eğitim sektöründe öğretmenlik, akademik danışmanlık ya da koçluk yaparak, bireylerin gelişimine katkı sağlayabilirsin. Örneğin, bir eğitmen olarak yetişkinlere mesleki beceriler kazandırabilir ya da bir mentor olarak genç profesyonellere rehberlik edebilirsin. Bu kariyerlerde etkili iletişim ve rehberlik becerileri ön plandadır.";
 var kariyer_secim_25_plus_s2_9_1 = "Analitik ve Veri Odaklı Kariyerler ";
-var kariyer_secim_25_plus_s2_9_2 = "Veri analizi ve problem çözme yetenekleriniz güçlü görünüyor, analitik ve veri odaklı kariyerler size uygun olabilir. Veri bilimi, iş zekası ya da finansal analiz gibi alanlarda çalışarak, şirketlerin stratejik kararlar almasına yardımcı olabilirsiniz. Örneğin, bir veri analisti olarak büyük verileri analiz edip şirketlerin pazarlama stratejilerini iyileştirebilir ya da bir iş zekası uzmanı olarak yönetime raporlar sunabilirsiniz. Bu kariyerler, sayısal analiz yeteneği ve detaylara dikkat gerektirir. ";
+var kariyer_secim_25_plus_s2_9_2 = "Veri analizi ve problem çözme yeteneklerin güçlü görünüyor, analitik ve veri odaklı kariyerler sana uygun olabilir. Veri bilimi, iş zekası ya da finansal analiz gibi alanlarda çalışarak, şirketlerin stratejik kararlar almasına yardımcı olabilirsin. Örneğin, bir veri analisti olarak büyük verileri analiz edip şirketlerin pazarlama stratejilerini iyileştirebilir ya da bir iş zekası uzmanı olarak yönetime raporlar sunabilirsin. Bu kariyerler, sayısal analiz yeteneği ve detaylara dikkat gerektirir.";
 
 //Güncel İşler
 var kariyer_secim_s3_1_0 = "Yaratıcı ve Sanatsal Kariyerler";
@@ -1219,76 +1221,76 @@ var kariyer_secim_s4_9_1 = "Veri Bilimcisi\nMakine Öğrenimi Mühendisi\nYapay 
 
 //perakende
 var kariyer_secim_25_plus_s7_retail_1_1 = "Yaratıcı ve Sanatsal Kariyerler";
-var kariyer_secim_25_plus_s7_retail_1_2 = "Perakende sektöründe yaratıcı becerilerinizi kullanabileceğiniz işler şunlar olabilir:";
-var kariyer_secim_25_plus_s7_retail_1_3 = "• Vitrin Tasarımcısı: Mağazaların dış görünüşlerini ve vitrinlerini tasarlayarak yaratıcı vizyonunuzu sergileyebilirsiniz.";
-var kariyer_secim_25_plus_s7_retail_1_4 = "• Görsel Düzenleme Uzmanı (Visual Merchandiser): Ürünlerin mağazada nasıl sunulacağını planlayarak, müşteri çekmek için estetik düzenlemeler yapabilirsiniz.";
-var kariyer_secim_25_plus_s7_retail_1_5 = "• Grafik Tasarımcı: Perakende firmalarının tanıtım materyallerini (afiş, broşür, sosyal medya görselleri) tasarlayabilirsiniz.";
-var kariyer_secim_25_plus_s7_retail_1_6 = "• Moda Danışmanı: Giyim mağazalarında stil danışmanlığı yaparak müşterilere yaratıcı giyim önerilerinde bulunabilirsiniz.";
-var kariyer_secim_25_plus_s7_retail_1_7 = "• İç Mekan Dekoratörü: Mağaza içi düzenlemeleri ve dekorasyonları yaparak perakende alanında yaratıcılığınızı kullanabilirsiniz."; 
+var kariyer_secim_25_plus_s7_retail_1_2 = "Perakende sektöründe yaratıcı becerilerini kullanabileceğin işler şunlar olabilir:";
+var kariyer_secim_25_plus_s7_retail_1_3 = "• Vitrin Tasarımcısı: Mağazaların dış görünüşlerini ve vitrinlerini tasarlayarak yaratıcı vizyonunu sergileyebilirsin.";
+var kariyer_secim_25_plus_s7_retail_1_4 = "• Grafik Tasarımcı: Perakende firmalarının tanıtım materyallerini (afiş, broşür, sosyal medya görselleri) tasarlayabilirsin.";
+var kariyer_secim_25_plus_s7_retail_1_5 = "• Moda Danışmanı: Giyim mağazalarında stil danışmanlığı yaparak müşterilere yaratıcı giyim önerilerinde bulunabilirsin.";
+var kariyer_secim_25_plus_s7_retail_1_6 = "• İç Mekan Dekoratörü: Mağaza içi düzenlemeleri ve dekorasyonları yaparak perakende alanında yaratıcılığını kullanabilirsin."; 
+var kariyer_secim_25_plus_s7_retail_1_7 = "• Görsel Düzenleme Uzmanı (Visual Merchandiser): Ürünlerin mağazada nasıl sunulacağını planlayarak, müşteri çekmek için estetik düzenlemeler yapabilirsin.";
 
 var kariyer_secim_25_plus_s7_retail_2_1 = "Liderlik ve Yönetim Kariyerleri"; 
-var kariyer_secim_25_plus_s7_retail_2_2 = "Perakende sektöründe liderlik ve yönetim becerilerinizi kullanabileceğiniz işler şunlar olabilir:"; 
-var kariyer_secim_25_plus_s7_retail_2_3 = "• Mağaza Müdürü: Bir mağazanın operasyonel süreçlerini yöneterek, çalışanları ve müşteri ilişkilerini koordine edebilirsiniz."; 
-var kariyer_secim_25_plus_s7_retail_2_4 = "• Bölge Müdürü: Birden fazla mağazayı denetleyerek, satış ve performans hedeflerine ulaşmalarını sağlayabilirsiniz."; 
-var kariyer_secim_25_plus_s7_retail_2_5 = "• Proje Yöneticisi: Yeni mağaza açılışları, kampanya yönetimleri ve lojistik projelerinde liderlik edebilirsiniz."; 
-var kariyer_secim_25_plus_s7_retail_2_6 = "• Ekip Lideri: Satış ekibinin verimli çalışmasını sağlamak için ekibi yönlendirebilir ve hedeflere ulaşmaları için destek olabilirsiniz."; 
-var kariyer_secim_25_plus_s7_retail_2_7 = "• Müşteri Deneyimi Yöneticisi: Müşterilere daha iyi bir alışveriş deneyimi sunmak için stratejiler geliştirebilir ve ekibi buna göre yönlendirebilirsiniz."; 
+var kariyer_secim_25_plus_s7_retail_2_2 = "Perakende sektöründe liderlik ve yönetim becerilerini kullanabileceğin işler şunlar olabilir:"; 
+var kariyer_secim_25_plus_s7_retail_2_3 = "• Mağaza Müdürü: Bir mağazanın operasyonel süreçlerini yöneterek, çalışanları ve müşteri ilişkilerini koordine edebilirsin."; 
+var kariyer_secim_25_plus_s7_retail_2_4 = "• Bölge Müdürü: Birden fazla mağazayı denetleyerek, satış ve performans hedeflerine ulaşmalarını sağlayabilirsin."; 
+var kariyer_secim_25_plus_s7_retail_2_5 = "• Proje Yöneticisi: Yeni mağaza açılışları, kampanya yönetimleri ve lojistik projelerinde liderlik edebilirsin."; 
+var kariyer_secim_25_plus_s7_retail_2_6 = "• Ekip Lideri: Satış ekibinin verimli çalışmasını sağlamak için ekibi yönlendirebilir ve hedeflere ulaşmaları için destek olabilirsin."; 
+var kariyer_secim_25_plus_s7_retail_2_7 = "• Müşteri Deneyimi Yöneticisi: Müşterilere daha iyi bir alışveriş deneyimi sunmak için stratejiler geliştirebilir ve ekibi buna göre yönlendirebilirsin."; 
 
 var kariyer_secim_25_plus_s7_retail_3_1 = "Yardım ve Sosyal Kariyerler"; 
-var kariyer_secim_25_plus_s7_retail_3_2 = "• Perakende sektöründe insanlarla etkileşim içinde olup sosyal yardım ya da destek sağlayabileceğiniz işler: "; 
-var kariyer_secim_25_plus_s7_retail_3_3 = "• Müşteri Hizmetleri Temsilcisi: Mağazada ya da çağrı merkezinde müşterilere ürünler, hizmetler ve iade süreçleri hakkında yardım edebilirsiniz."; 
-var kariyer_secim_25_plus_s7_retail_3_4 = "• Satış Danışmanı: Müşterilere ihtiyaçlarına yönelik ürün önerilerinde bulunarak onlara yardımcı olabilirsiniz."; 
-var kariyer_secim_25_plus_s7_retail_3_5 = "• Kasa Sorumlusu: Müşteri ödeme işlemlerinde sorunsuz bir deneyim yaşatabilir, onların sorularını yanıtlayabilirsiniz."; 
-var kariyer_secim_25_plus_s7_retail_3_6 = "• Mağaza Asistanı: Müşterilere alışveriş sürecinde rehberlik edebilir, onların ihtiyaçlarına yönelik kişisel yardım sağlayabilirsiniz."; 
-var kariyer_secim_25_plus_s7_retail_3_7 = "• İade ve Değişim Sorumlusu: İade ve değişim işlemlerini yürütüp, müşteri memnuniyeti sağlamak için etkili çözümler sunabilirsiniz."; 
+var kariyer_secim_25_plus_s7_retail_3_2 = "Perakende sektöründe insanlarla etkileşim içinde olup sosyal yardım ya da destek sağlayabileceğin işler:"; 
+var kariyer_secim_25_plus_s7_retail_3_3 = "• Müşteri Hizmetleri Temsilcisi: Mağazada ya da çağrı merkezinde müşterilere ürünler, hizmetler ve iade süreçleri hakkında yardım edebilirsin."; 
+var kariyer_secim_25_plus_s7_retail_3_4 = "• Satış Danışmanı: Müşterilere ihtiyaçlarına yönelik ürün önerilerinde bulunarak yardımcı olabilirsin."; 
+var kariyer_secim_25_plus_s7_retail_3_5 = "• Kasa Sorumlusu: Müşteri ödeme işlemlerinde sorunsuz bir deneyim yaşatabilir, onların sorularını yanıtlayabilirsin."; 
+var kariyer_secim_25_plus_s7_retail_3_6 = "• Mağaza Asistanı: Müşterilere alışveriş sürecinde rehberlik edebilir, onların ihtiyaçlarına yönelik kişisel yardım sağlayabilirsin."; 
+var kariyer_secim_25_plus_s7_retail_3_7 = "• İade ve Değişim Sorumlusu: İade ve değişim işlemlerini yürütüp, müşteri memnuniyeti sağlamak için etkili çözümler sunabilirsin."; 
 
 var kariyer_secim_25_plus_s7_retail_4_1 = "Teknik ve Mühendislik Kariyerleri"; 
-var kariyer_secim_25_plus_s7_retail_4_2 = "Perakende sektöründe teknik becerilerinizi kullanabileceğiniz işler şunlar olabilir: "; 
-var kariyer_secim_25_plus_s7_retail_4_3 = "• Mağaza Teknoloji Uzmanı: Mağaza içindeki teknolojik sistemlerin (POS cihazları, güvenlik sistemleri, yazılımlar) sorunsuz çalışmasını sağlayabilirsiniz."; 
-var kariyer_secim_25_plus_s7_retail_4_4 = "• Bakım ve Onarım Teknisyeni: Perakende mağazalarında kullanılan elektronik cihazların bakım ve onarımlarını gerçekleştirebilirsiniz."; 
-var kariyer_secim_25_plus_s7_retail_4_5 = "• IT Destek Uzmanı: Perakende şirketlerinin teknik altyapılarını destekleyebilir, bilgisayar sistemleri ve ağ sorunlarına çözüm üretebilirsiniz."; 
-var kariyer_secim_25_plus_s7_retail_4_6 = "• E-Ticaret Uzmanı: Online satış platformlarının teknik altyapısını yönetebilir, web site geliştirme ve bakımını yapabilirsiniz."; 
-var kariyer_secim_25_plus_s7_retail_4_7 = "• Envanter ve Lojistik Uzmanı: Stok yönetimi ve lojistik süreçlerinin verimli işlemesini sağlamak için teknik analizler yapabilirsiniz."; 
+var kariyer_secim_25_plus_s7_retail_4_2 = "Perakende sektöründe teknik becerilerini kullanabileceğin işler şunlar olabilir:"; 
+var kariyer_secim_25_plus_s7_retail_4_3 = "• Bakım ve Onarım Teknisyeni: Perakende mağazalarında kullanılan elektronik cihazların bakım ve onarımlarını gerçekleştirebilirsin."; 
+var kariyer_secim_25_plus_s7_retail_4_4 = "• IT Destek Uzmanı: Perakende şirketlerinin teknik altyapılarını destekleyebilir, bilgisayar sistemleri ve ağ sorunlarına çözüm üretebilirsin."; 
+var kariyer_secim_25_plus_s7_retail_4_5 = "• E-Ticaret Uzmanı: Online satış platformlarının teknik altyapısını yönetebilir, web site geliştirme ve bakımını yapabilirsin."; 
+var kariyer_secim_25_plus_s7_retail_4_6 = "• Envanter ve Lojistik Uzmanı: Stok yönetimi ve lojistik süreçlerinin verimli işlemesini sağlamak için teknik analizler yapabilirsin."; 
+var kariyer_secim_25_plus_s7_retail_4_7 = "• Mağaza Teknoloji Uzmanı: Mağaza içindeki teknolojik sistemlerin (POS cihazları, güvenlik sistemleri, yazılımlar) sorunsuz çalışmasını sağlayabilirsin."; 
 
 var kariyer_secim_25_plus_s7_retail_5_1 = "Satış ve İlişki Kurma Kariyerleri "; 
-var kariyer_secim_25_plus_s7_retail_5_2 = "Perakende sektöründe satış becerilerinizi ve müşteri ilişkilerinizi geliştirebileceğiniz işler: "; 
-var kariyer_secim_25_plus_s7_retail_5_3 = "• Satış Temsilcisi: Mağaza içerisinde ürünlerin satışını gerçekleştirerek, müşteri ilişkileri ve satış performansını geliştirebilirsiniz."; 
-var kariyer_secim_25_plus_s7_retail_5_4 = "• Müşteri İlişkileri Yöneticisi: Büyük müşterilerle uzun vadeli ilişkiler kurabilir, onların taleplerine uygun çözümler geliştirebilirsiniz."; 
-var kariyer_secim_25_plus_s7_retail_5_5 = "• Satış Müdürü: Mağaza satış ekibini yönetebilir, hedeflere ulaşmak için stratejik satış planları oluşturabilirsiniz."; 
-var kariyer_secim_25_plus_s7_retail_5_6 = "• Promosyon ve Tanıtım Uzmanı: Yeni ürün tanıtımları ve satış kampanyalarını organize ederek müşteri ilgisini çekebilirsiniz."; 
-var kariyer_secim_25_plus_s7_retail_5_7 = "• Satış Analisti: Satış verilerini analiz edip, müşteri davranışlarını inceleyerek stratejik kararlar alabilirsiniz."; 
+var kariyer_secim_25_plus_s7_retail_5_2 = "Perakende sektöründe satış becerilerini ve müşteri ilişkilerini geliştirebileceğin işler:"; 
+var kariyer_secim_25_plus_s7_retail_5_3 = "• Satış Temsilcisi: Mağaza içerisinde ürünlerin satışını gerçekleştirerek, müşteri ilişkileri ve satış performansını geliştirebilirsin."; 
+var kariyer_secim_25_plus_s7_retail_5_4 = "• Müşteri İlişkileri Yöneticisi: Büyük müşterilerle uzun vadeli ilişkiler kurabilir, onların taleplerine uygun çözümler geliştirebilirsin."; 
+var kariyer_secim_25_plus_s7_retail_5_5 = "• Satış Müdürü: Mağaza satış ekibini yönetebilir, hedeflere ulaşmak için stratejik satış planları oluşturabilirsin."; 
+var kariyer_secim_25_plus_s7_retail_5_6 = "• Promosyon ve Tanıtım Uzmanı: Yeni ürün tanıtımları ve satış kampanyalarını organize ederek müşteri ilgisini çekebilirsin."; 
+var kariyer_secim_25_plus_s7_retail_5_7 = "• Satış Analisti: Satış verilerini analiz edip, müşteri davranışlarını inceleyerek stratejik kararlar alabilirsin."; 
 
 var kariyer_secim_25_plus_s7_retail_6_1 = "Organizasyonel ve İdari Kariyerler"; 
-var kariyer_secim_25_plus_s7_retail_6_2 = "Perakende sektöründe organizasyon ve idari süreçlerde çalışabileceğiniz işler: "; 
-var kariyer_secim_25_plus_s7_retail_6_3 = "• Ofis Yöneticisi: Mağazanın idari süreçlerini, personel takvimlerini ve genel operasyonları koordine edebilirsiniz."; 
-var kariyer_secim_25_plus_s7_retail_6_4 = "• Stok Yöneticisi: Mağaza stoklarını takip edebilir, envanter kontrolü yaparak stok seviyelerinin optimum düzeyde olmasını sağlayabilirsiniz."; 
-var kariyer_secim_25_plus_s7_retail_6_5 = "• Personel Yönetimi Uzmanı: Mağaza çalışanlarının işe alım süreçlerini, eğitimlerini ve performans değerlendirmelerini organize edebilirsiniz."; 
-var kariyer_secim_25_plus_s7_retail_6_6 = "• Lojistik Koordinatörü: Mağazanın ürün teslimatlarını, tedarik zincirini ve lojistik süreçlerini organize edebilirsiniz."; 
-var kariyer_secim_25_plus_s7_retail_6_7 = "• Proje Koordinatörü: Mağaza yenileme projeleri veya satış kampanyalarının uygulanmasını yönetebilirsiniz."; 
+var kariyer_secim_25_plus_s7_retail_6_2 = "Perakende sektöründe organizasyon ve idari süreçlerde çalışabileceğin işler:"; 
+var kariyer_secim_25_plus_s7_retail_6_3 = "• Ofis Yöneticisi: Mağazanın idari süreçlerini, personel takvimlerini ve genel operasyonları koordine edebilirsin."; 
+var kariyer_secim_25_plus_s7_retail_6_4 = "• Stok Yöneticisi: Mağaza stoklarını takip edebilir, envanter kontrolü yaparak stok seviyelerinin optimum düzeyde olmasını sağlayabilirsin."; 
+var kariyer_secim_25_plus_s7_retail_6_5 = "• Personel Yönetimi Uzmanı: Mağaza çalışanlarının işe alım süreçlerini, eğitimlerini ve performans değerlendirmelerini organize edebilirsin."; 
+var kariyer_secim_25_plus_s7_retail_6_6 = "• Lojistik Koordinatörü: Mağazanın ürün teslimatlarını, tedarik zincirini ve lojistik süreçlerini organize edebilirsin."; 
+var kariyer_secim_25_plus_s7_retail_6_7 = "• Proje Koordinatörü: Mağaza yenileme projeleri veya satış kampanyalarının uygulanmasını yönetebilirsin."; 
 
 var kariyer_secim_25_plus_s7_retail_7_1 = "Yenilikçi ve Girişimci Kariyerler"; 
-var kariyer_secim_25_plus_s7_retail_7_2 = "• Perakende sektöründe yenilikçi fikirler ve girişimcilik ruhuyla çalışabileceğiniz işler: "; 
-var kariyer_secim_25_plus_s7_retail_7_3 = "• E-Ticaret Girişimcisi: Kendi online mağazanızı kurabilir, ürünlerinizi dijital platformlar üzerinden satabilirsiniz."; 
-var kariyer_secim_25_plus_s7_retail_7_4 = "• Mağaza Sahibi: Kendi perakende mağazanızı açabilir, iş fikirlerinizi hayata geçirerek girişimcilik kariyerinize adım atabilirsiniz."; 
-var kariyer_secim_25_plus_s7_retail_7_5 = "• Ürün Geliştirme Uzmanı: Perakende sektöründe yeni ürünler geliştirebilir veya mevcut ürünleri yenilikçi yaklaşımlarla pazarlayabilirsiniz."; 
-var kariyer_secim_25_plus_s7_retail_7_6 = "• Dijital Pazarlama Uzmanı: Sosyal medya ve dijital platformlar üzerinden mağaza veya ürünlerin tanıtımını yaparak yenilikçi pazarlama stratejileri geliştirebilirsiniz."; 
-var kariyer_secim_25_plus_s7_retail_7_7 = "• Franchise Sahibi: Bir markanın franchise hakkını alarak, yenilikçi yönetim yöntemleriyle işletmenizi büyütebilirsiniz."; 
+var kariyer_secim_25_plus_s7_retail_7_2 = "Perakende sektöründe yenilikçi fikirler ve girişimcilik ruhuyla çalışabileceğin işler:"; 
+var kariyer_secim_25_plus_s7_retail_7_3 = "• E-Ticaret Girişimcisi: Kendi online mağazanı kurabilir, ürünlerini dijital platformlar üzerinden satabilirsin."; 
+var kariyer_secim_25_plus_s7_retail_7_4 = "• Mağaza Sahibi: Kendi perakende mağazanı açabilir, iş fikirlerini hayata geçirerek girişimcilik kariyerine adım atabilirsin."; 
+var kariyer_secim_25_plus_s7_retail_7_5 = "• Ürün Geliştirme Uzmanı: Perakende sektöründe yeni ürünler geliştirebilir veya mevcut ürünleri yenilikçi yaklaşımlarla pazarlayabilirsin."; 
+var kariyer_secim_25_plus_s7_retail_7_6 = "• Franchise Sahibi: Bir markanın franchise hakkını alarak, yenilikçi yönetim yöntemleriyle işletmenizi büyütebilirsin."; 
+var kariyer_secim_25_plus_s7_retail_7_7 = "• Dijital Pazarlama Uzmanı: Sosyal medya ve dijital platformlar üzerinden mağaza veya ürünlerin tanıtımını yaparak yenilikçi pazarlama stratejileri geliştirebilirsin."; 
 
 var kariyer_secim_25_plus_s7_retail_8_1 = "Öğretim ve Mentorluk Kariyerleri "; 
-var kariyer_secim_25_plus_s7_retail_8_2 = "• Perakende sektöründe öğretim ve mentorluk becerilerinizi kullanabileceğiniz işler: "; 
-var kariyer_secim_25_plus_s7_retail_8_3 = "• Satış Eğitmeni: Yeni satış personeline eğitim vererek, onların becerilerini geliştirebilir ve mentorluk yapabilirsiniz."; 
-var kariyer_secim_25_plus_s7_retail_8_4 = "• Mağaza İçi Eğitmen: Mağaza personelinin gelişimi için düzenli eğitimler vererek mağaza içi bilgi akışını sağlayabilirsiniz."; 
-var kariyer_secim_25_plus_s7_retail_8_5 = "• Mağaza Yöneticisi Mentor: Mağaza yöneticilerini yetiştirerek, onların liderlik becerilerini geliştirmelerine yardımcı olabilirsiniz."; 
-var kariyer_secim_25_plus_s7_retail_8_6 = "• Müşteri Deneyimi Koçu: Müşteri hizmetleri ekibine koçluk yaparak, onların müşteri memnuniyetini artırmalarına rehberlik edebilirsiniz."; 
-var kariyer_secim_25_plus_s7_retail_8_7 = "• Satış Koçu: Satış ekibine hedeflerine ulaşmaları için stratejik koçluk yaparak, performanslarını artırabilirsiniz."; 
+var kariyer_secim_25_plus_s7_retail_8_2 = "Perakende sektöründe öğretim ve mentorluk becerilerini kullanabileceğin işler:"; 
+var kariyer_secim_25_plus_s7_retail_8_3 = "• Satış Eğitmeni: Yeni satış personeline eğitim vererek, onların becerilerini geliştirebilir ve mentorluk yapabilirsin."; 
+var kariyer_secim_25_plus_s7_retail_8_4 = "• Mağaza İçi Eğitmen: Mağaza personelinin gelişimi için düzenli eğitimler vererek mağaza içi bilgi akışını sağlayabilirsin."; 
+var kariyer_secim_25_plus_s7_retail_8_5 = "• Mağaza Yöneticisi Mentor: Mağaza yöneticilerini yetiştirerek, onların liderlik becerilerini geliştirmelerine yardımcı olabilirsin."; 
+var kariyer_secim_25_plus_s7_retail_8_6 = "• Müşteri Deneyimi Koçu: Müşteri hizmetleri ekibine koçluk yaparak, onların müşteri memnuniyetini artırmalarına rehberlik edebilirsin."; 
+var kariyer_secim_25_plus_s7_retail_8_7 = "• Satış Koçu: Satış ekibine hedeflerine ulaşmaları için stratejik koçluk yaparak, performanslarını artırabilirsin."; 
 
 var kariyer_secim_25_plus_s7_retail_9_1 = "Analitik ve Veri Odaklı Kariyerler "; 
-var kariyer_secim_25_plus_s7_retail_9_2 = "Perakende sektöründe analitik düşünce ve veri odaklı çalışabileceğiniz işler: "; 
-var kariyer_secim_25_plus_s7_retail_9_3 = "• Stok ve Envanter Analisti: Mağazanın stok hareketlerini analiz ederek, envanter yönetimini optimize edebilirsiniz."; 
-var kariyer_secim_25_plus_s7_retail_9_4 = "• Satış Veri Analisti: Satış verilerini analiz edip, mağaza performansını artırmak için stratejik kararlar verebilirsiniz."; 
-var kariyer_secim_25_plus_s7_retail_9_5 = "• Pazarlama Analitiği Uzmanı: Pazarlama kampanyalarının etkisini ölçüp, veri odaklı pazarlama stratejileri geliştirebilirsiniz."; 
-var kariyer_secim_25_plus_s7_retail_9_6 = "• E-Ticaret Analitiği Uzmanı: Online mağaza verilerini analiz ederek müşteri davranışlarını anlamaya yönelik çözümler geliştirebilirsiniz."; 
-var kariyer_secim_25_plus_s7_retail_9_7 = "• Müşteri Analitiği Uzmanı: Müşteri verilerini analiz ederek müşteri segmentasyonları ve hedeflemeleri yapabilirsiniz."; 
+var kariyer_secim_25_plus_s7_retail_9_2 = "Perakende sektöründe analitik düşünce ve veri odaklı çalışabileceğin işler:"; 
+var kariyer_secim_25_plus_s7_retail_9_3 = "• Stok ve Envanter Analisti: Mağazanın stok hareketlerini analiz ederek, envanter yönetimini optimize edebilirsin."; 
+var kariyer_secim_25_plus_s7_retail_9_4 = "• Satış Veri Analisti: Satış verilerini analiz edip, mağaza performansını artırmak için stratejik kararlar verebilirsin."; 
+var kariyer_secim_25_plus_s7_retail_9_5 = "• Pazarlama Analitiği Uzmanı: Pazarlama kampanyalarının etkisini ölçüp, veri odaklı pazarlama stratejileri geliştirebilirsin."; 
+var kariyer_secim_25_plus_s7_retail_9_6 = "• E-Ticaret Analitiği Uzmanı: Online mağaza verilerini analiz ederek müşteri davranışlarını anlamaya yönelik çözümler geliştirebilirsin."; 
+var kariyer_secim_25_plus_s7_retail_9_7 = "• Müşteri Analitiği Uzmanı: Müşteri verilerini analiz ederek müşteri segmentasyonları ve hedeflemeleri yapabilirsin."; 
 
 //sağlık
 var kariyer_secim_25_plus_s7_health_1_1 = "Yaratıcı ve Sanatsal Kariyerler ";
@@ -1312,8 +1314,8 @@ var kariyer_secim_25_plus_s7_health_3_2 = "Sağlık ve ilaç sektöründe insanl
 var kariyer_secim_25_plus_s7_health_3_3 = "• Hemşire: Hastaların bakımını üstlenebilir, tedavi süreçlerinde doktorlara yardımcı olabilirsiniz. ";
 var kariyer_secim_25_plus_s7_health_3_4 = "• Sosyal Hizmet Uzmanı: Hastalar ve aileleri için rehberlik sağlayabilir, sosyal destek hizmetleri sunabilirsiniz. ";
 var kariyer_secim_25_plus_s7_health_3_5 = "• Hasta Danışmanı: Hastaların tedavi süreçlerinde rehberlik ederek, onların sorularını yanıtlayabilirsiniz. ";
-var kariyer_secim_25_plus_s7_health_3_6 = "• Terapist: Psikolojik ya da fiziksel tedavi sağlayarak hastaların sağlığına katkıda bulunabilirsiniz (fizyoterapist, psikolog, ergoterapist vb.). ";
-var kariyer_secim_25_plus_s7_health_3_7 = "• Eczane Teknisyeni: İlaçların dağıtımı ve hastalara ilaç kullanımı konusunda danışmanlık hizmeti verebilirsiniz. ";
+var kariyer_secim_25_plus_s7_health_3_6 = "• Eczane Teknisyeni: İlaçların dağıtımı ve hastalara ilaç kullanımı konusunda danışmanlık hizmeti verebilirsiniz. ";
+var kariyer_secim_25_plus_s7_health_3_7 = "• Terapist: Psikolojik ya da fiziksel tedavi sağlayarak hastaların sağlığına katkıda bulunabilirsiniz (fizyoterapist, psikolog, ergoterapist vb.). ";
 
 var kariyer_secim_25_plus_s7_health_4_1 = "Teknik ve Mühendislik Kariyerleri";
 var kariyer_secim_25_plus_s7_health_4_2 = "Sağlık ve ilaç sektöründe teknik becerilerinizi kullanabileceğiniz işler şunlar olabilir: ";
@@ -1349,11 +1351,11 @@ var kariyer_secim_25_plus_s7_health_7_7 = "• İlaç Ar-Ge Yöneticisi: İlaç 
 
 var kariyer_secim_25_plus_s7_health_8_1 = "Öğretim ve Mentorluk Kariyerleri";
 var kariyer_secim_25_plus_s7_health_8_2 = "Sağlık ve ilaç sektöründe öğretim ve mentorluk becerilerinizi kullanabileceğiniz işler şunlar olabilir:";
-var kariyer_secim_25_plus_s7_health_8_3 = "• Sağlık Eğitmeni: Hemşirelere, sağlık teknisyenlerine ya da doktorlara yönelik eğitimler vererek onların mesleki gelişimlerine katkıda bulunabilirsiniz.";
-var kariyer_secim_25_plus_s7_health_8_4 = "• Tıp Fakültesi Öğretim Görevlisi: Tıp öğrencilerine ders vererek, yeni nesil doktorların yetişmesine katkı sağlayabilirsiniz.";
-var kariyer_secim_25_plus_s7_health_8_5 = "• Eczacılık Eğitmeni: Eczacılık öğrencilerine veya teknisyenlerine yönelik eğitimler vererek ilaç bilimi konusunda bilgi aktarabilirsiniz.";
-var kariyer_secim_25_plus_s7_health_8_6 = "• Sağlık ve Güvenlik Eğitmeni: Sağlık kurumlarında çalışanlara iş güvenliği ve hasta güvenliği eğitimleri sunabilirsiniz.";
-var kariyer_secim_25_plus_s7_health_8_7 = "• Mentor (Sağlık Profesyonelleri): Deneyimli bir sağlık profesyoneli olarak, yeni mezunlara ya da genç çalışanlara rehberlik edebilirsiniz.";
+var kariyer_secim_25_plus_s7_health_8_3 = "• Tıp Fakültesi Öğretim Görevlisi: Tıp öğrencilerine ders vererek, yeni nesil doktorların yetişmesine katkı sağlayabilirsiniz.";
+var kariyer_secim_25_plus_s7_health_8_4 = "• Eczacılık Eğitmeni: Eczacılık öğrencilerine veya teknisyenlerine yönelik eğitimler vererek ilaç bilimi konusunda bilgi aktarabilirsiniz.";
+var kariyer_secim_25_plus_s7_health_8_5 = "• Sağlık ve Güvenlik Eğitmeni: Sağlık kurumlarında çalışanlara iş güvenliği ve hasta güvenliği eğitimleri sunabilirsiniz.";
+var kariyer_secim_25_plus_s7_health_8_6 = "• Mentor (Sağlık Profesyonelleri): Deneyimli bir sağlık profesyoneli olarak, yeni mezunlara ya da genç çalışanlara rehberlik edebilirsiniz.";
+var kariyer_secim_25_plus_s7_health_8_7 = "• Sağlık Eğitmeni: Hemşirelere, sağlık teknisyenlerine ya da doktorlara yönelik eğitimler vererek onların mesleki gelişimlerine katkıda bulunabilirsiniz.";
 
 var kariyer_secim_25_plus_s7_health_9_1 = "Analitik ve Veri Odaklı Kariyerler";
 var kariyer_secim_25_plus_s7_health_9_2 = "Sağlık ve ilaç sektöründe analitik becerilerinizi kullanabileceğiniz işler şunlar olabilir:";
@@ -1374,19 +1376,19 @@ var kariyer_secim_25_plus_s7_tech_1_7 = "• Animasyon Uzmanı: 3D modelleme, an
 
 var kariyer_secim_25_plus_s7_tech_2_1 = "Liderlik ve Yönetim Kariyerleri";
 var kariyer_secim_25_plus_s7_tech_2_2 = "Teknoloji sektöründe liderlik ve yönetim becerilerinizi kullanabileceğiniz işler şunlar olabilir:";
-var kariyer_secim_25_plus_s7_tech_2_3 = "• Proje Yöneticisi (Teknoloji): Yazılım geliştirme veya teknoloji projelerini yönetebilir, takımları organize ederek projeleri zamanında tamamlayabilirsiniz.";
-var kariyer_secim_25_plus_s7_tech_2_4 = "• IT Yöneticisi: Şirketin bilgi teknolojileri altyapısını yönetebilir, yazılım ve donanım çözümleri geliştirebilirsiniz.";
-var kariyer_secim_25_plus_s7_tech_2_5 = "• Ürün Yöneticisi: Yeni teknolojik ürünlerin geliştirilmesinde sorumluluk alarak, ürünün pazara uyumlu olmasını sağlayabilirsiniz.";
-var kariyer_secim_25_plus_s7_tech_2_6 = "• Teknoloji Danışmanı: Firmalara teknoloji stratejileri geliştirerek iş süreçlerini optimize etmelerine yardımcı olabilirsiniz.";
-var kariyer_secim_25_plus_s7_tech_2_7 = "• CTO (Chief Technology Officer): Bir şirketin teknoloji vizyonunu belirleyebilir, teknolojik yatırımları ve inovasyonu yönetebilirsiniz.";
+var kariyer_secim_25_plus_s7_tech_2_3 = "• IT Yöneticisi: Şirketin bilgi teknolojileri altyapısını yönetebilir, yazılım ve donanım çözümleri geliştirebilirsiniz.";
+var kariyer_secim_25_plus_s7_tech_2_4 = "• Ürün Yöneticisi: Yeni teknolojik ürünlerin geliştirilmesinde sorumluluk alarak, ürünün pazara uyumlu olmasını sağlayabilirsiniz.";
+var kariyer_secim_25_plus_s7_tech_2_5 = "• Teknoloji Danışmanı: Firmalara teknoloji stratejileri geliştirerek iş süreçlerini optimize etmelerine yardımcı olabilirsiniz.";
+var kariyer_secim_25_plus_s7_tech_2_6 = "• CTO (Chief Technology Officer): Bir şirketin teknoloji vizyonunu belirleyebilir, teknolojik yatırımları ve inovasyonu yönetebilirsiniz.";
+var kariyer_secim_25_plus_s7_tech_2_7 = "• Proje Yöneticisi (Teknoloji): Yazılım geliştirme veya teknoloji projelerini yönetebilir, takımları organize ederek projeleri zamanında tamamlayabilirsiniz.";
 
 var kariyer_secim_25_plus_s7_tech_3_1 = "Yardım ve Sosyal Kariyerler";
 var kariyer_secim_25_plus_s7_tech_3_2 = "Teknoloji sektöründe yardımsever yönlerinizi kullanabileceğiniz işler şunlar olabilir:";
 var kariyer_secim_25_plus_s7_tech_3_3 = "• IT Destek Uzmanı: Kullanıcılara teknik destek sağlayarak bilgisayar, yazılım ve ağ sorunlarını çözebilirsiniz.";
 var kariyer_secim_25_plus_s7_tech_3_4 = "• Teknoloji Eğitmeni: Çalışanlara veya öğrencilere teknoloji ve yazılım eğitimleri vererek dijital becerilerini geliştirmelerine yardımcı olabilirsiniz.";
-var kariyer_secim_25_plus_s7_tech_3_5 = "• Kullanıcı Destek Uzmanı: Yazılım ya da teknoloji ürünleri hakkında kullanıcıların sorularını yanıtlayabilir, teknik problemlerini çözmelerine yardımcı olabilirsiniz.";
-var kariyer_secim_25_plus_s7_tech_3_6 = "• Sosyal Girişimci (Teknoloji): Teknoloji yoluyla sosyal problemlere çözüm üreten projeler geliştirerek toplum yararına işler yapabilirsiniz.";
-var kariyer_secim_25_plus_s7_tech_3_7 = "• Dijital Erişilebilirlik Uzmanı: Engelli bireylerin teknolojiyi daha rahat kullanabilmesi için yazılım ve donanım çözümleri geliştirebilirsiniz.";
+var kariyer_secim_25_plus_s7_tech_3_5 = "• Sosyal Girişimci (Teknoloji): Teknoloji yoluyla sosyal problemlere çözüm üreten projeler geliştirerek toplum yararına işler yapabilirsiniz.";
+var kariyer_secim_25_plus_s7_tech_3_6 = "• Dijital Erişilebilirlik Uzmanı: Engelli bireylerin teknolojiyi daha rahat kullanabilmesi için yazılım ve donanım çözümleri geliştirebilirsiniz.";
+var kariyer_secim_25_plus_s7_tech_3_7 = "• Kullanıcı Destek Uzmanı: Yazılım ya da teknoloji ürünleri hakkında kullanıcıların sorularını yanıtlayabilir, teknik problemlerini çözmelerine yardımcı olabilirsiniz.";
 
 var kariyer_secim_25_plus_s7_tech_4_1 = "Teknik ve Mühendislik Kariyerleri";
 var kariyer_secim_25_plus_s7_tech_4_2 = "Teknoloji sektöründe teknik ve mühendislik becerilerinizi kullanabileceğiniz işler şunlar olabilir:";
@@ -1490,24 +1492,24 @@ var kariyer_secim_25_plus_s7_dress_7_2 = "Hazır giyim sektöründe yenilikçi d
 var kariyer_secim_25_plus_s7_dress_7_3 = "• Moda Girişimcisi: Kendi moda markanızı kurarak yenilikçi tasarımlarınızı piyasaya sürebilir ve kendi işinizi yönetebilirsiniz. "; 
 var kariyer_secim_25_plus_s7_dress_7_4 = "• E-Ticaret Girişimcisi: Kendi online giyim mağazanızı kurarak dijital ortamda moda ürünleri satabilirsiniz. "; 
 var kariyer_secim_25_plus_s7_dress_7_5 = "• Sürdürülebilir Moda Girişimcisi: Çevre dostu ve geri dönüştürülebilir materyallerle giyim ürünleri üreterek bu alanda bir girişim başlatabilirsiniz. "; 
-var kariyer_secim_25_plus_s7_dress_7_6 = "• Moda Teknoloji Girişimcisi: Giyim teknolojisi, akıllı kumaşlar veya inovatif üretim yöntemleri üzerine çalışmalar yaparak sektörde fark yaratabilirsiniz. "; 
-var kariyer_secim_25_plus_s7_dress_7_7 = "• Tasarım Danışmanlığı: Moda tasarım danışmanlığı yaparak diğer markalara yenilikçi tasarımlar geliştirme konusunda rehberlik edebilirsiniz. ";
+var kariyer_secim_25_plus_s7_dress_7_6 = "• Tasarım Danışmanlığı: Moda tasarım danışmanlığı yaparak diğer markalara yenilikçi tasarımlar geliştirme konusunda rehberlik edebilirsiniz. ";
+var kariyer_secim_25_plus_s7_dress_7_7 = "• Moda Teknoloji Girişimcisi: Giyim teknolojisi, akıllı kumaşlar veya inovatif üretim yöntemleri üzerine çalışmalar yaparak sektörde fark yaratabilirsiniz. "; 
 
 var kariyer_secim_25_plus_s7_dress_8_1 = "Öğretim ve Mentorluk Kariyerleri "; 
 var kariyer_secim_25_plus_s7_dress_8_2 = "Hazır giyim sektöründe öğretim ve mentorluk becerilerinizi kullanabileceğiniz işler şunlar olabilir: "; 
 var kariyer_secim_25_plus_s7_dress_8_3 = "• Moda Eğitmeni: Moda tasarımı, stil danışmanlığı veya tekstil üretimi üzerine öğrencilere ya da çalışanlara eğitim verebilirsiniz. "; 
 var kariyer_secim_25_plus_s7_dress_8_4 = "• Stilist Danışmanı: Yeni başlayan stilistlere rehberlik ederek kariyerlerinde gelişmelerine yardımcı olabilirsiniz. "; 
 var kariyer_secim_25_plus_s7_dress_8_5 = "• Moda Koçu: Moda dünyasında kariyer yapmak isteyen bireylere profesyonel koçluk yaparak onların gelişim süreçlerini yönlendirebilirsiniz. "; 
-var kariyer_secim_25_plus_s7_dress_8_6 = "• Kariyer Mentoru (Moda): Moda sektöründe kariyer yapan profesyonellere rehberlik ederek, iş dünyasında karşılaştıkları zorluklarla başa çıkmalarına yardımcı olabilirsiniz. "; 
-var kariyer_secim_25_plus_s7_dress_8_7 = "• Moda Okulu Yöneticisi: Bir moda okulunda yönetici olarak, eğitim programlarını yönetebilir ve öğrencilere kaliteli bir eğitim sunulmasını sağlayabilirsiniz. ";
+var kariyer_secim_25_plus_s7_dress_8_6 = "• Moda Okulu Yöneticisi: Bir moda okulunda yönetici olarak, eğitim programlarını yönetebilir ve öğrencilere kaliteli bir eğitim sunulmasını sağlayabilirsiniz. ";
+var kariyer_secim_25_plus_s7_dress_8_7 = "• Kariyer Mentoru (Moda): Moda sektöründe kariyer yapan profesyonellere rehberlik ederek, iş dünyasında karşılaştıkları zorluklarla başa çıkmalarına yardımcı olabilirsiniz. "; 
 
 var kariyer_secim_25_plus_s7_dress_9_1 = "Analitik ve Veri Odaklı Kariyerler "; 
 var kariyer_secim_25_plus_s7_dress_9_2 = "Hazır giyim sektöründe analitik düşünce ve veri becerilerinizi kullanabileceğiniz işler şunlar olabilir:"; 
-var kariyer_secim_25_plus_s7_dress_9_3 = "• Moda Trend Analisti: Pazar araştırmaları yaparak moda trendlerini ve tüketici tercihlerini analiz edebilir, markalara gelecekteki stratejileri hakkında önerilerde bulunabilirsiniz. "; 
-var kariyer_secim_25_plus_s7_dress_9_4 = "• E-Ticaret Veri Analisti: Online giyim mağazalarının satış verilerini analiz ederek müşteri davranışlarını ve satış performansını değerlendirebilirsiniz. "; 
-var kariyer_secim_25_plus_s7_dress_9_5 = "• Stok Analisti: Giyim ürünlerinin satış ve stok hareketlerini analiz ederek tedarik zincirinin daha verimli işlemesine yardımcı olabilirsiniz. "; 
-var kariyer_secim_25_plus_s7_dress_9_6 = "• Fiyatlandırma Uzmanı: Moda ürünlerinin fiyatlandırılmasında veri odaklı analizler yaparak şirketin kar marjını optimize edebilirsiniz. "; 
-var kariyer_secim_25_plus_s7_dress_9_7 = "• Müşteri Analitiği Uzmanı: Müşteri alışkanlıklarını ve geri bildirimlerini analiz ederek, markaların müşteri deneyimini geliştirmelerine yardımcı olabilirsiniz. ";
+var kariyer_secim_25_plus_s7_dress_9_3 = "• E-Ticaret Veri Analisti: Online giyim mağazalarının satış verilerini analiz ederek müşteri davranışlarını ve satış performansını değerlendirebilirsiniz. "; 
+var kariyer_secim_25_plus_s7_dress_9_4 = "• Stok Analisti: Giyim ürünlerinin satış ve stok hareketlerini analiz ederek tedarik zincirinin daha verimli işlemesine yardımcı olabilirsiniz. "; 
+var kariyer_secim_25_plus_s7_dress_9_5 = "• Fiyatlandırma Uzmanı: Moda ürünlerinin fiyatlandırılmasında veri odaklı analizler yaparak şirketin kar marjını optimize edebilirsiniz. "; 
+var kariyer_secim_25_plus_s7_dress_9_6 = "• Müşteri Analitiği Uzmanı: Müşteri alışkanlıklarını ve geri bildirimlerini analiz ederek, markaların müşteri deneyimini geliştirmelerine yardımcı olabilirsiniz. ";
+var kariyer_secim_25_plus_s7_dress_9_7 = "• Moda Trend Analisti: Pazar araştırmaları yaparak moda trendlerini ve tüketici tercihlerini analiz edebilir, markalara gelecekteki stratejileri hakkında önerilerde bulunabilirsiniz. "; 
 
 // otomotiv
 var kariyer_secim_25_plus_s7_auto_1_1 = "Yaratıcı ve Sanatsal Kariyerler";
@@ -1515,8 +1517,8 @@ var kariyer_secim_25_plus_s7_auto_1_2 = "Otomotiv sektöründe yaratıcılığı
 var kariyer_secim_25_plus_s7_auto_1_3 = "• Otomotiv Tasarımcısı: Araçların dış tasarımlarını veya iç mekan düzenlemelerini yaparak otomotiv dünyasına estetik katabilirsiniz.";
 var kariyer_secim_25_plus_s7_auto_1_4 = "• Endüstriyel Tasarımcı: Araçların kullanıcı dostu ve estetik açıdan çekici olmasını sağlayacak tasarımlar geliştirebilirsiniz.";
 var kariyer_secim_25_plus_s7_auto_1_5 = "• Grafik Tasarımcı: Otomotiv markaları için reklam, logo veya ürün tanıtımı gibi grafik çalışmalar yapabilirsiniz.";
-var kariyer_secim_25_plus_s7_auto_1_6 = "• Renk ve Malzeme Tasarımcısı: Araçlarda kullanılacak renk paletlerini ve malzemeleri belirleyerek, araçların estetik görünümüne katkıda bulunabilirsiniz.";
-var kariyer_secim_25_plus_s7_auto_1_7 = "• Görsel Sunum Uzmanı: Otomobil fuarları, reklam kampanyaları ve lansmanlar için görsel sunumlar ve konsept tasarımlar hazırlayabilirsiniz.";
+var kariyer_secim_25_plus_s7_auto_1_6 = "• Görsel Sunum Uzmanı: Otomobil fuarları, reklam kampanyaları ve lansmanlar için görsel sunumlar ve konsept tasarımlar hazırlayabilirsiniz.";
+var kariyer_secim_25_plus_s7_auto_1_7 = "• Renk ve Malzeme Tasarımcısı: Araçlarda kullanılacak renk paletlerini ve malzemeleri belirleyerek, araçların estetik görünümüne katkıda bulunabilirsiniz.";
 
 var kariyer_secim_25_plus_s7_auto_2_1 = "Liderlik ve Yönetim Kariyerleri";
 var kariyer_secim_25_plus_s7_auto_2_2 = "Otomotiv sektöründe liderlik ve yönetim becerilerinizi kullanabileceğiniz işler şunlar olabilir:";
@@ -1585,19 +1587,19 @@ var kariyer_secim_25_plus_s7_auto_9_7 = "• Müşteri Analitiği Uzmanı: Otomo
 // mutfak sanatları
 var kariyer_secim_25_plus_s7_meal_1_1 = "Yaratıcı ve Sanatsal Kariyerler";
 var kariyer_secim_25_plus_s7_meal_1_2 = "Mutfak sanatları sektöründe yaratıcılığınızı kullanabileceğiniz işler şunlar olabilir:";
-var kariyer_secim_25_plus_s7_meal_1_3 = "• Şef (Chef): Restoranlarda veya otellerde menüleri tasarlayarak, yaratıcı yemekler hazırlayabilir ve mutfak sanatlarını yüksek seviyede icra edebilirsiniz.";
-var kariyer_secim_25_plus_s7_meal_1_4 = "• Pasta Şefi: Özel pastalar, tatlılar ve şekerlemeler hazırlayarak tatlı dünyasında yaratıcı dokunuşlar yapabilirsiniz.";
-var kariyer_secim_25_plus_s7_meal_1_5 = "• Gıda Tasarımcısı: Yemeklerin görsel sunumunu tasarlayarak, şık ve estetik tabaklar hazırlayabilir, yemeklerin görsel estetiğini artırabilirsiniz.";
-var kariyer_secim_25_plus_s7_meal_1_6 = "• Gıda Fotoğrafçısı: Yiyeceklerin etkileyici fotoğraflarını çekerek, yemeklerin tanıtımı için görsel içerikler oluşturabilirsiniz.";
-var kariyer_secim_25_plus_s7_meal_1_7 = "• Yemek Stilisisti: Yemeklerin sunumu, tabak düzeni ve fotoğraf çekimleri için profesyonel stil düzenlemeleri yapabilirsiniz.";
+var kariyer_secim_25_plus_s7_meal_1_3 = "• Pasta Şefi: Özel pastalar, tatlılar ve şekerlemeler hazırlayarak tatlı dünyasında yaratıcı dokunuşlar yapabilirsiniz.";
+var kariyer_secim_25_plus_s7_meal_1_4 = "• Gıda Tasarımcısı: Yemeklerin görsel sunumunu tasarlayarak, şık ve estetik tabaklar hazırlayabilir, yemeklerin görsel estetiğini artırabilirsiniz.";
+var kariyer_secim_25_plus_s7_meal_1_5 = "• Gıda Fotoğrafçısı: Yiyeceklerin etkileyici fotoğraflarını çekerek, yemeklerin tanıtımı için görsel içerikler oluşturabilirsiniz.";
+var kariyer_secim_25_plus_s7_meal_1_6 = "• Yemek Stilisisti: Yemeklerin sunumu, tabak düzeni ve fotoğraf çekimleri için profesyonel stil düzenlemeleri yapabilirsiniz.";
+var kariyer_secim_25_plus_s7_meal_1_7 = "• Şef (Chef): Restoranlarda veya otellerde menüleri tasarlayarak, yaratıcı yemekler hazırlayabilir ve mutfak sanatlarını yüksek seviyede icra edebilirsiniz.";
 
 var kariyer_secim_25_plus_s7_meal_2_1 = "Liderlik ve Yönetim Kariyerleri";
 var kariyer_secim_25_plus_s7_meal_2_2 = "Mutfak sanatları sektöründe liderlik ve yönetim becerilerinizi kullanabileceğiniz işler şunlar olabilir:";
 var kariyer_secim_25_plus_s7_meal_2_3 = "• Mutfak Şefi: Bir mutfağı yönetebilir, menüleri oluşturabilir ve mutfak personelini yönlendirebilirsiniz.";
 var kariyer_secim_25_plus_s7_meal_2_4 = "• Restoran Müdürü: Restoran operasyonlarını yönetebilir, müşteri ilişkilerini düzenleyebilir ve işletme stratejilerini belirleyebilirsiniz.";
-var kariyer_secim_25_plus_s7_meal_2_5 = "• Catering Müdürü: Büyük etkinlikler için yemek hizmetlerini organize edebilir, ekibi yönetebilir ve etkinliklerin başarılı bir şekilde gerçekleşmesini sağlayabilirsiniz.";
-var kariyer_secim_25_plus_s7_meal_2_6 = "• Mutfak Koordinatörü: Mutfak içindeki günlük operasyonları, malzeme yönetimini ve personel koordinasyonunu sağlayabilirsiniz.";
-var kariyer_secim_25_plus_s7_meal_2_7 = "• Gıda ve İçecek Müdürü: Restoran veya otel içindeki yiyecek ve içecek hizmetlerini yönetebilir, kalite kontrol ve müşteri memnuniyetini artırabilirsiniz.";
+var kariyer_secim_25_plus_s7_meal_2_5 = "• Mutfak Koordinatörü: Mutfak içindeki günlük operasyonları, malzeme yönetimini ve personel koordinasyonunu sağlayabilirsiniz.";
+var kariyer_secim_25_plus_s7_meal_2_6 = "• Gıda ve İçecek Müdürü: Restoran veya otel içindeki yiyecek ve içecek hizmetlerini yönetebilir, kalite kontrol ve müşteri memnuniyetini artırabilirsiniz.";
+var kariyer_secim_25_plus_s7_meal_2_7 = "• Catering Müdürü: Büyük etkinlikler için yemek hizmetlerini organize edebilir, ekibi yönetebilir ve etkinliklerin başarılı bir şekilde gerçekleşmesini sağlayabilirsiniz.";
 
 var kariyer_secim_25_plus_s7_meal_3_1 = "Yardım ve Sosyal Kariyerler";
 var kariyer_secim_25_plus_s7_meal_3_2 = "Mutfak sanatları sektöründe yardımsever yönlerinizi kullanabileceğiniz işler şunlar olabilir:";
@@ -1635,9 +1637,9 @@ var kariyer_secim_25_plus_s7_meal_7_1 = "Yenilikçi ve Girişimci Kariyerler";
 var kariyer_secim_25_plus_s7_meal_7_2 = "Mutfak sanatları sektöründe yenilikçi düşünceler ve girişimcilik ruhunuzu kullanabileceğiniz işler şunlar olabilir:";
 var kariyer_secim_25_plus_s7_meal_7_3 = "• Gıda Start-up Kurucusu: Kendi gıda markanızı veya restoranınızı kurarak yenilikçi menüler ve hizmetler sunabilirsiniz.";
 var kariyer_secim_25_plus_s7_meal_7_4 = "• Gastronomi Girişimcisi: Yeni yemek trendleri ve gastronomi deneyimleri üzerine girişim başlatarak sektörde farklılık yaratabilirsiniz.";
-var kariyer_secim_25_plus_s7_meal_7_5 = "• Yemek Tarifleri Geliştiricisi: Kendi tariflerinizi oluşturarak, yemek kitapları yazabilir veya dijital platformlarda tariflerinizi paylaşabilirsiniz.";
-var kariyer_secim_25_plus_s7_meal_7_6 = "• Sağlıklı Gıda Girişimcisi: Sağlıklı ve doğal gıda ürünleri üretimi üzerine bir girişim kurarak, sağlıklı yaşamı teşvik edebilirsiniz.";
-var kariyer_secim_25_plus_s7_meal_7_7 = "• Gıda İnovasyon Danışmanı: Restoranlar ve gıda firmalarına yenilikçi yemek çözümleri ve menü geliştirme konularında danışmanlık yapabilirsiniz.";
+var kariyer_secim_25_plus_s7_meal_7_5 = "• Sağlıklı Gıda Girişimcisi: Sağlıklı ve doğal gıda ürünleri üretimi üzerine bir girişim kurarak, sağlıklı yaşamı teşvik edebilirsiniz.";
+var kariyer_secim_25_plus_s7_meal_7_6 = "• Gıda İnovasyon Danışmanı: Restoranlar ve gıda firmalarına yenilikçi yemek çözümleri ve menü geliştirme konularında danışmanlık yapabilirsiniz.";
+var kariyer_secim_25_plus_s7_meal_7_7 = "• Yemek Tarifleri Geliştiricisi: Kendi tariflerinizi oluşturarak, yemek kitapları yazabilir veya dijital platformlarda tariflerinizi paylaşabilirsiniz.";
 
 var kariyer_secim_25_plus_s7_meal_8_1 = "Öğretim ve Mentorluk Kariyerleri";
 var kariyer_secim_25_plus_s7_meal_8_2 = "Mutfak sanatları sektöründe öğretim ve mentorluk becerilerinizi kullanabileceğiniz işler şunlar olabilir:";
@@ -1650,10 +1652,10 @@ var kariyer_secim_25_plus_s7_meal_8_7 = "• Gastronomi Koçu: Mutfak sanatları
 var kariyer_secim_25_plus_s7_meal_9_1 = "Analitik ve Veri Odaklı Kariyerler";
 var kariyer_secim_25_plus_s7_meal_9_2 = "Mutfak sanatları sektöründe analitik düşünce ve veri becerilerinizi kullanabileceğiniz işler şunlar olabilir:";
 var kariyer_secim_25_plus_s7_meal_9_3 = "• Menü Analisti: Menü performansını analiz ederek, müşteri geri bildirimlerine göre menü iyileştirmeleri yapabilirsiniz.";
-var kariyer_secim_25_plus_s7_meal_9_4 = "• Gıda Ürünleri Veri Analisti: Gıda ürünlerinin pazar trendlerini ve müşteri tercihlerine dair verileri analiz ederek, ürün geliştirme stratejileri oluşturabilirsiniz.";
-var kariyer_secim_25_plus_s7_meal_9_5 = "• Müşteri Deneyimi Analisti: Restoran veya mutfak hizmetlerindeki müşteri deneyimlerini analiz ederek, hizmet kalitesini artıracak önerilerde bulunabilirsiniz.";
-var kariyer_secim_25_plus_s7_meal_9_6 = "• Satış Verileri Analisti: Restoran satış verilerini analiz ederek, satış stratejilerini optimize edebilir ve iş kararlarını destekleyebilirsiniz.";
-var kariyer_secim_25_plus_s7_meal_9_7 = "• Gıda Güvenliği Analisti: Gıda güvenliği verilerini analiz ederek, hijyen standartlarının ve kalite kontrol süreçlerinin iyileştirilmesine katkıda bulunabilirsiniz.";
+var kariyer_secim_25_plus_s7_meal_9_4 = "• Müşteri Deneyimi Analisti: Restoran veya mutfak hizmetlerindeki müşteri deneyimlerini analiz ederek, hizmet kalitesini artıracak önerilerde bulunabilirsiniz.";
+var kariyer_secim_25_plus_s7_meal_9_5 = "• Satış Verileri Analisti: Restoran satış verilerini analiz ederek, satış stratejilerini optimize edebilir ve iş kararlarını destekleyebilirsiniz.";
+var kariyer_secim_25_plus_s7_meal_9_6 = "• Gıda Güvenliği Analisti: Gıda güvenliği verilerini analiz ederek, hijyen standartlarının ve kalite kontrol süreçlerinin iyileştirilmesine katkıda bulunabilirsiniz.";
+var kariyer_secim_25_plus_s7_meal_9_7 = "• Gıda Ürünleri Veri Analisti: Gıda ürünlerinin pazar trendlerini ve müşteri tercihlerine dair verileri analiz ederek, ürün geliştirme stratejileri oluşturabilirsiniz.";
 
 //özet
 var kariyer_secim_ozet_1_1 = "Sana En Uygun Kariyer Alanı: Yaratıcı ve Sanatsal Kariyerler";
@@ -6103,6 +6105,8 @@ var decision_strategy_eng_ozet_11_2 = "";
           return image_karar_verme_stratejileri_10; 
         } else if (decisionStrategyData.strategy == "Wait a Lunar Cycle" && decisionStrategyData.innerAuthority == "Lunar") {
           return image_karar_verme_stratejileri_11; 
+        } else if (decisionStrategyData.strategy == "Wait a Lunar Cycle" && decisionStrategyData.innerAuthority == "N") {
+          return image_karar_verme_stratejileri_11; 
         }
       }
       else if (type == "name") {
@@ -6123,11 +6127,13 @@ var decision_strategy_eng_ozet_11_2 = "";
         } else if (decisionStrategyData.strategy == "To Inform" && decisionStrategyData.innerAuthority == "Emotional") {
             return decision_strategy_s3_8_1; 
         } else if (decisionStrategyData.strategy == "To Inform" && decisionStrategyData.innerAuthority == "Splenic") {
-          return decision_strategy_s3_9_1; 
+            return decision_strategy_s3_9_1; 
         } else if (decisionStrategyData.strategy == "To Inform" && decisionStrategyData.innerAuthority == "Ego Manifested") {
-          return decision_strategy_s3_10_1; 
+            return decision_strategy_s3_10_1; 
         } else if (decisionStrategyData.strategy == "Wait a Lunar Cycle" && decisionStrategyData.innerAuthority == "Lunar") {
-          return decision_strategy_s3_11_1; 
+            return decision_strategy_s3_11_1; 
+        } else if (decisionStrategyData.strategy == "Wait a Lunar Cycle" && decisionStrategyData.innerAuthority == "N") {
+            return decision_strategy_s3_11_1; 
         }
     } else if (type == "s3_x_2") {
         if (decisionStrategyData.strategy == "To Respond" && decisionStrategyData.innerAuthority == "Emotional") {
@@ -6151,6 +6157,8 @@ var decision_strategy_eng_ozet_11_2 = "";
         } else if (decisionStrategyData.strategy == "To Inform" && decisionStrategyData.innerAuthority == "Ego Manifested") {
             return decision_strategy_s3_10_2; 
         } else if (decisionStrategyData.strategy == "Wait a Lunar Cycle" && decisionStrategyData.innerAuthority == "Lunar") {
+            return decision_strategy_s3_11_2; 
+        } else if (decisionStrategyData.strategy == "Wait a Lunar Cycle" && decisionStrategyData.innerAuthority == "N") {
             return decision_strategy_s3_11_2; 
         }
     } else if (type == "s3_x_3") {
@@ -6176,6 +6184,8 @@ var decision_strategy_eng_ozet_11_2 = "";
             return decision_strategy_s3_10_3; 
         } else if (decisionStrategyData.strategy == "Wait a Lunar Cycle" && decisionStrategyData.innerAuthority == "Lunar") {
             return decision_strategy_s3_11_3; 
+        } else if (decisionStrategyData.strategy == "Wait a Lunar Cycle" && decisionStrategyData.innerAuthority == "N") {
+            return decision_strategy_s3_11_3; 
         }
     } else if (type == "s3_x_4") {
         if (decisionStrategyData.strategy == "To Respond" && decisionStrategyData.innerAuthority == "Emotional") {
@@ -6199,6 +6209,8 @@ var decision_strategy_eng_ozet_11_2 = "";
         } else if (decisionStrategyData.strategy == "To Inform" && decisionStrategyData.innerAuthority == "Ego Manifested") {
             return decision_strategy_s3_10_4; 
         } else if (decisionStrategyData.strategy == "Wait a Lunar Cycle" && decisionStrategyData.innerAuthority == "Lunar") {
+            return decision_strategy_s3_11_4; 
+        } else if (decisionStrategyData.strategy == "Wait a Lunar Cycle" && decisionStrategyData.innerAuthority == "N") {
             return decision_strategy_s3_11_4; 
         }
     } else if (type == "s4_x_text") {
@@ -6224,6 +6236,8 @@ var decision_strategy_eng_ozet_11_2 = "";
           return decision_strategy_s4_10_text; 
         } else if (decisionStrategyData.strategy == "Wait a Lunar Cycle" && decisionStrategyData.innerAuthority == "Lunar") {
           return decision_strategy_s4_11_text; 
+        } else if (decisionStrategyData.strategy == "Wait a Lunar Cycle" && decisionStrategyData.innerAuthority == "N") {
+          return decision_strategy_s4_11_text; 
         }
     } else if (type == "s4_x_1") {
         if (decisionStrategyData.strategy == "To Respond" && decisionStrategyData.innerAuthority == "Emotional") {
@@ -6247,6 +6261,8 @@ var decision_strategy_eng_ozet_11_2 = "";
         } else if (decisionStrategyData.strategy == "To Inform" && decisionStrategyData.innerAuthority == "Ego Manifested") {
           return decision_strategy_s4_10_1; 
         } else if (decisionStrategyData.strategy == "Wait a Lunar Cycle" && decisionStrategyData.innerAuthority == "Lunar") {
+          return decision_strategy_s4_11_1; 
+        } else if (decisionStrategyData.strategy == "Wait a Lunar Cycle" && decisionStrategyData.innerAuthority == "N") {
           return decision_strategy_s4_11_1; 
         }
     } else if (type == "s4_x_2") {
@@ -6272,6 +6288,8 @@ var decision_strategy_eng_ozet_11_2 = "";
           return decision_strategy_s4_10_2;
         } else if (decisionStrategyData.strategy == "Wait a Lunar Cycle" && decisionStrategyData.innerAuthority == "Lunar") {
           return decision_strategy_s4_11_2; 
+        } else if (decisionStrategyData.strategy == "Wait a Lunar Cycle" && decisionStrategyData.innerAuthority == "N") {
+          return decision_strategy_s4_11_2; 
         }
     } else if (type == "s4_x_3") {
         if (decisionStrategyData.strategy == "To Respond" && decisionStrategyData.innerAuthority == "Emotional") {
@@ -6295,6 +6313,8 @@ var decision_strategy_eng_ozet_11_2 = "";
         } else if (decisionStrategyData.strategy == "To Inform" && decisionStrategyData.innerAuthority == "Ego Manifested") {
           return decision_strategy_s4_10_3;
         } else if (decisionStrategyData.strategy == "Wait a Lunar Cycle" && decisionStrategyData.innerAuthority == "Lunar") {
+          return decision_strategy_s4_11_3; 
+        } else if (decisionStrategyData.strategy == "Wait a Lunar Cycle" && decisionStrategyData.innerAuthority == "N") {
           return decision_strategy_s4_11_3; 
         }
     } else if (type == "s4_x_4") {
@@ -6320,6 +6340,8 @@ var decision_strategy_eng_ozet_11_2 = "";
           return decision_strategy_s4_10_4; 
         } else if (decisionStrategyData.strategy == "Wait a Lunar Cycle" && decisionStrategyData.innerAuthority == "Lunar") {
           return decision_strategy_s4_11_4; 
+        } else if (decisionStrategyData.strategy == "Wait a Lunar Cycle" && decisionStrategyData.innerAuthority == "N") {
+          return decision_strategy_s4_11_4; 
         }
     } else if (type == "s4_x_5") {
         if (decisionStrategyData.strategy == "To Respond" && decisionStrategyData.innerAuthority == "Emotional") {
@@ -6343,6 +6365,8 @@ var decision_strategy_eng_ozet_11_2 = "";
         } else if (decisionStrategyData.strategy == "To Inform" && decisionStrategyData.innerAuthority == "Ego Manifested") {
           return decision_strategy_s4_10_5; 
         } else if (decisionStrategyData.strategy == "Wait a Lunar Cycle" && decisionStrategyData.innerAuthority == "Lunar") {
+          return decision_strategy_s4_11_5; 
+        } else if (decisionStrategyData.strategy == "Wait a Lunar Cycle" && decisionStrategyData.innerAuthority == "N") {
           return decision_strategy_s4_11_5; 
         }
     } else if (type == "s4_x_txt") {
@@ -6368,6 +6392,8 @@ var decision_strategy_eng_ozet_11_2 = "";
           return decision_strategy_s4_10_txt; 
         } else if (decisionStrategyData.strategy == "Wait a Lunar Cycle" && decisionStrategyData.innerAuthority == "Lunar") {
           return decision_strategy_s4_11_txt; 
+        } else if (decisionStrategyData.strategy == "Wait a Lunar Cycle" && decisionStrategyData.innerAuthority == "N") {
+          return decision_strategy_s4_11_txt; 
         }
       } else if (type == "ozet_1") {
         if (decisionStrategyData.strategy == "To Respond" && decisionStrategyData.innerAuthority == "Emotional") {
@@ -6392,6 +6418,8 @@ var decision_strategy_eng_ozet_11_2 = "";
           return decision_strategy_ozet_10_1; 
         } else if (decisionStrategyData.strategy == "Wait a Lunar Cycle" && decisionStrategyData.innerAuthority == "Lunar") {
           return decision_strategy_ozet_11_1; 
+        } else if (decisionStrategyData.strategy == "Wait a Lunar Cycle" && decisionStrategyData.innerAuthority == "N") {
+          return decision_strategy_ozet_11_1; 
         }
       } else if (type == "ozet_2") {
         if (decisionStrategyData.strategy == "To Respond" && decisionStrategyData.innerAuthority == "Emotional") {
@@ -6415,6 +6443,8 @@ var decision_strategy_eng_ozet_11_2 = "";
         } else if (decisionStrategyData.strategy == "To Inform" && decisionStrategyData.innerAuthority == "Ego Manifested") {
           return decision_strategy_ozet_10_2; 
         } else if (decisionStrategyData.strategy == "Wait a Lunar Cycle" && decisionStrategyData.innerAuthority == "Lunar") {
+          return decision_strategy_ozet_11_2;
+        } else if (decisionStrategyData.strategy == "Wait a Lunar Cycle" && decisionStrategyData.innerAuthority == "N") {
           return decision_strategy_ozet_11_2; 
         }
       }
@@ -6442,7 +6472,9 @@ var decision_strategy_eng_ozet_11_2 = "";
             return image_karar_verme_stratejileri_10; 
         } else if (decisionStrategyData.strategy == "Wait a Lunar Cycle" && decisionStrategyData.innerAuthority == "Lunar") {
             return image_karar_verme_stratejileri_11; 
-        }
+        } else if (decisionStrategyData.strategy == "Wait a Lunar Cycle" && decisionStrategyData.innerAuthority == "N") {
+            return image_karar_verme_stratejileri_11; 
+      }
       }
       else if (type == "name") {
         if (decisionStrategyData.strategy == "To Respond" && decisionStrategyData.innerAuthority == "Emotional") {
@@ -6467,7 +6499,9 @@ var decision_strategy_eng_ozet_11_2 = "";
             return decision_strategy_eng_s3_10_1; 
         } else if (decisionStrategyData.strategy == "Wait a Lunar Cycle" && decisionStrategyData.innerAuthority == "Lunar") {
             return decision_strategy_eng_s3_11_1; 
-        }
+        } else if (decisionStrategyData.strategy == "Wait a Lunar Cycle" && decisionStrategyData.innerAuthority == "N") {
+            return decision_strategy_eng_s3_11_1; 
+      }
     } else if (type == "s3_x_2") {
         if (decisionStrategyData.strategy == "To Respond" && decisionStrategyData.innerAuthority == "Emotional") {
             return decision_strategy_eng_s3_1_2; 
@@ -6491,7 +6525,9 @@ var decision_strategy_eng_ozet_11_2 = "";
             return decision_strategy_eng_s3_10_2; 
         } else if (decisionStrategyData.strategy == "Wait a Lunar Cycle" && decisionStrategyData.innerAuthority == "Lunar") {
             return decision_strategy_eng_s3_11_2; 
-        }
+        } else if (decisionStrategyData.strategy == "Wait a Lunar Cycle" && decisionStrategyData.innerAuthority == "N") {
+            return decision_strategy_eng_s3_11_2; 
+      }
     } else if (type == "s3_x_3") {
         if (decisionStrategyData.strategy == "To Respond" && decisionStrategyData.innerAuthority == "Emotional") {
             return decision_strategy_eng_s3_1_3; 
@@ -6515,7 +6551,9 @@ var decision_strategy_eng_ozet_11_2 = "";
             return decision_strategy_eng_s3_10_3; 
         } else if (decisionStrategyData.strategy == "Wait a Lunar Cycle" && decisionStrategyData.innerAuthority == "Lunar") {
             return decision_strategy_eng_s3_11_3; 
-        }
+        } else if (decisionStrategyData.strategy == "Wait a Lunar Cycle" && decisionStrategyData.innerAuthority == "N") {
+            return decision_strategy_eng_s3_11_3; 
+      }
     } else if (type == "s3_x_4") {
         if (decisionStrategyData.strategy == "To Respond" && decisionStrategyData.innerAuthority == "Emotional") {
             return decision_strategy_eng_s3_1_4; 
@@ -6539,7 +6577,9 @@ var decision_strategy_eng_ozet_11_2 = "";
             return decision_strategy_eng_s3_10_4; 
         } else if (decisionStrategyData.strategy == "Wait a Lunar Cycle" && decisionStrategyData.innerAuthority == "Lunar") {
             return decision_strategy_eng_s3_11_4; 
-        }
+        } else if (decisionStrategyData.strategy == "Wait a Lunar Cycle" && decisionStrategyData.innerAuthority == "N") {
+            return decision_strategy_eng_s3_11_4; 
+      }
     } else if (type == "s4_x_text") {
         if (decisionStrategyData.strategy == "To Respond" && decisionStrategyData.innerAuthority == "Emotional") {
           return decision_strategy_eng_s4_1_text; 
@@ -6563,7 +6603,9 @@ var decision_strategy_eng_ozet_11_2 = "";
           return decision_strategy_eng_s4_10_text; 
         } else if (decisionStrategyData.strategy == "Wait a Lunar Cycle" && decisionStrategyData.innerAuthority == "Lunar") {
           return decision_strategy_eng_s4_11_text;
-        }
+        } else if (decisionStrategyData.strategy == "Wait a Lunar Cycle" && decisionStrategyData.innerAuthority == "N") {
+          return decision_strategy_eng_s4_11_text; 
+      }
     } else if (type == "s4_x_1") {
         if (decisionStrategyData.strategy == "To Respond" && decisionStrategyData.innerAuthority == "Emotional") {
           return decision_strategy_eng_s4_1_1; 
@@ -6587,7 +6629,9 @@ var decision_strategy_eng_ozet_11_2 = "";
           return decision_strategy_eng_s4_10_1; 
         } else if (decisionStrategyData.strategy == "Wait a Lunar Cycle" && decisionStrategyData.innerAuthority == "Lunar") {
           return decision_strategy_eng_s4_11_1; 
-        }
+        } else if (decisionStrategyData.strategy == "Wait a Lunar Cycle" && decisionStrategyData.innerAuthority == "N") {
+          return decision_strategy_eng_s4_11_1; 
+      }
     } else if (type == "s4_x_2") {
         if (decisionStrategyData.strategy == "To Respond" && decisionStrategyData.innerAuthority == "Emotional") {
           return decision_strategy_eng_s4_1_2; 
@@ -6611,7 +6655,9 @@ var decision_strategy_eng_ozet_11_2 = "";
           return decision_strategy_eng_s4_10_2;
         } else if (decisionStrategyData.strategy == "Wait a Lunar Cycle" && decisionStrategyData.innerAuthority == "Lunar") {
           return decision_strategy_eng_s4_11_2; 
-        }
+        } else if (decisionStrategyData.strategy == "Wait a Lunar Cycle" && decisionStrategyData.innerAuthority == "N") {
+          return decision_strategy_eng_s4_11_2; 
+      }
     } else if (type == "s4_x_3") {
         if (decisionStrategyData.strategy == "To Respond" && decisionStrategyData.innerAuthority == "Emotional") {
           return decision_strategy_eng_s4_1_3; 
@@ -6635,7 +6681,9 @@ var decision_strategy_eng_ozet_11_2 = "";
           return decision_strategy_eng_s4_10_3;
         } else if (decisionStrategyData.strategy == "Wait a Lunar Cycle" && decisionStrategyData.innerAuthority == "Lunar") {
           return decision_strategy_eng_s4_11_3; 
-        }
+        } else if (decisionStrategyData.strategy == "Wait a Lunar Cycle" && decisionStrategyData.innerAuthority == "N") {
+          return decision_strategy_eng_s4_11_3; 
+      }
     } else if (type == "s4_x_4") {
         if (decisionStrategyData.strategy == "To Respond" && decisionStrategyData.innerAuthority == "Emotional") {
           return decision_strategy_eng_s4_1_4; 
@@ -6659,7 +6707,9 @@ var decision_strategy_eng_ozet_11_2 = "";
           return decision_strategy_eng_s4_10_4; 
         } else if (decisionStrategyData.strategy == "Wait a Lunar Cycle" && decisionStrategyData.innerAuthority == "Lunar") {
           return decision_strategy_eng_s4_11_4; 
-        }
+        } else if (decisionStrategyData.strategy == "Wait a Lunar Cycle" && decisionStrategyData.innerAuthority == "N") {
+          return decision_strategy_eng_s4_11_4; 
+      }
     } else if (type == "s4_x_5") {
         if (decisionStrategyData.strategy == "To Respond" && decisionStrategyData.innerAuthority == "Emotional") {
           return decision_strategy_eng_s4_1_5; 
@@ -6683,7 +6733,9 @@ var decision_strategy_eng_ozet_11_2 = "";
           return decision_strategy_eng_s4_10_5; 
         } else if (decisionStrategyData.strategy == "Wait a Lunar Cycle" && decisionStrategyData.innerAuthority == "Lunar") {
           return decision_strategy_eng_s4_11_5; 
-        }
+        } else if (decisionStrategyData.strategy == "Wait a Lunar Cycle" && decisionStrategyData.innerAuthority == "N") {
+          return decision_strategy_eng_s4_11_5; 
+      }
     } else if (type == "s4_x_txt") {
         if (decisionStrategyData.strategy == "To Respond" && decisionStrategyData.innerAuthority == "Emotional") {
           return decision_strategy_eng_s4_1_txt; 
@@ -6707,7 +6759,9 @@ var decision_strategy_eng_ozet_11_2 = "";
           return decision_strategy_eng_s4_10_txt; 
         } else if (decisionStrategyData.strategy == "Wait a Lunar Cycle" && decisionStrategyData.innerAuthority == "Lunar") {
           return decision_strategy_eng_s4_11_txt; 
-        }
+        } else if (decisionStrategyData.strategy == "Wait a Lunar Cycle" && decisionStrategyData.innerAuthority == "N") {
+          return decision_strategy_eng_s4_11_txt; 
+      }
       } else if (type == "ozet_1") {
         if (decisionStrategyData.strategy == "To Respond" && decisionStrategyData.innerAuthority == "Emotional") {
           return decision_strategy_eng_ozet_1_1; 
@@ -6730,6 +6784,8 @@ var decision_strategy_eng_ozet_11_2 = "";
         } else if (decisionStrategyData.strategy == "To Inform" && decisionStrategyData.innerAuthority == "Ego Manifested") {
           return decision_strategy_eng_ozet_10_1; 
         } else if (decisionStrategyData.strategy == "Wait a Lunar Cycle" && decisionStrategyData.innerAuthority == "Lunar") {
+          return decision_strategy_eng_ozet_11_1; 
+        } else if (decisionStrategyData.strategy == "Wait a Lunar Cycle" && decisionStrategyData.innerAuthority == "N") {
           return decision_strategy_eng_ozet_11_1; 
         }
       } else if (type == "ozet_2") {
@@ -6754,6 +6810,8 @@ var decision_strategy_eng_ozet_11_2 = "";
         } else if (decisionStrategyData.strategy == "To Inform" && decisionStrategyData.innerAuthority == "Ego Manifested") {
           return decision_strategy_eng_ozet_10_2; 
         } else if (decisionStrategyData.strategy == "Wait a Lunar Cycle" && decisionStrategyData.innerAuthority == "Lunar") {
+          return decision_strategy_eng_ozet_11_; 
+        } else if (decisionStrategyData.strategy == "Wait a Lunar Cycle" && decisionStrategyData.innerAuthority == "N") {
           return decision_strategy_eng_ozet_11_; 
         }
       }
