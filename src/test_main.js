@@ -1657,6 +1657,639 @@ var kariyer_secim_25_plus_s7_meal_9_5 = "• Satış Verileri Analisti: Restoran
 var kariyer_secim_25_plus_s7_meal_9_6 = "• Gıda Güvenliği Analisti: Gıda güvenliği verilerini analiz ederek, hijyen standartlarının ve kalite kontrol süreçlerinin iyileştirilmesine katkıda bulunabilirsin.";
 var kariyer_secim_25_plus_s7_meal_9_7 = "• Gıda Ürünleri Veri Analisti: Gıda ürünlerinin pazar trendlerini ve müşteri tercihlerine dair verileri analiz ederek, ürün geliştirme stratejileri oluşturabilirsin.";
 
+// Eğitim ve EdTech 
+var kariyer_secim_25_plus_s7_edTech_1_1 = "Yaratıcı ve Sanatsal Kariyerler";
+var kariyer_secim_25_plus_s7_edTech_1_2 = "Eğitim ve eğitim teknolojileri sektöründe yaratıcılığını kullanabileceğin işler şunlar olabilir:";
+var kariyer_secim_25_plus_s7_edTech_1_3 = "• Eğitim İçeriği Tasarımcısı: Eğitim materyallerini, öğretici videoları, animasyonları ve dijital ders içeriklerini tasarlayarak eğitici ve ilgi çekici içerikler oluşturabilirsin.";
+var kariyer_secim_25_plus_s7_edTech_1_4 = "• Multimedya Eğitim Tasarımcısı: Eğitim sürecini zenginleştirecek multimedya içerikleri (grafikler, animasyonlar, videolar vb.) tasarlayarak öğrencilerin daha etkili öğrenmesini sağlayabilirsin.";
+var kariyer_secim_25_plus_s7_edTech_1_5 = "• E-Öğrenme Tasarımcısı: Çevrimiçi öğrenme platformları için etkileşimli eğitim modülleri tasarlayarak öğrencilerin dijital öğrenme deneyimlerini geliştirebilirsin.";
+var kariyer_secim_25_plus_s7_edTech_1_6 = "• Oyunlaştırma Uzmanı (Gamification Specialist): Eğitim süreçlerine oyunlaştırma yöntemlerini entegre ederek öğrencilerin ilgisini ve motivasyonunu artıracak yaratıcı çözümler geliştirebilirsin.";
+var kariyer_secim_25_plus_s7_edTech_1_1 = "";
+
+var kariyer_secim_25_plus_s7_edTech_2_1 = "";
+var kariyer_secim_25_plus_s7_edTech_2_2 = "";
+var kariyer_secim_25_plus_s7_edTech_2_3 = "";
+var kariyer_secim_25_plus_s7_edTech_2_4 = "";
+var kariyer_secim_25_plus_s7_edTech_2_5 = "";
+var kariyer_secim_25_plus_s7_edTech_2_6 = "";
+var kariyer_secim_25_plus_s7_edTech_2_7 = "";
+
+var kariyer_secim_25_plus_s7_edTech_3_1 = "";
+var kariyer_secim_25_plus_s7_edTech_3_2 = "";
+var kariyer_secim_25_plus_s7_edTech_3_3 = "";
+var kariyer_secim_25_plus_s7_edTech_3_4 = "";
+var kariyer_secim_25_plus_s7_edTech_3_5 = "";
+var kariyer_secim_25_plus_s7_edTech_3_6 = "";
+var kariyer_secim_25_plus_s7_edTech_3_7 = "";
+
+var kariyer_secim_25_plus_s7_edTech_4_1 = "";
+var kariyer_secim_25_plus_s7_edTech_4_2 = "";
+var kariyer_secim_25_plus_s7_edTech_4_3 = "";
+var kariyer_secim_25_plus_s7_edTech_4_4 = "";
+var kariyer_secim_25_plus_s7_edTech_4_5 = "";
+var kariyer_secim_25_plus_s7_edTech_4_6 = "";
+var kariyer_secim_25_plus_s7_edTech_4_7 = "";
+
+var kariyer_secim_25_plus_s7_edTech_5_1 = "";
+var kariyer_secim_25_plus_s7_edTech_5_2 = "";
+var kariyer_secim_25_plus_s7_edTech_5_3 = "";
+var kariyer_secim_25_plus_s7_edTech_5_4 = "";
+var kariyer_secim_25_plus_s7_edTech_5_5 = "";
+var kariyer_secim_25_plus_s7_edTech_5_6 = "";
+var kariyer_secim_25_plus_s7_edTech_5_7 = "";
+
+var kariyer_secim_25_plus_s7_edTech_6_1 = "";
+var kariyer_secim_25_plus_s7_edTech_6_2 = "";
+var kariyer_secim_25_plus_s7_edTech_6_3 = "";
+var kariyer_secim_25_plus_s7_edTech_6_4 = "";
+var kariyer_secim_25_plus_s7_edTech_6_5 = "";
+var kariyer_secim_25_plus_s7_edTech_6_6 = "";
+var kariyer_secim_25_plus_s7_edTech_6_7 = "";
+
+var kariyer_secim_25_plus_s7_edTech_7_1 = "";
+var kariyer_secim_25_plus_s7_edTech_7_2 = "";
+var kariyer_secim_25_plus_s7_edTech_7_3 = "";
+var kariyer_secim_25_plus_s7_edTech_7_4 = "";
+var kariyer_secim_25_plus_s7_edTech_7_5 = "";
+var kariyer_secim_25_plus_s7_edTech_7_6 = "";
+var kariyer_secim_25_plus_s7_edTech_7_7 = "";
+
+var kariyer_secim_25_plus_s7_edTech_8_1 = "";
+var kariyer_secim_25_plus_s7_edTech_8_2 = "";
+var kariyer_secim_25_plus_s7_edTech_8_3 = "";
+var kariyer_secim_25_plus_s7_edTech_8_4 = "";
+var kariyer_secim_25_plus_s7_edTech_8_5 = "";
+var kariyer_secim_25_plus_s7_edTech_8_6 = "";
+var kariyer_secim_25_plus_s7_edTech_8_7 = "";
+
+var kariyer_secim_25_plus_s7_edTech_9_1 = "";
+var kariyer_secim_25_plus_s7_edTech_9_2 = "";
+var kariyer_secim_25_plus_s7_edTech_9_3 = "";
+var kariyer_secim_25_plus_s7_edTech_9_4 = "";
+var kariyer_secim_25_plus_s7_edTech_9_5 = "";
+var kariyer_secim_25_plus_s7_edTech_9_6 = "";
+var kariyer_secim_25_plus_s7_edTech_9_7 = "";
+
+// Finans ve FinTech 
+var kariyer_secim_25_plus_s7_finTech_1_1 = "Yaratıcı ve Sanatsal Kariyerler";
+var kariyer_secim_25_plus_s7_finTech_1_2 = "Finans ve FinTech sektöründe yaratıcılığını kullanabileceğin işler şunlar olabilir:";
+var kariyer_secim_25_plus_s7_finTech_1_3 = "•	FinTech UI/UX Tasarımcısı: FinTech uygulamaları ve dijital ödeme sistemlerinin kullanıcı dostu arayüzlerini tasarlayarak kullanıcı deneyimini iyileştirebilirsin.";
+var kariyer_secim_25_plus_s7_finTech_1_4 = "•	Dijital Finansal İçerik Tasarımcısı: Finansal içerikler, infografikler, eğitim materyalleri ve reklam kampanyaları hazırlayarak kullanıcıları finansal okuryazarlık konusunda bilgilendirebilirsin.";
+var kariyer_secim_25_plus_s7_finTech_1_5 = "•	Finansal Eğitim Video Yapımcısı: Finansal eğitimleri ve online kursları yaratıcı bir şekilde video formatında hazırlayarak öğrenmeyi eğlenceli hale getirebilirsin.";
+var kariyer_secim_25_plus_s7_finTech_1_6 = "•	Marka Tasarımcısı (FinTech): FinTech şirketlerinin markalaşma süreçlerinde kreatif çözümler üreterek şirketin dijital kimliğini güçlendirebilirsin.";
+var kariyer_secim_25_plus_s7_finTech_1_7 = "";
+
+var kariyer_secim_25_plus_s7_finTech_2_1 = "";
+var kariyer_secim_25_plus_s7_finTech_2_2 = "";
+var kariyer_secim_25_plus_s7_finTech_2_3 = "";
+var kariyer_secim_25_plus_s7_finTech_2_4 = "";
+var kariyer_secim_25_plus_s7_finTech_2_5 = "";
+var kariyer_secim_25_plus_s7_finTech_2_6 = "";
+var kariyer_secim_25_plus_s7_finTech_2_7 = "";
+
+var kariyer_secim_25_plus_s7_finTech_3_1 = "";
+var kariyer_secim_25_plus_s7_finTech_3_2 = "";
+var kariyer_secim_25_plus_s7_finTech_3_3 = "";
+var kariyer_secim_25_plus_s7_finTech_3_4 = "";
+var kariyer_secim_25_plus_s7_finTech_3_5 = "";
+var kariyer_secim_25_plus_s7_finTech_3_6 = "";
+var kariyer_secim_25_plus_s7_finTech_3_7 = "";
+
+var kariyer_secim_25_plus_s7_finTech_4_1 = "";
+var kariyer_secim_25_plus_s7_finTech_4_2 = "";
+var kariyer_secim_25_plus_s7_finTech_4_3 = "";
+var kariyer_secim_25_plus_s7_finTech_4_4 = "";
+var kariyer_secim_25_plus_s7_finTech_4_5 = "";
+var kariyer_secim_25_plus_s7_finTech_4_6 = "";
+var kariyer_secim_25_plus_s7_finTech_4_7 = "";
+
+var kariyer_secim_25_plus_s7_finTech_5_1 = "";
+var kariyer_secim_25_plus_s7_finTech_5_2 = "";
+var kariyer_secim_25_plus_s7_finTech_5_3 = "";
+var kariyer_secim_25_plus_s7_finTech_5_4 = "";
+var kariyer_secim_25_plus_s7_finTech_5_5 = "";
+var kariyer_secim_25_plus_s7_finTech_5_6 = "";
+var kariyer_secim_25_plus_s7_finTech_5_7 = "";
+
+var kariyer_secim_25_plus_s7_finTech_6_1 = "";
+var kariyer_secim_25_plus_s7_finTech_6_2 = "";
+var kariyer_secim_25_plus_s7_finTech_6_3 = "";
+var kariyer_secim_25_plus_s7_finTech_6_4 = "";
+var kariyer_secim_25_plus_s7_finTech_6_5 = "";
+var kariyer_secim_25_plus_s7_finTech_6_6 = "";
+var kariyer_secim_25_plus_s7_finTech_6_7 = "";
+
+var kariyer_secim_25_plus_s7_finTech_7_1 = "";
+var kariyer_secim_25_plus_s7_finTech_7_2 = "";
+var kariyer_secim_25_plus_s7_finTech_7_3 = "";
+var kariyer_secim_25_plus_s7_finTech_7_4 = "";
+var kariyer_secim_25_plus_s7_finTech_7_5 = "";
+var kariyer_secim_25_plus_s7_finTech_7_6 = "";
+var kariyer_secim_25_plus_s7_finTech_7_7 = "";
+
+var kariyer_secim_25_plus_s7_finTech_8_1 = "";
+var kariyer_secim_25_plus_s7_finTech_8_2 = "";
+var kariyer_secim_25_plus_s7_finTech_8_3 = "";
+var kariyer_secim_25_plus_s7_finTech_8_4 = "";
+var kariyer_secim_25_plus_s7_finTech_8_5 = "";
+var kariyer_secim_25_plus_s7_finTech_8_6 = "";
+var kariyer_secim_25_plus_s7_finTech_8_7 = "";
+
+var kariyer_secim_25_plus_s7_finTech_9_1 = "";
+var kariyer_secim_25_plus_s7_finTech_9_2 = "";
+var kariyer_secim_25_plus_s7_finTech_9_3 = "";
+var kariyer_secim_25_plus_s7_finTech_9_4 = "";
+var kariyer_secim_25_plus_s7_finTech_9_5 = "";
+var kariyer_secim_25_plus_s7_finTech_9_6 = "";
+var kariyer_secim_25_plus_s7_finTech_9_7 = "";
+
+// Enerji ve Yenilenebilir Enerji 
+var kariyer_secim_25_plus_s7_energy_1_1 = "Yaratıcı ve Sanatsal Kariyerler";
+var kariyer_secim_25_plus_s7_energy_1_2 = "Enerji ve yenilenebilir enerji sektöründe yaratıcılığını kullanabileceğin işler şunlar olabilir:";
+var kariyer_secim_25_plus_s7_energy_1_3 = "• Sürdürülebilirlik İletişimi Uzmanı: Yenilenebilir enerji projelerinin topluma tanıtılması ve farkındalık oluşturulması için yaratıcı medya içerikleri, reklam kampanyaları ve sosyal medya stratejileri geliştirebilirsin.";
+var kariyer_secim_25_plus_s7_energy_1_4 = "• Enerji Tasarımı Danışmanı: Yeşil bina tasarımı, enerji verimliliği ve sürdürülebilir yaşam alanları oluşturmak için yaratıcı projeler geliştirebilir, yenilikçi enerji çözümleri önerbilirsin.";
+var kariyer_secim_25_plus_s7_energy_1_5 = "• Enerji Eğitimi İçeriği Tasarımcısı: Enerji verimliliği, yenilenebilir enerji kaynakları ve çevre dostu yaşam tarzları hakkında eğitim materyalleri, video içerikleri ve interaktif dijital platformlar oluşturabilirsin.";
+var kariyer_secim_25_plus_s7_energy_1_6 = "• Yenilenebilir Enerji Markalaşma Uzmanı: Yenilenebilir enerji şirketlerinin marka kimliklerini güçlendirerek, çevre dostu ürün ve hizmetlerin tanıtımını yapabilirsin.";
+var kariyer_secim_25_plus_s7_energy_1_7 = "";
+
+var kariyer_secim_25_plus_s7_energy_2_1 = "";
+var kariyer_secim_25_plus_s7_energy_2_2 = "";
+var kariyer_secim_25_plus_s7_energy_2_3 = "";
+var kariyer_secim_25_plus_s7_energy_2_4 = "";
+var kariyer_secim_25_plus_s7_energy_2_5 = "";
+var kariyer_secim_25_plus_s7_energy_2_6 = "";
+var kariyer_secim_25_plus_s7_energy_2_7 = "";
+
+var kariyer_secim_25_plus_s7_energy_3_1 = "";
+var kariyer_secim_25_plus_s7_energy_3_2 = "";
+var kariyer_secim_25_plus_s7_energy_3_3 = "";
+var kariyer_secim_25_plus_s7_energy_3_4 = "";
+var kariyer_secim_25_plus_s7_energy_3_5 = "";
+var kariyer_secim_25_plus_s7_energy_3_6 = "";
+var kariyer_secim_25_plus_s7_energy_3_7 = "";
+
+var kariyer_secim_25_plus_s7_energy_4_1 = "";
+var kariyer_secim_25_plus_s7_energy_4_2 = "";
+var kariyer_secim_25_plus_s7_energy_4_3 = "";
+var kariyer_secim_25_plus_s7_energy_4_4 = "";
+var kariyer_secim_25_plus_s7_energy_4_5 = "";
+var kariyer_secim_25_plus_s7_energy_4_6 = "";
+var kariyer_secim_25_plus_s7_energy_4_7 = "";
+
+var kariyer_secim_25_plus_s7_energy_5_1 = "";
+var kariyer_secim_25_plus_s7_energy_5_2 = "";
+var kariyer_secim_25_plus_s7_energy_5_3 = "";
+var kariyer_secim_25_plus_s7_energy_5_4 = "";
+var kariyer_secim_25_plus_s7_energy_5_5 = "";
+var kariyer_secim_25_plus_s7_energy_5_6 = "";
+var kariyer_secim_25_plus_s7_energy_5_7 = "";
+
+var kariyer_secim_25_plus_s7_energy_6_1 = "";
+var kariyer_secim_25_plus_s7_energy_6_2 = "";
+var kariyer_secim_25_plus_s7_energy_6_3 = "";
+var kariyer_secim_25_plus_s7_energy_6_4 = "";
+var kariyer_secim_25_plus_s7_energy_6_5 = "";
+var kariyer_secim_25_plus_s7_energy_6_6 = "";
+var kariyer_secim_25_plus_s7_energy_6_7 = "";
+
+var kariyer_secim_25_plus_s7_energy_7_1 = "";
+var kariyer_secim_25_plus_s7_energy_7_2 = "";
+var kariyer_secim_25_plus_s7_energy_7_3 = "";
+var kariyer_secim_25_plus_s7_energy_7_4 = "";
+var kariyer_secim_25_plus_s7_energy_7_5 = "";
+var kariyer_secim_25_plus_s7_energy_7_6 = "";
+var kariyer_secim_25_plus_s7_energy_7_7 = "";
+
+var kariyer_secim_25_plus_s7_energy_8_1 = "";
+var kariyer_secim_25_plus_s7_energy_8_2 = "";
+var kariyer_secim_25_plus_s7_energy_8_3 = "";
+var kariyer_secim_25_plus_s7_energy_8_4 = "";
+var kariyer_secim_25_plus_s7_energy_8_5 = "";
+var kariyer_secim_25_plus_s7_energy_8_6 = "";
+var kariyer_secim_25_plus_s7_energy_8_7 = "";
+
+var kariyer_secim_25_plus_s7_energy_9_1 = "";
+var kariyer_secim_25_plus_s7_energy_9_2 = "";
+var kariyer_secim_25_plus_s7_energy_9_3 = "";
+var kariyer_secim_25_plus_s7_energy_9_4 = "";
+var kariyer_secim_25_plus_s7_energy_9_5 = "";
+var kariyer_secim_25_plus_s7_energy_9_6 = "";
+var kariyer_secim_25_plus_s7_energy_9_7 = "";
+
+// Danışmanlık, Koçluk ve Mentörlük
+var kariyer_secim_25_plus_s7_mentor_1_1 = "Yaratıcı ve Sanatsal Kariyerler";
+var kariyer_secim_25_plus_s7_mentor_1_2 = "Danışmanlık, koçluk ve mentorluk sektöründe yaratıcılığını kullanabileceğin işler şunlar olabilir:";
+var kariyer_secim_25_plus_s7_mentor_1_3 = "• Kariyer Koçu: Bireylerin kariyer hedeflerini belirlemeleri ve potansiyellerini en iyi şekilde kullanmaları için kişisel ve yaratıcı rehberlik sağlayabilirsin.";
+var kariyer_secim_25_plus_s7_mentor_1_4 = "• Kişisel Gelişim Eğitmeni: Bireylerin kişisel gelişim süreçlerinde, yaratıcılıklarını ve içsel potansiyellerini ortaya çıkarmalarına yardımcı olacak eğitim programları oluşturabilirsin.";
+var kariyer_secim_25_plus_s7_mentor_1_5 = "• Yaşam Koçu (Life Coach): İnsanların yaşamları üzerinde daha fazla kontrol sahibi olmalarına yardımcı olarak, onları daha tatmin edici bir yaşam sürmeye teşvik edebilirsin.";
+var kariyer_secim_25_plus_s7_mentor_1_6 = "• Eğitim ve İçerik Tasarımcısı (Koçluk ve Danışmanlık): Koçluk ve danışmanlık sürecine uygun yaratıcı eğitim materyalleri, video içerikler veya interaktif dijital platformlar tasarlayarak sürecin verimliliğini artırabilirsin.";
+var kariyer_secim_25_plus_s7_mentor_1_7 = "";
+
+var kariyer_secim_25_plus_s7_mentor_2_1 = "";
+var kariyer_secim_25_plus_s7_mentor_2_2 = "";
+var kariyer_secim_25_plus_s7_mentor_2_3 = "";
+var kariyer_secim_25_plus_s7_mentor_2_4 = "";
+var kariyer_secim_25_plus_s7_mentor_2_5 = "";
+var kariyer_secim_25_plus_s7_mentor_2_6 = "";
+var kariyer_secim_25_plus_s7_mentor_2_7 = "";
+
+var kariyer_secim_25_plus_s7_mentor_3_1 = "";
+var kariyer_secim_25_plus_s7_mentor_3_2 = "";
+var kariyer_secim_25_plus_s7_mentor_3_3 = "";
+var kariyer_secim_25_plus_s7_mentor_3_4 = "";
+var kariyer_secim_25_plus_s7_mentor_3_5 = "";
+var kariyer_secim_25_plus_s7_mentor_3_6 = "";
+var kariyer_secim_25_plus_s7_mentor_3_7 = "";
+
+var kariyer_secim_25_plus_s7_mentor_4_1 = "";
+var kariyer_secim_25_plus_s7_mentor_4_2 = "";
+var kariyer_secim_25_plus_s7_mentor_4_3 = "";
+var kariyer_secim_25_plus_s7_mentor_4_4 = "";
+var kariyer_secim_25_plus_s7_mentor_4_5 = "";
+var kariyer_secim_25_plus_s7_mentor_4_6 = "";
+var kariyer_secim_25_plus_s7_mentor_4_7 = "";
+
+var kariyer_secim_25_plus_s7_mentor_5_1 = "";
+var kariyer_secim_25_plus_s7_mentor_5_2 = "";
+var kariyer_secim_25_plus_s7_mentor_5_3 = "";
+var kariyer_secim_25_plus_s7_mentor_5_4 = "";
+var kariyer_secim_25_plus_s7_mentor_5_5 = "";
+var kariyer_secim_25_plus_s7_mentor_5_6 = "";
+var kariyer_secim_25_plus_s7_mentor_5_7 = "";
+
+var kariyer_secim_25_plus_s7_mentor_6_1 = "";
+var kariyer_secim_25_plus_s7_mentor_6_2 = "";
+var kariyer_secim_25_plus_s7_mentor_6_3 = "";
+var kariyer_secim_25_plus_s7_mentor_6_4 = "";
+var kariyer_secim_25_plus_s7_mentor_6_5 = "";
+var kariyer_secim_25_plus_s7_mentor_6_6 = "";
+var kariyer_secim_25_plus_s7_mentor_6_7 = "";
+
+var kariyer_secim_25_plus_s7_mentor_7_1 = "";
+var kariyer_secim_25_plus_s7_mentor_7_2 = "";
+var kariyer_secim_25_plus_s7_mentor_7_3 = "";
+var kariyer_secim_25_plus_s7_mentor_7_4 = "";
+var kariyer_secim_25_plus_s7_mentor_7_5 = "";
+var kariyer_secim_25_plus_s7_mentor_7_6 = "";
+var kariyer_secim_25_plus_s7_mentor_7_7 = "";
+
+var kariyer_secim_25_plus_s7_mentor_8_1 = "";
+var kariyer_secim_25_plus_s7_mentor_8_2 = "";
+var kariyer_secim_25_plus_s7_mentor_8_3 = "";
+var kariyer_secim_25_plus_s7_mentor_8_4 = "";
+var kariyer_secim_25_plus_s7_mentor_8_5 = "";
+var kariyer_secim_25_plus_s7_mentor_8_6 = "";
+var kariyer_secim_25_plus_s7_mentor_8_7 = "";
+
+var kariyer_secim_25_plus_s7_mentor_9_1 = "";
+var kariyer_secim_25_plus_s7_mentor_9_2 = "";
+var kariyer_secim_25_plus_s7_mentor_9_3 = "";
+var kariyer_secim_25_plus_s7_mentor_9_4 = "";
+var kariyer_secim_25_plus_s7_mentor_9_5 = "";
+var kariyer_secim_25_plus_s7_mentor_9_6 = "";
+var kariyer_secim_25_plus_s7_mentor_9_7 = "";
+
+// Turizm ve Misafirperverlik
+var kariyer_secim_25_plus_s7_tourism_1_1 = "Yaratıcı ve Sanatsal Kariyerler";
+var kariyer_secim_25_plus_s7_tourism_1_2 = "Turizm ve misafirperverlik sektöründe yaratıcılığını kullanabileceğin işler şunlar olabilir:";
+var kariyer_secim_25_plus_s7_tourism_1_3 = "•	Turizm İçeriği Tasarımcısı: Seyahat blogları, turizm broşürleri, reklam materyalleri, dijital platformlar için içerikler tasarlayarak destinasyonların tanıtımına katkı sağlayabilirsin.";
+var kariyer_secim_25_plus_s7_tourism_1_4 = "•	Turizm Fotoğrafçısı/Videografi: Turistik yerlerin, otellerin veya etkinliklerin tanıtımını yapmak amacıyla fotoğraf ve video içerikleri hazırlayabilir, görsel anlatım yoluyla seyahat deneyimlerini aktarabilirsin.";
+var kariyer_secim_25_plus_s7_tourism_1_5 = "•	Deneyim Tasarımcısı (Experience Designer): Müşterilere unutulmaz turistik deneyimler sunmak için oteller, tatil köyleri veya turlar için yaratıcı programlar, etkinlikler ve temalar tasarlayabilirsin.";
+var kariyer_secim_25_plus_s7_tourism_1_6 = "•	Seyahat Yazarı: Seyahat deneyimlerini ve destinasyonları yazılı içeriklerde anlatabilir, seyahat rehberleri veya bloglar aracılığıyla geniş kitlelere ulaşabilirsin.";
+var kariyer_secim_25_plus_s7_tourism_1_7 = "";
+
+var kariyer_secim_25_plus_s7_tourism_2_1 = "";
+var kariyer_secim_25_plus_s7_tourism_2_2 = "";
+var kariyer_secim_25_plus_s7_tourism_2_3 = "";
+var kariyer_secim_25_plus_s7_tourism_2_4 = "";
+var kariyer_secim_25_plus_s7_tourism_2_5 = "";
+var kariyer_secim_25_plus_s7_tourism_2_6 = "";
+var kariyer_secim_25_plus_s7_tourism_2_7 = "";
+
+var kariyer_secim_25_plus_s7_tourism_3_1 = "";
+var kariyer_secim_25_plus_s7_tourism_3_2 = "";
+var kariyer_secim_25_plus_s7_tourism_3_3 = "";
+var kariyer_secim_25_plus_s7_tourism_3_4 = "";
+var kariyer_secim_25_plus_s7_tourism_3_5 = "";
+var kariyer_secim_25_plus_s7_tourism_3_6 = "";
+var kariyer_secim_25_plus_s7_tourism_3_7 = "";
+
+var kariyer_secim_25_plus_s7_tourism_4_1 = "";
+var kariyer_secim_25_plus_s7_tourism_4_2 = "";
+var kariyer_secim_25_plus_s7_tourism_4_3 = "";
+var kariyer_secim_25_plus_s7_tourism_4_4 = "";
+var kariyer_secim_25_plus_s7_tourism_4_5 = "";
+var kariyer_secim_25_plus_s7_tourism_4_6 = "";
+var kariyer_secim_25_plus_s7_tourism_4_7 = "";
+
+var kariyer_secim_25_plus_s7_tourism_5_1 = "";
+var kariyer_secim_25_plus_s7_tourism_5_2 = "";
+var kariyer_secim_25_plus_s7_tourism_5_3 = "";
+var kariyer_secim_25_plus_s7_tourism_5_4 = "";
+var kariyer_secim_25_plus_s7_tourism_5_5 = "";
+var kariyer_secim_25_plus_s7_tourism_5_6 = "";
+var kariyer_secim_25_plus_s7_tourism_5_7 = "";
+
+var kariyer_secim_25_plus_s7_tourism_6_1 = "";
+var kariyer_secim_25_plus_s7_tourism_6_2 = "";
+var kariyer_secim_25_plus_s7_tourism_6_3 = "";
+var kariyer_secim_25_plus_s7_tourism_6_4 = "";
+var kariyer_secim_25_plus_s7_tourism_6_5 = "";
+var kariyer_secim_25_plus_s7_tourism_6_6 = "";
+var kariyer_secim_25_plus_s7_tourism_6_7 = "";
+
+var kariyer_secim_25_plus_s7_tourism_7_1 = "";
+var kariyer_secim_25_plus_s7_tourism_7_2 = "";
+var kariyer_secim_25_plus_s7_tourism_7_3 = "";
+var kariyer_secim_25_plus_s7_tourism_7_4 = "";
+var kariyer_secim_25_plus_s7_tourism_7_5 = "";
+var kariyer_secim_25_plus_s7_tourism_7_6 = "";
+var kariyer_secim_25_plus_s7_tourism_7_7 = "";
+
+var kariyer_secim_25_plus_s7_tourism_8_1 = "";
+var kariyer_secim_25_plus_s7_tourism_8_2 = "";
+var kariyer_secim_25_plus_s7_tourism_8_3 = "";
+var kariyer_secim_25_plus_s7_tourism_8_4 = "";
+var kariyer_secim_25_plus_s7_tourism_8_5 = "";
+var kariyer_secim_25_plus_s7_tourism_8_6 = "";
+var kariyer_secim_25_plus_s7_tourism_8_7 = "";
+
+var kariyer_secim_25_plus_s7_tourism_9_1 = "";
+var kariyer_secim_25_plus_s7_tourism_9_2 = "";
+var kariyer_secim_25_plus_s7_tourism_9_3 = "";
+var kariyer_secim_25_plus_s7_tourism_9_4 = "";
+var kariyer_secim_25_plus_s7_tourism_9_5 = "";
+var kariyer_secim_25_plus_s7_tourism_9_6 = "";
+var kariyer_secim_25_plus_s7_tourism_9_7 = "";
+
+// Tarım ve Tarım Teknolojileri (AgroTech)
+var kariyer_secim_25_plus_s7_agroTech_1_1 = "Yaratıcı ve Sanatsal Kariyerler";
+var kariyer_secim_25_plus_s7_agroTech_1_2 = "Tarım ve tarım teknolojileri sektöründe yaratıcılığını kullanabileceğin işler şunlar olabilir:";
+var kariyer_secim_25_plus_s7_agroTech_1_3 = "• Tarım İçeriği Yaratıcıları: Çiftçiler ve tarım sektörü profesyonelleri için yaratıcı eğitim içerikleri, blog yazıları, video serileri ve infografikler hazırlayarak, bilgiyi görsel ve yazılı yollarla aktarabilirsin.";
+var kariyer_secim_25_plus_s7_agroTech_1_4 = "• Tarım Teknolojileri Markalaşma Uzmanı: Tarım sektörü odaklı ürün ve hizmetlerin marka stratejilerini geliştirerek, hedef kitleye yönelik etkili kampanyalar oluşturabilirsin.";
+var kariyer_secim_25_plus_s7_agroTech_1_5 = "• Sosyal Medya Yöneticisi (Tarım): Tarım sektöründeki ürünlerin dijital platformlarda tanıtılmasına yardımcı olarak, sosyal medya üzerinden bilgi ve ürün satışı yapabilirsin.";
+var kariyer_secim_25_plus_s7_agroTech_1_6 = "• Gıda Tasarımcısı: Tarım ürünlerinin ambalaj tasarımlarını geliştirebilir, ürünlerin daha çekici hale gelmesine yönelik görsel çözümler sunabilirsin.";
+var kariyer_secim_25_plus_s7_agroTech_1_7 = "";
+
+var kariyer_secim_25_plus_s7_agroTech_2_1 = "";
+var kariyer_secim_25_plus_s7_agroTech_2_2 = "";
+var kariyer_secim_25_plus_s7_agroTech_2_3 = "";
+var kariyer_secim_25_plus_s7_agroTech_2_4 = "";
+var kariyer_secim_25_plus_s7_agroTech_2_5 = "";
+var kariyer_secim_25_plus_s7_agroTech_2_6 = "";
+var kariyer_secim_25_plus_s7_agroTech_2_7 = "";
+
+var kariyer_secim_25_plus_s7_agroTech_3_1 = "";
+var kariyer_secim_25_plus_s7_agroTech_3_2 = "";
+var kariyer_secim_25_plus_s7_agroTech_3_3 = "";
+var kariyer_secim_25_plus_s7_agroTech_3_4 = "";
+var kariyer_secim_25_plus_s7_agroTech_3_5 = "";
+var kariyer_secim_25_plus_s7_agroTech_3_6 = "";
+var kariyer_secim_25_plus_s7_agroTech_3_7 = "";
+
+var kariyer_secim_25_plus_s7_agroTech_4_1 = "";
+var kariyer_secim_25_plus_s7_agroTech_4_2 = "";
+var kariyer_secim_25_plus_s7_agroTech_4_3 = "";
+var kariyer_secim_25_plus_s7_agroTech_4_4 = "";
+var kariyer_secim_25_plus_s7_agroTech_4_5 = "";
+var kariyer_secim_25_plus_s7_agroTech_4_6 = "";
+var kariyer_secim_25_plus_s7_agroTech_4_7 = "";
+
+var kariyer_secim_25_plus_s7_agroTech_5_1 = "";
+var kariyer_secim_25_plus_s7_agroTech_5_2 = "";
+var kariyer_secim_25_plus_s7_agroTech_5_3 = "";
+var kariyer_secim_25_plus_s7_agroTech_5_4 = "";
+var kariyer_secim_25_plus_s7_agroTech_5_5 = "";
+var kariyer_secim_25_plus_s7_agroTech_5_6 = "";
+var kariyer_secim_25_plus_s7_agroTech_5_7 = "";
+
+var kariyer_secim_25_plus_s7_agroTech_6_1 = "";
+var kariyer_secim_25_plus_s7_agroTech_6_2 = "";
+var kariyer_secim_25_plus_s7_agroTech_6_3 = "";
+var kariyer_secim_25_plus_s7_agroTech_6_4 = "";
+var kariyer_secim_25_plus_s7_agroTech_6_5 = "";
+var kariyer_secim_25_plus_s7_agroTech_6_6 = "";
+var kariyer_secim_25_plus_s7_agroTech_6_7 = "";
+
+var kariyer_secim_25_plus_s7_agroTech_7_1 = "";
+var kariyer_secim_25_plus_s7_agroTech_7_2 = "";
+var kariyer_secim_25_plus_s7_agroTech_7_3 = "";
+var kariyer_secim_25_plus_s7_agroTech_7_4 = "";
+var kariyer_secim_25_plus_s7_agroTech_7_5 = "";
+var kariyer_secim_25_plus_s7_agroTech_7_6 = "";
+var kariyer_secim_25_plus_s7_agroTech_7_7 = "";
+
+var kariyer_secim_25_plus_s7_agroTech_8_1 = "";
+var kariyer_secim_25_plus_s7_agroTech_8_2 = "";
+var kariyer_secim_25_plus_s7_agroTech_8_3 = "";
+var kariyer_secim_25_plus_s7_agroTech_8_4 = "";
+var kariyer_secim_25_plus_s7_agroTech_8_5 = "";
+var kariyer_secim_25_plus_s7_agroTech_8_6 = "";
+var kariyer_secim_25_plus_s7_agroTech_8_7 = "";
+
+var kariyer_secim_25_plus_s7_agroTech_9_1 = "";
+var kariyer_secim_25_plus_s7_agroTech_9_2 = "";
+var kariyer_secim_25_plus_s7_agroTech_9_3 = "";
+var kariyer_secim_25_plus_s7_agroTech_9_4 = "";
+var kariyer_secim_25_plus_s7_agroTech_9_5 = "";
+var kariyer_secim_25_plus_s7_agroTech_9_6 = "";
+var kariyer_secim_25_plus_s7_agroTech_9_7 = "";
+
+// Lojistik ve Ulaşım 
+var kariyer_secim_25_plus_s7_logistic_1_1 = "Yaratıcı ve Sanatsal Kariyerler";
+var kariyer_secim_25_plus_s7_logistic_1_2 = "Lojistik ve ulaşım sektöründe yaratıcı becerilerini kullanabileceğin işler şunlar olabilir:";
+var kariyer_secim_25_plus_s7_logistic_1_3 = "• Lojistik İçeriği Tasarımcısı: Lojistik süreçler ve taşıma hizmetlerinin tanıtımını yapmak için görsel ve yazılı içerikler tasarlayabilir, infografikler, reklam materyalleri ve dijital içerikler oluşturabilirsin.";
+var kariyer_secim_25_plus_s7_logistic_1_4 = "• Paketleme Tasarımcısı: Taşıma ve lojistik süreçlerinde ürünlerin korunması için yaratıcı paketleme çözümleri geliştirebilir, lojistik ve sürdürülebilirlik stratejilerini göz önünde bulundurabilirsin.";
+var kariyer_secim_25_plus_s7_logistic_1_5 = "• Dijital Pazarlama Uzmanı (Lojistik): Lojistik firmalarının dijital pazarlama stratejilerini geliştirebilir, SEO, dijital reklamlar ve sosyal medya platformları üzerinden müşteri ilişkileri kurabilir ve tanıtım yapabilirsin.";
+var kariyer_secim_25_plus_s7_logistic_1_6 = "• Görsel İletişim ve Bilgilendirme Tasarımcısı: Trafik yönetimi ve şehir içi ulaşım için bilgilendirme ve yönlendirme işaretleri, harita ve görsel materyaller tasarlayarak şehir içi ulaşımda navigasyon çözümleri geliştirebilirsin.";
+var kariyer_secim_25_plus_s7_logistic_1_7 = "";
+
+var kariyer_secim_25_plus_s7_logistic_2_1 = "";
+var kariyer_secim_25_plus_s7_logistic_2_2 = "";
+var kariyer_secim_25_plus_s7_logistic_2_3 = "";
+var kariyer_secim_25_plus_s7_logistic_2_4 = "";
+var kariyer_secim_25_plus_s7_logistic_2_5 = "";
+var kariyer_secim_25_plus_s7_logistic_2_6 = "";
+var kariyer_secim_25_plus_s7_logistic_2_7 = "";
+
+var kariyer_secim_25_plus_s7_logistic_3_1 = "";
+var kariyer_secim_25_plus_s7_logistic_3_2 = "";
+var kariyer_secim_25_plus_s7_logistic_3_3 = "";
+var kariyer_secim_25_plus_s7_logistic_3_4 = "";
+var kariyer_secim_25_plus_s7_logistic_3_5 = "";
+var kariyer_secim_25_plus_s7_logistic_3_6 = "";
+var kariyer_secim_25_plus_s7_logistic_3_7 = "";
+
+var kariyer_secim_25_plus_s7_logistic_4_1 = "";
+var kariyer_secim_25_plus_s7_logistic_4_2 = "";
+var kariyer_secim_25_plus_s7_logistic_4_3 = "";
+var kariyer_secim_25_plus_s7_logistic_4_4 = "";
+var kariyer_secim_25_plus_s7_logistic_4_5 = "";
+var kariyer_secim_25_plus_s7_logistic_4_6 = "";
+var kariyer_secim_25_plus_s7_logistic_4_7 = "";
+
+var kariyer_secim_25_plus_s7_logistic_5_1 = "";
+var kariyer_secim_25_plus_s7_logistic_5_2 = "";
+var kariyer_secim_25_plus_s7_logistic_5_3 = "";
+var kariyer_secim_25_plus_s7_logistic_5_4 = "";
+var kariyer_secim_25_plus_s7_logistic_5_5 = "";
+var kariyer_secim_25_plus_s7_logistic_5_6 = "";
+var kariyer_secim_25_plus_s7_logistic_5_7 = "";
+
+var kariyer_secim_25_plus_s7_logistic_6_1 = "";
+var kariyer_secim_25_plus_s7_logistic_6_2 = "";
+var kariyer_secim_25_plus_s7_logistic_6_3 = "";
+var kariyer_secim_25_plus_s7_logistic_6_4 = "";
+var kariyer_secim_25_plus_s7_logistic_6_5 = "";
+var kariyer_secim_25_plus_s7_logistic_6_6 = "";
+var kariyer_secim_25_plus_s7_logistic_6_7 = "";
+
+var kariyer_secim_25_plus_s7_logistic_7_1 = "";
+var kariyer_secim_25_plus_s7_logistic_7_2 = "";
+var kariyer_secim_25_plus_s7_logistic_7_3 = "";
+var kariyer_secim_25_plus_s7_logistic_7_4 = "";
+var kariyer_secim_25_plus_s7_logistic_7_5 = "";
+var kariyer_secim_25_plus_s7_logistic_7_6 = "";
+var kariyer_secim_25_plus_s7_logistic_7_7 = "";
+
+var kariyer_secim_25_plus_s7_logistic_8_1 = "";
+var kariyer_secim_25_plus_s7_logistic_8_2 = "";
+var kariyer_secim_25_plus_s7_logistic_8_3 = "";
+var kariyer_secim_25_plus_s7_logistic_8_4 = "";
+var kariyer_secim_25_plus_s7_logistic_8_5 = "";
+var kariyer_secim_25_plus_s7_logistic_8_6 = "";
+var kariyer_secim_25_plus_s7_logistic_8_7 = "";
+
+var kariyer_secim_25_plus_s7_logistic_9_1 = "";
+var kariyer_secim_25_plus_s7_logistic_9_2 = "";
+var kariyer_secim_25_plus_s7_logistic_9_3 = "";
+var kariyer_secim_25_plus_s7_logistic_9_4 = "";
+var kariyer_secim_25_plus_s7_logistic_9_5 = "";
+var kariyer_secim_25_plus_s7_logistic_9_6 = "";
+var kariyer_secim_25_plus_s7_logistic_9_7 = "";
+
+// Medya, Yazılı ve Görsel Basın
+var kariyer_secim_25_plus_s7_media_1_1 = "";
+var kariyer_secim_25_plus_s7_media_1_2 = "";
+var kariyer_secim_25_plus_s7_media_1_3 = "";
+var kariyer_secim_25_plus_s7_media_1_4 = "";
+var kariyer_secim_25_plus_s7_media_1_5 = "";
+var kariyer_secim_25_plus_s7_media_1_6 = "";
+var kariyer_secim_25_plus_s7_media_1_7 = "";
+
+var kariyer_secim_25_plus_s7_media_2_1 = "";
+var kariyer_secim_25_plus_s7_media_2_2 = "";
+var kariyer_secim_25_plus_s7_media_2_3 = "";
+var kariyer_secim_25_plus_s7_media_2_4 = "";
+var kariyer_secim_25_plus_s7_media_2_5 = "";
+var kariyer_secim_25_plus_s7_media_2_6 = "";
+var kariyer_secim_25_plus_s7_media_2_7 = "";
+
+var kariyer_secim_25_plus_s7_media_3_1 = "";
+var kariyer_secim_25_plus_s7_media_3_2 = "";
+var kariyer_secim_25_plus_s7_media_3_3 = "";
+var kariyer_secim_25_plus_s7_media_3_4 = "";
+var kariyer_secim_25_plus_s7_media_3_5 = "";
+var kariyer_secim_25_plus_s7_media_3_6 = "";
+var kariyer_secim_25_plus_s7_media_3_7 = "";
+
+var kariyer_secim_25_plus_s7_media_4_1 = "";
+var kariyer_secim_25_plus_s7_media_4_2 = "";
+var kariyer_secim_25_plus_s7_media_5_3 = "";
+var kariyer_secim_25_plus_s7_media_5_4 = "";
+var kariyer_secim_25_plus_s7_media_5_5 = "";
+var kariyer_secim_25_plus_s7_media_5_6 = "";
+var kariyer_secim_25_plus_s7_media_5_7 = "";
+
+var kariyer_secim_25_plus_s7_media_6_1 = "";
+var kariyer_secim_25_plus_s7_media_6_2 = "";
+var kariyer_secim_25_plus_s7_media_6_3 = "";
+var kariyer_secim_25_plus_s7_media_6_4 = "";
+var kariyer_secim_25_plus_s7_media_6_5 = "";
+var kariyer_secim_25_plus_s7_media_6_6 = "";
+var kariyer_secim_25_plus_s7_media_6_7 = "";
+
+var kariyer_secim_25_plus_s7_media_7_1 = "";
+var kariyer_secim_25_plus_s7_media_7_2 = "";
+var kariyer_secim_25_plus_s7_media_7_3 = "";
+var kariyer_secim_25_plus_s7_media_7_4 = "";
+var kariyer_secim_25_plus_s7_media_7_5 = "";
+var kariyer_secim_25_plus_s7_media_7_6 = "";
+var kariyer_secim_25_plus_s7_media_7_7 = "";
+
+var kariyer_secim_25_plus_s7_media_8_1 = "";
+var kariyer_secim_25_plus_s7_media_8_2 = "";
+var kariyer_secim_25_plus_s7_media_8_3 = "";
+var kariyer_secim_25_plus_s7_media_8_4 = "";
+var kariyer_secim_25_plus_s7_media_8_5 = "";
+var kariyer_secim_25_plus_s7_media_8_6 = "";
+var kariyer_secim_25_plus_s7_media_8_7 = "";
+
+var kariyer_secim_25_plus_s7_media_9_1 = "";
+var kariyer_secim_25_plus_s7_media_9_2 = "";
+var kariyer_secim_25_plus_s7_media_9_3 = "";
+var kariyer_secim_25_plus_s7_media_9_4 = "";
+var kariyer_secim_25_plus_s7_media_9_5 = "";
+var kariyer_secim_25_plus_s7_media_9_6 = "";
+var kariyer_secim_25_plus_s7_media_9_7 = "";
+
+// Bunların Dışında Bir Şey - Genel Kariyer Alanları
+var kariyer_secim_25_plus_s7_other_9_1 = "Yaratıcı ve Sanatsal Kariyerler";
+var kariyer_secim_25_plus_s7_other_9_2 = "Yaratıcılığını kullanabileceğin, belirli bir sektöre bağlı kalmadan geniş bir yelpazede iş fırsatları sunan alanlar şunlar olabilir:";
+var kariyer_secim_25_plus_s7_other_9_3 = "•	İçerik Yaratıcılığı: Yazılı, görsel veya video içerik üretmek, farklı platformlarda özgün içerikler oluşturmak.";
+var kariyer_secim_25_plus_s7_other_9_4 = "•	Sanat Direktörlüğü: Farklı endüstrilerde görsel tasarımlar ve estetik yönleri yönlendirecek projelerde çalışmak.";
+var kariyer_secim_25_plus_s7_other_9_5 = "•	Dijital Sanatçılık: Grafik tasarım, dijital çizimler ve multimedya içeriği oluşturmak.";
+var kariyer_secim_25_plus_s7_other_9_6 = "•	Moda ve Tasarım: Kendi tasarımlarını yaratmak, butik koleksiyonlar hazırlamak veya tasarım ajanslarında çalışmak.";
+var kariyer_secim_25_plus_s7_other_9_7 = "";
+
+var kariyer_secim_25_plus_s7_other_9_1 = "";
+var kariyer_secim_25_plus_s7_other_9_2 = "";
+var kariyer_secim_25_plus_s7_other_9_3 = "";
+var kariyer_secim_25_plus_s7_other_9_4 = "";
+var kariyer_secim_25_plus_s7_other_9_5 = "";
+var kariyer_secim_25_plus_s7_other_9_6 = "";
+var kariyer_secim_25_plus_s7_other_9_7 = "";
+
+var kariyer_secim_25_plus_s7_other_9_1 = "";
+var kariyer_secim_25_plus_s7_other_9_2 = "";
+var kariyer_secim_25_plus_s7_other_9_3 = "";
+var kariyer_secim_25_plus_s7_other_9_4 = "";
+var kariyer_secim_25_plus_s7_other_9_5 = "";
+var kariyer_secim_25_plus_s7_other_9_6 = "";
+var kariyer_secim_25_plus_s7_other_9_7 = "";
+
+var kariyer_secim_25_plus_s7_other_9_1 = "";
+var kariyer_secim_25_plus_s7_other_9_2 = "";
+var kariyer_secim_25_plus_s7_other_9_3 = "";
+var kariyer_secim_25_plus_s7_other_9_4 = "";
+var kariyer_secim_25_plus_s7_other_9_5 = "";
+var kariyer_secim_25_plus_s7_other_9_6 = "";
+var kariyer_secim_25_plus_s7_other_9_7 = "";
+
+var kariyer_secim_25_plus_s7_other_9_1 = "";
+var kariyer_secim_25_plus_s7_other_9_2 = "";
+var kariyer_secim_25_plus_s7_other_9_3 = "";
+var kariyer_secim_25_plus_s7_other_9_4 = "";
+var kariyer_secim_25_plus_s7_other_9_5 = "";
+var kariyer_secim_25_plus_s7_other_9_6 = "";
+var kariyer_secim_25_plus_s7_other_9_7 = "";
+
+var kariyer_secim_25_plus_s7_other_9_1 = "";
+var kariyer_secim_25_plus_s7_other_9_2 = "";
+var kariyer_secim_25_plus_s7_other_9_3 = "";
+var kariyer_secim_25_plus_s7_other_9_4 = "";
+var kariyer_secim_25_plus_s7_other_9_5 = "";
+var kariyer_secim_25_plus_s7_other_9_6 = "";
+var kariyer_secim_25_plus_s7_other_9_7 = "";
+
+var kariyer_secim_25_plus_s7_other_9_1 = "";
+var kariyer_secim_25_plus_s7_other_9_2 = "";
+var kariyer_secim_25_plus_s7_other_9_3 = "";
+var kariyer_secim_25_plus_s7_other_9_4 = "";
+var kariyer_secim_25_plus_s7_other_9_5 = "";
+var kariyer_secim_25_plus_s7_other_9_6 = "";
+var kariyer_secim_25_plus_s7_other_9_7 = "";
+
 //özet
 var kariyer_secim_ozet_1_1 = "Sana En Uygun Kariyer Alanı: Yaratıcı ve Sanatsal Kariyerler";
 var kariyer_secim_ozet_1_2 = "Estetik bakış açın ve özgün fikirlerinle öne çıkabileceğin bir alandasın. Yaratıcı düşünme, görsel ifade ve kullanıcı deneyimi gibi yeteneklerini kullanarak farklı projelere hayat verebilirsin. Fikir üretmekten keyif alıyor, görsel anlatımda güçlüysen ve detaylara duyarlıysan, bu kariyer alanı tam sana göre.";
