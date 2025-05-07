@@ -1694,10 +1694,10 @@ var kariyer_secim_25_plus_s7_edTech_2_7 = "";
 
 var kariyer_secim_25_plus_s7_edTech_3_1 = "Yardım ve Sosyal Kariyerler";
 var kariyer_secim_25_plus_s7_edTech_3_2 = "Eğitim sektörü içinde sosyal ve yardımsever yönlerini kullanabileceğin işler şunlar olabilir:";
-var kariyer_secim_25_plus_s7_edTech_3_3 = "• Eğitim Teknolojisi Eğitmeni: Öğretmenlere, okul yöneticilerine veya öğrencilere teknoloji ve dijital araçları öğretmek, eğitim teknolojilerinin verimli kullanımlarını sağlamak için eğitim verebilirsin.";
-var kariyer_secim_25_plus_s7_edTech_3_4 = "• Çevrimiçi Öğrenci Destek Uzmanı: Öğrencilerin çevrimiçi öğrenme süreçlerinde karşılaştığı zorluklarla başa çıkabilmeleri için rehberlik edebilir, destek sağlayabilirsin.";
-var kariyer_secim_25_plus_s7_edTech_3_5 = "• Eğitim Teknolojisi Danışmanı: Eğitim kurumlarına dijital dönüşüm süreçlerinde rehberlik ederek en uygun eğitim teknolojilerini seçmelerine yardımcı olabilirsin.";
-var kariyer_secim_25_plus_s7_edTech_3_6 = "• Dijital Erişilebilirlik Uzmanı: Engelli bireyler için dijital eğitim materyalleri ve platformları geliştirerek, her yaştan öğrencinin erişilebilir eğitim almasını sağlayabilirsin.";
+var kariyer_secim_25_plus_s7_edTech_3_3 = "• Çevrimiçi Öğrenci Destek Uzmanı: Öğrencilerin çevrimiçi öğrenme süreçlerinde karşılaştığı zorluklarla başa çıkabilmeleri için rehberlik edebilir, destek sağlayabilirsin.";
+var kariyer_secim_25_plus_s7_edTech_3_4 = "• Eğitim Teknolojisi Danışmanı: Eğitim kurumlarına dijital dönüşüm süreçlerinde rehberlik ederek en uygun eğitim teknolojilerini seçmelerine yardımcı olabilirsin.";
+var kariyer_secim_25_plus_s7_edTech_3_5 = "• Dijital Erişilebilirlik Uzmanı: Engelli bireyler için dijital eğitim materyalleri ve platformları geliştirerek, her yaştan öğrencinin erişilebilir eğitim almasını sağlayabilirsin.";
+var kariyer_secim_25_plus_s7_edTech_3_6 = "• Eğitim Teknolojisi Eğitmeni: Öğretmenlere, okul yöneticilerine veya öğrencilere teknoloji ve dijital araçları öğretmek, eğitim teknolojilerinin verimli kullanımlarını sağlamak için eğitim verebilirsin.";
 var kariyer_secim_25_plus_s7_edTech_3_7 = "";
 
 var kariyer_secim_25_plus_s7_edTech_4_1 = "Teknik ve Mühendislik Kariyerleri";
@@ -7528,9 +7528,25 @@ var decision_strategy_eng_ozet_11_2 = "";
           return "Sağlık ve İlaç";
         } else if (kariyer_secimData == "meal") {
           return "Mutfak Sanatları";
-        } else {
-          return "Diğer";
-        }
+        } else if (kariyer_secimData == "edTech") {
+          return "Eğitim ve EdTech";
+        } else if (kariyer_secimData == "finTech") {
+          return "Finans ve FinTech";
+        } else if (kariyer_secimData == "energy") {
+          return "Enerji ve Yenilenebilir Enerji";
+        } else if (kariyer_secimData == "mentor") {
+          return "Danışmanlık, Koçluk ve Mentörlük";
+        } else if (kariyer_secimData == "tourism") {
+          return "Turizm ve Misafirperverlik";
+        } else if (kariyer_secimData == "agroTech") {
+          return "Tarım ve Tarım Teknolojileri";
+        } else if (kariyer_secimData == "logistic") {
+          return "Lojistik ve Ulaşım";
+        } else if (kariyer_secimData == "media") {
+          return "Medya, Yazılı ve Görsel Basın";
+        } else if (kariyer_secimData == "other") {
+          return "Bunların Dışında Bir Şey - Genel Kariyer";
+        } 
       } else if (type == "s2_x_2") {
         if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yaratıcı ve Sanatsal Kariyerler") {
           return kariyer_secim_25_plus_s2_1_2;
@@ -9766,9 +9782,25 @@ var decision_strategy_eng_ozet_11_2 = "";
           return "Sağlık ve İlaç";
         } else if (kariyer_secimData == "meal") {
           return "Mutfak Sanatları";
-        } else {
-          return "Diğer";
-        }
+        } else if (kariyer_secimData == "edTech") {
+          return "Eğitim ve EdTech";
+        } else if (kariyer_secimData == "finTech") {
+          return "Finans ve FinTech";
+        } else if (kariyer_secimData == "energy") {
+          return "Enerji ve Yenilenebilir Enerji";
+        } else if (kariyer_secimData == "mentor") {
+          return "Danışmanlık, Koçluk ve Mentörlük";
+        } else if (kariyer_secimData == "tourism") {
+          return "Turizm ve Misafirperverlik";
+        } else if (kariyer_secimData == "agroTech") {
+          return "Tarım ve Tarım Teknolojileri";
+        } else if (kariyer_secimData == "logistic") {
+          return "Lojistik ve Ulaşım";
+        } else if (kariyer_secimData == "media") {
+          return "Medya, Yazılı ve Görsel Basın";
+        } else if (kariyer_secimData == "other") {
+          return "Bunların Dışında Bir Şey - Genel Kariyer";
+        } 
       } else if (type == "s2_x_2") {
         if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yaratıcı ve Sanatsal Kariyerler") {
           return kariyer_secim_12_25_s2_1_2;
