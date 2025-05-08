@@ -1751,74 +1751,74 @@ var kariyer_secim_25_plus_s7_edTech_9_7 = "";
 // Finans ve FinTech 
 var kariyer_secim_25_plus_s7_finTech_1_1 = "Yaratıcı ve Sanatsal Kariyerler";
 var kariyer_secim_25_plus_s7_finTech_1_2 = "Finans ve FinTech sektöründe yaratıcılığını kullanabileceğin işler şunlar olabilir:";
-var kariyer_secim_25_plus_s7_finTech_1_3 = "•	FinTech UI/UX Tasarımcısı: FinTech uygulamaları ve dijital ödeme sistemlerinin kullanıcı dostu arayüzlerini tasarlayarak kullanıcı deneyimini iyileştirebilirsin.";
-var kariyer_secim_25_plus_s7_finTech_1_4 = "•	Finansal Eğitim Video Yapımcısı: Finansal eğitimleri ve online kursları yaratıcı bir şekilde video formatında hazırlayarak öğrenmeyi eğlenceli hale getirebilirsin.";
-var kariyer_secim_25_plus_s7_finTech_1_5 = "•	Marka Tasarımcısı (FinTech): FinTech şirketlerinin markalaşma süreçlerinde kreatif çözümler üreterek şirketin dijital kimliğini güçlendirebilirsin.";
-var kariyer_secim_25_plus_s7_finTech_1_6 = "•	Dijital Finansal İçerik Tasarımcısı: Finansal içerikler, infografikler, eğitim materyalleri ve reklam kampanyaları hazırlayarak kullanıcıları finansal okuryazarlık konusunda bilgilendirebilirsin.";
+var kariyer_secim_25_plus_s7_finTech_1_3 = "• FinTech UI/UX Tasarımcısı: FinTech uygulamaları ve dijital ödeme sistemlerinin kullanıcı dostu arayüzlerini tasarlayarak kullanıcı deneyimini iyileştirebilirsin.";
+var kariyer_secim_25_plus_s7_finTech_1_4 = "• Finansal Eğitim Video Yapımcısı: Finansal eğitimleri ve online kursları yaratıcı bir şekilde video formatında hazırlayarak öğrenmeyi eğlenceli hale getirebilirsin.";
+var kariyer_secim_25_plus_s7_finTech_1_5 = "• Marka Tasarımcısı (FinTech): FinTech şirketlerinin markalaşma süreçlerinde kreatif çözümler üreterek şirketin dijital kimliğini güçlendirebilirsin.";
+var kariyer_secim_25_plus_s7_finTech_1_6 = "• Dijital Finansal İçerik Tasarımcısı: Finansal içerikler, infografikler, eğitim materyalleri ve reklam kampanyaları hazırlayarak kullanıcıları finansal okuryazarlık konusunda bilgilendirebilirsin.";
 var kariyer_secim_25_plus_s7_finTech_1_7 = "";
 
 var kariyer_secim_25_plus_s7_finTech_2_1 = "Liderlik ve Yönetim Kariyerleri";
 var kariyer_secim_25_plus_s7_finTech_2_2 = "Finans ve FinTech sektöründe liderlik ve yönetim becerilerini kullanabileceğin işler şunlar olabilir:";
-var kariyer_secim_25_plus_s7_finTech_2_3 = "•	FinTech CEO veya COO: FinTech startup'larının yönetiminde liderlik edebilir, stratejik vizyon belirleyerek şirketin büyümesini sağlayabilirsin.";
-var kariyer_secim_25_plus_s7_finTech_2_4 = "•	Finansal Hizmetler Yöneticisi: Bankalar, sigorta şirketleri veya fintech firmalarında finansal hizmetlerin stratejik yönetimini üstlenebilirsin.";
-var kariyer_secim_25_plus_s7_finTech_2_5 = "•	Risk Yönetimi Müdürü: Finansal riskleri belirleyip analiz ederek şirketin risk yönetim stratejilerini geliştirebilirsin.";
-var kariyer_secim_25_plus_s7_finTech_2_6 = "•	Ürün Yöneticisi (FinTech): Dijital finansal ürünlerin tasarım, geliştirme ve pazara sunulma süreçlerini yöneterek, müşteri ihtiyaçlarına uygun ürünler oluşturabilirsin.";
+var kariyer_secim_25_plus_s7_finTech_2_3 = "• FinTech CEO veya COO: FinTech startup'larının yönetiminde liderlik edebilir, stratejik vizyon belirleyerek şirketin büyümesini sağlayabilirsin.";
+var kariyer_secim_25_plus_s7_finTech_2_4 = "• Finansal Hizmetler Yöneticisi: Bankalar, sigorta şirketleri veya fintech firmalarında finansal hizmetlerin stratejik yönetimini üstlenebilirsin.";
+var kariyer_secim_25_plus_s7_finTech_2_5 = "• Risk Yönetimi Müdürü: Finansal riskleri belirleyip analiz ederek şirketin risk yönetim stratejilerini geliştirebilirsin.";
+var kariyer_secim_25_plus_s7_finTech_2_6 = "• Ürün Yöneticisi (FinTech): Dijital finansal ürünlerin tasarım, geliştirme ve pazara sunulma süreçlerini yöneterek, müşteri ihtiyaçlarına uygun ürünler oluşturabilirsin.";
 var kariyer_secim_25_plus_s7_finTech_2_7 = "";
 
 var kariyer_secim_25_plus_s7_finTech_3_1 = "Yardım ve Sosyal Kariyerler";
 var kariyer_secim_25_plus_s7_finTech_3_2 = "Finans ve FinTech sektöründe sosyal ve yardımsever yönlerini kullanabileceğin işler şunlar olabilir:";
-var kariyer_secim_25_plus_s7_finTech_3_3 = "•	Finansal Danışman (Sosyal Etki): Düşük gelirli bireylere finansal planlama, tasarruf ve yatırım konusunda rehberlik edebilirsin.";
-var kariyer_secim_25_plus_s7_finTech_3_4 = "•	Dijital Finans Eğitmeni: Bireyler ve şirketler için dijital finansal araçlar ve çözümler hakkında eğitim vererek finansal okuryazarlığı artırabilirsin.";
-var kariyer_secim_25_plus_s7_finTech_3_5 = "•	Kredi Danışmanı (FinTech): Kredi almak isteyen müşterilere uygun finansal çözümler sunarak onlara rehberlik edebilirsin.";
-var kariyer_secim_25_plus_s7_finTech_3_6 = "•	Sosyal Girişimci (FinTech): Dijital finansal çözümler aracılığıyla toplumsal sorunlara çözüm üretebilir, finansal erişimi artırabilirsin.";
+var kariyer_secim_25_plus_s7_finTech_3_3 = "• Finansal Danışman (Sosyal Etki): Düşük gelirli bireylere finansal planlama, tasarruf ve yatırım konusunda rehberlik edebilirsin.";
+var kariyer_secim_25_plus_s7_finTech_3_4 = "• Dijital Finans Eğitmeni: Bireyler ve şirketler için dijital finansal araçlar ve çözümler hakkında eğitim vererek finansal okuryazarlığı artırabilirsin.";
+var kariyer_secim_25_plus_s7_finTech_3_5 = "• Kredi Danışmanı (FinTech): Kredi almak isteyen müşterilere uygun finansal çözümler sunarak onlara rehberlik edebilirsin.";
+var kariyer_secim_25_plus_s7_finTech_3_6 = "• Sosyal Girişimci (FinTech): Dijital finansal çözümler aracılığıyla toplumsal sorunlara çözüm üretebilir, finansal erişimi artırabilirsin.";
 var kariyer_secim_25_plus_s7_finTech_3_7 = "";
 
 var kariyer_secim_25_plus_s7_finTech_4_1 = "Teknik ve Mühendislik Kariyerleri";
 var kariyer_secim_25_plus_s7_finTech_4_2 = "Finans ve FinTech sektöründe teknik ve mühendislik becerilerini kullanabileceğin işler şunlar olabilir:";
-var kariyer_secim_25_plus_s7_finTech_4_3 = "•	Yapay Zeka Mühendisi (FinTech): Yapay zeka ve makine öğrenmesi algoritmalarını kullanarak finansal analizler ve karar destek sistemleri geliştirebilirsin.";
-var kariyer_secim_25_plus_s7_finTech_4_4 = "•	Dijital Ödeme Sistemleri Geliştiricisi: Ödeme sistemleri ve dijital cüzdan uygulamaları geliştirebilir, finansal işlemleri güvenli hale getirebilirsin.";
-var kariyer_secim_25_plus_s7_finTech_4_5 = "•	Siber Güvenlik Uzmanı (FinTech): Finansal sistemlerin güvenliğini sağlayarak, dijital ödemeler ve bankacılık işlemleri için yüksek güvenlik önlemleri alabilirsin.";
-var kariyer_secim_25_plus_s7_finTech_4_6 = "•	Blockchain Geliştiricisi: Blockchain teknolojileri kullanarak finansal uygulamalar geliştirebilir, kripto para sistemleri veya dijital sözleşmeler oluşturabilirsin.";
+var kariyer_secim_25_plus_s7_finTech_4_3 = "• Yapay Zeka Mühendisi (FinTech): Yapay zeka ve makine öğrenmesi algoritmalarını kullanarak finansal analizler ve karar destek sistemleri geliştirebilirsin.";
+var kariyer_secim_25_plus_s7_finTech_4_4 = "• Dijital Ödeme Sistemleri Geliştiricisi: Ödeme sistemleri ve dijital cüzdan uygulamaları geliştirebilir, finansal işlemleri güvenli hale getirebilirsin.";
+var kariyer_secim_25_plus_s7_finTech_4_5 = "• Siber Güvenlik Uzmanı (FinTech): Finansal sistemlerin güvenliğini sağlayarak, dijital ödemeler ve bankacılık işlemleri için yüksek güvenlik önlemleri alabilirsin.";
+var kariyer_secim_25_plus_s7_finTech_4_6 = "• Blockchain Geliştiricisi: Blockchain teknolojileri kullanarak finansal uygulamalar geliştirebilir, kripto para sistemleri veya dijital sözleşmeler oluşturabilirsin.";
 var kariyer_secim_25_plus_s7_finTech_4_7 = "";
 
 var kariyer_secim_25_plus_s7_finTech_5_1 = "Satış ve İlişki Kurma Kariyerleri";
 var kariyer_secim_25_plus_s7_finTech_5_2 = "Finans ve FinTech sektöründe satış ve ilişki yönetimi becerilerini kullanabileceğin işler şunlar olabilir:";
-var kariyer_secim_25_plus_s7_finTech_5_3 = "•	FinTech Satış Uzmanı: Dijital finansal ürünler ve hizmetler satabilir, müşterilere finansal teknoloji çözümleri sunabilirsin.";
-var kariyer_secim_25_plus_s7_finTech_5_4 = "•	Finansal Ürün Satış Müdürü: Finansal ürünlerin pazarlama stratejilerini oluşturup satış ekiplerini yönetebilir, hedef kitlelere yönelik kampanyalar geliştirebilirsin.";
-var kariyer_secim_25_plus_s7_finTech_5_5 = "•	İş Geliştirme Uzmanı (FinTech): Yeni müşteri ve iş fırsatları geliştirebilir, dijital finansal çözümleri daha geniş bir müşteri kitlesine ulaştırabilirsin.";
-var kariyer_secim_25_plus_s7_finTech_5_6 = "•	Müşteri Başarı Yöneticisi (FinTech): Dijital finansal ürünlerin kullanıcılarının ürünleri etkili bir şekilde kullanmalarını sağlamak ve müşteri memnuniyetini artırmak için destek verebilirsin.";
+var kariyer_secim_25_plus_s7_finTech_5_3 = "• FinTech Satış Uzmanı: Dijital finansal ürünler ve hizmetler satabilir, müşterilere finansal teknoloji çözümleri sunabilirsin.";
+var kariyer_secim_25_plus_s7_finTech_5_4 = "• Finansal Ürün Satış Müdürü: Finansal ürünlerin pazarlama stratejilerini oluşturup satış ekiplerini yönetebilir, hedef kitlelere yönelik kampanyalar geliştirebilirsin.";
+var kariyer_secim_25_plus_s7_finTech_5_5 = "• İş Geliştirme Uzmanı (FinTech): Yeni müşteri ve iş fırsatları geliştirebilir, dijital finansal çözümleri daha geniş bir müşteri kitlesine ulaştırabilirsin.";
+var kariyer_secim_25_plus_s7_finTech_5_6 = "• Müşteri Başarı Yöneticisi (FinTech): Dijital finansal ürünlerin kullanıcılarının ürünleri etkili bir şekilde kullanmalarını sağlamak ve müşteri memnuniyetini artırmak için destek verebilirsin.";
 var kariyer_secim_25_plus_s7_finTech_5_7 = "";
 
 var kariyer_secim_25_plus_s7_finTech_6_1 = "Organizasyonel ve İdari Kariyerler";
 var kariyer_secim_25_plus_s7_finTech_6_2 = "Finans ve FinTech sektöründe organizasyon ve idari becerilerini kullanabileceğin işler şunlar olabilir:";
-var kariyer_secim_25_plus_s7_finTech_6_3 = "•	Finansal Operasyon Yöneticisi: Finansal işlemlerin günlük işleyişini organize ederek, dijital finansal çözümlerin düzgün bir şekilde çalışmasını sağlayabilirsin.";
-var kariyer_secim_25_plus_s7_finTech_6_4 = "•	Finansal Danışmanlık Asistanı: Finansal danışmanların iş süreçlerini takip edebilir, müşterilerle ilgili finansal bilgileri düzenleyebilir ve analiz edebilirsin.";
-var kariyer_secim_25_plus_s7_finTech_6_5 = "•	Finansal İdari Asistan: Finansal kurumların iç işleyişinde yer alarak, yönetici asistanlığı yapabilir, günlük idari görevleri üstlenebilirsin.";
-var kariyer_secim_25_plus_s7_finTech_6_6 = "•	İnsan Kaynakları Uzmanı (FinTech): FinTech şirketlerinde personel alımı, çalışan eğitimleri ve performans yönetimi gibi süreçleri organize edebilirsin.";
+var kariyer_secim_25_plus_s7_finTech_6_3 = "• Finansal Operasyon Yöneticisi: Finansal işlemlerin günlük işleyişini organize ederek, dijital finansal çözümlerin düzgün bir şekilde çalışmasını sağlayabilirsin.";
+var kariyer_secim_25_plus_s7_finTech_6_4 = "• Finansal Danışmanlık Asistanı: Finansal danışmanların iş süreçlerini takip edebilir, müşterilerle ilgili finansal bilgileri düzenleyebilir ve analiz edebilirsin.";
+var kariyer_secim_25_plus_s7_finTech_6_5 = "• Finansal İdari Asistan: Finansal kurumların iç işleyişinde yer alarak, yönetici asistanlığı yapabilir, günlük idari görevleri üstlenebilirsin.";
+var kariyer_secim_25_plus_s7_finTech_6_6 = "• İnsan Kaynakları Uzmanı (FinTech): FinTech şirketlerinde personel alımı, çalışan eğitimleri ve performans yönetimi gibi süreçleri organize edebilirsin.";
 var kariyer_secim_25_plus_s7_finTech_6_7 = "";
 
 var kariyer_secim_25_plus_s7_finTech_7_1 = "Yenilikçi ve Girişimci Kariyerler";
 var kariyer_secim_25_plus_s7_finTech_7_2 = "Finans ve FinTech sektöründe yenilikçi düşünceler ve girişimcilik ruhunu kullanabileceğin işler şunlar olabilir:";
-var kariyer_secim_25_plus_s7_finTech_7_3 = "•	FinTech Girişimcisi: Yeni bir dijital finansal ürün veya platform kurarak, finansal hizmetlere yenilikçi çözümler getirebilirsin.";
-var kariyer_secim_25_plus_s7_finTech_7_4 = "•	Blockchain Girişimcisi: Blockchain teknolojisini kullanarak yeni finansal çözümler geliştirebilir, sektöre yenilikçi bir yaklaşım getirebilirsin.";
-var kariyer_secim_25_plus_s7_finTech_7_5 = "•	Finansal Teknoloji İnovasyon Danışmanı: Şirketlere finansal teknoloji çözümleri sunarak, finansal süreçleri daha verimli hale getirebilirsin.";
-var kariyer_secim_25_plus_s7_finTech_7_6 = "•	Dijital Ödeme Girişimcisi: Dijital ödeme sistemleri üzerine girişimler başlatarak, ödeme çözümlerine yönelik yenilikçi bir yaklaşım geliştirebilirsin.";
+var kariyer_secim_25_plus_s7_finTech_7_3 = "• FinTech Girişimcisi: Yeni bir dijital finansal ürün veya platform kurarak, finansal hizmetlere yenilikçi çözümler getirebilirsin.";
+var kariyer_secim_25_plus_s7_finTech_7_4 = "• Blockchain Girişimcisi: Blockchain teknolojisini kullanarak yeni finansal çözümler geliştirebilir, sektöre yenilikçi bir yaklaşım getirebilirsin.";
+var kariyer_secim_25_plus_s7_finTech_7_5 = "• Finansal Teknoloji İnovasyon Danışmanı: Şirketlere finansal teknoloji çözümleri sunarak, finansal süreçleri daha verimli hale getirebilirsin.";
+var kariyer_secim_25_plus_s7_finTech_7_6 = "• Dijital Ödeme Girişimcisi: Dijital ödeme sistemleri üzerine girişimler başlatarak, ödeme çözümlerine yönelik yenilikçi bir yaklaşım geliştirebilirsin.";
 var kariyer_secim_25_plus_s7_finTech_7_7 = "";
 
 var kariyer_secim_25_plus_s7_finTech_8_1 = "Öğretim ve Mentorluk Kariyerleri";
 var kariyer_secim_25_plus_s7_finTech_8_2 = "Finans ve FinTech sektöründe öğretim ve mentorluk becerilerini kullanabileceğin işler şunlar olabilir:";
-var kariyer_secim_25_plus_s7_finTech_8_3 = "•	Finansal Teknolojiler Eğitmeni: Dijital finansal sistemleri, blockchain veya fintech uygulamalarını öğretmek için eğitimler verebilirsin.";
-var kariyer_secim_25_plus_s7_finTech_8_4 = "•	Dijital Finans Eğitmeni: Çevrimiçi kurslar veya eğitim programları oluşturabilir, bireylerin dijital finansal becerilerini geliştirmelerine yardımcı olabilirsin.";
-var kariyer_secim_25_plus_s7_finTech_8_5 = "•	Mentor (FinTech): FinTech alanında yeni başlayan profesyonellere kariyer rehberliği yapabilir, sektördeki gelişmeleri onlara aktarabilirsin.";
-var kariyer_secim_25_plus_s7_finTech_8_6 = "•	Finansal Danışmanlık Koçu: Bireylerin finansal okuryazarlıklarını geliştirmek için rehberlik edebilir, yatırım stratejileri veya dijital finans araçlarını öğretici olarak sunabilirsin.";
+var kariyer_secim_25_plus_s7_finTech_8_3 = "• Finansal Teknolojiler Eğitmeni: Dijital finansal sistemleri, blockchain veya fintech uygulamalarını öğretmek için eğitimler verebilirsin.";
+var kariyer_secim_25_plus_s7_finTech_8_4 = "• Dijital Finans Eğitmeni: Çevrimiçi kurslar veya eğitim programları oluşturabilir, bireylerin dijital finansal becerilerini geliştirmelerine yardımcı olabilirsin.";
+var kariyer_secim_25_plus_s7_finTech_8_5 = "• Mentor (FinTech): FinTech alanında yeni başlayan profesyonellere kariyer rehberliği yapabilir, sektördeki gelişmeleri onlara aktarabilirsin.";
+var kariyer_secim_25_plus_s7_finTech_8_6 = "• Finansal Danışmanlık Koçu: Bireylerin finansal okuryazarlıklarını geliştirmek için rehberlik edebilir, yatırım stratejileri veya dijital finans araçlarını öğretici olarak sunabilirsin.";
 var kariyer_secim_25_plus_s7_finTech_8_7 = "";
 
 var kariyer_secim_25_plus_s7_finTech_9_1 = "Analitik ve Veri Odaklı Kariyerler";
 var kariyer_secim_25_plus_s7_finTech_9_2 = "Finans ve FinTech sektöründe analitik düşünce ve veri becerilerini kullanabileceğin işler şunlar olabilir:";
-var kariyer_secim_25_plus_s7_finTech_9_3 = "•	Finansal Veri Analisti: Finansal verileri analiz ederek, şirketlerin stratejik kararlarını destekleyebilir ve finansal süreçleri iyileştirebilirsin.";
-var kariyer_secim_25_plus_s7_finTech_9_4 = "•	Makine Öğrenmesi Uzmanı (FinTech): Finansal piyasa verilerini analiz etmek için makine öğrenmesi algoritmaları geliştirebilir, tahminsel modelleme yapabilirsin.";
-var kariyer_secim_25_plus_s7_finTech_9_5 = "•	Risk Analisti (FinTech): Finansal riskleri analiz ederek, yatırımcılar ve finansal kurumlar için stratejik risk azaltma önerileri geliştirebilirsin.";
-var kariyer_secim_25_plus_s7_finTech_9_6 = "•	Blockchain Veri Analisti: Blockchain sistemlerinden elde edilen verileri analiz ederek, finansal işlemlerin güvenliğini ve şeffaflığını artırabilirsin.";
+var kariyer_secim_25_plus_s7_finTech_9_3 = "• Finansal Veri Analisti: Finansal verileri analiz ederek, şirketlerin stratejik kararlarını destekleyebilir ve finansal süreçleri iyileştirebilirsin.";
+var kariyer_secim_25_plus_s7_finTech_9_4 = "• Makine Öğrenmesi Uzmanı (FinTech): Finansal piyasa verilerini analiz etmek için makine öğrenmesi algoritmaları geliştirebilir, tahminsel modelleme yapabilirsin.";
+var kariyer_secim_25_plus_s7_finTech_9_5 = "• Risk Analisti (FinTech): Finansal riskleri analiz ederek, yatırımcılar ve finansal kurumlar için stratejik risk azaltma önerileri geliştirebilirsin.";
+var kariyer_secim_25_plus_s7_finTech_9_6 = "• Blockchain Veri Analisti: Blockchain sistemlerinden elde edilen verileri analiz ederek, finansal işlemlerin güvenliğini ve şeffaflığını artırabilirsin.";
 var kariyer_secim_25_plus_s7_finTech_9_7 = "";
 
 // Enerji ve Yenilenebilir Enerji 
@@ -1940,7 +1940,7 @@ var kariyer_secim_25_plus_s7_mentor_6_2 = "Danışmanlık, koçluk ve mentorluk 
 var kariyer_secim_25_plus_s7_mentor_6_3 = "• Koçluk İdari Destek Uzmanı: Koçların ve danışmanların günlük operasyonlarını organize edebilir, randevular, toplantılar ve etkinliklerin düzenlenmesini sağlayabilirsin.";
 var kariyer_secim_25_plus_s7_mentor_6_4 = "• Eğitim ve Koçluk Organizasyon Yöneticisi: Eğitim ve koçluk programlarının planlanması, uygulanması ve izlenmesi için operasyonel süreçleri yönetebilirsin.";
 var kariyer_secim_25_plus_s7_mentor_6_5 = "• Koçluk Hizmetleri Operasyon Yöneticisi: Koçluk hizmetlerinin etkinliğini artırmak ve hizmet kalitesini iyileştirmek için operasyonel stratejiler geliştirebilirsin.";
-var kariyer_secim_25_plus_s7_mentor_6_6 = "•İnsan Kaynakları ve Eğitim Koordinatörü: Şirket içi eğitim programlarını ve koçluk seanslarını koordine edebilir, çalışanların gelişimini takip edebilirsin.";
+var kariyer_secim_25_plus_s7_mentor_6_6 = "• İnsan Kaynakları ve Eğitim Koordinatörü: Şirket içi eğitim programlarını ve koçluk seanslarını koordine edebilir, çalışanların gelişimini takip edebilirsin.";
 var kariyer_secim_25_plus_s7_mentor_6_7 = "";
 
 var kariyer_secim_25_plus_s7_mentor_7_1 = "Yenilikçi ve Girişimci Kariyerler";
@@ -1970,10 +1970,10 @@ var kariyer_secim_25_plus_s7_mentor_9_7 = "";
 // Turizm ve Misafirperverlik
 var kariyer_secim_25_plus_s7_tourism_1_1 = "Yaratıcı ve Sanatsal Kariyerler";
 var kariyer_secim_25_plus_s7_tourism_1_2 = "Turizm ve misafirperverlik sektöründe yaratıcılığını kullanabileceğin işler şunlar olabilir:";
-var kariyer_secim_25_plus_s7_tourism_1_3 = "•	Turizm İçeriği Tasarımcısı: Seyahat blogları, turizm broşürleri, reklam materyalleri, dijital platformlar için içerikler tasarlayarak destinasyonların tanıtımına katkı sağlayabilirsin.";
-var kariyer_secim_25_plus_s7_tourism_1_4 = "•	Deneyim Tasarımcısı (Experience Designer): Müşterilere unutulmaz turistik deneyimler sunmak için oteller, tatil köyleri veya turlar için yaratıcı programlar, etkinlikler ve temalar tasarlayabilirsin.";
-var kariyer_secim_25_plus_s7_tourism_1_5 = "•	Seyahat Yazarı: Seyahat deneyimlerini ve destinasyonları yazılı içeriklerde anlatabilir, seyahat rehberleri veya bloglar aracılığıyla geniş kitlelere ulaşabilirsin.";
-var kariyer_secim_25_plus_s7_tourism_1_6 = "•	Turizm Fotoğrafçısı/Videografi: Turistik yerlerin, otellerin veya etkinliklerin tanıtımını yapmak amacıyla fotoğraf ve video içerikleri hazırlayabilir, görsel anlatım yoluyla seyahat deneyimlerini aktarabilirsin.";
+var kariyer_secim_25_plus_s7_tourism_1_3 = "• Turizm İçeriği Tasarımcısı: Seyahat blogları, turizm broşürleri, reklam materyalleri, dijital platformlar için içerikler tasarlayarak destinasyonların tanıtımına katkı sağlayabilirsin.";
+var kariyer_secim_25_plus_s7_tourism_1_4 = "• Deneyim Tasarımcısı (Experience Designer): Müşterilere unutulmaz turistik deneyimler sunmak için oteller, tatil köyleri veya turlar için yaratıcı programlar, etkinlikler ve temalar tasarlayabilirsin.";
+var kariyer_secim_25_plus_s7_tourism_1_5 = "• Seyahat Yazarı: Seyahat deneyimlerini ve destinasyonları yazılı içeriklerde anlatabilir, seyahat rehberleri veya bloglar aracılığıyla geniş kitlelere ulaşabilirsin.";
+var kariyer_secim_25_plus_s7_tourism_1_6 = "• Turizm Fotoğrafçısı/Videografi: Turistik yerlerin, otellerin veya etkinliklerin tanıtımını yapmak amacıyla fotoğraf ve video içerikleri hazırlayabilir, görsel anlatım yoluyla seyahat deneyimlerini aktarabilirsin.";
 var kariyer_secim_25_plus_s7_tourism_1_7 = "";
 
 var kariyer_secim_25_plus_s7_tourism_2_1 = "Liderlik ve Yönetim Kariyerleri";
@@ -2025,7 +2025,7 @@ var kariyer_secim_25_plus_s7_tourism_7_6 = "• Seyahat Teknolojisi Girişimcisi
 var kariyer_secim_25_plus_s7_tourism_7_7 = "";
 
 var kariyer_secim_25_plus_s7_tourism_8_1 = "Öğretim ve Mentorluk Kariyerleri";
-var kariyer_secim_25_plus_s7_tourism_8_2 = "Turizm ve misafirperverlik sektöründe öğretim ve mentorluk becerilerini kullanabileceğin işler şunlar olabilir:";
+var kariyer_secim_25_plus_s7_tourism_8_2 = "• Turizm ve misafirperverlik sektöründe öğretim ve mentorluk becerilerini kullanabileceğin işler şunlar olabilir:";
 var kariyer_secim_25_plus_s7_tourism_8_3 = "• Turizm Eğitmeni: Turizm ve otelcilik okullarında eğitimler vererek, öğrencilere sektörle ilgili beceriler kazandırabilir, onları iş dünyasına hazırlayabilirsin.";
 var kariyer_secim_25_plus_s7_tourism_8_4 = "• Seyahat Koçu: Bireylere kişisel seyahat planları ve rotalar oluşturma konusunda yardımcı olabilir, onların seyahat deneyimlerini kişiye özel hale getirebilirsin.";
 var kariyer_secim_25_plus_s7_tourism_8_5 = "• Misafirperverlik Mentoru: Yeni başlayan profesyonellere misafirperverlik sektöründe rehberlik edebilir, sektördeki iş süreçleri ve müşteri hizmetleri konusunda bilgi verebilirsin.";
@@ -2076,7 +2076,7 @@ var kariyer_secim_25_plus_s7_agroTech_4_7 = "";
 var kariyer_secim_25_plus_s7_agroTech_5_1 = "Satış ve İlişki Kurma Kariyerleri";
 var kariyer_secim_25_plus_s7_agroTech_5_2 = "Tarım ve tarım teknolojileri sektöründe satış ve ilişki yönetimi becerilerini kullanabileceğin işler şunlar olabilir:";
 var kariyer_secim_25_plus_s7_agroTech_5_3 = "• Tarım Ürünleri Satış Yöneticisi: Tarım makineleri, gübreler, tohumlar veya bitki koruma ürünlerini satabilir, çiftçilere bu ürünleri tanıtarak satışları artırabilirsin.";
-var kariyer_secim_25_plus_s7_agroTech_5_4 = "• Tarım Teknolojileri Satış Uzmanı: Çiftçilere yönelik tarım teknolojileri, akıllı cihazlar ve yazılımlar hakkında danışmanlık yapabilir, satış süreçlerini yönetebilirsin.";
+var kariyer_secim_25_plus_s7_agroTech_5_4 = "• arım Teknolojileri Satış Uzmanı: Çiftçilere yönelik tarım teknolojileri, akıllı cihazlar ve yazılımlar hakkında danışmanlık yapabilir, satış süreçlerini yönetebilirsin.";
 var kariyer_secim_25_plus_s7_agroTech_5_5 = "• Müşteri İlişkileri Yöneticisi (Tarım): Tarım sektöründeki firmaların müşterileriyle uzun vadeli ilişkiler kurarak, müşteri memnuniyetini ve sadakatini artırabilirsin.";
 var kariyer_secim_25_plus_s7_agroTech_5_6 = "• İş Geliştirme Yöneticisi (AgriTech): Tarım ve tarım teknolojileri sektöründeki yeni iş fırsatlarını keşfedebilir, stratejik iş ortaklıkları kurarak pazarlama ve satış ağlarını genişletebilirsin.";
 var kariyer_secim_25_plus_s7_agroTech_5_7 = "";
@@ -2084,7 +2084,7 @@ var kariyer_secim_25_plus_s7_agroTech_5_7 = "";
 var kariyer_secim_25_plus_s7_agroTech_6_1 = "Organizasyonel ve İdari Kariyerler";
 var kariyer_secim_25_plus_s7_agroTech_6_2 = "Tarım ve tarım teknolojileri sektöründe organizasyon ve idari becerilerini kullanabileceğin işler şunlar olabilir:";
 var kariyer_secim_25_plus_s7_agroTech_6_3 = "• Tarım Operasyon Yöneticisi: Tarım üretim süreçlerini organize ederek, ekipleri yönlendirebilir ve verimlilik artırıcı çözümler geliştirebilirsin.";
-var kariyer_secim_25_plus_s7_agroTech_6_4 = "• Tarım Üretimi Koordinatörü: Tarım ürünlerinin üretim süreçlerini koordine edebilir, ürünlerin kalitesini kontrol edebilir ve sürdürülebilir üretim tekniklerini uygulayabilirsin.";
+var kariyer_secim_25_plus_s7_agroTech_6_4 = "• arım Üretimi Koordinatörü: Tarım ürünlerinin üretim süreçlerini koordine edebilir, ürünlerin kalitesini kontrol edebilir ve sürdürülebilir üretim tekniklerini uygulayabilirsin.";
 var kariyer_secim_25_plus_s7_agroTech_6_5 = "• İnsan Kaynakları Uzmanı (Tarım): Tarım sektöründeki işletmelerde çalışan personel alımını organize edebilir, eğitimi ve gelişimi konusunda stratejiler oluşturabilirsin.";
 var kariyer_secim_25_plus_s7_agroTech_6_6 = "• Finans Yöneticisi (Tarım): Tarım sektöründeki işletmelerin mali süreçlerini yönetebilir, bütçeleme, finansal raporlama ve verimlilik artırıcı stratejiler geliştirebilirsin.";
 var kariyer_secim_25_plus_s7_agroTech_6_7 = "";
@@ -2106,7 +2106,7 @@ var kariyer_secim_25_plus_s7_agroTech_8_6 = "• Tarım ve Tarım Teknolojileri 
 var kariyer_secim_25_plus_s7_agroTech_8_7 = "";
 
 var kariyer_secim_25_plus_s7_agroTech_9_1 = "Analitik ve Veri Odaklı Kariyerler";
-var kariyer_secim_25_plus_s7_agroTech_9_2 = "Tarım ve tarım teknolojileri sektöründe analitik düşünce ve veri becerilerini kullanabileceğin işler şunlar olabilir:";
+var kariyer_secim_25_plus_s7_agroTech_9_2 = "• Tarım ve tarım teknolojileri sektöründe analitik düşünce ve veri becerilerini kullanabileceğin işler şunlar olabilir:";
 var kariyer_secim_25_plus_s7_agroTech_9_3 = "• Tarım Veri Analisti: Tarım üretim süreçlerini analiz ederek, verimlilik artışı sağlamak için stratejik öneriler geliştirebilir ve veri odaklı çözümler sunabilirsin.";
 var kariyer_secim_25_plus_s7_agroTech_9_4 = "• Sürdürülebilir Tarım Analisti: Tarımın çevresel etkilerini analiz ederek, sürdürülebilir tarım uygulamalarının etkinliğini değerlendirebilir ve iyileştirme önerileri sunabilirsin.";
 var kariyer_secim_25_plus_s7_agroTech_9_5 = "• Tarım Piyasası Analisti: Tarım ürünlerinin fiyatlandırma, talep ve arz verilerini analiz ederek, üreticiler ve tüccarlar için pazar öngörüleri sunabilirsin.";
@@ -2262,10 +2262,10 @@ var kariyer_secim_25_plus_s7_media_9_7 = "";
 // Bunların Dışında Bir Şey - Genel Kariyer Alanları
 var kariyer_secim_25_plus_s7_other_1_1 = "Yaratıcı ve Sanatsal Kariyerler";
 var kariyer_secim_25_plus_s7_other_1_2 = "Yaratıcılığını kullanabileceğin, belirli bir sektöre bağlı kalmadan geniş bir yelpazede iş fırsatları sunan alanlar şunlar olabilir:";
-var kariyer_secim_25_plus_s7_other_1_3 = "•	İçerik Yaratıcılığı: Yazılı, görsel veya video içerik üretmek, farklı platformlarda özgün içerikler oluşturmak.";
-var kariyer_secim_25_plus_s7_other_1_4 = "•	Sanat Direktörlüğü: Farklı endüstrilerde görsel tasarımlar ve estetik yönleri yönlendirecek projelerde çalışmak.";
-var kariyer_secim_25_plus_s7_other_1_5 = "•	Dijital Sanatçılık: Grafik tasarım, dijital çizimler ve multimedya içeriği oluşturmak.";
-var kariyer_secim_25_plus_s7_other_1_6 = "•	Moda ve Tasarım: Kendi tasarımlarını yaratmak, butik koleksiyonlar hazırlamak veya tasarım ajanslarında çalışmak.";
+var kariyer_secim_25_plus_s7_other_1_3 = "• İçerik Yaratıcılığı: Yazılı, görsel veya video içerik üretmek, farklı platformlarda özgün içerikler oluşturmak.";
+var kariyer_secim_25_plus_s7_other_1_4 = "• Sanat Direktörlüğü: Farklı endüstrilerde görsel tasarımlar ve estetik yönleri yönlendirecek projelerde çalışmak.";
+var kariyer_secim_25_plus_s7_other_1_5 = "• Dijital Sanatçılık: Grafik tasarım, dijital çizimler ve multimedya içeriği oluşturmak.";
+var kariyer_secim_25_plus_s7_other_1_6 = "• Moda ve Tasarım: Kendi tasarımlarını yaratmak, butik koleksiyonlar hazırlamak veya tasarım ajanslarında çalışmak.";
 var kariyer_secim_25_plus_s7_other_1_7 = "";
 
 var kariyer_secim_25_plus_s7_other_2_1 = "Liderlik ve Yönetim Kariyerleri";
