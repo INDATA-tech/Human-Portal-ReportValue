@@ -1694,8 +1694,8 @@ var kariyer_secim_25_plus_s7_edTech_2_7 = "";
 
 var kariyer_secim_25_plus_s7_edTech_3_1 = "Yardım ve Sosyal Kariyerler";
 var kariyer_secim_25_plus_s7_edTech_3_2 = "Eğitim sektörü içinde sosyal ve yardımsever yönlerini kullanabileceğin işler şunlar olabilir:";
-var kariyer_secim_25_plus_s7_edTech_3_3 = "• Çevrimiçi Öğrenci Destek Uzmanı: Öğrencilerin çevrimiçi öğrenme süreçlerinde karşılaştığı zorluklarla başa çıkabilmeleri için rehberlik edebilir, destek sağlayabilirsin.";
-var kariyer_secim_25_plus_s7_edTech_3_4 = "• Eğitim Teknolojisi Danışmanı: Eğitim kurumlarına dijital dönüşüm süreçlerinde rehberlik ederek en uygun eğitim teknolojilerini seçmelerine yardımcı olabilirsin.";
+var kariyer_secim_25_plus_s7_edTech_3_3 = "• Eğitim Teknolojisi Danışmanı: Eğitim kurumlarına dijital dönüşüm süreçlerinde rehberlik ederek en uygun eğitim teknolojilerini seçmelerine yardımcı olabilirsin.";
+var kariyer_secim_25_plus_s7_edTech_3_4 = "• Çevrimiçi Öğrenci Destek Uzmanı: Öğrencilerin çevrimiçi öğrenme süreçlerinde karşılaştığı zorluklarla başa çıkabilmeleri için rehberlik edebilir, destek sağlayabilirsin.";
 var kariyer_secim_25_plus_s7_edTech_3_5 = "• Dijital Erişilebilirlik Uzmanı: Engelli bireyler için dijital eğitim materyalleri ve platformları geliştirerek, her yaştan öğrencinin erişilebilir eğitim almasını sağlayabilirsin.";
 var kariyer_secim_25_plus_s7_edTech_3_6 = "• Eğitim Teknolojisi Eğitmeni: Öğretmenlere, okul yöneticilerine veya öğrencilere teknoloji ve dijital araçları öğretmek, eğitim teknolojilerinin verimli kullanımlarını sağlamak için eğitim verebilirsin.";
 var kariyer_secim_25_plus_s7_edTech_3_7 = "";
@@ -1710,10 +1710,10 @@ var kariyer_secim_25_plus_s7_edTech_4_7 = "";
 
 var kariyer_secim_25_plus_s7_edTech_5_1 = "Satış ve İlişki Kurma Kariyerleri";
 var kariyer_secim_25_plus_s7_edTech_5_2 = "Eğitim ve eğitim teknolojileri sektöründe satış ve ilişki yönetimi becerilerini kullanabileceğin işler şunlar olabilir:";
-var kariyer_secim_25_plus_s7_edTech_5_3 = "• Eğitim Teknolojileri Satış Uzmanı: Eğitim kurumlarına ya da bireylere eğitim teknolojisi yazılımları ve platformları satabilir, ihtiyaçlarına uygun dijital eğitim çözümleri sunabilirsin.";
-var kariyer_secim_25_plus_s7_edTech_5_4 = "• Dijital Eğitim Pazarlama Uzmanı: Eğitim platformlarının dijital pazarlama stratejilerini geliştirebilir, çevrimiçi kampanyalarla potansiyel öğrencilere ulaşabilirsin.";
-var kariyer_secim_25_plus_s7_edTech_5_5 = "• Eğitim İçeriği Satış Müdürü: Eğitim içeriği sağlayıcıları için içerik satışlarını yönetebilir, okullara veya kurumlara uygun eğitim materyalleri sunabilirsin.";
-var kariyer_secim_25_plus_s7_edTech_5_6 = "• Kurumsal Eğitim Satış Müdürü: Büyük şirketlere kurumsal eğitim programları sunarak çalışanlarının dijital becerilerini geliştirmelerine yardımcı olabilirsin.";
+var kariyer_secim_25_plus_s7_edTech_5_3 = "• Dijital Eğitim Pazarlama Uzmanı: Eğitim platformlarının dijital pazarlama stratejilerini geliştirebilir, çevrimiçi kampanyalarla potansiyel öğrencilere ulaşabilirsin.";
+var kariyer_secim_25_plus_s7_edTech_5_4 = "• Eğitim İçeriği Satış Müdürü: Eğitim içeriği sağlayıcıları için içerik satışlarını yönetebilir, okullara veya kurumlara uygun eğitim materyalleri sunabilirsin.";
+var kariyer_secim_25_plus_s7_edTech_5_5 = "• Kurumsal Eğitim Satış Müdürü: Büyük şirketlere kurumsal eğitim programları sunarak çalışanlarının dijital becerilerini geliştirmelerine yardımcı olabilirsin.";
+var kariyer_secim_25_plus_s7_edTech_5_6 = "• Eğitim Teknolojileri Satış Uzmanı: Eğitim kurumlarına ya da bireylere eğitim teknolojisi yazılımları ve platformları satabilir, ihtiyaçlarına uygun dijital eğitim çözümleri sunabilirsin.";
 var kariyer_secim_25_plus_s7_edTech_5_7 = "";
 
 var kariyer_secim_25_plus_s7_edTech_6_1 = "Organizasyonel ve İdari Kariyerler";
@@ -1735,9 +1735,9 @@ var kariyer_secim_25_plus_s7_edTech_7_7 = "";
 var kariyer_secim_25_plus_s7_edTech_8_1 = "Öğretim ve Mentorluk Kariyerleri";
 var kariyer_secim_25_plus_s7_edTech_8_2 = "Eğitim ve eğitim teknolojileri sektöründe öğretim ve mentorluk becerilerini kullanabileceğin işler şunlar olabilir:";
 var kariyer_secim_25_plus_s7_edTech_8_3 = "• Eğitim Teknolojileri Koçu: Eğitimciler ve öğretmenler için teknoloji destekli öğretim yöntemleri konusunda rehberlik edebilir, dijital eğitim becerilerini geliştirebilirsin.";
-var kariyer_secim_25_plus_s7_edTech_8_4 = "• STEM Eğitmeni (Eğitim Teknolojisi Odaklı): Fen, teknoloji, mühendislik ve matematik alanlarında eğitim veren kurslarda öğretmenlik yapabilir, öğrencilere STEM alanlarında dijital beceriler kazandırabilirsin.";
-var kariyer_secim_25_plus_s7_edTech_8_5 = "• Dijital Öğrenme Danışmanı: Eğitimciler ve öğrenciler için dijital öğrenme stratejileri geliştirebilir, çevrimiçi eğitimin etkinliğini artırabilirsin.";
-var kariyer_secim_25_plus_s7_edTech_8_6 = "• Eğitim Mentor (Online Eğitim): Eğitimdeki kariyer gelişimi için öğrencilere rehberlik edebilir, çevrimiçi eğitim deneyimlerinin daha verimli hale gelmesini sağlayabilirsin.";
+var kariyer_secim_25_plus_s7_edTech_8_4 = "• Dijital Öğrenme Danışmanı: Eğitimciler ve öğrenciler için dijital öğrenme stratejileri geliştirebilir, çevrimiçi eğitimin etkinliğini artırabilirsin.";
+var kariyer_secim_25_plus_s7_edTech_8_5 = "• Eğitim Mentor (Online Eğitim): Eğitimdeki kariyer gelişimi için öğrencilere rehberlik edebilir, çevrimiçi eğitim deneyimlerinin daha verimli hale gelmesini sağlayabilirsin.";
+var kariyer_secim_25_plus_s7_edTech_8_6 = "• STEM Eğitmeni (Eğitim Teknolojisi Odaklı): Fen, teknoloji, mühendislik ve matematik alanlarında eğitim veren kurslarda öğretmenlik yapabilir, öğrencilere STEM alanlarında dijital beceriler kazandırabilirsin.";
 var kariyer_secim_25_plus_s7_edTech_8_7 = "";
 
 var kariyer_secim_25_plus_s7_edTech_9_1 = "Analitik ve Veri Odaklı Kariyerler";
@@ -1752,17 +1752,17 @@ var kariyer_secim_25_plus_s7_edTech_9_7 = "";
 var kariyer_secim_25_plus_s7_finTech_1_1 = "Yaratıcı ve Sanatsal Kariyerler";
 var kariyer_secim_25_plus_s7_finTech_1_2 = "Finans ve FinTech sektöründe yaratıcılığını kullanabileceğin işler şunlar olabilir:";
 var kariyer_secim_25_plus_s7_finTech_1_3 = "•	FinTech UI/UX Tasarımcısı: FinTech uygulamaları ve dijital ödeme sistemlerinin kullanıcı dostu arayüzlerini tasarlayarak kullanıcı deneyimini iyileştirebilirsin.";
-var kariyer_secim_25_plus_s7_finTech_1_4 = "•	Dijital Finansal İçerik Tasarımcısı: Finansal içerikler, infografikler, eğitim materyalleri ve reklam kampanyaları hazırlayarak kullanıcıları finansal okuryazarlık konusunda bilgilendirebilirsin.";
-var kariyer_secim_25_plus_s7_finTech_1_5 = "•	Finansal Eğitim Video Yapımcısı: Finansal eğitimleri ve online kursları yaratıcı bir şekilde video formatında hazırlayarak öğrenmeyi eğlenceli hale getirebilirsin.";
-var kariyer_secim_25_plus_s7_finTech_1_6 = "•	Marka Tasarımcısı (FinTech): FinTech şirketlerinin markalaşma süreçlerinde kreatif çözümler üreterek şirketin dijital kimliğini güçlendirebilirsin.";
+var kariyer_secim_25_plus_s7_finTech_1_4 = "•	Finansal Eğitim Video Yapımcısı: Finansal eğitimleri ve online kursları yaratıcı bir şekilde video formatında hazırlayarak öğrenmeyi eğlenceli hale getirebilirsin.";
+var kariyer_secim_25_plus_s7_finTech_1_5 = "•	Marka Tasarımcısı (FinTech): FinTech şirketlerinin markalaşma süreçlerinde kreatif çözümler üreterek şirketin dijital kimliğini güçlendirebilirsin.";
+var kariyer_secim_25_plus_s7_finTech_1_6 = "•	Dijital Finansal İçerik Tasarımcısı: Finansal içerikler, infografikler, eğitim materyalleri ve reklam kampanyaları hazırlayarak kullanıcıları finansal okuryazarlık konusunda bilgilendirebilirsin.";
 var kariyer_secim_25_plus_s7_finTech_1_7 = "";
 
 var kariyer_secim_25_plus_s7_finTech_2_1 = "Liderlik ve Yönetim Kariyerleri";
 var kariyer_secim_25_plus_s7_finTech_2_2 = "Finans ve FinTech sektöründe liderlik ve yönetim becerilerini kullanabileceğin işler şunlar olabilir:";
 var kariyer_secim_25_plus_s7_finTech_2_3 = "•	FinTech CEO veya COO: FinTech startup'larının yönetiminde liderlik edebilir, stratejik vizyon belirleyerek şirketin büyümesini sağlayabilirsin.";
-var kariyer_secim_25_plus_s7_finTech_2_4 = "•	Ürün Yöneticisi (FinTech): Dijital finansal ürünlerin tasarım, geliştirme ve pazara sunulma süreçlerini yöneterek, müşteri ihtiyaçlarına uygun ürünler oluşturabilirsin.";
-var kariyer_secim_25_plus_s7_finTech_2_5 = "•	Finansal Hizmetler Yöneticisi: Bankalar, sigorta şirketleri veya fintech firmalarında finansal hizmetlerin stratejik yönetimini üstlenebilirsin.";
-var kariyer_secim_25_plus_s7_finTech_2_6 = "•	Risk Yönetimi Müdürü: Finansal riskleri belirleyip analiz ederek şirketin risk yönetim stratejilerini geliştirebilirsin.";
+var kariyer_secim_25_plus_s7_finTech_2_4 = "•	Finansal Hizmetler Yöneticisi: Bankalar, sigorta şirketleri veya fintech firmalarında finansal hizmetlerin stratejik yönetimini üstlenebilirsin.";
+var kariyer_secim_25_plus_s7_finTech_2_5 = "•	Risk Yönetimi Müdürü: Finansal riskleri belirleyip analiz ederek şirketin risk yönetim stratejilerini geliştirebilirsin.";
+var kariyer_secim_25_plus_s7_finTech_2_6 = "•	Ürün Yöneticisi (FinTech): Dijital finansal ürünlerin tasarım, geliştirme ve pazara sunulma süreçlerini yöneterek, müşteri ihtiyaçlarına uygun ürünler oluşturabilirsin.";
 var kariyer_secim_25_plus_s7_finTech_2_7 = "";
 
 var kariyer_secim_25_plus_s7_finTech_3_1 = "Yardım ve Sosyal Kariyerler";
@@ -1775,18 +1775,18 @@ var kariyer_secim_25_plus_s7_finTech_3_7 = "";
 
 var kariyer_secim_25_plus_s7_finTech_4_1 = "Teknik ve Mühendislik Kariyerleri";
 var kariyer_secim_25_plus_s7_finTech_4_2 = "Finans ve FinTech sektöründe teknik ve mühendislik becerilerini kullanabileceğin işler şunlar olabilir:";
-var kariyer_secim_25_plus_s7_finTech_4_3 = "•	Blockchain Geliştiricisi: Blockchain teknolojileri kullanarak finansal uygulamalar geliştirebilir, kripto para sistemleri veya dijital sözleşmeler oluşturabilirsin.";
-var kariyer_secim_25_plus_s7_finTech_4_4 = "•	Yapay Zeka Mühendisi (FinTech): Yapay zeka ve makine öğrenmesi algoritmalarını kullanarak finansal analizler ve karar destek sistemleri geliştirebilirsin.";
-var kariyer_secim_25_plus_s7_finTech_4_5 = "•	Dijital Ödeme Sistemleri Geliştiricisi: Ödeme sistemleri ve dijital cüzdan uygulamaları geliştirebilir, finansal işlemleri güvenli hale getirebilirsin.";
-var kariyer_secim_25_plus_s7_finTech_4_6 = "•	Siber Güvenlik Uzmanı (FinTech): Finansal sistemlerin güvenliğini sağlayarak, dijital ödemeler ve bankacılık işlemleri için yüksek güvenlik önlemleri alabilirsin.";
+var kariyer_secim_25_plus_s7_finTech_4_3 = "•	Yapay Zeka Mühendisi (FinTech): Yapay zeka ve makine öğrenmesi algoritmalarını kullanarak finansal analizler ve karar destek sistemleri geliştirebilirsin.";
+var kariyer_secim_25_plus_s7_finTech_4_4 = "•	Dijital Ödeme Sistemleri Geliştiricisi: Ödeme sistemleri ve dijital cüzdan uygulamaları geliştirebilir, finansal işlemleri güvenli hale getirebilirsin.";
+var kariyer_secim_25_plus_s7_finTech_4_5 = "•	Siber Güvenlik Uzmanı (FinTech): Finansal sistemlerin güvenliğini sağlayarak, dijital ödemeler ve bankacılık işlemleri için yüksek güvenlik önlemleri alabilirsin.";
+var kariyer_secim_25_plus_s7_finTech_4_6 = "•	Blockchain Geliştiricisi: Blockchain teknolojileri kullanarak finansal uygulamalar geliştirebilir, kripto para sistemleri veya dijital sözleşmeler oluşturabilirsin.";
 var kariyer_secim_25_plus_s7_finTech_4_7 = "";
 
 var kariyer_secim_25_plus_s7_finTech_5_1 = "Satış ve İlişki Kurma Kariyerleri";
 var kariyer_secim_25_plus_s7_finTech_5_2 = "Finans ve FinTech sektöründe satış ve ilişki yönetimi becerilerini kullanabileceğin işler şunlar olabilir:";
 var kariyer_secim_25_plus_s7_finTech_5_3 = "•	FinTech Satış Uzmanı: Dijital finansal ürünler ve hizmetler satabilir, müşterilere finansal teknoloji çözümleri sunabilirsin.";
-var kariyer_secim_25_plus_s7_finTech_5_4 = "•	Müşteri Başarı Yöneticisi (FinTech): Dijital finansal ürünlerin kullanıcılarının ürünleri etkili bir şekilde kullanmalarını sağlamak ve müşteri memnuniyetini artırmak için destek verebilirsin.";
-var kariyer_secim_25_plus_s7_finTech_5_5 = "•	Finansal Ürün Satış Müdürü: Finansal ürünlerin pazarlama stratejilerini oluşturup satış ekiplerini yönetebilir, hedef kitlelere yönelik kampanyalar geliştirebilirsin.";
-var kariyer_secim_25_plus_s7_finTech_5_6 = "•	İş Geliştirme Uzmanı (FinTech): Yeni müşteri ve iş fırsatları geliştirebilir, dijital finansal çözümleri daha geniş bir müşteri kitlesine ulaştırabilirsin.";
+var kariyer_secim_25_plus_s7_finTech_5_4 = "•	Finansal Ürün Satış Müdürü: Finansal ürünlerin pazarlama stratejilerini oluşturup satış ekiplerini yönetebilir, hedef kitlelere yönelik kampanyalar geliştirebilirsin.";
+var kariyer_secim_25_plus_s7_finTech_5_5 = "•	İş Geliştirme Uzmanı (FinTech): Yeni müşteri ve iş fırsatları geliştirebilir, dijital finansal çözümleri daha geniş bir müşteri kitlesine ulaştırabilirsin.";
+var kariyer_secim_25_plus_s7_finTech_5_6 = "•	Müşteri Başarı Yöneticisi (FinTech): Dijital finansal ürünlerin kullanıcılarının ürünleri etkili bir şekilde kullanmalarını sağlamak ve müşteri memnuniyetini artırmak için destek verebilirsin.";
 var kariyer_secim_25_plus_s7_finTech_5_7 = "";
 
 var kariyer_secim_25_plus_s7_finTech_6_1 = "Organizasyonel ve İdari Kariyerler";
@@ -1808,9 +1808,9 @@ var kariyer_secim_25_plus_s7_finTech_7_7 = "";
 var kariyer_secim_25_plus_s7_finTech_8_1 = "Öğretim ve Mentorluk Kariyerleri";
 var kariyer_secim_25_plus_s7_finTech_8_2 = "Finans ve FinTech sektöründe öğretim ve mentorluk becerilerini kullanabileceğin işler şunlar olabilir:";
 var kariyer_secim_25_plus_s7_finTech_8_3 = "•	Finansal Teknolojiler Eğitmeni: Dijital finansal sistemleri, blockchain veya fintech uygulamalarını öğretmek için eğitimler verebilirsin.";
-var kariyer_secim_25_plus_s7_finTech_8_4 = "•	Finansal Danışmanlık Koçu: Bireylerin finansal okuryazarlıklarını geliştirmek için rehberlik edebilir, yatırım stratejileri veya dijital finans araçlarını öğretici olarak sunabilirsin.";
-var kariyer_secim_25_plus_s7_finTech_8_5 = "•	Dijital Finans Eğitmeni: Çevrimiçi kurslar veya eğitim programları oluşturabilir, bireylerin dijital finansal becerilerini geliştirmelerine yardımcı olabilirsin.";
-var kariyer_secim_25_plus_s7_finTech_8_6 = "•	Mentor (FinTech): FinTech alanında yeni başlayan profesyonellere kariyer rehberliği yapabilir, sektördeki gelişmeleri onlara aktarabilirsin.";
+var kariyer_secim_25_plus_s7_finTech_8_4 = "•	Dijital Finans Eğitmeni: Çevrimiçi kurslar veya eğitim programları oluşturabilir, bireylerin dijital finansal becerilerini geliştirmelerine yardımcı olabilirsin.";
+var kariyer_secim_25_plus_s7_finTech_8_5 = "•	Mentor (FinTech): FinTech alanında yeni başlayan profesyonellere kariyer rehberliği yapabilir, sektördeki gelişmeleri onlara aktarabilirsin.";
+var kariyer_secim_25_plus_s7_finTech_8_6 = "•	Finansal Danışmanlık Koçu: Bireylerin finansal okuryazarlıklarını geliştirmek için rehberlik edebilir, yatırım stratejileri veya dijital finans araçlarını öğretici olarak sunabilirsin.";
 var kariyer_secim_25_plus_s7_finTech_8_7 = "";
 
 var kariyer_secim_25_plus_s7_finTech_9_1 = "Analitik ve Veri Odaklı Kariyerler";
@@ -1824,10 +1824,10 @@ var kariyer_secim_25_plus_s7_finTech_9_7 = "";
 // Enerji ve Yenilenebilir Enerji 
 var kariyer_secim_25_plus_s7_energy_1_1 = "Yaratıcı ve Sanatsal Kariyerler";
 var kariyer_secim_25_plus_s7_energy_1_2 = "Enerji ve yenilenebilir enerji sektöründe yaratıcılığını kullanabileceğin işler şunlar olabilir:";
-var kariyer_secim_25_plus_s7_energy_1_3 = "• Sürdürülebilirlik İletişimi Uzmanı: Yenilenebilir enerji projelerinin topluma tanıtılması ve farkındalık oluşturulması için yaratıcı medya içerikleri, reklam kampanyaları ve sosyal medya stratejileri geliştirebilirsin.";
-var kariyer_secim_25_plus_s7_energy_1_4 = "• Enerji Tasarımı Danışmanı: Yeşil bina tasarımı, enerji verimliliği ve sürdürülebilir yaşam alanları oluşturmak için yaratıcı projeler geliştirebilir, yenilikçi enerji çözümleri önerbilirsin.";
-var kariyer_secim_25_plus_s7_energy_1_5 = "• Enerji Eğitimi İçeriği Tasarımcısı: Enerji verimliliği, yenilenebilir enerji kaynakları ve çevre dostu yaşam tarzları hakkında eğitim materyalleri, video içerikleri ve interaktif dijital platformlar oluşturabilirsin.";
-var kariyer_secim_25_plus_s7_energy_1_6 = "• Yenilenebilir Enerji Markalaşma Uzmanı: Yenilenebilir enerji şirketlerinin marka kimliklerini güçlendirerek, çevre dostu ürün ve hizmetlerin tanıtımını yapabilirsin.";
+var kariyer_secim_25_plus_s7_energy_1_3 = "• Enerji Tasarımı Danışmanı: Yeşil bina tasarımı, enerji verimliliği ve sürdürülebilir yaşam alanları oluşturmak için yaratıcı projeler geliştirebilir, yenilikçi enerji çözümleri önerbilirsin.";
+var kariyer_secim_25_plus_s7_energy_1_4 = "• Enerji Eğitimi İçeriği Tasarımcısı: Enerji verimliliği, yenilenebilir enerji kaynakları ve çevre dostu yaşam tarzları hakkında eğitim materyalleri, video içerikleri ve interaktif dijital platformlar oluşturabilirsin.";
+var kariyer_secim_25_plus_s7_energy_1_5 = "• Yenilenebilir Enerji Markalaşma Uzmanı: Yenilenebilir enerji şirketlerinin marka kimliklerini güçlendirerek, çevre dostu ürün ve hizmetlerin tanıtımını yapabilirsin.";
+var kariyer_secim_25_plus_s7_energy_1_6 = "• Sürdürülebilirlik İletişimi Uzmanı: Yenilenebilir enerji projelerinin topluma tanıtılması ve farkındalık oluşturulması için yaratıcı medya içerikleri, reklam kampanyaları ve sosyal medya stratejileri geliştirebilirsin.";
 var kariyer_secim_25_plus_s7_energy_1_7 = "";
 
 var kariyer_secim_25_plus_s7_energy_2_1 = "Liderlik ve Yönetim Kariyerleri";
@@ -1848,18 +1848,18 @@ var kariyer_secim_25_plus_s7_energy_3_7 = "";
 
 var kariyer_secim_25_plus_s7_energy_4_1 = "Teknik ve Mühendislik Kariyerleri";
 var kariyer_secim_25_plus_s7_energy_4_2 = "Enerji ve yenilenebilir enerji sektöründe teknik ve mühendislik becerilerini kullanabileceğin işler şunlar olabilir:";
-var kariyer_secim_25_plus_s7_energy_4_3 = "• Yenilenebilir Enerji Mühendisi: Güneş enerjisi, rüzgar enerjisi veya biyokütle enerjisi gibi yenilenebilir kaynaklardan enerji üretim sistemleri geliştirebilir, tesislerin verimli çalışmasını sağlayabilirsin.";
-var kariyer_secim_25_plus_s7_energy_4_4 = "• Enerji Verimliliği Mühendisi: Enerji verimliliği artırma projeleri için mühendislik çözümleri geliştirebilir, enerji tasarrufunu optimize edebilirsin.";
-var kariyer_secim_25_plus_s7_energy_4_5 = "• Elektrik Mühendisi (Yenilenebilir Enerji): Yenilenebilir enerji kaynaklarının elektrik şebekelerine entegrasyonu ve bu kaynaklardan enerji üretimi konusunda teknik çözümler geliştirebilirsin.";
-var kariyer_secim_25_plus_s7_energy_4_6 = "• Hidroelektrik Mühendisi: Hidroelektrik santralleri için tasarım, kurulum ve bakım süreçlerini yönetebilir, su kaynaklarını enerjiye dönüştürme projeleri geliştirebilirsin.";
+var kariyer_secim_25_plus_s7_energy_4_3 = "• Enerji Verimliliği Mühendisi: Enerji verimliliği artırma projeleri için mühendislik çözümleri geliştirebilir, enerji tasarrufunu optimize edebilirsin.";
+var kariyer_secim_25_plus_s7_energy_4_4 = "• Elektrik Mühendisi (Yenilenebilir Enerji): Yenilenebilir enerji kaynaklarının elektrik şebekelerine entegrasyonu ve bu kaynaklardan enerji üretimi konusunda teknik çözümler geliştirebilirsin.";
+var kariyer_secim_25_plus_s7_energy_4_5 = "• Hidroelektrik Mühendisi: Hidroelektrik santralleri için tasarım, kurulum ve bakım süreçlerini yönetebilir, su kaynaklarını enerjiye dönüştürme projeleri geliştirebilirsin.";
+var kariyer_secim_25_plus_s7_energy_4_6 = "• Yenilenebilir Enerji Mühendisi: Güneş enerjisi, rüzgar enerjisi veya biyokütle enerjisi gibi yenilenebilir kaynaklardan enerji üretim sistemleri geliştirebilir, tesislerin verimli çalışmasını sağlayabilirsin.";
 var kariyer_secim_25_plus_s7_energy_4_7 = "";
 
 var kariyer_secim_25_plus_s7_energy_5_1 = "Satış ve İlişki Kurma Kariyerleri";
 var kariyer_secim_25_plus_s7_energy_5_2 = "Enerji ve yenilenebilir enerji sektöründe satış ve ilişki yönetimi becerilerini kullanabileceğin işler şunlar olabilir:";
-var kariyer_secim_25_plus_s7_energy_5_3 = "• Yenilenebilir Enerji Satış Uzmanı: Güneş enerjisi, rüzgar enerjisi veya diğer yenilenebilir enerji çözümlerini satışa sunarak, müşterilerin ihtiyaçlarına en uygun enerji çözümlerini sağlayabilirsin.";
-var kariyer_secim_25_plus_s7_energy_5_4 = "• Sürdürülebilirlik Danışmanı: Şirketlere ve kuruluşlara enerji verimliliği ve yenilenebilir enerji çözümleri sunarak, onların çevre dostu çözümler benimsemelerini sağlayabilirsin.";
-var kariyer_secim_25_plus_s7_energy_5_5 = "• Enerji Ürünleri Satış Müdürü: Yenilenebilir enerji teknolojilerinin satışlarını yönetebilir, stratejik pazarlama kampanyaları ile hedef kitleye ulaşabilirsin.";
-var kariyer_secim_25_plus_s7_energy_5_6 = "• Kurumsal Satış Uzmanı (Enerji): Büyük şirketlere enerji yönetimi çözümleri ve yenilenebilir enerji projeleri sunarak, uzun vadeli iş ilişkileri geliştirebilirsin.";
+var kariyer_secim_25_plus_s7_energy_5_3 = "• Sürdürülebilirlik Danışmanı: Şirketlere ve kuruluşlara enerji verimliliği ve yenilenebilir enerji çözümleri sunarak, onların çevre dostu çözümler benimsemelerini sağlayabilirsin.";
+var kariyer_secim_25_plus_s7_energy_5_4 = "• Enerji Ürünleri Satış Müdürü: Yenilenebilir enerji teknolojilerinin satışlarını yönetebilir, stratejik pazarlama kampanyaları ile hedef kitleye ulaşabilirsin.";
+var kariyer_secim_25_plus_s7_energy_5_5 = "• Kurumsal Satış Uzmanı (Enerji): Büyük şirketlere enerji yönetimi çözümleri ve yenilenebilir enerji projeleri sunarak, uzun vadeli iş ilişkileri geliştirebilirsin.";
+var kariyer_secim_25_plus_s7_energy_5_6 = "• Yenilenebilir Enerji Satış Uzmanı: Güneş enerjisi, rüzgar enerjisi veya diğer yenilenebilir enerji çözümlerini satışa sunarak, müşterilerin ihtiyaçlarına en uygun enerji çözümlerini sağlayabilirsin.";
 var kariyer_secim_25_plus_s7_energy_5_7 = "";
 
 var kariyer_secim_25_plus_s7_energy_6_1 = "Organizasyonel ve İdari Kariyerler";
@@ -1889,9 +1889,9 @@ var kariyer_secim_25_plus_s7_energy_8_7 = "";
 var kariyer_secim_25_plus_s7_energy_9_1 = "Analitik ve Veri Odaklı Kariyerler";
 var kariyer_secim_25_plus_s7_energy_9_2 = "Enerji ve yenilenebilir enerji sektöründe analitik düşünce ve veri becerilerini kullanabileceğin işler şunlar olabilir:";
 var kariyer_secim_25_plus_s7_energy_9_3 = "• Enerji Veri Analisti: Yenilenebilir enerji üretimi ve tüketimi verilerini analiz ederek, enerji verimliliğini artırmak için stratejik öneriler geliştirebilirsin.";
-var kariyer_secim_25_plus_s7_energy_9_4 = "• Yenilenebilir Enerji Performans Analisti: Enerji santrallerinin ve yenilenebilir enerji sistemlerinin verimliliğini ölçerek, süreçleri optimize edebilir ve performans artırıcı çözümler geliştirebilirsin.";
-var kariyer_secim_25_plus_s7_energy_9_5 = "• Sistem Mühendisi (Enerji Verisi): Yenilenebilir enerji sistemlerinin izlenmesi ve yönetilmesi için veri sistemleri kurarak, operasyonel verimliliği artırabilirsin.";
-var kariyer_secim_25_plus_s7_energy_9_6 = "• Enerji Piyasası Analisti: Enerji piyasalarındaki değişimleri takip ederek, enerji ticareti ve fiyatlandırma stratejileri geliştirebilir, piyasaların geleceğini tahmin edebilirsin.";
+var kariyer_secim_25_plus_s7_energy_9_4 = "• Sistem Mühendisi (Enerji Verisi): Yenilenebilir enerji sistemlerinin izlenmesi ve yönetilmesi için veri sistemleri kurarak, operasyonel verimliliği artırabilirsin.";
+var kariyer_secim_25_plus_s7_energy_9_5 = "• Enerji Piyasası Analisti: Enerji piyasalarındaki değişimleri takip ederek, enerji ticareti ve fiyatlandırma stratejileri geliştirebilir, piyasaların geleceğini tahmin edebilirsin.";
+var kariyer_secim_25_plus_s7_energy_9_6 = "• Yenilenebilir Enerji Performans Analisti: Enerji santrallerinin ve yenilenebilir enerji sistemlerinin verimliliğini ölçerek, süreçleri optimize edebilir ve performans artırıcı çözümler geliştirebilirsin.";
 var kariyer_secim_25_plus_s7_energy_9_7 = "";
 
 // Danışmanlık, Koçluk ve Mentörlük
@@ -1907,16 +1907,16 @@ var kariyer_secim_25_plus_s7_mentor_2_1 = "Liderlik ve Yönetim Kariyerleri";
 var kariyer_secim_25_plus_s7_mentor_2_2 = "Danışmanlık, koçluk ve mentorluk sektöründe liderlik ve yönetim becerilerini kullanabileceğin işler şunlar olabilir:";
 var kariyer_secim_25_plus_s7_mentor_2_3 = "• Yönetici Koçu (Executive Coach): Üst düzey yöneticilere, liderlik becerilerini geliştirmek, stratejik kararlar almak ve daha etkili liderlik yapmak için koçluk hizmeti verebilirsin.";
 var kariyer_secim_25_plus_s7_mentor_2_4 = "• Kurumsal Koçluk Yöneticisi: Şirketlere koçluk ve danışmanlık hizmeti sağlayarak, organizasyonel gelişimi ve çalışan performansını iyileştirmeye yönelik stratejiler geliştirebilirsin.";
-var kariyer_secim_25_plus_s7_mentor_2_5 = "• İnsan Kaynakları Danışmanı: Organizasyonların insan kaynakları süreçlerini optimize edebilir, şirket içi liderlik, performans yönetimi ve çalışan motivasyonu konusunda rehberlik edebilirsin.";
-var kariyer_secim_25_plus_s7_mentor_2_6 = "• İş Dönüşümü Danışmanı: Şirketlerin dijital dönüşüm süreçlerine rehberlik edebilir, stratejik değişikliklere adapte olmalarına yardımcı olabilirsin.";
+var kariyer_secim_25_plus_s7_mentor_2_5 = "• İş Dönüşümü Danışmanı: Şirketlerin dijital dönüşüm süreçlerine rehberlik edebilir, stratejik değişikliklere adapte olmalarına yardımcı olabilirsin.";
+var kariyer_secim_25_plus_s7_mentor_2_6 = "• İnsan Kaynakları Danışmanı: Organizasyonların insan kaynakları süreçlerini optimize edebilir, şirket içi liderlik, performans yönetimi ve çalışan motivasyonu konusunda rehberlik edebilirsin.";
 var kariyer_secim_25_plus_s7_mentor_2_7 = "";
 
 var kariyer_secim_25_plus_s7_mentor_3_1 = "Yardım ve Sosyal Kariyerler";
 var kariyer_secim_25_plus_s7_mentor_3_2 = "Danışmanlık, koçluk ve mentorluk sektöründe sosyal ve yardımsever yönlerini kullanabileceğin işler şunlar olabilir:";
 var kariyer_secim_25_plus_s7_mentor_3_3 = "• Hayat Koçu (Life Coach): Bireylerin kişisel hedeflerine ulaşmalarına yardımcı olarak, onların yaşam kalitelerini iyileştirmeye yönelik rehberlik edebilirsin.";
-var kariyer_secim_25_plus_s7_mentor_3_4 = "• Sosyal Girişimci Koçu: Sosyal girişimcilerin etkili projeler geliştirmelerine yardımcı olarak, toplumları olumlu yönde değiştirebilecek stratejiler oluşturmalarına katkı sağlayabilirsin.";
-var kariyer_secim_25_plus_s7_mentor_3_5 = "• Aile Danışmanı: Aile içi ilişkilerdeki problemleri çözmek, aile bireylerinin sağlıklı ilişkiler kurmalarına yardımcı olmak için danışmanlık verebilirsin.";
-var kariyer_secim_25_plus_s7_mentor_3_6 = "• Sosyal Sorumluluk Koçu: Bireylerin toplumsal sorumluluklarını yerine getirmeleri ve çevresel/sosyal etki yaratmaları için rehberlik edebilirsin.";
+var kariyer_secim_25_plus_s7_mentor_3_4 = "• Aile Danışmanı: Aile içi ilişkilerdeki problemleri çözmek, aile bireylerinin sağlıklı ilişkiler kurmalarına yardımcı olmak için danışmanlık verebilirsin.";
+var kariyer_secim_25_plus_s7_mentor_3_5 = "• Sosyal Sorumluluk Koçu: Bireylerin toplumsal sorumluluklarını yerine getirmeleri ve çevresel/sosyal etki yaratmaları için rehberlik edebilirsin.";
+var kariyer_secim_25_plus_s7_mentor_3_6 = "• Sosyal Girişimci Koçu: Sosyal girişimcilerin etkili projeler geliştirmelerine yardımcı olarak, toplumları olumlu yönde değiştirebilecek stratejiler oluşturmalarına katkı sağlayabilirsin.";
 var kariyer_secim_25_plus_s7_mentor_3_7 = "";
 
 var kariyer_secim_25_plus_s7_mentor_4_1 = "Teknik ve Mühendislik Kariyerleri";
@@ -1931,8 +1931,8 @@ var kariyer_secim_25_plus_s7_mentor_5_1 = "Satış ve İlişki Kurma Kariyerleri
 var kariyer_secim_25_plus_s7_mentor_5_2 = "Danışmanlık, koçluk ve mentorluk sektöründe satış ve ilişki yönetimi becerilerini kullanabileceğin işler şunlar olabilir:";
 var kariyer_secim_25_plus_s7_mentor_5_3 = "• Kurumsal Eğitim ve Koçluk Satış Uzmanı: Kurumsal koçluk programları ve eğitim materyallerinin satışını yapabilir, şirketlerin ihtiyaçlarına yönelik çözümler sunabilirsin.";
 var kariyer_secim_25_plus_s7_mentor_5_4 = "• Koçluk Hizmetleri Satış Yöneticisi: Koçluk hizmetlerinin tanıtımı, pazarlama stratejileri oluşturulması ve müşteri ilişkilerinin yönetilmesi konusunda liderlik edebilirsin.";
-var kariyer_secim_25_plus_s7_mentor_5_5 = "• İş Geliştirme Danışmanı: Şirketlerin yeni iş fırsatları keşfetmelerine yardımcı olabilir, koçluk ve danışmanlık hizmetlerinin pazarlanmasında stratejik iş geliştirme çalışmaları yapabilirsin.";
-var kariyer_secim_25_plus_s7_mentor_5_6 = "• Müşteri İlişkileri Koordinatörü: Danışmanlık ve koçluk hizmeti sağlayan firmaların müşteri ilişkilerini yönetebilir, onların ihtiyaçlarına yönelik özel çözümler geliştirebilirsin.";
+var kariyer_secim_25_plus_s7_mentor_5_5 = "• Müşteri İlişkileri Koordinatörü: Danışmanlık ve koçluk hizmeti sağlayan firmaların müşteri ilişkilerini yönetebilir, onların ihtiyaçlarına yönelik özel çözümler geliştirebilirsin.";
+var kariyer_secim_25_plus_s7_mentor_5_6 = "• İş Geliştirme Danışmanı: Şirketlerin yeni iş fırsatları keşfetmelerine yardımcı olabilir, koçluk ve danışmanlık hizmetlerinin pazarlanmasında stratejik iş geliştirme çalışmaları yapabilirsin.";
 var kariyer_secim_25_plus_s7_mentor_5_7 = "";
 
 var kariyer_secim_25_plus_s7_mentor_6_1 = "Organizasyonel ve İdari Kariyerler";
@@ -1961,19 +1961,19 @@ var kariyer_secim_25_plus_s7_mentor_8_7 = "";
 
 var kariyer_secim_25_plus_s7_mentor_9_1 = "Analitik ve Veri Odaklı Kariyerler";
 var kariyer_secim_25_plus_s7_mentor_9_2 = "Danışmanlık, koçluk ve mentorluk sektöründe analitik düşünce ve veri becerilerini kullanabileceğin işler şunlar olabilir:";
-var kariyer_secim_25_plus_s7_mentor_9_3 = "• Veri Analitiği Danışmanı: Koçluk ve danışmanlık hizmetlerinin verimliliğini ölçerek, gelişim süreçlerini veri odaklı analizlerle destekleyebilir ve stratejiler geliştirebilirsin.";
-var kariyer_secim_25_plus_s7_mentor_9_4 = "• İş Performansı Analisti (Koçluk ve Danışmanlık): Organizasyonel gelişim süreçlerini analiz ederek, verimlilik arttırıcı koçluk ve danışmanlık çözümleri sunabilirsin.";
-var kariyer_secim_25_plus_s7_mentor_9_5 = "• Koçluk Süreç Analisti: Koçluk seanslarının etkililiğini analiz edebilir, müşteri başarı oranlarını izleyerek iyileştirmeler önerebilirsin.";
-var kariyer_secim_25_plus_s7_mentor_9_6 = "• Kariyer Gelişimi Veri Analisti: Bireylerin kariyer gelişim süreçlerini takip ederek, veriler üzerinden gelişim stratejileri ve kişisel hedefler oluşturabilirsin.";
+var kariyer_secim_25_plus_s7_mentor_9_3 = "• İş Performansı Analisti (Koçluk ve Danışmanlık): Organizasyonel gelişim süreçlerini analiz ederek, verimlilik arttırıcı koçluk ve danışmanlık çözümleri sunabilirsin.";
+var kariyer_secim_25_plus_s7_mentor_9_4 = "• Koçluk Süreç Analisti: Koçluk seanslarının etkililiğini analiz edebilir, müşteri başarı oranlarını izleyerek iyileştirmeler önerebilirsin.";
+var kariyer_secim_25_plus_s7_mentor_9_5 = "• Kariyer Gelişimi Veri Analisti: Bireylerin kariyer gelişim süreçlerini takip ederek, veriler üzerinden gelişim stratejileri ve kişisel hedefler oluşturabilirsin.";
+var kariyer_secim_25_plus_s7_mentor_9_6 = "• Veri Analitiği Danışmanı: Koçluk ve danışmanlık hizmetlerinin verimliliğini ölçerek, gelişim süreçlerini veri odaklı analizlerle destekleyebilir ve stratejiler geliştirebilirsin.";
 var kariyer_secim_25_plus_s7_mentor_9_7 = "";
 
 // Turizm ve Misafirperverlik
 var kariyer_secim_25_plus_s7_tourism_1_1 = "Yaratıcı ve Sanatsal Kariyerler";
 var kariyer_secim_25_plus_s7_tourism_1_2 = "Turizm ve misafirperverlik sektöründe yaratıcılığını kullanabileceğin işler şunlar olabilir:";
 var kariyer_secim_25_plus_s7_tourism_1_3 = "•	Turizm İçeriği Tasarımcısı: Seyahat blogları, turizm broşürleri, reklam materyalleri, dijital platformlar için içerikler tasarlayarak destinasyonların tanıtımına katkı sağlayabilirsin.";
-var kariyer_secim_25_plus_s7_tourism_1_4 = "•	Turizm Fotoğrafçısı/Videografi: Turistik yerlerin, otellerin veya etkinliklerin tanıtımını yapmak amacıyla fotoğraf ve video içerikleri hazırlayabilir, görsel anlatım yoluyla seyahat deneyimlerini aktarabilirsin.";
-var kariyer_secim_25_plus_s7_tourism_1_5 = "•	Deneyim Tasarımcısı (Experience Designer): Müşterilere unutulmaz turistik deneyimler sunmak için oteller, tatil köyleri veya turlar için yaratıcı programlar, etkinlikler ve temalar tasarlayabilirsin.";
-var kariyer_secim_25_plus_s7_tourism_1_6 = "•	Seyahat Yazarı: Seyahat deneyimlerini ve destinasyonları yazılı içeriklerde anlatabilir, seyahat rehberleri veya bloglar aracılığıyla geniş kitlelere ulaşabilirsin.";
+var kariyer_secim_25_plus_s7_tourism_1_4 = "•	Deneyim Tasarımcısı (Experience Designer): Müşterilere unutulmaz turistik deneyimler sunmak için oteller, tatil köyleri veya turlar için yaratıcı programlar, etkinlikler ve temalar tasarlayabilirsin.";
+var kariyer_secim_25_plus_s7_tourism_1_5 = "•	Seyahat Yazarı: Seyahat deneyimlerini ve destinasyonları yazılı içeriklerde anlatabilir, seyahat rehberleri veya bloglar aracılığıyla geniş kitlelere ulaşabilirsin.";
+var kariyer_secim_25_plus_s7_tourism_1_6 = "•	Turizm Fotoğrafçısı/Videografi: Turistik yerlerin, otellerin veya etkinliklerin tanıtımını yapmak amacıyla fotoğraf ve video içerikleri hazırlayabilir, görsel anlatım yoluyla seyahat deneyimlerini aktarabilirsin.";
 var kariyer_secim_25_plus_s7_tourism_1_7 = "";
 
 var kariyer_secim_25_plus_s7_tourism_2_1 = "Liderlik ve Yönetim Kariyerleri";
@@ -1986,18 +1986,18 @@ var kariyer_secim_25_plus_s7_tourism_2_7 = "";
 
 var kariyer_secim_25_plus_s7_tourism_3_1 = "Yardım ve Sosyal Kariyerler";
 var kariyer_secim_25_plus_s7_tourism_3_2 = "Turizm ve misafirperverlik sektöründe sosyal ve yardımsever yönlerini kullanabileceğin işler şunlar olabilir:";
-var kariyer_secim_25_plus_s7_tourism_3_3 = "• Sosyal Sorumluluk Koordinatörü (Turizm): Turizm sektöründeki işletmelerin çevresel ve sosyal sorumluluklarını yerine getirmelerini sağlamak için stratejiler geliştirebilir, topluma faydalı projeler geliştirebilirsin.";
-var kariyer_secim_25_plus_s7_tourism_3_4 = "• Müşteri Hizmetleri Temsilcisi: Müşterilere tatil, seyahat ve konaklama süreçlerinde yardımcı olarak, sorunlarını çözebilir ve onların beklentilerini karşılayabilirsin.";
-var kariyer_secim_25_plus_s7_tourism_3_5 = "• Çevre Dostu Turizm Koordinatörü: Sürdürülebilir turizm çözümleri geliştirebilir, çevre dostu projeler için oteller, tatil köyleri veya tur şirketleriyle işbirliği yapabilirsin.";
-var kariyer_secim_25_plus_s7_tourism_3_6 = "• Yardımcı Seyahat Danışmanı: Engelli bireylere, yaşlılara veya özel ihtiyaçları olan kişiler için seyahat planlaması ve danışmanlık hizmetleri sağlayabilirsin.";
+var kariyer_secim_25_plus_s7_tourism_3_3 = "• Müşteri Hizmetleri Temsilcisi: Müşterilere tatil, seyahat ve konaklama süreçlerinde yardımcı olarak, sorunlarını çözebilir ve onların beklentilerini karşılayabilirsin.";
+var kariyer_secim_25_plus_s7_tourism_3_4 = "• Çevre Dostu Turizm Koordinatörü: Sürdürülebilir turizm çözümleri geliştirebilir, çevre dostu projeler için oteller, tatil köyleri veya tur şirketleriyle işbirliği yapabilirsin.";
+var kariyer_secim_25_plus_s7_tourism_3_5 = "• Yardımcı Seyahat Danışmanı: Engelli bireylere, yaşlılara veya özel ihtiyaçları olan kişiler için seyahat planlaması ve danışmanlık hizmetleri sağlayabilirsin.";
+var kariyer_secim_25_plus_s7_tourism_3_6 = "• Sosyal Sorumluluk Koordinatörü (Turizm): Turizm sektöründeki işletmelerin çevresel ve sosyal sorumluluklarını yerine getirmelerini sağlamak için stratejiler geliştirebilir, topluma faydalı projeler geliştirebilirsin.";
 var kariyer_secim_25_plus_s7_tourism_3_7 = "";
 
 var kariyer_secim_25_plus_s7_tourism_4_1 = "Teknik ve Mühendislik Kariyerleri";
 var kariyer_secim_25_plus_s7_tourism_4_2 = "Turizm ve misafirperverlik sektöründe teknik ve mühendislik becerilerini kullanabileceğin işler şunlar olabilir:";
 var kariyer_secim_25_plus_s7_tourism_4_3 = "• Otel Teknoloji Yöneticisi (Hotel IT Manager): Otellerin dijital altyapılarını yönetebilir, otel yönetim yazılımlarını ve dijital çözümleri uygulayarak verimliliği artırabilirsin.";
-var kariyer_secim_25_plus_s7_tourism_4_4 = "• Enerji Verimliliği Uzmanı (Turizm): Otellerde, tatil köylerinde veya diğer turizm alanlarında enerji verimliliği artırıcı çözümler geliştirebilir, sürdürülebilir enerji kullanımını optimize edebilirsin.";
-var kariyer_secim_25_plus_s7_tourism_4_5 = "• Turizm Yazılım Geliştiricisi: Seyahat ve konaklama sektörüne yönelik yazılımlar (rezervasyon sistemleri, dijital müşteri hizmetleri) geliştirebilir, sektördeki dijital dönüşüme katkı sağlayabilirsin.";
-var kariyer_secim_25_plus_s7_tourism_4_6 = "• Turistik Altyapı Mühendisi: Turistik alanlarda altyapı projeleri geliştirebilir, otellerin, tatil köylerinin ve diğer konaklama alanlarının inşaat süreçlerini yönetebilirsin.";
+var kariyer_secim_25_plus_s7_tourism_4_4 = "• Turizm Yazılım Geliştiricisi: Seyahat ve konaklama sektörüne yönelik yazılımlar (rezervasyon sistemleri, dijital müşteri hizmetleri) geliştirebilir, sektördeki dijital dönüşüme katkı sağlayabilirsin.";
+var kariyer_secim_25_plus_s7_tourism_4_5 = "• Turistik Altyapı Mühendisi: Turistik alanlarda altyapı projeleri geliştirebilir, otellerin, tatil köylerinin ve diğer konaklama alanlarının inşaat süreçlerini yönetebilirsin.";
+var kariyer_secim_25_plus_s7_tourism_4_6 = "• Enerji Verimliliği Uzmanı (Turizm): Otellerde, tatil köylerinde veya diğer turizm alanlarında enerji verimliliği artırıcı çözümler geliştirebilir, sürdürülebilir enerji kullanımını optimize edebilirsin.";
 var kariyer_secim_25_plus_s7_tourism_4_7 = "";
 
 var kariyer_secim_25_plus_s7_tourism_5_1 = "Satış ve İlişki Kurma Kariyerleri";
@@ -2019,9 +2019,9 @@ var kariyer_secim_25_plus_s7_tourism_6_7 = "";
 var kariyer_secim_25_plus_s7_tourism_7_1 = "Yenilikçi ve Girişimci Kariyerler";
 var kariyer_secim_25_plus_s7_tourism_7_2 = "Turizm ve misafirperverlik sektöründe yenilikçi düşünceler ve girişimcilik ruhunu kullanabileceğin işler şunlar olabilir:";
 var kariyer_secim_25_plus_s7_tourism_7_3 = "• Turizm Girişimcisi: Kendi turizm acentanı veya seyahat şirketini kurarak, yeni destinasyonlar veya deneyimler sunabilir, sektördeki boşlukları doldurabilirsin.";
-var kariyer_secim_25_plus_s7_tourism_7_4 = "• Seyahat Teknolojisi Girişimcisi: Seyahat endüstrisine yönelik dijital platformlar, mobil uygulamalar veya yenilikçi çözümler geliştirebilir, sektördeki dijital dönüşüme katkı sağlayabilirsin.";
-var kariyer_secim_25_plus_s7_tourism_7_5 = "• Sürdürülebilir Turizm Girişimcisi: Çevre dostu ve sürdürülebilir turizm çözümleri sunan yeni projeler geliştirebilir, doğal kaynakları koruyarak turizm alanında fark yaratabilirsin.";
-var kariyer_secim_25_plus_s7_tourism_7_6 = "• Lüks Turizm ve Deneyim Girişimcisi: Yüksek bütçeli müşterilere özel lüks tatil paketleri, VIP seyahat deneyimleri veya özel etkinlikler düzenleyebilirsin.";
+var kariyer_secim_25_plus_s7_tourism_7_4 = "• Sürdürülebilir Turizm Girişimcisi: Çevre dostu ve sürdürülebilir turizm çözümleri sunan yeni projeler geliştirebilir, doğal kaynakları koruyarak turizm alanında fark yaratabilirsin.";
+var kariyer_secim_25_plus_s7_tourism_7_5 = "• Lüks Turizm ve Deneyim Girişimcisi: Yüksek bütçeli müşterilere özel lüks tatil paketleri, VIP seyahat deneyimleri veya özel etkinlikler düzenleyebilirsin.";
+var kariyer_secim_25_plus_s7_tourism_7_6 = "• Seyahat Teknolojisi Girişimcisi: Seyahat endüstrisine yönelik dijital platformlar, mobil uygulamalar veya yenilikçi çözümler geliştirebilir, sektördeki dijital dönüşüme katkı sağlayabilirsin.";
 var kariyer_secim_25_plus_s7_tourism_7_7 = "";
 
 var kariyer_secim_25_plus_s7_tourism_8_1 = "Öğretim ve Mentorluk Kariyerleri";
@@ -2043,10 +2043,10 @@ var kariyer_secim_25_plus_s7_tourism_9_7 = "";
 // Tarım ve Tarım Teknolojileri (AgroTech)
 var kariyer_secim_25_plus_s7_agroTech_1_1 = "Yaratıcı ve Sanatsal Kariyerler";
 var kariyer_secim_25_plus_s7_agroTech_1_2 = "Tarım ve tarım teknolojileri sektöründe yaratıcılığını kullanabileceğin işler şunlar olabilir:";
-var kariyer_secim_25_plus_s7_agroTech_1_3 = "• Tarım İçeriği Yaratıcıları: Çiftçiler ve tarım sektörü profesyonelleri için yaratıcı eğitim içerikleri, blog yazıları, video serileri ve infografikler hazırlayarak, bilgiyi görsel ve yazılı yollarla aktarabilirsin.";
-var kariyer_secim_25_plus_s7_agroTech_1_4 = "• Tarım Teknolojileri Markalaşma Uzmanı: Tarım sektörü odaklı ürün ve hizmetlerin marka stratejilerini geliştirerek, hedef kitleye yönelik etkili kampanyalar oluşturabilirsin.";
-var kariyer_secim_25_plus_s7_agroTech_1_5 = "• Sosyal Medya Yöneticisi (Tarım): Tarım sektöründeki ürünlerin dijital platformlarda tanıtılmasına yardımcı olarak, sosyal medya üzerinden bilgi ve ürün satışı yapabilirsin.";
-var kariyer_secim_25_plus_s7_agroTech_1_6 = "• Gıda Tasarımcısı: Tarım ürünlerinin ambalaj tasarımlarını geliştirebilir, ürünlerin daha çekici hale gelmesine yönelik görsel çözümler sunabilirsin.";
+var kariyer_secim_25_plus_s7_agroTech_1_3 = "• Tarım Teknolojileri Markalaşma Uzmanı: Tarım sektörü odaklı ürün ve hizmetlerin marka stratejilerini geliştirerek, hedef kitleye yönelik etkili kampanyalar oluşturabilirsin.";
+var kariyer_secim_25_plus_s7_agroTech_1_4 = "• Sosyal Medya Yöneticisi (Tarım): Tarım sektöründeki ürünlerin dijital platformlarda tanıtılmasına yardımcı olarak, sosyal medya üzerinden bilgi ve ürün satışı yapabilirsin.";
+var kariyer_secim_25_plus_s7_agroTech_1_5 = "• Gıda Tasarımcısı: Tarım ürünlerinin ambalaj tasarımlarını geliştirebilir, ürünlerin daha çekici hale gelmesine yönelik görsel çözümler sunabilirsin.";
+var kariyer_secim_25_plus_s7_agroTech_1_6 = "• Tarım İçeriği Yaratıcıları: Çiftçiler ve tarım sektörü profesyonelleri için yaratıcı eğitim içerikleri, blog yazıları, video serileri ve infografikler hazırlayarak, bilgiyi görsel ve yazılı yollarla aktarabilirsin.";
 var kariyer_secim_25_plus_s7_agroTech_1_7 = "";
 
 var kariyer_secim_25_plus_s7_agroTech_2_1 = "Liderlik ve Yönetim Kariyerleri";
@@ -2077,8 +2077,8 @@ var kariyer_secim_25_plus_s7_agroTech_5_1 = "Satış ve İlişki Kurma Kariyerle
 var kariyer_secim_25_plus_s7_agroTech_5_2 = "Tarım ve tarım teknolojileri sektöründe satış ve ilişki yönetimi becerilerini kullanabileceğin işler şunlar olabilir:";
 var kariyer_secim_25_plus_s7_agroTech_5_3 = "• Tarım Ürünleri Satış Yöneticisi: Tarım makineleri, gübreler, tohumlar veya bitki koruma ürünlerini satabilir, çiftçilere bu ürünleri tanıtarak satışları artırabilirsin.";
 var kariyer_secim_25_plus_s7_agroTech_5_4 = "• Tarım Teknolojileri Satış Uzmanı: Çiftçilere yönelik tarım teknolojileri, akıllı cihazlar ve yazılımlar hakkında danışmanlık yapabilir, satış süreçlerini yönetebilirsin.";
-var kariyer_secim_25_plus_s7_agroTech_5_5 = "• İş Geliştirme Yöneticisi (AgriTech): Tarım ve tarım teknolojileri sektöründeki yeni iş fırsatlarını keşfedebilir, stratejik iş ortaklıkları kurarak pazarlama ve satış ağlarını genişletebilirsin.";
-var kariyer_secim_25_plus_s7_agroTech_5_6 = "• Müşteri İlişkileri Yöneticisi (Tarım): Tarım sektöründeki firmaların müşterileriyle uzun vadeli ilişkiler kurarak, müşteri memnuniyetini ve sadakatini artırabilirsin.";
+var kariyer_secim_25_plus_s7_agroTech_5_5 = "• Müşteri İlişkileri Yöneticisi (Tarım): Tarım sektöründeki firmaların müşterileriyle uzun vadeli ilişkiler kurarak, müşteri memnuniyetini ve sadakatini artırabilirsin.";
+var kariyer_secim_25_plus_s7_agroTech_5_6 = "• İş Geliştirme Yöneticisi (AgriTech): Tarım ve tarım teknolojileri sektöründeki yeni iş fırsatlarını keşfedebilir, stratejik iş ortaklıkları kurarak pazarlama ve satış ağlarını genişletebilirsin.";
 var kariyer_secim_25_plus_s7_agroTech_5_7 = "";
 
 var kariyer_secim_25_plus_s7_agroTech_6_1 = "Organizasyonel ve İdari Kariyerler";
@@ -2109,8 +2109,8 @@ var kariyer_secim_25_plus_s7_agroTech_9_1 = "Analitik ve Veri Odaklı Kariyerler
 var kariyer_secim_25_plus_s7_agroTech_9_2 = "Tarım ve tarım teknolojileri sektöründe analitik düşünce ve veri becerilerini kullanabileceğin işler şunlar olabilir:";
 var kariyer_secim_25_plus_s7_agroTech_9_3 = "• Tarım Veri Analisti: Tarım üretim süreçlerini analiz ederek, verimlilik artışı sağlamak için stratejik öneriler geliştirebilir ve veri odaklı çözümler sunabilirsin.";
 var kariyer_secim_25_plus_s7_agroTech_9_4 = "• Sürdürülebilir Tarım Analisti: Tarımın çevresel etkilerini analiz ederek, sürdürülebilir tarım uygulamalarının etkinliğini değerlendirebilir ve iyileştirme önerileri sunabilirsin.";
-var kariyer_secim_25_plus_s7_agroTech_9_5 = "• Tarım Teknolojileri Veritabanı Yöneticisi: Tarım sektörüne yönelik veri toplama ve analiz yaparak, çiftçilerin daha verimli ve bilgiye dayalı kararlar almasına yardımcı olabilirsin.";
-var kariyer_secim_25_plus_s7_agroTech_9_6 = "• Tarım Piyasası Analisti: Tarım ürünlerinin fiyatlandırma, talep ve arz verilerini analiz ederek, üreticiler ve tüccarlar için pazar öngörüleri sunabilirsin.";
+var kariyer_secim_25_plus_s7_agroTech_9_5 = "• Tarım Piyasası Analisti: Tarım ürünlerinin fiyatlandırma, talep ve arz verilerini analiz ederek, üreticiler ve tüccarlar için pazar öngörüleri sunabilirsin.";
+var kariyer_secim_25_plus_s7_agroTech_9_6 = "• Tarım Teknolojileri Veritabanı Yöneticisi: Tarım sektörüne yönelik veri toplama ve analiz yaparak, çiftçilerin daha verimli ve bilgiye dayalı kararlar almasına yardımcı olabilirsin.";
 var kariyer_secim_25_plus_s7_agroTech_9_7 = "";
 
 // Lojistik ve Ulaşım 
@@ -2132,10 +2132,10 @@ var kariyer_secim_25_plus_s7_logistic_2_7 = "";
 
 var kariyer_secim_25_plus_s7_logistic_3_1 = "Yardım ve Sosyal Kariyerler";
 var kariyer_secim_25_plus_s7_logistic_3_2 = "Lojistik ve ulaşım sektöründe sosyal ve yardımsever yönlerini kullanabileceğin işler şunlar olabilir:";
-var kariyer_secim_25_plus_s7_logistic_3_3 = "• Ulaşım Hizmetleri Koordinatörü (Engelli Erişimi): Engelli bireylerin şehir içi ulaşımda karşılaştığı engelleri ortadan kaldırmak için çözümler geliştirebilir, toplu taşıma sistemlerini erişilebilir hale getirebilirsin.";
-var kariyer_secim_25_plus_s7_logistic_3_4 = "• Çevre Dostu Ulaşım Koordinatörü: Sürdürülebilir ulaşım çözümleri oluşturabilir, elektrikli araçlar, bisiklet yolları ve yeşil taşıma projeleri ile çevre dostu taşımacılığı teşvik edebilirsin.";
-var kariyer_secim_25_plus_s7_logistic_3_5 = "• Toplu Taşıma Geliştirme Danışmanı: Şehirlerdeki toplu taşıma sistemlerinin iyileştirilmesi için öneriler geliştirebilir, ulaşım projelerine toplumsal fayda sağlayacak yenilikçi çözümler sunabilirsin.";
-var kariyer_secim_25_plus_s7_logistic_3_6 = "• Lojistik ve Ulaşım Eğitmeni: Lojistik ve ulaşım alanındaki çalışanlara yeni teknolojiler, düzenlemeler veya verimli ulaşım stratejileri hakkında eğitim verebilirsin.";
+var kariyer_secim_25_plus_s7_logistic_3_3 = "• Çevre Dostu Ulaşım Koordinatörü: Sürdürülebilir ulaşım çözümleri oluşturabilir, elektrikli araçlar, bisiklet yolları ve yeşil taşıma projeleri ile çevre dostu taşımacılığı teşvik edebilirsin.";
+var kariyer_secim_25_plus_s7_logistic_3_4 = "• Toplu Taşıma Geliştirme Danışmanı: Şehirlerdeki toplu taşıma sistemlerinin iyileştirilmesi için öneriler geliştirebilir, ulaşım projelerine toplumsal fayda sağlayacak yenilikçi çözümler sunabilirsin.";
+var kariyer_secim_25_plus_s7_logistic_3_5 = "• Lojistik ve Ulaşım Eğitmeni: Lojistik ve ulaşım alanındaki çalışanlara yeni teknolojiler, düzenlemeler veya verimli ulaşım stratejileri hakkında eğitim verebilirsin.";
+var kariyer_secim_25_plus_s7_logistic_3_6 = "• Ulaşım Hizmetleri Koordinatörü (Engelli Erişimi): Engelli bireylerin şehir içi ulaşımda karşılaştığı engelleri ortadan kaldırmak için çözümler geliştirebilir, toplu taşıma sistemlerini erişilebilir hale getirebilirsin.";
 var kariyer_secim_25_plus_s7_logistic_3_7 = "";
 
 var kariyer_secim_25_plus_s7_logistic_4_1 = "Teknik ve Mühendislik Kariyerleri";
@@ -2157,17 +2157,17 @@ var kariyer_secim_25_plus_s7_logistic_5_7 = "";
 var kariyer_secim_25_plus_s7_logistic_6_1 = "Organizasyonel ve İdari Kariyerler";
 var kariyer_secim_25_plus_s7_logistic_6_2 = "Lojistik ve ulaşım sektöründe organizasyon ve idari becerilerini kullanabileceğin işler şunlar olabilir:";
 var kariyer_secim_25_plus_s7_logistic_6_3 = "• Lojistik Operasyon Asistanı: Lojistik operasyonlarını organize edebilir, sevkiyat, teslimat ve envanter takibi gibi süreçlerde idari destek sağlayabilirsin.";
-var kariyer_secim_25_plus_s7_logistic_6_4 = "• Ulaşım Planlama Koordinatörü: Ulaşım projelerini planlayabilir, toplu taşıma hatlarının optimizasyonu, güzergah değişiklikleri ve ulaşım altyapısı ile ilgili idari çalışmalar yapabilirsin.";
-var kariyer_secim_25_plus_s7_logistic_6_5 = "• İnsan Kaynakları Uzmanı (Lojistik): Lojistik sektöründeki işletmelerde personel alımını yönetebilir, eğitim ve gelişim süreçlerini organize edebilirsin.";
-var kariyer_secim_25_plus_s7_logistic_6_6 = "• Tedarik Zinciri Koordinatörü: Ürünlerin tedarik zincirinde takip edilmesini, taşınmasını ve teslimatını koordine ederek verimliliği artırabilirsin.";
+var kariyer_secim_25_plus_s7_logistic_6_4 = "• İnsan Kaynakları Uzmanı (Lojistik): Lojistik sektöründeki işletmelerde personel alımını yönetebilir, eğitim ve gelişim süreçlerini organize edebilirsin.";
+var kariyer_secim_25_plus_s7_logistic_6_5 = "• Tedarik Zinciri Koordinatörü: Ürünlerin tedarik zincirinde takip edilmesini, taşınmasını ve teslimatını koordine ederek verimliliği artırabilirsin.";
+var kariyer_secim_25_plus_s7_logistic_6_6 = "• Ulaşım Planlama Koordinatörü: Ulaşım projelerini planlayabilir, toplu taşıma hatlarının optimizasyonu, güzergah değişiklikleri ve ulaşım altyapısı ile ilgili idari çalışmalar yapabilirsin.";
 var kariyer_secim_25_plus_s7_logistic_6_7 = "";
 
 var kariyer_secim_25_plus_s7_logistic_7_1 = "Yenilikçi ve Girişimci Kariyerler";
 var kariyer_secim_25_plus_s7_logistic_7_2 = "Lojistik ve ulaşım sektöründe yenilikçi düşünceler ve girişimcilik ruhunu kullanabileceğin işler şunlar olabilir:";
 var kariyer_secim_25_plus_s7_logistic_7_3 = "• Lojistik ve Ulaşım Girişimcisi: Yeni lojistik çözümleri veya ulaşım uygulamaları geliştirebilir, sektördeki geleneksel yöntemlere yenilikçi yaklaşımlar getirerek girişim başlatabilirsin.";
 var kariyer_secim_25_plus_s7_logistic_7_4 = "• Elektrikli Araç Girişimcisi: Elektrikli araçlar için şarj altyapıları, batarya çözümleri veya sürdürülebilir ulaşım çözümleri geliştirebilir, bu alandaki yenilikçi girişimleri hayata geçirebilirsin.";
-var kariyer_secim_25_plus_s7_logistic_7_5 = "• Akıllı Ulaşım Girişimcisi: Akıllı ulaşım sistemleri, otonom araçlar veya trafik yönetim teknolojileri üzerine girişim kurarak, şehir içi ulaşımı daha verimli hale getiren çözümler geliştirebilirsin.";
-var kariyer_secim_25_plus_s7_logistic_7_6 = "• Lojistik Dijitalleşme Girişimcisi: Dijital çözümlerle lojistik sektörünü dönüştürmek için bir startup kurabilir, taşıma ve dağıtım süreçlerini hızlandıran teknolojiler geliştirebilirsin.";
+var kariyer_secim_25_plus_s7_logistic_7_5 = "• Lojistik Dijitalleşme Girişimcisi: Dijital çözümlerle lojistik sektörünü dönüştürmek için bir startup kurabilir, taşıma ve dağıtım süreçlerini hızlandıran teknolojiler geliştirebilirsin.";
+var kariyer_secim_25_plus_s7_logistic_7_6 = "• Akıllı Ulaşım Girişimcisi: Akıllı ulaşım sistemleri, otonom araçlar veya trafik yönetim teknolojileri üzerine girişim kurarak, şehir içi ulaşımı daha verimli hale getiren çözümler geliştirebilirsin.";
 var kariyer_secim_25_plus_s7_logistic_7_7 = "";
 
 var kariyer_secim_25_plus_s7_logistic_8_1 = "Öğretim ve Mentorluk Kariyerleri";
@@ -2180,27 +2180,27 @@ var kariyer_secim_25_plus_s7_logistic_8_7 = "";
 
 var kariyer_secim_25_plus_s7_logistic_9_1 = "Analitik ve Veri Odaklı Kariyerler";
 var kariyer_secim_25_plus_s7_logistic_9_2 = "Lojistik ve ulaşım sektöründe analitik düşünce ve veri becerilerini kullanabileceğin işler şunlar olabilir:";
-var kariyer_secim_25_plus_s7_logistic_9_3 = "• Lojistik Veri Analisti: Lojistik süreçlerinin verimliliğini analiz edebilir, taşıma ve teslimat süreçlerinin optimize edilmesine yardımcı olacak veri tabanlı çözümler geliştirebilirsin.";
-var kariyer_secim_25_plus_s7_logistic_9_4 = "• Ulaşım Performans Analisti: Şehir içi ulaşım sistemlerini analiz ederek, trafik akışını iyileştirecek veri odaklı öneriler geliştirebilirsin.";
-var kariyer_secim_25_plus_s7_logistic_9_5 = "• Akıllı Ulaşım Veri Analisti: Akıllı ulaşım sistemlerinin verilerini analiz ederek, trafik yönetimini optimize edebilir ve araç akışını daha verimli hale getirebilirsin.";
-var kariyer_secim_25_plus_s7_logistic_9_6 = "• Lojistik İnovasyon Analisti: Lojistik sektöründeki yenilikçi çözümleri analiz ederek, sektördeki dijital dönüşümün hızlanmasına katkıda bulunabilirsin.";
+var kariyer_secim_25_plus_s7_logistic_9_3 = "• Ulaşım Performans Analisti: Şehir içi ulaşım sistemlerini analiz ederek, trafik akışını iyileştirecek veri odaklı öneriler geliştirebilirsin.";
+var kariyer_secim_25_plus_s7_logistic_9_4 = "• Akıllı Ulaşım Veri Analisti: Akıllı ulaşım sistemlerinin verilerini analiz ederek, trafik yönetimini optimize edebilir ve araç akışını daha verimli hale getirebilirsin.";
+var kariyer_secim_25_plus_s7_logistic_9_5 = "• Lojistik İnovasyon Analisti: Lojistik sektöründeki yenilikçi çözümleri analiz ederek, sektördeki dijital dönüşümün hızlanmasına katkıda bulunabilirsin.";
+var kariyer_secim_25_plus_s7_logistic_9_6 = "• Lojistik Veri Analisti: Lojistik süreçlerinin verimliliğini analiz edebilir, taşıma ve teslimat süreçlerinin optimize edilmesine yardımcı olacak veri tabanlı çözümler geliştirebilirsin.";
 var kariyer_secim_25_plus_s7_logistic_9_7 = "";
 
 // Medya, Yazılı ve Görsel Basın
 var kariyer_secim_25_plus_s7_media_1_1 = "Yaratıcı ve Sanatsal Kariyerler";
 var kariyer_secim_25_plus_s7_media_1_2 = "";
-var kariyer_secim_25_plus_s7_media_1_3 = "• İçerik Yaratıcısı (Content Creator): Dijital platformlar için video, yazı, grafik veya diğer medya içeriklerini yaratabilir, sosyal medya ve video platformlarında etkileşim oluşturabilirsin.";
-var kariyer_secim_25_plus_s7_media_1_4 = "• Medya Tasarımcısı (Graphic Designer): Medya sektöründe reklamlar, dijital içerikler ve broşürler gibi materyaller için görsel tasarımlar hazırlayabilirsin.";
-var kariyer_secim_25_plus_s7_media_1_5 = "• Video Prodüksiyon Uzmanı: TV, dijital medya veya sosyal medya için video çekimlerini yönetebilir, editörlük yapabilir ve video içeriği yaratabilirsin.";
-var kariyer_secim_25_plus_s7_media_1_6 = "• Yaratıcı Yönetmen (Creative Director): Bir medya projesinin yaratıcı yönünü yönetebilir, hikayelerin görsel ve işitsel açıdan en etkili şekilde sunulmasını sağlayabilirsin.";
+var kariyer_secim_25_plus_s7_media_1_3 = "• Medya Tasarımcısı (Graphic Designer): Medya sektöründe reklamlar, dijital içerikler ve broşürler gibi materyaller için görsel tasarımlar hazırlayabilirsin.";
+var kariyer_secim_25_plus_s7_media_1_4 = "• Video Prodüksiyon Uzmanı: TV, dijital medya veya sosyal medya için video çekimlerini yönetebilir, editörlük yapabilir ve video içeriği yaratabilirsin.";
+var kariyer_secim_25_plus_s7_media_1_5 = "• Yaratıcı Yönetmen (Creative Director): Bir medya projesinin yaratıcı yönünü yönetebilir, hikayelerin görsel ve işitsel açıdan en etkili şekilde sunulmasını sağlayabilirsin.";
+var kariyer_secim_25_plus_s7_media_1_6 = "• İçerik Yaratıcısı (Content Creator): Dijital platformlar için video, yazı, grafik veya diğer medya içeriklerini yaratabilir, sosyal medya ve video platformlarında etkileşim oluşturabilirsin.";
 var kariyer_secim_25_plus_s7_media_1_7 = "";
 
 var kariyer_secim_25_plus_s7_media_2_1 = "Liderlik ve Yönetim Kariyerleri";
 var kariyer_secim_25_plus_s7_media_2_2 = "";
-var kariyer_secim_25_plus_s7_media_2_3 = "• Medya Yöneticisi: TV, radyo veya dijital medya platformlarında içeriğin yayınlanması, izleyici kitlesine uygun içeriklerin hazırlanması ve bütçelerin yönetilmesi gibi yönetsel görevler üstlenebilirsin.";
-var kariyer_secim_25_plus_s7_media_2_4 = "• Gazetecilik ve Yayıncılık Yönetmeni: Basın organlarında haber içeriğinin ve gazetecilerin yönetilmesi, editoryal süreçlerin denetlenmesi gibi görevlerde yer alabilirsin.";
-var kariyer_secim_25_plus_s7_media_2_5 = "• Yayın Programı Yöneticisi: TV, radyo veya dijital medya platformlarında yayın akışlarını planlayabilir, izleyici kitlesine en uygun programları hazırlayabilirsin.";
-var kariyer_secim_25_plus_s7_media_2_6 = "• Sosyal Medya Yönetmeni: Dijital platformlar için içerik üretimi ve strateji geliştirebilir, sosyal medya takımlarını yönetebilir ve marka imajını dijital ortamda güçlendirebilirsin.";
+var kariyer_secim_25_plus_s7_media_2_3 = "• Gazetecilik ve Yayıncılık Yönetmeni: Basın organlarında haber içeriğinin ve gazetecilerin yönetilmesi, editoryal süreçlerin denetlenmesi gibi görevlerde yer alabilirsin.";
+var kariyer_secim_25_plus_s7_media_2_4 = "• Yayın Programı Yöneticisi: TV, radyo veya dijital medya platformlarında yayın akışlarını planlayabilir, izleyici kitlesine en uygun programları hazırlayabilirsin.";
+var kariyer_secim_25_plus_s7_media_2_5 = "• Sosyal Medya Yönetmeni: Dijital platformlar için içerik üretimi ve strateji geliştirebilir, sosyal medya takımlarını yönetebilir ve marka imajını dijital ortamda güçlendirebilirsin.";
+var kariyer_secim_25_plus_s7_media_2_6 = "• Medya Yöneticisi: TV, radyo veya dijital medya platformlarında içeriğin yayınlanması, izleyici kitlesine uygun içeriklerin hazırlanması ve bütçelerin yönetilmesi gibi yönetsel görevler üstlenebilirsin.";
 var kariyer_secim_25_plus_s7_media_2_7 = "";
 
 var kariyer_secim_25_plus_s7_media_3_1 = "Yardım ve Sosyal Kariyerler";
@@ -2213,10 +2213,10 @@ var kariyer_secim_25_plus_s7_media_3_7 = "";
 
 var kariyer_secim_25_plus_s7_media_4_1 = "Teknik ve Mühendislik Kariyerleri";
 var kariyer_secim_25_plus_s7_media_4_2 = "";
-var kariyer_secim_25_plus_s7_media_4_3 = "• Medya Teknolojileri Uzmanı: TV, radyo, dijital platformlar veya sosyal medya için yeni teknolojik araçlar ve yazılımlar geliştirebilir, medya içeriklerinin dağıtımını dijital ortamda optimize edebilirsin.";
-var kariyer_secim_25_plus_s7_media_4_4 = "• Ses ve Görüntü Teknikeri: Medya prodüksiyonlarında, ses ve görüntü kaydını gerçekleştirebilir, düzenleyebilir ve yayımlanabilir hale getirebilirsin.";
-var kariyer_secim_25_plus_s7_media_4_5 = "• Yayın Mühendisi: TV ve radyo yayınlarının teknik altyapısını oluşturabilir, yayın ekipmanlarını kurabilir ve optimizasyonunu yapabilirsin.";
-var kariyer_secim_25_plus_s7_media_4_6 = "• Dijital Medya Yazılım Geliştiricisi: Medya ve içerik dağıtım sistemleri geliştirebilir, içerik yönetim yazılımları ve dijital platformlar için uygulamalar tasarlayabilirsin.";
+var kariyer_secim_25_plus_s7_media_4_3 = "• Ses ve Görüntü Teknikeri: Medya prodüksiyonlarında, ses ve görüntü kaydını gerçekleştirebilir, düzenleyebilir ve yayımlanabilir hale getirebilirsin.";
+var kariyer_secim_25_plus_s7_media_4_4 = "• Yayın Mühendisi: TV ve radyo yayınlarının teknik altyapısını oluşturabilir, yayın ekipmanlarını kurabilir ve optimizasyonunu yapabilirsin.";
+var kariyer_secim_25_plus_s7_media_4_5 = "• Dijital Medya Yazılım Geliştiricisi: Medya ve içerik dağıtım sistemleri geliştirebilir, içerik yönetim yazılımları ve dijital platformlar için uygulamalar tasarlayabilirsin.";
+var kariyer_secim_25_plus_s7_media_4_6 = "• Medya Teknolojileri Uzmanı: TV, radyo, dijital platformlar veya sosyal medya için yeni teknolojik araçlar ve yazılımlar geliştirebilir, medya içeriklerinin dağıtımını dijital ortamda optimize edebilirsin.";
 var kariyer_secim_25_plus_s7_media_4_7 = "";
 
 var kariyer_secim_25_plus_s7_media_5_1 = "Satış ve İlişki Kurma Kariyerleri";
@@ -2231,8 +2231,8 @@ var kariyer_secim_25_plus_s7_media_6_1 = "Organizasyonel ve İdari Kariyerler";
 var kariyer_secim_25_plus_s7_media_6_2 = "";
 var kariyer_secim_25_plus_s7_media_6_3 = "• Yayın Koordinatörü: Yayın süreçlerini koordine edebilir, program akışlarını organize edebilir ve medya içeriklerinin düzgün bir şekilde sunulmasını sağlayabilirsin.";
 var kariyer_secim_25_plus_s7_media_6_4 = "• Medya Planlama Uzmanı: Medya içeriklerinin ne zaman ve nasıl yayınlanacağına karar verebilir, içerik takvimlerini organize edebilirsin.";
-var kariyer_secim_25_plus_s7_media_6_5 = "• Editör: Gazete, dergi, blog, haber sitesinde içeriklerin dil ve anlam bakımından düzgün olup olmadığını kontrol edebilir, yazılı materyallerin doğru şekilde yayımlanmasını sağlayabilirsin.";
-var kariyer_secim_25_plus_s7_media_6_6 = "• Basın Sözcüsü: Kurumların medya ile ilişkilerini yönetebilir, şirketin haber ve duyurularını basına iletebilir, şirketin kamu imajını yönetebilirsin.";
+var kariyer_secim_25_plus_s7_media_6_5 = "• Basın Sözcüsü: Kurumların medya ile ilişkilerini yönetebilir, şirketin haber ve duyurularını basına iletebilir, şirketin kamu imajını yönetebilirsin.";
+var kariyer_secim_25_plus_s7_media_6_6 = "• Editör: Gazete, dergi, blog, haber sitesinde içeriklerin dil ve anlam bakımından düzgün olup olmadığını kontrol edebilir, yazılı materyallerin doğru şekilde yayımlanmasını sağlayabilirsin.";
 var kariyer_secim_25_plus_s7_media_6_7 = "";
 
 var kariyer_secim_25_plus_s7_media_7_1 = "Yenilikçi ve Girişimci Kariyerler";
@@ -2254,9 +2254,9 @@ var kariyer_secim_25_plus_s7_media_8_7 = "";
 var kariyer_secim_25_plus_s7_media_9_1 = "Analitik ve Veri Odaklı Kariyerler";
 var kariyer_secim_25_plus_s7_media_9_2 = "";
 var kariyer_secim_25_plus_s7_media_9_3 = "• Medya Analisti: Medya içeriğinin izlenme oranlarını, okuyucu yorumlarını ve sosyal medya etkileşimlerini analiz edebilir, medya stratejilerini geliştirmek için veri sağlayabilirsin.";
-var kariyer_secim_25_plus_s7_media_9_4 = "• İzleyici ve Dinleyici Araştırma Uzmanı: TV, radyo veya dijital medya platformları için hedef kitle araştırmaları yapabilir, bu verileri kullanarak içerik ve reklam stratejilerini iyileştirebilirsin.";
-var kariyer_secim_25_plus_s7_media_9_5 = "• Sosyal Medya Veri Analisti: Sosyal medya platformlarındaki içerik etkileşimlerini analiz edebilir, marka stratejilerine yönelik raporlar hazırlayabilir ve veri odaklı çözümler sunabilirsin.";
-var kariyer_secim_25_plus_s7_media_9_6 = "• Reklam Performansı Analisti: Medya platformlarında yayınlanan reklamların performansını takip edebilir, etkileşim oranlarını analiz ederek daha verimli reklam stratejileri oluşturabilirsin.";
+var kariyer_secim_25_plus_s7_media_9_4 = "• Sosyal Medya Veri Analisti: Sosyal medya platformlarındaki içerik etkileşimlerini analiz edebilir, marka stratejilerine yönelik raporlar hazırlayabilir ve veri odaklı çözümler sunabilirsin.";
+var kariyer_secim_25_plus_s7_media_9_5 = "• Reklam Performansı Analisti: Medya platformlarında yayınlanan reklamların performansını takip edebilir, etkileşim oranlarını analiz ederek daha verimli reklam stratejileri oluşturabilirsin.";
+var kariyer_secim_25_plus_s7_media_9_6 = "• İzleyici ve Dinleyici Araştırma Uzmanı: TV, radyo veya dijital medya platformları için hedef kitle araştırmaları yapabilir, bu verileri kullanarak içerik ve reklam stratejilerini iyileştirebilirsin.";
 var kariyer_secim_25_plus_s7_media_9_7 = "";
 
 // Bunların Dışında Bir Şey - Genel Kariyer Alanları
@@ -2327,9 +2327,9 @@ var kariyer_secim_25_plus_s7_other_8_7 = "";
 var kariyer_secim_25_plus_s7_other_9_1 = "Analitik ve Veri Odaklı Kariyerler";
 var kariyer_secim_25_plus_s7_other_9_2 = "Veri analizi, raporlama ve stratejik planlama gibi işlerde çalışabileceğiniz genel kariyer alanları:";
 var kariyer_secim_25_plus_s7_other_9_3 = "• Veri Bilimcisi: Verileri analiz ederek, organizasyonlar için stratejik kararlar almalarına yardımcı olacak içgörüler oluşturmak.";
-var kariyer_secim_25_plus_s7_other_9_4 = "• İş Zekası Analisti: Şirketlere pazar eğilimleri, satış performansı ve operasyonel verimlilik konusunda analizler sağlayarak karar alma süreçlerini optimize etmek.";
-var kariyer_secim_25_plus_s7_other_9_5 = "• İstatistiksel Analiz ve Modelleme: Veri setlerini analiz ederek, organizasyonlara iş süreçlerini iyileştirecek çözümler sunmak.";
-var kariyer_secim_25_plus_s7_other_9_6 = "• Risk Analisti: Organizasyonların karşılaştığı riskleri analiz ederek, stratejik risk yönetim planları oluşturmak.";
+var kariyer_secim_25_plus_s7_other_9_4 = "• İstatistiksel Analiz ve Modelleme: Veri setlerini analiz ederek, organizasyonlara iş süreçlerini iyileştirecek çözümler sunmak.";
+var kariyer_secim_25_plus_s7_other_9_5 = "• Risk Analisti: Organizasyonların karşılaştığı riskleri analiz ederek, stratejik risk yönetim planları oluşturmak.";
+var kariyer_secim_25_plus_s7_other_9_6 = "• İş Zekası Analisti: Şirketlere pazar eğilimleri, satış performansı ve operasyonel verimlilik konusunda analizler sağlayarak karar alma süreçlerini optimize etmek.";
 var kariyer_secim_25_plus_s7_other_9_7 = "";
 
 //özet
