@@ -2310,10 +2310,10 @@ var kariyer_secim_25_plus_s7_other_6_7 = "";
 
 var kariyer_secim_25_plus_s7_other_7_1 = "Yenilikçi ve Girişimci Kariyerler";
 var kariyer_secim_25_plus_s7_other_7_2 = "Yenilikçi fikirleri hayata geçirebileceğiniz ve girişimcilik ruhunu kullanabileceğiniz kariyer alanları:";
-var kariyer_secim_25_plus_s7_other_7_3 = "• Start-up Kuruculuğu: Kendi işini kurarak, yeni bir iş fikrini hayata geçirmek.";
-var kariyer_secim_25_plus_s7_other_7_4 = "• İnovasyon ve Ar-Ge: Yeni ürünler, hizmetler ve çözümler geliştirmek için araştırma ve geliştirme süreçlerine liderlik etmek.";
-var kariyer_secim_25_plus_s7_other_7_5 = "• Yatırım ve Risk Sermayesi: Yatırımcı olarak start-up'lar ve küçük işletmelere finansal destek sağlamak.";
-var kariyer_secim_25_plus_s7_other_7_6 = "• İş Stratejisi ve Yönetimi: Şirketlere stratejik yönlendirmeler sağlayarak, büyüme ve başarı yolunda rehberlik etmek.";
+var kariyer_secim_25_plus_s7_other_7_3 = "• İnovasyon ve Ar-Ge: Yeni ürünler, hizmetler ve çözümler geliştirmek için araştırma ve geliştirme süreçlerine liderlik etmek.";
+var kariyer_secim_25_plus_s7_other_7_4 = "• Yatırım ve Risk Sermayesi: Yatırımcı olarak start-up'lar ve küçük işletmelere finansal destek sağlamak.";
+var kariyer_secim_25_plus_s7_other_7_5 = "• İş Stratejisi ve Yönetimi: Şirketlere stratejik yönlendirmeler sağlayarak, büyüme ve başarı yolunda rehberlik etmek.";
+var kariyer_secim_25_plus_s7_other_7_6 = "• Start-up Kuruculuğu: Kendi işini kurarak, yeni bir iş fikrini hayata geçirmek.";
 var kariyer_secim_25_plus_s7_other_7_7 = "";
 
 var kariyer_secim_25_plus_s7_other_8_1 = "Öğretim ve Mentorluk Kariyerleri";
