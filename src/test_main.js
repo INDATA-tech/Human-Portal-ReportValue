@@ -3849,7 +3849,7 @@ var ai_12_s4u2_4_2 = "• Karar verirken olaylara nasıl yaklaşırım? Farklı 
 
 var ai_12_s3_5_1 = "Uyarlanabilirlik ve Sürekli Öğrenme";
 var ai_12_s3_5_2 = "• Esneklik: Sürekli değişen teknoloji ve iş dünyasına hızla adapte olabilmek. Yeni AI araçlarını, sistemlerini öğrenme yeteneği önemlidir.\n\n• Yaşam Boyu Öğrenme: Teknoloji geliştikçe, yeni beceriler öğrenme ve mevcut becerileri güncelleme yeteneği daha da önem kazanıyor.";
-var ai_12_s4u1_5_2 = "• Hızla değişen teknoloji dünyasında nasıl adapte olabilirsin? Esnek olma yeteneğinle hangi mesleklerde daha başarılı olabileceğini düşünüyorsun?\n\n• Yaşam boyu öğrenme anlayışınla hangi yeni teknolojileri öğrenmeyi planlıyorsun? Bu öğrenme sürecini kariyerin boyunca nasıl sürdürebilirsin?";
+var ai_12_s4u1_5_2 = "• Hızla değişen teknoloji dünyasında nasıl adapte olabilirsin? Esnek olma yeteneğinle hangi mesleklerde daha başarılı olabileceğini düşünüyorsun?\n\nn• Yaşam boyu öğrenme anlayışınla hangi yeni teknolojileri öğrenmeyi planlıyorsun? Bu öğrenme sürecini kariyerin boyunca nasıl sürdürebilirsin?";
 var ai_12_s4u2_5_2 = "• Yeni teknolojilere ve değişen iş dünyasına ne kadar hızlı uyum sağlayabiliyorum? Değişikliklere karşı nasıl tepki veriyorum?\n\n• Yapay zekanın hızlı gelişimi karşısında nasıl esnek olabilirim? İş hayatımda daha uyumlu olmak için hangi adımları atmalıyım?\n\n• Kendimi geliştirmek için ne kadar istekliyim? Teknolojideki yenilikleri takip etme konusunda ne kadar aktifim?\n\n• Hangi alanlarda kendimi daha fazla geliştirmem gerektiğini düşünüyorum? AI dünyasında öğrenmeye nasıl devam edebilirim?";
 
 var ai_12_s3_6_1 = "İletişim ve İşbirliği";
@@ -18916,8 +18916,8 @@ var decision_strategy_eng_ozet_11_2 = "";
       allVariables.P44A2 = decision_strategy(decision_strategyData, age, "s4_x_text", language);
       allVariables.P44A3 = kararVermeStratejin3;
       allVariables.P44A4 = decision_strategy(decision_strategyData, age, "s4_x_1", language);
-      allVariables.P44A8 = decision_strategy(decision_strategyData, age, "s4_x_txt", language);
-      allVariables.P44A9 = decision_strategy(decision_strategyData, age, "image", language);
+      allVariables.P44A5 = decision_strategy(decision_strategyData, age, "s4_x_txt", language);
+      allVariables.P44A6 = decision_strategy(decision_strategyData, age, "image", language);
   
       allVariables.P45A1 = "image"; // Sana uygun kariyer dağılımların
       allVariables.P45A2 = "1." + kariyer_secim(careerSelectionLastResult[0], age, "name", language);

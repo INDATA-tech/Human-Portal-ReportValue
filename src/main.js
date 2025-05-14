@@ -18916,8 +18916,8 @@ var decision_strategy_eng_ozet_11_2 = "";
       allVariables.P44A2 = decision_strategy(decision_strategyData, age, "s4_x_text", language);
       allVariables.P44A3 = kararVermeStratejin3;
       allVariables.P44A4 = decision_strategy(decision_strategyData, age, "s4_x_1", language);
-      allVariables.P44A8 = decision_strategy(decision_strategyData, age, "s4_x_txt", language);
-      allVariables.P44A9 = decision_strategy(decision_strategyData, age, "image", language);
+      allVariables.P44A5 = decision_strategy(decision_strategyData, age, "s4_x_txt", language);
+      allVariables.P44A6 = decision_strategy(decision_strategyData, age, "image", language);
   
       allVariables.P45A1 = "image"; // Sana uygun kariyer dağılımların
       allVariables.P45A2 = "1." + kariyer_secim(careerSelectionLastResult[0], age, "name", language);
