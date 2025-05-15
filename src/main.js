@@ -1470,7 +1470,7 @@ var kariyer_secim_25_plus_s7_dress_2_2 = "Hazır giyim sektöründe liderlik ve 
 var kariyer_secim_25_plus_s7_dress_2_3 = "• Mağaza Müdürü: Büyük bir moda perakende mağazasını yönetebilir, satış stratejileri geliştirebilir ve personeli yönlendirebilirsin."; 
 var kariyer_secim_25_plus_s7_dress_2_4 = "• Üretim Müdürü: Giyim üretim süreçlerini yönetebilir, kalite kontrol ve verimlilik konularında sorumluluk alabilirsin."; 
 var kariyer_secim_25_plus_s7_dress_2_5 = "• Satış Müdürü: Hazır giyim ürünlerinin satış stratejilerini belirleyebilir ve satış ekibini yönetebilirsin."; 
-var kariyer_secim_25_plus_s7_dress_2_6 = "•	Bölge Müdürü: Birden fazla mağazanın performansını denetleyerek, satış ve operasyon süreçlerini koordine edebilirsin.";
+var kariyer_secim_25_plus_s7_dress_2_6 = "• Bölge Müdürü: Birden fazla mağazanın performansını denetleyerek, satış ve operasyon süreçlerini koordine edebilirsin.";
 var kariyer_secim_25_plus_s7_dress_2_7 = "• Tedarik Zinciri Yöneticisi: Giyim markalarının üretimden mağazalara kadar olan tedarik zincirini yöneterek, ürünlerin doğru zamanda doğru yerlere ulaşmasını sağlayabilirsin."; 
 
 var kariyer_secim_25_plus_s7_dress_3_1 = "Yardım ve Sosyal Kariyerler "; 
