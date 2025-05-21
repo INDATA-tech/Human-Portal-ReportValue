@@ -93,17 +93,17 @@ export default async ({ req, res, log, error }) => {
   // Why not try the Appwrite SDK?
   //
   const client = new Client()
-    .setEndpoint("https://appwrite.anahtarsensin.com/v1")
-    .setProject("664d9d3100058da52135") //process.env.APPWRITE_FUNCTION_PROJECT_ID)
-    .setKey(
-      "a3c118df4b071221a3555380fb0f32fc6e96734088f1d2fe05f9356c2299b90379d97a0e86f46677bfbbc587130cb32ae73f4e4e76880270e29d4dafd6fd734a21e8b66ed5c8436ea1784cb497d4dd33ca25978d34acd1259d3b81e1422f3e25b6c8c4a9b95bf30460bc095712e78ab452373464335be65c27a5068f02fbf805",
-    ); //process.env.APPWRITE_API_KEY)
-  var database = new Databases(client);
-  var answers = await database.getDocument(
-    "65dc57b1e8322b0426ae",
-    "65e97978db53e3998c12",
-    String(req.body),
-  );
+      .setEndpoint("https://appwrite.anahtarsensin.com/v1")
+      .setProject("664d9d3100058da52135") //process.env.APPWRITE_FUNCTION_PROJECT_ID)
+      .setKey(
+        "a3c118df4b071221a3555380fb0f32fc6e96734088f1d2fe05f9356c2299b90379d97a0e86f46677bfbbc587130cb32ae73f4e4e76880270e29d4dafd6fd734a21e8b66ed5c8436ea1784cb497d4dd33ca25978d34acd1259d3b81e1422f3e25b6c8c4a9b95bf30460bc095712e78ab452373464335be65c27a5068f02fbf805",
+      ); //process.env.APPWRITE_API_KEY)
+    var database = new Databases(client);
+    var answers = await database.getDocument(
+      "65dc57b1e8322b0426ae",
+      "65e97978db53e3998c12",
+      String(req.body),
+    );
   var processedData = JSON.parse(answers.ProcessedData);
   var rawData = JSON.parse(answers.RawData);
 
@@ -3302,54 +3302,54 @@ var guclu_yanlarin_33_eng_2 = "Ensuring Smooth Operations You have the unique ab
 
 // Kişilik Özelliklerin
 var kslk_ozl_realistic_your_profile = "Gerçekçi";
-var kslk_ozl_realistic_your_profile_ = "Pratik ve uygulamalı çözümler üretmekten keyif alırsın. Gerçek malzemelerle—bitkiler, hayvanlar, ahşap, aletler ve makineler—çalışmayı seversin. Açık havada çalışmak ve fiziksel aktivitelerde bulunmak sana doğal gelebilir.";
-var kslk_ozl_realistic_your_interests_1 = "Özgüvenli ve mekanik işlere yatkınsın. Somut, elle tutulur şeyleri önemsersin ve geleneksel değerlere sahipsin. Aletlerle çalışmayı, makineleri kullanmayı veya tarım ve hayvancılık alanında becerilerini geliştirmeyi seversin.";
-var kslk_ozl_realistic_your_interests_2 = "Fiziksel aktivite gerektiren işleri ve açık havada çalışmayı seversin. Somut problem çözmeye odaklandığın için genellikle pratik çözümleri tercih edersin. Bağımsız çalışmayı sevsen de, gerektiğinde ekip içinde uyum sağlayabilir ve iş birliği yapabilirsin.";
+var kslk_ozl_realistic_your_profile_ = "Pratik ve uygulamalı çözümler üretmekten keyif alabilirsin. Bitkiler, hayvanlar, aletler veya makineler gibi gerçek malzemelerle çalışmak hoşuna gidebilir. Açık havada olmak ve fiziksel hareket sana doğal gelebilir.";
+var kslk_ozl_realistic_your_interests_1 = "Özgüvenli olabilir ve mekanik işlere yatkınlık gösterebilirsin. Elle tutulur, somut şeyleri hoşuna gidebilir. Aletlerle çalışmak, makineler kullanmak ya da tarım ve hayvancılık alanında becerilerini geliştirmek hoşuna gidebilir.";
+var kslk_ozl_realistic_your_interests_2 = "Fiziksel hareket içeren işleri ve açık havada çalışmayı sevebilirsin. Somut problemlerle ilgilenmek sana daha doğal gelebilir. Genelde bağımsız çalışmayı tercih etsen de, gerektiğinde ekip içinde uyum sağlayabilir ve iş birliği yapabilirsin.";
 var kslk_ozl_realistic_your_work_areas = "Mühendislik, teknik hizmetler, inşaat, zanaatkârlık, tarım ve güvenlik gibi fiziksel beceri ve problem çözme odaklı alanlar";
 var kslk_ozl_realistic_you_may_not_like = "Soyut kavramlarla uğraşmayı, sürekli masa başında çalışmayı ve detaylı bürokratik işleri sevmeyebilirsin";
 var kslk_ozl_12_25_realistic_questions = "• Ellerimle bir şeyler yaptığımda (örneğin, bir proje hazırlarken ya da bir deney yaparken) kendimi nasıl hissediyorum? Bu yeteneğimi derslerde daha etkili kullanabilir miyim?\n\n• Pratik çözümler bulduğumda işlerimi daha kolay ve hızlı halledebiliyor muyum? Bu becerimi grup çalışmalarında nasıl öne çıkarabilirim?\n\n• Fiziksel aktiviteler yaptığımda veya açık havada çalıştığımda daha motive olduğumu fark ediyor muyum? Bu motivasyonu okul projelerine nasıl yansıtabilirim?";
 var kslk_ozl_25_plus_realistic_questions = "• Sorunları hızlı ve etkili bir şekilde çözmek, iş verimliliğimi nasıl etkiliyor? Bu yaklaşımı günlük iş akışımda daha fazla nasıl kullanabilirim?\n\n• Açık hava veya fiziksel hareket gerektiren bir iş yaptığımda motivasyonumda bir artış oluyor mu? Bu motivasyonu işimde daha çok nasıl artırabilirim?\n\n• İşimde ellerimle bir şeyler ürettiğimde veya somut sonuçlar aldığımda kendimi nasıl hissediyorum? Bu pratik beceriyi iş projelerimde daha iyi nasıl kullanabilirim?";
 
 var kslk_ozl_investigative_your_profile = "Araştırıcı";
-var kslk_ozl_investigative_your_profile_ = "Karmaşık sorunları çözmekten keyif alırsın. Fikirleri keşfetmeyi, araştırma yapmayı ve teorileri incelemeyi seversin. Düşünmeyi ve analiz yapmayı tercih edebilirsin, ancak araştırmalarını uygulamaya dökme konusunda da başarılı olabilirsin.";
-var kslk_ozl_investigative_your_interests_1 = "Meraklı, analitik ve entelektüelsin. Bir şeyleri araştırmayı ve karmaşık problemleri çözmeyi seversin. Fikirleri keşfetmek ve geliştirmek sana ilham verir, ayrıca bilgiyi paylaşarak başkalarına rehberlik edebilirsin.";
-var kslk_ozl_investigative_your_interests_2 = "Bilimsel ve teknik içerikli yayınları okumaktan hoşlanırsın. Genellikle yalnız çalışmayı tercih edebilir, veri ve fikirlerle uğraşmayı seversin. Başkalarını ikna etme veya satış gibi alanlara fazla ilgi duymayabilirsin, ancak uzmanlık alanında liderlik edebilir ve rehberlik yapabilirsin.";
+var kslk_ozl_investigative_your_profile_ = "Karmaşık sorunları çözmekten hoşlanabilirsin. Fikirleri keşfetmek, araştırma yapmak ve teorileri incelemek sana keyif verebilir. Düşünmeyi ve analiz yapmayı tercih edebilirsin, hatta bulgularını hayata geçirme konusunda da başarılı olabilirsin.";
+var kslk_ozl_investigative_your_interests_1 = "Meraklı, analitik ve entelektüel bir yönün olabilir. Araştırma yapmaktan ve karmaşık problemleri çözmekten hoşlanabilirsin. Fikirleri keşfetmek ve geliştirmek seni motive edebilir; ayrıca bilgini paylaşarak başkalarına rehberlik edebilirsin.";
+var kslk_ozl_investigative_your_interests_2 = "Bilimsel ve teknik içerikli yayınları okumaktan hoşlanabilirsin. Genellikle yalnız çalışmayı tercih edebilir, veri ve fikirlerle uğraşmaktan keyif alabilirsin. Satış ya da ikna gerektiren alanlara fazla ilgi duymayabilirsin; ancak uzmanlık alanında liderlik edebilir ve başkalarına yol gösterebilirsin.";
 var kslk_ozl_investigative_your_work_areas = "Bilim, mühendislik, tıp, veri analitiği ve akademik araştırma gibi derinlemesine düşünmeyi, sorgulamayı ve problem çözmeyi gerektiren alanlar";
 var kslk_ozl_investigative_you_may_not_like = "Tekrarlayan rutin işleri, yüzeysel bilgiyi, katı kurallara uymayı ve fazla sosyal etkileşim gerektiren rolleri sevmeyebilirsin";
 var kslk_ozl_12_25_investigative_questions = "• Zor sorularla karşılaştığımda nasıl bir çözüm yolu buluyorum? Bu problem çözme becerimi derslerde daha sık nasıl kullanabilirim?\n\n• Yeni şeyler öğrenmek ve araştırmak beni nasıl motive ediyor? Araştırmalarımı projelerde veya ödevlerde nasıl daha etkili kullanabilirim?\n\n• Zihinsel olarak zorlandığım bir konuda ne kadar derine inip öğrenmeyi seviyorum? Bu merakımı okulda hangi alanlarda daha fazla geliştirebilirim?";
 var kslk_ozl_25_plus_investigative_questions = "• Zorlu problemlerle karşılaştığımda, hangi çözüm yollarını kullanıyorum? Bu analitik düşünme becerimi iş yerinde daha sık nasıl uygulayabilirim?\n\n• Detaylı araştırmalar yaptığımda işimde nasıl bir fark yaratıyorum? Bu merak duygusunu işimde daha fazla nasıl kullanabilirim?\n\n• Karmaşık bir sorunu çözmek için derinlemesine düşündüğümde hangi yeteneklerimi geliştiriyorum? Bu problem çözme becerilerimi işimde daha çok nasıl öne çıkarabilirim?";
 
 var kslk_ozl_artistic_your_profile = "Sanatsal";
-var kslk_ozl_artistic_your_profile_ = "Sanatsal formlar, tasarımlar ve desenlerle ilgilenmekten keyif alırsın. İşinde kendini özgün şekilde ifade etmeyi seversin. Katı kurallar olmadan, esneklik sunan ortamlarda çalışmayı tercih edebilirsin.";
-var kslk_ozl_artistic_your_interests_1 = "Yaratıcı ve özgünsün. Kendini sanatsal yollarla ifade etmekten keyif alırsın. Sanat, drama, yazı, dans ve müzik gibi estetik alanlarla ilgilenmek sana ilham verir.";
-var kslk_ozl_artistic_your_interests_2 = "Sezgilerini ve özgünlüğünü kullanarak yeni fikirler geliştirmeyi seversin. Değişken ve yaratıcı ortamlarda en fazla tatmini bulursun. Tekrarlayan, sıkı kurallara dayalı işlerden hoşlanmayabilir, insanlarla ve fikirlerle etkileşim kurmayı tercih edebilirsin.";
+var kslk_ozl_artistic_your_profile_ = "Sanatsal formlar, tasarımlar ve desenlerle ilgilenmekten keyif alabilirsin. Kendini işinde özgün bir şekilde ifade etmek hoşuna gidebilir. Katı kuralların olmadığı, esneklik sunan ortamlarda çalışmayı tercih edebilirsin.";
+var kslk_ozl_artistic_your_interests_1 = "Yaratıcı ve özgün bir yapın olabilir. Kendini sanatsal yollarla ifade etmekten keyif alabilirsin. Sanat, drama, yazı, dans ve müzik gibi estetik alanlarla ilgilenmek sana ilham verebilir.";
+var kslk_ozl_artistic_your_interests_2 = "Sezgilerini ve özgünlüğünü kullanarak yeni fikirler üretmekten hoşlanabilirsin. Değişken ve yaratıcı ortamlarda daha fazla tatmin bulabilirsin. Tekrarlayan ve sıkı kurallara dayalı işlerden hoşlanmayabilir, insanlarla ve fikirlerle etkileşimde bulunmayı tercih edebilirsin.";
 var kslk_ozl_artistic_your_work_areas = "Görsel sanatlar, müzik, edebiyat, tasarım, tiyatro ve medya gibi sanatsal yetenek ve bireysel ifade gücü gerektiren alanlar";
 var kslk_ozl_artistic_you_may_not_like = " Katı kurallara ve standartlara bağlı işleri, sürekli tekrar eden görevleri ve yaratıcılık gerektirmeyen rutin işleri sevmeyebilirsin";
 var kslk_ozl_12_25_artistic_questions = "• Kendimi resim yaparak, yazı yazarak ya da başka yaratıcı yollarla ifade ettiğimde en çok hangi anlarda kendimi özgür hissediyorum? Bu yaratıcılığı ödevlerime nasıl ekleyebilirim?\n\n• Farklı fikirler bulduğumda arkadaşlarım ve öğretmenlerim nasıl tepkiler veriyor? Yaratıcı düşüncelerimi projelerde daha fazla nasıl gösterebilirim?\n\n• Sıkıcı bulduğum görevlerde yaratıcı bir dokunuş eklediğimde nasıl bir fark yaratıyorum? Yaratıcılığı günlük okul işlerine nasıl daha çok katabilirim?";
 var kslk_ozl_25_plus_artistic_questions = "• Yaratıcı bir çözüm ürettiğimde ya da özgün bir fikir sunduğumda iş yerinde nasıl geri bildirimler alıyorum? Bu yaratıcı bakış açısını projelerime daha fazla nasıl katabilirim?\n\n• Rutin işler monotonlaştığında, işime daha yaratıcı bir dokunuş katmak performansımı nasıl etkiliyor? Yaratıcı düşünme tarzımı günlük görevlerde nasıl daha çok kullanabilirim?\n\n• Yeni ve alışılmadık fikirler ürettiğimde, bu fikirlerin iş yerindeki katkılarını nasıl gözlemliyorum? Bu yaratıcı süreçleri projelerime nasıl daha sık entegre edebilirim?";
 
 var kslk_ozl_social_your_profile = "Sosyal";
-var kslk_ozl_social_your_profile_ = "Başkalarına yardımcı olmayı ve öğrenmeyi teşvik eden işlerden keyif alırsın. İnsanlarla iletişim kurmayı, onları desteklemeyi ve rehberlik etmeyi seversin. Makineler ve veriler yerine insan odaklı çalışmalara yönelme eğiliminde olabilirsin.";
-var kslk_ozl_social_your_interests_1 = "Sıcakkanlı, dışa dönük ve anlayışlısın. Başkalarıyla birebir etkileşim içinde olmayı ve insanlara destek sağlamayı seversin. Kişisel ilişkiler kurmak, öğretmek ve insan refahını önemsemek senin için değerlidir.";
-var kslk_ozl_social_your_interests_2 = "İnsanlar arasındaki sorunları çözmekten ve uzlaştırıcı olmaktan keyif alırsın. Teknik görevlerden çok kişiler arası etkileşime yönelmeyi tercih edebilirsin. Yoğun fiziksel işlerden hoşlanmayabilir, ancak sosyal ve entelektüel alanlarda aktif olabilirsin.";
+var kslk_ozl_social_your_profile_ = "Başkalarına yardımcı olmayı ve öğrenmeyi teşvik eden işlerden keyif alabilirsin. İnsanlarla iletişim kurmak, onları desteklemek ve rehberlik etmek sana iyi gelebilir. Makineler ya da veriler yerine insan odaklı çalışmalara yönelmeyi tercih edebilirsin.";
+var kslk_ozl_social_your_interests_1 = "Sıcakkanlı, dışa dönük ve anlayışlı biri olabilirsin. Başkalarıyla birebir etkileşimde bulunmaktan ve insanlara destek sağlamaktan hoşlanabilirsin. Kişisel ilişkiler kurmak, öğretmek ve insan refahını önemsemek senin için önemli olabilir.";
+var kslk_ozl_social_your_interests_2 = "İnsanlar arasındaki sorunları çözmekten ve uzlaştırıcı olmaktan keyif alabilirsin. Teknik görevler yerine kişiler arası etkileşime yönelmeyi tercih edebilirsin. Yoğun fiziksel işlerden hoşlanmayabilir ve sosyal-entelektüel alanlarda aktif olabilirsin.";
 var kslk_ozl_social_your_work_areas = "Eğitim, sağlık, danışmanlık, insan kaynakları, sosyal hizmetler ve müşteri odaklı alanlar";
 var kslk_ozl_social_you_may_not_like = "Rekabetçi ortamları, bireysel çalışmayı, soğuk ve mekanik işleri veya insan etkileşimi içermeyen teknik görevleri sevmeyebilirsin";
 var kslk_ozl_12_25_social_questions = "• Bir arkadaşımın problemini çözmesine yardım ettiğimde kendimi nasıl hissediyorum? Bu yardımlaşma yeteneğimi okul etkinliklerinde nasıl daha etkili kullanabilirim?\n\n• Grup çalışmasında arkadaşlarımı motive ettiğimde işler nasıl ilerliyor? Bu motivasyon gücümü okul projelerinde daha fazla nasıl kullanabilirim?\n\n• Başkalarının neye ihtiyacı olduğunu anlamak, benim okul hayatımda nasıl avantajlar sağlıyor? Bu empatiyi daha çok nasıl geliştirebilirim?";
 var kslk_ozl_25_plus_social_questions = "• İş arkadaşlarıma yardım ettiğimde ya da onlara rehberlik ettiğimde, hangi becerilerim öne çıkıyor? Bu yardımseverliği iş hayatımda daha fazla nasıl kullanabilirim?\n\n• Başkalarının ihtiyaçlarını anlamak ve uygun çözümler sunmak, işimde bana nasıl katkılar sağlıyor? Bu empatiyi iş yerinde daha da güçlendirmek için neler yapabilirim?\n\n• Ekip çalışmalarında başkalarını motive ettiğimde, işlerin ilerleyişini nasıl etkiliyorum? Bu yeteneğimi daha fazla projeye nasıl yansıtabilirim? ";
 
 var kslk_ozl_entreprise_your_profile = "Girişimci";
-var kslk_ozl_entreprise_your_profile_ = "Projeler başlatmayı ve yönetmeyi seversin, özellikle ticari girişimler seni heyecanlandırır. İnsanları ikna etmek, yönlendirmek ve hızlı kararlar almak konusunda rahatsın. Risk almayı göze alabilir ve fikirlerini hayata geçirmek için harekete geçmeyi tercih edebilirsin.";
-var kslk_ozl_entreprise_your_interests_1 = "Kendine güvenen, iddialı ve enerjiksin. Sözel becerilerini insanları etkilemek, fikirlerini tanıtmak ve anlaşmalar yapmak için kullanırsın. Satış, pazarlama ve liderlik gerektiren işlerden keyif alırsın.";
-var kslk_ozl_entreprise_your_interests_2 = "Başarı, yenilik ve büyüme senin için önemlidir. Rekabetçi bir yapıya sahipsin ve risk alarak büyük fırsatlar yaratabilirsin. Projeler geliştirip insanları yanına çekmeyi seversin. Hem fikirlerle hem de insanlarla çalışarak hedeflerine ulaşmayı tercih edersin.";
+var kslk_ozl_entreprise_your_profile_ = "Projeler başlatmak ve yönetmek sana keyif verebilir, özellikle ticari girişimler seni heyecanlandırabilir. İnsanları ikna etmek, yönlendirmek ve hızlı kararlar almak konusunda kendini rahat hissedebilirsin. Risk almayı göze alabilir ve fikirlerini hayata geçirmek için harekete geçmeyi tercih edebilirsin.";
+var kslk_ozl_entreprise_your_interests_1 = "Kendine güvenen, iddialı ve enerjik biri olabilirsin. Sözel becerilerini insanları etkilemek, fikirlerini tanıtmak ya da anlaşmalar yapmak için kullanmaktan hoşlanabilirsin. Satış, pazarlama ve liderlik gerektiren işlerden keyif alabilirsin.";
+var kslk_ozl_entreprise_your_interests_2 = "Başarı, yenilik ve büyüme senin için önemli olabilir. Rekabetçi bir yapıya sahip olabilir ve risk alarak büyük fırsatlar yaratmayı isteyebilirsin. Projeler geliştirip insanları yanına çekmekten hoşlanabilirsin. Hem fikirlerle hem de insanlarla çalışarak hedeflerine ulaşmayı tercih edebilirsin.";
 var kslk_ozl_entreprise_your_work_areas = "Satış, pazarlama, yönetim, girişimcilik, hukuk ve politika gibi ikna kabiliyeti, stratejik düşünme ve risk almayı gerektiren alanlar";
 var kslk_ozl_entreprise_you_may_not_like = "Tekdüze ve kurallarla sıkı sıkıya bağlı işleri, yaratıcı özgürlüğün olmadığı ortamları ve başkalarının direktifleri doğrultusunda çalışmayı sevmeyebilirsin.";
 var kslk_ozl_12_25_entreprise_questions = "• Bir grup çalışmasında liderlik yapıp yönlendirdiğimde kendimi nasıl hissediyorum? Bu liderlik becerimi okulda hangi projelerde daha çok kullanabilirim?\n\n• İnsanları ikna ettiğimde ve onları harekete geçirdiğimde neler başarıyorum? Bu ikna yeteneğimi okul aktivitelerinde daha sık nasıl kullanabilirim?\n\n• Zor bir karar aldığımda, bu kararın sonuçları beni nasıl etkiliyor? Okulda risk almayı daha iyi nasıl yönetebilirim?";
 var kslk_ozl_25_plus_entreprise_questions = "• İnsanları motive edip yönlendirdiğimde projelerdeki ilerleme nasıl oluyor? Bu motivasyon becerilerimi iş yerinde daha etkili kullanmak için hangi yolları deneyebilirim?\n\n• İşimde risk almayı gerektiren durumlarda, hangi stratejileri kullanıyorum ve sonuçları nasıl değerlendiriyorum? Risk yönetimimi daha da geliştirmek için neler yapabilirim?\n\n• Karar alma süreçlerinde liderlik ettiğimde nasıl bir sonuç elde ediyorum? Bu liderlik becerimi iş yerimde hangi alanlarda daha çok kullanabilirim? ";
 
 var kslk_ozl_conventional_your_profile = "Geleneksel";
-var kslk_ozl_conventional_your_profile_ = "Belirlenmiş prosedürleri ve rutinleri takip eden işlerden keyif alırsın. Fikirlerden ziyade veriler ve ayrıntılarla çalışmayı tercih edersin. Kesin standartlara sahip işlere yönelirsin. Otorite sınırlarının net olduğu ortamlarda çalışmayı seversin.";
-var kslk_ozl_conventional_your_interests_1 = "Metodik, vicdanlı ve verimli olursun. Açıkça tanımlanmış prosedürleri takip etmeyi seversin. İşlerin sorunsuz yürümesini sağlayan kural ve düzenlemeleri tercih edersin. Yapı ve düzeni belirsizliğe bırakmazsın. Sistemler ve büyük kuruluşlar içinde iyi çalışırsın.";
-var kslk_ozl_conventional_your_interests_2 = "Yüksek standartlara sahip olursun ve ayrıntılara dikkat edersin. İnsanlardan ziyade veriler ve nesnelerle ilgilenirsin. Muhasebe, kayıt tutma ve veri işleme gibi kağıt ile bilgisayar tabanlı işlerde çalışmayı tercih edersin.";
+var kslk_ozl_conventional_your_profile_ = "Belirlenmiş prosedürleri ve rutinleri takip eden işlerden keyif alabilirsin. Fikirlerden çok veriler ve ayrıntılarla çalışmayı tercih edebilirsin. Kesin standartlara sahip işlere yönelebilir, otorite sınırlarının net olduğu ortamlarda kendini daha rahat hissedebilirsin.";
+var kslk_ozl_conventional_your_interests_1 = "Metodik, vicdanlı ve verimli bir yapın olabilir. Açıkça tanımlanmış prosedürleri takip etmekten hoşlanabilirsin. İşlerin sorunsuz yürümesini sağlayan kural ve düzenlemeleri tercih edebilirsin. Yapı ve düzen senin için önemli olabilir. Sistemler ve büyük kuruluşlar içinde iyi çalışabilirsin.";
+var kslk_ozl_conventional_your_interests_2 = "Yüksek standartlara sahip olabilir ve ayrıntılara dikkat edebilirsin. İnsanlardan çok veriler ve nesnelerle ilgilenmeyi tercih edebilirsin. Muhasebe, kayıt tutma ya da veri işleme gibi kâğıt ve bilgisayar tabanlı işlerde çalışmaktan hoşlanabilirsin.";
 var kslk_ozl_conventional_your_work_areas = "Muhasebe, finans, idari işler, lojistik ve veri yönetimi gibi planlama, dikkat ve sistematik çalışma gerektiren alanlar";
 var kslk_ozl_conventional_you_may_not_like = "Belirsizlik içeren, düzensiz veya plansız işleri, karmaşık problem çözmeyi gerektiren görevleri ve risk almayı sevmeyebilirsin";
 var kslk_ozl_12_25_conventional_questions = "• Ders çalışırken veya ödev yaparken kendimi ne kadar düzenli hissediyorum? Bu düzenli çalışma alışkanlığını sınav dönemlerinde nasıl daha iyi kullanabilirim?\n\n• Detaylara dikkat ettiğimde işlerimi daha iyi mi yapıyorum? Bu dikkatimi projelerde ve ödevlerde nasıl daha çok kullanabilirim?\n\n• Planlı olduğumda zamanımı daha iyi yönetebiliyor muyum? Bu planlama becerisini okul hayatımda daha fazla nasıl kullanabilirim?";
@@ -3702,42 +3702,42 @@ var is_y_r_eng_12_s3_2 = "Your Role is about using the resilience and lessons le
 
 
 // Karakter Özellikleri
-var krktr_ozl_openness_to_experience = "Deneyime Açıklık"; 
-var krktr_ozl_openness_to_experience_s1 = "Açıklık (deneyime açıklık olarak da bilinir), beş kişilik özelliği arasında en çok hayal gücü ve sezgiyi vurgular. Açıklık düzeyi yüksek olan kişiler genellikle geniş bir ilgi alanına sahiptir. Dünyaya ve diğer insanlara karşı meraklıdırlar, yeni şeyler öğrenmeye ve yeni deneyimlerden keyif almaya isteklidirler.\n\nBu kişilik özelliği yüksek olan insanlar, genellikle daha maceraperest ve yaratıcı olma eğilimindedir. Buna karşılık, bu özelliği düşük olan insanlar daha geleneksel olabilir ve soyut düşünmede zorlanabilirler.";
-var krktr_ozl_strenghts_openness_to_experience_s2_1 = "Deneyime açıklık, yaratıcılığı, esnekliği ve yeni fikirleri benimseme yeteneğini yansıtır. Bu özellik, sanat ve inovasyon alanlarında başarı getirebilir.";
-var krktr_ozl_weaknesses_openness_to_experience_s2_1 = "Deneyime aşırı açık olmak, bazen odak kaybına veya sabit bir kariyer hedefine sahip olmama isteğine neden olabilir.";
+var krktr_ozl_openness_to_experience = "Deneyime Açıklık";
+var krktr_ozl_openness_to_experience_s1 = "Deneyime açıklık, hayal gücünü, yaratıcılığını ve yeni fikirlere karşı olan tutumunu yansıtır. Bu özelliğin yüksek olabilir; farklı konulara merak duyabilir, yeni deneyimlerden keyif alabilirsin. Geniş ilgi alanlarına sahip olmak, senin dünyaya daha açık ve esnek bir şekilde yaklaşmanı sağlar. Bu da hem öğrenme süreçlerinde hem de yaratıcı projelerde güçlü bir etki yaratabilir.";
+var krktr_ozl_strenghts_openness_to_experience_s2_1 = "Yeni fikirlere açıklık, öğrenmeye istek ve yaratıcı düşünme becerisi kazandırabilir.";
+var krktr_ozl_weaknesses_openness_to_experience_s2_1 = "Fazla seçenek arasında kararsız kalabilir, odaklanmakta ve net hedef koymakta zorlanabilirsin.";
 var krktr_ozl_other_attributes_openness_to_experience_s2 = "Meraklı,\nyaratıcı,\nestetik (sanatsal),\ngeniş ilgi alanlarına sahip,\nduygular odaklı,\nheyecanlı,\nalışılmadık değerlere sahip";
 var krktr_ozl_12_25_openness_to_experience_questions = "• Yeni şeyler öğrendiğimde veya farklı bakış açıları keşfettiğimde kendimi nasıl hissediyorum? Bu merakımı okul projelerinde nasıl daha iyi kullanabilirim?\n\n• Farklı konularla ilgili araştırmalar yaparken hangi alanlarda en çok ilham alıyorum? Bu ilhamı derslerimde nasıl daha yaratıcı hale getirebilirim?\n\n• Alışılmadık bir düşünce tarzı geliştirdiğimde, bu yaklaşım okul performansımı nasıl etkiliyor? Yaratıcı düşünme becerilerimi hangi projelerde daha çok gösterebilirim?";
 var krktr_ozl_25_plus_openness_to_experience_questions = "• İşimde yeni fikirler ve farklı bakış açıları keşfettiğimde nasıl hissediyorum? Bu merak ve yaratıcılığı projelerimde nasıl daha etkili kullanabilirim?\n\n• Farklı sorunları çözmek için alışılmadık yöntemler denediğimde hangi sonuçları alıyorum? Bu yenilikçi yaklaşımları işimde daha fazla nasıl uygulayabilirim?\n\n• Çalışmalarımda yeniliğe açık olduğumda motivasyonum nasıl değişiyor? Yaratıcı düşünme tarzımı iş hayatımda daha geniş alanlara nasıl yayabilirim?";
 
 var krktr_ozl_self_discipline = "Öz Disiplin"; 
-var krktr_ozl_character_elements_self_discipline_s1 = "Her bir kişilik özelliği arasında, öz disiplin; yüksek seviyede düşüncelilik, iyi dürtü kontrolü ve hedef odaklı davranışlarla tanımlanır. Öz Disiplin duygusu yüksek olan kişiler genellikle düzenli ve ayrıntılara dikkat eden bireylerdir. Önceden plan yapar, davranışlarının başkalarını nasıl etkilediğini düşünür ve son teslim tarihlerine özen gösterirler.\n\nBu temel kişilik özelliğinden düşük puan alan bir kişi ise daha az yapısal ve daha düzensiz olabilir. İşleri son ana bırakabilir ve bazen teslim tarihlerini tamamen kaçırabilir.";
-var krktr_ozl_strenghts_self_discipline_s2_1 = "Öz Disiplinli olma, disiplini, organizasyon becerilerini ve sorumluluk hissini yansıtır. Bu, zaman yönetimi ve verimlilik açısından avantaj sağlayabilir.";
-var krktr_ozl_weaknesses_self_discipline_s2_1 = "Aşırı öz disiplinli olmak, esneklik eksikliğine yol açabilir ve iş yerinde aşırı mükemmeliyetçiliğe neden olabilir.";
+var krktr_ozl_character_elements_self_discipline_s1 = "Özdisiplin, düşünceli davranışlarını, hedefe odaklanma gücünü ve dürtülerini kontrol edebilme becerini yansıtır. Bu özelliğin yüksekse, planlı hareket etmeye, sorumluluk almaya ve işlerini zamanında tamamlamaya eğilimli olabilirsin. Düzenli çalışmak, ayrıntılara dikkat etmek ve başkalarının üzerindeki etkilerini düşünmek senin için önem taşıyabilir. Bu yön, güvenilir ve istikrarlı bir çalışma tarzı oluşturabilir. Daha düşük seviyelerde ise dağınıklık, erteleme alışkanlığı ve düzensizlik görülebilir.";
+var krktr_ozl_strenghts_self_discipline_s2_1 = "Planlı, organize ve sorumluluk sahibi olmak verimliliğini ve güvenilirliğini artırabilir.";
+var krktr_ozl_weaknesses_self_discipline_s2_1 = "Aşırı özdisiplin, esneklik kaybına ve mükemmeliyetçilik kaynaklı streslere yol açabilir.";
 var krktr_ozl_other_attributes_self_discipline_s2 = "Verimli,\norganize,\ngörev odaklı,\nbaşarı çabası içerisinde,\nmüzakereci,\ndürtüsel ve tembel olmayan";
 var krktr_ozl_12_25_self_discipline_questions = "• Ödevlerimi planlı ve düzenli bir şekilde yaptığımda sonuçlarım nasıl oluyor? Bu planlama becerimi sınav dönemlerinde nasıl daha etkili hale getirebilirim?\n\n• Hedeflerime ulaştığımda, bu başarıyı sağlayan en önemli alışkanlıklarım neler? Bu alışkanlıkları ders çalışmamda ve diğer görevlerimde nasıl daha da geliştirebilirim?\n\n• Sorumluluklarımı yerine getirdiğimde kendimi nasıl motive ediyorum? Bu motivasyonu, uzun vadeli projelerimde daha sürdürülebilir hale nasıl getirebilirim?";
 var krktr_ozl_25_plus_self_discipline_questions = "• Görevlerimi planlı ve organize bir şekilde tamamladığımda nasıl sonuçlar alıyorum? Bu planlama becerisini daha büyük projelere nasıl yansıtabilirim?\n\n• Koyduğum hedeflere ulaşmak için hangi alışkanlıklarımı daha sık kullanıyorum? Bu başarı alışkanlıklarını iş hayatımda nasıl daha fazla güçlendirebilirim?\n\n• Sorumluluklarımı yerine getirdiğimde hangi içsel motivasyon kaynaklarından yararlanıyorum? Bu motivasyonu uzun vadeli projelerde nasıl daha sürdürülebilir hale getirebilirim?";
 
 var krktr_ozl_extraversion = "Dışa Dönüklük";
-var krktr_ozl_character_elements_extraversion_s1 = 'Dışadönüklük, heyecanlı olma, sosyallik, konuşkanlık, kendine güven ve yüksek duygusal ifade ile karakterize edilen bir kişilik özelliğidir. Dışadönüklük seviyesi yüksek olan kişiler, dışa dönük olup sosyal ortamlarda enerji kazanma eğilimindedir. Başkalarıyla bir arada olmak, onların kendilerini enerjik ve heyecanlı hissetmelerine yardımcı olur.\n\nBu kişilik özelliği düşük olan ya da içedönük kişiler ise genellikle daha sakindirler. Sosyal ortamlarda harcayacak daha az enerjileri vardır ve sosyal etkinlikler onları yorabilir. İçedönük bireyler genellikle \"yeniden şarj olmak\" için yalnızlığa ve sessizliğe ihtiyaç duyarlar.';
-var krktr_ozl_strenghts_extraversion_s2_1 = "Sosyal etkileşimlere yatkınlık, liderlik pozisyonlarına uygunluk ve ekip çalışması yeteneği gibi dışa dönüklük özellikleri, iş birligi ve iletişim becerilerini geliştirebilir. Diğer insanların yanındayken enerjik hisseder.";
-var krktr_ozl_weaknesses_extraversion_s2_1 = "İş yerinde fazla dışa dönük olmak, odak kaybına neden olabilir ve bazen kişinin kendi görevlerine odaklanmasını zorlaştırabilir.";
+var krktr_ozl_character_elements_extraversion_s1 = 'Dışadönüklük, sosyal ortamlarda kendini rahat hissetmen, enerjik olman ve kendine güvenini ifade etmenle ilgilidir. Bu özelliğin yüksekse, insanlarla birlikte olmaktan keyif alabilir ve kalabalık ortamlarda enerjinin yükseldiğini hissedebilirsin. Konuşkan, dışa açık ve coşkulu bir yapıya sahip olabilirsin. Düşük seviyelerde ise daha sakin, iç gözlemci ve yalnız kalmaktan hoşlanan biri olabilirsin. Kendini yeniden toparlamak için sessiz ve bireysel alanlara ihtiyaç duyabilirsin.';
+var krktr_ozl_strenghts_extraversion_s2_1 = "Sosyallik, iletişim ve ekip çalışmasında güç kazandırabilir; başkalarının yanında enerjik hissedebilirsin.";
+var krktr_ozl_weaknesses_extraversion_s2_1 = "Aşırı dışadönüklük, dikkat dağınıklığına ve kendi işine odaklanmakta zorlanmana neden olabilir.";
 var krktr_ozl_other_attributes_extraversion_s2 = "Girişken,\nenerjik,\ngüçlü,\nheyecan arayan,\nmaceracı,\nçoşkulu,\nolumlu duygular yaşayan,\nsıcak";
 var krktr_ozl_12_25_extraversion_questions = "• Grup çalışmalarında ya da sınıf etkinliklerinde aktif rol aldığımda nasıl hissediyorum? Bu enerjiyi okulda daha fazla hangi etkinliklerde kullanabilirim?\n\n• Arkadaşlarımla etkileşim kurarak öğrenmek beni nasıl etkiliyor? Grup çalışmalarında nasıl daha fazla liderlik yapabilirim?\n\n• Sosyal ortamlarda bulunmak ve konuşmak, okul başarımı nasıl etkiliyor? Bu becerilerimi derslerde ya da projelerde daha sık nasıl gösterebilirim?";
 var krktr_ozl_25_plus_extraversion_questions = "• İş yerinde grup çalışmalarına katıldığımda ya da liderlik yaptığımda nasıl hissediyorum? Bu enerjiyi ekip projelerinde daha etkili nasıl kullanabilirim?\n\n• İş arkadaşlarımla etkileşim kurarak çalışmak, performansımı nasıl etkiliyor? Bu sosyal becerilerimi daha fazla iş fırsatında nasıl gösterebilirim?\n\n• Toplantılarda veya sosyal ortamlarda aktif olduğumda, iş yerindeki başarıma nasıl katkı sağlıyorum? Bu beceriyi iş ortamında daha fazla nasıl kullanabilirim?";
 
 var krktr_ozl_agreeableness = "Uyumluluk"; 
-var krktr_ozl_character_elements_agreeableness_s1 = "Uyumluluk düzeyi yüksek olan kişiler, genellikle başkalarına yardım etme ve destek olma isteğiyle hareket ederler. Bu, onları grup çalışmalarında ve sosyal ortamlarda sevilen bireyler haline getirir. Ayrıca, uzlaşmacı yapıları nedeniyle çevreleriyle daha sağlıklı ilişkiler kurar ve işbirliği gerektiren ortamlarda başarılı olurlar. Buna karşın, uyumluluk seviyesi düşük bireyler, daha rekabetçi ve kendi çıkarlarına odaklı olabilir; bu da bazen ekip çalışmasında zorluklar yaşamalarına veya başkalarıyla daha zorlu ilişkiler kurmalarına neden olabilir.";
-var krktr_ozl_strenghts_agreeableness_s2_1 = "Uyumluluk, işbirliği, empati ve iletişim becerilerini yansıtır. İş yerinde veya okulda diğer insanlarla iyi geçinme yeteneği için avantaj saglayabilir.";
-var krktr_ozl_weaknesses_agreeableness_s2_1 = "Aşırı uyumlu olmak, sınırlarının belirsizleşmesine ve iş yerinde zor kararlar almada güçlük yaşanmasına neden olabilir";
+var krktr_ozl_character_elements_agreeableness_s1 = "Uyumluluk, başkalarına karşı anlayışlı, destekleyici ve iş birliğine açık olmanı ifade eder. Bu özelliğin yüksekse, insan ilişkilerinde uyumlu olabilir, grup çalışmalarında yapıcı bir rol üstlenebilir ve çevrendekiler tarafından kolayca kabul görebilirsin. Yardım etmeyi önemseyebilir, uzlaşmacı bir tutumla sağlıklı ilişkiler kurabilirsin. Düşük uyumluluk düzeylerinde ise daha rekabetçi davranabilir ya da önceliğini kendi hedeflerine verebilirsin; bu da zaman zaman ekip içinde anlaşmazlıklara yol açabilir.";
+var krktr_ozl_strenghts_agreeableness_s2_1 = "Empati kurma, iş birliği yapma ve insan ilişkilerini güçlü tutma becerisi kazandırabilir.";
+var krktr_ozl_weaknesses_agreeableness_s2_1 = "Aşırı uyumluluk, sınır çizememeye ve zor kararları ertelemeye neden olabilir.";
 var krktr_ozl_other_attributes_agreeableness_s2 = "Bağışlayıcı,\naçık sözlü,\ntalepkar olmayan,\nfedakar,\nuyumlu,\nalçak gönüllü,\nsempatik,\nşefkatli";
 var krktr_ozl_12_25_agreeableness_questions = "• Sınıf arkadaşlarıma yardım ettiğimde veya onlarla iş birliği yaptığımda, hangi becerilerim öne çıkıyor? Bu iş birliğini grup projelerinde nasıl daha etkili kullanabilirim?\n\n• Başkalarının ihtiyaçlarını anlamak ve onlara destek olmak, sınıf içindeki ilişkilerimi nasıl güçlendiriyor? Bu empatiyi okulda daha fazla nasıl geliştirebilirim?\n\n• Anlayışlı ve sabırlı olduğum durumlarda nasıl bir etki yaratıyorum? Bu özellikleri grup çalışmaları veya sınıf içindeki tartışmalarda nasıl daha iyi kullanabilirim?";
 var krktr_ozl_25_plus_agreeableness_questions = "• İş arkadaşlarıma yardım ettiğimde veya onlarla iş birliği yaptığımda hangi becerilerim öne çıkıyor? Bu iş birliğini projelerimde daha etkili nasıl kullanabilirim?\n\n• Anlayışlı ve sabırlı olduğumda iş yerinde nasıl bir etki yaratıyorum? Bu özellikleri zorlu projelerde ve ekip çalışmalarında nasıl daha iyi kullanabilirim?\n\n• Çalışma arkadaşlarımın ihtiyaçlarını anlamak ve onlara destek olmak, iş ortamındaki ilişkilerimi nasıl güçlendiriyor? Bu empatiyi iş hayatımda nasıl daha da geliştirebilirim?";
 
 var krktr_ozl_emotional_stability = "Duygusal Dayanıklılık"; 
-var krktr_ozl_character_elements_emotional_stability_s1 = "Duygusal denge, bir kişinin stresi nasıl yönettiğini, duygusal dengeyi nasıl koruduğunu ve sağlıklı bir özgüven sürdürebilme yeteneğini yansıtır. Duygusal dengesi yüksek olan bireyler, baskı altında daha sakin kalır ve zorluklardan çabuk toparlanabilirler.\n\nBuna karşılık, duygusal dengesi düşük olan kişiler, daha güçlü duygusal dalgalanmalar yaşayabilir, stres karşısında kolayca bunalmış hissedebilir ve zor zamanlarda olumlu bir benlik imajını sürdürmekte zorlanabilirler. Bu özellik, hem kişisel refah hem de profesyonel başarı açısından kritik öneme sahiptir ve zorluklarla başa çıkma şeklimizi doğrudan etkiler.";
-var krktr_ozl_strenghts_emotional_stability_s2_1 = "Duygusal istikrar, stresle başa çıkma yeteneği ve iş yerinde olumsuz durumları tolere etme yeteneğini yansıtır. Bu, kriz anlarında sakin kalma ve etkili kararlar alabilme yeteneğini artırabilir.";
-var krktr_ozl_weaknesses_emotional_stability_s2_1 = "Bu kişiler, çok fazla stres yaşar ve çeşitli konular hakkında sürekli endişelenir. Ruh hali sık sık değişir, kolayca üzülür ve stresli olaylardan sonra toparlanmakta zorluk çeker.";
+var krktr_ozl_character_elements_emotional_stability_s1 = "Duygusal denge, stresle nasıl başa çıktığını, duygusal durumunu nasıl yönettiğini ve zor zamanlarda kendine güvenini ne kadar sürdürebildiğini gösterir. Bu özelliğin yüksekse, baskı altında daha sakin kalabilir, duygusal olarak çabuk toparlanabilir ve kendinle ilgili olumlu bir bakış açısını koruyabilirsin. Zorluklar karşısında daha dayanıklı olabilir, duygusal dalgalanmalardan daha az etkilenebilirsin. Düşük düzeylerde ise stres altında bunalmış hissedebilir, endişeye kapılabilir ve içsel dengeyi korumakta zorlanabilirsin.";
+var krktr_ozl_strenghts_emotional_stability_s2_1 = "Stresli anlarda soğukkanlı kalmanı ve zor durumlarla daha kolay başa çıkmanı sağlayabilir.";
+var krktr_ozl_weaknesses_emotional_stability_s2_1 = "Aşırı duygusal denge, duygusal tepkisizlik gibi algılanabilir ve ilişkilerde mesafe yaratabilir.";
 var krktr_ozl_other_attributes_emotional_stability_s2 = "Sakin,\nsoğuk kanlı,\nuyumlu,\nkendinden emin,\nesnek,\nmemnuniyetli";
 var krktr_ozl_12_25_emotional_stability_questions_1 = "• Zorlandığım anlarda sakin kalmayı başarabildiğimde derslerimde nasıl bir ilerleme kaydediyorum? Bu duygusal dayanıklılığı sınav stresinde nasıl daha fazla kullanabilirim?\n\n• Hatalar yaptığımda, bu hatalardan öğrenmek için nasıl bir yaklaşım izliyorum? Bu öğrenme sürecini okul hayatımda nasıl daha etkili hale getirebilirim?\n\n• Zor bir durumu atlattıktan sonra nasıl daha güçlü hissediyorum? Bu dayanıklılığı günlük okul hayatımda nasıl daha fazla kullanabilirim?";
 var krktr_ozl_25_plus_emotional_stability_questions = "• Hata yaptığımda, bu hatalardan nasıl ders çıkarıyorum? Öğrenme sürecimi iş hayatımda daha verimli hale getirmek için neler yapabilirim?\n\n• Zor bir projeyi tamamladıktan sonra kendimi nasıl daha güçlü hissediyorum? Bu dayanıklılığı işimde sürekli başarı sağlamak için nasıl daha fazla kullanabilirim?\n\n• İşte stresli durumlarla karşılaştığımda sakin kalmayı başardığımda nasıl sonuçlar elde ediyorum? Bu duygusal dayanıklılığı yoğun iş dönemlerinde nasıl daha iyi kullanabilirim?";
@@ -6772,6 +6772,8 @@ var decision_strategy_eng_ozet_11_2 = "";
           return image_karar_verme_stratejileri_6; 
         } else if (decisionStrategyData.strategy == "Wait for the Invitation" && decisionStrategyData.innerAuthority == "Mental") {
           return image_karar_verme_stratejileri_7; 
+        } else if (decisionStrategyData.strategy == "Wait for the Invitation" && decisionStrategyData.innerAuthority == "N") {
+          return image_karar_verme_stratejileri_7; 
         } else if (decisionStrategyData.strategy == "To Inform" && decisionStrategyData.innerAuthority == "Emotional") {
           return image_karar_verme_stratejileri_8; 
         } else if (decisionStrategyData.strategy == "To Inform" && decisionStrategyData.innerAuthority == "Splenic") {
@@ -6799,6 +6801,8 @@ var decision_strategy_eng_ozet_11_2 = "";
             return decision_strategy_s3_6_1; 
         } else if (decisionStrategyData.strategy == "Wait for the Invitation" && decisionStrategyData.innerAuthority == "Mental") {
             return decision_strategy_s3_7_1; 
+        } else if (decisionStrategyData.strategy == "Wait for the Invitation" && decisionStrategyData.innerAuthority == "N") {
+            return decision_strategy_s3_7_1; 
         } else if (decisionStrategyData.strategy == "To Inform" && decisionStrategyData.innerAuthority == "Emotional") {
             return decision_strategy_s3_8_1; 
         } else if (decisionStrategyData.strategy == "To Inform" && decisionStrategyData.innerAuthority == "Splenic") {
@@ -6824,6 +6828,8 @@ var decision_strategy_eng_ozet_11_2 = "";
         } else if (decisionStrategyData.strategy == "Wait for the Invitation" && decisionStrategyData.innerAuthority == "Self Projected") {
             return decision_strategy_s3_6_2; 
         } else if (decisionStrategyData.strategy == "Wait for the Invitation" && decisionStrategyData.innerAuthority == "Mental") {
+            return decision_strategy_s3_7_2; 
+        } else if (decisionStrategyData.strategy == "Wait for the Invitation" && decisionStrategyData.innerAuthority == "N") {
             return decision_strategy_s3_7_2; 
         } else if (decisionStrategyData.strategy == "To Inform" && decisionStrategyData.innerAuthority == "Emotional") {
             return decision_strategy_s3_8_2; 
@@ -6851,6 +6857,8 @@ var decision_strategy_eng_ozet_11_2 = "";
             return decision_strategy_s3_6_3; 
         } else if (decisionStrategyData.strategy == "Wait for the Invitation" && decisionStrategyData.innerAuthority == "Mental") {
             return decision_strategy_s3_7_3; 
+        } else if (decisionStrategyData.strategy == "Wait for the Invitation" && decisionStrategyData.innerAuthority == "N") {
+            return decision_strategy_s3_7_3; 
         } else if (decisionStrategyData.strategy == "To Inform" && decisionStrategyData.innerAuthority == "Emotional") {
             return decision_strategy_s3_8_3; 
         } else if (decisionStrategyData.strategy == "To Inform" && decisionStrategyData.innerAuthority == "Splenic") {
@@ -6876,6 +6884,8 @@ var decision_strategy_eng_ozet_11_2 = "";
         } else if (decisionStrategyData.strategy == "Wait for the Invitation" && decisionStrategyData.innerAuthority == "Self Projected") {
             return decision_strategy_s3_6_4; 
         } else if (decisionStrategyData.strategy == "Wait for the Invitation" && decisionStrategyData.innerAuthority == "Mental") {
+            return decision_strategy_s3_7_4; 
+        } else if (decisionStrategyData.strategy == "Wait for the Invitation" && decisionStrategyData.innerAuthority == "N") {
             return decision_strategy_s3_7_4; 
         } else if (decisionStrategyData.strategy == "To Inform" && decisionStrategyData.innerAuthority == "Emotional") {
             return decision_strategy_s3_8_4; 
@@ -6903,6 +6913,8 @@ var decision_strategy_eng_ozet_11_2 = "";
           return decision_strategy_s4_6_text; 
         } else if (decisionStrategyData.strategy == "Wait for the Invitation" && decisionStrategyData.innerAuthority == "Mental") {
           return decision_strategy_s4_7_text; 
+        } else if (decisionStrategyData.strategy == "Wait for the Invitation" && decisionStrategyData.innerAuthority == "N") {
+          return decision_strategy_s4_7_text; 
         } else if (decisionStrategyData.strategy == "To Inform" && decisionStrategyData.innerAuthority == "Emotional") {
           return decision_strategy_s4_8_text; 
         } else if (decisionStrategyData.strategy == "To Inform" && decisionStrategyData.innerAuthority == "Splenic") {
@@ -6928,6 +6940,8 @@ var decision_strategy_eng_ozet_11_2 = "";
         } else if (decisionStrategyData.strategy == "Wait for the Invitation" && decisionStrategyData.innerAuthority == "Self Projected") {
           return decision_strategy_s4_6_1;
         } else if (decisionStrategyData.strategy == "Wait for the Invitation" && decisionStrategyData.innerAuthority == "Mental") {
+          return decision_strategy_s4_7_1; 
+        } else if (decisionStrategyData.strategy == "Wait for the Invitation" && decisionStrategyData.innerAuthority == "N") {
           return decision_strategy_s4_7_1; 
         } else if (decisionStrategyData.strategy == "To Inform" && decisionStrategyData.innerAuthority == "Emotional") {
           return decision_strategy_s4_8_1; 
@@ -6955,6 +6969,8 @@ var decision_strategy_eng_ozet_11_2 = "";
           return decision_strategy_s4_6_2; 
         } else if (decisionStrategyData.strategy == "Wait for the Invitation" && decisionStrategyData.innerAuthority == "Mental") {
           return decision_strategy_s4_7_2; 
+        } else if (decisionStrategyData.strategy == "Wait for the Invitation" && decisionStrategyData.innerAuthority == "N") {
+          return decision_strategy_s4_7_2; 
         } else if (decisionStrategyData.strategy == "To Inform" && decisionStrategyData.innerAuthority == "Emotional") {
           return decision_strategy_s4_8_2;
         } else if (decisionStrategyData.strategy == "To Inform" && decisionStrategyData.innerAuthority == "Splenic") {
@@ -6980,6 +6996,8 @@ var decision_strategy_eng_ozet_11_2 = "";
         } else if (decisionStrategyData.strategy == "Wait for the Invitation" && decisionStrategyData.innerAuthority == "Self Projected") {
           return decision_strategy_s4_6_3; 
         } else if (decisionStrategyData.strategy == "Wait for the Invitation" && decisionStrategyData.innerAuthority == "Mental") {
+          return decision_strategy_s4_7_3; 
+        } else if (decisionStrategyData.strategy == "Wait for the Invitation" && decisionStrategyData.innerAuthority == "N") {
           return decision_strategy_s4_7_3; 
         } else if (decisionStrategyData.strategy == "To Inform" && decisionStrategyData.innerAuthority == "Emotional") {
           return decision_strategy_s4_8_3; 
@@ -7007,6 +7025,8 @@ var decision_strategy_eng_ozet_11_2 = "";
           return decision_strategy_s4_6_4;
         } else if (decisionStrategyData.strategy == "Wait for the Invitation" && decisionStrategyData.innerAuthority == "Mental") {
           return decision_strategy_s4_7_4; 
+        } else if (decisionStrategyData.strategy == "Wait for the Invitation" && decisionStrategyData.innerAuthority == "N") {
+          return decision_strategy_s4_7_4; 
         } else if (decisionStrategyData.strategy == "To Inform" && decisionStrategyData.innerAuthority == "Emotional") {
           return decision_strategy_s4_8_4; 
         } else if (decisionStrategyData.strategy == "To Inform" && decisionStrategyData.innerAuthority == "Splenic") {
@@ -7032,6 +7052,8 @@ var decision_strategy_eng_ozet_11_2 = "";
         } else if (decisionStrategyData.strategy == "Wait for the Invitation" && decisionStrategyData.innerAuthority == "Self Projected") {
           return decision_strategy_s4_6_5; 
         } else if (decisionStrategyData.strategy == "Wait for the Invitation" && decisionStrategyData.innerAuthority == "Mental") {
+          return decision_strategy_s4_7_5; 
+        } else if (decisionStrategyData.strategy == "Wait for the Invitation" && decisionStrategyData.innerAuthority == "N") {
           return decision_strategy_s4_7_5; 
         } else if (decisionStrategyData.strategy == "To Inform" && decisionStrategyData.innerAuthority == "Emotional") {
           return decision_strategy_s4_8_5; 
@@ -7059,6 +7081,8 @@ var decision_strategy_eng_ozet_11_2 = "";
           return decision_strategy_s4_6_txt; 
         } else if (decisionStrategyData.strategy == "Wait for the Invitation" && decisionStrategyData.innerAuthority == "Mental") {
           return decision_strategy_s4_7_txt; 
+        } else if (decisionStrategyData.strategy == "Wait for the Invitation" && decisionStrategyData.innerAuthority == "N") {
+          return decision_strategy_s4_7_txt; 
         } else if (decisionStrategyData.strategy == "To Inform" && decisionStrategyData.innerAuthority == "Emotional") {
           return decision_strategy_s4_8_txt; 
         } else if (decisionStrategyData.strategy == "To Inform" && decisionStrategyData.innerAuthority == "Splenic") {
@@ -7085,6 +7109,8 @@ var decision_strategy_eng_ozet_11_2 = "";
           return decision_strategy_ozet_6_1; 
         } else if (decisionStrategyData.strategy == "Wait for the Invitation" && decisionStrategyData.innerAuthority == "Mental") {
           return decision_strategy_ozet_7_1; 
+        } else if (decisionStrategyData.strategy == "Wait for the Invitation" && decisionStrategyData.innerAuthority == "N") {
+          return decision_strategy_ozet_7_1; 
         } else if (decisionStrategyData.strategy == "To Inform" && decisionStrategyData.innerAuthority == "Emotional") {
           return decision_strategy_ozet_8_1; 
         } else if (decisionStrategyData.strategy == "To Inform" && decisionStrategyData.innerAuthority == "Splenic") {
@@ -7110,6 +7136,8 @@ var decision_strategy_eng_ozet_11_2 = "";
         } else if (decisionStrategyData.strategy == "Wait for the Invitation" && decisionStrategyData.innerAuthority == "Self Projected") {
           return decision_strategy_ozet_6_2; 
         } else if (decisionStrategyData.strategy == "Wait for the Invitation" && decisionStrategyData.innerAuthority == "Mental") {
+          return decision_strategy_ozet_7_2; 
+        } else if (decisionStrategyData.strategy == "Wait for the Invitation" && decisionStrategyData.innerAuthority == "N") {
           return decision_strategy_ozet_7_2; 
         } else if (decisionStrategyData.strategy == "To Inform" && decisionStrategyData.innerAuthority == "Emotional") {
           return decision_strategy_ozet_8_2; 
@@ -7139,6 +7167,8 @@ var decision_strategy_eng_ozet_11_2 = "";
             return image_karar_verme_stratejileri_6; 
         } else if (decisionStrategyData.strategy == "Wait for the Invitation" && decisionStrategyData.innerAuthority == "Mental") {
             return image_karar_verme_stratejileri_7; 
+        } else if (decisionStrategyData.strategy == "Wait for the Invitation" && decisionStrategyData.innerAuthority == "N") {
+            return image_karar_verme_stratejileri_7; 
         } else if (decisionStrategyData.strategy == "To Inform" && decisionStrategyData.innerAuthority == "Emotional") {
             return image_karar_verme_stratejileri_8; 
         } else if (decisionStrategyData.strategy == "To Inform" && decisionStrategyData.innerAuthority == "Splenic") {
@@ -7166,6 +7196,8 @@ var decision_strategy_eng_ozet_11_2 = "";
             return decision_strategy_eng_s3_6_1; 
         } else if (decisionStrategyData.strategy == "Wait for the Invitation" && decisionStrategyData.innerAuthority == "Mental") {
             return decision_strategy_eng_s3_7_1; 
+        } else if (decisionStrategyData.strategy == "Wait for the Invitation" && decisionStrategyData.innerAuthority == "N") {
+            return decision_strategy_eng_s3_7_1; 
         } else if (decisionStrategyData.strategy == "To Inform" && decisionStrategyData.innerAuthority == "Emotional") {
             return decision_strategy_eng_s3_8_1; 
         } else if (decisionStrategyData.strategy == "To Inform" && decisionStrategyData.innerAuthority == "Splenic") {
@@ -7192,6 +7224,8 @@ var decision_strategy_eng_ozet_11_2 = "";
             return decision_strategy_eng_s3_6_2; 
         } else if (decisionStrategyData.strategy == "Wait for the Invitation" && decisionStrategyData.innerAuthority == "Mental") {
             return decision_strategy_eng_s3_7_2; 
+        } else if (decisionStrategyData.strategy == "Wait for the Invitation" && decisionStrategyData.innerAuthority == "N") {
+            return decision_strategy_eng_s3_7_2;
         } else if (decisionStrategyData.strategy == "To Inform" && decisionStrategyData.innerAuthority == "Emotional") {
             return decision_strategy_eng_s3_8_2; 
         } else if (decisionStrategyData.strategy == "To Inform" && decisionStrategyData.innerAuthority == "Splenic") {
@@ -7217,6 +7251,8 @@ var decision_strategy_eng_ozet_11_2 = "";
         } else if (decisionStrategyData.strategy == "Wait for the Invitation" && decisionStrategyData.innerAuthority == "Self Projected") {
             return decision_strategy_eng_s3_6_3; 
         } else if (decisionStrategyData.strategy == "Wait for the Invitation" && decisionStrategyData.innerAuthority == "Mental") {
+            return decision_strategy_eng_s3_7_3; 
+        } else if (decisionStrategyData.strategy == "Wait for the Invitation" && decisionStrategyData.innerAuthority == "N") {
             return decision_strategy_eng_s3_7_3; 
         } else if (decisionStrategyData.strategy == "To Inform" && decisionStrategyData.innerAuthority == "Emotional") {
             return decision_strategy_eng_s3_8_3; 
@@ -7244,6 +7280,8 @@ var decision_strategy_eng_ozet_11_2 = "";
             return decision_strategy_eng_s3_6_4; 
         } else if (decisionStrategyData.strategy == "Wait for the Invitation" && decisionStrategyData.innerAuthority == "Mental") {
             return decision_strategy_eng_s3_7_4; 
+        } else if (decisionStrategyData.strategy == "Wait for the Invitation" && decisionStrategyData.innerAuthority == "N") {
+            return decision_strategy_eng_s3_7_4; 
         } else if (decisionStrategyData.strategy == "To Inform" && decisionStrategyData.innerAuthority == "Emotional") {
             return decision_strategy_eng_s3_8_4; 
         } else if (decisionStrategyData.strategy == "To Inform" && decisionStrategyData.innerAuthority == "Splenic") {
@@ -7269,6 +7307,8 @@ var decision_strategy_eng_ozet_11_2 = "";
         } else if (decisionStrategyData.strategy == "Wait for the Invitation" && decisionStrategyData.innerAuthority == "Self Projected") {
           return decision_strategy_eng_s4_6_text; 
         } else if (decisionStrategyData.strategy == "Wait for the Invitation" && decisionStrategyData.innerAuthority == "Mental") {
+          return decision_strategy_eng_s4_7_text; 
+        } else if (decisionStrategyData.strategy == "Wait for the Invitation" && decisionStrategyData.innerAuthority == "N") {
           return decision_strategy_eng_s4_7_text; 
         } else if (decisionStrategyData.strategy == "To Inform" && decisionStrategyData.innerAuthority == "Emotional") {
           return decision_strategy_eng_s4_8_text; 
@@ -7296,6 +7336,8 @@ var decision_strategy_eng_ozet_11_2 = "";
           return decision_strategy_eng_s4_6_1;
         } else if (decisionStrategyData.strategy == "Wait for the Invitation" && decisionStrategyData.innerAuthority == "Mental") {
           return decision_strategy_eng_s4_7_1; 
+        } else if (decisionStrategyData.strategy == "Wait for the Invitation" && decisionStrategyData.innerAuthority == "N") {
+          return decision_strategy_eng_s4_7_1; 
         } else if (decisionStrategyData.strategy == "To Inform" && decisionStrategyData.innerAuthority == "Emotional") {
           return decision_strategy_eng_s4_8_1; 
         } else if (decisionStrategyData.strategy == "To Inform" && decisionStrategyData.innerAuthority == "Splenic") {
@@ -7321,6 +7363,8 @@ var decision_strategy_eng_ozet_11_2 = "";
         } else if (decisionStrategyData.strategy == "Wait for the Invitation" && decisionStrategyData.innerAuthority == "Self Projected") {
           return decision_strategy_eng_s4_6_2; 
         } else if (decisionStrategyData.strategy == "Wait for the Invitation" && decisionStrategyData.innerAuthority == "Mental") {
+          return decision_strategy_eng_s4_7_2; 
+        } else if (decisionStrategyData.strategy == "Wait for the Invitation" && decisionStrategyData.innerAuthority == "N") {
           return decision_strategy_eng_s4_7_2; 
         } else if (decisionStrategyData.strategy == "To Inform" && decisionStrategyData.innerAuthority == "Emotional") {
           return decision_strategy_eng_s4_8_2;
@@ -7348,6 +7392,8 @@ var decision_strategy_eng_ozet_11_2 = "";
           return decision_strategy_eng_s4_6_3; 
         } else if (decisionStrategyData.strategy == "Wait for the Invitation" && decisionStrategyData.innerAuthority == "Mental") {
           return decision_strategy_eng_s4_7_3; 
+        } else if (decisionStrategyData.strategy == "Wait for the Invitation" && decisionStrategyData.innerAuthority == "N") {
+          return decision_strategy_eng_s4_7_3; 
         } else if (decisionStrategyData.strategy == "To Inform" && decisionStrategyData.innerAuthority == "Emotional") {
           return decision_strategy_eng_s4_8_3; 
         } else if (decisionStrategyData.strategy == "To Inform" && decisionStrategyData.innerAuthority == "Splenic") {
@@ -7373,6 +7419,8 @@ var decision_strategy_eng_ozet_11_2 = "";
         } else if (decisionStrategyData.strategy == "Wait for the Invitation" && decisionStrategyData.innerAuthority == "Self Projected") {
           return decision_strategy_eng_s4_6_4;
         } else if (decisionStrategyData.strategy == "Wait for the Invitation" && decisionStrategyData.innerAuthority == "Mental") {
+          return decision_strategy_eng_s4_7_4; 
+        } else if (decisionStrategyData.strategy == "Wait for the Invitation" && decisionStrategyData.innerAuthority == "N") {
           return decision_strategy_eng_s4_7_4; 
         } else if (decisionStrategyData.strategy == "To Inform" && decisionStrategyData.innerAuthority == "Emotional") {
           return decision_strategy_eng_s4_8_4; 
@@ -7400,6 +7448,8 @@ var decision_strategy_eng_ozet_11_2 = "";
           return decision_strategy_seng_4_6_5; 
         } else if (decisionStrategyData.strategy == "Wait for the Invitation" && decisionStrategyData.innerAuthority == "Mental") {
           return decision_strategy_eng_s4_7_5; 
+        } else if (decisionStrategyData.strategy == "Wait for the Invitation" && decisionStrategyData.innerAuthority == "N") {
+          return decision_strategy_eng_s4_7_5; 
         } else if (decisionStrategyData.strategy == "To Inform" && decisionStrategyData.innerAuthority == "Emotional") {
           return decision_strategy_eng_s4_8_5; 
         } else if (decisionStrategyData.strategy == "To Inform" && decisionStrategyData.innerAuthority == "Splenic") {
@@ -7425,6 +7475,8 @@ var decision_strategy_eng_ozet_11_2 = "";
         } else if (decisionStrategyData.strategy == "Wait for the Invitation" && decisionStrategyData.innerAuthority == "Self Projected") {
           return decision_strategy_eng_s4_6_txt; 
         } else if (decisionStrategyData.strategy == "Wait for the Invitation" && decisionStrategyData.innerAuthority == "Mental") {
+          return decision_strategy_eng_s4_7_txt; 
+        } else if (decisionStrategyData.strategy == "Wait for the Invitation" && decisionStrategyData.innerAuthority == "N") {
           return decision_strategy_eng_s4_7_txt; 
         } else if (decisionStrategyData.strategy == "To Inform" && decisionStrategyData.innerAuthority == "Emotional") {
           return decision_strategy_eng_s4_8_txt; 
@@ -7452,6 +7504,8 @@ var decision_strategy_eng_ozet_11_2 = "";
           return decision_strategy_eng_ozet_6_1; 
         } else if (decisionStrategyData.strategy == "Wait for the Invitation" && decisionStrategyData.innerAuthority == "Mental") {
           return decision_strategy_eng_ozet_7_1; 
+        } else if (decisionStrategyData.strategy == "Wait for the Invitation" && decisionStrategyData.innerAuthority == "N") {
+          return decision_strategy_eng_ozet_7_1; 
         } else if (decisionStrategyData.strategy == "To Inform" && decisionStrategyData.innerAuthority == "Emotional") {
           return decision_strategy_eng_ozet_8_1; 
         } else if (decisionStrategyData.strategy == "To Inform" && decisionStrategyData.innerAuthority == "Splenic") {
@@ -7477,6 +7531,8 @@ var decision_strategy_eng_ozet_11_2 = "";
         } else if (decisionStrategyData.strategy == "Wait for the Invitation" && decisionStrategyData.innerAuthority == "Self Projected") {
           return decision_strategy_eng_ozet_6_2; 
         } else if (decisionStrategyData.strategy == "Wait for the Invitation" && decisionStrategyData.innerAuthority == "Mental") {
+          return decision_strategy_eng_ozet_7_2; 
+        } else if (decisionStrategyData.strategy == "Wait for the Invitation" && decisionStrategyData.innerAuthority == "N") {
           return decision_strategy_eng_ozet_7_2; 
         } else if (decisionStrategyData.strategy == "To Inform" && decisionStrategyData.innerAuthority == "Emotional") {
           return decision_strategy_eng_ozet_8_2; 
@@ -13921,7 +13977,7 @@ var decision_strategy_eng_ozet_11_2 = "";
   var nameSurname = Object.entries(rawData).find((x) => x[0] == "kisiselbilgi / isim")[1] + " " + Object.entries(rawData).find((x) => x[0] == "kisiselbilgi / soyisim")[1];
   var cinsiyet =  Object.entries(rawData).find((x) => x[0] == "kisiselbilgi / cinsiyet")[1]
   var dogumTarihi = Object.entries(rawData).find((x) => x[0] == "kisiselbilgi / tarih-saat")[1];
-  var year = parseInt(dogumTarihi.split(" ")[2]);
+  var year = parseInt(dogumTarihi.split("-")[0]);
   var age = new Date().getFullYear() - year;
   var language = Object.entries(rawData).find((x) => x[0] == "Lang")[1];
 
