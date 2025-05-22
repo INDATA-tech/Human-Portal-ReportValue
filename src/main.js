@@ -13977,8 +13977,15 @@ var decision_strategy_eng_ozet_11_2 = "";
   var nameSurname = Object.entries(rawData).find((x) => x[0] == "kisiselbilgi / isim")[1] + " " + Object.entries(rawData).find((x) => x[0] == "kisiselbilgi / soyisim")[1];
   var cinsiyet =  Object.entries(rawData).find((x) => x[0] == "kisiselbilgi / cinsiyet")[1]
   var dogumTarihi = Object.entries(rawData).find((x) => x[0] == "kisiselbilgi / tarih-saat")[1];
-  var year = parseInt(dogumTarihi.split("-")[0]);
+
+
+  var year = parseInt(dogumTarihi.split(" ")[2]);
+  if (isNaN(year)) {
+    var year = parseInt(dogumTarihi.split("-")[0]);
+  }
+
   var age = new Date().getFullYear() - year;
+  
   var language = Object.entries(rawData).find((x) => x[0] == "Lang")[1];
 
   if (language == "Tr") { //ortak kullanılan değişkenler burada
