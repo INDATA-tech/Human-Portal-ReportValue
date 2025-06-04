@@ -1072,24 +1072,34 @@ var c_o_s_objective_ozet_2 = "Tarafsızlık ve çevresel farkındalık senin gü
 
 //Çalışma ve Öğrenme Stilin İngilizce
 var c_o_s_individual_eng_title = "Individual"
-var c_o_s_individual_eng = "With Independent Assimilation, you carry the unique capability to process information and work autonomously. Your professional demeanor is marked by an innate sense of completeness, needing no external confirmation to feel secure in your understanding and actions. Your focus allows you to digest and assimilate information swiftly, giving you the edge in rapidly evolving business situations. This fast-paced cognitive approach enables you to act decisively, making you an invaluable asset in high-stakes environments where time is of the essence.\n\nWith your consistent and independent way of processing, you could move fast. While your ability to process rapidly is a strength, it's vital to temper it with patience. The business world often operates on collective rhythms that require synchronization. Slowing down allows others to catch up to your pace, ensuring that when you act on your insights, the timing is aligned with both individual and organizational readiness.";
+var c_o_s_individual_eng = "With Independent Assimilation, you carry the unique capability to process information and work autonomously. Your demeanor is marked by an innate sense of completeness, needing no external confirmation to feel secure in your understanding and actions. Your focus allows you to digest and assimilate information swiftly, giving you the edge in rapidly evolving situations. This fast-paced cognitive approach enables you to act decisively, making you a valuable asset in high-stakes environments where time is of the essence.\n\nWith your consistent and independent way of processing, you could move fast. While your ability to process rapidly is a strength, it's vital to temper it with patience. The world often operates on collective rhythms that require synchronization. Slowing down allows others to catch up to your pace, ensuring that when you act on your insights, the timing is aligned with both individual and organizational readiness.";
 var c_o_s_individual_eng_s3 = "• How confident are you in making decisions, and how much do you rely on external approval?\n\n• When making quick decisions, how can you be patient to allow others to keep up with your pace?\n\n• Processing information quickly is your natural talent, but in which situations do you recognize the need to slow down and think more deeply?\n\n• How can you make more room for different perspectives when collaborating with your team?\n\n• When working independently, how can you maintain a balanced approach without overlooking potential contributions from others?";
+var c_o_s_individual_eng_ozet_1 = "Your Work Style: Independent";
+var c_o_s_individual_eng_ozet_2 = "You have a structure that can process information quickly and on your own. While your ability to think and act quickly is strong, adapting to the rhythm of others from time to time can be important for long-term success. While maintaining your independence, incorporating different perspectives within the team can bring you deeper and more impactful results.";
 
 var c_o_s_collaborative_eng_title = "Collaborative";
-var c_o_s_collaborative_eng = "With your Collaborative Assimilation, being around others is when you really shine. It's about the energy and ideas that start flowing when you're working together with others, your natural energy is amplified in partnership. You are not just sharing thoughts; working with another person or the group setting itself helps to bring out the best in you. It's like being in collaboration or part of a team gives you a power-up, boosting your own natural abilities and thoughts. This makes you good at working with others because when everyone's together, your ability to understand and work through information really takes off.\n\nYou might sometimes feel a sense of not being able to get through things when working alone. This isn’t a deficiency but a signal that your full potential is unlocked through collaboration. The presence of others completes the circuit of your processing power, catalyzing your ability to assimilate and synthesize information.\n\nIn business settings, forming partnerships can be particularly beneficial for you. It's not about dependency but about the vibrant exchange that occurs when you share a creative space with others. The depth of your insight is expanded as you naturally attract partners whose skills and strengths complement your own.\n\nYour style may require more time to digest and process information thoroughly. This allows you to explore subjects deeply and consider various facets of a problem or opportunity. Here is the big advantage to your approach: when you do fully understand something, it's because you've looked at it from every possible angle. This doesn't just mean you 'get it'—it means you really know it inside and out, often better than most. This deep understanding you develop is a superpower in the business world. It means that when you're ready to move forward with a decision or a project, you're doing so with a solid foundation and a thorough grasp of the details.\n\nIn making decisions, your instinct may be to rush towards a sense of completion. Instead, embrace your natural rhythm, allowing the decision-making process to unfold in the company of others. Trust that in the right company and setting, such as public spaces where ideas flow freely, your sense of wholeness and certainty will emerge, guiding you to the correct conclusions.\n\nSimply being in a dynamic environment — whether it's a bustling office, a collaborative workshop, or a public meeting place — can serve as a catalyst for your assimilation process. The ambient energy of these spaces acts as a stimulant for your cognitive faculties, enabling you to process information with heightened acuity.\n\nBy harnessing the energy of collaborative spaces and the natural inclination to work with others, you can thrive in business.";
+var c_o_s_collaborative_eng = "With your Collaborative Assimilation, being around others is when you really shine. It's about the energy and ideas that start flowing when you're working together with others, your natural energy is amplified in partnership. You are not just sharing thoughts; working with another person or the group setting itself helps to bring out the best in you. It's like being in collaboration or part of a team gives you a power-up, boosting your own natural abilities and thoughts. This makes you good at working with others because when everyone's together, your ability to understand and work through information really takes off.\n\nYou might sometimes feel a sense of not being able to get through things when working alone. This isn’t a deficiency but a signal that your full potential is unlocked through collaboration. The presence of others completes the circuit of your processing power, catalyzing your ability to assimilate and synthesize information.\n\nIn learning or business settings, forming partnerships can be particularly beneficial for you. It's not about dependency but about the vibrant exchange that occurs when you share a creative space with others. The depth of your insight is expanded as you naturally attract partners whose skills and strengths complement your own.\n\nYour style may require more time to digest and process information thoroughly. This allows you to explore subjects deeply and consider various facets of a problem or opportunity. Here is the big advantage to your approach: when you do fully understand something, it's because you've looked at it from different angles. This doesn't just mean you 'get it'—it means you really know it inside and out, often better than most. This deep understanding you develop is a superpower in the world. It means that when you're ready to move forward with a decision or a project, you're doing so with a solid foundation and a thorough grasp of the details.\n\nSimply being in a dynamic environment — whether it's a learning environment, a bustling office or a public meeting place — can serve as a catalyst for your assimilation process. The ambient energy of these spaces acts as a stimulant for your cognitive faculties, enabling you to process information with heightened acuity. By harnessing the energy of collaborative spaces and the natural inclination to work with others, you can thrive in business.";
 var c_o_s_collaborative_eng_s3 = "• When gathering information from multiple sources, how can you process it more patiently?\n\n• How does your energy increase when interacting with different people?\n\n• What can you do to use this energy more effectively in your work life?\n\n• Instead of rushing your decisions, do you give yourself enough time to reflect and consider different perspectives?\n\n• How do you balance and integrate your strengths in various roles? How can you further develop yourself to better understand and leverage the contributions of diversity in your work processes?";
+var c_o_s_collaborative_eng_ozet_1 = "Your Work Style: Collaborative";
+var c_o_s_collaborative_eng_ozet_2 = "When you work with others, your energy increases and your thinking power deepens. As you shine in team environments, sharing ideas and co-producing enriches your learning process. The vibrancy of your environment increases the speed of learning and provides a solid foundation for your decisions.";
 
 var c_o_s_synthesizing_eng_title = "Synthesizing";
-var c_o_s_synthesizing_eng = "With your Synthesizing Assimilation, your ability to integrate and make sense of diverse information sources is exceptional. You're at your best when you have the freedom to move and interact with various people, gathering bits of knowledge and perspectives like pieces of a puzzle that you're uniquely equipped to put together.\n\nYou thrive on change and variety, feeling most energized and healthy when your day includes interactions with a range of individuals across different settings. Being tied to the same environment or the same group can feel limiting, so it's important for you to seek out diverse work experiences that keep you engaged and mentally stimulated.\n\nYour natural inclination might be to move quickly and make decisions impulsively due to your drive and ambition. However, the real magic of your assimilation style comes from synthesizing the information at hand—this requires patience. Allowing yourself time to fully integrate and understand the various inputs before acting will result in more well-rounded and effective outcomes.\n\nIt may often feel like you're playing three roles at once, each with its own desires and perspectives. This isn't a split but rather a triad of powerful aspects that, when harnessed together, can give you a three-dimensional view of situations, challenges, and solutions.\n\nWhile collaboration is beneficial for synthesizing diverse viewpoints, don't forget that you are also adept at working solo. Your ability to get through things on your own is an asset, providing you the flexibility to work in a variety of settings—whether it's in a buzzing office or the quiet of a private space.\n\nRemember, your Synthesizing Assimilation style is a potent combination of self-reliance and the ability to merge insights from various sources, making you a dynamic and versatile asset in any business context.";
+var c_o_s_synthesizing_eng = "With your Synthesizing Assimilation, your ability to integrate and make sense of diverse information sources is exceptional. You're at your best when you have the freedom to move and interact with various people, gathering bits of knowledge and perspectives like pieces of a puzzle that you're uniquely equipped to put together.\n\nYou thrive on change and variety, feeling most energized and healthy when your day includes interactions with a range of individuals across different settings. Being tied to the same environment or the same group can feel limiting, so it's important for you to seek out diverse experiences that keep you engaged and mentally stimulated. In learning, hearing from different sources will be helpful to yo.\n\nYour natural inclination might be to move quickly and make decisions impulsively due to your drive and ambition. However, the real magic of your assimilation style comes from synthesizing the information at hand—this requires patience. Allowing yourself time to fully integrate and understand the various inputs before acting will result in more well-rounded and effective outcomes.\n\nIt may often feel like you're playing three roles at once, each with its own desires and perspectives. While collaboration is beneficial for synthesizing diverse viewpoints, don't forget that you are also adept at working solo. Your ability to get through things on your own is an asset, providing you the flexibility to work in a variety of settings—whether it's in a buzzing office, library or the quiet of a private space.\n\nRemember, your Synthesizing Assimilation style is a potent combination of self-reliance and the ability to merge insights from various sources, making you a dynamic and versatile asset in any context.";
 var c_o_s_synthesizing_eng_s3 = "• How much do you notice your energy rising when working with others, and how can you channel this into your projects?\n\n• What challenges do you face when working alone, and how can you better motivate yourself in these situations?\n\n• How do you make room for others’ perspectives in collaborative environments, and how can this process lead to richer insights?\n\n• When processing information, do you notice how interacting with others can accelerate your thinking process?\n\n• How can you make more effective use of others’ energy and ideas during your decision-making process?";
+var c_o_s_synthesizing_eng_ozet_1 = "Your Working Style: Synthesizing";
+var c_o_s_synthesizing_eng_ozet_2 = "You have an innate ability to take information from different sources and combine it. You perform best in variable and dynamic environments. Giving yourself time before synthesizing information allows you to present your multifaceted perspective in a more balanced and effective way.";
 
 var c_o_s_subjective_eng_title = "Subjective";
-var c_o_s_subjective_eng = "With Subjective Assimilation, you have a particular and fixed way of processing information. It's a deeply personal and subjective method, rooted in your own experiences. You might seem less flexible to others, but that’s because your assimilation process is uniquely yours. You naturally interpret information through the lens of your personal viewpoint, leading to a distinct way of understanding the world around you.\n\nYour approach may seem selective, and that’s because you know the importance of boundaries and the value of deep connections. You might find yourself naturally gravitating towards certain individuals, forming close and trusted circles. This preference for depth over breadth in your relationships can sometimes be mistaken for playing 'favorites,' but it's a reflection of your need for genuine connections.\n\nYou might feel out of place in small group settings that require frequent adaptation, as your best work often comes from the freedom to interact with a diverse range of people and situations. This need for diversity isn’t about quantity; it's about giving you varied perspectives that enrich your subjective analysis.\n\nRushed decisions are not your forte because you require the space to process information at your own rhythm. This time allows you to fully incorporate new knowledge into your existing framework, ensuring that any decisions you make are grounded in a thorough personal understanding.\n\nIt's essential for your wellbeing to move at your own pace, not to feel pressured to meet others' expectations or timelines. Forcing yourself to adapt to external pressures can be detrimental to your mental, physical, and emotional health. Instead, embracing your natural pace ensures that you remain true to your process, which is essential for your effectiveness and fulfillment in work and life.\n\nIn business, your Subjective Assimilation is a strength that can lead to innovative and deeply thought-out solutions. You provide a unique voice and perspective that can add significant value to discussions and projects. By honoring your personal processing style, you contribute to a more diverse and rich tapestry of insights in any professional endeavor.";
+var c_o_s_subjective_eng = "With Subjective Assimilation, you have a particular and fixed way of processing information. It's a deeply personal and subjective method, rooted in your own experiences. You might seem less flexible to others, but that’s because your assimilation process is uniquely yours. You naturally interpret information through the lens of your personal viewpoint, leading to a distinct way of understanding the world around you.\n\nYour approach may seem selective, and that’s because you know the importance of boundaries and the value of deep connections. You might find yourself naturally gravitating towards certain individuals, forming close and trusted circles. This preference for depth over breadth in your relationships can sometimes be mistaken for playing 'favorites,' but it's a reflection of your need for genuine connections.\n\nYou might feel out of place in small group settings that require frequent adaptation, as your best work often comes from the freedom to interact with a diverse range of people and situations. This need for diversity isn’t about quantity; it's about giving you varied perspectives that enrich your subjective analysis.\n\nRushed decisions are not your forte because you require the space to process information at your own rhythm. This time allows you to fully incorporate new knowledge into your existing framework, ensuring that any decisions you make are grounded in a thorough personal understanding.\n\nIt's essential for your wellbeing to move at your own pace, not to feel pressured to meet others' expectations or timelines. Forcing yourself to adapt to external pressures can be detrimental to your mental, physical, and emotional health. Instead, embracing your natural pace ensures that you remain true to your process, which is essential for your effectiveness and fulfillment in work and life.\n\nIn business or learning environments, your Subjective Assimilation is a strength that can lead to innovative and deeply thought-out solutions. You provide a unique voice and perspective that can add significant value to discussions and projects. By honoring your personal processing style, you contribute to a more diverse and rich tapestry of insights in any endeavor.";
 var c_o_s_subjective_eng_s3 = "• How can you incorporate different perspectives while basing your decisions on your personal experiences?\n\n• How does your tendency to form deep and meaningful relationships benefit you in your work life?\n\n• What strategies do you use to give yourself time to absorb information and reflect on it?\n\n• How do you combine insights from different people with your own experiences, and how do you benefit from this integration?\n\n• How can you stay true to your natural rhythm while working under external pressures?";
+var c_o_s_subjective_eng_ozet_1 = "Your Work Style: Subjective";
+var c_o_s_subjective_eng_ozet_2 = "You make sense of information through the filter of personal experiences. You learn and make decisions best in environments where you establish deep bonds. Moving at your own pace brings you both a unique perspective and sustainable success.";
 
 var c_o_s_objective_eng_title = "Objective";
-var c_o_s_objective_eng = "With your Objective Assimilation, you have a gift for taking in information without bias, allowing you to share your findings in a way that's truly objective. Your approach to assimilating information involves sampling the environment, reflecting on what you encounter, and evaluating what you perceive with a clear and impartial view.\n\nYour unique capability to sense the overall health of an environment, whether it's the physical space of your office or the emotional climate of your team, is invaluable. You naturally pick up on subtle cues, giving you an objective sense of whether a situation is thriving or if there are underlying issues that need addressing.\n\nWith a keen sense for authenticity, you can intuitively sense when people around you are being genuine or if they’re not aligned with their true selves. This skill enables you to navigate the business landscape with an understanding of who you can trust and who might need encouragement to open.\n\nYour openness allows you to act almost like a mirror, reflecting to people and groups the reality of their actions and choices, especially when they might be causing harm or injustice. This can make you a powerful agent for change, as you help those around you to see things more clearly and make adjustments that benefit everyone. As an Evaluator with Objective Assimilation, everything you experience is processed with the aim of understanding and evaluating it without personal filters. This wide-open approach doesn't mean you're affected by everything; rather, you can let information pass through you, giving you a clear perspective that others might miss.";
+var c_o_s_objective_eng = "With your Objective Assimilation, you have a gift for taking in information without bias, allowing you to share your findings in a way that's truly objective. Your approach to assimilating information involves sampling the environment, reflecting on what you encounter, and evaluating what you perceive with a clear and impartial view.\n\nYour unique capability to sense the overall health of an environment or the emotional climate of your team is valuable. You naturally pick up on subtle cues, giving you an objective sense of whether a situation is thriving or if there are underlying issues that need addressing.\n\nWith a keen sense for authenticity, you can intuitively sense when people around you are being genuine or if they’re not aligned with their true selves. This skill enables you to navigate any landscape with an understanding of who you can trust.\n\nYour openness allows you to act almost like a mirror, reflecting to people and groups the reality of their actions and choices, especially when they might be causing harm or injustice. This can make you a powerful agent for change, as you help those around you to see things more clearly and make adjustments that benefit everyone. As an Evaluator with Objective Assimilation, everything you experience is processed with the aim of understanding and evaluating it without personal filters. This wide-open approach doesn't mean you're affected by everything; rather, you can let information pass through you, giving you a clear perspective that others might miss.\n\nIn learning environments or professional settings, your capacity for objective evaluation means you can offer unbiased insights and guidance. Whether it's assessing the viability of a new project or gauging the mood of a potential partnership, your evaluations are based on clear, unclouded observations. Your role is crucial in helping groups stay true to their missions and operate in healthy, authentic ways.\n\nBy leveraging your Objective Assimilation style, you contribute a much-needed perspective in the world, ensuring decisions are made based on a true and fair assessment of the available information.";
 var c_o_s_objective_eng_s3 = "• How do you reflect your impartial observations of what’s happening around you into your work life?\n\n• How do you respond when you sense people's sincerity or lack of alignment, and how do you use this insight?\n\n• How can you make work processes more efficient by leveraging your ability to sense the emotional and physical health of your environment?\n\n• Acting like a mirror at work, what kind of awareness do you bring to others, and how do you think you create change through this process?\n\n• How does your impartial assessment help ensure that your organization stays true to its mission?";
+var c_o_s_objective_eng_ozet_1 = "Your Work Style: Objective";
+var c_o_s_objective_eng_ozet_2 = "Neutrality and environmental awareness are among your strengths. You can evaluate the information without prejudice and easily sense the emotional and structural balance of the environment you are in. This objective approach allows you to make clear decisions in the business world and see things that others don't.";
 
 //Kariyer Seçim
 //12-25
@@ -1899,7 +1909,7 @@ var kariyer_secim_25_plus_s7_mentor_1_1 = "Yaratıcı ve Sanatsal Kariyerler";
 var kariyer_secim_25_plus_s7_mentor_1_2 = "Danışmanlık, koçluk ve mentorluk sektöründe yaratıcılığını kullanabileceğin işler şunlar olabilir:";
 var kariyer_secim_25_plus_s7_mentor_1_3 = "• Kariyer Koçu: Bireylerin kariyer hedeflerini belirlemeleri ve potansiyellerini en iyi şekilde kullanmaları için kişisel ve yaratıcı rehberlik sağlayabilirsin.";
 var kariyer_secim_25_plus_s7_mentor_1_4 = "• Kişisel Gelişim Eğitmeni: Bireylerin yaratıcılıklarını ve içsel potansiyellerini ortaya çıkarmalarına yardımcı olacak eğitim programları oluşturabilirsin";
-var kariyer_secim_25_plus_s7_mentor_1_5 = "• Yaşam Koçu (Life Coach): İnsanların yaşamları üzerinde daha fazla kontrol sahibi olmalarına yardımcı olarak, onları daha tatmin edici bir yaşam sürmeye teşvik edebilirsin.";
+var kariyer_secim_25_plus_s7_mentor_1_5 = "• Yaşam Koçu: İnsanların yaşamları üzerinde daha fazla kontrol sahibi olmalarına yardımcı olarak, onları daha tatmin edici bir yaşam sürmeye teşvik edebilirsin.";
 var kariyer_secim_25_plus_s7_mentor_1_6 = "• Eğitim ve İçerik Tasarımcısı (Koçluk ve Danışmanlık): Koçluk ve danışmanlık sürecine uygun yaratıcı eğitim materyalleri, video içerikler veya interaktif dijital platformlar tasarlayarak sürecin verimliliğini artırabilirsin.";
 var kariyer_secim_25_plus_s7_mentor_1_7 = "";
 
@@ -2361,24 +2371,111 @@ var kariyer_secim_ozet_9_1 = "Sana En Uygun Kariyer Alanı: Analitik ve Veriye D
 var kariyer_secim_ozet_9_2 = "Veriye dayalı düşünme, analiz yapma ve strateji geliştirme becerilerine sahip birisin. Bu alanlarda, karmaşık verileri anlamlandırabilir, iş kararlarını destekleyebilir ve geleceği öngörebilirsin. Detaylara odaklanmayı seviyor, sayısal düşünebiliyor ve çözüm üretmeyi kolayca başarabiliyorsan, bu kariyer alanı senin için çok uygun.";
 
 //Kariyer Seçim İngilizce
+//12-25
+var kariyer_secim_12_25_eng_s2_1_1 = "Creative and Artistic Careers"
+var kariyer_secim_12_25_eng_s2_1_2 = "It seems that you have a wide imagination and love to express yourself. These careers may be just right for you. You can develop original projects by using your creativity in areas such as design, fashion, music, painting or writing. For example, you can become a graphic designer and design a logo for a new brand, or you can dabble in music and make your own compositions. In such careers, you have a very good chance of making a difference by bringing your ideas to life.";
+var kariyer_secim_12_25_eng_s2_2_1 = "Leadership and Management Careers"
+var kariyer_secim_12_25_eng_s2_2_2 = "You have a natural ability to lead people and manage organizations, and you can excel in these areas. Working in areas such as project leadership, organization management or human resources brings people together in a large team to achieve goals. For example, imagine that you are a team leader in a school project, you can use these skills in business life to rise in your career.";
+var kariyer_secim_12_25_eng_s2_3_1 = "Charity & Social Careers";
+var kariyer_secim_12_25_eng_s2_3_2 = "If helping others makes you happy, how about finding a way that works for yourself in social services or healthcare. For example, you can support people as a nurse or social worker, or you can contribute to society by working for a non-profit organization. These careers offer the opportunity to both help others and do meaningful work.";
+var kariyer_secim_12_25_eng_s2_4_1 = "Technical and Engineering Careers";
+var kariyer_secim_12_25_eng_s2_4_2 = "Analytical thinking and technical skills are your strengths, and a career in engineering or technology may be for you. In professions such as computer engineering, software development or electrical engineering, you will have the chance to solve complex problems and develop new technologies. For example, as a computer programmer, you can develop a new mobile application.";
+var kariyer_secim_12_25_eng_s2_5_1 = "Sales and Relationship Building Careers";
+var kariyer_secim_12_25_eng_s2_5_2 = "Your communication skills are strong and you can easily connect with people, and you can be successful in sales and customer relations. By working in areas such as marketing, sales or customer representative, you can ensure that products or services are delivered to the right people. For example, you can help customers as a sales consultant in a store or work as a sales representative in a company.";
+var kariyer_secim_12_25_eng_s2_6_1 = "Organizational and Administrative Careers";
+var kariyer_secim_12_25_eng_s2_6_2 = "You like to be organized and plan things out, you can find a place for yourself in administrative and organizational careers. By working in areas such as human resources, office management or project coordination, you have the opportunity to make the operation of an organization more efficient. For example, as a project manager, you can organize teams and keep things running smoothly.";
+var kariyer_secim_12_25_eng_s2_7_1 = "Innovative and Entrepreneurial Careers";
+var kariyer_secim_12_25_eng_s2_7_2 = "You have innovative and creative thoughts, starting your own business or working in a startup may be suitable for you. Entrepreneurship requires taking risks and achieving things with new ideas. For example, you can open your own online store and sell your products or develop a new application in a tech startup.";
+var kariyer_secim_12_25_eng_s2_8_1 = "Teaching and Mentoring Careers";
+var kariyer_secim_12_25_eng_s2_8_2 = "You enjoy sharing your knowledge with others, teaching and mentoring careers are for you. By teaching, trainer or coaching, you can guide others and contribute to their development. For example, as a teacher, you can teach students, or as a coach, you can support their personal development.";
+var kariyer_secim_12_25_eng_s2_9_1 = "Analytical and Data-Driven Careers";
+var kariyer_secim_12_25_eng_s2_9_2 = "We see that you are good with numbers and analytics, and you can succeed in careers such as data science or business analytics. Such careers involve analyzing large amounts of data and helping to make decisions. For example, as a data scientist, you can analyze a company's sales data and determine how they can perform better in the future..";
+
+//--
+var kariyer_secim_12_25_eng_s5_1_1 = "Creative and Artistic Careers";
+var kariyer_secim_12_25_eng_s5_1_2 = "• Graphic Design\n• Fine arts\n• İç Mimarlık\n• Interior Architecture\n• Fashion Design\n• Advertising\n• Cinema and Television\n• Music\n• Creative Writing\n• Performing Arts";
+
+var kariyer_secim_12_25_eng_s5_2_1 = "Leadership and Management Careers";
+var kariyer_secim_12_25_eng_s5_2_2 = "• Company\n• Management and Organization\n• Human Resources Management\n• Industrial Engineering\n• Public Administration\n• Logistics Management\n• Project Management (MSc)\n• International Relations";
+
+var kariyer_secim_12_25_eng_s5_3_1 = "Charity & Social Careers";
+var kariyer_secim_12_25_eng_s5_3_2 = "• Social Work\n• Psychology\n• Guidance and Psychological Counseling\n• Nursing\n• Physiotherapy and Rehabilitation\n• Healthcare Management\n• Sociology\n• Child Development";
+
+var kariyer_secim_12_25_eng_s5_4_1 = "Technical and Engineering Careers";
+var kariyer_secim_12_25_eng_s5_4_2 = "• Computer Engineering\n• Electrical and Electronics Engineering\n• Mechanical Engineeringi\n• Civil Engineering\n• Software Engineering\n• Industrial Engineering\n• Mechatronics Engineering\n• Mathematical Engineering";
+
+var kariyer_secim_12_25_eng_s5_5_1 = "Sales and Relationship Building Careers";
+var kariyer_secim_12_25_eng_s5_5_2 = "• Company\n• Marketing\n• Public Relations and Advertising\n• Communication\n• International Trade\n• Economics\n• Commercial Law (LL.M.)\n• Sales Management (Certificate and Graduate Programs)";
+
+var kariyer_secim_12_25_eng_s5_6_1 = "Organizational and Administrative Careers";
+var kariyer_secim_12_25_eng_s5_6_2 = "• Human Resources Management\n• Company\n• Office Management\n• Public Administration\n• Management Information Systems\n• Industrial Engineering\n• Management Engineering\n• Project Management (MSc)";
+
+var kariyer_secim_12_25_eng_s5_7_1 = "Innovative and Entrepreneurial Careers";
+var kariyer_secim_12_25_eng_s5_7_2 = "• Company\n• Entrepreneurship\n• E-Commerce and Digital Marketing\n• Industrial Engineering\n• Computer Science\n• Innovation Management (MSc)\n• Product Development & Design";
+
+var kariyer_secim_12_25_eng_s5_8_1 = "Teaching and Mentoring Careers";
+var kariyer_secim_12_25_eng_s5_8_2 = "• Faculties of Education (teaching in fields such as Physics, Chemistry, Mathematics, Turkish Language and Literature)\n• Psychology\n• Guidance and Psychological Counseling\n• Pedagogical Formation Training\n• Educational Administration and Supervision (MSc)\n• Life Coaching (Certificate Programs)";
+
+var kariyer_secim_12_25_eng_s5_9_1 = "Analytics and Data-Driven Careers";
+var kariyer_secim_12_25_eng_s5_9_2 = "• Data Science & Business Analytics\n• Statistics\n• Mathematics\n• Economy\n• Finance\n• Computer Engineering\n• Artificial Intelligence and Data Engineering (MSc)\n• Industrial Engineering";
+
+//-
+var kariyer_secim_12_25_eng_s6_1_1 = "Creative and Artistic Careers";
+var kariyer_secim_12_25_eng_s6_1_2 = "You can be successful in creative and artistic fields without a university degree. Especially after graduating from departments such as design, graphics, fashion and visual arts in vocational high schools, you can follow the following paths:";
+var kariyer_secim_12_25_eng_s6_1_3 = "• Freelance Designer: You can work freelance by creating your own portfolio in areas such as graphic design, web design, illustration.\n\n• Fashion Designer: By working in fashion workshops, you can gain experience in the industry and create your own brand.\n\n• •	Photography: You can become a wedding, event or fashion photographer by working in a photo studio or acquiring your own equipment.\n\n• Musician or Artist: You can develop yourself in the field of music or art, and you can be recognized by sharing your works on social media and digital platforms.";
+
+var kariyer_secim_12_25_eng_s6_2_1 = "Leadership and Management Careers";
+var kariyer_secim_12_25_eng_s6_2_2 = "It is also possible to advance in leadership and management careers with a vocational high school or high school graduation:";
+var kariyer_secim_12_25_eng_s6_2_3 = "• Supervisor or Team Leader: You can work in the retail, logistics or manufacturing sectors to become a team leader or supervisor.\n\n• Business Management: You can  start your own small business or gain experience as a manager in a family business.\n\n• Sales Teams Management: After gaining experience in sales, you can manage a sales team and develop your leadership skills.\n\n• Store Manager: You can start as a sales representative in the retail sector and work your way up to the level of store manager.";
+
+var kariyer_secim_12_25_eng_s6_3_1 = "Charity & Social Careers";
+var kariyer_secim_12_25_eng_s6_3_2 = "You can work in charity and social careers without studying at university:";
+var kariyer_secim_12_25_eng_s6_3_3 = "• Caregiver: You can work in the health sector after receiving patient care training in health vocational high schools.\n\n• Social Welfare Worker: By volunteering in social welfare institutions, you can work professionally in this field after gaining experience.\n\n• Rehabilitation and Nursing Home Worker: You can find a job in institutions related to elderly care or disabled individuals, and you can contribute to society.\n\n• Special Education Assistant: As an educational assistant in the field of special education, you can provide support to individuals.";
+
+var kariyer_secim_12_25_eng_s6_4_1 = "Technical and Engineering Careers";
+var kariyer_secim_12_25_eng_s6_4_2 = "You can succeed in technical and engineering careers with a vocational high school or direct work experience:";
+var kariyer_secim_12_25_eng_s6_4_3 = "• Technician / Technician: You can graduate from vocational high schools and work as a technician or technician in fields such as electricity, electronics, machinery, computers.\n\n• Computer Support Specialist: You can provide computer support by learning about computer hardware and software.\n\n• Mastery and Apprenticeship: You can make a career in areas such as electrician, machine mechanic, automotive technician with a master-apprentice relationship.\n\n• Software Developer: You can improve yourself with online courses and certificate programs on software and coding, and take part in freelance software projects.";
+
+var kariyer_secim_12_25_eng_s6_5_1 = "Sales and Relationship Building Careers";
+var kariyer_secim_12_25_eng_s6_5_2 = "You can succeed in sales and relationship management careers without a college degree:";
+var kariyer_secim_12_25_eng_s6_5_3 = "• Sales Representative: By working in the direct sales or retail sector, you can gain experience and rise to leadership in sales teams.\n\n• Customer Representative: By working in the field of customer service, you can improve your communication skills and advance your career in this direction.\n\n• Starting Your Own Business: You can start your own sales-oriented business by doing small-scale trading or improving your marketing skills.\n\n• E-Commerce Seller: You can do digital commerce by selling products on online platforms (such as Trendyol, Etsy, Amazon).";
+
+var kariyer_secim_12_25_eng_s6_6_1 = "Organizational and Administrative Careers";
+var kariyer_secim_12_25_eng_s6_6_2 = "By using your organizational skills in business, you can advance in these areas:";
+var kariyer_secim_12_25_eng_s6_6_3 = "• Office Assistant: You can improve your organizational skills by working as a secretary or administrative assistant in an office.\n\n• Project Assistant: You can start as an assistant in project management teams and move to more responsible positions as you gain experience.\n\n• Human Resources Assistant: You can gain experience by working in auxiliary positions in human resources departments.\n\n• Logistics or Inventory Management: By working in the logistics industry or warehouse management, you can learn organizational processes.";
+
+var kariyer_secim_12_25_eng_s6_7_1 = "Innovative and Entrepreneurial Careers";
+var kariyer_secim_12_25_eng_s6_7_2 = "You can take many steps for entrepreneurship and innovation without the need for a university degree:";
+var kariyer_secim_12_25_eng_s6_7_3 = "•	Starting Your Own Business: You can start a business based on your skills and interests, for example, you can open a small-scale workshop or e-commerce platform.\n\n• Start-up Founder: You can develop start-up projects by getting investment with a technology-oriented or creative venture idea.\n\n• Social Media Entrepreneurship: You can produce content through social media platforms and earn income in cooperation with brands.\n\n• Product Development: By working in workshops or factories, you can take part in the product development process and produce innovative ideas.";
+
+var kariyer_secim_12_25_eng_s6_8_1 = "Teaching and Mentoring Careers";
+var kariyer_secim_12_25_eng_s6_8_2 = "You can also build a career without a university degree by gaining experience in teaching and mentoring:";
+var kariyer_secim_12_25_eng_s6_8_3 = "• Private Lessons: You can specialize in a certain subject (such as mathematics, foreign language, music) and give private lessons to students.\n\n• Coaching and Mentoring: You can guide people by participating in certificate programs in areas such as life coaching and career coaching.\n\n• Teaching Assistant: You can gain experience by working as an assistant in schools or educational institutions.\n\n• Development Workshops: You can organize creative workshops for children and young people and develop your own training programs.";
+
+var kariyer_secim_12_25_eng_s6_9_1 = "Analytics and Data-Driven Careers";
+var kariyer_secim_12_25_eng_s6_9_2 = "In analytical and data-driven careers, you can advance in practical ways without a university education:";
+var kariyer_secim_12_25_eng_s6_9_3 = "• Data Analysis Courses: You can work on data analysis projects by learning tools such as online data analytics, SQL, Python.\n\n• Financial Consulting: By gaining work experience in financial analysis and accounting, you can advise small businesses.\n\n• Marketing Analytics: You can learn digital marketing tools and provide consultancy to companies by doing social media or SEO analysis.\n\n• Internships and Certificates: You can gain expertise in data analytics by doing an internship or through online certificate programs.";
+
+
+//25 plus
 var kariyer_secim_25_plus_eng_s2_1_1 = "Creative and Artistic Careers"
-var kariyer_secim_25_plus_eng_s2_1_2 = "If you want to use your creativity in your professional life, these fields might be a great fit for you. Careers in advertising, graphic design, fashion, music, film, or writing allow you to reflect your aesthetic sense and original ideas in professional projects. For example, you could design innovative ad campaigns for a brand or work as a content writer on creative projects. Artistic careers offer broad and flexible opportunities—whether you choose to work freelance or collaborate with an agency.";
+var kariyer_secim_25_plus_eng_s2_1_2 = "If you want to use your creative side in your business life, these areas may be suitable for you. Pursuing a career in advertising, graphic design, fashion, music, cinema or writing allows you to reflect your aesthetic sense and original ideas to professional projects. For example, you can design innovative advertising campaigns for a brand or take on creative projects as a content writer. Career opportunities in all branches of art are wide and flexible, you can work freelance or collaborate with an agency.";
 var kariyer_secim_25_plus_eng_s2_2_1 = "Leadership and Management Careers"
-var kariyer_secim_25_plus_eng_s2_2_2 = "You have a natural ability for leadership and can excel in managing teams and making strategic decisions. Careers in project management, team leadership, operations management, or senior executive roles require taking responsibility and achieving goals. For example, as a business manager, you could oversee the entire operations of an organization and develop new strategies to contribute to its growth. These careers demand strong leadership skills for long-term success and career advancement.";
-var kariyer_secim_25_plus_eng_s2_3_1 = "Helping and Social Careers";
-var kariyer_secim_25_plus_eng_s2_3_2 = "Your passion for helping others is clear. You could find a fulfilling career in healthcare, social services, or non-profit organizations. Careers like participating in social responsibility projects, being a therapist, or working as a healthcare professional stand out in this area. For example, you could support disadvantaged groups as a social worker or ensure the efficiency of healthcare services as a health administrator. These careers offer the opportunity to improve lives and make a positive impact.";
+var kariyer_secim_25_plus_eng_s2_2_2 = "You have a natural leadership ability and can excel at team management and strategic decision-making. Project management, team leadership, operations management, or senior management positions require you to take responsibility and achieve goals. For example, as a business manager, you can manage all the processes of the organization and contribute to growth by developing new strategies. These careers require strong leadership skills for long-term success and career progression.";
+var kariyer_secim_25_plus_eng_s2_3_1 = "Charity & Social Careers";
+var kariyer_secim_25_plus_eng_s2_3_2 = "We can see your passion for helping people. You may find a fulfilling career in healthcare, social services, or nonprofit organizations. Professions such as taking part in social responsibility projects, improving people's lives as a therapist or healthcare worker come to the fore in this field. For example, as a social worker, you can help disadvantaged groups, or as a health administrator, you can make health services work more efficiently.";
 var kariyer_secim_25_plus_eng_s2_4_1 = "Technical and Engineering Careers";
-var kariyer_secim_25_plus_eng_s2_4_2 = "With your technical skills and analytical mindset, you can specialize in engineering or technology. By working in fields like software development, mechanical engineering, or cybersecurity, you can respond to the ever-evolving demands of the business world. For example, as a software engineer, you could develop new applications, or as a network security expert, you could protect the digital infrastructure of companies. These fields require keeping up with rapidly advancing technologies and a commitment to continuous learning.";
-var kariyer_secim_25_plus_eng_s2_5_1 = "Sales and Relationship Careers";
-var kariyer_secim_25_plus_eng_s2_5_2 = "Your communication skills and ability to manage relationships make you well-suited for careers in sales and customer relations. Working in areas like sales management, business development, or customer service allows you to directly contribute to a company’s growth. For instance, as a sales manager, you could lead teams toward achieving targets, or as a business development specialist, you could attract new clients. These careers emphasize persuasion skills and relationship management expertise.";
+var kariyer_secim_25_plus_eng_s2_4_2 = "With your technical skills and analytical thinking, you can specialize in engineering or technology. Whether you're working in areas such as software development, mechanical engineering, or cybersecurity, you can respond to the ever-changing demands of the business world. For example, as a software engineer, you can develop new applications, or as a network security expert, you can protect companies' digital infrastructure. These fields require keeping up with rapidly evolving technologies and continuous learning.";
+var kariyer_secim_25_plus_eng_s2_5_1 = "Sales and Relationship Building Careers";
+var kariyer_secim_25_plus_eng_s2_5_2 = "Thanks to your communication skills and ability to manage human relations, you can be successful in sales and customer relations. By working in areas such as sales management, business development or customer service, you can directly contribute to the growth of the company. For example, as a sales manager, you can guide your teams to goals, or as a business development specialist, you can acquire new customers. These careers emphasize persuasiveness and relationship management competencies..";
 var kariyer_secim_25_plus_eng_s2_6_1 = "Organizational and Administrative Careers";
-var kariyer_secim_25_plus_eng_s2_6_2 = "Your strong organizational, planning, and coordination skills could lead to a successful career in administrative and organizational roles. Positions in human resources, office management, or project coordination ensure that business processes run smoothly and efficiently. For example, as a human resources manager, you could oversee recruitment processes, or as a project manager, you could coordinate different teams to reach the same goal. Success in these areas depends on attention to detail and multifaceted thinking.";
+var kariyer_secim_25_plus_eng_s2_6_2 = "Your organization, planning and organizational skills are strong, and you can pursue a career in administrative management and organization. Roles such as human resources, office management or project coordination ensure that business processes run smoothly and effectively. For example, as a human resources manager, you can manage recruitment processes, or as a project manager, you can work to help different teams achieve the same goal. In these areas, mastery of details and versatile thinking are important.";
 var kariyer_secim_25_plus_eng_s2_7_1 = "Innovative and Entrepreneurial Careers";
-var kariyer_secim_25_plus_eng_s2_7_2 = "With an entrepreneurial spirit, you have opportunities to bring your innovative ideas to life in various fields. You can start your own business, lead a startup, or develop new products and services that stand out in the market. For instance, you could launch a startup in the tech field, developing a new mobile app, or implement an innovative business model in e-commerce. These careers combine risk-taking with creativity.";
+var kariyer_secim_25_plus_eng_s2_7_2 = "You have an entrepreneurial spirit, there are areas where you can find the opportunity to bring your innovative ideas to life. You can start your own business, lead a start-up, or make a difference in the market by developing new products and services. For example, you can develop a new mobile application by establishing a start-up in the field of technology or implement an innovative business model in the e-commerce sector. These careers combine risk-taking and creativity.";
 var kariyer_secim_25_plus_eng_s2_8_1 = "Teaching and Mentoring Careers";
-var kariyer_secim_25_plus_eng_s2_8_2 = "You enjoy sharing your knowledge and experience with others, making teaching and mentoring great career options for you. In the education sector, you can contribute to the growth of individuals by becoming a teacher, academic advisor, or coach. For example, as a trainer, you can teach adults new professional skills, or as a mentor, you can guide young professionals in their careers. These careers require effective communication and strong guidance skills.";
+var kariyer_secim_25_plus_eng_s2_8_2 = "You enjoy sharing your knowledge and experiences with others, and you can pursue a career in teaching and mentoring. You can contribute to the development of individuals by teaching, academic counseling or coaching in the education sector. For example, as a trainer, you can teach professional skills to adults, or as a mentor, you can mentor young professionals. Effective communication and guidance skills are at the forefront of these careers.";
 var kariyer_secim_25_plus_eng_s2_9_1 = "Analytical and Data-Driven Careers";
-var kariyer_secim_25_plus_eng_s2_9_2 = "With your strong data analysis and problem-solving skills, analytical and data-driven careers could be a great fit for you. By working in fields like data science, business intelligence, or financial analysis, you can help companies make strategic decisions. For instance, as a data analyst, you could analyze large datasets and improve a company’s marketing strategies, or as a business intelligence expert, you could provide reports to management. These careers require a strong numerical aptitude and attention to detail.";
+var kariyer_secim_25_plus_eng_s2_9_2 = "If your data analysis and problem-solving abilities seem to be strong, analytics and data-driven careers may be a good fit for you. Whether you're working in areas like data science, business intelligence, or financial analysis, you can help companies make strategic decisions. For example, as a data analyst, you can analyze big data and improve companies' marketing strategies, or as a business intelligence specialist, you can report to management. These careers require an ability in numerical analysis and attention to detail.";
 
 //Güncel İşler
 var kariyer_secim_eng_s3_1_0 = "Creative and Artistic Careers"
@@ -2860,6 +2957,33 @@ var kariyer_secim_25_plus_s7_eng_meal_9_5 = "• Customer Experience Analyst: An
 var kariyer_secim_25_plus_s7_eng_meal_9_6 = "• Sales Data Analyst: Analyze restaurant sales data to optimize sales strategies and support business decisions.";
 var kariyer_secim_25_plus_s7_eng_meal_9_7 = "• Food Safety Analyst: Analyze food safety data, contributing to the improvement of hygiene standards and quality control processes.";
 
+//özet
+var kariyer_secim_eng_ozet_1_1 = "Sana En Uygun Kariyer Alanı: Yaratıcı ve Sanatsal Kariyerler";
+var kariyer_secim_eng_ozet_1_2 = "Estetik bakış açın ve özgün fikirlerinle öne çıkabileceğin bir alandasın. Yaratıcı düşünme, görsel ifade ve kullanıcı deneyimi gibi yeteneklerini kullanarak farklı projelere hayat verebilirsin. Fikir üretmekten keyif alıyor, görsel anlatımda güçlüysen ve detaylara duyarlıysan, bu kariyer alanı tam sana göre.";
+
+var kariyer_secim_eng_ozet_2_1 = "Sana En Uygun Kariyer Alanı: Liderlik ve Yönetim Kariyerleri";
+var kariyer_secim_eng_ozet_2_2 = "Stratejik düşünme, liderlik ve organizasyon becerilerini kullanabileceğin bir yolculuk seni bekliyor. Ekip yönetimi, iş süreçlerini geliştirme ve büyüme fırsatlarını değerlendirme gibi konularda başarılı olabilirsin. Karar almayı seviyor, insanlarla etkili iletişim kurabiliyor ve sonuç odaklı çalışıyorsan, liderlik ve yönetim alanı senin için doğru seçim olacaktır.";
+eng_
+var kariyer_secim_eng_ozet_3_1 = "Sana En Uygun Kariyer Alanı: Yardım ve Sosyal Kariyerler";
+var kariyer_secim_eng_ozet_3_2 = "İnsanlara yardım etmeyi ve onların gelişimine katkıda bulunmayı seviyorsan, bu kariyer alanı seni bekliyor. Dinleme, yönlendirme ve destekleme gibi sosyal yetkinlikleri güçlü bir şekilde kullanabilir, bireylerle etkili iletişim kurarak onların hayatlarına dokunabilirsin. Yardım etmeyi doğal buluyor, insanlarla birebir ilişkiler kurmayı seviyorsan, bu alan tam sana göre.";
+
+var kariyer_secim_eng_ozet_4_1 = "Sana En Uygun Kariyer Alanı: Teknik ve Mühendislik Kariyerleri";
+var kariyer_secim_eng_ozet_4_2 = "Teknoloji ve mühendislik becerilerini en üst düzeye çıkarabileceğin bir kariyer yolundasın. Problem çözme, yenilikçi düşünme ve teknik bilgi gerektiren alanlarda başarı gösterebilirsin. Bilgisayar bilimleri ya da mühendislik gibi teknik alanlarda güçlüysen ve bu alanda bir fark yaratmak istiyorsan, teknik ve mühendislik kariyerleri senin için uygun bir seçenek.";
+
+var kariyer_secim_eng_ozet_5_1 = "Sana En Uygun Kariyer Alanı: Satış ve İlişkisel Kariyerler";
+var kariyer_secim_eng_ozet_5_2 = "nsan ilişkileri, ikna kabiliyeti ve etkili iletişim becerilerinle parlayabileceğin bir kariyer seni bekliyor. Müşteri ilişkilerini yönetmek, satış stratejileri geliştirmek ve pazarlama gibi alanlarda başarılı olabilirsin. Sosyal bir kişiliğin varsa, dinamik bir ortamda insanlarla güçlü ilişkiler kurmayı seviyorsan, satış ve ilişkisel kariyerler tam sana göre.";
+
+var kariyer_secim_eng_ozet_6_1 = "Sana En Uygun Kariyer Alanı: Organizasyonel ve İdari Kariyerler";
+var kariyer_secim_eng_ozet_6_2 = "Düzenli, verimli ve organizasyon becerilerini kullanabileceğin bir kariyer yoluna adım atabilirsin. Ofis yönetimi, proje koordinasyonu ve iş akışlarını yönetme gibi yetkinlikleri geliştirebilirsin. Detaylara dikkat ediyor, yönetim ve koordinasyon becerilerine sahipsen, organizasyonel ve idari kariyerler senin için ideal.";
+
+var kariyer_secim_eng_ozet_7_1 = "Sana En Uygun Kariyer Alanı: Yenilikçi ve Girişimci Kariyerler";
+var kariyer_secim_eng_ozet_7_2 = "Yaratıcılığını, özgünlük ve yenilikçilikle birleştirerek yeni iş fırsatları yaratabileceğin bir kariyer seni bekliyor. Girişimcilik, inovasyon ve yeni projeler geliştirmek konusunda güçlü bir vizyona sahipsen, bu alan tam sana göre. Risk almayı seviyor, liderlik ve yenilikçi düşünme yeteneğini kullanarak farklı çözümler üretiyorsan, yenilikçi ve girişimci kariyerler seni çağırıyor.";
+
+var kariyer_secim_eng_ozet_8_1 = "Sana En Uygun Kariyer Alanı: Öğretmenlik ve Mentorluk Kariyerleri";
+var kariyer_secim_eng_ozet_8_2 = "Eğitim ve kişisel gelişim süreçlerini yönlendirmek ve başkalarının hayatlarına dokunmak senin için anlamlıysa, öğretmenlik ve mentorluk alanında harika bir kariyer seni bekliyor. İnsanların gelişimine katkıda bulunmayı seviyor, bilgi paylaşmayı doğal buluyorsan ve sabırlı bir rehberlik yapmak istiyorsan, bu alan senin için en doğru seçenek olabilir.";
+
+var kariyer_secim_eng_ozet_9_1 = "Sana En Uygun Kariyer Alanı: Analitik ve Veriye Dayalı Kariyerler";
+var kariyer_secim_eng_ozet_9_2 = "Veriye dayalı düşünme, analiz yapma ve strateji geliştirme becerilerine sahip birisin. Bu alanlarda, karmaşık verileri anlamlandırabilir, iş kararlarını destekleyebilir ve geleceği öngörebilirsin. Detaylara odaklanmayı seviyor, sayısal düşünebiliyor ve çözüm üretmeyi kolayca başarabiliyorsan, bu kariyer alanı senin için çok uygun.";
 
 //Güçlü Yanların 12-25
 var guclu_yanlarin2_57_10_1 = "Mükemmelleştirilmiş Form Gücü (57-10)";
@@ -2967,10 +3091,10 @@ var guclu_yanlarin2_35_36_2 = "Yeni Şeyler Denemek\nHayatta ilerlemek için her
 var guclu_yanlarin2_56_11_1 = "“Merak” Gücü (11-56)";
 var guclu_yanlarin2_56_11_2 = "Yeni Fikirler Keşfetmek\nHer zaman yeni fikirler keşfetmeyi ve dünyayı farklı görmenin yollarını bulmayı seversin. Her zaman belirli bir hedefin olmayabilir, sadece \"Bakın ne buldum!\" demeyi seversin. Bu merakın seni zihinsel olarak aktif tutar ve yaratıcı fikirler bulmana yardımcı olur.\n\nYaratıcılığı Serbest Bırakmak\nFikirleri ve hikayeleri birleştirip hayata dair düşüncelerle anlatınca yaratıcılığın büyüleyici hale gelir. Başkalarını heyecanlandıran ve onlara ilham veren bir şekilde bu fikirleri paylaşabilirsin. Bu, seni farklı düşünmeye yönlendiren güçlü bir özellik.\n\nHikayeler Anlatmak\nKarmaşık fikirleri eğlenceli ve anlaşılır hikayelere dönüştürme yeteneğin var. Bu da insanlara zor konuları açıklarken onların ilgisini çekmeni sağlar. Konuları ilgi çekici ve anlaşılır hale getirme konusunda çok iyisin.\n\nVizyonuna İnanmak\nBir şeye inandığında, bu senin için gerçek olur. Hikayelerinde, deneyimlerini paylaşma şeklin senin için gerçeğin kendisinden daha önemlidir. Bu seni güçlü bir hikaye anlatıcısı yapar ve başkalarıyla derin bir bağ kurmanı sağlar.\n\nİş Dünyasında Gücünü Kullanmak\nMerakın iş dünyasında çok değerlidir. Yeni fikirler keşfetme yeteneğin, yenilikçi ürünler veya çözümler yaratmana yardımcı olabilir. Pazarlama veya hikaye anlatıcılığı rollerinde, yaratıcı hikayeler oluşturabilir ve insanları etkileyebilirsin. Lider olarak, merakın takımını sürekli öğrenmeye ve gelişmeye teşvik edebilir.";
 
-var guclu_yanlarin2_10_34_1 = "“İnanç” Gücü (Quantum 34-10)";
+var guclu_yanlarin2_10_34_1 = "“İnanç” Gücü (34-10)";
 var guclu_yanlarin2_10_34_2 = "Kendine Güvenmek\nBaşkaları seninle aynı fikirde olmasa bile inandığın şeyin arkasında durma gücüne sahipsin. Hiçbir zaman kendin olmaktan vazgeçmezsin. İnançlarının peşinden giderken başkalarına da kendi doğrularını takip etme konusunda ilham verirsin.\n\nOtantik Olmak\nFarklı durumlara uyum sağlarken, kendine sadık kalmayı başarırsın. Kendine güvendiğinde ve kendini olduğun gibi kabul ettiğinde, seni benzersiz kılan özellikleri kucaklarsın. Bu da seni daha güçlü yapar ve başkalarına da kendi yollarında yürümeleri için cesaret verir.\n\nKişisel Güç\nKişisel gücün, seni özel yapan şeyleri göstermenden gelir. Bu güç tamamen sana ait ve başkaları tarafından kopyalanamaz. Bu güç, bağımsızlığını destekler ve seni inançlarının peşinden gitmen için motive eder.\n\nİş Dünyasında Gücünü Kullanmak\nİş dünyasında, inançlarının arkasında durma gücün çok değerlidir. Karşılaştığın zorluklara rağmen, inandığın yolda ilerlemek başkalarına güven verir. Liderlik rollerinde, güçlü inançların takımı zor zamanlarda ileriye taşır. Ayrıca, başkalarına da dürüst ve kararlı olmayı öğretirsin, bu da iş yerinde bütünlük ve güven ortamı yaratır.";
 
-//Bunlar gates
+//Bunlar gates 12-25
 var guclu_yanlarin2_15_1 = "Güven Kaynağı";
 var guclu_yanlarin2_15_2 = "Güven ve Devamlılık İnşa Etmek\nİnsanları bir araya getirip güvenilir ve bağlı bir ekip oluşturma konusunda doğal bir yeteneğin var. Varlığın, grupta güven ve devamlılık hissi yaratır. Farklı insanları bir araya getirerek herkesin kendini desteklenmiş ve rahat hissettiği bir ortam yaratabilirsin.\n\nBağlantıyı Güçlendirmek\nGüvenilirliğin, ekipteki herkesin kendini ait hissetmesini sağlar. İnsanlar birbirlerine daha bağlı hisseder, bu da takımda sadakati ve iş birliğini artırır. Tutarlı bir yaklaşım sergileyerek güven ve saygı dolu ilişkiler kurarsın.\n\nGüvenilir Bir Çevre Yaratmak\nİnsanlar birbirlerine güvenebildiğinde, kendilerini güvende hisseder ve birlikte çalışmak isterler. Güven inşa etme yeteneğin, özellikle liderlik rollerinde çok değerlidir. Bu, herkesin daha verimli çalışmasına ve mutlu hissetmesine yardımcı olur.\n\nHayatta Yetkinliğini Kullanmak\nGüvenilirlik yetkinliğin, liderlik, ekip yönetimi veya proje yardımı gerektiren rollerde çok önemlidir. Tutarlı ve güvenilir olman, ekiplerin düzenli çalışmasını sağlar. Bağlantı ve güven oluşturma yeteneğin sayesinde, grupların büyümesine, başarılı olmasına ve birlikte verimli çalışmasına yardımcı olabilirsin.";
 
@@ -3007,7 +3131,7 @@ var guclu_yanlarin2_13_2 = "İş Başarısını Takip Etmek\nBir projenin ya da 
 var guclu_yanlarin2_33_1 = "Gözlem Ustası";
 var guclu_yanlarin2_33_2 = "İşlerin Sorunsuz Yürüdüğünden Emin Olmak\nHer şeyin planlandığı gibi gitmesini sağlama konusunda iyisin. Ekibinle birlikte işleri zamanında ve doğru bir şekilde yapıldığından emin olabilirsin. Dikkatin sayesinde, görevlerin tamamlanması ve herkesin ne yapacağını bilmesi sağlanır.\n\nHatalardan Ders Çıkarmak\nGeçmiş deneyimlerden ders çıkararak, ekibinin aynı hataları yapmamasına yardımcı olursun. Önceden neyin işe yaradığını düşünerek, gelecekte daha iyi sonuçlar elde edebilirsin.\n\nHerkesin Sorumluluğunu Yerine Getirdiğinden Emin Olmak\nİşlerin yolunda gitmesini sağlama yeteneğin, ekibin işlerinden sorumlu kalmasına yardımcı olur. Herkesin gerekeni yaptığından ve sorunların hızlıca çözüldüğünden emin olursun.\n\nHayatta Yeteneğini Kullanmak\nİşlerin düzenli yürümesini sağlama yeteneğin, ekip liderliği veya yöneticilik gibi rollerde değerlidir. Kurallar oluşturur, problemleri çözer ve ekibinde güven oluşturursun. Bu yetenek, ekibin verimli çalışmasını ve hedeflerine ulaşmasını sağlar.";
 
-//Güçlü Yanların + 25
+//Güçlü Yanların 25 plus
 var guclu_yanlarin_57_10_1 = "Mükemmelleştirilmiş Form” Gücü (57-10)";
 var guclu_yanlarin_57_10_2 = "Hızlı düşünme yeteneğin dinamik iş ortamlarında çok değerli. Yaratıcılığın ile hayatta kalmayı garanti eden ve gelecekteki belirsizliklerden koruma sağlayan ortamlar yaratma ve tasarlama kabiliyetin var.\n\nFormu Mükemmelleştirmek\nKendini, sanatı, müziği, yazıyı, iç tasarımı, yiyeceği, bahçeciliği, mimariyi – kendi ve başkalarının davranışlarını içeren her şeyi mükemmelleştirmeyi seversin. Bu detaylara gösterdiğin özen ve mükemmellik arzusu, herhangi bir profesyonel alanda yüksek kaliteli çıktılar üretmene yardımcı olur.\n\nKendin Olmak\nSadece kendin olarak yaşayarak sağlıklı ve güzel bir şey yaratırsın. Bu otantiklik başkalarına ilham verebilir ve olumlu ve üretken bir çalışma ortamı yaratabilir. Rolün, kendin ve hayatın da dahil olmak üzere, sevdiğin şeyi yaratmak ve yarattığın şeyi sevmektir.\n\nİş Dünyasında Gücünü Kullanmak\nYaratıcılık ve tasarım gerektiren rollerde, detaylara gösterdiğin özen ve sezgisel yaklaşım, yenilikçi ve estetik açıdan hoş sonuçlara doğurur. Liderlikte, işinin her yönünü kucaklama ve mükemmelleştirme yeteneğin, ekibini mükemmellik için çabalamaya teşvik edebilir.\n\nMükemmelleştirilmiş form gücün, iş dünyasında sezgi, yaratıcılık ve mükemmelik arzusu açısından benzersiz bir karışım sunan güçlü bir özelliktir. Bu gücü kullanarak yaratıcı olabilir, üretkenliği artırabilir, olumlu bir çalışma ortamı yaratabilir ve organizasyonunu daha büyük bir başarıya yönlendirebilirsin. Bu gücü benimsemen ve geliştirmen, anlamlı ve etkili bir kariyere vesile olabilir.";
 
@@ -3116,7 +3240,7 @@ var guclu_yanlarin_56_11_2 = "Sürekli zihinsel uyarımlar aramaya, yeni fikirle
 var guclu_yanlarin_10_34_1 = "“İnanç” Gücü (34-10)";
 var guclu_yanlarin_10_34_2 = "Kendi gerçeğini sarsılmaz bir inançla takip etme gücüne sahipsin. Karşına çıkan engellere rağmen bağımsız ve otantik bir şekilde davranma içsel gücüne sahipsin. Belirli bir inancı benimsediğinde, ne kadar alışılmadık görünse de, seni bu inançtan döndürmek neredeyse imkansız olabilir. Güçlü varlığın ve bireyselliğin doğal olarak dikkat çeker, ancak asıl olarak kendin olmaya bağlı kalarak başkalarına da kendi inançları ve gerçekleriyle bağlantı kurmaları için ilham verirsin.\n\nKendin Olmak\nDavranışlarını çeşitli durumlara uyarlayabilirken, kim olduğuna sadık kalma yeteneğine sahipsin. Kendine güvenmeyi, kendini sevmeyi ve kabul etmeyi öğrendiğinde, seni benzersiz kılan özellikleri tam anlamıyla kucaklarsın. Bu otantiklik, seni kendi hayatını kendi olarak yaşaman için güçlendirir ve başkalarını da aynı şeyi yapmaları için cesaretlendirir.\n\nKişisel Güç\nKişisel gücün, seni benzersizliğini sergilemeye iten etkileyici bir enerji kaynağıdır. Bu özellik tamamen senin kullanımına özgüdür, başkaları tarafından hayranlıkla karşılanıp kullanılmak istense bile başkalarının erişimine açık değildir. Bu kişisel güç, bağımsızlığını destekler, seni inançlarına göre hareket etmeye yönlendirir ve otantik bir şekilde hayatta kalman ve başarılı olman için seni güçlendirir.\n\nİş Dünyasında Gücünü Kullanmak\nİnanç gücün iş dünyasında değerli bir özelliktir. Karşına çıkan zorluklara rağmen inançlarının arkasında durma ve bağımsız hareket etme yeteneğin, ekiplerin ortak hedeflere ulaşması için güven aşılamak ve onları motive etmek adına çok önemli olabilir. Yenilikçilik ve otantikliğin ön planda olduğu sektörlerde, ilkelere sarsılmaz bağlılığın, sınırları zorlamana ve örnek olarak liderlik etmene olanak tanır. Özellikle üst düzey liderlik rolleri için, güçlü inançlar şirketleri belirsiz veya zorlu zamanlarda yönlendirmeye yardımcı olabilir. Diğer insanlara da otantik ve kararlı bir şekilde hareket etmeleri için ilham verme yeteneğin, ekibinde veya organizasyonunda bütünlük ve dayanıklılık kültürü oluşturur.\n\nİnanç gücün, otantik bir şekilde liderlik yapmanı, başkalarına inançlarının arkasında durmaları için ilham vermeni ve bütünlük ile kişisel gücün geliştiği bir ortam yaratmanı sağlar. Kendi gerçeğine sarılarak ve bu doğrultuda hareket ederek, ilerleme kaydedebilir ve dayanıklılık ve yenilikçilik kültürü yaratabilirsin.  ";
   
-//Bunlar gates 
+//Bunlar gates 25 plus
 var guclu_yanlarin_15_1 = "Güven Kaynağı";
 var guclu_yanlarin_15_2 = "Güven ve İstikrar İnşa Etmek\nİnsanları bir araya getirip uyumlu ve güvenilir bir ekip oluşturma konusunda doğal bir yeteneğe sahipsin. Varlığın, gruba istikrar ve güvenlik hissi katar. Farklı bireyleri bağlı ve uyumlu bir ortamda bir araya getirerek, insanların rahat ve desteklenmiş hissettiği bir atmosfer yaratabilirsin.\n\nBağlantıyı Güçlendirmek\nGüvenilirliğin sayesinde ekip üyeleri arasında aidiyet hissini artırırsın. İnsanlar birbirlerine güçlü bir bağ hisseder, bu da grup içinde sadakati teşvik eder. Tutarlı bir yaklaşım sergileyerek, güven ve karşılıklı saygıya dayalı ilişkilerin gelişmesini sağlayabilirsin.\n\nGüvenilir Bir Çevre Yaratmak\nEkip içinde güven duygusu oluşturma yeteneğin çok değerli. İnsanlar birbirlerine güvenebildiklerinde, kendilerini güvende hisseder ve iş birliği içinde çalışmak için motive olurlar. Bu durum, liderlik ve ekip yönetimi rollerinde özellikle önemlidir, çünkü güven duygusu, daha yüksek verimlilik ve çalışan memnuniyeti sağlar.\n\nİş Dünyasında Yetkinliğini Kullanmak\nİş dünyasında, güvenilirlik yetkinliğin ekip liderliği, insan kaynakları veya proje yönetimi gerektiren rollerde kullanılabilir. Tutarlı ve güvenilir yaklaşımın, grup dinamiklerini sağlamlaştırır ve uzun vadeli istikrarı garanti eder. Bağlantı ve güven oluşturma yeteneğini kucaklayarak, ekiplerin geliştiği, verimli çalıştığı ve birlikte büyüdüğü ortamlar yaratabilirsin.  ";
 
@@ -3404,70 +3528,116 @@ var kslk_ozl_ozet_15_2 = "Meraklı ve yaratıcı bir yapıya sahipsin. Estetik v
 
 //Kişilik Özelliklerin İngilizce - (türkçeye göre 2 tane fazla alan var)
 var kslk_ozl_realistic_eng_your_profile = "Realistic"
-var kslk_ozl_realistic_eng_your_profile_ = "Enjoy work activities that include practical, hands-on problems and solutions. You may like dealing with plants, animals, and real-world materials, like wood, tools, and machinery. You may enjoy outside work.";
-var kslk_ozl_realistic_eng_your_interests_1 = "Realistic people are practical, self-reliant, and mechanically inclined. They tend to be traditional and value things they can see and touch. Realistic individuals usually have well developed skills for working with tools, operating machines or raising animals. They enjoy work that happens outdoors and involves physical activity.";
-var kslk_ozl_realistic_eng_your_interests_2 = "They also like adventurous activities such as riding roller coasters or sky diving. Since they enjoy hands-on activities that involve concrete problem solving, they would rather avoid dealing with people, abstract ideas and lots of data. When faced with a problem, they come up with action oriented solutions instead of verbal or interpersonal ones.";
+var kslk_ozl_realistic_eng_your_profile_ = "You may enjoy coming up with practical, hands-on solutions. You might like working with real materials—plants, animals, wood, tools, or machines. Being outdoors and physically active could feel natural to you.";
+var kslk_ozl_realistic_eng_your_interests_1 = "You may feel confident and inclined toward mechanical tasks. You might value tangible work and appreciate traditional values. You could enjoy using tools, handling machines, or exploring skills in farming or animal care.";
+var kslk_ozl_realistic_eng_your_interests_2 = "You might enjoy work that involves physical activity or being outdoors. Since you tend to focus on solving concrete problems, you may prefer practical solutions. While you may like working independently, you can also adapt and collaborate well within a team when needed.";
 var kslk_ozl_realistic_eng_strengths = "building and repairing, operating machinery and equipment, concrete problem solving";
 var kslk_ozl_realistic_eng_hobbies = "building and repairing, gardening and crafts, playing sports, outdoor recreational activities, cars, motor sports, boats, mechanics, home improvement, camping, hunting, fishing";
-var kslk_ozl_realistic_eng_your_work_areas = "trades people – carpenters, electricians, mechanics, plumbers; agriculture and forestry; engineering; military";
-var kslk_ozl_artistic_eng_you_may_not_like = "public speaking, social events, cultural and aesthetic activities, mediating disputes, work that involves close interpersonal relationships";
+var kslk_ozl_realistic_eng_your_work_areas = "Engineering, technical services, construction, craftsmanship, agriculture, security";
+var kslk_ozl_artistic_eng_you_may_not_like = "You might not enjoy dealing with abstract concepts, working at a desk all the time, or handling detailed bureaucratic tasks.";
 var kslk_ozl_12_25_realistic_eng_questions = "• How do I feel when I work with my hands (e.g., when preparing a project or conducting an experiment)? Can I use this skill more effectively in class?\n\n• Do I finish tasks more quickly and easily when I find practical solutions? How can I highlight this ability during group work?\n\n• Do I notice that I feel more motivated when doing physical activities or working outdoors? How can I bring this motivation into school projects?";
 var kslk_ozl_25_plus_realistic_eng_questions = "• How do I feel when I produce something with my hands or achieve tangible results at work? How can I better utilize this practical skill in my work projects?\n\n• How does solving problems quickly and effectively impact my work efficiency? How can I incorporate this approach more into my daily workflow?\n\n• Do I experience increased motivation when working outdoors or engaging in physical activities? How can I boost this motivation more in my work?";
 
 var kslk_ozl_investigative_eng_your_profile = "Investigative";
-var kslk_ozl_investigative_eng_your_profile_ = "Enjoy work that involves solving complex problems. You may like exploring ideas, conducting research and looking at theories. You may prefer thinking over doing and prefer data and ideas to people.";
-var kslk_ozl_investigative_eng_your_interests_1 = "Investigative people are inquisitive, analytical, and intellectual. They like investigating things and solving complex problems. Investigative individuals enjoy exploring ideas, conducting research, uncovering facts and establishing theories. Their preferred reading material includes scientific or technical magazines.";
-var kslk_ozl_investigative_eng_your_interests_2 = "They also enjoy working alone, and prefer working with data and ideas over people. As a result, they tend to avoid jobs that require leading, selling, or persuading others. While they share some of the same interests in the physical world as Realistic people, Investigative types prefer thinking over doing.";
+var kslk_ozl_investigative_eng_your_profile_ = "You might enjoy solving complex problems. You may like exploring ideas, doing research, and examining theories. You could prefer thinking and analyzing, but you’re also likely to be good at putting your findings into practice.";
+var kslk_ozl_investigative_eng_your_interests_1 = "You may be curious, analytical, and intellectually inclined. You might enjoy researching topics and solving complex problems. Exploring and developing ideas could inspire you, and you may also guide others by sharing what you know.";
+var kslk_ozl_investigative_eng_your_interests_2 = "You might enjoy reading scientific or technical content. You may prefer working alone and like dealing with data and ideas. Persuading others or working in sales might not interest you much, but you could lead and guide others in your area of expertise.";
 var kslk_ozl_investigative_eng_strengths = "Understanding and solving science and math problems; analytical, observant, inquisitive; organizing, analyzing, interpreting data, ideas, theories; working independently with loosely defined problems; researching and understanding the physical world";
 var kslk_ozl_investigative_eng_hobbies = "Scientific, mathematical, and intellectual pursuits; researching and understanding the physical world; using computers; doing complex calculations; astronomy, crossword puzzles, board games, and visiting museums.";
-var kslk_ozl_investigative_eng_your_work_areas = "Biology, chemistry, physics, computer programing, computer engineering, medicine, pharmacology, psychology, veterinary science, technical writing.";
-var kslk_ozl_investigative_eng_you_may_not_like = "Sales, persuading others, leading people";
+var kslk_ozl_investigative_eng_your_work_areas = "Science, engineering, medicine, data analytics, academic research (fields that require deep thinking, questioning, and problem-solving)";
+var kslk_ozl_investigative_eng_you_may_not_like = "You might not enjoy repetitive routine tasks, superficial information, strict rule-following, or roles that require excessive social interaction.";
 var kslk_ozl_12_25_investigative_eng_questions = "• How do I approach solving tough questions? How can I use this problem-solving skill more often in class?\n\n• How does learning new things and researching motivate me? How can I use my research skills more effectively in projects or assignments?\n\n• When I’m mentally challenged by a subject, how deep do I like to go in learning? In which areas at school can I further develop this curiosity?";
 var kslk_ozl_25_plus_investigative_eng_questions = "• What problem-solving methods do I use when I face challenging problems? How can I apply this analytical thinking skill more frequently at work?\n\n• How do detailed investigations make a difference in my job? How can I leverage this curiosity more in my work?\n\n• When I dive deep to solve a complex problem, which skills do I develop? How can I highlight these problem-solving skills more in my job?";
 
 var kslk_ozl_artistic_eng_your_profile = "Artistic";
-var kslk_ozl_artistic_eng_your_profile_ = "Enjoy work activities that deal with the artistic side of things, such as forms, designs, and patterns. You may like self-expression in your work. You may prefer settings where work can be done without following a clear set of rules.";
-var kslk_ozl_artistic_eng_your_interests_1 = "Artistic people are creative and imaginative. They are original, independent people who have a strong desire to express themselves creatively. Artistic individuals value aesthetics and enjoy creative activities such as art, drama, writing, dance and music. They like to use their intuition and originality to develop new ideas.";
-var kslk_ozl_artistic_eng_your_interests_2 = "In this way they are similar to Investigative people. However, they are more interested in cultural-aesthetic pursuits than scientific ones. Artistic people find the most satisfaction in environments that have variety and change. They dislike work activities that are highly structured or repetitive. They are more interested in ideas and people, than data or things.";
+var kslk_ozl_artistic_eng_your_profile_ = "You might enjoy engaging with artistic forms, designs, and patterns. You may like expressing yourself in original ways through your work. You could prefer environments that offer flexibility rather than strict rules.";
+var kslk_ozl_artistic_eng_your_interests_1 = "You may be creative and original. You might enjoy expressing yourself through artistic means. Aesthetic fields like art, drama, writing, dance, or music could inspire you.";
+var kslk_ozl_artistic_eng_your_interests_2 = "You might enjoy developing new ideas by using your intuition and originality. You may find the most satisfaction in dynamic and creative environments. Structured, repetitive work might not appeal to you, and you could prefer interacting with people and ideas instead.";
 var kslk_ozl_artistic_eng_strengths = "using imagination and originality to develop new ideas; dealing with change in flexible environments; designing products; creating, using intuition and self-expression; artistic abilities – writing, drama, music, art";
 var kslk_ozl_artistic_eng_hobbies = "drawing, painting, creative writing, photography; playing musical instruments; attending concerts, the theatre and art exhibits; reading fiction, plays and poetry";
-var kslk_ozl_artistic_eng_your_work_areas = "musicians, artists, graphic artists, advertising, design, writers/editors";
-var kslk_ozl_artistic_eng_you_may_not_like = "repetitive, structured tasks; lack of variety; processing information; working with numbers";
+var kslk_ozl_artistic_eng_your_work_areas = "Visual arts, music, literature, design, theater, media (fields that involve artistic talent and personal expression)";
+var kslk_ozl_artistic_eng_you_may_not_like = "You might not enjoy jobs bound by strict rules and standards, constantly repeating tasks, or routine work that doesn’t allow for creativity.";
 var kslk_ozl_12_25_artistic_eng_questions = "• When expressing myself through drawing, writing, or other creative ways, when do I feel the most free? How can I add this creativity to my assignments?\n\n• How do my friends and teachers react when I come up with different ideas? How can I showcase my creative thinking more in projects?\n\n• When I add a creative touch to tasks I find boring, what difference does it make? How can I bring creativity more into my daily schoolwork?";
 var kslk_ozl_25_plus_artistic_eng_questions = "• How do I receive feedback when I come up with creative solutions or present original ideas at work? How can I bring this creative perspective more into my projects?\n\n• How does adding a creative touch to routine tasks affect my performance when things become monotonous? How can I use my creative thinking style more in daily tasks?\n\n• When I come up with new and unconventional ideas, how do I observe their contributions at work? How can I integrate these creative processes more frequently into my projects?";
 
 var kslk_ozl_social_eng_your_profile = "Social";
-var kslk_ozl_social_eng_your_profile_ = "Enjoy work activities that assist others and promote learning and personal development. You may prefer to be with people rather than to work with objects, machines, or data. You may like to teach, to give advice, to help, or otherwise be of service to people.";
-var kslk_ozl_social_eng_your_interests_1 = "Social people are friendly, outgoing, and understanding. They enjoy work that involves personal interaction and helping others. They are interested in people much more than data or things. Social individuals seek out close interpersonal relationships, and like teaching, helping and solving social problems. ";
-var kslk_ozl_social_eng_your_interests_2 = "They are concerned about human welfare, and enjoy work that allows them to overcome interpersonal problems and mediate disputes. They tend to avoid using machines or tools, and dislike extensive intellectual or physical work. Occupations that are very attractive to Social people are nursing, teaching and counseling.";
+var kslk_ozl_social_eng_your_profile_ = "You might enjoy work that involves helping others and encouraging learning. You may like communicating with people, offering support, and providing guidance. Instead of working with machines or data, you could be more drawn to people-centered roles.";
+var kslk_ozl_social_eng_your_interests_1 = "You may be warm, outgoing, and empathetic. You might enjoy one-on-one interactions and supporting others. Building personal connections, teaching, and caring about people’s well-being could be especially meaningful to you.";
+var kslk_ozl_social_eng_your_interests_2 = "You might enjoy resolving conflicts and acting as a peacemaker in social situations. You may prefer interpersonal interaction over technical tasks. Physically demanding work might not appeal to you, but you could stay active in social and intellectual areas.";
 var kslk_ozl_social_eng_strengths = "Planning and supervising group activities; helping people with problems; mediating disputes";
 var kslk_ozl_social_eng_hobbies = "Going to parties; participating in team sports; volunteering with social action groups; caring for children";
-var kslk_ozl_social_eng_your_work_areas = "Nursing, Counseling, Teaching, Religion";
-var kslk_ozl_social_eng_you_may_not_like = "Physical work; dealing with data and things; building and repairing";
+var kslk_ozl_social_eng_your_work_areas = "Education, healthcare, counseling, human resources, social services, customer-focused fields";
+var kslk_ozl_social_eng_you_may_not_like = "You might not enjoy competitive environments, working alone, cold and mechanical tasks, or technical duties that lack human interaction.";
 var kslk_ozl_12_25_social_eng_questions = "• How do I feel when I help a friend solve their problem? How can I use this helping skill more effectively in school events?\n\n• How does a group project move forward when I motivate my friends? How can I apply this motivational strength more in school projects?\n\n• How does understanding what others need give me advantages in school life? How can I develop this empathy further?";
 var kslk_ozl_25_plus_social_eng_questions = "• When I help or guide my colleagues, which skills of mine stand out? How can I utilize this helpfulness more in my professional life?\n\n• How do I influence the progress of work when I motivate others in team projects? How can I reflect this ability in more projects?\n\n• How does understanding others’ needs and providing suitable solutions benefit my work? What can I do to strengthen this empathy further in the workplace?";
 
 var kslk_ozl_entreprise_eng_your_profile = "Entreprise"; 
-var kslk_ozl_entreprise_eng_your_profile_ = "Enjoy work activities that have to do with starting up and carrying out projects, especially business ventures. You may like persuading and leading people and making decisions. You may like taking risks for profit. You might prefer action rather than thought.";
-var kslk_ozl_entreprise_eng_your_interests_1 = "Enterprising people enjoy business activities and deal making. They are self-confident, assertive, persuasive, and energetic. Verbally skilled, Enterprising individuals use these skills to persuade people, unlike Social individuals who use their verbal skills to support others. They enjoy selling things, promoting ideas and influencing people.";
-var kslk_ozl_entreprise_eng_your_interests_2 = "They also value status and prestige and search out occupations that can meet these desires. Enterprising people are also competitive and willing to take risks. As a result, they have an entrepreneurial nature and like initiating projects and convincing others to jump on board. Enterprising individuals enjoy working with people and data over things and ideas.";
+var kslk_ozl_entreprise_eng_your_profile_ = "You might enjoy starting and leading projects, especially when it comes to business ventures. You may feel comfortable persuading others, taking initiative, and making quick decisions. You could be open to taking risks and prefer turning your ideas into action.";
+var kslk_ozl_entreprise_eng_your_interests_1 = "You may be confident, ambitious, and energetic. You might use your verbal skills to influence others, promote your ideas, and make deals. You could enjoy roles that involve sales, marketing, or leadership.";
+var kslk_ozl_entreprise_eng_your_interests_2 = "Success, innovation, and growth may be important to you. You might have a competitive spirit and be willing to take risks to create big opportunities. You may enjoy developing projects and attracting others to join you. Working with both ideas and people could be your preferred way to reach your goals.";
 var kslk_ozl_entreprise_eng_strengths = "seeking out business opportunities; directing, managing, supervising; selling and persuading";
 var kslk_ozl_entreprise_eng_hobbies = "discussing politics, reading business journals, following the stock market, operating a home business";
-var kslk_ozl_entreprise_eng_your_work_areas = "Business management, sales, politics, small business owner, real estate";
-var kslk_ozl_entreprise_eng_you_may_not_like = "working alone, focusing on intellectual pursuits, doing complex calculations, scientific and mathematical activities";
+var kslk_ozl_entreprise_eng_your_work_areas = "Sales, marketing, management, entrepreneurship, law, politics (fields that require persuasion, strategic thinking, and risk-taking)";
+var kslk_ozl_entreprise_eng_you_may_not_like = "You might not enjoy monotonous, rule-bound jobs, environments with no creative freedom, or working strictly under others’ directions.";
 var kslk_ozl_12_25_entreprise_eng_questions = "• How do I feel when I lead and direct a group project? In which school projects can I use this leadership skill more often?\n\n• What do I achieve when I persuade and motivate others? How can I use this persuasion skill more frequently in school activities?\n\n• When I make a difficult decision, how do its outcomes affect me? How can I manage risk-taking better in school?";
 var kslk_ozl_25_plus_entreprise_eng_questions = "• What outcomes do I achieve when I lead decision-making processes? In which areas at work can I apply this leadership skill more often?\n\n• How does motivating and directing others impact the progress of projects? What strategies can I use to apply this motivational ability more effectively at work?\n\n• In situations that require taking risks, what strategies do I use, and how do I evaluate the results? What can I do to improve my risk management?";
 
 var kslk_ozl_conventional_eng_your_profile = "Conventional";
-var kslk_ozl_conventional_eng_your_profile_ = "Enjoy work activities that follow set procedures and routines. You may prefer working with data and detail more than with ideas. Also you might prefer work in which there are precise standards rather than make judgements. You might like working where the lines of authority are clear.";
-var kslk_ozl_conventional_eng_your_interests_1 = "Conventional people are methodical, conscientious and efficient. They are accurate and like to follow clearly defined procedures. At work they enjoy rules and regulations that keep things running smoothly. They prefer structure and order to ambiguity. As a result they work well within systems or large organizations.";
-var kslk_ozl_conventional_eng_your_interests_2 = "Conventional people have high standards for themselves, are accurate, and pay close attention to details. Conventional individuals are interested in data and things, rather than people. As a result, they prefer to work with the paper and computer based aspects of a business such as accounting, record keeping, and data processing.";
+var kslk_ozl_conventional_eng_your_profile_ = "You might enjoy work that involves following set procedures and routines. You may prefer working with data and details rather than abstract ideas. You could be drawn to roles with clear standards and feel more comfortable in environments where authority and boundaries are well defined.";
+var kslk_ozl_conventional_eng_your_interests_1 = "You may be methodical, conscientious, and efficient. You might like following clearly defined procedures and prefer rules and regulations that keep things running smoothly. You probably don’t leave structure and order to chance, and you could work well within systems and large organizations.";
+var kslk_ozl_conventional_eng_your_interests_2 = "You may hold high standards and pay close attention to detail. You might prefer working with data and objects rather than with people. Tasks like accounting, record keeping, or data processing could feel more comfortable for you, especially if they involve paper- or computer-based work.";
 var kslk_ozl_conventional_eng_strengths = "working with numbers, processing information, accuracy, organizing, business writing";
 var kslk_ozl_conventional_eng_hobbies = "managing personal finances, collecting memorabilia, writing family history, building models, playing computer or card games";
-var kslk_ozl_conventional_eng_your_work_areas = "accounting, banking and finance, clerical/ secretarial, business administration, insurance – adjuster/underwriter";
-var kslk_ozl_conventional_eng_you_may_not_like = "ambiguous, unstructured activities; dealing with interpersonal issues; drawing, painting, creative writing, photography; activities that involve self expression";
+var kslk_ozl_conventional_eng_your_work_areas = "Accounting, finance, administrative services, logistics, data management (fields that require planning, attention to detail, and systematic work)";
+var kslk_ozl_conventional_eng_you_may_not_like = "You might not enjoy tasks that involve uncertainty, lack structure or planning, require complex problem-solving, or involve taking risks.";
 var kslk_ozl_12_25_conventional_eng_questions = "• How organized do I feel when studying or doing homework? How can I use this organized work habit more effectively during exam periods?\n\n• Do I do a better job when I pay attention to details? How can I use this attention to detail more in projects and assignments?\n\n• Can I manage my time better when I plan things out? How can I use this planning skill more in my school life?";
 var kslk_ozl_25_plus_conventional_eng_questions = "• How much more efficiently do I complete tasks when I work in an organized and systematic way? How can I expand this habit of organized work to larger projects?\n\n• What differences does my attention to detail make in the workplace? How can I use this attention more effectively in my projects?\n\n• How do I better manage my time at work when I am planned and organized? How can I apply this planning skill more broadly in my professional life?";
+
+//özet 
+var kslk_ozl_eng_ozet_1_1 = "You Are Realistic and Entrepreneurial";
+var kslk_ozl_eng_ozet_1_2 = "You are a practical and solution-oriented person. To achieve your goals, you prefer to take direct action, take risks, and achieve tangible results.";
+
+var kslk_ozl_eng_ozet_2_1 = "You Are Realistic and Traditional";
+var kslk_ozl_eng_ozet_2_2 = "You adopt an organized, systematic and practical approach. You like work in structured environments that produce tangible results and are based on clear rules.";
+
+var kslk_ozl_eng_ozet_3_1 = "You Are Realistic and Social";
+var kslk_ozl_eng_ozet_3_2 = "You are a person who is both practical and people-oriented. You like to help people directly and come up with solutions for real need.";
+
+var kslk_ozl_eng_ozet_4_1 = "You Are Realistic and Artistic";
+var kslk_ozl_eng_ozet_4_2 = "For you, creativity and functionality are important together. Just as you like to work with tangible materials, you also prefer to reflect aesthetic and design elements to your work.";
+
+var kslk_ozl_eng_ozet_5_1 = "You Are Realistic and Investigative";
+var kslk_ozl_eng_ozet_5_2 = "You have an observant and analytical nature. By generating concrete data and logical solutions, you prefer to solve real-world problems.";
+
+var kslk_ozl_eng_ozet_6_1 = "You Are Entrepreneurial and Traditional";
+var kslk_ozl_eng_ozet_6_2 = "You are both a tidy and leader-spirited person. You effectively manage structured systems and use them to achieve your goals.";
+
+var kslk_ozl_eng_ozet_7_1 = "You Are Entrepreneurial and Social";
+var kslk_ozl_eng_ozet_7_2 = "You like to communicate with people and motivate them. You prefer to lead, persuade, and bring big ideas to life.";
+
+var kslk_ozl_eng_ozet_8_1 = "You Are Entrepreneurial and Artistic";
+var kslk_ozl_eng_ozet_8_2 = "You like to produce new projects by combining your creativity and energy. You enjoy bringing your original ideas to life with bold steps.";
+
+var kslk_ozl_eng_ozet_9_1 = "You Are An Entrepreneur & Researcher";
+var kslk_ozl_eng_ozet_9_2 = "You have the ability to think analytically and act strategically. You like to develop new ideas and apply them in the real world.";
+
+var kslk_ozl_eng_ozet_10_1 = "You Are Traditional & Social";
+var kslk_ozl_eng_ozet_10_2 = "You like to manage order and human relations in a balanced way. When helping people, you prefer to take a methodical and reliable approach.";
+
+var kslk_ozl_eng_ozet_11_1 = "You Are Traditional & Artistic";
+var kslk_ozl_eng_ozet_11_2 = "You are both an organized and creative person. While adhering to the rules, you like to make things more effective with aesthetic and artistic touches.";
+
+var kslk_ozl_eng_ozet_12_1 = "You Are Traditional and Inquisitive";
+var kslk_ozl_eng_ozet_12_2 = "You have a disciplined and analytical nature. By focusing on details, you produce systematic solutions and use information effectively.";
+
+var kslk_ozl_eng_ozet_13_1 = "You Are Social and Artistic";
+var kslk_ozl_eng_ozet_13_2 = "You like to connect deeply with people and get creative. You enjoy expressing yourself by combining art, emotions, and social interaction.";
+
+var kslk_ozl_eng_ozet_14_1 = "You Are Social and Inquisitive";
+var kslk_ozl_eng_ozet_14_2 = "You like to use your knowledge and analytical ability to help people. You can be successful in areas such as training, guidance and counseling.";
+
+var kslk_ozl_eng_ozet_15_1 = "You Are Artistic and Investigative";
+var kslk_ozl_eng_ozet_15_2 = "You have a curious and creative nature. You like to come up with original ideas by combining aesthetic and intellectual exploration.";
 
 // İş Yaşamında Rolün
 var is_y_r_1_s2_0 = "Otorite/Öncü";
@@ -3739,7 +3909,7 @@ var krktr_ozl_character_elements_emotional_stability_s1 = "Duygusal denge, stres
 var krktr_ozl_strenghts_emotional_stability_s2_1 = "Stresli anlarda soğukkanlı kalmanı ve zor durumlarla daha kolay başa çıkmanı sağlayabilir.";
 var krktr_ozl_weaknesses_emotional_stability_s2_1 = "Aşırı duygusal denge, duygusal tepkisizlik gibi algılanabilir ve ilişkilerde mesafe yaratabilir.";
 var krktr_ozl_other_attributes_emotional_stability_s2 = "Sakin,\nsoğuk kanlı,\nuyumlu,\nkendinden emin,\nesnek,\nmemnuniyetli";
-var krktr_ozl_12_25_emotional_stability_questions_1 = "• Zorlandığım anlarda sakin kalmayı başarabildiğimde derslerimde nasıl bir ilerleme kaydediyorum? Bu duygusal dayanıklılığı sınav stresinde nasıl daha fazla kullanabilirim?\n\n• Hatalar yaptığımda, bu hatalardan öğrenmek için nasıl bir yaklaşım izliyorum? Bu öğrenme sürecini okul hayatımda nasıl daha etkili hale getirebilirim?\n\n• Zor bir durumu atlattıktan sonra nasıl daha güçlü hissediyorum? Bu dayanıklılığı günlük okul hayatımda nasıl daha fazla kullanabilirim?";
+var krktr_ozl_12_25_emotional_stability_questions = "• Zorlandığım anlarda sakin kalmayı başarabildiğimde derslerimde nasıl bir ilerleme kaydediyorum? Bu duygusal dayanıklılığı sınav stresinde nasıl daha fazla kullanabilirim?\n\n• Hatalar yaptığımda, bu hatalardan öğrenmek için nasıl bir yaklaşım izliyorum? Bu öğrenme sürecini okul hayatımda nasıl daha etkili hale getirebilirim?\n\n• Zor bir durumu atlattıktan sonra nasıl daha güçlü hissediyorum? Bu dayanıklılığı günlük okul hayatımda nasıl daha fazla kullanabilirim?";
 var krktr_ozl_25_plus_emotional_stability_questions = "• Hata yaptığımda, bu hatalardan nasıl ders çıkarıyorum? Öğrenme sürecimi iş hayatımda daha verimli hale getirmek için neler yapabilirim?\n\n• Zor bir projeyi tamamladıktan sonra kendimi nasıl daha güçlü hissediyorum? Bu dayanıklılığı işimde sürekli başarı sağlamak için nasıl daha fazla kullanabilirim?\n\n• İşte stresli durumlarla karşılaştığımda sakin kalmayı başardığımda nasıl sonuçlar elde ediyorum? Bu duygusal dayanıklılığı yoğun iş dönemlerinde nasıl daha iyi kullanabilirim?";
 
 //özet
@@ -3775,54 +3945,75 @@ var krktr_ozl_ozet_10_2 = "Yeniliklere açık, esnek ve duygusal olarak dengeli 
 
 //Karakter Özellikleri İngilizce
 var krktr_ozl_eng_openness_to_experience = "Openness to Experience";
-var krktr_ozl_eng_openness_to_experience_s1 = "Openness (also referred to as openness to experience) emphasizes imagination and insight the most out of all five personality traits. People who are high in openness tend to have a broad range of interests. They are curious about the world and other people and are eager to learn new things and enjoy new experiences.\n\nPeople who are high in this personality trait also tend to be more adventurous and creative. Conversely, people low in this personality trait are often much more traditional and may struggle with abstract thinking.";
-var krktr_ozl_eng_strenghts_openness_to_experience_s2_1 = "Very creative, open to trying new things, focused on tackling new challenges, happy to think about abstract concepts.";
-var krktr_ozl_eng_weaknesses_openness_to_experience_s2_1 = "Dislikes change, does not enjoy new things, resists new ideas, not very imaginative, dislikes abstract or theoretical concepts.";
+var krktr_ozl_eng_openness_to_experience_s1 = "Openness to experience may reflect your imagination, curiosity, and willingness to explore new ideas. You may enjoy learning new things, thinking creatively, and approaching the world with an open mind. You might be drawn to different topics and express yourself in unique ways. On the other hand, lower levels of openness may lead you to prefer familiar routines, be more cautious about change, and find abstract thinking less comfortable.";
+var krktr_ozl_eng_strenghts_openness_to_experience_s2_1 = "Encourages creative thinking, openness to new ideas, and a love of learning.";
+var krktr_ozl_eng_weaknesses_openness_to_experience_s2_1 = "Too many interests may cause difficulty focusing or setting clear goals.";
 var krktr_ozl_eng_other_attributes_openness_to_experience_s2 = "Ideas (curious)\nFantasy (imaginative)\n Aesthetics (artistic)\nActions (wide interests)\nFeelings (excitable)\nValues (unconventional)";
-var krktr_ozl_eng_12_25_openness_to_experience_questions_1 = "• How do I feel when I learn new things or discover different perspectives? How can I use this curiosity more effectively in my school projects?";
-var krktr_ozl_eng_12_25_openness_to_experience_questions_2 = "• When researching various topics, which areas inspire me the most? How can I bring this inspiration into my schoolwork to make it more creative?";
-var krktr_ozl_eng_12_25_openness_to_experience_questions_3 = "• When I develop an unconventional way of thinking, how does it affect my school performance? In which projects can I show my creative thinking skills more?";
+var krktr_ozl_eng_12_25_openness_to_experience_questions = "• How do I feel when I learn new things or discover different perspectives? How can I use this curiosity more effectively in my school projects?\n\n• When researching various topics, which areas inspire me the most? How can I bring this inspiration into my schoolwork to make it more creative?\n\n• When I develop an unconventional way of thinking, how does it affect my school performance? In which projects can I show my creative thinking skills more?";
 var krktr_ozl_eng_25_plus_openness_to_experience_questions = "• How do I feel when I explore new ideas and different perspectives in my work? How can I use this curiosity and creativity more effectively in my projects?\n\n• What results do I get when I try unconventional methods to solve different problems? How can I apply these innovative approaches more in my work?\n\n• How does my motivation change when I’m open to new experiences in my tasks? How can I expand my creative thinking style to broader areas of my work?";
 
 var krktr_ozl_eng_self_discipline = "Self Discipline";
-var krktr_ozl_eng_self_discipline_s1 = "Among each of the personality traits, conscientiousness is one defined by high levels of thoughtfulness, good impulse control, and goal-directed behaviors. Highly conscientious people tend to be organized and mindful of details. They plan ahead, think about how their behavior affects others, and are mindful of deadlines. Someone scoring lower in this primary personality trait is less structured and less organized. They may procrastinate to get things done, sometimes missing deadlines completely.";
-var krktr_ozl_eng_strenghts_self_discipline_s2_1 = "Spends time preparing Finishes important tasks right away Pays attention to detail Enjoys having a set schedule";
-var krktr_ozl_eng_weaknesses_self_discipline_s2_1 = "Dislikes structure and schedules Makes messes and doesn't take care of things Fails to return things or put them back where they belong Procrastinates important tasks Fails to complete necessary or assigned tasks";
+var krktr_ozl_eng_self_discipline_s1 = "Conscientiousness may reflect your sense of responsibility, ability to stay organized, and how well you manage tasks. If this trait is strong for you, you may enjoy making plans, meeting deadlines, and staying focused on your goals. You might pay attention to details, think about how your actions affect others, and follow through on your commitments. Lower levels of conscientiousness may lead to disorganization, procrastination, or difficulty sticking to structure.";
+var krktr_ozl_eng_strenghts_self_discipline_s2_1 = "Helps you stay organized, manage time well, and be seen as reliable";
+var krktr_ozl_eng_weaknesses_self_discipline_s2_1 = "Excessive discipline may lead to perfectionism and reduced flexibility.";
 var krktr_ozl_eng_other_attributes_self_discipline_s2 = "Competence (efficient)\nOrder (organized)\nDutifulness (not careless)\nAchievement striving (thorough)\nSelf-discipline (not lazy)\nDeliberation (not impulsive)";
-var krktr_ozl_eng_12_25_self_discipline_questions_1 = "• When I complete my assignments in a planned and organized way, how are my results? How can I make this planning skill more effective during exam periods?";
-var krktr_ozl_eng_12_25_self_discipline_questions_2 = "• When I reach my goals, what are the most important habits that help me succeed? How can I further develop these habits in my studying and other responsibilities?";
-var krktr_ozl_eng_12_25_self_discipline_questions_3 = "• How do I motivate myself when fulfilling my responsibilities? How can I make this motivation more sustainable in my long-term projects?";
+var krktr_ozl_eng_12_25_self_discipline_questions = "• When I complete my assignments in a planned and organized way, how are my results? How can I make this planning skill more effective during exam periods?\n\n• When I reach my goals, what are the most important habits that help me succeed? How can I further develop these habits in my studying and other responsibilities?\n\n• How do I motivate myself when fulfilling my responsibilities? How can I make this motivation more sustainable in my long-term projects?";
 var krktr_ozl_eng_25_plus_self_discipline_questions = "• What results do I achieve when I complete my tasks in a planned and organized manner? How can I apply this planning skill to larger projects?\n\n• What habits do I rely on most often to reach the goals I set? How can I strengthen these success habits further in my work life?\n\n• When I fulfill my responsibilities, what internal motivation sources do I tap into? How can I make this motivation more sustainable for long-term projects?";
 
 var krktr_ozl_eng_extraversion = "Extraversion";
-var krktr_ozl_eng_extraversion_s1 = "Extraversion (or extroversion) is a personality trait characterized by excitability, sociability, talkativeness, assertiveness, and high amounts of emotional expressiveness. People high in extraversion are outgoing and tend to gain energy in social situations. Being around others helps them feel energized and excited. People who are low in this personality trait or introverted tend to be more reserved. They have less energy to expend in social settings and social events can feel draining. Introverts often require a period of solitude and quiet in order to \"recharge.\"";
-var krktr_ozl_eng_strenghts_extraversion_s2_1 = "Enjoys being the center of attention likes to start conversations enjoys meeting new people has a wide social circle of friends and acquaintances finds it easy to make new friends feels energized when around other people.";
-var krktr_ozl_eng_weaknesses_extraversion_s2_1 = "Prefers solitude feels exhausted when socializing a lot finds it difficult to start conversations dislikes making small talk carefully thinks things through before speaking dislikes being the center of attention.";
+var krktr_ozl_eng_extraversion_s1 = "Extraversion may reflect how energized you feel by being around others. If this trait is high, you may enjoy social settings, feel confident expressing yourself, and gain energy from group interaction. You might be enthusiastic, outgoing, and talkative. Lower extraversion often means you may prefer calm settings, need time alone to recharge, and feel drained by too much social interaction.";
+var krktr_ozl_eng_strenghts_extraversion_s2_1 = "Boosts communication skills, teamwork, and social confidence.";
+var krktr_ozl_eng_weaknesses_extraversion_s2_1 = "Too much extraversion may cause distraction and difficulty focusing on individual tasks.";
 var krktr_ozl_eng_other_attributes_extraversion_s2 = "Gregariousness (sociable)\nassertiveness (forceful)\nactivity (energetic)\nexcitement-seeking (adventurous)\npositive emotions (enthusiastic)\nwarmth (outgoing).";
-var krktr_ozl_eng_12_25_extraversion_questions_1 = "• How do I feel when I take an active role in group work or class activities? In which other school activities can I use this energy more?";
-var krktr_ozl_eng_12_25_extraversion_questions_2 = "• How does learning through interacting with my friends impact me? How can I take on more leadership roles in group work? ";
-var krktr_ozl_eng_12_25_extraversion_questions_3 = "• How does being in social settings and speaking up affect my school success? How can I show these skills more often in classes or projects?";
+var krktr_ozl_eng_12_25_extraversion_questions = "• How do I feel when I take an active role in group work or class activities? In which other school activities can I use this energy more?\n\n• How does learning through interacting with my friends impact me? How can I take on more leadership roles in group work?\n\n• How does being in social settings and speaking up affect my school success? How can I show these skills more often in classes or projects?";
 var krktr_ozl_eng_25_plus_extraversion_questions = "• How do I feel when I participate in group work or take on leadership roles at work? How can I use this energy more effectively in team projects?\n\n• How does working by interacting with my colleagues affect my performance? How can I showcase these social skills in more work opportunities?\n\n• How does being active in meetings or social settings contribute to my success at work? How can I utilize this skill more in the workplace?";
 
 var krktr_ozl_eng_agreeableness = "Agreeableness";
-var krktr_ozl_eng_agreeableness_s1 = "This personality trait includes attributes such as trust, altruism, kindness, affection, and other prosocial behaviors. People who are high in agreeableness tend to be more cooperative while those low in this personality trait tend to be more competitive and sometimes even manipulative.";
-var krktr_ozl_eng_strenghts_agreeableness_s2_1 = "Has a great deal of interest in other people cares about others feels empathy and concern for other people enjoys helping and contributing to the happiness of other people assists others who are in need of help";
-var krktr_ozl_eng_weaknesses_agreeableness_s2_1 = "Takes little interest in others doesn't care about how other people feel has little interest in other people's problems insults and belittles others manipulates others to get what they want";
+var krktr_ozl_eng_agreeableness_s1 = "Agreeableness is about being kind, supportive, and open to cooperation. If you score high in this trait, you may enjoy helping others, building strong relationships, and keeping peace in group settings. You might be empathetic, understanding, and easy to work with. Lower agreeableness may bring a more competitive or self-focused approach, which can make teamwork or conflict resolution more challenging at times.";
+var krktr_ozl_eng_strenghts_agreeableness_s2_1 = "Supports empathy, collaboration, and building positive relationships.";
+var krktr_ozl_eng_weaknesses_agreeableness_s2_1 = "Being too agreeable can make it hard to set boundaries or make tough decisions.";
 var krktr_ozl_eng_other_attributes_agreeableness_s2 = "Trust (forgiving)\nStraightforwardness (not demanding)\nAltruism (warm)\nCompliance (not stubborn)\nModesty (not show-off)\nTender-mindedness (sympathetic)";
-var krktr_ozl_eng_12_25_agreeableness_questions_1 = "• When I help or collaborate with my classmates, which of my skills stand out? How can I use this collaboration more effectively in group projects?";
-var krktr_ozl_eng_12_25_agreeableness_questions_2 = "• How does understanding others’ needs and supporting them strengthen my relationships in class? How can I develop this empathy more at school?";
-var krktr_ozl_eng_12_25_agreeableness_questions_3 = "• When I’m understanding and patient, what kind of impact do I create? How can I better use these traits in group work or class discussions?";
+var krktr_ozl_eng_12_25_agreeableness_questions = "• When I help or collaborate with my classmates, which of my skills stand out? How can I use this collaboration more effectively in group projects?\n\n• How does understanding others’ needs and supporting them strengthen my relationships in class? How can I develop this empathy more at school?\n\n• When I’m understanding and patient, what kind of impact do I create? How can I better use these traits in group work or class discussions?";
 var krktr_ozl_eng_25_plus_agreeableness_questions = "• What skills stand out when I help or collaborate with my colleagues? How can I use this collaboration more effectively in my projects?\n\n• How does understanding my coworkers’ needs and supporting them strengthen my workplace relationships? How can I further develop this empathy in my work life?\n\n• When I am understanding and patient, what impact do I create at work? How can I better use these traits in challenging projects and team collaborations?";
 
 var krktr_ozl_eng_emotional_stability = "Emotional Stability";
-var krktr_ozl_eng_emotional_stability_s1 = "Emotional stability can reflect how a person copes with stress, their ability to maintain emotional balance, and their self-esteem.";
-var krktr_ozl_eng_strenghts_emotional_stability_s2_1 = "Emotionally stable deals well with stress rarely feels sad or depressed doesn't worry much is very relaxed";
-var krktr_ozl_eng_weaknesses_emotional_stability_s2_1 = "Experiences a lot of stress worries about many different things gets upset easily experiences dramatic shifts in mood feels anxious struggles to bounce back after stressful events";
+var krktr_ozl_eng_emotional_stability_s1 = "Emotional stability shows how well you handle stress, regulate emotions, and maintain self-confidence. If this trait is strong for you, you may stay calm under pressure, recover quickly from setbacks, and maintain a positive view of yourself. You likely respond to challenges with resilience and steady emotions. Lower emotional stability may lead to mood swings, anxiety, or feeling overwhelmed during stressful situations.";
+var krktr_ozl_eng_strenghts_emotional_stability_s2_1 = "Helps you stay calm in crises and handle emotional ups and downs effectively.";
+var krktr_ozl_eng_weaknesses_emotional_stability_s2_1 = "Too much calmness may be seen as emotional distance or low sensitivity in relationships.";
 var krktr_ozl_eng_other_attributes_emotional_stability_s2 = "Composure (calm)\nAgreeableness (pleasant)\nContentment (satisfied)\nConfidence (self-assured)\nDeliberation (steady)\nResilience (self-confident)";
-var krktr_ozl_eng_12_25_emotional_stability_questions_1 = "• When I manage to stay calm during challenging moments, how do I progress in my classes? How can I use this emotional resilience more during exam stress?";
-var krktr_ozl_eng_12_25_emotional_stability_questions_2 = "• When I make mistakes, what approach do I take to learn from them? How can I make this learning process more effective in my school life?";
-var krktr_ozl_eng_12_25_emotional_stability_questions_3 = "• After overcoming a difficult situation, how do I feel stronger? How can I use this resilience more in my everyday school life?";
+var krktr_ozl_eng_12_25_emotional_stability_questions = "• When I manage to stay calm during challenging moments, how do I progress in my classes? How can I use this emotional resilience more during exam stress?\n\n• When I make mistakes, what approach do I take to learn from them? How can I make this learning process more effective in my school life?\n\n• After overcoming a difficult situation, how do I feel stronger? How can I use this resilience more in my everyday school life?";
 var krktr_ozl_eng_25_plus_emotional_stability_questions = "• What results do I achieve when I manage to stay calm in stressful situations at work? How can I use this emotional resilience more effectively during busy work periods?\n\n• When I make mistakes, how do I learn from them? What can I do to make my learning process more efficient in my professional life?\n\n• After completing a challenging project, how do I feel stronger? How can I use this resilience more to ensure continuous success in my work?";
+
+//özet
+var krktr_ozl_eng_ozet_1_1 = "You Are Extroverted and Adaptable";
+var krktr_ozl_eng_ozet_1_2 = "You have a social, friendly nature that attaches importance to human relations. Just as you love to communicate with people, you also care about being adaptable and supportive.";
+
+var krktr_ozl_eng_ozet_2_1 = "You Are Extroverted and Responsible";
+var krktr_ozl_eng_ozet_2_2 = "You have a personality that is both energetic and disciplined. While you work diligently to achieve your goals, you also find social situations motivating.";
+
+var krktr_ozl_eng_ozet_3_1 = "You Are Open to Extraversion and Experience";
+var krktr_ozl_eng_ozet_3_2 = "You like to explore, have new experiences, and interact with people. Your curiosity and energy encourage you to constantly improve.";
+
+var krktr_ozl_eng_ozet_4_1 = "You Are Extroverted and Emotionally Balanced";
+var krktr_ozl_eng_ozet_4_2 = "You are positive, energetic and emotionally balanced. When faced with challenges, you stay optimistic and use social support effectively.";
+
+var krktr_ozl_eng_ozet_5_1 = "You Are Compliant and Responsible";
+var krktr_ozl_eng_ozet_5_2 = "You have a personality that is both reliable and cooperative. Just as you like to help people, you act in an orderly and responsible manner.";
+
+var krktr_ozl_eng_ozet_6_1 = "You Are Adaptable and Open to Experience";
+var krktr_ozl_eng_ozet_6_2 = "While you have good relationships with people, you are open to new ideas and different perspectives. You have a perspective that is both harmonious and innovative.";
+
+var krktr_ozl_eng_ozet_7_1 = "You Are Harmonious and Emotionally Balanced";
+var krktr_ozl_eng_ozet_7_2 = "You have a structure that cares about being calm, peaceful and in harmony with people. Not only are you emotionally balanced, but you are also someone who reassures others.";
+
+var krktr_ozl_eng_ozet_8_1 = "You Are Responsible and Open to Experience";
+var krktr_ozl_eng_ozet_8_2 = "You are a person who is both planned and willing to learn. As you like to work in a disciplined manner, you constantly improve yourself thanks to your openness to new ideas.";
+
+var krktr_ozl_eng_ozet_9_1 = "You Are Responsible and Emotionally Balanced";
+var krktr_ozl_eng_ozet_9_2 = "You are disciplined, determined, and emotionally stable. You meticulously fulfill your responsibilities while remaining calm in the face of difficulties.";
+
+var krktr_ozl_eng_ozet_10_1 = "You Are Open to Experience and Emotionally Balanced";
+var krktr_ozl_eng_ozet_10_2 = "You have a flexible and emotionally balanced personality that is open to innovations. As you adapt to change, you act while maintaining your peace of mind.";
 
 
 //Yapay Zeka Çağı Yetkinliklerin
@@ -4179,6 +4370,65 @@ var lifestyle_25_plus_reflektor_question_name = "Yansıtıcı";
 var lifestyle_25_plus_reflektor_evaluation = "• Şu anki ortamımda nasıl hissediyorum ve etrafımdaki insanlar ve alanlar hakkında ne yansıtıyor?\n\n• Ay döngüsünün doğal ritmine güvenerek önemli kararlar almak için kendime nasıl daha fazla zaman verebilirim?\n\n• Hangi durumlarda gerçek benliğimle en uyumlu hissediyorum ve hayatımda bu deneyimlerden daha fazlasını nasıl yaratabilirim?\n\n• Başkalarının duygularını ve enerjilerini nasıl idare ederim ve kendi iyiliğimi korumak için hangi sınırları belirlemem gerekir?\n\n• Eşsiz duyarlılığımı ve çevremin gerçeğini bunalmış hissetmeden yansıtma yeteneğimi onurlandırmak için ne yapabilirim? ";
 
 //Yaşamda İlerleme Tarzın İngilizce
+//12 -25
+var lifestyle_12_25_eng_manifesting_generator_name = "Energetic";
+var lifestyle_12_25_eng_manifesting_generator_1 = "In everything you do, both at school and in your activities, you have a unique special energy. You’re great at getting things done quickly, building, and improving things. When you channel your energy into what you love, you can enjoy a great night's sleep and wake up full of energy to start again the next day.\n\nThe key to feeling good in life isn’t just about working hard or putting in effort—it's about using your energy smartly and effectively. What you do is crucial to your happiness and well-being. Inside you, there’s a strong source of energy that helps you take action and create. The more you do what you love, the more your energy multiplies.";
+var lifestyle_12_25_eng_manifesting_generator_2 = "The more you trust your instincts and wait for the right moment, the more satisfying and enjoyable life becomes. You can think of yourself like a magnet, noticing how your energy naturally attracts opportunities to you.";
+var lifestyle_12_25_eng_manifesting_generator_3 = "When you respond to what life offers you, you’ll see that everything flows naturally and easily. The energy within you is a force that guides you in the right direction and helps you get better at what you want to do. You can tell you're on the right path when things are going smoothly and you feel satisfied inside.\n\nBecause you’re such an energetic person, you should avoid saying ‘yes’ to things that don’t really interest or make you happy. Your gut feeling will guide you in the right direction. The secret to success in life is to wait for the right moment without rushing and respond to the opportunities that come your way. Before letting others tell you what to do, listen to your own inner gut feeling first.\n\nYou weren’t born to be boring or just do the same old things. Keep creating, keep doing, and always trust the strong energy inside you.";
+var lifestyle_12_25_eng_manifesting_generator_motto = "Your motto for life satisfaction: Love what you do and do what you love!";
+var lifestyle_manifesting_generator_eng_ozet_1 = "Your Lifestyle: Energetic";
+var lifestyle_manifesting_generator_eng_ozet_2 = "Your energy is strong, versatile, and productive. You have an innate ability to act quickly when life offers you something, and to turn to the right job at the right time. When you listen to your instincts and focus on work that truly satisfies you, both productivity and inner fulfillment become possible for you.";
+
+var lifestyle_12_25_eng_generator_name = "Energetic";
+var lifestyle_12_25_eng_generator_1 = "You have a unique, special energy in everything you do, whether at school or in your activities. You’re great at getting things done, building things, and making improvements. When you focus your energy on the things you love, you can enjoy a great night’s sleep and wake up ready to start the next day with awesome energy.\n\nThe key to feeling good in life isn’t just working hard or putting in lots of effort; it’s about using your energy smartly and effectively. What you do is important for your happiness and well-being. Inside you is a powerful source of energy that helps you take action and create things. The more you do what you love, the more your energy will grow.";
+var lifestyle_12_25_eng_generator_2 = "The more you trust your instincts and wait for the right moment, the more satisfying and enjoyable life becomes. You can think of yourself like a magnet, noticing how your energy naturally attracts opportunities to you.";
+var lifestyle_12_25_eng_generator_3 = "When you respond to what life offers you, you’ll see that everything flows naturally and easily. The energy inside you is a force that guides you in the right direction and helps you get better at what you want to do. You can tell you're on the right path when things are going smoothly and you feel satisfied inside.\n\nBecause you’re so energetic, you should avoid saying ‘yes’ to things that don’t really interest or make you happy. Your gut feeling will guide you in the right direction. The secret to success in life is to wait for the right moment without rushing and respond to the opportunities that come your way. Before letting others tell you what to do, listen to your own inner gut feeling first.\n\nYou weren’t born to be boring or just do the same old things. Keep creating, keep doing, and always trust the strong energy inside you.";
+var lifestyle_12_25_eng_generator_motto = "Your motto for life satisfaction: Love what you do and do what you love!";
+var lifestyle_generator_eng_ozet_1 = "Your Lifestyle: Energetic";
+var lifestyle_generator_eng_ozet_2 = "Your inner energy is based on continuous production and contribution. When you focus on the work that really satisfies you, you can move forward with sustainable power in long-term projects. Moving forward by responding to what life throws at you promotes inner peace and a sense of accomplishment.";
+
+var lifestyle_12_25_eng_projektor_name = "Guide";
+var lifestyle_12_25_eng_projektor_1 = "When people around you notice your talents, you shine at bringing others together, organizing, and leading them. Just like a conductor of an orchestra, you can make sure everyone moves in harmony.\n\nYou have the potential to be an excellent organizer, manager, connector, or problem solver. Using your energy efficiently and guiding others is something you’re capable of.\n\nYou can get inspired by the energy of those around you and make it even stronger. But if you don’t manage your energy well, you might feel really tired and worn out later on. So remember to take breaks and rest because your health is more important than anything else.";
+var lifestyle_12_25_eng_projektor_2 = "Waiting for the right time and for invitations that match your talents is the key to success. This helps you use your energy and abilities in the best way possible. You should be careful when accepting opportunities that come your way. During this process, trust your inner voice and instincts.";
+var lifestyle_12_25_eng_projektor_3 = "You have a special energy that attracts people and opportunities to you. Being able to focus on one person at a time allows you to build very personal and meaningful relationships. You might be more mature and wise compared to your peers, seeing the bigger picture. When you share your thoughts without being asked, others might see it as being a know-it-all or misunderstand you. It’s important to share your wisdom when you’re invited to do so, as this helps with clear communication.\n\nWhen your talents, skills, and unique way of seeing the world are recognized, and you receive invitations for the right opportunities, it means you’re on the path to reaching your true potential. For you, success is about choosing people and opportunities that truly understand and value your knowledge and intelligence.";
+var lifestyle_12_25_eng_projektor_motto = "You can be a wise and intelligent guide for those around you. Share your wisdom only with those who invite you to do so.";
+var lifestyle_projektor_eng_ozet_1 = "Your Lifestyle: Initiator";
+var lifestyle_projektor_eng_ozet_1 = "It's in your nature to take action and not be afraid to take the first step. By having the courage and independence to bring your own vision to life, you inspire those around you. You can build strong and healthy relationships with the practice of informing before taking action.";
+
+var lifestyle_12_25_eng_manifestor_name = "Initator";
+var lifestyle_12_25_eng_manifestor_1 = "When people around you notice your talents, you shine at bringing others together, organizing, and leading them. Just like a conductor of an orchestra, you can make sure everyone moves in harmony.\n\nYou have the potential to be an excellent organizer, manager, connector, or problem solver. Using your energy efficiently and guiding others is something you’re capable of.\n\nYou can get inspired by the energy of those around you and make it even stronger. But if you don’t manage your energy well, you might feel really tired and worn out later on. So remember to take breaks and rest because your health is more important than anything else.";
+var lifestyle_12_25_eng_manifestor_2 = "Waiting for the right time and for invitations that match your talents is the key to success. This helps you use your energy and abilities in the best way possible. You should be careful when accepting opportunities that come your way. During this process, trust your inner voice and instincts.";
+var lifestyle_12_25_eng_manifestor_3 = "You have a special energy that attracts people and opportunities to you. Being able to focus on one person at a time allows you to build very personal and meaningful relationships. You might be more mature and wise compared to your peers, seeing the bigger picture. When you share your thoughts without being asked, others might see it as being a know-it-all or misunderstand you. It’s important to share your wisdom when you’re invited to do so, as this helps with clear communication.\n\nWhen your talents, skills, and unique way of seeing the world are recognized, and you receive invitations for the right opportunities, it means you’re on the path to reaching your true potential. For you, success is about choosing people and opportunities that truly understand and value your knowledge and intelligence.";
+var lifestyle_12_25_eng_manifestor_motto = "You can be a wise and intelligent guide for those around you. Share your wisdom only with those who invite you to do so.";
+var lifestyle_manifestor_eng_ozet_1 = "Your Lifestyle: Guide";
+var lifestyle_manifestor_eng_ozet_2 = "Your natural ability is to see the potential of others and guide them in the right way. When you are recognized by the right people in the right environment, you demonstrate impressive leadership. The key to success is to wait for invitations and use your energy wisely.";
+
+var lifestyle_12_25_eng_reflektor_name = "Evaluator";
+var lifestyle_12_25_eng_reflektor_1 = "In the right environment, your ability to evaluate people, groups, and events in an impartial way can make you stand out. Your perspective is very special, giving you the chance to analyze things correctly and gain a broad perspective.\n\nYou have a great talent for accepting others and noticing what’s not going well, guiding them towards cooperation, peace and fairness. When you are at the center of a group or community, it’s the perfect time to move freely and show how everything works.\n\nYou can be very effective in teaching those around you the value of differences and showing the importance of embracing diversity.";
+var lifestyle_12_25_eng_reflektor_2 = "You have the ability to reflect everything and everyone around you by offering an objective perspective. Your presence can be described by silence, kindness, and not being intrusive. You reflect the environment as a whole, and others might find it hard to fully understand who you are.";
+var lifestyle_12_25_eng_reflektor_3 = "You shouldn't rush when making decisions. Focus on important matters and talk to people you trust. When spending time with friends, avoid being in the wrong environments or trying to fit in with everyone. Be careful not to become too dependent on others or ignore your own feelings.\n\nYou might want to start things or push through, but sometimes this can lead to resistance or disappointment from others. Try not to get caught up in other people’s fears, worries, or stress. Maintain a healthy distance with your friends, and stay away from making hasty decisions or feeling pressured.\n\nIt’s very important for you to be in environments that are right for you in order to make the right choices and be happy. This is because you are someone who can sense and reflect the energy of your surroundings. The environment, both in your social circle and personal space, always matters to you.";
+var lifestyle_12_25_eng_reflektor_motto = "You’re here to bring a unique perspective to the world. Make sure that the environment you’re in is right for you!";
+var lifestyle_reflektor_eng_ozet_1 = "Your Lifestyle: Reflective";
+var lifestyle_reflektor_eng_ozet_2 = "You have a rare perspective that deeply feels and reflects the energy of the environment. When you're in the right environment, you can provide unbiased and wise insights to communities. Making decisions in accordance with your own rhythm without rushing is the healthiest way for you to progress.";
+
+//gücünü kullan 12-25
+var lifestyle_12_25_eng_manifesting_generator_question_name = "Energetic";
+var lifestyle_12_25_eng_manifesting_generator_evaluation = "• How can I balance my urge to start things with making sure it’s the right time to act?\n\n• What tasks or activities at school or home allow me to do multiple things at once, and how can I stay focused?\n\n• What do I do when I feel frustrated or impatient, and what can that feeling teach me about how I’m approaching things?\n\n• When I want to start something new, how can I check in with myself to make sure it’s a good choice?\n\n• How can I feel okay with changing my mind or switching directions without feeling bad about it?";
+
+var lifestyle_12_25_eng_generator_question_name = "Energetic";
+var lifestyle_12_25_eng_generator_evaluation = "• What activities at school or home make me feel happiest, and how can I spend more time doing those things?\n\n• How do I feel when I wait for something to come to me instead of trying to make it happen right away?\n\n• Are there any things I’m trying too hard to make work? How can I focus on what feels right instead?\n\n• How do I know when my gut is telling me something is a good idea, and how can I follow that feeling more often?\n\n• When I feel stuck or frustrated, what helps me feel better, and how can I practice being more patient?";
+
+var lifestyle_12_25_eng_projektor_question_name = "Guide";
+var lifestyle_12_25_eng_projektor_evaluation = "• How do I know when I should wait for someone to ask me to help instead of offering it right away?\n\n• When have I been recognized or asked for my advice, and how did that feel for me?\n\n• In school or with friends, where do I feel most appreciated for what I can do, and how can I focus more on that?\n\n• How do I keep my energy up and avoid feeling tired, especially when I don’t feel noticed or valued?\n\n• How can I be more patient and trust that the right opportunities will come to me when it’s the right time?";
+
+var lifestyle_12_25_eng_manifestor_question_name = "Initiator";
+var lifestyle_12_25_eng_manifestor_evaluation = "• What types of ideas or projects make me excited to take the lead, and how can I let others know before I start?\n\n• How do I feel when I start something without asking for approval and does it make me feel more confident?\n\n• In school or at home, where do I feel like I can take charge and create something new?\n\n• How do I deal with people’s reactions when I start a project or take the lead, and how can I avoid arguments?\n\n• How do I make sure I don’t run out of energy after starting something big? Do I give myself time to rest?";
+
+var lifestyle_12_25_eng_reflektor_question_name = "Evaluator";
+var lifestyle_12_25_eng_reflektor_evaluation = "• How do I feel about my environment and the people around me? Do they help me feel good?\n\n• How can I give myself more time before making big decisions so I feel more certain about what’s right for me?\n\n• Where and when do I feel most like myself, and how can I create more of those situations?\n\n• How do I handle the feelings and energy of others, and what can I do to protect my own emotions?\n\n• How can I take care of my sensitivity to the people and places around me without feeling overwhelmed?";
+
+
+//25 plus
 var lifestyle_25_plus_eng_manifesting_generator_name = "Energetic";
 var lifestyle_25_plus_eng_manifesting_generator_1 = "In the professional world and your career, you possess a unique and distinctive energy. You're excellent at managing tasks, building things, and growing them. When you use your energy for the work you love, you can rest your head on the pillow with a sense of satisfaction.\n\nThe key to finding satisfaction in life and work isn't just about working hard; it’s about how effectively and efficiently you use your energy. The work you do is crucial for your well-being and prosperity. You have a powerful source of energy that helps you take action and create.\n\nBe mindful that you don’t always have to start or initiate things. Your strength lies in responding to life based on your instincts and waiting for the right cues.";
 var lifestyle_25_plus_eng_manifesting_generator_2 = "Trusting your instincts and waiting for the right moment will make your life more fulfilling and enjoyable. Think of yourself as a magnet; you may notice that your energy naturally attracts opportunities to you.";
@@ -4209,7 +4459,7 @@ var lifestyle_25_plus_eng_reflektor_2 = "Offering an objective perspective and r
 var lifestyle_25_plus_eng_reflektor_3 = "When making decisions, it's important not to rush. Evaluate significant issues and discuss them with trusted individuals. Be aware of potential traps in interactions, such as being in the wrong environment or trying to fit in with everyone. Avoid excessive dependence on others or feeling invisible; do not compromise your true self. Resist the urge to initiate, push, or force things into being, as this may lead to resistance and frustration in others. Avoid being influenced by others' fears, emotions, stress, and anxieties. Always maintain a healthy distance from those around you and avoid rushing or feeling pressured when making decisions. It's crucial for you to be in the right environment to make the best choices and feel good. You have the ability to reflect the energy of your surroundings, so always prioritize your environment in both your personal and professional life.";
 var lifestyle_25_plus_eng_reflektor_motto = "YOU ARE HERE TO BRING A UNIQUE PERSPECTIVE TO THE WORLD. MAKE SURE THE ENVIRONMENT YOU ARE IN IS RIGHT FOR YOU!";
 
-//gücünü kullan ingilizce
+//gücünü kullan 25 plus ingilizce
 var lifestyle_25_plus_eng_manifesting_generator_question_name = "Energetic";
 var lifestyle_25_plus_eng_manifesting_generator_evaluation = "• How can I honor both my desire to initiate and my need to respond to the world around me before taking action?\n\n• What areas of my life benefit from my ability to multi-task, and how can I refine my focus to avoid unnecessary distractions?\n\n• How do I handle moments of frustration or impatience, and what can I learn from these feelings about my current approach?\n\n• When I feel the urge to start something new, how can I check in with my gut (Sacral response) to ensure it’s the right next step?\n\n• In what ways can I embrace flexibility and experimentation in my life without feeling guilty about changing direction?";
 
@@ -4473,8 +4723,8 @@ var decision_strategy_eng_s3_1_4 = "Wait for Clarity: Rather than rushing into a
 var decision_strategy_eng_s4_1_text = "Acting from the mind can lead to second-guessing your gut responses, feeling anxious, and missing out on opportunities. In contrast, acting from response and clarity involves actively waiting for life to come towards you and trusting your gut's guidance while also seeking emotional clarity before making decisions.";
 var decision_strategy_eng_s4_1_1 = "1.Actively Wait: Be receptive to life's cues and signals, allowing yourself to observe without immediate action.\nRespond: Listen for your gut's response – an \"ah-huh\" for yes, a \"uhn-un\" for no, or a \"hmmmmm\" for not now.\n2.Wait for Clarity: Sleep on it and allow yourself to feel out your emotional wave. Avoid making decisions during heightened emotional states.\n3.Decide: Based on your gut response and emotional clarity, make a decision – yes, no, or not now.\n4.Act or Not: Finally, take action or refrain from action based on your decision, trusting in the wisdom of your gut instincts and emotional clarity.";
 var decision_strategy_eng_s4_1_txt = "By adhering to this decision-making strategy, you can navigate through choices with patience, discernment, and confidence, leading to greater success and fulfillment in your career and business endeavors.";
-var decision_strategy_eng_ozet_1_1 = "";
-var decision_strategy_eng_ozet_1_2 = "";
+var decision_strategy_eng_ozet_1_1 = "Your Decision-Making Strategy: Respond and Make Decisions with Clarity";
+var decision_strategy_eng_ozet_1_2 = "The right decision for you comes when you listen to your instinctive response to life's opportunities and then wait patiently for it to become clear. Waiting for the emotional fluctuations to subside before taking action will allow your choices to bring you peace and confidence.";
 
 var decision_strategy_eng_s3_2_0 = "Karşılık Vermek için Bekle ve İçgüdülerini Takip Et";
 var decision_strategy_eng_s3_2_1 = "Wait to Respond then Follow Your Gut";
@@ -4484,8 +4734,8 @@ var decision_strategy_eng_s3_2_4 = "Follow Your Gut: Your gut response will mani
 var decision_strategy_eng_s4_2_text = "Acting from the mind can lead to second-guessing your gut instincts, feeling anxious, and missing out on opportunities. In contrast, acting from response involves actively waiting for life to come towards you and trusting your gut's guidance. Surrender to the unfolding magic of life and allow yourself to be pulled towards what resonates with you and away from what doesn't.";
 var decision_strategy_eng_s4_2_1 = "1.Actively Wait: Be receptive to life's cues and signals, whether they come in the form of questions, interactions, or experiences.\n2.Respond: Listen for your gut's response – an \"ah-huh\" for yes, a \"uhn-un\" for no, or a \"hmmmmm\" for not now.\n3.Decide: Based on your gut's response, make a decision – yes, no, or not now. Be wary of the mind's interference at this stage.\n4.Act or Not: Finally, take action or refrain from action based on your decision, trusting in the wisdom of your gut instincts.";
 var decision_strategy_eng_s4_2_txt = "By adhering to this decision-making strategy, you can navigate through choices with clarity, confidence, and authenticity, leading to greater success and fulfillment in your career and business endeavors";
-var decision_strategy_eng_ozet_2_1 = "";
-var decision_strategy_eng_ozet_2_2 = "";
+var decision_strategy_eng_ozet_2_1 = "Your Decision-Making Strategy: Inform Before You Take Action";
+var decision_strategy_eng_ozet_2_2 = "The decisions that are right for you occur by informing those around you and following your inner impulse before taking action. Sharing your decisions reduces the resistance you may encounter and allows you to be supported as you act independently.";
 
 var decision_strategy_eng_s3_3_0 = "Tanınma ve Davet Al, Netlik ile Karar Al";
 var decision_strategy_eng_s3_3_1 = "Wait for Recognition, Invitation, and Clarity";
@@ -4495,8 +4745,8 @@ var decision_strategy_eng_s3_3_4 = "Wait for Emotional Clarity: Once recognized 
 var decision_strategy_eng_s4_3_text = "Acting from the mind can lead to impulsivity, doubt, and missed opportunities, while waiting for recognition, invitation, and clarity allows you to trust in the silent magic of your chemistry and opportunities.";
 var decision_strategy_eng_s4_3_1 = "1.Actively Wait for Recognition & an Invitation: Exercise patience and keen observation as you wait for recognition and an invitation to present themselves. Trust in the process and be selective in your choices.\n2.Wait for Clarity: Once recognized and invited, take the time to sleep on it and feel out your emotional wave. Avoid making decisions based on emotional impulses and wait for the calm confidence that signals clarity.\n3.Decide: Based on your emotional clarity, make a decision – yes, no, or not now – that aligns with your truth and intuition.\n4.Act or Not: Proceed with confidence if the decision feels right, or refrain from action if further contemplation is needed.";
 var decision_strategy_eng_s4_3_txt = "By adhering to this decision-making strategy, you can navigate through choices with patience, trust, and emotional clarity, ensuring that your actions are aligned with your true intentions and leading to greater fulfillment and success.";
-var decision_strategy_eng_ozet_3_1 = "";
-var decision_strategy_eng_ozet_3_2 = "";
+var decision_strategy_eng_ozet_3_1 = "Your Decision-Making Strategy: Get Recognition and Invitation, Make Decisions with Clarity";
+var decision_strategy_eng_ozet_3_2 = "The right decisions come for you when they come with an invitation and become emotionally clear. Letting your emotions fluctuate and waiting for clarity allows you to make choices that satisfy you in the long run.";
 
 var decision_strategy_eng_s3_4_0 = "Tanınma ve Davet Al, İçgüdülerini Takip Et";
 var decision_strategy_eng_s3_4_1 = "Wait for Recognition, Invitation, and Follow Your Instincts";
@@ -4506,8 +4756,8 @@ var decision_strategy_eng_s3_4_4 = "Follow Your Instincts: Once recognized and i
 var decision_strategy_eng_s4_4_text = "Acting from the mind can lead to doubt, anxiety, and missed opportunities, while following recognition, invitation, and instincts allows you to trust in the silent magic of your chemistry and opportunities.";
 var decision_strategy_eng_s4_4_1 = "1.Actively Wait for Recognition & an Invitation: Exercise patience and keen observation as you await recognition and invitation. Trust in the process and remain selective in your choices.\n2.Follow Your Instincts: Once recognized and invited, trust your instincts in the moment. Stay present and attuned to your body's sensations, allowing your spontaneous knowing to guide your decisions. Remember, instinctive knowing speaks softly and subtly, often during noise and activity. Stay present and receptive to its guidance, even in the busiest of moments. Trust that your body is attuned to what is right for you and allow its wisdom to inform your decisions as you navigate through life's twists and turns. With practice, you'll learn to harness the power of instinctive knowing wherever you are, leading to greater clarity and confidence in your choices.\n3.Decide: Based on your instincts and intuitive knowing, make a decision – yes, no, or not now – that resonates with your truth.\n4.Act or Not: Proceed with confidence if the decision feels right, or refrain from action if further contemplation is needed.";
 var decision_strategy_eng_s4_4_txt = "By adhering to this decision-making strategy, you can navigate through choices with patience, trust, and authenticity, ensuring that your actions are aligned with your true instincts and leading to greater fulfillment and success.";
-var decision_strategy_eng_ozet_4_1 = "";
-var decision_strategy_eng_ozet_4_2 = "";
+var decision_strategy_eng_ozet_4_1 = "Your Decision-Making Strategy: Get Recognition and Invitation, Follow Your Instincts";
+var decision_strategy_eng_ozet_4_2 = "The right decision is made when he is recognized by an invitation and receives an instinctive feeling of yes. Your body's instantaneous reactions can be a solid guide for you; So be careful to hear your intuition.";
 
 var decision_strategy_eng_s3_5_0 = "Tanınma ve Davet Al, İradeli Kararlılığını Takip Et";
 var decision_strategy_eng_s3_5_1 = "Wait for Recognition, Invitation, and Follow Your Willful Determination";
@@ -4517,8 +4767,8 @@ var decision_strategy_eng_s3_5_4 = "Follow Your Willful Determination: Once reco
 var decision_strategy_eng_s4_5_text = "Acting from the mind may lead to doubt, anxiety, and missed opportunities, while following recognition, invitation, and willfulness empowers you to trust in the silent magic of your chemistry and opportunities.";
 var decision_strategy_eng_s4_5_1 = "1.Actively Wait for Recognition & an Invitation: Exercise patience, observation, and trust as you await recognition and invitation. Remain selective and attentive, ensuring that opportunities align with your desires.\n2.Listen to Your Willful Determination: Once recognized and invited, tune into your willful determination to assess your commitment and desire. Selfishly prioritize your own needs and desires to ensure alignment with your true intentions.\n3.Decide: Based on your assessment of your willful determination, make a decision – yes, no, or not now – that reflects your true desires and intentions.\n4.Act or Not: Proceed with confidence if your heart is fully invested and the decision aligns with your true intentions. Refrain from action if further contemplation is needed to ensure alignment.";
 var decision_strategy_eng_s4_5_txt = "By adhering to this decision-making strategy, you can navigate choices with patience, trust, and self-awareness, ensuring that your actions are aligned with your true desires and leading to greater fulfillment and success.";
-var decision_strategy_eng_ozet_5_1 = "";
-var decision_strategy_eng_ozet_5_2 = "";
+var decision_strategy_eng_ozet_5_1 = "Your Decision-Making Strategy: Get Recognition and Invitation, Follow Your Willful Determination";
+var decision_strategy_eng_ozet_5_2 = "Your decision journey has a structure that begins with recognition and is shaped by the strong determination within you. When you commit to your goals and focus on what really motivates you, you can see the right decisions more clearly.";
 
 var decision_strategy_eng_s3_6_0 = "Tanınma ve Davet Al, Söylediklerini Dinle";
 var decision_strategy_eng_s3_6_1 = "Wait for Recognition, Invitation, and Listen to What You Say";
@@ -4528,8 +4778,8 @@ var decision_strategy_eng_s3_6_4 = "Listen to What You Say: Once recognized and 
 var decision_strategy_eng_s4_6_text = "Your decision-making strategy revolves around patiently waiting for recognition and invitation, then attentively listening to your own voice as you speak to a few people you trust to hear what you are saying. By engaging in self-reflection and trusting your inner wisdom, you can ensure that your decisions are authentic and aligned with your true desires.";
 var decision_strategy_eng_s4_6_1 = "Dökümanda bulunmuyor.";
 var decision_strategy_eng_s4_6_txt = "Dökümanda bulunmuyor.";
-var decision_strategy_eng_ozet_6_1 = "";
-var decision_strategy_eng_ozet_6_2 = "";
+var decision_strategy_eng_ozet_6_1 = "Your Decision-Making Strategy: Get Recognition and Invitations, Listen to What They Have to Say";
+var decision_strategy_eng_ozet_6_2 = "Being recognized, and then listening to what you have to say, is central to your decision-making process. When you speak, you can gain clarity through what you say and realize the right direction in this way.";
 
 var decision_strategy_eng_s3_7_0 = "Tanınma ve Davet Al, Kendi Söylediklerini Dinle";
 var decision_strategy_eng_s3_7_1 = "Wait for Recognition, Invitation, and Listen to What You Say";
@@ -4539,8 +4789,8 @@ var decision_strategy_eng_s3_7_4 = "Listen to What You Say: Engage in conversati
 var decision_strategy_eng_s4_7_text = "Acting from the mind may lead to doubt, anxiety, and missed opportunities, while following recognition, invitation, and listening empowers you to trust in the silent wisdom of your inner voice and environmental cues.";
 var decision_strategy_eng_s4_7_1 = "1.Actively Wait for Recognition & an Invitation: Exercise patience, observation, and trust as you await recognition and invitation. Pay attention to the environment and ensure it feels correct, as you are sensitive to atmospheric cues.\n2.Listen to What YOU Say: Engage in conversations with trusted individuals as sounding boards, focusing on listening to your own voice. Reflect on whether decisions align with your happiness, self-expression, and personal direction, while seeking different perspectives to gain clarity.\n3.Decide: Based on your reflections and inner wisdom, make a decision – yes, no, or not now – that reflects your authentic desires and intentions, considering both your emotional responses and environmental cues.\n4.Act or Not: Proceed with confidence if decisions align with your true desires and resonate with your inner voice and environmental cues. Refrain from action if further contemplation or environmental adjustments are needed to ensure alignment.";
 var decision_strategy_eng_s4_7_txt = "By adhering to this decision-making strategy, you can navigate choices with self-awareness, authenticity, and trust in your inner wisdom and environmental sensitivity, ensuring that your actions are aligned with your true desires and lead to greater fulfillment and success.";
-var decision_strategy_eng_ozet_7_1 = "";
-var decision_strategy_eng_ozet_7_2 = "";
+var decision_strategy_eng_ozet_7_1 = "Your Decision-Making Strategy: Get Recognition and Invitation, Listen to What You Have to Say";
+var decision_strategy_eng_ozet_7_2 = "Along with the invitation from those who know you, it can be very decisive for you to notice what you say when you think out loud. Expressing yourself when making decisions allows you to understand more clearly what you want.";
 
 var decision_strategy_eng_s3_8_0 = "Gör, Netlik Bekle ve Bilgi Ver";
 var decision_strategy_eng_s3_8_1 = "Wait to be Moved by Emotional Clarity then Inform Before Acting";
@@ -4550,8 +4800,8 @@ var decision_strategy_eng_s3_8_4 = "Inform Before Taking Action: Recognize that 
 var decision_strategy_eng_s4_8_text = "Acting from the mind can lead to impulsive actions, anxiety, and negative impacts on others. In contrast, informing before acting involves waiting for emotional clarity and considering the potential impact on others before proceeding, fostering effective communication and collaboration.";
 var decision_strategy_eng_s4_8_1 = "1.See: Recognize what needs to happen or be initiated.\n2.Wait to be Moved by Emotional Clarity: Sleep on it and allow nervousness to subside. Feel out your emotional wave to gain clarity on your course of action.\n3.Decide: Based on your emotional clarity, make a decision – yes, no, or not now.\n4.Inform: Before taking action, consider who will be impacted by your decision and inform them accordingly. This proactive communication removes resistance and fosters understanding.\n5.Take Action: Proceed with your chosen course of action, mindful of the impact on others and the power of informed communication.";
 var decision_strategy_eng_s4_8_txt = "By adhering to this decision-making strategy, you can navigate through choices with mindfulness, consideration, and effective communication, leading to greater success and collaboration in your endeavors.";
-var decision_strategy_eng_ozet_8_1 = "";
-var decision_strategy_eng_ozet_8_2 = "";
+var decision_strategy_eng_ozet_8_1 = "Your Decision-Making Strategy: See, Expect Clarity, and Inform";
+var decision_strategy_eng_ozet_8_2 = "Once you've carefully observed life and recognized opportunities, it's important for you to clarify your decisions and share information before taking action. Expecting emotional clarity allows you to move forward with confidence.";
 
 var decision_strategy_eng_s3_9_0 = "Gör, İç güdülerine Kulak ver ve Bilgi Ver";
 var decision_strategy_eng_s3_9_1 = "Trust Your Instinctive Knowing Then Inform Before Acting";
@@ -4561,8 +4811,8 @@ var decision_strategy_eng_s3_9_4 = "Inform Before Taking Action: Recognize that 
 var decision_strategy_eng_s4_9_text = "Acting from the mind can lead to second-guessing your instinctive knowing, impulsivity, and negative impacts on others. In contrast, informing before acting involves trusting your instinctive knowing and considering the potential impact on others before proceeding, fostering effective communication and collaboration.";
 var decision_strategy_eng_s4_9_1 = "1.See: Recognize what needs to happen or be initiated.\n2.Wait to be Moved By Your Instinctive Knowing: Sense it in the moment and trust your gut feelings.\n3.Decide: Based on your instinctive knowing, make a decision – yes, no, or not now.\n4.Inform: Consider who will be impacted by your decision and inform them before taking action, removing resistance and fostering understanding.\n5.Take Action: Proceed with your chosen course of action, mindful of the impact on others and the power of informed communication.";
 var decision_strategy_eng_s4_9_txt = "By adhering to this decision-making strategy, you can navigate through choices with spontaneity, mindfulness, and effective communication, leading to greater success and collaboration in your endeavors.";
-var decision_strategy_eng_ozet_9_1 = "";
-var decision_strategy_eng_ozet_9_2 = "";
+var decision_strategy_eng_ozet_9_1 = "Your Decision-Making Strategy: See, Listen to Your Instincts, and Inform";
+var decision_strategy_eng_ozet_9_2 = "When you are guided by observation and in tune with your instincts, your decisions are more grounded. Once you feel intuitive clarity, it gives you a safe space to move forward by informing your surroundings.";
 
 var decision_strategy_eng_s3_10_0 = "Gör, İradeni Dinle ve Bilgi Ver";
 var decision_strategy_eng_s3_10_1 = "Being Moved by Your Willful Determination & Informing Before Acting";
@@ -4572,8 +4822,8 @@ var decision_strategy_eng_s3_10_4 = "Informing Before Taking Action: Acknowledge
 var decision_strategy_eng_s4_10_text = "Acting from the mind can lead to doubts, impulsivity, and negative impacts on others. In contrast, informing before acting involves recognizing your willful determination and considering the potential impact on others before proceeding, fostering effective communication and collaboration.";
 var decision_strategy_eng_s4_10_1 = "1.See: Recognize what needs to happen or be initiated.\n2.Wait to be Moved By Your Willful Determination: Assess whether you have the will and desire to take action. Consider what is in it for you and whether your heart is truly in it.\n3.Decide: Based on your willful determination, make a decision – yes, no, or not now.\n4.Inform: Consider who will be impacted by your decision and inform them before taking action, removing resistance and fostering understanding.\n5.Take Action: Proceed with your chosen course of action, mindful of the impact on others and the power of informed communication";
 var decision_strategy_eng_s4_10_txt = "By adhering to this decision-making strategy, you can navigate through choices with determination, clarity, and effective communication, leading to greater success and collaboration in your endeavors.";
-var decision_strategy_eng_ozet_10_1 = "";
-var decision_strategy_eng_ozet_10_2 = "";
+var decision_strategy_eng_ozet_10_1 = "Your Decision-Making Strategy: See, Listen to Your Will, and Inform";
+var decision_strategy_eng_ozet_10_2 = "After observing the opportunities that life offers you, it is the ideal way for you to follow your strong determination and move forward by informing your environment. Sticking to the goals you focus on brings you stability.";
 
 var decision_strategy_eng_s3_11_0 = "Senin için önemli konularda en doğru kararları almak, yansıtmak, değerlendirmek ve tartışmak için yaklaşık bir ay beklemelisin.";
 var decision_strategy_eng_s3_11_1 = "Wait a 28-Day Cycle to Reflect, Assess & Discuss";
@@ -4583,8 +4833,8 @@ var decision_strategy_eng_s3_11_4 = "Deep Sudden Inner Knowing: Through the proc
 var decision_strategy_eng_s4_11_text = "Acting from the mind can lead to doubt, impulsivity, and missed opportunities, while waiting, reflecting, and discussing allows you to refine your perceptions and arrive at clarity over time, leading to a more informed decision-making process.";
 var decision_strategy_eng_s4_11_1 = "1.Wait for an Offer or Invitation: Resist the urge to initiate yourself. Wait for others to extend an offer or invitation, aligning with your natural inclination.\n2.Wait, Reflect, Discuss: Take your time, allowing approximately a month for waiting, reflecting on the decision, and engaging in discussions with others. Use these conversations not for advice, but to articulate your thoughts and hear your potential truth.\n3.Feel a Deep Sudden Inner Knowing: Trust in your inner guidance, recognizing when a decision resonates deeply within you, signaling its alignment with your truth.\n4.Decide: Based on your reflections and discussions, make a decision – yes, no, or not now – informed by your newfound clarity.\n5.Take Action: Proceed with confidence, knowing that your decision is rooted in your personal truth and supported by thoughtful consideration and dialogue.";
 var decision_strategy_eng_s4_11_txt = "By adhering to this decision-making strategy, you can navigate through choices with patience, clarity, and a deep understanding of your own truth, leading to greater fulfillment and alignment in your endeavors.";
-var decision_strategy_eng_ozet_11_1 = "";
-var decision_strategy_eng_ozet_11_2 = "";
+var decision_strategy_eng_ozet_11_1 = "Your Decision-Making Strategy: Reflect, Evaluate, and Give Time";
+var decision_strategy_eng_ozet_11_2 = "Your decision-making process requires a deepening evaluation over time. Giving yourself space to think for about a month, observing the reflections of your surroundings and exchanging ideas with others is the healthiest way to make the right decisions.";
 
 //----
 
@@ -4811,76 +5061,148 @@ var decision_strategy_eng_ozet_11_2 = "";
   };
 
   let kslk_ozl_ozet = (hollandName_1, hollandName_2, age, type) => {
-    if (type == "ozet_1") {
-      let pair = [hollandName_1, hollandName_2].sort().join("-");
-  
-      if (pair == ["Gerçekçi", "Girişimci"].sort().join("-")) {
-        return kslk_ozl_ozet_1_1;
-      } else if (pair == ["Gerçekçi", "Geleneksel"].sort().join("-")) {
-        return kslk_ozl_ozet_2_1;
-      } else if (pair == ["Gerçekçi", "Sosyal"].sort().join("-")) {
-        return kslk_ozl_ozet_3_1;
-      } else if (pair == ["Gerçekçi", "Artistik Sanatsal"].sort().join("-")) {
-        return kslk_ozl_ozet_4_1;
-      } else if (pair == ["Gerçekçi", "Araştırıcı"].sort().join("-")) {
-        return kslk_ozl_ozet_5_1;
-      } else if (pair == ["Girişimci", "Geleneksel"].sort().join("-")) {
-        return kslk_ozl_ozet_6_1;
-      } else if (pair == ["Girişimci", "Sosyal"].sort().join("-")) {
-        return kslk_ozl_ozet_7_1;
-      } else if (pair == ["Girişimci", "Artistik Sanatsal"].sort().join("-")) {
-        return kslk_ozl_ozet_8_1;
-      } else if (pair == ["Girişimci", "Araştırıcı"].sort().join("-")) {
-        return kslk_ozl_ozet_9_1;
-      } else if (pair == ["Geleneksel", "Sosyal"].sort().join("-")) {
-        return kslk_ozl_ozet_10_1;
-      } else if (pair == ["Geleneksel", "Artistik Sanatsal"].sort().join("-")) {
-        return kslk_ozl_ozet_11_1;
-      } else if (pair == ["Geleneksel", "Araştırıcı"].sort().join("-")) {
-        return kslk_ozl_ozet_12_1;
-      } else if (pair == ["Sosyal", "Artistik Sanatsal"].sort().join("-")) {
-        return kslk_ozl_ozet_13_1;
-      } else if (pair == ["Sosyal", "Araştırıcı"].sort().join("-")) {
-        return kslk_ozl_ozet_14_1;
-      } else if (pair == ["Artistik Sanatsal", "Araştırıcı"].sort().join("-")) {
-        return kslk_ozl_ozet_15_1;
+    if (lang == "Tr") {
+      if (type == "ozet_1") {
+        let pair = [hollandName_1, hollandName_2].sort().join("-");
+
+        if (pair == ["Gerçekçi", "Girişimci"].sort().join("-")) {
+          return kslk_ozl_ozet_1_1;
+        } else if (pair == ["Gerçekçi", "Geleneksel"].sort().join("-")) {
+          return kslk_ozl_ozet_2_1;
+        } else if (pair == ["Gerçekçi", "Sosyal"].sort().join("-")) {
+          return kslk_ozl_ozet_3_1;
+        } else if (pair == ["Gerçekçi", "Artistik Sanatsal"].sort().join("-")) {
+          return kslk_ozl_ozet_4_1;
+        } else if (pair == ["Gerçekçi", "Araştırıcı"].sort().join("-")) {
+          return kslk_ozl_ozet_5_1;
+        } else if (pair == ["Girişimci", "Geleneksel"].sort().join("-")) {
+          return kslk_ozl_ozet_6_1;
+        } else if (pair == ["Girişimci", "Sosyal"].sort().join("-")) {
+          return kslk_ozl_ozet_7_1;
+        } else if (pair == ["Girişimci", "Artistik Sanatsal"].sort().join("-")) {
+          return kslk_ozl_ozet_8_1;
+        } else if (pair == ["Girişimci", "Araştırıcı"].sort().join("-")) {
+          return kslk_ozl_ozet_9_1;
+        } else if (pair == ["Geleneksel", "Sosyal"].sort().join("-")) {
+          return kslk_ozl_ozet_10_1;
+        } else if (pair == ["Geleneksel", "Artistik Sanatsal"].sort().join("-")) {
+          return kslk_ozl_ozet_11_1;
+        } else if (pair == ["Geleneksel", "Araştırıcı"].sort().join("-")) {
+          return kslk_ozl_ozet_12_1;
+        } else if (pair == ["Sosyal", "Artistik Sanatsal"].sort().join("-")) {
+          return kslk_ozl_ozet_13_1;
+        } else if (pair == ["Sosyal", "Araştırıcı"].sort().join("-")) {
+          return kslk_ozl_ozet_14_1;
+        } else if (pair == ["Artistik Sanatsal", "Araştırıcı"].sort().join("-")) {
+          return kslk_ozl_ozet_15_1;
+        }
+      } else if (type == "ozet_2") {
+        let pair = [hollandName_1, hollandName_2].sort().join("-");
+
+        if (pair == ["Gerçekçi", "Girişimci"].sort().join("-")) {
+          return kslk_ozl_ozet_1_2;
+        } else if (pair == ["Gerçekçi", "Geleneksel"].sort().join("-")) {
+          return kslk_ozl_ozet_2_2;
+        } else if (pair == ["Gerçekçi", "Sosyal"].sort().join("-")) {
+          return kslk_ozl_ozet_3_2;
+        } else if (pair == ["Gerçekçi", "Artistik Sanatsal"].sort().join("-")) {
+          return kslk_ozl_ozet_4_2;
+        } else if (pair == ["Gerçekçi", "Araştırıcı"].sort().join("-")) {
+          return kslk_ozl_ozet_5_2;
+        } else if (pair == ["Girişimci", "Geleneksel"].sort().join("-")) {
+          return kslk_ozl_ozet_6_2;
+        } else if (pair == ["Girişimci", "Sosyal"].sort().join("-")) {
+          return kslk_ozl_ozet_7_2;
+        } else if (pair == ["Girişimci", "Artistik Sanatsal"].sort().join("-")) {
+          return kslk_ozl_ozet_8_2;
+        } else if (pair == ["Girişimci", "Araştırıcı"].sort().join("-")) {
+          return kslk_ozl_ozet_9_2;
+        } else if (pair == ["Geleneksel", "Sosyal"].sort().join("-")) {
+          return kslk_ozl_ozet_10_2;
+        } else if (pair == ["Geleneksel", "Artistik Sanatsal"].sort().join("-")) {
+          return kslk_ozl_ozet_11_2;
+        } else if (pair == ["Geleneksel", "Araştırıcı"].sort().join("-")) {
+          return kslk_ozl_ozet_12_2;
+        } else if (pair == ["Sosyal", "Artistik Sanatsal"].sort().join("-")) {
+          return kslk_ozl_ozet_13_2;
+        } else if (pair == ["Sosyal", "Araştırıcı"].sort().join("-")) {
+          return kslk_ozl_ozet_14_2;
+        } else if (pair == ["Artistik Sanatsal", "Araştırıcı"].sort().join("-")) {
+          return kslk_ozl_ozet_15_2;
+        }
       }
-    } else if (type == "ozet_2") {
-      let pair = [hollandName_1, hollandName_2].sort().join("-");
-  
-      if (pair == ["Gerçekçi", "Girişimci"].sort().join("-")) {
-        return kslk_ozl_ozet_1_2;
-      } else if (pair == ["Gerçekçi", "Geleneksel"].sort().join("-")) {
-        return kslk_ozl_ozet_2_2;
-      } else if (pair == ["Gerçekçi", "Sosyal"].sort().join("-")) {
-        return kslk_ozl_ozet_3_2;
-      } else if (pair == ["Gerçekçi", "Artistik Sanatsal"].sort().join("-")) {
-        return kslk_ozl_ozet_4_2;
-      } else if (pair == ["Gerçekçi", "Araştırıcı"].sort().join("-")) {
-        return kslk_ozl_ozet_5_2;
-      } else if (pair == ["Girişimci", "Geleneksel"].sort().join("-")) {
-        return kslk_ozl_ozet_6_2;
-      } else if (pair == ["Girişimci", "Sosyal"].sort().join("-")) {
-        return kslk_ozl_ozet_7_2;
-      } else if (pair == ["Girişimci", "Artistik Sanatsal"].sort().join("-")) {
-        return kslk_ozl_ozet_8_2;
-      } else if (pair == ["Girişimci", "Araştırıcı"].sort().join("-")) {
-        return kslk_ozl_ozet_9_2;
-      } else if (pair == ["Geleneksel", "Sosyal"].sort().join("-")) {
-        return kslk_ozl_ozet_10_2;
-      } else if (pair == ["Geleneksel", "Artistik Sanatsal"].sort().join("-")) {
-        return kslk_ozl_ozet_11_2;
-      } else if (pair == ["Geleneksel", "Araştırıcı"].sort().join("-")) {
-        return kslk_ozl_ozet_12_2;
-      } else if (pair == ["Sosyal", "Artistik Sanatsal"].sort().join("-")) {
-        return kslk_ozl_ozet_13_2;
-      } else if (pair == ["Sosyal", "Araştırıcı"].sort().join("-")) {
-        return kslk_ozl_ozet_14_2;
-      } else if (pair == ["Artistik Sanatsal", "Araştırıcı"].sort().join("-")) {
-        return kslk_ozl_ozet_15_2;
+}   else if (lang == "En") {
+      if (type == "ozet_1") {
+        let pair = [hollandName_1, hollandName_2].sort().join("-");
+
+        if (pair == ["Gerçekçi", "Girişimci"].sort().join("-")) {
+          return kslk_ozl_eng_ozet_1_1;
+        } else if (pair == ["Gerçekçi", "Geleneksel"].sort().join("-")) {
+          return kslk_ozl_eng_ozet_2_1;
+        } else if (pair == ["Gerçekçi", "Sosyal"].sort().join("-")) {
+          return kslk_ozl_eng_ozet_3_1;
+        } else if (pair == ["Gerçekçi", "Artistik Sanatsal"].sort().join("-")) {
+          return kslk_ozl_eng_ozet_4_1;
+        } else if (pair == ["Gerçekçi", "Araştırıcı"].sort().join("-")) {
+          return kslk_ozl_eng_ozet_5_1;
+        } else if (pair == ["Girişimci", "Geleneksel"].sort().join("-")) {
+          return kslk_ozl_eng_ozet_6_1;
+        } else if (pair == ["Girişimci", "Sosyal"].sort().join("-")) {
+          return kslk_ozl_eng_ozet_7_1;
+        } else if (pair == ["Girişimci", "Artistik Sanatsal"].sort().join("-")) {
+          return kslk_ozl_eng_ozet_8_1;
+        } else if (pair == ["Girişimci", "Araştırıcı"].sort().join("-")) {
+          return kslk_ozl_eng_ozet_9_1;
+        } else if (pair == ["Geleneksel", "Sosyal"].sort().join("-")) {
+          return kslk_ozl_eng_ozet_10_1;
+        } else if (pair == ["Geleneksel", "Artistik Sanatsal"].sort().join("-")) {
+          return kslk_ozl_eng_ozet_11_1;
+        } else if (pair == ["Geleneksel", "Araştırıcı"].sort().join("-")) {
+          return kslk_ozl_eng_ozet_12_1;
+        } else if (pair == ["Sosyal", "Artistik Sanatsal"].sort().join("-")) {
+          return kslk_ozl_eng_ozet_13_1;
+        } else if (pair == ["Sosyal", "Araştırıcı"].sort().join("-")) {
+          return kslk_ozl_eng_ozet_14_1;
+        } else if (pair == ["Artistik Sanatsal", "Araştırıcı"].sort().join("-")) {
+          return kslk_ozl_eng_ozet_15_1;
+        }
+      } else if (type == "ozet_2") {
+        let pair = [hollandName_1, hollandName_2].sort().join("-");
+
+        if (pair == ["Gerçekçi", "Girişimci"].sort().join("-")) {
+          return kslk_ozl_eng_ozet_1_2;
+        } else if (pair == ["Gerçekçi", "Geleneksel"].sort().join("-")) {
+          return kslk_ozl_eng_ozet_2_2;
+        } else if (pair == ["Gerçekçi", "Sosyal"].sort().join("-")) {
+          return kslk_ozl_eng_ozet_3_2;
+        } else if (pair == ["Gerçekçi", "Artistik Sanatsal"].sort().join("-")) {
+          return kslk_ozl_eng_ozet_4_2;
+        } else if (pair == ["Gerçekçi", "Araştırıcı"].sort().join("-")) {
+          return kslk_ozl_eng_ozet_5_2;
+        } else if (pair == ["Girişimci", "Geleneksel"].sort().join("-")) {
+          return kslk_ozl_eng_ozet_6_2;
+        } else if (pair == ["Girişimci", "Sosyal"].sort().join("-")) {
+          return kslk_ozl_eng_ozet_7_2;
+        } else if (pair == ["Girişimci", "Artistik Sanatsal"].sort().join("-")) {
+          return kslk_ozl_eng_ozet_8_2;
+        } else if (pair == ["Girişimci", "Araştırıcı"].sort().join("-")) {
+          return kslk_ozl_eng_ozet_9_2;
+        } else if (pair == ["Geleneksel", "Sosyal"].sort().join("-")) {
+          return kslk_ozl_eng_ozet_10_2;
+        } else if (pair == ["Geleneksel", "Artistik Sanatsal"].sort().join("-")) {
+          return kslk_ozl_eng_ozet_11_2;
+        } else if (pair == ["Geleneksel", "Araştırıcı"].sort().join("-")) {
+          return kslk_ozl_eng_ozet_12_2;
+        } else if (pair == ["Sosyal", "Artistik Sanatsal"].sort().join("-")) {
+          return kslk_ozl_eng_ozet_13_2;
+        } else if (pair == ["Sosyal", "Araştırıcı"].sort().join("-")) {
+          return kslk_ozl_eng_ozet_14_2;
+        } else if (pair == ["Artistik Sanatsal", "Araştırıcı"].sort().join("-")) {
+          return kslk_ozl_eng_ozet_15_2;
+        }
       }
     }
-  }
+} 
 
   let krktr_ozl = (big5Name, age, type, lang) => {
     if(lang == "Tr") {
@@ -4945,21 +5267,7 @@ var decision_strategy_eng_ozet_11_2 = "";
           return krktr_ozl_other_attributes_openness_to_experience_s2;
         }
       } else if (type == "questions") {
-        if (big5Name == "Öz Disiplin") {
-          return krktr_ozl_25_plus_self_discipline_questions;
-        } else if (big5Name == "Dışa Dönüklük") {
-          return krktr_ozl_25_plus_extraversion_questions;
-        } else if (big5Name == "Uyumluluk") {
-          return krktr_ozl_25_plus_agreeableness_questions;
-        } else if (big5Name == "Duygusal Dayanıklılık") {
-          return krktr_ozl_25_plus_emotional_stability_questions;
-        } else if (big5Name == "Deneyime Açıklık") {
-          return krktr_ozl_25_plus_openness_to_experience_questions;
-        }
-      }
-
-      if (age <= 25) {
-        if (type == "questions") {
+        if (age <= 25) {
           if (big5Name == "Öz Disiplin") {
             return krktr_ozl_12_25_self_discipline_questions;
           } else if (big5Name == "Dışa Dönüklük") {
@@ -4970,6 +5278,18 @@ var decision_strategy_eng_ozet_11_2 = "";
             return krktr_ozl_12_25_emotional_stability_questions;
           } else if (big5Name == "Deneyime Açıklık") {
             return krktr_ozl_12_25_openness_to_experience_questions;
+          }
+        } else {
+          if (big5Name == "Öz Disiplin") {
+            return krktr_ozl_25_plus_self_discipline_questions;
+          } else if (big5Name == "Dışa Dönüklük") {
+            return krktr_ozl_25_plus_extraversion_questions;
+          } else if (big5Name == "Uyumluluk") {
+            return krktr_ozl_25_plus_agreeableness_questions;
+          } else if (big5Name == "Duygusal Dayanıklılık") {
+            return krktr_ozl_25_plus_emotional_stability_questions;
+          } else if (big5Name == "Deneyime Açıklık") {
+            return krktr_ozl_25_plus_openness_to_experience_questions;
           }
         }
       }
@@ -5035,22 +5355,37 @@ var decision_strategy_eng_ozet_11_2 = "";
           return krktr_ozl_eng_other_attributes_openness_to_experience_s2;
         }
       } else if (type == "questions") {
-        if (big5Name == "Öz Disiplin") {
-          return krktr_ozl_eng_25_plus_self_discipline_questions;
-        } else if (big5Name == "Dışa Dönüklük") {
-          return krktr_ozl_eng_25_plus_extraversion_questions;
-        } else if (big5Name == "Uyumluluk") {
-          return krktr_ozl_eng_25_plus_agreeableness_questions;
-        } else if (big5Name == "Duygusal Dayanıklılık") {
-          return krktr_ozl_eng_25_plus_emotional_stability_questions;
-        } else if (big5Name == "Deneyime Açıklık") {
-          return krktr_ozl_eng_25_plus_openness_to_experience_questions;
+        if (age <= 25) {
+          if (big5Name == "Öz Disiplin") {
+            return krktr_ozl_eng_12_25_self_discipline_questions;
+          } else if (big5Name == "Dışa Dönüklük") {
+            return krktr_ozl_eng_12_25_extraversion_questions;
+          } else if (big5Name == "Uyumluluk") {
+            return krktr_ozl_eng_12_25_agreeableness_questions;
+          } else if (big5Name == "Duygusal Dayanıklılık") {
+            return krktr_ozl_eng_12_25_emotional_stability_questions;
+          } else if (big5Name == "Deneyime Açıklık") {
+            return krktr_ozl_eng_12_25_openness_to_experience_questions;
+          }
+        } else {
+          if (big5Name == "Öz Disiplin") {
+            return krktr_ozl_eng_25_plus_self_discipline_questions;
+          } else if (big5Name == "Dışa Dönüklük") {
+            return krktr_ozl_eng_25_plus_extraversion_questions;
+          } else if (big5Name == "Uyumluluk") {
+            return krktr_ozl_eng_25_plus_agreeableness_questions;
+          } else if (big5Name == "Duygusal Dayanıklılık") {
+            return krktr_ozl_eng_25_plus_emotional_stability_questions;
+          } else if (big5Name == "Deneyime Açıklık") {
+            return krktr_ozl_eng_25_plus_openness_to_experience_questions;
+          }
         }
       }
     }
   };
 
   let krktr_ozl_ozet = (big5Name_1, big5Name_2, age, type) => {
+    if (lang == "Tr") {
     if (type == "ozet_1") {
       let pair = [big5Name_1, big5Name_2].sort().join("-");
   
@@ -5100,7 +5435,58 @@ var decision_strategy_eng_ozet_11_2 = "";
         return krktr_ozl_ozet_10_2;
       }
     }
+  } else if (lang == "En") {
+    if (type == "ozet_1") {
+      let pair = [big5Name_1, big5Name_2].sort().join("-");
+  
+      if (pair == ["Dışa Dönüklük", "Uyumluluk"].sort().join("-")) {
+        return krktr_ozl_eng_ozet_1_1;
+      } else if (pair == ["Dışa Dönüklük", "Öz Disiplin"].sort().join("-")) {
+        return krktr_ozl_eng_ozet_2_1;
+      } else if (pair == ["Dışa Dönüklük", "Deneyime Açıklık"].sort().join("-")) {
+        return krktr_ozl_eng_ozet_3_1;
+      } else if (pair == ["Dışa Dönüklük", "Duygusal Dayanıklılık"].sort().join("-")) {
+        return krktr_ozl_eng_ozet_4_1;
+      } else if (pair == ["Uyumluluk", "Öz Disiplin"].sort().join("-")) {
+        return krktr_ozl_eng_ozet_5_1;
+      } else if (pair == ["Uyumluluk", "Deneyime Açıklık"].sort().join("-")) {
+        return krktr_ozl_eng_ozet_6_1;
+      } else if (pair == ["Uyumluluk", "Duygusal Dayanıklılık"].sort().join("-")) {
+        return krktr_ozl_eng_ozet_7_1;
+      } else if (pair == ["Öz Disiplin", "Deneyime Açıklık"].sort().join("-")) {
+        return krktr_ozl_eng_ozet_8_1;
+      } else if (pair == ["Öz Disiplin", "Duygusal Dayanıklılık"].sort().join("-")) {
+        return krktr_ozl_eng_ozet_9_1;
+      } else if (pair == ["Deneyime Açıklık", "Duygusal Dayanıklılık"].sort().join("-")) {
+        return krktr_ozl_eng_ozet_10_1;
+      }
+    } else if (type == "ozet_2") {
+      let pair = [big5Name_1, big5Name_2].sort().join("-");
+  
+      if (pair == ["Dışa Dönüklük", "Uyumluluk"].sort().join("-")) {
+        return krktr_ozl_eng_ozet_1_2;
+      } else if (pair == ["Dışa Dönüklük", "Öz Disiplin"].sort().join("-")) {
+        return krktr_ozl_eng_ozet_2_2;
+      } else if (pair == ["Dışa Dönüklük", "Deneyime Açıklık"].sort().join("-")) {
+        return krktr_ozl_eng_ozet_3_2;
+      } else if (pair == ["Dışa Dönüklük", "Duygusal Dayanıklılık"].sort().join("-")) {
+        return krktr_ozl_eng_ozet_4_2;
+      } else if (pair == ["Uyumluluk", "Öz Disiplin"].sort().join("-")) {
+        return krktr_ozl_eng_ozet_5_2;
+      } else if (pair == ["Uyumluluk", "Deneyime Açıklık"].sort().join("-")) {
+        return krktr_ozl_eng_ozet_6_2;
+      } else if (pair == ["Uyumluluk", "Duygusal Dayanıklılık"].sort().join("-")) {
+        return krktr_ozl_eng_ozet_7_2;
+      } else if (pair == ["Öz Disiplin", "Deneyime Açıklık"].sort().join("-")) {
+        return krktr_ozl_eng_ozet_8_2;
+      } else if (pair == ["Öz Disiplin", "Duygusal Dayanıklılık"].sort().join("-")) {
+        return krktr_ozl_eng_ozet_9_2;
+      } else if (pair == ["Deneyime Açıklık", "Duygusal Dayanıklılık"].sort().join("-")) {
+        return krktr_ozl_eng_ozet_10_2;
+      }
+    }
   }
+}
   
   let ai = (aiName, age, type, lang) => {
     if (lang == "Tr") {
@@ -5898,30 +6284,30 @@ var decision_strategy_eng_ozet_11_2 = "";
         }
       } else if (type == "ozet_1") {
         if (lifestyleData == "Manifesting Generator") {
-          return lifestyle_manifesting_generator_ozet_1;
+          return lifestyle_manifesting_generator_eng_ozet_1;
         } else if (lifestyleData == "Generator") {
-          return lifestyle_generator_ozet_1;;
+          return lifestyle_generator_eng_ozet_1;;
         } else if (lifestyleData == "Projector") {
-          return lifestyle_projektor_ozet_1;
+          return lifestyle_projektor_eng_ozet_1;
         } else if (lifestyleData == "Manifestor") {
-          return lifestyle_manifestor_ozet_1;
+          return lifestyle_manifestor_eng_ozet_1;
         } else if (lifestyleData == "Reflector") {
-          return lifestyle_reflektor_ozet_1; 
+          return lifestyle_reflektor_eng_ozet_1; 
         }
       } else if (type == "ozet_2") {
         if (lifestyleData == "Manifesting Generator") {
-          return lifestyle_manifesting_generator_ozet_2;
+          return lifestyle_manifesting_generator_eng_ozet_2;
         } else if (lifestyleData == "Generator") {
-          return lifestyle_generator_ozet_2;;
+          return lifestyle_generator_eng_ozet_2;;
         } else if (lifestyleData == "Projector") {
-          return lifestyle_projektor_ozet_2;
+          return lifestyle_projektor_eng_ozet_2;
         } else if (lifestyleData == "Manifestor") {
-          return lifestyle_manifestor_ozet_2;
+          return lifestyle_manifestor_eng_ozet_2;
         } else if (lifestyleData == "Reflector") {
-          return lifestyle_reflektor_ozet_2; 
+          return lifestyle_reflektor_eng_ozet_2; 
         }
       } 
-    } 
+    }
   };
 
   let communication = (communicationData, age, type, lang) => {
@@ -6303,27 +6689,27 @@ var decision_strategy_eng_ozet_11_2 = "";
         }
       } else if (type == "ozet_1") {
         if (worklearnData == "No Definition") {
-          return c_o_s_objective_ozet_1;
+          return c_o_s_objective_eng_ozet_1;
         } else if (worklearnData == "Single Definition") {
-          return c_o_s_individual_ozet_1;
+          return c_o_s_individual_eng_ozet_1;
         } else if (worklearnData == "Split Definition") {
-          return c_o_s_collaborative_ozet_1;
+          return c_o_s_collaborative_eng_ozet_1;
         } else if (worklearnData == "Triple Split Definition") {
-          return c_o_s_synthesizing_ozet_1;
+          return c_o_s_synthesizing_eng_ozet_1;
         } else if (worklearnData == "Quadruple Split Definition") {
-          return c_o_s_subjective_ozet_1;
+          return c_o_s_subjective_eng_ozet_1;
         }
       } else if (type == "ozet_2") {
         if (worklearnData == "No Definition") {
-          return c_o_s_objective_ozet_2;
+          return c_o_s_objective_eng_ozet_2;
         } else if (worklearnData == "Single Definition") {
-          return c_o_s_individual_ozet_2;
+          return c_o_s_individual_eng_ozet_2;
         } else if (worklearnData == "Split Definition") {
-          return c_o_s_collaborative_ozet_2;
+          return c_o_s_collaborative_eng_ozet_2;
         } else if (worklearnData == "Triple Split Definition") {
-          return c_o_s_synthesizing_ozet_2;
+          return c_o_s_synthesizing_eng_ozet_2;
         } else if (worklearnData == "Quadruple Split Definition") {
-          return c_o_s_subjective_ozet_2;
+          return c_o_s_subjective_eng_ozet_2;
         }
       }
     }
@@ -13055,43 +13441,43 @@ var decision_strategy_eng_ozet_11_2 = "";
         }
       } else if (type == "ozet_1") {
         if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yaratıcı ve Sanatsal Kariyerler") {
-          return kariyer_secim_ozet_1_1;
+          return kariyer_secim_eng_ozet_1_1;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Liderlik ve Yönetim Kariyerleri") {
-          return kariyer_secim_ozet_2_1;
+          return kariyer_secim_eng_ozet_2_1;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yardım ve Sosyal Kariyerler") {
-          return kariyer_secim_ozet_3_1;
+          return kariyer_secim_eng_ozet_3_1;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Teknik ve Mühendislik Kariyerleri") {
-          return kariyer_secim_ozet_4_1;
+          return kariyer_secim_eng_ozet_4_1;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Satış ve İlişki Kurma Kariyerleri") {
-          return kariyer_secim_ozet_5_1;
+          return kariyer_secim_eng_ozet_5_1;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Organizasyonel ve İdari Kariyerler") {
-          return kariyer_secim_ozet_6_1;
+          return kariyer_secim_eng_ozet_6_1;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yenilikçi ve Girişimci Kariyerler") {
-          return kariyer_secim_ozet_7_1;
+          return kariyer_secim_eng_ozet_7_1;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Öğretim ve Mentorluk Kariyerleri") {
-          return kariyer_secim_ozet_8_1;
+          return kariyer_secim_eng_ozet_8_1;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Analitik ve Veri Odaklı Kariyerler") {
-          return kariyer_secim_ozet_9_1;
+          return kariyer_secim_eng_ozet_9_1;
         }
       } else if (type == "ozet_2") {
         if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yaratıcı ve Sanatsal Kariyerler") {
-          return kariyer_secim_ozet_1_2;
+          return kariyer_secim_eng_ozet_1_2;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Liderlik ve Yönetim Kariyerleri") {
-          return kariyer_secim_ozet_2_2;
+          return kariyer_secim_eng_ozet_2_2;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yardım ve Sosyal Kariyerler") {
-          return kariyer_secim_ozet_3_2;
+          return kariyer_secim_eng_ozet_3_2;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Teknik ve Mühendislik Kariyerleri") {
-          return kariyer_secim_ozet_4_2;
+          return kariyer_secim_eng_ozet_4_2;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Satış ve İlişki Kurma Kariyerleri") {
-          return kariyer_secim_ozet_5_2;
+          return kariyer_secim_eng_ozet_5_2;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Organizasyonel ve İdari Kariyerler") {
-          return kariyer_secim_ozet_6_2;
+          return kariyer_secim_eng_ozet_6_2;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yenilikçi ve Girişimci Kariyerler") {
-          return kariyer_secim_ozet_7_2;
+          return kariyer_secim_eng_ozet_7_2;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Öğretim ve Mentorluk Kariyerleri") {
-          return kariyer_secim_ozet_8_2;
+          return kariyer_secim_eng_ozet_8_2;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Analitik ve Veri Odaklı Kariyerler") {
-          return kariyer_secim_ozet_9_2;
+          return kariyer_secim_eng_ozet_9_2;
         }
       }
     }
@@ -19368,4 +19754,4 @@ var decision_strategy_eng_ozet_11_2 = "";
   const jsonString = JSON.stringify(inputs_25_plus)
 
   return res.send(inputs_25_plus);
-};
+}
