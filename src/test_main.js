@@ -5060,7 +5060,7 @@ var decision_strategy_eng_ozet_11_2 = "Your decision-making process requires a d
   }
   };
 
-  let kslk_ozl_ozet = (hollandName_1, hollandName_2, age, type) => {
+  let kslk_ozl_ozet = (hollandName_1, hollandName_2, age, type, lang) => {
     if (lang == "Tr") {
       if (type == "ozet_1") {
         let pair = [hollandName_1, hollandName_2].sort().join("-");
@@ -5384,7 +5384,7 @@ var decision_strategy_eng_ozet_11_2 = "Your decision-making process requires a d
     }
   };
 
-  let krktr_ozl_ozet = (big5Name_1, big5Name_2, age, type) => {
+  let krktr_ozl_ozet = (big5Name_1, big5Name_2, age, type, lang) => {
     if (lang == "Tr") {
     if (type == "ozet_1") {
       let pair = [big5Name_1, big5Name_2].sort().join("-");
