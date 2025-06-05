@@ -2963,7 +2963,7 @@ var kariyer_secim_eng_ozet_1_2 = "Estetik bakış açın ve özgün fikirlerinle
 
 var kariyer_secim_eng_ozet_2_1 = "Sana En Uygun Kariyer Alanı: Liderlik ve Yönetim Kariyerleri";
 var kariyer_secim_eng_ozet_2_2 = "Stratejik düşünme, liderlik ve organizasyon becerilerini kullanabileceğin bir yolculuk seni bekliyor. Ekip yönetimi, iş süreçlerini geliştirme ve büyüme fırsatlarını değerlendirme gibi konularda başarılı olabilirsin. Karar almayı seviyor, insanlarla etkili iletişim kurabiliyor ve sonuç odaklı çalışıyorsan, liderlik ve yönetim alanı senin için doğru seçim olacaktır.";
-eng_
+
 var kariyer_secim_eng_ozet_3_1 = "Sana En Uygun Kariyer Alanı: Yardım ve Sosyal Kariyerler";
 var kariyer_secim_eng_ozet_3_2 = "İnsanlara yardım etmeyi ve onların gelişimine katkıda bulunmayı seviyorsan, bu kariyer alanı seni bekliyor. Dinleme, yönlendirme ve destekleme gibi sosyal yetkinlikleri güçlü bir şekilde kullanabilir, bireylerle etkili iletişim kurarak onların hayatlarına dokunabilirsin. Yardım etmeyi doğal buluyor, insanlarla birebir ilişkiler kurmayı seviyorsan, bu alan tam sana göre.";
 
