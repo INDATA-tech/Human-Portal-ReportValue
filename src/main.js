@@ -3029,34 +3029,33 @@ var kariyer_secim_25_plus_s7_eng_edTech_9_5 = "• EdTech UX/UI Analyst: By anal
 var kariyer_secim_25_plus_s7_eng_edTech_9_6 = "• Digital Education Performance Analyst: You can monitor students' progress and success on online education platforms and present strategic data to improve their learning processes.";
 var kariyer_secim_25_plus_s7_eng_edTech_9_7 = "";
 
-
 //özet
-var kariyer_secim_eng_ozet_1_1 = "Sana En Uygun Kariyer Alanı: Yaratıcı ve Sanatsal Kariyerler";
-var kariyer_secim_eng_ozet_1_2 = "Estetik bakış açın ve özgün fikirlerinle öne çıkabileceğin bir alandasın. Yaratıcı düşünme, görsel ifade ve kullanıcı deneyimi gibi yeteneklerini kullanarak farklı projelere hayat verebilirsin. Fikir üretmekten keyif alıyor, görsel anlatımda güçlüysen ve detaylara duyarlıysan, bu kariyer alanı tam sana göre.";
+var kariyer_secim_eng_ozet_1_1 = "The Most Suitable Career Field for You: Creative and Artistic Careers";
+var kariyer_secim_eng_ozet_1_2 = "You are in a field where you can stand out with your aesthetic point of view and original ideas. You can bring different projects to life by using your skills such as creative thinking, visual expression, and user experience. If you enjoy generating ideas, are strong in visual expression, and are sensitive to details, this career field is for you.";
 
-var kariyer_secim_eng_ozet_2_1 = "Sana En Uygun Kariyer Alanı: Liderlik ve Yönetim Kariyerleri";
-var kariyer_secim_eng_ozet_2_2 = "Stratejik düşünme, liderlik ve organizasyon becerilerini kullanabileceğin bir yolculuk seni bekliyor. Ekip yönetimi, iş süreçlerini geliştirme ve büyüme fırsatlarını değerlendirme gibi konularda başarılı olabilirsin. Karar almayı seviyor, insanlarla etkili iletişim kurabiliyor ve sonuç odaklı çalışıyorsan, liderlik ve yönetim alanı senin için doğru seçim olacaktır.";
+var kariyer_secim_eng_ozet_2_1 = "The Best Career Field for You: Leadership and Management Careers";
+var kariyer_secim_eng_ozet_2_2 = "A journey where you can use your strategic thinking, leadership and organizational skills awaits you. You can be successful in areas such as management, improving business processes, and evaluating growth opportunities. If you like to make decisions, communicate effectively with people and work result-oriented, leadership and management will be the right choice for you.";
 
-var kariyer_secim_eng_ozet_3_1 = "Sana En Uygun Kariyer Alanı: Yardım ve Sosyal Kariyerler";
-var kariyer_secim_eng_ozet_3_2 = "İnsanlara yardım etmeyi ve onların gelişimine katkıda bulunmayı seviyorsan, bu kariyer alanı seni bekliyor. Dinleme, yönlendirme ve destekleme gibi sosyal yetkinlikleri güçlü bir şekilde kullanabilir, bireylerle etkili iletişim kurarak onların hayatlarına dokunabilirsin. Yardım etmeyi doğal buluyor, insanlarla birebir ilişkiler kurmayı seviyorsan, bu alan tam sana göre.";
+var kariyer_secim_eng_ozet_3_1 = "The Career Field That Suits You Best: Charity and Social Careers";
+var kariyer_secim_eng_ozet_3_2 = "If you love helping people and contributing to their development, this career field is waiting for you. You can use social competencies such as listening, guiding and supporting strongly, and you can touch the lives of individuals by communicating effectively with them. If you find it natural to help and like to have one-on-one relationships with people, this is the field for you.";
 
-var kariyer_secim_eng_ozet_4_1 = "Sana En Uygun Kariyer Alanı: Teknik ve Mühendislik Kariyerleri";
-var kariyer_secim_eng_ozet_4_2 = "Teknoloji ve mühendislik becerilerini en üst düzeye çıkarabileceğin bir kariyer yolundasın. Problem çözme, yenilikçi düşünme ve teknik bilgi gerektiren alanlarda başarı gösterebilirsin. Bilgisayar bilimleri ya da mühendislik gibi teknik alanlarda güçlüysen ve bu alanda bir fark yaratmak istiyorsan, teknik ve mühendislik kariyerleri senin için uygun bir seçenek.";
+var kariyer_secim_eng_ozet_4_1 = "The Career Field That Suits You Best: Technical and Engineering Careers";
+var kariyer_secim_eng_ozet_4_2 = "You're on a career path where you can maximize your tech and engineering skills. You can excel in areas that require problem-solving, innovative thinking, and technical knowledge. If you're strong in technical fields like computer science or engineering and want to make a difference, technical and engineering careers are a good fit for you.";
 
-var kariyer_secim_eng_ozet_5_1 = "Sana En Uygun Kariyer Alanı: Satış ve İlişkisel Kariyerler";
-var kariyer_secim_eng_ozet_5_2 = "nsan ilişkileri, ikna kabiliyeti ve etkili iletişim becerilerinle parlayabileceğin bir kariyer seni bekliyor. Müşteri ilişkilerini yönetmek, satış stratejileri geliştirmek ve pazarlama gibi alanlarda başarılı olabilirsin. Sosyal bir kişiliğin varsa, dinamik bir ortamda insanlarla güçlü ilişkiler kurmayı seviyorsan, satış ve ilişkisel kariyerler tam sana göre.";
+var kariyer_secim_eng_ozet_5_1 = "Best Career Field for You: Sales and Relational Careers";
+var kariyer_secim_eng_ozet_5_2 = "İnsan ilişkileri, ikna kabiliyeti ve etkili iletişim becerilerinle parlayabileceğin bir kariyer seni bekliyor. Müşteri ilişkilerini yönetmek, satış stratejileri geliştirmek ve pazarlama gibi alanlarda başarılı olabilirsin. Sosyal bir kişiliğin varsa, dinamik bir ortamda insanlarla güçlü ilişkiler kurmayı seviyorsan, satış ve ilişkisel kariyerler tam sana göre.";
 
-var kariyer_secim_eng_ozet_6_1 = "Sana En Uygun Kariyer Alanı: Organizasyonel ve İdari Kariyerler";
-var kariyer_secim_eng_ozet_6_2 = "Düzenli, verimli ve organizasyon becerilerini kullanabileceğin bir kariyer yoluna adım atabilirsin. Ofis yönetimi, proje koordinasyonu ve iş akışlarını yönetme gibi yetkinlikleri geliştirebilirsin. Detaylara dikkat ediyor, yönetim ve koordinasyon becerilerine sahipsen, organizasyonel ve idari kariyerler senin için ideal.";
+var kariyer_secim_eng_ozet_6_1 = "The Career Field That Suits You Best: Organizational and Administrative Careers";
+var kariyer_secim_eng_ozet_6_2 = "You can step into a career path where you can use your organized, efficient and organizational skills. You can develop competencies such as office management, project coordination and managing workflows. If you have attention to detail and management and coordination skills, organizational and administrative careers are ideal for you.";
 
-var kariyer_secim_eng_ozet_7_1 = "Sana En Uygun Kariyer Alanı: Yenilikçi ve Girişimci Kariyerler";
-var kariyer_secim_eng_ozet_7_2 = "Yaratıcılığını, özgünlük ve yenilikçilikle birleştirerek yeni iş fırsatları yaratabileceğin bir kariyer seni bekliyor. Girişimcilik, inovasyon ve yeni projeler geliştirmek konusunda güçlü bir vizyona sahipsen, bu alan tam sana göre. Risk almayı seviyor, liderlik ve yenilikçi düşünme yeteneğini kullanarak farklı çözümler üretiyorsan, yenilikçi ve girişimci kariyerler seni çağırıyor.";
+var kariyer_secim_eng_ozet_7_1 = "The Most Suitable Career Field for You: Innovative and Entrepreneurial Careers";
+var kariyer_secim_eng_ozet_7_2 = "A career where you can create new job opportunities by combining your creativity with originality and innovation awaits you. If you have a strong vision of entrepreneurship, innovation and developing new projects, this field is for you. If you like to take risks and produce different solutions using your leadership and innovative thinking skills, innovative and entrepreneurial careers are calling you.";
 
-var kariyer_secim_eng_ozet_8_1 = "Sana En Uygun Kariyer Alanı: Öğretmenlik ve Mentorluk Kariyerleri";
-var kariyer_secim_eng_ozet_8_2 = "Eğitim ve kişisel gelişim süreçlerini yönlendirmek ve başkalarının hayatlarına dokunmak senin için anlamlıysa, öğretmenlik ve mentorluk alanında harika bir kariyer seni bekliyor. İnsanların gelişimine katkıda bulunmayı seviyor, bilgi paylaşmayı doğal buluyorsan ve sabırlı bir rehberlik yapmak istiyorsan, bu alan senin için en doğru seçenek olabilir.";
+var kariyer_secim_eng_ozet_8_1 = "Best Career Field: Teaching and Mentoring Careers";
+var kariyer_secim_eng_ozet_8_2 = "If guiding education and personal development and touching the lives of others is meaningful to you, a great career in teaching and mentoring awaits you. If you like to contribute to people's development, find it natural to share information, and want to provide patient guidance, this field may be the right option for you.";
 
-var kariyer_secim_eng_ozet_9_1 = "Sana En Uygun Kariyer Alanı: Analitik ve Veriye Dayalı Kariyerler";
-var kariyer_secim_eng_ozet_9_2 = "Veriye dayalı düşünme, analiz yapma ve strateji geliştirme becerilerine sahip birisin. Bu alanlarda, karmaşık verileri anlamlandırabilir, iş kararlarını destekleyebilir ve geleceği öngörebilirsin. Detaylara odaklanmayı seviyor, sayısal düşünebiliyor ve çözüm üretmeyi kolayca başarabiliyorsan, bu kariyer alanı senin için çok uygun.";
+var kariyer_secim_eng_ozet_9_1 = "Best Career Field for You: Analytics and Data-Driven Careers";
+var kariyer_secim_eng_ozet_9_2 = "You have the skills to think data-driven, analyze and develop strategies. In these areas, you can make sense of complex data, support business decisions, and predict the future. If you like to focus on details, think numerically and easily manage to produce solutions, this career field is very suitable for you.";
 
 //Güçlü Yanların 12-25
 var guclu_yanlarin2_57_10_1 = "Mükemmelleştirilmiş Form Gücü (57-10)";
@@ -14795,11 +14794,11 @@ var decision_strategy_eng_ozet_11_2 = "Your decision-making process requires a d
       P12A8 : ai(sortedaiData[sortedaiData.length - 2].name, age, "s3_x_2", language),
     
       P13A1 : ai(sortedaiData[0].name, age, "name", language),
-      P13A2 : ai(sortedaiData[0].name, 25, "s4u1_x_2", language),
+      P13A2 : ai(sortedaiData[0].name, age, "s4u1_x_2", language),
       P13A3 : ai(sortedaiData[1].name, age, "name", language),
-      P13A4 : ai(sortedaiData[1].name, 25, "s4u1_x_2", language),
+      P13A4 : ai(sortedaiData[1].name, age, "s4u1_x_2", language),
       P13A5 : ai(sortedaiData[sortedaiData.length - 1].name, age, "name", language),
-      P13A6 : ai(sortedaiData[0].name, 25, "s4u2_x_2", language),
+      P13A6 : ai(sortedaiData[0].name, age, "s4u2_x_2", language),
   
       P14A1 : "chart",
     
