@@ -2883,7 +2883,6 @@ var kariyer_secim_25_plus_s7_eng_auto_9_5 = "• Data Scientist (Telemetry): Ana
 var kariyer_secim_25_plus_s7_eng_auto_9_6 = "• Customer Analytics Specialist: Analyze customer preferences and purchasing behavior to develop personalized customer experience strategies.";
 var kariyer_secim_25_plus_s7_eng_auto_9_7 = "• Production Analyst: Analyze data from vehicle production processes to make improvements that increase efficiency and quality.";
 
-
 //mutfak sanatları 
 var kariyer_secim_25_plus_s7_eng_meal_1_1 = "Creative and Artistic Careers";
 var kariyer_secim_25_plus_s7_eng_meal_1_2 = "Culinary Arts";
@@ -2956,6 +2955,80 @@ var kariyer_secim_25_plus_s7_eng_meal_9_4 = "• Food Products Data Analyst: Ana
 var kariyer_secim_25_plus_s7_eng_meal_9_5 = "• Customer Experience Analyst: Analyze customer experiences in restaurants or kitchen services and provide suggestions for improving service quality.";
 var kariyer_secim_25_plus_s7_eng_meal_9_6 = "• Sales Data Analyst: Analyze restaurant sales data to optimize sales strategies and support business decisions.";
 var kariyer_secim_25_plus_s7_eng_meal_9_7 = "• Food Safety Analyst: Analyze food safety data, contributing to the improvement of hygiene standards and quality control processes.";
+
+// Eğitim ve EdTech 
+var kariyer_secim_25_plus_s7_eng_edTech_1_1 = "Creative and Artistic Careers";
+var kariyer_secim_25_plus_s7_eng_edTech_1_2 = "Jobs where you can use your creativity in the education and educational technology sector can be:";
+var kariyer_secim_25_plus_s7_eng_edTech_1_3 = "• Educational Content Designer: You can create educational and engaging content by designing educational materials, tutorial videos, animations, and digital course content.";
+var kariyer_secim_25_plus_s7_eng_edTech_1_4 = "• Multimedia Instructional Designer: You can enable students to learn more effectively by designing multimedia content (graphics, animation) that will enrich the educational process.";
+var kariyer_secim_25_plus_s7_eng_edTech_1_5 = "• E-Learning Designer: You can enhance students' digital learning experiences by designing interactive training modules for online learning platforms.";
+var kariyer_secim_25_plus_s7_eng_edTech_1_6 = "• Gamification Specialist: By integrating gamification methods into your educational processes, you can develop creative solutions that will increase students' interest and motivation.";
+var kariyer_secim_25_plus_s7_eng_edTech_1_7 = "";
+
+var kariyer_secim_25_plus_s7_eng_edTech_2_1 = "Leadership and Management Careers";
+var kariyer_secim_25_plus_s7_eng_edTech_2_2 = "Eğitim sektöründe liderlik ve yönetim becerilerini kullanabileceğin işler şunlar olabilir:";
+var kariyer_secim_25_plus_s7_eng_edTech_2_3 = "• Jobs in the education sector where you can use your leadership and management skills include";
+var kariyer_secim_25_plus_s7_eng_edTech_2_4 = "• EdTech Project Manager: You can manage projects and teams to digitize educational projects and develop innovative education solutions.";
+var kariyer_secim_25_plus_s7_eng_edTech_2_5 = "• Digital School Principal: You can manage the digital transformation within the school and improve the educational processes by increasing the use of educational technologies.";
+var kariyer_secim_25_plus_s7_eng_edTech_2_6 = "• Curriculum Manager: You can organize courses and curricula on online learning platforms and ensure that the content is in line with the teaching objectives.";
+var kariyer_secim_25_plus_s7_eng_edTech_2_7 = "";
+
+var kariyer_secim_25_plus_s7_eng_edTech_3_1 = "Charity & Social Careers";
+var kariyer_secim_25_plus_s7_eng_edTech_3_2 = "Jobs in the education sector where you can use your social and philanthropic sides can be:";
+var kariyer_secim_25_plus_s7_eng_edTech_3_3 = "• Educational Technology Trainer: You can provide training to teachers, school administrators or students to teach technology and digital tools and to ensure the efficient use of educational technologies.";
+var kariyer_secim_25_plus_s7_eng_edTech_3_4 = "• Online Student Support Specialist: You can guide and provide support for students to cope with the difficulties they face in their online learning processes.";
+var kariyer_secim_25_plus_s7_eng_edTech_3_5 = "• Digital Accessibility Specialist: You can develop digital educational materials and platforms for people with disabilities.";
+var kariyer_secim_25_plus_s7_eng_edTech_3_6 = "• Educational Technology Consultant: You can guide educational institutions in their digital transformation processes and help them choose the most appropriate educational technologies.";
+var kariyer_secim_25_plus_s7_eng_edTech_3_7 = "";
+
+var kariyer_secim_25_plus_s7_eng_edTech_4_1 = "Technical and Engineering Careers";
+var kariyer_secim_25_plus_s7_eng_edTech_4_2 = "Jobs in the education and education technology sector where you can use your technical and engineering skills can be:";
+var kariyer_secim_25_plus_s7_eng_edTech_4_3 = "• Educational Software Developer: You can design and implement digital educational tools by developing educational software, mobile applications or games.";
+var kariyer_secim_25_plus_s7_eng_edTech_4_4 = "• Educational Technology Engineer: You can set up the infrastructure of educational software and ensure that digital platforms work safely and efficiently.";
+var kariyer_secim_25_plus_s7_eng_edTech_4_5 = "• Data Analyst (Training Data): You can collect and analyze student performance data to analyze and improve educational processes.";
+var kariyer_secim_25_plus_s7_eng_edTech_4_6 = "• E-Learning Platform Developer: You can create user-friendly, effective learning tools by developing backend and frontend for online learning platforms.";
+var kariyer_secim_25_plus_s7_eng_edTech_4_7 = "";
+
+var kariyer_secim_25_plus_s7_eng_edTech_5_1 = "Sales and Relationship Building Careers";
+var kariyer_secim_25_plus_s7_eng_edTech_5_2 = "Jobs in the education and education technology industry where you can use your sales and relationship management skills can be:";
+var kariyer_secim_25_plus_s7_eng_edTech_5_3 = "• Digital Education Marketing Specialist: You can develop the digital marketing strategies of educational platforms and reach potential students with online campaigns.";
+var kariyer_secim_25_plus_s7_eng_edTech_5_4 = "• Educational Content Sales Manager: You can manage content sales for educational content providers and deliver appropriate educational materials to schools or institutions.";
+var kariyer_secim_25_plus_s7_eng_edTech_5_5 = "• Corporate Training Sales Manager: You can help large companies improve their employees' digital skills by offering corporate training programs.";
+var kariyer_secim_25_plus_s7_eng_edTech_5_6 = "• Educational Technology Sales Specialist: You can sell educational technology software and platforms to educational institutions or individuals and offer digital education solutions that meet their needs.";
+var kariyer_secim_25_plus_s7_eng_edTech_5_7 = "";
+
+var kariyer_secim_25_plus_s7_eng_edTech_6_1 = "Organizational and Administrative Careers";
+var kariyer_secim_25_plus_s7_eng_edTech_6_2 = "Jobs in the education sector where you can use your organizational and administrative skills can be:";
+var kariyer_secim_25_plus_s7_eng_edTech_6_3 = "• Educational Technology Operations Manager: You can manage the day-to-day operation of educational projects and ensure that platforms and content run smoothly.";
+var kariyer_secim_25_plus_s7_eng_edTech_6_4 = "• Training Manager Assistant: You can organize the schedules of training managers and keep track of the regular and up-to-date online course content.";
+var kariyer_secim_25_plus_s7_eng_edTech_6_5 = "• School Administrative Support Specialist: You can ensure the proper functioning of the education system by supporting the management of the digital infrastructure of educational institutions.";
+var kariyer_secim_25_plus_s7_eng_edTech_6_6 = "• Human Resources Specialist (Training): You can manage recruitment within the education sector and hire trainers and managers with digital training skills.";
+var kariyer_secim_25_plus_s7_eng_edTech_6_7 = "";
+
+var kariyer_secim_25_plus_s7_eng_edTech_7_1 = "Innovative and Entrepreneurial Careers";
+var kariyer_secim_25_plus_s7_eng_edTech_7_2 = "Jobs in the education sector where you can use innovative thinking and entrepreneurial spirit include:";
+var kariyer_secim_25_plus_s7_eng_edTech_7_3 = "• Educational Technology Entrepreneur: You can develop new educational software, platforms or digital solutions and create an innovative change in the world of education.";
+var kariyer_secim_25_plus_s7_eng_edTech_7_4 = "• Online Education Platform Founder: By setting up your own online education platform, you can provide students with world-class educational opportunities and increase access to education.";
+var kariyer_secim_25_plus_s7_eng_edTech_7_5 = "• Education and Technology Innovation Consultant: By providing innovation suggestions to the education sector, you can help schools and educational institutions in the digitalization process.";
+var kariyer_secim_25_plus_s7_eng_edTech_7_6 = "• Educational Achievement Entrepreneur: You can develop new metrics and systems that measure success in education, creating a more effective learning experience for students and teachers.";
+var kariyer_secim_25_plus_s7_eng_edTech_7_7 = "";
+
+var kariyer_secim_25_plus_s7_eng_edTech_8_1 = "Teaching and Mentoring Careers";
+var kariyer_secim_25_plus_s7_eng_edTech_8_2 = "Jobs in the education and educational technology sector where you can use your teaching and mentoring skills can be:";
+var kariyer_secim_25_plus_s7_eng_edTech_8_3 = "• Educational Technology Coach: You can guide educators and teachers on technology-supported teaching and improve their digital education skills.";
+var kariyer_secim_25_plus_s7_eng_edTech_8_4 = "• Digital Learning Consultant: You can develop digital learning strategies for educators and students and increase the effectiveness of online education.";
+var kariyer_secim_25_plus_s7_eng_edTech_8_5 = "• Education Mentor (Online Education): You can guide students for career development in education and make their online education experience more efficient.";
+var kariyer_secim_25_plus_s7_eng_edTech_8_6 = "• STEM Instructor (Educational Technology Focused): You can teach courses in science, technology, engineering and mathematics, and provide students with digital skills in STEM fields.";
+var kariyer_secim_25_plus_s7_eng_edTech_8_7 = "";
+
+var kariyer_secim_25_plus_s7_eng_edTech_9_1 = "Analytics and Data-Driven Careers";
+var kariyer_secim_25_plus_s7_eng_edTech_9_2 = "Jobs in the education and education technology sector where you can use analytical thinking and data skills can be:";
+var kariyer_secim_25_plus_s7_eng_edTech_9_3 = "• Education Data Analyst: You can optimize education systems by analyzing data on student achievements, course performance, and learning behaviors.";
+var kariyer_secim_25_plus_s7_eng_edTech_9_4 = "• Learning Analytics Specialist: You can develop improvement suggestions by evaluating training processes in a data-driven way.";
+var kariyer_secim_25_plus_s7_eng_edTech_9_5 = "• EdTech UX/UI Analyst: By analyzing the user experience of educational platforms and applications, you can develop more effective and user-friendly interfaces.";
+var kariyer_secim_25_plus_s7_eng_edTech_9_6 = "• Digital Education Performance Analyst: You can monitor students' progress and success on online education platforms and present strategic data to improve their learning processes.";
+var kariyer_secim_25_plus_s7_eng_edTech_9_7 = "";
+
 
 //özet
 var kariyer_secim_eng_ozet_1_1 = "Sana En Uygun Kariyer Alanı: Yaratıcı ve Sanatsal Kariyerler";
@@ -14364,14 +14437,12 @@ var decision_strategy_eng_ozet_11_2 = "Your decision-making process requires a d
   var cinsiyet =  Object.entries(rawData).find((x) => x[0] == "kisiselbilgi / cinsiyet")[1]
   var dogumTarihi = Object.entries(rawData).find((x) => x[0] == "kisiselbilgi / tarih-saat")[1];
 
-
   var year = parseInt(dogumTarihi.split(" ")[2]);
   if (isNaN(year)) {
-    var year = parseInt(dogumTarihi.split("-")[0]);
-  }
-
+     var year = parseInt(dogumTarihi.split("-")[0]);
+   }
+ 
   var age = new Date().getFullYear() - year;
-  
   var language = Object.entries(rawData).find((x) => x[0] == "Lang")[1];
 
   if (language == "Tr") { //ortak kullanılan değişkenler burada
@@ -14660,6 +14731,8 @@ var decision_strategy_eng_ozet_11_2 = "Your decision-making process requires a d
       graphcareer: careerSelectionLastResult,
       graphai: sortedaiData,
       graphteamwork: sortedTeamWorkData,
+
+      lang: language
     }
   }
 
@@ -14918,6 +14991,8 @@ var decision_strategy_eng_ozet_11_2 = "Your decision-making process requires a d
       graphcareer: careerSelectionLastResult,
       graphai: sortedaiData,
       graphteamwork: sortedTeamWorkData,
+
+      lang: language
     }
   }
 
