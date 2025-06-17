@@ -90,9 +90,8 @@ export default async ({ req, res, log, error }) => {
     // 4. Adım: Sıralanmış veriyi döndür
     return siraliGates;
   }
-  // Why not try the Appwrite SDK?
-  //
-  const client = new Client()
+
+   const client = new Client()
       .setEndpoint("https://appwrite.anahtarsensin.com/v1")
       .setProject("664d9d3100058da52135") //process.env.APPWRITE_FUNCTION_PROJECT_ID)
       .setKey(
@@ -104,6 +103,7 @@ export default async ({ req, res, log, error }) => {
       "65e97978db53e3998c12",
       String(req.body),
     );
+
   var processedData = JSON.parse(answers.ProcessedData);
   var rawData = JSON.parse(answers.RawData);
 
@@ -2956,78 +2956,152 @@ var kariyer_secim_25_plus_s7_eng_meal_9_5 = "• Customer Experience Analyst: An
 var kariyer_secim_25_plus_s7_eng_meal_9_6 = "• Sales Data Analyst: Analyze restaurant sales data to optimize sales strategies and support business decisions.";
 var kariyer_secim_25_plus_s7_eng_meal_9_7 = "• Food Safety Analyst: Analyze food safety data, contributing to the improvement of hygiene standards and quality control processes.";
 
-// Eğitim ve EdTech 
+//Eğitim ve EdTech 
 var kariyer_secim_25_plus_s7_eng_edTech_1_1 = "Creative and Artistic Careers";
-var kariyer_secim_25_plus_s7_eng_edTech_1_2 = "Jobs where you can use your creativity in the education and educational technology sector can be:";
-var kariyer_secim_25_plus_s7_eng_edTech_1_3 = "• Educational Content Designer: You can create educational and engaging content by designing educational materials, tutorial videos, animations, and digital course content.";
-var kariyer_secim_25_plus_s7_eng_edTech_1_4 = "• Multimedia Instructional Designer: You can enable students to learn more effectively by designing multimedia content (graphics, animation) that will enrich the educational process.";
-var kariyer_secim_25_plus_s7_eng_edTech_1_5 = "• E-Learning Designer: You can enhance students' digital learning experiences by designing interactive training modules for online learning platforms.";
-var kariyer_secim_25_plus_s7_eng_edTech_1_6 = "• Gamification Specialist: By integrating gamification methods into your educational processes, you can develop creative solutions that will increase students' interest and motivation.";
+var kariyer_secim_25_plus_s7_eng_edTech_1_2 = "Jobs in the Finance and FinTech sector where you can use your creativity include:";
+var kariyer_secim_25_plus_s7_eng_edTech_1_3 = "• FinTech UI/UX Designer: You can improve the user experience by designing user-friendly interfaces of FinTech applications and digital payment systems.";
+var kariyer_secim_25_plus_s7_eng_edTech_1_4 = "• Financial Education Video Maker: You can make learning fun by creatively creating financial trainings and online courses in video format.";
+var kariyer_secim_25_plus_s7_eng_edTech_1_5 = "• Brand Designer (FinTech): You can strengthen the digital identity of FinTech companies by producing creative solutions in their branding processes..";
+var kariyer_secim_25_plus_s7_eng_edTech_1_6 = "• Digital Financial Content Designer: You can inform users about financial literacy by preparing financial content, infographics, educational materials, and advertising campaigns.";
 var kariyer_secim_25_plus_s7_eng_edTech_1_7 = "";
 
 var kariyer_secim_25_plus_s7_eng_edTech_2_1 = "Leadership and Management Careers";
-var kariyer_secim_25_plus_s7_eng_edTech_2_2 = "Eğitim sektöründe liderlik ve yönetim becerilerini kullanabileceğin işler şunlar olabilir:";
-var kariyer_secim_25_plus_s7_eng_edTech_2_3 = "• Jobs in the education sector where you can use your leadership and management skills include";
-var kariyer_secim_25_plus_s7_eng_edTech_2_4 = "• EdTech Project Manager: You can manage projects and teams to digitize educational projects and develop innovative education solutions.";
-var kariyer_secim_25_plus_s7_eng_edTech_2_5 = "• Digital School Principal: You can manage the digital transformation within the school and improve the educational processes by increasing the use of educational technologies.";
-var kariyer_secim_25_plus_s7_eng_edTech_2_6 = "• Curriculum Manager: You can organize courses and curricula on online learning platforms and ensure that the content is in line with the teaching objectives.";
+var kariyer_secim_25_plus_s7_eng_edTech_2_2 = "Jobs in the Finance and FinTech sector where you can use your leadership and management skills include:";
+var kariyer_secim_25_plus_s7_eng_edTech_2_3 = "• FinTech CEO or COO: You can lead the management of FinTech startups and ensure the growth of the company by setting a strategic vision.";
+var kariyer_secim_25_plus_s7_eng_edTech_2_4 = "• Product Manager (FinTech): By managing the design, development and launch of digital financial products, you can create products that fit customer needs.";
+var kariyer_secim_25_plus_s7_eng_edTech_2_5 = "• Financial Services Manager: You can undertake strategic management of financial services in banks, insurance companies or fintech firms.";
+var kariyer_secim_25_plus_s7_eng_edTech_2_6 = "• Risk Management Manager: You can develop the company's risk management strategies by identifying and analyzing financial risks.";
 var kariyer_secim_25_plus_s7_eng_edTech_2_7 = "";
 
 var kariyer_secim_25_plus_s7_eng_edTech_3_1 = "Charity & Social Careers";
-var kariyer_secim_25_plus_s7_eng_edTech_3_2 = "Jobs in the education sector where you can use your social and philanthropic sides can be:";
-var kariyer_secim_25_plus_s7_eng_edTech_3_3 = "• Educational Technology Trainer: You can provide training to teachers, school administrators or students to teach technology and digital tools and to ensure the efficient use of educational technologies.";
-var kariyer_secim_25_plus_s7_eng_edTech_3_4 = "• Online Student Support Specialist: You can guide and provide support for students to cope with the difficulties they face in their online learning processes.";
-var kariyer_secim_25_plus_s7_eng_edTech_3_5 = "• Digital Accessibility Specialist: You can develop digital educational materials and platforms for people with disabilities.";
-var kariyer_secim_25_plus_s7_eng_edTech_3_6 = "• Educational Technology Consultant: You can guide educational institutions in their digital transformation processes and help them choose the most appropriate educational technologies.";
+var kariyer_secim_25_plus_s7_eng_edTech_3_2 = "Jobs in the Finance and FinTech sector where you can use your social and philanthropic sides can be:";
+var kariyer_secim_25_plus_s7_eng_edTech_3_3 = "• Financial Advisor (Social Impact): You can guide low-income individuals through financial planning, saving, and investing.";
+var kariyer_secim_25_plus_s7_eng_edTech_3_4 = "• Digital Finance Trainer: You can increase financial literacy by providing training on digital financial tools and solutions for individuals and companies.";
+var kariyer_secim_25_plus_s7_eng_edTech_3_5 = "• Credit Counselor (FinTech): You can guide customers who want to get a loan by providing them with appropriate financial solutions.";
+var kariyer_secim_25_plus_s7_eng_edTech_3_6 = "• Social Entrepreneur (FinTech): You can find solutions to social problems and increase financial access through digital financial solutions.";
 var kariyer_secim_25_plus_s7_eng_edTech_3_7 = "";
 
 var kariyer_secim_25_plus_s7_eng_edTech_4_1 = "Technical and Engineering Careers";
-var kariyer_secim_25_plus_s7_eng_edTech_4_2 = "Jobs in the education and education technology sector where you can use your technical and engineering skills can be:";
-var kariyer_secim_25_plus_s7_eng_edTech_4_3 = "• Educational Software Developer: You can design and implement digital educational tools by developing educational software, mobile applications or games.";
-var kariyer_secim_25_plus_s7_eng_edTech_4_4 = "• Educational Technology Engineer: You can set up the infrastructure of educational software and ensure that digital platforms work safely and efficiently.";
-var kariyer_secim_25_plus_s7_eng_edTech_4_5 = "• Data Analyst (Training Data): You can collect and analyze student performance data to analyze and improve educational processes.";
-var kariyer_secim_25_plus_s7_eng_edTech_4_6 = "• E-Learning Platform Developer: You can create user-friendly, effective learning tools by developing backend and frontend for online learning platforms.";
+var kariyer_secim_25_plus_s7_eng_edTech_4_2 = "Jobs in the Finance and FinTech sector where you can use your technical and engineering skills include:";
+var kariyer_secim_25_plus_s7_eng_edTech_4_3 = "• Blockchain Developer: You can develop financial applications, create cryptocurrency systems or digital contracts using blockchain technologies.";
+var kariyer_secim_25_plus_s7_eng_edTech_4_4 = "• Artificial Intelligence Engineer (FinTech): You can develop financial analysis and decision support systems using artificial intelligence and machine learning algorithms.";
+var kariyer_secim_25_plus_s7_eng_edTech_4_5 = "• Digital Payment Systems Developer: You can develop payment systems and digital wallet applications and secure financial transactions.";
+var kariyer_secim_25_plus_s7_eng_edTech_4_6 = "• Cyber Security Specialist (FinTech): By ensuring the security of financial systems, you can take high security measures for digital payments and banking transactions.";
 var kariyer_secim_25_plus_s7_eng_edTech_4_7 = "";
 
 var kariyer_secim_25_plus_s7_eng_edTech_5_1 = "Sales and Relationship Building Careers";
-var kariyer_secim_25_plus_s7_eng_edTech_5_2 = "Jobs in the education and education technology industry where you can use your sales and relationship management skills can be:";
-var kariyer_secim_25_plus_s7_eng_edTech_5_3 = "• Digital Education Marketing Specialist: You can develop the digital marketing strategies of educational platforms and reach potential students with online campaigns.";
-var kariyer_secim_25_plus_s7_eng_edTech_5_4 = "• Educational Content Sales Manager: You can manage content sales for educational content providers and deliver appropriate educational materials to schools or institutions.";
-var kariyer_secim_25_plus_s7_eng_edTech_5_5 = "• Corporate Training Sales Manager: You can help large companies improve their employees' digital skills by offering corporate training programs.";
-var kariyer_secim_25_plus_s7_eng_edTech_5_6 = "• Educational Technology Sales Specialist: You can sell educational technology software and platforms to educational institutions or individuals and offer digital education solutions that meet their needs.";
+var kariyer_secim_25_plus_s7_eng_edTech_5_2 = "Jobs in the Finance and FinTech industry where you can use your sales and relationship management skills include:";
+var kariyer_secim_25_plus_s7_eng_edTech_5_3 = "• FinTech Sales Specialist: You can sell digital financial products and services and provide financial technology solutions to customers.";
+var kariyer_secim_25_plus_s7_eng_edTech_5_4 = "• Customer Success Manager (FinTech): You can support users of digital financial products to enable them to use the products effectively and increase customer satisfaction.";
+var kariyer_secim_25_plus_s7_eng_edTech_5_5 = "• Financial Product Sales Manager: You can create marketing strategies for financial products, manage sales teams, and develop campaigns for target audiences.";
+var kariyer_secim_25_plus_s7_eng_edTech_5_6 = "• Business Development Specialist (FinTech): You can develop new customer and business opportunities and bring digital financial solutions to a wider customer base.";
 var kariyer_secim_25_plus_s7_eng_edTech_5_7 = "";
 
 var kariyer_secim_25_plus_s7_eng_edTech_6_1 = "Organizational and Administrative Careers";
-var kariyer_secim_25_plus_s7_eng_edTech_6_2 = "Jobs in the education sector where you can use your organizational and administrative skills can be:";
-var kariyer_secim_25_plus_s7_eng_edTech_6_3 = "• Educational Technology Operations Manager: You can manage the day-to-day operation of educational projects and ensure that platforms and content run smoothly.";
-var kariyer_secim_25_plus_s7_eng_edTech_6_4 = "• Training Manager Assistant: You can organize the schedules of training managers and keep track of the regular and up-to-date online course content.";
-var kariyer_secim_25_plus_s7_eng_edTech_6_5 = "• School Administrative Support Specialist: You can ensure the proper functioning of the education system by supporting the management of the digital infrastructure of educational institutions.";
-var kariyer_secim_25_plus_s7_eng_edTech_6_6 = "• Human Resources Specialist (Training): You can manage recruitment within the education sector and hire trainers and managers with digital training skills.";
+var kariyer_secim_25_plus_s7_eng_edTech_6_2 = "Jobs in the Finance and FinTech sector where you can use your organizational and administrative skills include:";
+var kariyer_secim_25_plus_s7_eng_edTech_6_3 = "• Financial Operations Manager: By organizing the day-to-day operation of financial transactions, you can ensure that digital financial solutions work properly.";
+var kariyer_secim_25_plus_s7_eng_edTech_6_4 = "• Financial Advisory Assistant: You can follow the business processes of financial advisors, organize and analyze financial information about customers.";
+var kariyer_secim_25_plus_s7_eng_edTech_6_5 = "• Human Resources Specialist (FinTech): In FinTech companies, you can organize processes such as personnel recruitment, employee training and performance management.";
+var kariyer_secim_25_plus_s7_eng_edTech_6_6 = "• Financial Administrative Assistant: By taking part in the inner workings of financial institutions, you can work as an executive assistant and undertake daily administrative tasks.";
 var kariyer_secim_25_plus_s7_eng_edTech_6_7 = "";
 
 var kariyer_secim_25_plus_s7_eng_edTech_7_1 = "Innovative and Entrepreneurial Careers";
-var kariyer_secim_25_plus_s7_eng_edTech_7_2 = "Jobs in the education sector where you can use innovative thinking and entrepreneurial spirit include:";
-var kariyer_secim_25_plus_s7_eng_edTech_7_3 = "• Educational Technology Entrepreneur: You can develop new educational software, platforms or digital solutions and create an innovative change in the world of education.";
-var kariyer_secim_25_plus_s7_eng_edTech_7_4 = "• Online Education Platform Founder: By setting up your own online education platform, you can provide students with world-class educational opportunities and increase access to education.";
-var kariyer_secim_25_plus_s7_eng_edTech_7_5 = "• Education and Technology Innovation Consultant: By providing innovation suggestions to the education sector, you can help schools and educational institutions in the digitalization process.";
-var kariyer_secim_25_plus_s7_eng_edTech_7_6 = "• Educational Achievement Entrepreneur: You can develop new metrics and systems that measure success in education, creating a more effective learning experience for students and teachers.";
+var kariyer_secim_25_plus_s7_eng_edTech_7_2 = "Jobs in the Finance and FinTech sector where you can use innovative thinking and entrepreneurial spirit include:";
+var kariyer_secim_25_plus_s7_eng_edTech_7_3 = "• FinTech Entrepreneur: By building a new digital financial product or platform, you can bring innovative solutions to financial services.";
+var kariyer_secim_25_plus_s7_eng_edTech_7_4 = "• Blockchain Entrepreneur: By using blockchain technology, you can develop new financial solutions and bring an innovative approach to the industry.";
+var kariyer_secim_25_plus_s7_eng_edTech_7_5 = "• Financial Technology Innovation Consultant: By providing financial technology solutions to companies, you can make financial processes more efficient.";
+var kariyer_secim_25_plus_s7_eng_edTech_7_6 = "• Digital Payment Entrepreneur: By launching initiatives on digital payment systems, you can develop an innovative approach to payment solutions.";
 var kariyer_secim_25_plus_s7_eng_edTech_7_7 = "";
 
 var kariyer_secim_25_plus_s7_eng_edTech_8_1 = "Teaching and Mentoring Careers";
-var kariyer_secim_25_plus_s7_eng_edTech_8_2 = "Jobs in the education and educational technology sector where you can use your teaching and mentoring skills can be:";
-var kariyer_secim_25_plus_s7_eng_edTech_8_3 = "• Educational Technology Coach: You can guide educators and teachers on technology-supported teaching and improve their digital education skills.";
-var kariyer_secim_25_plus_s7_eng_edTech_8_4 = "• Digital Learning Consultant: You can develop digital learning strategies for educators and students and increase the effectiveness of online education.";
-var kariyer_secim_25_plus_s7_eng_edTech_8_5 = "• Education Mentor (Online Education): You can guide students for career development in education and make their online education experience more efficient.";
-var kariyer_secim_25_plus_s7_eng_edTech_8_6 = "• STEM Instructor (Educational Technology Focused): You can teach courses in science, technology, engineering and mathematics, and provide students with digital skills in STEM fields.";
+var kariyer_secim_25_plus_s7_eng_edTech_8_2 = "Jobs in the Finance and FinTech sector where you can use your teaching and mentoring skills include:";
+var kariyer_secim_25_plus_s7_eng_edTech_8_3 = "• Financial Technologies Trainer: You can provide trainings to teach digital financial systems, blockchain or fintech applications.";
+var kariyer_secim_25_plus_s7_eng_edTech_8_4 = "• Financial Counseling Coach: You can guide individuals to improve their financial literacy and offer investment strategies or digital finance tools as a tutorial.";
+var kariyer_secim_25_plus_s7_eng_edTech_8_5 = "• Digital Finance Trainer: You can create online courses or training programs and help individuals improve their digital financial skills.";
+var kariyer_secim_25_plus_s7_eng_edTech_8_6 = "• Mentor (FinTech): You can provide career guidance to professionals who are just starting out in the field of FinTech and convey the developments in the sector to them.";
 var kariyer_secim_25_plus_s7_eng_edTech_8_7 = "";
 
 var kariyer_secim_25_plus_s7_eng_edTech_9_1 = "Analytics and Data-Driven Careers";
-var kariyer_secim_25_plus_s7_eng_edTech_9_2 = "Jobs in the education and education technology sector where you can use analytical thinking and data skills can be:";
-var kariyer_secim_25_plus_s7_eng_edTech_9_3 = "• Education Data Analyst: You can optimize education systems by analyzing data on student achievements, course performance, and learning behaviors.";
-var kariyer_secim_25_plus_s7_eng_edTech_9_4 = "• Learning Analytics Specialist: You can develop improvement suggestions by evaluating training processes in a data-driven way.";
-var kariyer_secim_25_plus_s7_eng_edTech_9_5 = "• EdTech UX/UI Analyst: By analyzing the user experience of educational platforms and applications, you can develop more effective and user-friendly interfaces.";
-var kariyer_secim_25_plus_s7_eng_edTech_9_6 = "• Digital Education Performance Analyst: You can monitor students' progress and success on online education platforms and present strategic data to improve their learning processes.";
+var kariyer_secim_25_plus_s7_eng_edTech_9_2 = "Jobs in the Finance and FinTech industry where you can use your analytical thinking and data skills include:";
+var kariyer_secim_25_plus_s7_eng_edTech_9_3 = "• Financial Data Analyst: By analyzing financial data, you can support companies' strategic decisions and improve financial processes.";
+var kariyer_secim_25_plus_s7_eng_edTech_9_4 = "• Machine Learning Specialist (FinTech): You can develop machine learning algorithms to analyze financial market data and do predictive modeling.";
+var kariyer_secim_25_plus_s7_eng_edTech_9_5 = "• Risk Analyst (FinTech): By analyzing financial risks, you can develop strategic risk mitigation recommendations for investors and financial institutions.";
+var kariyer_secim_25_plus_s7_eng_edTech_9_6 = "• Blockchain Data Analyst: By analyzing data obtained from blockchain systems, you can increase the security and transparency of financial transactions.";
 var kariyer_secim_25_plus_s7_eng_edTech_9_7 = "";
+
+//Finans ve FinTech 
+var kariyer_secim_25_plus_s7_finTech_1_1 = "Yaratıcı ve Sanatsal Kariyerler";
+var kariyer_secim_25_plus_s7_finTech_1_2 = "Finans ve FinTech sektöründe yaratıcılığını kullanabileceğin işler şunlar olabilir:";
+var kariyer_secim_25_plus_s7_finTech_1_3 = "• FinTech UI/UX Tasarımcısı: FinTech uygulamaları ve dijital ödeme sistemlerinin kullanıcı dostu arayüzlerini tasarlayarak kullanıcı deneyimini iyileştirebilirsin.";
+var kariyer_secim_25_plus_s7_finTech_1_4 = "• Finansal Eğitim Video Yapımcısı: Finansal eğitimleri ve online kursları yaratıcı bir şekilde video formatında hazırlayarak öğrenmeyi eğlenceli hale getirebilirsin.";
+var kariyer_secim_25_plus_s7_finTech_1_5 = "• Marka Tasarımcısı (FinTech): FinTech şirketlerinin markalaşma süreçlerinde kreatif çözümler üreterek şirketin dijital kimliğini güçlendirebilirsin.";
+var kariyer_secim_25_plus_s7_finTech_1_6 = "• Dijital Finansal İçerik Tasarımcısı: Finansal içerikler, infografikler, eğitim materyalleri ve reklam kampanyaları hazırlayarak kullanıcıları finansal okuryazarlık konusunda bilgilendirebilirsin.";
+var kariyer_secim_25_plus_s7_finTech_1_7 = "";
+
+var kariyer_secim_25_plus_s7_finTech_2_1 = "Liderlik ve Yönetim Kariyerleri";
+var kariyer_secim_25_plus_s7_finTech_2_2 = "Finans ve FinTech sektöründe liderlik ve yönetim becerilerini kullanabileceğin işler şunlar olabilir:";
+var kariyer_secim_25_plus_s7_finTech_2_3 = "• FinTech CEO veya COO: FinTech startup'larının yönetiminde liderlik edebilir, stratejik vizyon belirleyerek şirketin büyümesini sağlayabilirsin.";
+var kariyer_secim_25_plus_s7_finTech_2_4 = "• Finansal Hizmetler Yöneticisi: Bankalar, sigorta şirketleri veya fintech firmalarında finansal hizmetlerin stratejik yönetimini üstlenebilirsin.";
+var kariyer_secim_25_plus_s7_finTech_2_5 = "• Risk Yönetimi Müdürü: Finansal riskleri belirleyip analiz ederek şirketin risk yönetim stratejilerini geliştirebilirsin.";
+var kariyer_secim_25_plus_s7_finTech_2_6 = "• Ürün Yöneticisi (FinTech): Dijital finansal ürünlerin tasarım, geliştirme ve pazara sunulma süreçlerini yöneterek, müşteri ihtiyaçlarına uygun ürünler oluşturabilirsin.";
+var kariyer_secim_25_plus_s7_finTech_2_7 = "";
+
+var kariyer_secim_25_plus_s7_finTech_3_1 = "Yardım ve Sosyal Kariyerler";
+var kariyer_secim_25_plus_s7_finTech_3_2 = "Finans ve FinTech sektöründe sosyal ve yardımsever yönlerini kullanabileceğin işler şunlar olabilir:";
+var kariyer_secim_25_plus_s7_finTech_3_3 = "• Finansal Danışman (Sosyal Etki): Düşük gelirli bireylere finansal planlama, tasarruf ve yatırım konusunda rehberlik edebilirsin.";
+var kariyer_secim_25_plus_s7_finTech_3_4 = "• Kredi Danışmanı (FinTech): Kredi almak isteyen müşterilere uygun finansal çözümler sunarak onlara rehberlik edebilirsin.";
+var kariyer_secim_25_plus_s7_finTech_3_5 = "• Sosyal Girişimci (FinTech): Dijital finansal çözümler aracılığıyla toplumsal sorunlara çözüm üretebilir, finansal erişimi artırabilirsin.";
+var kariyer_secim_25_plus_s7_finTech_3_6 = "• Dijital Finans Eğitmeni: Bireyler ve şirketler için dijital finansal araçlar ve çözümler hakkında eğitim vererek finansal okuryazarlığı artırabilirsin.";
+var kariyer_secim_25_plus_s7_finTech_3_7 = "";
+
+var kariyer_secim_25_plus_s7_finTech_4_1 = "Teknik ve Mühendislik Kariyerleri";
+var kariyer_secim_25_plus_s7_finTech_4_2 = "Finans ve FinTech sektöründe teknik ve mühendislik becerilerini kullanabileceğin işler şunlar olabilir:";
+var kariyer_secim_25_plus_s7_finTech_4_3 = "• Yapay Zeka Mühendisi (FinTech): Yapay zeka ve makine öğrenmesi algoritmalarını kullanarak finansal analizler ve karar destek sistemleri geliştirebilirsin.";
+var kariyer_secim_25_plus_s7_finTech_4_4 = "• Dijital Ödeme Sistemleri Geliştiricisi: Ödeme sistemleri ve dijital cüzdan uygulamaları geliştirebilir, finansal işlemleri güvenli hale getirebilirsin.";
+var kariyer_secim_25_plus_s7_finTech_4_5 = "• Siber Güvenlik Uzmanı (FinTech): Finansal sistemlerin güvenliğini sağlayarak, dijital ödemeler ve bankacılık işlemleri için yüksek güvenlik önlemleri alabilirsin.";
+var kariyer_secim_25_plus_s7_finTech_4_6 = "• Blockchain Geliştiricisi: Blockchain teknolojileri kullanarak finansal uygulamalar geliştirebilir, kripto para sistemleri veya dijital sözleşmeler oluşturabilirsin.";
+var kariyer_secim_25_plus_s7_finTech_4_7 = "";
+
+var kariyer_secim_25_plus_s7_finTech_5_1 = "Satış ve İlişki Kurma Kariyerleri";
+var kariyer_secim_25_plus_s7_finTech_5_2 = "Finans ve FinTech sektöründe satış ve ilişki yönetimi becerilerini kullanabileceğin işler şunlar olabilir:";
+var kariyer_secim_25_plus_s7_finTech_5_3 = "• FinTech Satış Uzmanı: Dijital finansal ürünler ve hizmetler satabilir, müşterilere finansal teknoloji çözümleri sunabilirsin.";
+var kariyer_secim_25_plus_s7_finTech_5_4 = "• Finansal Ürün Satış Müdürü: Finansal ürünlerin pazarlama stratejilerini oluşturup satış ekiplerini yönetebilir, hedef kitlelere yönelik kampanyalar geliştirebilirsin.";
+var kariyer_secim_25_plus_s7_finTech_5_5 = "• İş Geliştirme Uzmanı (FinTech): Yeni müşteri ve iş fırsatları geliştirebilir, dijital finansal çözümleri daha geniş bir müşteri kitlesine ulaştırabilirsin.";
+var kariyer_secim_25_plus_s7_finTech_5_6 = "• Müşteri Başarı Yöneticisi (FinTech): Dijital finansal ürünlerin kullanıcılarının ürünleri etkili bir şekilde kullanmalarını sağlamak ve müşteri memnuniyetini artırmak için destek verebilirsin.";
+var kariyer_secim_25_plus_s7_finTech_5_7 = "";
+
+var kariyer_secim_25_plus_s7_finTech_6_1 = "Organizasyonel ve İdari Kariyerler";
+var kariyer_secim_25_plus_s7_finTech_6_2 = "Finans ve FinTech sektöründe organizasyon ve idari becerilerini kullanabileceğin işler şunlar olabilir:";
+var kariyer_secim_25_plus_s7_finTech_6_3 = "• Finansal Operasyon Yöneticisi: Finansal işlemlerin günlük işleyişini organize ederek, dijital finansal çözümlerin düzgün bir şekilde çalışmasını sağlayabilirsin.";
+var kariyer_secim_25_plus_s7_finTech_6_4 = "• Finansal İdari Asistan: Finansal kurumların iç işleyişinde yer alarak, yönetici asistanlığı yapabilir, günlük idari görevleri üstlenebilirsin.";
+var kariyer_secim_25_plus_s7_finTech_6_5 = "• İnsan Kaynakları Uzmanı (FinTech): FinTech şirketlerinde personel alımı, çalışan eğitimleri ve performans yönetimi gibi süreçleri organize edebilirsin.";
+var kariyer_secim_25_plus_s7_finTech_6_6 = "• Finansal Danışmanlık Asistanı: Finansal danışmanların iş süreçlerini takip edebilir, müşterilerle ilgili finansal bilgileri düzenleyebilir ve analiz edebilirsin.";
+var kariyer_secim_25_plus_s7_finTech_6_7 = "";
+
+var kariyer_secim_25_plus_s7_finTech_7_1 = "Yenilikçi ve Girişimci Kariyerler";
+var kariyer_secim_25_plus_s7_finTech_7_2 = "Finans ve FinTech sektöründe yenilikçi düşünceler ve girişimcilik ruhunu kullanabileceğin işler şunlar olabilir:";
+var kariyer_secim_25_plus_s7_finTech_7_3 = "• FinTech Girişimcisi: Yeni bir dijital finansal ürün veya platform kurarak, finansal hizmetlere yenilikçi çözümler getirebilirsin.";
+var kariyer_secim_25_plus_s7_finTech_7_4 = "• Blockchain Girişimcisi: Blockchain teknolojisini kullanarak yeni finansal çözümler geliştirebilir, sektöre yenilikçi bir yaklaşım getirebilirsin.";
+var kariyer_secim_25_plus_s7_finTech_7_5 = "• Finansal Teknoloji İnovasyon Danışmanı: Şirketlere finansal teknoloji çözümleri sunarak, finansal süreçleri daha verimli hale getirebilirsin.";
+var kariyer_secim_25_plus_s7_finTech_7_6 = "• Dijital Ödeme Girişimcisi: Dijital ödeme sistemleri üzerine girişimler başlatarak, ödeme çözümlerine yönelik yenilikçi bir yaklaşım geliştirebilirsin.";
+var kariyer_secim_25_plus_s7_finTech_7_7 = "";
+
+var kariyer_secim_25_plus_s7_finTech_8_1 = "Öğretim ve Mentorluk Kariyerleri";
+var kariyer_secim_25_plus_s7_finTech_8_2 = "Finans ve FinTech sektöründe öğretim ve mentorluk becerilerini kullanabileceğin işler şunlar olabilir:";
+var kariyer_secim_25_plus_s7_finTech_8_3 = "• Finansal Teknolojiler Eğitmeni: Dijital finansal sistemleri, blockchain veya fintech uygulamalarını öğretmek için eğitimler verebilirsin.";
+var kariyer_secim_25_plus_s7_finTech_8_4 = "• Dijital Finans Eğitmeni: Çevrimiçi kurslar veya eğitim programları oluşturabilir, bireylerin dijital finansal becerilerini geliştirmelerine yardımcı olabilirsin.";
+var kariyer_secim_25_plus_s7_finTech_8_5 = "• Mentor (FinTech): FinTech alanında yeni başlayan profesyonellere kariyer rehberliği yapabilir, sektördeki gelişmeleri onlara aktarabilirsin.";
+var kariyer_secim_25_plus_s7_finTech_8_6 = "• Finansal Danışmanlık Koçu: Bireylerin finansal okuryazarlıklarını geliştirmek için rehberlik edebilir, yatırım stratejileri veya dijital finans araçlarını öğretici olarak sunabilirsin.";
+var kariyer_secim_25_plus_s7_finTech_8_7 = "";
+
+var kariyer_secim_25_plus_s7_finTech_9_1 = "Analitik ve Veri Odaklı Kariyerler";
+var kariyer_secim_25_plus_s7_finTech_9_2 = "Finans ve FinTech sektöründe analitik düşünce ve veri becerilerini kullanabileceğin işler şunlar olabilir:";
+var kariyer_secim_25_plus_s7_finTech_9_3 = "• Finansal Veri Analisti: Finansal verileri analiz ederek, şirketlerin stratejik kararlarını destekleyebilir ve finansal süreçleri iyileştirebilirsin.";
+var kariyer_secim_25_plus_s7_finTech_9_4 = "• Risk Analisti (FinTech): Finansal riskleri analiz ederek, yatırımcılar ve finansal kurumlar için stratejik risk azaltma önerileri geliştirebilirsin.";
+var kariyer_secim_25_plus_s7_finTech_9_5 = "• Blockchain Veri Analisti: Blockchain sistemlerinden elde edilen verileri analiz ederek, finansal işlemlerin güvenliğini ve şeffaflığını artırabilirsin.";
+var kariyer_secim_25_plus_s7_finTech_9_6 = "• Makine Öğrenmesi Uzmanı (FinTech): Finansal piyasa verilerini analiz etmek için makine öğrenmesi algoritmaları geliştirebilir, tahminsel modelleme yapabilirsin.";
+var kariyer_secim_25_plus_s7_finTech_9_7 = "";
+
 
 //özet
 var kariyer_secim_eng_ozet_1_1 = "The Most Suitable Career Field for You: Creative and Artistic Careers";
@@ -3203,7 +3277,7 @@ var guclu_yanlarin2_13_2 = "İş Başarısını Takip Etmek\nBir projenin ya da 
 var guclu_yanlarin2_33_1 = "Gözlem Ustası";
 var guclu_yanlarin2_33_2 = "İşlerin Sorunsuz Yürüdüğünden Emin Olmak\nHer şeyin planlandığı gibi gitmesini sağlama konusunda iyisin. Ekibinle birlikte işleri zamanında ve doğru bir şekilde yapıldığından emin olabilirsin. Dikkatin sayesinde, görevlerin tamamlanması ve herkesin ne yapacağını bilmesi sağlanır.\n\nHatalardan Ders Çıkarmak\nGeçmiş deneyimlerden ders çıkararak, ekibinin aynı hataları yapmamasına yardımcı olursun. Önceden neyin işe yaradığını düşünerek, gelecekte daha iyi sonuçlar elde edebilirsin.\n\nHerkesin Sorumluluğunu Yerine Getirdiğinden Emin Olmak\nİşlerin yolunda gitmesini sağlama yeteneğin, ekibin işlerinden sorumlu kalmasına yardımcı olur. Herkesin gerekeni yaptığından ve sorunların hızlıca çözüldüğünden emin olursun.\n\nHayatta Yeteneğini Kullanmak\nİşlerin düzenli yürümesini sağlama yeteneğin, ekip liderliği veya yöneticilik gibi rollerde değerlidir. Kurallar oluşturur, problemleri çözer ve ekibinde güven oluşturursun. Bu yetenek, ekibin verimli çalışmasını ve hedeflerine ulaşmasını sağlar.";
 
-//Güçlü Yanların 25 plus
+//Güçlü Yanların 25+
 var guclu_yanlarin_57_10_1 = "Mükemmelleştirilmiş Form” Gücü (57-10)";
 var guclu_yanlarin_57_10_2 = "Hızlı düşünme yeteneğin dinamik iş ortamlarında çok değerli. Yaratıcılığın ile hayatta kalmayı garanti eden ve gelecekteki belirsizliklerden koruma sağlayan ortamlar yaratma ve tasarlama kabiliyetin var.\n\nFormu Mükemmelleştirmek\nKendini, sanatı, müziği, yazıyı, iç tasarımı, yiyeceği, bahçeciliği, mimariyi – kendi ve başkalarının davranışlarını içeren her şeyi mükemmelleştirmeyi seversin. Bu detaylara gösterdiğin özen ve mükemmellik arzusu, herhangi bir profesyonel alanda yüksek kaliteli çıktılar üretmene yardımcı olur.\n\nKendin Olmak\nSadece kendin olarak yaşayarak sağlıklı ve güzel bir şey yaratırsın. Bu otantiklik başkalarına ilham verebilir ve olumlu ve üretken bir çalışma ortamı yaratabilir. Rolün, kendin ve hayatın da dahil olmak üzere, sevdiğin şeyi yaratmak ve yarattığın şeyi sevmektir.\n\nİş Dünyasında Gücünü Kullanmak\nYaratıcılık ve tasarım gerektiren rollerde, detaylara gösterdiğin özen ve sezgisel yaklaşım, yenilikçi ve estetik açıdan hoş sonuçlara doğurur. Liderlikte, işinin her yönünü kucaklama ve mükemmelleştirme yeteneğin, ekibini mükemmellik için çabalamaya teşvik edebilir.\n\nMükemmelleştirilmiş form gücün, iş dünyasında sezgi, yaratıcılık ve mükemmelik arzusu açısından benzersiz bir karışım sunan güçlü bir özelliktir. Bu gücü kullanarak yaratıcı olabilir, üretkenliği artırabilir, olumlu bir çalışma ortamı yaratabilir ve organizasyonunu daha büyük bir başarıya yönlendirebilirsin. Bu gücü benimsemen ve geliştirmen, anlamlı ve etkili bir kariyere vesile olabilir.";
 
@@ -3312,7 +3386,7 @@ var guclu_yanlarin_56_11_2 = "Sürekli zihinsel uyarımlar aramaya, yeni fikirle
 var guclu_yanlarin_10_34_1 = "“İnanç” Gücü (34-10)";
 var guclu_yanlarin_10_34_2 = "Kendi gerçeğini sarsılmaz bir inançla takip etme gücüne sahipsin. Karşına çıkan engellere rağmen bağımsız ve otantik bir şekilde davranma içsel gücüne sahipsin. Belirli bir inancı benimsediğinde, ne kadar alışılmadık görünse de, seni bu inançtan döndürmek neredeyse imkansız olabilir. Güçlü varlığın ve bireyselliğin doğal olarak dikkat çeker, ancak asıl olarak kendin olmaya bağlı kalarak başkalarına da kendi inançları ve gerçekleriyle bağlantı kurmaları için ilham verirsin.\n\nKendin Olmak\nDavranışlarını çeşitli durumlara uyarlayabilirken, kim olduğuna sadık kalma yeteneğine sahipsin. Kendine güvenmeyi, kendini sevmeyi ve kabul etmeyi öğrendiğinde, seni benzersiz kılan özellikleri tam anlamıyla kucaklarsın. Bu otantiklik, seni kendi hayatını kendi olarak yaşaman için güçlendirir ve başkalarını da aynı şeyi yapmaları için cesaretlendirir.\n\nKişisel Güç\nKişisel gücün, seni benzersizliğini sergilemeye iten etkileyici bir enerji kaynağıdır. Bu özellik tamamen senin kullanımına özgüdür, başkaları tarafından hayranlıkla karşılanıp kullanılmak istense bile başkalarının erişimine açık değildir. Bu kişisel güç, bağımsızlığını destekler, seni inançlarına göre hareket etmeye yönlendirir ve otantik bir şekilde hayatta kalman ve başarılı olman için seni güçlendirir.\n\nİş Dünyasında Gücünü Kullanmak\nİnanç gücün iş dünyasında değerli bir özelliktir. Karşına çıkan zorluklara rağmen inançlarının arkasında durma ve bağımsız hareket etme yeteneğin, ekiplerin ortak hedeflere ulaşması için güven aşılamak ve onları motive etmek adına çok önemli olabilir. Yenilikçilik ve otantikliğin ön planda olduğu sektörlerde, ilkelere sarsılmaz bağlılığın, sınırları zorlamana ve örnek olarak liderlik etmene olanak tanır. Özellikle üst düzey liderlik rolleri için, güçlü inançlar şirketleri belirsiz veya zorlu zamanlarda yönlendirmeye yardımcı olabilir. Diğer insanlara da otantik ve kararlı bir şekilde hareket etmeleri için ilham verme yeteneğin, ekibinde veya organizasyonunda bütünlük ve dayanıklılık kültürü oluşturur.\n\nİnanç gücün, otantik bir şekilde liderlik yapmanı, başkalarına inançlarının arkasında durmaları için ilham vermeni ve bütünlük ile kişisel gücün geliştiği bir ortam yaratmanı sağlar. Kendi gerçeğine sarılarak ve bu doğrultuda hareket ederek, ilerleme kaydedebilir ve dayanıklılık ve yenilikçilik kültürü yaratabilirsin.  ";
   
-//Bunlar gates 25 plus
+//Bunlar gates 25+
 var guclu_yanlarin_15_1 = "Güven Kaynağı";
 var guclu_yanlarin_15_2 = "Güven ve İstikrar İnşa Etmek\nİnsanları bir araya getirip uyumlu ve güvenilir bir ekip oluşturma konusunda doğal bir yeteneğe sahipsin. Varlığın, gruba istikrar ve güvenlik hissi katar. Farklı bireyleri bağlı ve uyumlu bir ortamda bir araya getirerek, insanların rahat ve desteklenmiş hissettiği bir atmosfer yaratabilirsin.\n\nBağlantıyı Güçlendirmek\nGüvenilirliğin sayesinde ekip üyeleri arasında aidiyet hissini artırırsın. İnsanlar birbirlerine güçlü bir bağ hisseder, bu da grup içinde sadakati teşvik eder. Tutarlı bir yaklaşım sergileyerek, güven ve karşılıklı saygıya dayalı ilişkilerin gelişmesini sağlayabilirsin.\n\nGüvenilir Bir Çevre Yaratmak\nEkip içinde güven duygusu oluşturma yeteneğin çok değerli. İnsanlar birbirlerine güvenebildiklerinde, kendilerini güvende hisseder ve iş birliği içinde çalışmak için motive olurlar. Bu durum, liderlik ve ekip yönetimi rollerinde özellikle önemlidir, çünkü güven duygusu, daha yüksek verimlilik ve çalışan memnuniyeti sağlar.\n\nİş Dünyasında Yetkinliğini Kullanmak\nİş dünyasında, güvenilirlik yetkinliğin ekip liderliği, insan kaynakları veya proje yönetimi gerektiren rollerde kullanılabilir. Tutarlı ve güvenilir yaklaşımın, grup dinamiklerini sağlamlaştırır ve uzun vadeli istikrarı garanti eder. Bağlantı ve güven oluşturma yeteneğini kucaklayarak, ekiplerin geliştiği, verimli çalıştığı ve birlikte büyüdüğü ortamlar yaratabilirsin.  ";
 
@@ -3350,6 +3424,7 @@ var guclu_yanlarin_33_1 = "Gözlem Ustası";
 var guclu_yanlarin_33_2 = "Düzenli İşleyişi Sağlamak\nTüm operasyonları gözetim altında tutma ve her şeyin sorunsuz çalışmasını sağlama konusunda eşsiz bir yeteneğe sahipsin. Varlığın, görevlerin doğru bir şekilde tamamlanmasını, son teslim tarihlerine uyulmasını ve herkesin ne yapması gerektiğini bilmesini sağlar. Detaylara olan dikkatin, organizasyonun düzenini ve verimliliğini korumaya yardımcı olur.\n\nGeçmişten Ders Çıkarmak\nGeçmişteki deneyimlerden öğrenerek, gelecekte başarıya ulaşmak için değerli dersleri uygulayabilirsin. Daha önce neyin işe yarayıp neyin yaramadığını gözlemleme yeteneğin, hataların önlenmesine ve süreçlerin iyileştirilmesine yardımcı olur.\n\nSorumluluğu Sağlamak\nGözetimin sayesinde insanlar işlerinden sorumlu kalırlar. Görevlerin planlandığı gibi tamamlanmasını ve karşılaşılan zorlukların ele alınmasını sağlarsın. İlerlemeyi izleme ve kontrol etme yeteneğin, hiçbir detayın gözden kaçmamasını sağlar ve ekibi hedefte tutar.\n\nİş Dünyasında Yeteneğini Kullanmak\nİş dünyasında, operasyonları gözetme ve detayları yönetme yeteneğin, ekip liderliği veya yönetim gibi rollerde değerlidir. Politikalar oluşturabilir, şikayetleri etkin bir şekilde ele alabilir ve ekibinde sadakat duygusu yaratabilirsin. Bu yetkinlik, her şeyin zamanında ve en yüksek standartlarda yapılmasını sağlayarak verimliliği ve büyümeyi artırır.";
 
 //Güçlü Yanların İngilizce
+//25+
 var guclu_yanlarin_57_10_eng_1 = "The Strength of “Perfected Form” (57-10)";
 var guclu_yanlarin_57_10_eng_2 = "You have the ability to “think on your feet” which is very valuable in dynamic business environments. You are great at creating and designing environments that ensure survival and provide protection from future uncertainties.\n\nPerfecting the Form You enjoy perfecting the form of things: yourself, art, music, writing, interior design, food, gardening, architecture – anything that comes into your realm, including your own and others’ behavior. This attention to detail and drive for perfection can lead to high-quality outputs in any professional field.\n\nLiving True to Yourself By simply living true to yourself, you create something healthy and beautiful with your life. This authenticity can inspire others and foster a positive and productive work environment. Your role is to create what you love and love what you create – including yourself and your life.\n\nUtilizing Your Strength in Business In roles that require creativity and design, your attention to detail and intuitive approach can lead to innovative and aesthetically pleasing outcomes. In leadership, your ability to embrace and perfect every aspect of your work can inspire your team to strive for excellence.\n\nYour strength of perfected form is a powerful asset in the business world, providing a unique blend of intuition, creativity, and a drive for perfection. By harnessing this strength, you can enhance productivity, foster a positive work environment, and drive your organization towards greater success. Embracing and developing this strength can lead to a fulfilling and impactful career.";
 
@@ -3458,7 +3533,7 @@ var guclu_yanlarin_56_11_eng_2 = "You are compelled to continually seek mental s
 var guclu_yanlarin_10_34_eng_1 = "Strength of Conviction (34-10)";
 var guclu_yanlarin_10_34_eng_2 = "You are empowered to follow your truth with unwavering conviction. You have the inner strength to behave independently and authentically, even in the face of opposition. Once you’ve embraced a specific belief, it may be impossible to sway you, no matter how unconventional that belief may seem to others. Your powerful presence and individuality naturally attract attention, but it is by living true to yourself that you empower others to connect with their own convictions and truth.\n\nBeing Yourself You have the ability to adapt your behavior to various situations while remaining true to who you are. Learning to trust, love, and accept yourself, you fully embrace what makes you unique. This authenticity empowers you to live life as yourself and encourages others to do the same.\n\nPersonal Power: Your personal power is an impressive source of energy that empowers you to showcase your uniqueness. This trait is distinctively yours, meant for personal use only, and cannot be harnessed by others, even if admired. It supports your independence, helps you act on your convictions, and empowers you to triumph and survive as your authentic self.\n\nUtilizing Your Strength in Business: Your strength of conviction is a valuable asset in business. Your ability to stand firm in your beliefs and act independently, even when faced with opposition, is crucial for inspiring confidence and driving teams toward shared goals. In industries where innovation and authenticity are paramount, your unwavering commitment to your principles allows you to push boundaries and lead by example. This strength is particularly valuable in roles like executive leadership, where strong convictions can help guide companies through uncertain or challenging times. Your ability to empower others to act authentically and with conviction fosters a culture of integrity and resilience within your team or organization.\n\nYour strength of conviction allows you to lead with authenticity, inspire others to stand by their beliefs, and create an environment where integrity and personal power thrive. By embracing and acting on your truth, you drive progress and foster a culture of resilience and innovation.";
 
-//Bunlar gates
+//Bunlar gates 25+
 var guclu_yanlarin_15_eng_1 = "Trust Anchor";
 var guclu_yanlarin_15_eng_2 = "Building Trust and Stability You have the natural ability to bring people together and create a cohesive, reliable team. Your presence adds stability and a sense of security within the group. By drawing diverse individuals into a connected and harmonious environment, you foster an atmosphere where people feel comfortable and supported.\n\nFostering Connection Through your reliability, you enhance a sense of belonging among team members. People feel a strong connection to one another, reducing turnover and promoting loyalty within the group. By maintaining a consistent approach, you help build relationships grounded in trust and mutual respect.\n\nCreating a Trustworthy Environment Your ability to foster trust within the team is invaluable. When people can rely on one another, they feel secure and motivated to work collaboratively. This is especially critical in leadership and team management roles, where building a sense of trust leads to higher productivity and greater satisfaction among employees.\n\nUsing Your Skill in Business In business, your skill can be applied to roles requiring team leadership, human resources, or project management. Your consistent and trustworthy approach helps solidify group dynamics and ensures long-term stability. By embracing your ability to foster connection and trust, you create environments where teams thrive, perform efficiently, and grow together.";
 
@@ -3835,7 +3910,7 @@ var is_y_r_image_6_3 = "https://appwrite.anahtarsensin.com/v1/storage/buckets/67
 
 //İş Yaşamında Rolün İngilizce
 var is_y_r_eng_1_s2_0 = "Otorite/Öncü (1/3)";
-var is_y_r_eng_1_s2_1 = "The Expert Explorer";
+var is_y_r_eng_1_s2_1 = "The Expert Explorer (1/3)";
 var is_y_r_eng_1_s2_2 = "Your life is a journey of discovery and digging deep on things that interest you where you continuously learn through experience. You naturally develop expertise by exploring what works and what doesn’t through trial and error. This hands-on approach makes you uniquely qualified to become an authority in your chosen field. Whether you’re just starting out or are well-established in your career, you’re driven by a desire to understand the details, build a strong foundation, and master your craft through real-world experience.";
 var is_y_r_eng_1_s2_3 = "Your greatest strength lies in your ability to investigate and experiment until you find solutions that work. In any job or career, you approach problems with curiosity and persistence, always eager to dig deeper and discover the best way forward. This ability to navigate challenges and learn from mistakes sets you apart, making you someone others turn to for advice and insights. Over time, you develop a deep understanding of your field, which positions you as an authority or expert, regardless of your age or experience level.";
 var is_y_r_eng_1_s2_4 = "Living as an Authority / Pioneer";
@@ -3844,7 +3919,7 @@ var is_y_r_eng_1_s3_1 = "Your opportunities come from your willingness to face c
 var is_y_r_eng_1_s3_2 = "Your Role is about using your experience to build a life and career that aligns with your strengths. As you navigate the ups and downs of your journey, you’ll continue to develop mastery in your field. By sharing what you’ve learned and standing firm in your understanding, you’ll naturally fulfill your life purpose by contributing valuable insights to others. Whether you’re just starting out or well into your career, embracing your Role will lead to greater confidence, satisfaction, and success.";
 
 var is_y_r_eng_2_s2_0 = "Otorite/Etkileyici (1/4)";
-var is_y_r_eng_2_s2_1 = "Knowledgeable Networker";
+var is_y_r_eng_2_s2_1 = "Knowledgeable Networker (1/4)";
 var is_y_r_eng_2_s2_2 = "You are driven by a need to establish yourself as an expert in your field while also sharing your knowledge and insights with others. You are naturally curious and love to investigate and understand the foundation of any subject that interests you. Once you’ve built this solid base, you enjoy influencing and guiding others by sharing what you’ve learned. Your journey involves both mastering your subject and using your natural gift for networking to spread your ideas and influence.";
 var is_y_r_eng_2_s2_3 = "Your strength lies in your ability to thoroughly investigate topics and then communicate your findings in a way that connects with others. In business, you excel at building relationships and forming networks of people who can benefit from your expertise. Whether it’s sharing ideas with colleagues, contributing to a project, or guiding a team, your natural ability to influence makes you a key player. Your talent for blending personal knowledge with social connections allows you to stand out as both an authority and a trusted resource in any business setting.";
 var is_y_r_eng_2_s2_4 = "Living as an Authority / Influencer";
@@ -3853,7 +3928,7 @@ var is_y_r_eng_2_s3_1 = "Your opportunities come from both your solid knowledge 
 var is_y_r_eng_2_s3_2 = "Your Role is about mastering your field and then sharing that knowledge in a way that benefits others. You fulfill your life purpose by becoming a go-to resource and using your networks to spread ideas and solutions. By aligning with your Role, you will find that your career and life naturally bring opportunities to influence others. Whether you are just starting out or well-established, embracing both the authority and influencer sides of your Role will lead to a fulfilling and impactful career.";
 
 var is_y_r_eng_3_s2_0 = "Doğal/Etkileyici (2/4)";
-var is_y_r_eng_3_s2_1 = "Talented Connector";
+var is_y_r_eng_3_s2_1 = "Talented Connector (2/4)";
 var is_y_r_eng_3_s2_2 = "You possess innate talents that others easily recognize, even if they feel effortless to you. Your gifts come so naturally that you may take them for granted, but others frequently call on you to share your expertise. Your Role is about finding balance between embracing your natural abilities and building meaningful connections with others. You enjoy spending time alone to focus on your interests, but your influence grows when you engage with your close networks.";
 var is_y_r_eng_3_s2_3 = "Your ability to form deep, personal connections allows you to naturally attract career and business opportunities. Rather than needing to work hard to stand out, you thrive by staying true to what feels easy and natural. This makes you valuable whether you’re working independently or with a team. You seamlessly navigate both solitary work and social environments, excelling in business because of the trust you build and the talents you bring.";
 var is_y_r_eng_3_s2_4 = "Living as a Natural / Influencer";
@@ -3862,7 +3937,7 @@ var is_y_r_eng_3_s3_1 = "Your greatest opportunities arise when others recognize
 var is_y_r_eng_3_s3_2 = "Your Role is about embracing and sharing your gifts in a way that feels authentic to you. By allowing yourself to be called into opportunities that align with your talents, you can create a fulfilling career or business without forcing yourself into uncomfortable roles. Trust in your natural abilities and let others recognize your value. This approach will lead to a career and life that is both impactful and satisfying.";
 
 var is_y_r_eng_4_s2_0 = "Doğal/Haberci (2/5)";
-var is_y_r_eng_4_s2_1 = "Gifted Solution Maker";
+var is_y_r_eng_4_s2_1 = "Gifted Solution Maker (2/5)";
 var is_y_r_eng_4_s2_2 = "You possess deep natural talents that may often go unnoticed by yourself but are highly valued by others. Your gifts tend to emerge when others call on you for assistance, especially when they need practical solutions. While you prefer to work quietly and independently, you are often drawn into situations where your insights can make a big impact. Your Role involves striking a balance between your natural desire for solitude and your ability to communicate and provide valuable solutions to others.";
 var is_y_r_eng_4_s2_3 = "Your strength lies in your ability to offer innovative, practical solutions when they are needed most. You don’t need to seek out recognition—your influence grows when others recognize your talents and call on you to share them. You excel in problem-solving and are often seen as a “fixer” who can step in, provide the necessary insights, and then step back into your preferred space of quiet reflection. This ability makes you invaluable in business environments where practical, well-timed solutions are critical.";
 var is_y_r_eng_4_s2_4 = "Living as a Natural / Messenger";
@@ -3871,7 +3946,7 @@ var is_y_r_eng_4_s3_1 = "Your opportunities often come when people project their
 var is_y_r_eng_4_s3_2 = "Your Role is about trusting that your gifts will be recognized by the right people at the right time. You fulfill your life purpose by offering practical solutions when they are most needed and by allowing yourself the space to step back once you’ve made your contribution. By trusting in the flow of recognition and aligning with opportunities that feel right and knowing when to step out you will find fulfillment in your career and personal life. Success comes when you embrace your natural gifts without feeling the need to force them.";
 
 var is_y_r_eng_5_s2_0 = "Öncü/Haberci (3/5)";
-var is_y_r_eng_5_s2_1 = "The Explorer Solution Finder";
+var is_y_r_eng_5_s2_1 = "The Explorer Solution Finder (3/5)";
 var is_y_r_eng_5_s2_2 = "You are a natural agent for change. You are driven to discover what works and what doesn’t through personal experience, often learning through trial and error. This hands-on approach allows you to find practical solutions that others may not see. You are resilient, adaptable, and able to learn from the challenges life throws at you. Once you’ve discovered what works, you share these insights with others, making you a valuable resource in times of need.";
 var is_y_r_eng_5_s2_3 = "Your strength lies in your ability to experiment and refine processes until you find what works. You excel in situations where innovation and practical solutions are needed, and you’re not afraid to take risks or make mistakes along the way. In business, people often look to you for your ability to solve problems, especially when others may be stuck. Your resilience and determination to find answers set you apart, and your ability to communicate your findings makes you a key contributor in any team or organization.";
 var is_y_r_eng_5_s2_4 = "Living as a Pioneer / Messenger";
@@ -3880,7 +3955,7 @@ var is_y_r_eng_5_s3_1 = "Opportunities may often come in the form of challenges 
 var is_y_r_eng_5_s3_2 = "Your Role is about using your experiences to discover practical solutions and then sharing those insights with others. You fulfill your life purpose by embracing challenges, learning from them, and helping others by offering your wisdom. Whether in business or personal life, you are someone who others turn to in times of uncertainty. By trusting in your ability to find solutions and share them effectively, you will create a fulfilling and impactful career. Success comes when you lean into your strengths and allow your natural problem-solving abilities to shine.";
 
 var is_y_r_eng_6_s2_0 = "Öncü/Lider (3/6)";
-var is_y_r_eng_6_s2_1 = "The Discoverer Role Model";
+var is_y_r_eng_6_s2_1 = "The Discoverer Role Model (3/6)";
 var is_y_r_eng_6_s2_2 = "Your life unfolds through a series of stages where you continuously learn and grow from your experiences. In the first part of your life, you learn by doing, often through trial and error. Your experiences help you gain deep insights into what works and what doesn’t, making you a practical problem-solver. As you mature, you move from being an active participant to becoming a more detached observer and leader. Your unique journey allows you to offer wisdom to others, guiding them with the knowledge you’ve gained from real-world experience.";
 var is_y_r_eng_6_s2_3 = "Your strength lies in your ability to adapt and learn through experience. In business, you excel at tackling challenges head-on and finding innovative solutions. Early in your life you may be more focused on experimenting and learning from mistakes, but as you grow, you become someone who others look to for guidance and leadership. Your wisdom, drawn from your own experiences, makes you a valuable resource in any organization, especially when strategic thinking and problem-solving are needed.";
 var is_y_r_eng_6_s2_4 = "Living as a Pioneer and a Leader";
@@ -3889,7 +3964,7 @@ var is_y_r_eng_6_s3_1 = "Your opportunities come from your ability to face chall
 var is_y_r_eng_6_s3_2 = "Your Role is about learning through experience and using that knowledge to lead and guide others. You fulfill your life purpose by embracing the lessons life offers you, both in your personal growth and your professional journey. As you move through different phases of life, your ability to adapt and evolve makes you an impactful leader. Whether you are actively solving problems or offering strategic advice, your contributions help others navigate their own paths. Success comes when you trust your process and allow your leadership to emerge naturally.";
 
 var is_y_r_eng_7_s2_0 = "Etkileyici/Lider (4/6)";
-var is_y_r_eng_7_s2_1 = "The Influencer Leader";
+var is_y_r_eng_7_s2_1 = "The Influencer Leader (4/6)";
 var is_y_r_eng_7_s2_2 = "Your life journey is defined by your ability to build strong, meaningful connections and influence those around you. In the early part of your life, you focus on developing relationships and networking, which naturally positions you as a connector and influencer. As you mature, your Role shifts into one of leadership, where your experience and wisdom enable you to guide and mentor others. People are naturally drawn to you, and your ability to combine influence with leadership makes you a trusted figure in both personal and professional settings.";
 var is_y_r_eng_7_s2_3 = "Your strength lies in your ability to influence others through strong personal connections and a natural sense of authority. In business, you excel at networking and creating alliances, which open doors to opportunities. You have an intuitive sense for knowing who to connect with and when to leverage those relationships for the benefit of your team or organization. As you grow, your ability to lead through influence becomes more pronounced, making you a key figure in helping others navigate challenges and achieve success.";
 var is_y_r_eng_7_s2_4 = "Living as an Influencer / Leader";
@@ -3898,7 +3973,7 @@ var is_y_r_eng_7_s3_1 = "Opportunities for you often come from your ability to b
 var is_y_r_eng_7_s3_2 = "Your Role is about using your ability to build relationships and share your insights to help others succeed. You fulfill your life purpose by combining your talent for networking with your natural leadership abilities, guiding others through both personal and professional challenges. As you embrace your leadership Role, you will find that your career and life become more fulfilling, allowing you to make a significant impact on those around you. Success comes when you trust your ability to influence and lead with authenticity and confidence.";
 
 var is_y_r_eng_8_s2_0 = "Etkileyici/Otorite (4/1)";
-var is_y_r_eng_8_s2_1 = "The Networker Expert";
+var is_y_r_eng_8_s2_1 = "The Networker Expert (4/1)";
 var is_y_r_eng_8_s2_2 = "You combine the natural ability to form deep connections with others and a strong drive to master a specific area of expertise. You are both an influential networker and a detailed investigator. While you enjoy connecting with people, your true strength comes from diving deep into subjects that fascinate you and establishing a solid foundation of knowledge. As a result, you often become a trusted authority in your field, sharing your insights with those around you and influencing their perspectives.";
 var is_y_r_eng_8_s2_3 = "Your strengths in business stem from your ability to connect deeply with others while also mastering your chosen area of expertise. You can build strong networks that bring opportunities your way, and your thorough understanding of your field makes you a go-to person for advice and guidance. Your professional success often comes from blending personal relationships with a deep commitment to study and investigation, positioning you as both an influencer and an authority in your business environment.";
 var is_y_r_eng_8_s2_4 = "Living as an Influencer / Authority";
@@ -3907,7 +3982,7 @@ var is_y_r_eng_8_s3_1 = "Opportunities for Influencer/Authorities often arise fr
 var is_y_r_eng_8_s3_2 = "Your Role is about using your deep understanding of a subject to influence and guide others. You fulfill your life purpose by sharing your expertise and helping others benefit from your knowledge. By aligning with your Role, you create opportunities for yourself and those around you, while also building a fulfilling career. Success comes when you trust your ability to influence through both knowledge and connection, allowing your natural gifts to shine.";
 
 var is_y_r_eng_9_s2_0 = "Haberci/Otorite (5/1)";
-var is_y_r_eng_9_s2_1 = "The Practical Expert";
+var is_y_r_eng_9_s2_1 = "The Practical Expert (5/1)";
 var is_y_r_eng_9_s2_2 = "You are called upon to offer practical solutions, especially in times of crisis. You have a natural ability to see the bigger picture and provide actionable insights that help others navigate challenges. This makes you an authority in your field, especially when people are seeking guidance and answers. Your Role combines a deep commitment to mastering your subject with the ability to communicate your expertise in a way that resonates with others. You are a problem-solver who people trust to step in, fix what’s broken, and provide the wisdom they need.";
 var is_y_r_eng_9_s2_3 = "Your strength lies in your ability to investigate, master the details of your chosen field, and then communicate those findings in a clear and impactful way. In business, you are often seen as someone who can step up when there’s a challenge, bringing practical solutions and expert knowledge. This makes you a valuable resource in any organization, especially when things need to be fixed or when strategic guidance is required. Your influence comes from both your deep understanding of your subject and your ability to deliver solutions that people can trust.";
 var is_y_r_eng_9_s2_4 = "Living as a Messenger / Authority";
@@ -3916,7 +3991,7 @@ var is_y_r_eng_9_s3_1 = "Your opportunities come from being called upon to provi
 var is_y_r_eng_9_s3_2 = "Your Role is about offering practical solutions that help others and being a trusted source of wisdom in your field. You fulfill your life purpose by sharing your knowledge and guiding others through challenges. By aligning with your Role, you create a career where you are seen as both a reliable problem-solver and an expert. Success comes when you trust your ability to deliver meaningful insights and recognize when to step forward and offer your expertise.";
 
 var is_y_r_eng_10_s2_0 = "Haberci/Doğal (5/2)";
-var is_y_r_eng_10_s2_1 = "The Solution Providing Talent";
+var is_y_r_eng_10_s2_1 = "The Solution Providing Talent (5/2)";
 var is_y_r_eng_10_s2_2 = "You possess innate gifts that others often recognize in you before you fully realize them yourself. You have a natural ability to offer practical solutions and innovative insights that help others, especially in times of need. While you may prefer working behind the scenes, people are naturally drawn to your wisdom and often project their expectations onto you, seeing you as someone who can solve their problems. Your Role is about stepping into these opportunities and sharing your talents in a way that feels authentic to you.";
 var is_y_r_eng_10_s2_3 = "Your strength lies in your ability to provide outside-the-box solutions that others may not see. You’re a natural problem-solver, and your insights often arrive at just the right moment. In business, people turn to you because they trust your judgment and your ability to deliver results. You excel when you are given the space to work independently, and when the right opportunities arise, you step forward to share your practical solutions. This makes you a valuable contributor in any team or organization, particularly in times of crisis or uncertainty.";
 var is_y_r_eng_10_s2_4 = "Living as a Messenger / Natural";
@@ -3925,7 +4000,7 @@ var is_y_r_eng_10_s3_1 = "Your opportunities arise when others project their exp
 var is_y_r_eng_10_s3_2 = "Your Role is about sharing your innate gifts with others in a way that feels aligned with your true self. You fulfill your life purpose by offering practical solutions when they are most needed and trusting that the right people will recognize your talents. By embracing your natural abilities and not forcing yourself into uncomfortable roles, you create a fulfilling career and life. Success comes when you allow your gifts to emerge naturally, letting others seek you out for your unique wisdom.";
 
 var is_y_r_eng_11_s2_0 = "Lider/Doğal (6/2)";
-var is_y_r_eng_11_s2_1 = "The Leader Talent";
+var is_y_r_eng_11_s2_1 = "The Leader Talent (6/2)";
 var is_y_r_eng_11_s2_2 = "You are here to show others how to live authentically, using your natural gifts and wisdom. You have an innate ability to offer a unique, detached perspective, often serving as a role model for those around you. While you may prefer to work quietly and independently, people naturally look to you for guidance and trust your wisdom. As you mature, especially in the later stages of life, this wisdom becomes more pronounced and deeply valued by others.";
 var is_y_r_eng_11_s2_3 = "Your greatest strength is your ability to see the bigger picture and offer practical, objective insights. In the early stages of your career, you may experiment with different paths, learning from trial and error. As you mature, your understanding deepens, and you naturally step into a leadership role where others look to you for advice. You bring a calm, detached approach to leadership, offering guidance based on your own experiences. This ability to remain objective while providing thoughtful solutions makes you an effective leader in both business and personal settings.";
 var is_y_r_eng_11_s2_4 = "Living as a Leader / Natural";
@@ -3934,7 +4009,7 @@ var is_y_r_eng_11_s3_1 = "Your opportunities come from your ability to offer a u
 var is_y_r_eng_11_s3_2 = "Your Role is about using your natural gifts and wisdom to guide others. You fulfill your life purpose by embracing your journey of personal growth and allowing your leadership to emerge naturally. As you progress through life, especially after 50, your wisdom becomes a core part of how you guide and influence others. Success comes when you trust in your ability to lead by example, offering wisdom without forcing yourself into leadership roles before you are ready.";
 
 var is_y_r_eng_12_s2_0 = "Lider/Öncü (6/3)";
-var is_y_r_eng_12_s2_1 = "The Leader Discoverer";
+var is_y_r_eng_12_s2_1 = "The Leader Discoverer (6/3)";
 var is_y_r_eng_12_s2_2 = "You are defined by your extraordinary resilience and ability to learn and grow through personal experience. No matter how many setbacks or challenges you face, you always find a way to get back up and keep moving forward. You thrive on trial and error, discovering what works through hands-on experience. Over time, these lessons position you as a trusted leader who can offer practical guidance based on your real-world knowledge and personal growth.";
 var is_y_r_eng_12_s2_3 = "Your strength in business lies in your relentless resilience and willingness to take risks. Early in your career, you learn by doing, unafraid of making mistakes because you know that each setback brings valuable insights. This hands-on approach builds your knowledge and expertise, allowing others to trust your judgment. As you grow, you become a more objective leader, offering guidance based on both your practical experience and strategic thinking. People value your insights not only because of what you know but also because of your ability to rise after every fall, making you a powerful force in any business environment.";
 var is_y_r_eng_12_s2_4 = "Living as g a Leader and a Pioneer";
@@ -4182,50 +4257,97 @@ var ai_25_s4u1_9_2 = "• Risk alma ve deney yapma konusunda ne kadar cesaretlis
 var ai_25_s4u2_9_2 = "• Yapay zeka ile ilgili yenilikçi iş fikirleri geliştirme konusunda ne kadar istekliyim? Yeni projeler başlatmak için hangi adımları atıyorum?\n\n• Girişimcilik becerilerimi geliştirmek için hangi fırsatları değerlendiriyorum? AI projelerinde hangi iş fırsatlarını görebiliyorum?\n\n• Deneysel düşünce yapısına ne kadar açığım? Yeni fikirleri test etmek için hangi stratejileri uyguluyorum?\n\n• Belirsizliklerle başa çıkarken nasıl kararlar alıyorum? Risk almanın getirdiği fırsatları nasıl değerlendirebilirim?";
 
 //Yapay Zeka Çağı Yetkinliklerin İngilizce
-var ai_25_eng_s3_1_1 = "Digital Literacy";
-var ai_25_eng_s3_1_2 = "Fundamental Computer and Technology Skills: This encompasses computer usage, as well as knowledge of software and hardware. You should be able to use technology effectively and efficiently.\n\n• Basics of Artificial Intelligence: Having foundational knowledge about what AI is, how it works, and how it shapes our lives.";
-var ai_25_eng_s4u1_1_2 = "• In what areas can you make an impact with your computer and technology skills? How can you utilize these skills more effectively in school projects or your future career?\n\n• Do you think deepening your foundational knowledge about AI will help you understand which professions will be important in the future? How can you plan a career in these fields?";
-var ai_25_eng_s4u2_1_2 = "• What basic computer skills do I possess, and what can I do to advance these skills further?\n\n• How do I use technology in my daily life? Am I using technology only as a consumer, or can I also be a producer?\n\n• What do I know about artificial intelligence? How much time have I devoted to understanding how AI impacts my life?\n\n• Am I excited about learning more about AI and the opportunities it presents? What steps can I take to develop myself in this field?";
+//12-25
+var ai_12_eng_s3_1_1 = "Digital Skills and Communication";
+var ai_12_eng_s3_1_2 = "• Using Digital Tools Effectively: Using computers, phones and digital tools effectively makes your daily life easier and gives you an advantage in the world of technology.\n\n• Artificial Intelligence Basics: AI is becoming a part of our lives. Understanding what AI is and how it works will prepare you for the future.";
+var ai_12_eng_s4u1_1_2 = "• What can you do with your computer and technology skills? Think about how you can make a difference with these skills in school or in your future career. How can you use these skills more effectively in your projects?\n\n• Improve your knowledge of AI! In which professions do you think AI will be important in the future? What kind of career path can you pursue in these fields?";
+var ai_12_eng_s4u2_1_2 = "• What basic computer skills do I have, and what can I do to improve them?\n\n• How do I use technology in my daily life? Do I only use technology as a consumer, or can I also be a producer?\n\n• What do I know about artificial intelligence? How much time have I spent understanding how AI has impacted my life?\n\n• Am I excited to learn about AI and the opportunities it presents? What steps can I take to improve myself in this area?";
 
-var ai_25_eng_s3_2_1 = "Data Literacy";
-var ai_25_eng_s3_2_2 = "• Data Analysis: The ability to collect, analyze, and derive meaningful conclusions from data. In today’s world, decisions are increasingly data-driven, making this skill highly valuable.\n\n• Data Privacy and Security: Understanding the importance of data security and privacy, and knowing how to protect personal data is essential.";
-var ai_25_eng_s4u1_2_2 = "• How can you use your ability to analyze data in school projects or your professional life? What advantages do you think data-driven decision-making will provide you?\n\n• How aware are you of data security and privacy? How can you apply this knowledge in a future company or your own venture? ";
-var ai_25_eng_s4u2_2_2 = "• How do I leverage data when faced with a problem? How does making data-driven decisions simplify my work?\n\n• How do I protect my personal data? What steps am I taking to ensure my privacy online?\n\n• How knowledgeable am I about online security and data privacy? How can I increase my awareness of security vulnerabilities?\n\n• Am I aware of my responsibility to protect personal data, both mine and others'? What behaviors do I need to develop in this regard?";
+var ai_12_eng_s3_2_1 = "Data Understanding and Decision Making";
+var ai_12_eng_s3_2_2 = "• Data Collection and Understanding: Learning how to collect and analyze data allows you to make informed decisions.\n\n• Data Security: It is very important to be able to keep your personal information safe. Learning about data security protects you in the digital world.";
+var ai_12_eng_s4u1_2_2 = "• How can you use data analysis? Think about how you can use your ability to analyze data in school projects or in your business life. Discover how data-driven decision-making can benefit you?\n\n• Do you know data security? It is very important that your personal data is safe. How can you use this knowledge to be useful in a future company or your own venture?";
+var ai_12_eng_s4u2_2_2 = "• How do I use the data when I encounter a problem? How does making data-driven decisions make my job easier?\n\n• How do I protect my personal data? What steps do I take to ensure my privacy online?\n\n• How much do I know about online security and data privacy? How can I increase my awareness of vulnerabilities?\n\n• Am I aware of my responsibility to protect personal and others' data? What behaviors do I need to improve in this regard?";
 
-var ai_25_eng_s3_3_1 = "Coding and Programming";
-var ai_25_eng_s3_3_2 = "• Programming Languages: Learning foundational programming languages such as Python and JavaScript is crucial for success in AI development and tech-related jobs.\n\n• Algorithmic Thinking: Developing systematic and logical approaches to solving problems is a fundamental skill in the age of AI.";
-var ai_25_eng_s4u1_3_2 = "• How can you use your programming skills in school projects to take on leadership roles in different projects? Which programming languages do you think would help you achieve your career goals?\n\n• How can you apply your algorithmic thinking skills to solve problems more systematically? In which professions could you leverage this skill as an advantage in the future?";
-var ai_25_eng_s4u2_3_2 = "• What is my level of interest in learning programming languages? When considering learning a new language, where should I start?\n\n• languages should I learn to be more effective in my current projects?\n\n• What steps do I follow to solve problems? How advanced are my logical thinking skills?\n\n• What tools can I use to enhance my algorithmic thinking ability? How can I apply this skill more effectively in my work or educational life?";
+var ai_12_eng_s3_3_1 = "Software and Technology Applications";
+var ai_12_eng_s3_3_2 = "• Learning Programming Languages: Learning software with languages like Python and JavaScript allows you to succeed in the world of technology.\n\n• Systematic Thinking: Developing logical and organized ways to solve problems makes you strong in all areas.";
+var ai_12_eng_s4u1_3_2 = "• What can you do by learning programming? Think about how you might use your programming skills in your future business life and what projects you might lead on. Which languages can you use to achieve your career goals?\n\n• How can you come up with solutions with algorithmic thinking? How can you solve the problems you encounter more systematically with your algorithmic thinking skills? Discover which professions you can use this skill in?";
+var ai_12_eng_s4u2_3_2 = "• What is my level of interest in learning programming languages? Where do I start when I'm thinking about learning a new language?\n\n• In which areas can I further develop my programming knowledge? Which languages should I learn to be more effective in my current projects?\n\n• What steps do I follow to solve the problems? How advanced are my logical thinking skills?\n\n• What tools can I use to improve my algorithmic thinking skills? How can I use this skill better in my work or education life?";
 
-var ai_25_eng_s3_4_1 = "Critical Thinking and Problem Solving";
-var ai_25_eng_s3_4_2 = "• Analytical Thinking: The ability to extract meaning from data or events and develop solutions. This skill is vital for effectively utilizing AI tools.\n\n• Creative Problem Solving: The ability to generate innovative and creative solutions, particularly in the fields of AI and technology, provides a significant advantage.";
-var ai_25_eng_s4u1_4_2 = "• In which areas can you enhance and utilize your analytical thinking skills to derive insights from data or events? What career opportunities do you think this skill will present to you in the future?\n\n• In what projects or fields do you think you could make a difference by applying your creative problem-solving ability? How can you further develop this skill?";
-var ai_25_eng_s4u2_4_2 = "• How do I approach situations when making decisions? How analytical am I in evaluating different options?\n\n• What resources do I utilize to improve my analytical thinking skills? What strategy do I follow when facing challenging problems?\n\n• How can I foster creative thinking? How can I learn to view things from different perspectives?\n\n• How willing am I to produce more innovative solutions using technology and AI?";
+var ai_12_eng_s3_4_1 = "Critical Thinking and Solution Generation";
+var ai_12_eng_s3_4_2 = "• Analytical Thinking: Being able to make sense of data and events teaches you to make the right decisions.\n\n• Finding Creative Solutions: Being able to solve problems creatively is a huge advantage in the world of AI and technology.";
+var ai_12_eng_s4u1_4_2 = "• How can you improve your analytical thinking skills? In what areas can you improve your ability to make sense of data or events? What career opportunities can this skill lead you to?\n\n• In which projects can you make a difference with creative problem solving? Think about which areas of business you can use your ability to come up with creative solutions. How can you improve this skill?";
+var ai_12_eng_s4u2_4_2 = "• How do I approach things when making decisions? How analytically am I about considering different options?\n\n• What resources do I use to improve my analytical thinking skills? What strategy do I follow against difficult problems?\n\n• How can I develop creative thinking? How can I learn to look at it from different perspectives?\n\n• How can I develop creative thinking? How can I learn to look at it from different perspectives?";
 
-var ai_25_eng_s3_5_1 = "Adaptability and Lifelong Learning";
-var ai_25_eng_s3_5_2 = "• Flexibility: The ability to rapidly adapt to continuously changing technology and business environments. Learning new AI tools and systems is important.\n\n• Lifelong Learning: As technology evolves, the ability to learn new skills and update existing ones becomes increasingly crucial.";
-var ai_25_eng_s4u1_5_2 = "• How can you adapt in a rapidly changing technological world? In which professions do you think your ability to be flexible will lead to greater success?\n\n• What new technologies do you plan to learn with your lifelong learning mindset? How can you sustain this learning process throughout your career?";
-var ai_25_eng_s4u2_5_2 = "• How quickly can I adapt to new technologies and the changing business landscape? How do I respond to changes?\n\n• How can I be flexible in the face of the rapid development of artificial intelligence? What steps should I take to be more adaptable in my professional life?\n\n• How willing am I to improve myself? How active am I in keeping up with innovations in technology?\n\n• In which areas do I think I need to develop myself further? How can I continue learning in the AI world?";
+var ai_12_eng_s3_5_1 = "Adaptation to Change and Continuous Improvement";
+var ai_12_eng_s3_5_2 = "• Flexibility: Technology is changing rapidly, so it's important to adapt quickly and learn new things.\n\n• Being Open to Learning: Always learning new skills allows you to keep up with the evolving world.";
+var ai_12_eng_s4u1_5_2 = "• How can you adapt in the rapidly changing world of technology? Discover which professions you can be more successful in with your ability to be flexible?\n\n• How can you continue to learn about new technologies? What new skills would you like to learn with your lifelong learning approach? How can you maintain these processes?";
+var ai_12_eng_s4u2_5_2 = "• How quickly can I adapt to new technologies and the changing business world? How do I react to changes?\n\n• How can I be flexible in the face of the rapid development of artificial intelligence? What steps should I take to be more harmonious in my work life?\n\n• How eager am I to improve myself? How active am I in keeping up with what's new in technology?\n\n• In which areas do I think I need to improve more? How can I continue learning in the world of AI?";
 
-var ai_25_eng_s3_6_1 = "Communication and Collaboration";
-var ai_25_eng_s3_6_2 = "• Bridging Technical and Human Language: The ability to explain complex information clearly is essential when working in the fields of AI and technology.\n\n• Teamwork: Collaborating, especially on multidisciplinary projects, is key to success in AI initiatives.";
-var ai_25_eng_s4u1_6_2 = "• In what projects can you take the lead or guide your teammates by simplifying complex technical information? In which fields do you think you could apply this skill?\n\n• In which interdisciplinary projects can you succeed with your teamwork skills? What goals do you plan to achieve through collaboration on AI projects?";
-var ai_25_eng_s4u2_6_2 = "• How successful am I in explaining technical topics to others? How skilled am I at simplifying and clarifying my knowledge?\n\n• What skills should I develop to express technical information more clearly to my teammates or clients?\n\n• How comfortable am I when sharing my ideas within a team? What skills do I need to develop to understand group dynamics and contribute effectively?\n\n• How can I collaborate better with team members on AI projects? How can I utilize my teammates' strengths more effectively?";
+var ai_12_eng_s3_6_1 = "Effective Communication and Collaboration";
+var ai_12_eng_s3_6_2 = "• Ability to Explain Information: Explaining the new things you have learned to others allows you to be effective in the group.\n\n• Collaboration: Working with people is key to succeeding, especially on projects.";
+var ai_12_eng_s4u1_6_2 = "• How can you be effective by simplifying your technical knowledge? What projects can you lead by explaining complex information in an understandable way? Discover where you can use this skill in business areas.\n\n• How can you improve your collaboration skills? How can you succeed in interdisciplinary projects with teamwork? What goals would you like to achieve by collaborating on AI projects?";
+var ai_12_eng_s4u2_6_2 = "• How good am I at explaining technical topics to others? How adept am I at making my own knowledge plain and understandable?\n\n• What skills should I develop to be able to express technical information more clearly to my teammates or customers?\n\n• How comfortable am I sharing ideas within the team? What skills should I develop to understand and contribute to group dynamics?\n\n• How can I better collaborate with team members on AI projects? How can I use my teammates' strengths more effectively?";
 
-var ai_25_eng_s3_7_1 = "Ethics and Social Responsibility";
-var ai_25_eng_s3_7_2 = "• AI Ethics: Being aware of the societal impacts of artificial intelligence, its role in decision-making processes, and its effects on individuals.\n\n• Social Responsibility: Understanding the implications of AI and using this technology to create social benefits enables individuals to develop not only technically but also ethically.";
-var ai_25_eng_s4u1_7_2 = "• In which areas can you make a difference with your awareness of ethical AI usage? Considering the social impacts of AI, what projects do you plan to participate in?\n\n• How can you create an impact in society by using AI technologies with a sense of social responsibility? How can you utilize this awareness in your school and career life?";
-var ai_25_eng_s4u2_7_2 = "• What are my ethical responsibilities when using AI? What can I do to manage these responsibilities better?\n\n• How can I benefit society and my environment when making ethical decisions in AI projects?\n\n• How can I enhance my social responsibility awareness in artificial intelligence projects? What AI projects can I contribute to for the betterment of society?\n\n• How can I turn the opportunities presented by AI technologies into societal benefits?";
+var ai_12_eng_s3_7_1 = "Social Responsibility and Ethical Values";
+var ai_12_eng_s3_7_2 = "• AI Ethics: Understanding the impact of AI on society and how it can be used responsibly allows you to become a more informed individual.\n\n• Social Responsibility: It is very important to use technology not only for yourself but also for others.";
+var ai_12_eng_s4u1_7_2 = "• What can you do about using AI ethically? Which projects do you plan to take part in, considering the social impact of AI? In which areas can you make a difference?\n\n• How can you use AI technologies for society? How can you use this awareness more effectively in your school and career life?";
+var ai_12_eng_s4u2_7_2 = "• What are my ethical responsibilities when using AI? What should I do to better manage these responsibilities?\n\n• When making ethical decisions in AI projects, how can I benefit society and my environment?\n\n• How can I improve my social responsibility awareness in artificial intelligence projects? What AI projects can I contribute to for the good of society?\n\n• How can I turn the opportunities brought by AI technologies into societal benefit??";
 
-var ai_25_eng_s3_8_1 = "Emotional Intelligence (EQ)";
-var ai_25_eng_s3_8_2 = "• Empathy and Emotional Understanding: It is important not to lose sight of human relationships and emotional awareness while working intensively with AI and technological tools. Emotional intelligence is invaluable for leadership and management skills.\n\n• Stress Management: Skills for coping with the stress brought about by continuous learning and adaptation in the AI and digital world should also be developed.";
-var ai_25_eng_s4u1_8_2 = "• How can your empathy help you better understand the needs of your coworkers or clients? How can you apply this skill in leadership or management positions?\n\n• With your competencies in stress management, how can you succeed in demanding and challenging projects? How can you further develop this skill in your career?";
-var ai_25_eng_s4u2_8_2 = "• How much importance do I place on interpersonal relationships when working with artificial intelligence and technology? How can I develop my empathy skills?\n\n• How much do I utilize emotional intelligence in technology projects? What can I do to be more empathetic in the workplace?\n\n• How do I cope with the stress brought on by continuous learning in the AI and digital world? What are my stress management strategies?\n\n• How do I relax during challenging projects? What skills do I need to develop in stress management?";
+var ai_12_eng_s3_8_1 = "Emotional Awareness and Communication";
+var ai_12_eng_s3_8_2 = "• Empathy: Understanding people's emotions helps you build strong relationships.\n\n• Coping with Stress: Keeping up with rapidly changing conditions in the digital world can sometimes create stress. Being able to cope with this stress keeps you healthier.";
+var ai_12_eng_s4u1_8_2 = "• How can you use your empathy skills? How can you develop this skill to better understand the needs of your colleagues or customers? How can you use it in leadership or management positions?\n\n•  How can you cope with stress? How can you improve your stress management skills so that you can succeed in challenging projects? How can you develop this skill over the course of your career?";
+var ai_12_eng_s4u2_8_2 = "• How much do I care about my human relationships when working with artificial intelligence and technology? How can I improve my empathy?\n\n• How much do I use my emotional intelligence in tech projects? What can I do to be more empathetic at work?\n\n• How do I deal with the stress of continuous learning in the AI and digital world? What are my strategies for coping with stress?\n\n• How do I relax myself in challenging projects? What skills should I develop in stress management?";
 
-var ai_25_eng_s3_9_1 = "Innovative and Entrepreneurial Thinking";
-var ai_25_eng_s3_9_2 = "• Entrepreneurship: The ability to develop innovative business ideas in the age of AI and bring those ideas to life.\n\n• Risk-Taking and Experimentation: AI and technological innovations often involve uncertainty. Therefore, individuals should be willing to take risks and open to experimental thinking.";
-var ai_25_eng_s4u1_9_2 = "• With your entrepreneurial mindset, what innovative business ideas can you bring to life in the age of AI? What steps do you plan to take to realize these ideas?\n\n• How courageous are you in taking risks and experimenting? How can you turn this courage into opportunities in your school projects or professional life?";
-var ai_25_eng_s4u2_9_2 = "• How willing am I to develop innovative business ideas related to artificial intelligence? What steps am I taking to initiate new projects?\n\n• What opportunities am I exploring to enhance my entrepreneurial skills? What job opportunities do I see in AI projects?\n\n• How open am I to experimental thinking? What strategies do I apply to test new ideas?\n\n• How do I make decisions when dealing with uncertainties? How can I evaluate the opportunities that come with taking risks?";
+var ai_12_eng_s3_9_1 = "Creative Thinking and Entrepreneurship";
+var ai_12_eng_s3_9_2 = "• Creativity and Entrepreneurship: Being able to develop innovative ideas and bring them to life makes you strong in the business world.\n\n• Taking Risks and Experimenting: Trying new things sometimes requires taking risks. This courage sets you apart and creates great opportunities.";
+var ai_12_eng_s4u1_9_2 = "• How can you develop innovative business ideas? With your entrepreneurial thinking ability, what business ideas can you bring to life in the age of AI? Think about what steps you need to take to realize these ideas.\n\n• Are you afraid to take risks? How can you turn your courage to take risks and experiment into opportunities in school projects or in your career?";
+var ai_12_eng_s4u2_9_2 = "• How enthusiastic am I about developing innovative business ideas related to artificial intelligence? What steps do I take to start new projects?\n\n• What opportunities do I take to develop my entrepreneurial skills? What job opportunities can I see in AI projects?\n\n• How open am I to experimental thinking? What strategies do I use to test new ideas?\n\n• How do I make decisions when dealing with uncertainties? How can I seize the opportunities that come with taking risks?";
+
+//25+
+var ai_25_eng_s3_1_1 = "Digital Skills and Communication";
+var ai_25_eng_s3_1_2 = "• Basic Digital Skills: Being able to use computers effectively and having basic knowledge of software and hardware is an important step for you to be successful in the digital world. These skills can make your daily life easier and give you an edge in your professional life.\n\n• Artificial Intelligence Basics: AI is integrating into every aspect of our lives. Understanding what AI is, how it works, and how it shapes our lives is becoming increasingly important for you to use technology more efficiently.";
+var ai_25_eng_s4u1_1_2 = "• In which areas can you make a difference with your computer and technology skills? If you are thinking about how you can use these skills in your business life, discover in which projects you can use these skills more effectively.\n\n• Do you deepen your basic knowledge of AI and think in which professions artificial intelligence will be important in the future? What kind of career can you plan in these fields?";
+var ai_25_eng_s4u2_1_2 = "• What basic computer skills do I have, and what can I do to improve them?\n\n• How do I use technology in my daily life? Do I only use technology as a consumer, or can I also be a producer?\n\n• What do I know about artificial intelligence? How much time have I spent understanding how AI has impacted my life?\n\n• Am I excited to learn about AI and the opportunities it presents? What steps can I take to improve myself in this area?";
+
+var ai_25_eng_s3_2_1 = "Data Understanding and Decision Making";
+var ai_25_eng_s3_2_2 = "• Data Analysis: The ability to collect, analyze, and draw meaningful conclusions from data is becoming more important every day. This skill will allow you to understand complex information and make the right decisions.\n\n• Data Security and Privacy: In the digital world, it is very important to protect your personal information safely. Knowing about data security gives you a safer experience in the digital environment.";
+var ai_25_eng_s4u1_2_2 = "• How can you use your ability to analyze data in your business life? How do you think making data-driven decisions will benefit you?\n\n• How conscious are you about data security and privacy? How can you use this knowledge in your company or your own venture?";
+var ai_25_eng_s4u2_2_2 = "• How do I use the data when I encounter a problem? How does making data-driven decisions make my job easier?\n\n• How do I protect my personal data? What steps do I take to ensure my privacy online?\n\n• How much do I know about online security and data privacy? How can I increase my awareness of vulnerabilities?\n\n• Am I aware of my responsibility to protect personal and others' data? What behaviors do I need to improve in this regard?";
+
+var ai_25_eng_s3_3_1 = "Software and Technology Applications";
+var ai_25_eng_s3_3_2 = "• Programming Languages: Learning basic programming languages such as Python and JavaScript will help you succeed in technology-related projects. This skill allows you to connect more closely with AI developments and digital innovations.\n\n• Creative Solution Generation: The  ability to develop different and innovative solutions makes you more effective in every field. Creating solutions using your creativity in the fields of AI and technology offers you many opportunities.";
+var ai_25_eng_s4u1_3_2 = "• How can you use your programming skills in business and lead different projects? Which programming languages do you think will help you achieve your career goals?\n\n• How can you solve the problems you encounter with more systematic solutions with your algorithmic thinking skills? In which professions can you use this skill to your advantage in the future?";
+var ai_25_eng_s4u2_3_2 = "• What is my level of interest in learning programming languages? Where do I start when I'm thinking about learning a new language?\n\n• In which areas can I further develop my programming knowledge? Which languages should I learn to be more effective in my current projects?\n\n• What steps do I follow to solve the problems? How advanced are my logical thinking skills?\n\n• What tools can I use to improve my algorithmic thinking skills? How can I use this skill better in my work or education life?";
+
+var ai_25_eng_s3_4_1 = "Critical Thinking and Solution Generation";
+var ai_25_eng_s3_4_2 = "• Analytical Thinking: Being able to draw meaningful conclusions from data will be an important competency for you. Analytical thinking empowers you to solve complex problems.\n\n• Creative Problem Solving: The ability to generate innovative and creative solutions, particularly in the fields of AI and technology, provides a significant advantage.";
+var ai_25_eng_s4u1_4_2 = "• In which areas can you develop and use your analytical thinking skills and the ability to make sense of data or events? What career opportunities do you think this skill will offer you in the future?\n\n• In which projects or areas of work do you think you can make a difference by using your creative problem-solving skills? How can you further develop this skill?";
+var ai_25_eng_s4u2_4_2 = "• How do I approach things when making decisions? How analytically am I about considering different options?\n\n• What resources do I use to improve my analytical thinking skills? What strategy do I follow against difficult problems?\n\n• How can I develop creative thinking? How can I learn to look at it from different perspectives?\n\n• How eager am I to create more innovative solutions using technology and AI?";
+
+var ai_25_eng_s3_5_1 = "Adaptation to Change and Continuous Improvement";
+var ai_25_eng_s3_5_2 = "• Flexibility: It is very important to be able to adapt quickly in the ever-changing world of technology and business. Adapting to new technologies and learning about evolving systems will make you future-proof..\n\n• Lifelong Learning: Technology is advancing rapidly, and constantly learning new things allows you to keep up with these advances. Continuous learning and self-improvement offer great benefits in your professional life.";
+var ai_25_eng_s4u1_5_2 = "• How can you adapt in a rapidly changing world of technology? In which professions do you think you can be more successful with your ability to be flexible?\n\n• Which new technologies do you plan to learn with your lifelong learning approach? How can you continue this learning process throughout your career?";
+var ai_25_eng_s4u2_5_2 = "• How quickly can I adapt to new technologies and the changing business world? How do I react to changes?\n\n• How can I be flexible in the face of the rapid development of artificial intelligence? What steps should I take to be more harmonious in my work life?\n\n• How eager am I to improve myself? How active am I in keeping up with what's new in technology?\n\n• In which areas do I think I need to improve more? How can I continue learning in the world of AI?";
+
+var ai_25_eng_s3_6_1 = "Effective Communication and Collaboration";
+var ai_25_eng_s3_6_2 = "• Ability to Share Knowledge: Being able to express information about technology and AI in a simple and understandable way is a powerful skill. Being able to convey complex information to others makes it easier to collaborate.\n\n• Collaboration: Collaborating effectively on multidisciplinary projects is one of the keys to achieving success. Being able to work with people makes you stand out on larger projects.";
+var ai_25_eng_s4u1_6_2 = "• Which projects can you lead or guide your teammates with your ability to explain complex technical information in a simple way? In which areas of business do you think you can use this skill?\n\n• What interdisciplinary projects can you succeed in with your collaboration skills? What goals do you plan to achieve by collaborating on AI projects?";
+var ai_25_eng_s4u2_6_2 = "• How good am I at explaining technical topics to others? How adept am I at making my own knowledge plain and understandable?\n\n• What skills should I develop to be able to express technical information more clearly to my teammates or customers?\n\n• How comfortable am I sharing ideas within the team? What skills should I develop to understand and contribute to group dynamics?\n\n• How can I better collaborate with team members on AI projects? How can I use my teammates' strengths more effectively?";
+
+var ai_25_eng_s3_7_1 = "Social Responsibility and Ethical Values";
+var ai_25_eng_s3_7_2 = "• AI Ethics: Understanding the societal implications and decision-making processes of AI helps you develop an ethical perspective. Using AI technologies responsibly benefits society.\n\n• Social Responsibility: Becoming aware of the societal impact of AI enables you to use technology in a way that creates social good. This makes you a more responsible individual, not only professionally, but also socially.";
+var ai_25_eng_s4u1_7_2 = "• In which areas can you make a difference with your awareness of the ethical use of artificial intelligence? Considering the social impact of AI, which projects do you plan to be involved in?\n\n• How can you make an impact on society by using AI technologies in a socially responsible manner? How can you use this awareness in your school and career life?";
+var ai_25_eng_s4u2_7_2 = "• What are my ethical responsibilities when using AI? What should I do to better manage these responsibilities?\n\n• When making ethical decisions in AI projects, how can I benefit society and my environment?\n\n• How can I improve my social responsibility awareness in artificial intelligence projects? What AI projects can I contribute to for the good of society?\n\n• How can I turn the opportunities brought by AI technologies into societal benefit?";
+
+var ai_25_eng_s3_8_1 = "Emotional Awareness and Communication";
+var ai_25_eng_s3_8_2 = "• Empathy and Emotional Understanding: When dealing with technology, it's crucial not to lose sight of human relationships and emotional awareness. Empathy makes you strong in your relationships with people.\n\n• Coping with Stress: Stress management is important in order to cope with the speed and change brought by the digital world. This skill allows you to achieve a healthier balance in your work life.";
+var ai_25_eng_s4u1_8_2 = "• How can you empathize and better understand the needs of your colleagues or customers? How can you use this skill in leadership or management positions?\n\n• How can you succeed in intense and challenging projects with your stress management competencies? How can you develop this skill in your career?";
+var ai_25_eng_s4u2_8_2 = "• How much do I care about my human relationships when working with artificial intelligence and technology? How can I improve my empathy?\n\n• How much do I use my emotional intelligence in tech projects? What can I do to be more empathetic at work?\n\n• How do I deal with the stress of continuous learning in the AI and digital world? What are my strategies for coping with stress?\n\n• How do I relax myself in challenging projects? What skills should I develop in stress management?";
+
+var ai_25_eng_s3_9_1 = "Creative Thinking and Entrepreneurship";
+var ai_25_eng_s3_9_2 = "• Entrepreneurship: In the age of AI, generating innovative business ideas and bringing these ideas to life offers you opportunities. Entrepreneurship allows you to develop a strong vision in the business world.\n\n• Risk-Taking and Experimental Thinking: As innovative technologies and AI evolve, sometimes you may need to take risks. Trying new things and boldly navigating uncertain terrain will make you successful.";
+var ai_25_eng_s4u1_9_2 = "• What innovative business ideas can you bring to life in the age of AI with your entrepreneurial thinking skills? What steps do you plan to take to realize these ideas?\n\n• How courageous are you to take risks and experiment? How can you turn this courage into opportunities in school projects or in your business life?";
+var ai_25_eng_s4u2_9_2 = "• How enthusiastic am I about developing innovative business ideas related to artificial intelligence? What steps do I take to start new projects?\n\n• What opportunities do I take to develop my entrepreneurial skills? What job opportunities can I see in AI projects?\n\n• How open am I to experimental thinking? What strategies do I use to test new ideas?\n\n• How do I make decisions when dealing with uncertainties? How can I seize the opportunities that come with taking risks?";
 
 //Ekip Çalışmasına Yatkınlık
 var teamwork_name_1_1 = "Aktif Dinleme ve Empati";
@@ -4787,52 +4909,52 @@ var decision_strategy_ozet_11_1 = "Karar Verme Stratejin: Yansıt, Değerlendir 
 var decision_strategy_ozet_11_2 = "Senin karar verme sürecin, zamanla derinleşen bir değerlendirmeyi gerektirir. Kendine yaklaşık bir ay kadar düşünme alanı tanımak, çevrenden yansıyanları gözlemlemek ve başkalarıyla fikir alışverişinde bulunmak, doğru kararları vermen için en sağlıklı yoldur.";
 
 //Karar Verme Stratejilerin İngilizce
-var decision_strategy_eng_s3_1_0 = "Karşılık Ver ve Netlikle Karar Al";
-var decision_strategy_eng_s3_1_1 = "Wait to Respond then Wait for Clarity";
-var decision_strategy_eng_s3_1_2 = "Your decision-making strategy revolves around two key aspects: listening to your gut response and then patiently waiting for clarity to emerge. Your gut serves as a valuable guide, signaling whether you have the energy to commit to a particular course of action. However, it's essential to recognize that responses can be influenced by the mind, especially when feelings of urgency or pressure arise. Therefore, it's crucial to wait for these pressures to subside and seeking clarity.";
-var decision_strategy_eng_s3_1_3 = "Gut Response: Once life has brought something to you, your gut response will manifest as either an \"ah-huh\" (yes), a \"uhn-un\" (no), or a \"hmmmmm\" (no for now or ask me in another way). Pay attention to these subtle signals, but be cautious of making decisions solely based on immediate gut reactions.";
-var decision_strategy_eng_s3_1_4 = "Wait for Clarity: Rather than rushing into action, allow yourself the time and space to wait for clarity to emerge. Avoid making decisions during emotional highs or lows and instead sleep on it before making important choices. This patience allows you to discern with a calm, certain confidence.";
-var decision_strategy_eng_s4_1_text = "Acting from the mind can lead to second-guessing your gut responses, feeling anxious, and missing out on opportunities. In contrast, acting from response and clarity involves actively waiting for life to come towards you and trusting your gut's guidance while also seeking emotional clarity before making decisions.";
-var decision_strategy_eng_s4_1_1 = "1.Actively Wait: Be receptive to life's cues and signals, allowing yourself to observe without immediate action.\nRespond: Listen for your gut's response – an \"ah-huh\" for yes, a \"uhn-un\" for no, or a \"hmmmmm\" for not now.\n2.Wait for Clarity: Sleep on it and allow yourself to feel out your emotional wave. Avoid making decisions during heightened emotional states.\n3.Decide: Based on your gut response and emotional clarity, make a decision – yes, no, or not now.\n4.Act or Not: Finally, take action or refrain from action based on your decision, trusting in the wisdom of your gut instincts and emotional clarity.";
-var decision_strategy_eng_s4_1_txt = "By adhering to this decision-making strategy, you can navigate through choices with patience, discernment, and confidence, leading to greater success and fulfillment in your career and business endeavors.";
+var decision_strategy_eng_s3_1_0 = "Respond and Make Decisions with Clarity";
+var decision_strategy_eng_s3_1_1 = "Wait to Respond and Be Patient for Clarity";
+var decision_strategy_eng_s3_1_2 = "Your decision-making strategy is based on two key elements: Listening to your inner response (which you can feel in your belly) and then patiently waiting for clarity to emerge. Your inner response is a valuable guide to whether or not you have the energy to take a particular action. However, it is important to note that their responses can be influenced by the mind, especially when it feels urgency or pressure. That's why it's so important to wait for these pressures to ease and get clarity.";
+var decision_strategy_eng_s3_1_3 = "Inner Response (You may feel it right in your belly): When life presents you with an opportunity, your inner response manifests itself as \"uh-huh\" (yes), \"uh-huh\" (no), or \"um\" (ask no for now, or otherwise). Your energy may increase or decrease in this area. Pay attention to these subtle signals, but avoid making decisions based solely on immediate instinctual reactions.";
+var decision_strategy_eng_s3_1_4 = "Wait for Clarity: Instead of rushing into action, give yourself time and space for clarity to emerge. Avoid making decisions during emotional ups and downs and give yourself time before making important choices. This patience allows you to make decisions calmly and confidently.";
+var decision_strategy_eng_s4_1_text = "Acting with the mind  can lead to questioning your inner response, feeling anxiety, and missing out on opportunities. Acting with response and based on clarity involves waiting for life to come to you, trusting your inner reaction, and finding emotional clarity before making a decision.";
+var decision_strategy_eng_s4_1_1 = "1.Active Wait: Be open to the signs and signals that life gives you, observe without rushing into action.\n2.Respond: Listen to the response of the inner response – \"uh-huh\" for yes, \"uh-huh\" for no, or \"um\" for not yet. You may feel that your energy is increasing or not increasing in this regard.\n3.Wait for Clarity: Lie on it for a night and allow yourself to feel emotional clarity. Avoid making decisions in high emotional states.\n4.Decide: Decide based on your inner response and emotional clarity – yes, no, or not for now.\n5.Take Action or Not: Finally, act or not act on your decision; trust in the wisdom of your inner response and emotional clarity.";
+var decision_strategy_eng_s4_1_txt = "By adhering to this decision-making strategy, you can make your choices with patience, common sense, and confidence. This, in turn, can lead to greater success and fulfillment in your career and business life.";
 var decision_strategy_eng_ozet_1_1 = "Your Decision-Making Strategy: Respond and Make Decisions with Clarity";
 var decision_strategy_eng_ozet_1_2 = "The right decision for you comes when you listen to your instinctive response to life's opportunities and then wait patiently for it to become clear. Waiting for the emotional fluctuations to subside before taking action will allow your choices to bring you peace and confidence.";
 
-var decision_strategy_eng_s3_2_0 = "Karşılık Vermek için Bekle ve İçgüdülerini Takip Et";
-var decision_strategy_eng_s3_2_1 = "Wait to Respond then Follow Your Gut";
-var decision_strategy_eng_s3_2_2 = "Your decision-making strategy revolves around two key aspects: waiting to respond and following your gut. Your gut serves as a powerful indicator of whether you have the energy and inclination to commit to a particular course of action. However, it responds only to yes or no questions, so it's crucial to frame your inquiries accordingly.";
+var decision_strategy_eng_s3_2_0 = "Wait to Respond and Follow Your Inner Reaction";
+var decision_strategy_eng_s3_2_1 = "Wait to Respond and Follow Your Inner Reaction";
+var decision_strategy_eng_s3_2_2 = "Your decision-making strategy is based on two key elements: waiting to respond and following your internal reaction (which you can feel in your belly). Your internal reaction strongly indicates whether you have the energy and inclination to take a particular action. However, this internal response only responds to yes or no questions, so it's important to tailor your questions accordingly.";
 var decision_strategy_eng_s3_2_3 = "Wait To Respond: Rather than impulsively jumping into action, allow yourself the space to wait and observe. Be actively aware of life coming towards you in various forms – a question, an email, a person, or even a sound. Trust that life will present opportunities to you when the time is right.";
-var decision_strategy_eng_s3_2_4 = "Follow Your Gut: Your gut response will manifest as either an \"ah-huh\" (yes), a \"uhn-un\" (no), or a \"hmmmmm\" (no for now or ask me in another way). Pay attention to the sensations in your body – whether you feel drawn towards something with excitement or experience a knot in your stomach indicating unease.";
-var decision_strategy_eng_s4_2_text = "Acting from the mind can lead to second-guessing your gut instincts, feeling anxious, and missing out on opportunities. In contrast, acting from response involves actively waiting for life to come towards you and trusting your gut's guidance. Surrender to the unfolding magic of life and allow yourself to be pulled towards what resonates with you and away from what doesn't.";
+var decision_strategy_eng_s3_2_4 = "Follow Your Inner Reaction: Your internal reactions manifest as either \"uh-huh\" (yes), \"uh-huh\" (no), or \"hmm\" (no for now, or ask in some other way). Pay attention to the sensations in your body (in the abdomen) – do you feel excitedly drawn to something, or do you have a knot feeling in your stomach?";
+var decision_strategy_eng_s4_2_text = "Acting from the mind  can cause you to question your inner reactions, feel anxious, and miss opportunities. Waiting to reciprocate involves waiting for life to come to you and trusting the guidance of your inner reactions. Surrender to the magic of life and allow yourself to be drawn towards the things that excite you and move away from the things that are not.";
 var decision_strategy_eng_s4_2_1 = "1.Actively Wait: Be receptive to life's cues and signals, whether they come in the form of questions, interactions, or experiences.\n2.Respond: Listen for your gut's response – an \"ah-huh\" for yes, a \"uhn-un\" for no, or a \"hmmmmm\" for not now.\n3.Decide: Based on your gut's response, make a decision – yes, no, or not now. Be wary of the mind's interference at this stage.\n4.Act or Not: Finally, take action or refrain from action based on your decision, trusting in the wisdom of your gut instincts.";
 var decision_strategy_eng_s4_2_txt = "By adhering to this decision-making strategy, you can navigate through choices with clarity, confidence, and authenticity, leading to greater success and fulfillment in your career and business endeavors";
 var decision_strategy_eng_ozet_2_1 = "Your Decision-Making Strategy: Inform Before You Take Action";
 var decision_strategy_eng_ozet_2_2 = "The decisions that are right for you occur by informing those around you and following your inner impulse before taking action. Sharing your decisions reduces the resistance you may encounter and allows you to be supported as you act independently.";
 
-var decision_strategy_eng_s3_3_0 = "Tanınma ve Davet Al, Netlik ile Karar Al";
+var decision_strategy_eng_s3_3_0 = "Get Recognition and Invitation, Make Decisions with Clarity";
 var decision_strategy_eng_s3_3_1 = "Wait for Recognition, Invitation, and Clarity";
 var decision_strategy_eng_s3_3_2 = "Your decision-making strategy centers on waiting for recognition, invitation, and then waiting for emotional clarity to emerge before taking action. By patiently observing and trusting the process, you can ensure that your decisions are made at the right time and are aligned with your emotional truth.";
-var decision_strategy_eng_s3_3_3 = "Wait for Recognition & Invitation: Exercise patience and trust as you wait for recognition and an invitation to emerge. Be selective and attentive, especially in crucial areas of life such as love, career, relationships, and living arrangements.";
-var decision_strategy_eng_s3_3_4 = "Wait for Emotional Clarity: Once recognized and invited, allow yourself the time to attain emotional clarity before proceeding. Avoid making decisions during emotional highs or lows and wait for the calm certainty that signifies the right timing for action.";
+var decision_strategy_eng_s3_3_3 = "Wait for Recognition and Invitation: Be patient and be safe while waiting for recognition or an invitation . You need to be selective and careful in important areas of your life, especially in areas such as love, career, relationships, and life arrangements.";
+var decision_strategy_eng_s3_3_4 = "Wait for Emotional Clarity: Once  you've been recognized or received an invitation, give yourself time to achieve emotional clarity before taking action. Avoid making decisions during emotional fluctuations and wait for calm confidence to emerge, indicating that the time is right.";
 var decision_strategy_eng_s4_3_text = "Acting from the mind can lead to impulsivity, doubt, and missed opportunities, while waiting for recognition, invitation, and clarity allows you to trust in the silent magic of your chemistry and opportunities.";
-var decision_strategy_eng_s4_3_1 = "1.Actively Wait for Recognition & an Invitation: Exercise patience and keen observation as you wait for recognition and an invitation to present themselves. Trust in the process and be selective in your choices.\n2.Wait for Clarity: Once recognized and invited, take the time to sleep on it and feel out your emotional wave. Avoid making decisions based on emotional impulses and wait for the calm confidence that signals clarity.\n3.Decide: Based on your emotional clarity, make a decision – yes, no, or not now – that aligns with your truth and intuition.\n4.Act or Not: Proceed with confidence if the decision feels right, or refrain from action if further contemplation is needed.";
+var decision_strategy_eng_s4_3_1 = "1.Actively Wait for Recognition & an Invitation: Exercise patience and keen observation as you wait for recognition or an invitation to present themselves. Trust in the process and be selective in your choices.\n2.Wait for Clarity: Once recognized and invited, take the time to sleep on it and feel out your emotional wave. Avoid making decisions based on emotional impulses and wait for the calm confidence that signals clarity.\n3.Make a Decision: Based on your emotional clarity, make your decision – yes, no, or  not now – in a way that aligns with your own truth and intuition.\n4.Take Action or Don't Act: If your decision feels right, act with confidence, if not,  wait for emotional clarity.";
 var decision_strategy_eng_s4_3_txt = "By adhering to this decision-making strategy, you can navigate through choices with patience, trust, and emotional clarity, ensuring that your actions are aligned with your true intentions and leading to greater fulfillment and success.";
 var decision_strategy_eng_ozet_3_1 = "Your Decision-Making Strategy: Get Recognition and Invitation, Make Decisions with Clarity";
 var decision_strategy_eng_ozet_3_2 = "The right decisions come for you when they come with an invitation and become emotionally clear. Letting your emotions fluctuate and waiting for clarity allows you to make choices that satisfy you in the long run.";
 
-var decision_strategy_eng_s3_4_0 = "Tanınma ve Davet Al, İçgüdülerini Takip Et";
+var decision_strategy_eng_s3_4_0 = "Get Recognition and Invitation, Follow Your Instincts";
 var decision_strategy_eng_s3_4_1 = "Wait for Recognition, Invitation, and Follow Your Instincts";
 var decision_strategy_eng_s3_4_2 = "Your decision-making strategy revolves around patiently awaiting recognition and invitation, and then following your instincts to determine the right course of action. By staying attuned to your senses and trusting your spontaneous knowing, you can navigate decisions with confidence and authenticity.";
-var decision_strategy_eng_s3_4_3 = "Wait for Recognition & Invitation: Exercise patience and trust as you wait for recognition and an invitation to unfold. Pay attention to subtle cues and be selective in your choices, especially in critical areas like love, career, relationships, and living arrangements.";
-var decision_strategy_eng_s3_4_4 = "Follow Your Instincts: Once recognized and invited, trust your instincts to guide you in the moment. Stay present and attuned to your body's subtle sensations, allowing your spontaneous knowing to inform your decisions.";
+var decision_strategy_eng_s3_4_3 = "Wait for Recognition or Invitation: Exercise patience and trust as you wait for recognition and an invitation to unfold. Pay attention to subtle cues and be selective in your choices, especially in critical areas like love, career, relationships, and living arrangements.";
+var decision_strategy_eng_s3_4_4 = "Follow Your Instincts: Once recognized or invited, trust your instincts to guide you in the moment. Stay present and attuned to your body's subtle sensations, allowing your spontaneous knowing to inform your decisions.";
 var decision_strategy_eng_s4_4_text = "Acting from the mind can lead to doubt, anxiety, and missed opportunities, while following recognition, invitation, and instincts allows you to trust in the silent magic of your chemistry and opportunities.";
-var decision_strategy_eng_s4_4_1 = "1.Actively Wait for Recognition & an Invitation: Exercise patience and keen observation as you await recognition and invitation. Trust in the process and remain selective in your choices.\n2.Follow Your Instincts: Once recognized and invited, trust your instincts in the moment. Stay present and attuned to your body's sensations, allowing your spontaneous knowing to guide your decisions. Remember, instinctive knowing speaks softly and subtly, often during noise and activity. Stay present and receptive to its guidance, even in the busiest of moments. Trust that your body is attuned to what is right for you and allow its wisdom to inform your decisions as you navigate through life's twists and turns. With practice, you'll learn to harness the power of instinctive knowing wherever you are, leading to greater clarity and confidence in your choices.\n3.Decide: Based on your instincts and intuitive knowing, make a decision – yes, no, or not now – that resonates with your truth.\n4.Act or Not: Proceed with confidence if the decision feels right, or refrain from action if further contemplation is needed.";
+var decision_strategy_eng_s4_4_1 = "1.Actively Wait for Recognition & an Invitation: Exercise patience and keen observation as you await recognition and invitation. Trust in the process and remain selective in your choices.\n2.Follow Your Instincts: Once recognized or invited, trust your instincts in the moment. Stay present and attuned to your body's sensations, allowing your spontaneous knowing to guide your decisions. Remember, instinctive knowing speaks softly and subtly, often during noise and activity. Stay present and receptive to its guidance, even in the busiest of moments. Trust that your body is attuned to what is right for you and allow its wisdom to inform your decisions as you navigate through life's twists and turns. With practice, you'll learn to harness the power of instinctive knowing wherever you are, leading to greater clarity and confidence in your choices.\n3.Decide: Based on your instincts and intuitive knowing, make a decision – yes, no, or not now – that resonates with your truth.\n4.Act or Not: Proceed with confidence if the decision feels right, or refrain from action if further contemplation is needed.";
 var decision_strategy_eng_s4_4_txt = "By adhering to this decision-making strategy, you can navigate through choices with patience, trust, and authenticity, ensuring that your actions are aligned with your true instincts and leading to greater fulfillment and success.";
 var decision_strategy_eng_ozet_4_1 = "Your Decision-Making Strategy: Get Recognition and Invitation, Follow Your Instincts";
 var decision_strategy_eng_ozet_4_2 = "The right decision is made when he is recognized by an invitation and receives an instinctive feeling of yes. Your body's instantaneous reactions can be a solid guide for you; So be careful to hear your intuition.";
 
-var decision_strategy_eng_s3_5_0 = "Tanınma ve Davet Al, İradeli Kararlılığını Takip Et";
-var decision_strategy_eng_s3_5_1 = "Wait for Recognition, Invitation, and Follow Your Willful Determination";
+var decision_strategy_eng_s3_5_0 = "Get Recognition and Invitation, Follow Your Willful Determination";
+var decision_strategy_eng_s3_5_1 = "Wait for Recognition, Invitation, and Follow Your Will";
 var decision_strategy_eng_s3_5_2 = "Your decision-making strategy centers on patiently awaiting recognition and invitation, then following your willful determination to guide your actions. By prioritizing your desires and assessing your commitment, you can ensure that your decisions align with your true intentions and lead to fulfillment.";
 var decision_strategy_eng_s3_5_3 = "Wait for Recognition & Invitation: Exercise patience and trust as you wait for recognition and an invitation to unfold. Be selective and attentive, especially in crucial life domains like love, career, relationships, and living arrangements.";
 var decision_strategy_eng_s3_5_4 = "Follow Your Willful Determination: Once recognized and invited, assess your willful determination to discern your level of commitment and desire. Be selfish in asking, \"What do I want?\" and \"What is in it for me?\" Ensure that your heart is fully invested to maintain your well-being and balance.";
@@ -4842,21 +4964,21 @@ var decision_strategy_eng_s4_5_txt = "By adhering to this decision-making strate
 var decision_strategy_eng_ozet_5_1 = "Your Decision-Making Strategy: Get Recognition and Invitation, Follow Your Willful Determination";
 var decision_strategy_eng_ozet_5_2 = "Your decision journey has a structure that begins with recognition and is shaped by the strong determination within you. When you commit to your goals and focus on what really motivates you, you can see the right decisions more clearly.";
 
-var decision_strategy_eng_s3_6_0 = "Tanınma ve Davet Al, Söylediklerini Dinle";
-var decision_strategy_eng_s3_6_1 = "Wait for Recognition, Invitation, and Listen to What You Say";
-var decision_strategy_eng_s3_6_2 = "Your decision-making strategy revolves around patiently waiting for recognition and invitation, then attentively listening to your own voice as you speak to a few people you trust to hear what you are saying. By engaging in self-reflection and trusting your inner wisdom, you can ensure that your decisions are authentic and aligned with your true desires.";
-var decision_strategy_eng_s3_6_3 = "Wait for Recognition & Invitation: Exercise patience and trust as you await recognition and an invitation to unfold. Be selective and attentive, particularly in significant life domains such as love, career, relationships, and living arrangements.";
+var decision_strategy_eng_s3_6_0 = "TGet Recognition and Invitation, Listen to What They Have to Say";
+var decision_strategy_eng_s3_6_1 = "Wait for Recognition, Invitation, and Listen to What They Have to Say";
+var decision_strategy_eng_s3_6_2 = "Your decision-making strategy is based on patiently waiting for recognition or an invitation, then listening carefully to your own voice by talking to a few people you trust. By reflecting on yourself and  trusting your inner wisdom, you can ensure that your decisions are authentic and aligned with your true desires.";
+var decision_strategy_eng_s3_6_3 = "Wait for Recognition or Invitation:  Trust the process while patiently waiting for the recognition or invitation to appear. Be selective and careful, especially in important areas of life such as love, career, relationships, and life arrangements.";
 var decision_strategy_eng_s3_6_4 = "Listen to What You Say: Once recognized and invited, engage in conversations with trusted individuals, not for their advice, but to listen to your own voice. Pay attention to how decisions resonate with you, whether they align with your happiness, self-expression, and personal direction.";
 var decision_strategy_eng_s4_6_text = "Your decision-making strategy revolves around patiently waiting for recognition and invitation, then attentively listening to your own voice as you speak to a few people you trust to hear what you are saying. By engaging in self-reflection and trusting your inner wisdom, you can ensure that your decisions are authentic and aligned with your true desires.";
-var decision_strategy_eng_s4_6_1 = "Dökümanda bulunmuyor.";
-var decision_strategy_eng_s4_6_txt = "Dökümanda bulunmuyor.";
+var decision_strategy_eng_s4_6_1 = "1.Be Recognized or Invite Active Wait: Be patient, observe, and trust the process while you wait to be recognized. Be selective, making sure that the opportunities align with your true desires.\n2.Listen to What They Have to Say: When conversing with people you trust, focus on your own voice, not their advice. Think about whether your decisions make you happy and if they align with your personal direction.\n3.Decide: In line with your  own reflection and inner wisdom, decide yes, no, or not for now, and let that decision reflect your true desires and intentions.\n4.Take Action or Not: If your decision aligns with your true desires and resonates with your inner voice, take action with confidence. If you feel the need to think more, avoid the action.";
+var decision_strategy_eng_s4_6_txt = "By staying true to this decision-making strategy, you can confidently act on your inner awareness, authenticity, and inner wisdom, ensuring that your decisions align with your true desires, achieving greater fulfillment and success.";
 var decision_strategy_eng_ozet_6_1 = "Your Decision-Making Strategy: Get Recognition and Invitations, Listen to What They Have to Say";
 var decision_strategy_eng_ozet_6_2 = "Being recognized, and then listening to what you have to say, is central to your decision-making process. When you speak, you can gain clarity through what you say and realize the right direction in this way.";
 
-var decision_strategy_eng_s3_7_0 = "Tanınma ve Davet Al, Kendi Söylediklerini Dinle";
-var decision_strategy_eng_s3_7_1 = "Wait for Recognition, Invitation, and Listen to What You Say";
-var decision_strategy_eng_s3_7_2 = "Your decision-making strategy revolves around patiently waiting for recognition and invitation, then engaging in conversations with trusted individuals to listen to your own voice. By focusing on self-reflection and environmental sensitivity, you can ensure that your decisions are aligned with your authentic desires and intentions.";
-var decision_strategy_eng_s3_7_3 = "Wait for Recognition & Invitation: Exercise patience and trust as you await recognition and an invitation to unfold. Pay attention to the atmosphere and ensure it feels correct, as you are sensitive to environmental cues.";
+var decision_strategy_eng_s3_7_0 = "Get Recognition and Invitation, Listen to What You Have to Say";
+var decision_strategy_eng_s3_7_1 = "Wait for Recognition, Invitation, and Listen to What They Have to Say";
+var decision_strategy_eng_s3_7_2 = "Your decision-making strategy is based on patiently waiting for recognition or an invitation , then listening to your own voice in conversations with people you trust. By focusing on self-reflection and environmental sensitivity, you can ensure that your decisions align with your authentic desires and intentions.";
+var decision_strategy_eng_s3_7_3 = "Wait for Recognition or Invitation: Exercise patience and trust as you await recognition and an invitation to unfold. Pay attention to the atmosphere and ensure it feels correct, as you are sensitive to environmental cues.";
 var decision_strategy_eng_s3_7_4 = "Listen to What You Say: Engage in conversations with trusted individuals not for advice, but to listen to your own voice. Reflect on whether decisions align with your happiness, self-expression, and personal direction, while bouncing ideas off different people to gain perspective.";
 var decision_strategy_eng_s4_7_text = "Acting from the mind may lead to doubt, anxiety, and missed opportunities, while following recognition, invitation, and listening empowers you to trust in the silent wisdom of your inner voice and environmental cues.";
 var decision_strategy_eng_s4_7_1 = "1.Actively Wait for Recognition & an Invitation: Exercise patience, observation, and trust as you await recognition and invitation. Pay attention to the environment and ensure it feels correct, as you are sensitive to atmospheric cues.\n2.Listen to What YOU Say: Engage in conversations with trusted individuals as sounding boards, focusing on listening to your own voice. Reflect on whether decisions align with your happiness, self-expression, and personal direction, while seeking different perspectives to gain clarity.\n3.Decide: Based on your reflections and inner wisdom, make a decision – yes, no, or not now – that reflects your authentic desires and intentions, considering both your emotional responses and environmental cues.\n4.Act or Not: Proceed with confidence if decisions align with your true desires and resonate with your inner voice and environmental cues. Refrain from action if further contemplation or environmental adjustments are needed to ensure alignment.";
@@ -4899,7 +5021,7 @@ var decision_strategy_eng_ozet_10_2 = "After observing the opportunities that li
 
 var decision_strategy_eng_s3_11_0 = "Senin için önemli konularda en doğru kararları almak, yansıtmak, değerlendirmek ve tartışmak için yaklaşık bir ay beklemelisin.";
 var decision_strategy_eng_s3_11_1 = "Wait a 28-Day Cycle to Reflect, Assess & Discuss";
-var decision_strategy_eng_s3_11_2 = "Your decision-making strategy revolves around waiting, reflecting, and discussing before making significant decisions. By taking your time and engaging in thoughtful contemplation and dialogue, you can arrive at the right decision at the right time, grounded in your personal truth and clarity.";
+var decision_strategy_eng_s3_11_2 = "Your decision-making strategy is based on waiting, thinking, and discussing before making important decisions. By giving yourself time and evaluation process, you can make the right decision based on your personal truth and clarity. ";
 var decision_strategy_eng_s3_11_3 = "Waiting, Reflection & Discussion: Embrace a patient approach to decision-making, allowing about a month or more for reflection and discussion. Create an environment conducive to your well-being and engage with trusted confidants to articulate your thoughts and hear your own truth.";
 var decision_strategy_eng_s3_11_4 = "Deep Sudden Inner Knowing: Through the process of waiting, reflecting, and discussing, you will experience a profound inner sense or knowing that signals whether a decision aligns with your truth or not.";
 var decision_strategy_eng_s4_11_text = "Acting from the mind can lead to doubt, impulsivity, and missed opportunities, while waiting, reflecting, and discussing allows you to refine your perceptions and arrive at clarity over time, leading to a more informed decision-making process.";
@@ -5561,7 +5683,7 @@ var decision_strategy_eng_ozet_11_2 = "Your decision-making process requires a d
 }
   
   let ai = (aiName, age, type, lang) => {
-    if (lang == "Tr") {
+    if (lang == "Tr" && age > 25) {
       if (type == "name") {
         if (aiName == "Dijital Okuryazarlık") {
           return ai_25_s3_1_1;
@@ -5805,6 +5927,88 @@ var decision_strategy_eng_ozet_11_2 = "Your decision-making process requires a d
           return ai_25_eng_s4u2_8_2;
         } else if (aiName == "Yenilikçi ve Girişimci Düşünce") {
           return ai_25_eng_s4u2_9_2;
+        }
+      }
+    } else if (lang == "En" && age <= 25) {
+      if (type == "name") {
+        if (aiName == "Dijital Okuryazarlık") {
+          return ai_12_eng_s3_1_1;
+        } else if (aiName == "Veri Okur Yazarlığı") {
+          return ai_12_eng_s3_2_1;
+        } else if (aiName == "Kodlama ve Programlama") {
+          return ai_12_eng_s3_3_1;
+        } else if (aiName == "Eleştirel Düşünme ve Problem Çözme") {
+          return ai_12_eng_s3_4_1;
+        } else if (aiName == "Uyarlanabilirlik ve Sürekli Öğrenme") {
+          return ai_12_eng_s3_5_1;
+        } else if (aiName == "İletişim ve İşbirliği") {
+          return ai_12_eng_s3_6_1;
+        } else if (aiName == "Etik ve Sosyal Sorumluluk") {
+          return ai_12_eng_s3_7_1;
+        } else if (aiName == "Duygusal Zeka (EQ)") {
+          return ai_12_eng_s3_8_1;
+        } else if (aiName == "Yenilikçi ve Girişimci Düşünce") {
+          return ai_12_eng_s3_9_1;
+        }
+    } else if (type == "s3_x_2") {
+        if (aiName == "Dijital Okuryazarlık") {
+          return ai_12_eng_s3_1_2;
+        } else if (aiName == "Veri Okur Yazarlığı") {
+          return ai_12_eng_s3_2_2;
+        } else if (aiName == "Kodlama ve Programlama") {
+          return ai_12_eng_s3_3_2;
+        } else if (aiName == "Eleştirel Düşünme ve Problem Çözme") {
+          return ai_12_eng_s3_4_2;
+        } else if (aiName == "Uyarlanabilirlik ve Sürekli Öğrenme") {
+          return ai_12_eng_s3_5_2;
+        } else if (aiName == "İletişim ve İşbirliği") {
+          return ai_12_eng_s3_6_2;
+        } else if (aiName == "Etik ve Sosyal Sorumluluk") {
+          return ai_12_eng_s3_7_2;
+        } else if (aiName == "Duygusal Zeka (EQ)") {
+          return ai_12_eng_s3_8_2;
+        } else if (aiName == "Yenilikçi ve Girişimci Düşünce") {
+          return ai_12_eng_s3_9_2;
+        }
+      } else if (type == "s4u1_x_2") {
+        if (aiName == "Dijital Okuryazarlık") {
+          return ai_12_eng_s4u1_1_2;
+        } else if (aiName == "Veri Okur Yazarlığı") {
+          return ai_12_eng_s4u1_2_2;
+        } else if (aiName == "Kodlama ve Programlama") {
+          return ai_12_eng_s4u1_3_2;
+        } else if (aiName == "Eleştirel Düşünme ve Problem Çözme") {
+          return ai_12_eng_s4u1_4_2;
+        } else if (aiName == "Uyarlanabilirlik ve Sürekli Öğrenme") {
+          return ai_12_eng_s4u1_5_2;
+        } else if (aiName == "İletişim ve İşbirliği") {
+          return ai_12_eng_s4u1_6_2;
+        } else if (aiName == "Etik ve Sosyal Sorumluluk") {
+          return ai_12_eng_s4u1_7_2;
+        } else if (aiName == "Duygusal Zeka (EQ)") {
+          return ai_12_eng_s4u1_8_2;
+        } else if (aiName == "Yenilikçi ve Girişimci Düşünce") {
+          return ai_12_eng_s4u1_9_2;
+        }
+      } else if (type == "s4u2_x_2") {
+        if (aiName == "Dijital Okuryazarlık") {
+          return ai_12_eng_s4u2_1_2;
+        } else if (aiName == "Veri Okur Yazarlığı") {
+          return ai_12_eng_s4u2_2_2;
+        } else if (aiName == "Kodlama ve Programlama") {
+          return ai_12_eng_s4u2_3_2;
+        } else if (aiName == "Eleştirel Düşünme ve Problem Çözme") {
+          return ai_12_eng_s4u2_4_2;
+        } else if (aiName == "Uyarlanabilirlik ve Sürekli Öğrenme") {
+          return ai_12_eng_s4u2_5_2;
+        } else if (aiName == "İletişim ve İşbirliği") {
+          return ai_12_eng_s4u2_6_2;
+        } else if (aiName == "Etik ve Sosyal Sorumluluk") {
+          return ai_12_eng_s4u2_7_2;
+        } else if (aiName == "Duygusal Zeka (EQ)") {
+          return ai_12_eng_s4u2_8_2;
+        } else if (aiName == "Yenilikçi ve Girişimci Düşünce") {
+          return ai_12_eng_s4u2_9_2;
         }
       }
     }
@@ -10262,7 +10466,7 @@ var decision_strategy_eng_ozet_11_2 = "Your decision-making process requires a d
           return kariyer_secim_ozet_9_2;
         }
       }
-    } else if (lang == "Tr" && age >= 12 && age <= 25) {
+    } else if (lang == "Tr" && age <= 25) {
       if (type == "name") {
         if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yaratıcı ve Sanatsal Kariyerler") {
           return kariyer_secim_25_plus_s2_1_1;
