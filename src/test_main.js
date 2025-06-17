@@ -2969,78 +2969,151 @@ var kariyer_secim_25_plus_s7_eng_meal_9_5 = "• Customer Experience Analyst: An
 var kariyer_secim_25_plus_s7_eng_meal_9_6 = "• Sales Data Analyst: Analyze restaurant sales data to optimize sales strategies and support business decisions.";
 var kariyer_secim_25_plus_s7_eng_meal_9_7 = "• Food Safety Analyst: Analyze food safety data, contributing to the improvement of hygiene standards and quality control processes.";
 
-// Eğitim ve EdTech 
+//Eğitim ve EdTech 
 var kariyer_secim_25_plus_s7_eng_edTech_1_1 = "Creative and Artistic Careers";
-var kariyer_secim_25_plus_s7_eng_edTech_1_2 = "Jobs where you can use your creativity in the education and educational technology sector can be:";
-var kariyer_secim_25_plus_s7_eng_edTech_1_3 = "• Educational Content Designer: You can create educational and engaging content by designing educational materials, tutorial videos, animations, and digital course content.";
-var kariyer_secim_25_plus_s7_eng_edTech_1_4 = "• Multimedia Instructional Designer: You can enable students to learn more effectively by designing multimedia content (graphics, animation) that will enrich the educational process.";
-var kariyer_secim_25_plus_s7_eng_edTech_1_5 = "• E-Learning Designer: You can enhance students' digital learning experiences by designing interactive training modules for online learning platforms.";
-var kariyer_secim_25_plus_s7_eng_edTech_1_6 = "• Gamification Specialist: By integrating gamification methods into your educational processes, you can develop creative solutions that will increase students' interest and motivation.";
+var kariyer_secim_25_plus_s7_eng_edTech_1_2 = "Jobs in the Finance and FinTech sector where you can use your creativity include:";
+var kariyer_secim_25_plus_s7_eng_edTech_1_3 = "• FinTech UI/UX Designer: You can improve the user experience by designing user-friendly interfaces of FinTech applications and digital payment systems.";
+var kariyer_secim_25_plus_s7_eng_edTech_1_4 = "• Financial Education Video Maker: You can make learning fun by creatively creating financial trainings and online courses in video format.";
+var kariyer_secim_25_plus_s7_eng_edTech_1_5 = "• Brand Designer (FinTech): You can strengthen the digital identity of FinTech companies by producing creative solutions in their branding processes..";
+var kariyer_secim_25_plus_s7_eng_edTech_1_6 = "• Digital Financial Content Designer: You can inform users about financial literacy by preparing financial content, infographics, educational materials, and advertising campaigns.";
 var kariyer_secim_25_plus_s7_eng_edTech_1_7 = "";
 
 var kariyer_secim_25_plus_s7_eng_edTech_2_1 = "Leadership and Management Careers";
-var kariyer_secim_25_plus_s7_eng_edTech_2_2 = "Eğitim sektöründe liderlik ve yönetim becerilerini kullanabileceğin işler şunlar olabilir:";
-var kariyer_secim_25_plus_s7_eng_edTech_2_3 = "• Jobs in the education sector where you can use your leadership and management skills include";
-var kariyer_secim_25_plus_s7_eng_edTech_2_4 = "• EdTech Project Manager: You can manage projects and teams to digitize educational projects and develop innovative education solutions.";
-var kariyer_secim_25_plus_s7_eng_edTech_2_5 = "• Digital School Principal: You can manage the digital transformation within the school and improve the educational processes by increasing the use of educational technologies.";
-var kariyer_secim_25_plus_s7_eng_edTech_2_6 = "• Curriculum Manager: You can organize courses and curricula on online learning platforms and ensure that the content is in line with the teaching objectives.";
+var kariyer_secim_25_plus_s7_eng_edTech_2_2 = "Jobs in the Finance and FinTech sector where you can use your leadership and management skills include:";
+var kariyer_secim_25_plus_s7_eng_edTech_2_3 = "• FinTech CEO or COO: You can lead the management of FinTech startups and ensure the growth of the company by setting a strategic vision.";
+var kariyer_secim_25_plus_s7_eng_edTech_2_4 = "• Product Manager (FinTech): By managing the design, development and launch of digital financial products, you can create products that fit customer needs.";
+var kariyer_secim_25_plus_s7_eng_edTech_2_5 = "• Financial Services Manager: You can undertake strategic management of financial services in banks, insurance companies or fintech firms.";
+var kariyer_secim_25_plus_s7_eng_edTech_2_6 = "• Risk Management Manager: You can develop the company's risk management strategies by identifying and analyzing financial risks.";
 var kariyer_secim_25_plus_s7_eng_edTech_2_7 = "";
 
 var kariyer_secim_25_plus_s7_eng_edTech_3_1 = "Charity & Social Careers";
-var kariyer_secim_25_plus_s7_eng_edTech_3_2 = "Jobs in the education sector where you can use your social and philanthropic sides can be:";
-var kariyer_secim_25_plus_s7_eng_edTech_3_3 = "• Educational Technology Trainer: You can provide training to teachers, school administrators or students to teach technology and digital tools and to ensure the efficient use of educational technologies.";
-var kariyer_secim_25_plus_s7_eng_edTech_3_4 = "• Online Student Support Specialist: You can guide and provide support for students to cope with the difficulties they face in their online learning processes.";
-var kariyer_secim_25_plus_s7_eng_edTech_3_5 = "• Digital Accessibility Specialist: You can develop digital educational materials and platforms for people with disabilities.";
-var kariyer_secim_25_plus_s7_eng_edTech_3_6 = "• Educational Technology Consultant: You can guide educational institutions in their digital transformation processes and help them choose the most appropriate educational technologies.";
+var kariyer_secim_25_plus_s7_eng_edTech_3_2 = "Jobs in the Finance and FinTech sector where you can use your social and philanthropic sides can be:";
+var kariyer_secim_25_plus_s7_eng_edTech_3_3 = "• Financial Advisor (Social Impact): You can guide low-income individuals through financial planning, saving, and investing.";
+var kariyer_secim_25_plus_s7_eng_edTech_3_4 = "• Digital Finance Trainer: You can increase financial literacy by providing training on digital financial tools and solutions for individuals and companies.";
+var kariyer_secim_25_plus_s7_eng_edTech_3_5 = "• Credit Counselor (FinTech): You can guide customers who want to get a loan by providing them with appropriate financial solutions.";
+var kariyer_secim_25_plus_s7_eng_edTech_3_6 = "• Social Entrepreneur (FinTech): You can find solutions to social problems and increase financial access through digital financial solutions.";
 var kariyer_secim_25_plus_s7_eng_edTech_3_7 = "";
 
 var kariyer_secim_25_plus_s7_eng_edTech_4_1 = "Technical and Engineering Careers";
-var kariyer_secim_25_plus_s7_eng_edTech_4_2 = "Jobs in the education and education technology sector where you can use your technical and engineering skills can be:";
-var kariyer_secim_25_plus_s7_eng_edTech_4_3 = "• Educational Software Developer: You can design and implement digital educational tools by developing educational software, mobile applications or games.";
-var kariyer_secim_25_plus_s7_eng_edTech_4_4 = "• Educational Technology Engineer: You can set up the infrastructure of educational software and ensure that digital platforms work safely and efficiently.";
-var kariyer_secim_25_plus_s7_eng_edTech_4_5 = "• Data Analyst (Training Data): You can collect and analyze student performance data to analyze and improve educational processes.";
-var kariyer_secim_25_plus_s7_eng_edTech_4_6 = "• E-Learning Platform Developer: You can create user-friendly, effective learning tools by developing backend and frontend for online learning platforms.";
+var kariyer_secim_25_plus_s7_eng_edTech_4_2 = "Jobs in the Finance and FinTech sector where you can use your technical and engineering skills include:";
+var kariyer_secim_25_plus_s7_eng_edTech_4_3 = "• Blockchain Developer: You can develop financial applications, create cryptocurrency systems or digital contracts using blockchain technologies.";
+var kariyer_secim_25_plus_s7_eng_edTech_4_4 = "• Artificial Intelligence Engineer (FinTech): You can develop financial analysis and decision support systems using artificial intelligence and machine learning algorithms.";
+var kariyer_secim_25_plus_s7_eng_edTech_4_5 = "• Digital Payment Systems Developer: You can develop payment systems and digital wallet applications and secure financial transactions.";
+var kariyer_secim_25_plus_s7_eng_edTech_4_6 = "• Cyber Security Specialist (FinTech): By ensuring the security of financial systems, you can take high security measures for digital payments and banking transactions.";
 var kariyer_secim_25_plus_s7_eng_edTech_4_7 = "";
 
 var kariyer_secim_25_plus_s7_eng_edTech_5_1 = "Sales and Relationship Building Careers";
-var kariyer_secim_25_plus_s7_eng_edTech_5_2 = "Jobs in the education and education technology industry where you can use your sales and relationship management skills can be:";
-var kariyer_secim_25_plus_s7_eng_edTech_5_3 = "• Digital Education Marketing Specialist: You can develop the digital marketing strategies of educational platforms and reach potential students with online campaigns.";
-var kariyer_secim_25_plus_s7_eng_edTech_5_4 = "• Educational Content Sales Manager: You can manage content sales for educational content providers and deliver appropriate educational materials to schools or institutions.";
-var kariyer_secim_25_plus_s7_eng_edTech_5_5 = "• Corporate Training Sales Manager: You can help large companies improve their employees' digital skills by offering corporate training programs.";
-var kariyer_secim_25_plus_s7_eng_edTech_5_6 = "• Educational Technology Sales Specialist: You can sell educational technology software and platforms to educational institutions or individuals and offer digital education solutions that meet their needs.";
+var kariyer_secim_25_plus_s7_eng_edTech_5_2 = "Jobs in the Finance and FinTech industry where you can use your sales and relationship management skills include:";
+var kariyer_secim_25_plus_s7_eng_edTech_5_3 = "• FinTech Sales Specialist: You can sell digital financial products and services and provide financial technology solutions to customers.";
+var kariyer_secim_25_plus_s7_eng_edTech_5_4 = "• Customer Success Manager (FinTech): You can support users of digital financial products to enable them to use the products effectively and increase customer satisfaction.";
+var kariyer_secim_25_plus_s7_eng_edTech_5_5 = "• Financial Product Sales Manager: You can create marketing strategies for financial products, manage sales teams, and develop campaigns for target audiences.";
+var kariyer_secim_25_plus_s7_eng_edTech_5_6 = "• Business Development Specialist (FinTech): You can develop new customer and business opportunities and bring digital financial solutions to a wider customer base.";
 var kariyer_secim_25_plus_s7_eng_edTech_5_7 = "";
 
 var kariyer_secim_25_plus_s7_eng_edTech_6_1 = "Organizational and Administrative Careers";
-var kariyer_secim_25_plus_s7_eng_edTech_6_2 = "Jobs in the education sector where you can use your organizational and administrative skills can be:";
-var kariyer_secim_25_plus_s7_eng_edTech_6_3 = "• Educational Technology Operations Manager: You can manage the day-to-day operation of educational projects and ensure that platforms and content run smoothly.";
-var kariyer_secim_25_plus_s7_eng_edTech_6_4 = "• Training Manager Assistant: You can organize the schedules of training managers and keep track of the regular and up-to-date online course content.";
-var kariyer_secim_25_plus_s7_eng_edTech_6_5 = "• School Administrative Support Specialist: You can ensure the proper functioning of the education system by supporting the management of the digital infrastructure of educational institutions.";
-var kariyer_secim_25_plus_s7_eng_edTech_6_6 = "• Human Resources Specialist (Training): You can manage recruitment within the education sector and hire trainers and managers with digital training skills.";
+var kariyer_secim_25_plus_s7_eng_edTech_6_2 = "Jobs in the Finance and FinTech sector where you can use your organizational and administrative skills include:";
+var kariyer_secim_25_plus_s7_eng_edTech_6_3 = "• Financial Operations Manager: By organizing the day-to-day operation of financial transactions, you can ensure that digital financial solutions work properly.";
+var kariyer_secim_25_plus_s7_eng_edTech_6_4 = "• Financial Advisory Assistant: You can follow the business processes of financial advisors, organize and analyze financial information about customers.";
+var kariyer_secim_25_plus_s7_eng_edTech_6_5 = "• Human Resources Specialist (FinTech): In FinTech companies, you can organize processes such as personnel recruitment, employee training and performance management.";
+var kariyer_secim_25_plus_s7_eng_edTech_6_6 = "• Financial Administrative Assistant: By taking part in the inner workings of financial institutions, you can work as an executive assistant and undertake daily administrative tasks.";
 var kariyer_secim_25_plus_s7_eng_edTech_6_7 = "";
 
 var kariyer_secim_25_plus_s7_eng_edTech_7_1 = "Innovative and Entrepreneurial Careers";
-var kariyer_secim_25_plus_s7_eng_edTech_7_2 = "Jobs in the education sector where you can use innovative thinking and entrepreneurial spirit include:";
-var kariyer_secim_25_plus_s7_eng_edTech_7_3 = "• Educational Technology Entrepreneur: You can develop new educational software, platforms or digital solutions and create an innovative change in the world of education.";
-var kariyer_secim_25_plus_s7_eng_edTech_7_4 = "• Online Education Platform Founder: By setting up your own online education platform, you can provide students with world-class educational opportunities and increase access to education.";
-var kariyer_secim_25_plus_s7_eng_edTech_7_5 = "• Education and Technology Innovation Consultant: By providing innovation suggestions to the education sector, you can help schools and educational institutions in the digitalization process.";
-var kariyer_secim_25_plus_s7_eng_edTech_7_6 = "• Educational Achievement Entrepreneur: You can develop new metrics and systems that measure success in education, creating a more effective learning experience for students and teachers.";
+var kariyer_secim_25_plus_s7_eng_edTech_7_2 = "Jobs in the Finance and FinTech sector where you can use innovative thinking and entrepreneurial spirit include:";
+var kariyer_secim_25_plus_s7_eng_edTech_7_3 = "• FinTech Entrepreneur: By building a new digital financial product or platform, you can bring innovative solutions to financial services.";
+var kariyer_secim_25_plus_s7_eng_edTech_7_4 = "• Blockchain Entrepreneur: By using blockchain technology, you can develop new financial solutions and bring an innovative approach to the industry.";
+var kariyer_secim_25_plus_s7_eng_edTech_7_5 = "• Financial Technology Innovation Consultant: By providing financial technology solutions to companies, you can make financial processes more efficient.";
+var kariyer_secim_25_plus_s7_eng_edTech_7_6 = "• Digital Payment Entrepreneur: By launching initiatives on digital payment systems, you can develop an innovative approach to payment solutions.";
 var kariyer_secim_25_plus_s7_eng_edTech_7_7 = "";
 
 var kariyer_secim_25_plus_s7_eng_edTech_8_1 = "Teaching and Mentoring Careers";
-var kariyer_secim_25_plus_s7_eng_edTech_8_2 = "Jobs in the education and educational technology sector where you can use your teaching and mentoring skills can be:";
-var kariyer_secim_25_plus_s7_eng_edTech_8_3 = "• Educational Technology Coach: You can guide educators and teachers on technology-supported teaching and improve their digital education skills.";
-var kariyer_secim_25_plus_s7_eng_edTech_8_4 = "• Digital Learning Consultant: You can develop digital learning strategies for educators and students and increase the effectiveness of online education.";
-var kariyer_secim_25_plus_s7_eng_edTech_8_5 = "• Education Mentor (Online Education): You can guide students for career development in education and make their online education experience more efficient.";
-var kariyer_secim_25_plus_s7_eng_edTech_8_6 = "• STEM Instructor (Educational Technology Focused): You can teach courses in science, technology, engineering and mathematics, and provide students with digital skills in STEM fields.";
+var kariyer_secim_25_plus_s7_eng_edTech_8_2 = "Jobs in the Finance and FinTech sector where you can use your teaching and mentoring skills include:";
+var kariyer_secim_25_plus_s7_eng_edTech_8_3 = "• Financial Technologies Trainer: You can provide trainings to teach digital financial systems, blockchain or fintech applications.";
+var kariyer_secim_25_plus_s7_eng_edTech_8_4 = "• Financial Counseling Coach: You can guide individuals to improve their financial literacy and offer investment strategies or digital finance tools as a tutorial.";
+var kariyer_secim_25_plus_s7_eng_edTech_8_5 = "• Digital Finance Trainer: You can create online courses or training programs and help individuals improve their digital financial skills.";
+var kariyer_secim_25_plus_s7_eng_edTech_8_6 = "• Mentor (FinTech): You can provide career guidance to professionals who are just starting out in the field of FinTech and convey the developments in the sector to them.";
 var kariyer_secim_25_plus_s7_eng_edTech_8_7 = "";
 
 var kariyer_secim_25_plus_s7_eng_edTech_9_1 = "Analytics and Data-Driven Careers";
-var kariyer_secim_25_plus_s7_eng_edTech_9_2 = "Jobs in the education and education technology sector where you can use analytical thinking and data skills can be:";
-var kariyer_secim_25_plus_s7_eng_edTech_9_3 = "• Education Data Analyst: You can optimize education systems by analyzing data on student achievements, course performance, and learning behaviors.";
-var kariyer_secim_25_plus_s7_eng_edTech_9_4 = "• Learning Analytics Specialist: You can develop improvement suggestions by evaluating training processes in a data-driven way.";
-var kariyer_secim_25_plus_s7_eng_edTech_9_5 = "• EdTech UX/UI Analyst: By analyzing the user experience of educational platforms and applications, you can develop more effective and user-friendly interfaces.";
-var kariyer_secim_25_plus_s7_eng_edTech_9_6 = "• Digital Education Performance Analyst: You can monitor students' progress and success on online education platforms and present strategic data to improve their learning processes.";
+var kariyer_secim_25_plus_s7_eng_edTech_9_2 = "Jobs in the Finance and FinTech industry where you can use your analytical thinking and data skills include:";
+var kariyer_secim_25_plus_s7_eng_edTech_9_3 = "• Financial Data Analyst: By analyzing financial data, you can support companies' strategic decisions and improve financial processes.";
+var kariyer_secim_25_plus_s7_eng_edTech_9_4 = "• Machine Learning Specialist (FinTech): You can develop machine learning algorithms to analyze financial market data and do predictive modeling.";
+var kariyer_secim_25_plus_s7_eng_edTech_9_5 = "• Risk Analyst (FinTech): By analyzing financial risks, you can develop strategic risk mitigation recommendations for investors and financial institutions.";
+var kariyer_secim_25_plus_s7_eng_edTech_9_6 = "• Blockchain Data Analyst: By analyzing data obtained from blockchain systems, you can increase the security and transparency of financial transactions.";
 var kariyer_secim_25_plus_s7_eng_edTech_9_7 = "";
+
+//Finans ve FinTech 
+var kariyer_secim_25_plus_s7_finTech_1_1 = "Yaratıcı ve Sanatsal Kariyerler";
+var kariyer_secim_25_plus_s7_finTech_1_2 = "Finans ve FinTech sektöründe yaratıcılığını kullanabileceğin işler şunlar olabilir:";
+var kariyer_secim_25_plus_s7_finTech_1_3 = "• FinTech UI/UX Tasarımcısı: FinTech uygulamaları ve dijital ödeme sistemlerinin kullanıcı dostu arayüzlerini tasarlayarak kullanıcı deneyimini iyileştirebilirsin.";
+var kariyer_secim_25_plus_s7_finTech_1_4 = "• Finansal Eğitim Video Yapımcısı: Finansal eğitimleri ve online kursları yaratıcı bir şekilde video formatında hazırlayarak öğrenmeyi eğlenceli hale getirebilirsin.";
+var kariyer_secim_25_plus_s7_finTech_1_5 = "• Marka Tasarımcısı (FinTech): FinTech şirketlerinin markalaşma süreçlerinde kreatif çözümler üreterek şirketin dijital kimliğini güçlendirebilirsin.";
+var kariyer_secim_25_plus_s7_finTech_1_6 = "• Dijital Finansal İçerik Tasarımcısı: Finansal içerikler, infografikler, eğitim materyalleri ve reklam kampanyaları hazırlayarak kullanıcıları finansal okuryazarlık konusunda bilgilendirebilirsin.";
+var kariyer_secim_25_plus_s7_finTech_1_7 = "";
+
+var kariyer_secim_25_plus_s7_finTech_2_1 = "Liderlik ve Yönetim Kariyerleri";
+var kariyer_secim_25_plus_s7_finTech_2_2 = "Finans ve FinTech sektöründe liderlik ve yönetim becerilerini kullanabileceğin işler şunlar olabilir:";
+var kariyer_secim_25_plus_s7_finTech_2_3 = "• FinTech CEO veya COO: FinTech startup'larının yönetiminde liderlik edebilir, stratejik vizyon belirleyerek şirketin büyümesini sağlayabilirsin.";
+var kariyer_secim_25_plus_s7_finTech_2_4 = "• Finansal Hizmetler Yöneticisi: Bankalar, sigorta şirketleri veya fintech firmalarında finansal hizmetlerin stratejik yönetimini üstlenebilirsin.";
+var kariyer_secim_25_plus_s7_finTech_2_5 = "• Risk Yönetimi Müdürü: Finansal riskleri belirleyip analiz ederek şirketin risk yönetim stratejilerini geliştirebilirsin.";
+var kariyer_secim_25_plus_s7_finTech_2_6 = "• Ürün Yöneticisi (FinTech): Dijital finansal ürünlerin tasarım, geliştirme ve pazara sunulma süreçlerini yöneterek, müşteri ihtiyaçlarına uygun ürünler oluşturabilirsin.";
+var kariyer_secim_25_plus_s7_finTech_2_7 = "";
+
+var kariyer_secim_25_plus_s7_finTech_3_1 = "Yardım ve Sosyal Kariyerler";
+var kariyer_secim_25_plus_s7_finTech_3_2 = "Finans ve FinTech sektöründe sosyal ve yardımsever yönlerini kullanabileceğin işler şunlar olabilir:";
+var kariyer_secim_25_plus_s7_finTech_3_3 = "• Finansal Danışman (Sosyal Etki): Düşük gelirli bireylere finansal planlama, tasarruf ve yatırım konusunda rehberlik edebilirsin.";
+var kariyer_secim_25_plus_s7_finTech_3_4 = "• Kredi Danışmanı (FinTech): Kredi almak isteyen müşterilere uygun finansal çözümler sunarak onlara rehberlik edebilirsin.";
+var kariyer_secim_25_plus_s7_finTech_3_5 = "• Sosyal Girişimci (FinTech): Dijital finansal çözümler aracılığıyla toplumsal sorunlara çözüm üretebilir, finansal erişimi artırabilirsin.";
+var kariyer_secim_25_plus_s7_finTech_3_6 = "• Dijital Finans Eğitmeni: Bireyler ve şirketler için dijital finansal araçlar ve çözümler hakkında eğitim vererek finansal okuryazarlığı artırabilirsin.";
+var kariyer_secim_25_plus_s7_finTech_3_7 = "";
+
+var kariyer_secim_25_plus_s7_finTech_4_1 = "Teknik ve Mühendislik Kariyerleri";
+var kariyer_secim_25_plus_s7_finTech_4_2 = "Finans ve FinTech sektöründe teknik ve mühendislik becerilerini kullanabileceğin işler şunlar olabilir:";
+var kariyer_secim_25_plus_s7_finTech_4_3 = "• Yapay Zeka Mühendisi (FinTech): Yapay zeka ve makine öğrenmesi algoritmalarını kullanarak finansal analizler ve karar destek sistemleri geliştirebilirsin.";
+var kariyer_secim_25_plus_s7_finTech_4_4 = "• Dijital Ödeme Sistemleri Geliştiricisi: Ödeme sistemleri ve dijital cüzdan uygulamaları geliştirebilir, finansal işlemleri güvenli hale getirebilirsin.";
+var kariyer_secim_25_plus_s7_finTech_4_5 = "• Siber Güvenlik Uzmanı (FinTech): Finansal sistemlerin güvenliğini sağlayarak, dijital ödemeler ve bankacılık işlemleri için yüksek güvenlik önlemleri alabilirsin.";
+var kariyer_secim_25_plus_s7_finTech_4_6 = "• Blockchain Geliştiricisi: Blockchain teknolojileri kullanarak finansal uygulamalar geliştirebilir, kripto para sistemleri veya dijital sözleşmeler oluşturabilirsin.";
+var kariyer_secim_25_plus_s7_finTech_4_7 = "";
+
+var kariyer_secim_25_plus_s7_finTech_5_1 = "Satış ve İlişki Kurma Kariyerleri";
+var kariyer_secim_25_plus_s7_finTech_5_2 = "Finans ve FinTech sektöründe satış ve ilişki yönetimi becerilerini kullanabileceğin işler şunlar olabilir:";
+var kariyer_secim_25_plus_s7_finTech_5_3 = "• FinTech Satış Uzmanı: Dijital finansal ürünler ve hizmetler satabilir, müşterilere finansal teknoloji çözümleri sunabilirsin.";
+var kariyer_secim_25_plus_s7_finTech_5_4 = "• Finansal Ürün Satış Müdürü: Finansal ürünlerin pazarlama stratejilerini oluşturup satış ekiplerini yönetebilir, hedef kitlelere yönelik kampanyalar geliştirebilirsin.";
+var kariyer_secim_25_plus_s7_finTech_5_5 = "• İş Geliştirme Uzmanı (FinTech): Yeni müşteri ve iş fırsatları geliştirebilir, dijital finansal çözümleri daha geniş bir müşteri kitlesine ulaştırabilirsin.";
+var kariyer_secim_25_plus_s7_finTech_5_6 = "• Müşteri Başarı Yöneticisi (FinTech): Dijital finansal ürünlerin kullanıcılarının ürünleri etkili bir şekilde kullanmalarını sağlamak ve müşteri memnuniyetini artırmak için destek verebilirsin.";
+var kariyer_secim_25_plus_s7_finTech_5_7 = "";
+
+var kariyer_secim_25_plus_s7_finTech_6_1 = "Organizasyonel ve İdari Kariyerler";
+var kariyer_secim_25_plus_s7_finTech_6_2 = "Finans ve FinTech sektöründe organizasyon ve idari becerilerini kullanabileceğin işler şunlar olabilir:";
+var kariyer_secim_25_plus_s7_finTech_6_3 = "• Finansal Operasyon Yöneticisi: Finansal işlemlerin günlük işleyişini organize ederek, dijital finansal çözümlerin düzgün bir şekilde çalışmasını sağlayabilirsin.";
+var kariyer_secim_25_plus_s7_finTech_6_4 = "• Finansal İdari Asistan: Finansal kurumların iç işleyişinde yer alarak, yönetici asistanlığı yapabilir, günlük idari görevleri üstlenebilirsin.";
+var kariyer_secim_25_plus_s7_finTech_6_5 = "• İnsan Kaynakları Uzmanı (FinTech): FinTech şirketlerinde personel alımı, çalışan eğitimleri ve performans yönetimi gibi süreçleri organize edebilirsin.";
+var kariyer_secim_25_plus_s7_finTech_6_6 = "• Finansal Danışmanlık Asistanı: Finansal danışmanların iş süreçlerini takip edebilir, müşterilerle ilgili finansal bilgileri düzenleyebilir ve analiz edebilirsin.";
+var kariyer_secim_25_plus_s7_finTech_6_7 = "";
+
+var kariyer_secim_25_plus_s7_finTech_7_1 = "Yenilikçi ve Girişimci Kariyerler";
+var kariyer_secim_25_plus_s7_finTech_7_2 = "Finans ve FinTech sektöründe yenilikçi düşünceler ve girişimcilik ruhunu kullanabileceğin işler şunlar olabilir:";
+var kariyer_secim_25_plus_s7_finTech_7_3 = "• FinTech Girişimcisi: Yeni bir dijital finansal ürün veya platform kurarak, finansal hizmetlere yenilikçi çözümler getirebilirsin.";
+var kariyer_secim_25_plus_s7_finTech_7_4 = "• Blockchain Girişimcisi: Blockchain teknolojisini kullanarak yeni finansal çözümler geliştirebilir, sektöre yenilikçi bir yaklaşım getirebilirsin.";
+var kariyer_secim_25_plus_s7_finTech_7_5 = "• Finansal Teknoloji İnovasyon Danışmanı: Şirketlere finansal teknoloji çözümleri sunarak, finansal süreçleri daha verimli hale getirebilirsin.";
+var kariyer_secim_25_plus_s7_finTech_7_6 = "• Dijital Ödeme Girişimcisi: Dijital ödeme sistemleri üzerine girişimler başlatarak, ödeme çözümlerine yönelik yenilikçi bir yaklaşım geliştirebilirsin.";
+var kariyer_secim_25_plus_s7_finTech_7_7 = "";
+
+var kariyer_secim_25_plus_s7_finTech_8_1 = "Öğretim ve Mentorluk Kariyerleri";
+var kariyer_secim_25_plus_s7_finTech_8_2 = "Finans ve FinTech sektöründe öğretim ve mentorluk becerilerini kullanabileceğin işler şunlar olabilir:";
+var kariyer_secim_25_plus_s7_finTech_8_3 = "• Finansal Teknolojiler Eğitmeni: Dijital finansal sistemleri, blockchain veya fintech uygulamalarını öğretmek için eğitimler verebilirsin.";
+var kariyer_secim_25_plus_s7_finTech_8_4 = "• Dijital Finans Eğitmeni: Çevrimiçi kurslar veya eğitim programları oluşturabilir, bireylerin dijital finansal becerilerini geliştirmelerine yardımcı olabilirsin.";
+var kariyer_secim_25_plus_s7_finTech_8_5 = "• Mentor (FinTech): FinTech alanında yeni başlayan profesyonellere kariyer rehberliği yapabilir, sektördeki gelişmeleri onlara aktarabilirsin.";
+var kariyer_secim_25_plus_s7_finTech_8_6 = "• Finansal Danışmanlık Koçu: Bireylerin finansal okuryazarlıklarını geliştirmek için rehberlik edebilir, yatırım stratejileri veya dijital finans araçlarını öğretici olarak sunabilirsin.";
+var kariyer_secim_25_plus_s7_finTech_8_7 = "";
+
+var kariyer_secim_25_plus_s7_finTech_9_1 = "Analitik ve Veri Odaklı Kariyerler";
+var kariyer_secim_25_plus_s7_finTech_9_2 = "Finans ve FinTech sektöründe analitik düşünce ve veri becerilerini kullanabileceğin işler şunlar olabilir:";
+var kariyer_secim_25_plus_s7_finTech_9_3 = "• Finansal Veri Analisti: Finansal verileri analiz ederek, şirketlerin stratejik kararlarını destekleyebilir ve finansal süreçleri iyileştirebilirsin.";
+var kariyer_secim_25_plus_s7_finTech_9_4 = "• Risk Analisti (FinTech): Finansal riskleri analiz ederek, yatırımcılar ve finansal kurumlar için stratejik risk azaltma önerileri geliştirebilirsin.";
+var kariyer_secim_25_plus_s7_finTech_9_5 = "• Blockchain Veri Analisti: Blockchain sistemlerinden elde edilen verileri analiz ederek, finansal işlemlerin güvenliğini ve şeffaflığını artırabilirsin.";
+var kariyer_secim_25_plus_s7_finTech_9_6 = "• Makine Öğrenmesi Uzmanı (FinTech): Finansal piyasa verilerini analiz etmek için makine öğrenmesi algoritmaları geliştirebilir, tahminsel modelleme yapabilirsin.";
+var kariyer_secim_25_plus_s7_finTech_9_7 = "";
 
 
 //özet
@@ -3217,7 +3290,7 @@ var guclu_yanlarin2_13_2 = "İş Başarısını Takip Etmek\nBir projenin ya da 
 var guclu_yanlarin2_33_1 = "Gözlem Ustası";
 var guclu_yanlarin2_33_2 = "İşlerin Sorunsuz Yürüdüğünden Emin Olmak\nHer şeyin planlandığı gibi gitmesini sağlama konusunda iyisin. Ekibinle birlikte işleri zamanında ve doğru bir şekilde yapıldığından emin olabilirsin. Dikkatin sayesinde, görevlerin tamamlanması ve herkesin ne yapacağını bilmesi sağlanır.\n\nHatalardan Ders Çıkarmak\nGeçmiş deneyimlerden ders çıkararak, ekibinin aynı hataları yapmamasına yardımcı olursun. Önceden neyin işe yaradığını düşünerek, gelecekte daha iyi sonuçlar elde edebilirsin.\n\nHerkesin Sorumluluğunu Yerine Getirdiğinden Emin Olmak\nİşlerin yolunda gitmesini sağlama yeteneğin, ekibin işlerinden sorumlu kalmasına yardımcı olur. Herkesin gerekeni yaptığından ve sorunların hızlıca çözüldüğünden emin olursun.\n\nHayatta Yeteneğini Kullanmak\nİşlerin düzenli yürümesini sağlama yeteneğin, ekip liderliği veya yöneticilik gibi rollerde değerlidir. Kurallar oluşturur, problemleri çözer ve ekibinde güven oluşturursun. Bu yetenek, ekibin verimli çalışmasını ve hedeflerine ulaşmasını sağlar.";
 
-//Güçlü Yanların 25 plus
+//Güçlü Yanların 25+
 var guclu_yanlarin_57_10_1 = "Mükemmelleştirilmiş Form” Gücü (57-10)";
 var guclu_yanlarin_57_10_2 = "Hızlı düşünme yeteneğin dinamik iş ortamlarında çok değerli. Yaratıcılığın ile hayatta kalmayı garanti eden ve gelecekteki belirsizliklerden koruma sağlayan ortamlar yaratma ve tasarlama kabiliyetin var.\n\nFormu Mükemmelleştirmek\nKendini, sanatı, müziği, yazıyı, iç tasarımı, yiyeceği, bahçeciliği, mimariyi – kendi ve başkalarının davranışlarını içeren her şeyi mükemmelleştirmeyi seversin. Bu detaylara gösterdiğin özen ve mükemmellik arzusu, herhangi bir profesyonel alanda yüksek kaliteli çıktılar üretmene yardımcı olur.\n\nKendin Olmak\nSadece kendin olarak yaşayarak sağlıklı ve güzel bir şey yaratırsın. Bu otantiklik başkalarına ilham verebilir ve olumlu ve üretken bir çalışma ortamı yaratabilir. Rolün, kendin ve hayatın da dahil olmak üzere, sevdiğin şeyi yaratmak ve yarattığın şeyi sevmektir.\n\nİş Dünyasında Gücünü Kullanmak\nYaratıcılık ve tasarım gerektiren rollerde, detaylara gösterdiğin özen ve sezgisel yaklaşım, yenilikçi ve estetik açıdan hoş sonuçlara doğurur. Liderlikte, işinin her yönünü kucaklama ve mükemmelleştirme yeteneğin, ekibini mükemmellik için çabalamaya teşvik edebilir.\n\nMükemmelleştirilmiş form gücün, iş dünyasında sezgi, yaratıcılık ve mükemmelik arzusu açısından benzersiz bir karışım sunan güçlü bir özelliktir. Bu gücü kullanarak yaratıcı olabilir, üretkenliği artırabilir, olumlu bir çalışma ortamı yaratabilir ve organizasyonunu daha büyük bir başarıya yönlendirebilirsin. Bu gücü benimsemen ve geliştirmen, anlamlı ve etkili bir kariyere vesile olabilir.";
 
@@ -3326,7 +3399,7 @@ var guclu_yanlarin_56_11_2 = "Sürekli zihinsel uyarımlar aramaya, yeni fikirle
 var guclu_yanlarin_10_34_1 = "“İnanç” Gücü (34-10)";
 var guclu_yanlarin_10_34_2 = "Kendi gerçeğini sarsılmaz bir inançla takip etme gücüne sahipsin. Karşına çıkan engellere rağmen bağımsız ve otantik bir şekilde davranma içsel gücüne sahipsin. Belirli bir inancı benimsediğinde, ne kadar alışılmadık görünse de, seni bu inançtan döndürmek neredeyse imkansız olabilir. Güçlü varlığın ve bireyselliğin doğal olarak dikkat çeker, ancak asıl olarak kendin olmaya bağlı kalarak başkalarına da kendi inançları ve gerçekleriyle bağlantı kurmaları için ilham verirsin.\n\nKendin Olmak\nDavranışlarını çeşitli durumlara uyarlayabilirken, kim olduğuna sadık kalma yeteneğine sahipsin. Kendine güvenmeyi, kendini sevmeyi ve kabul etmeyi öğrendiğinde, seni benzersiz kılan özellikleri tam anlamıyla kucaklarsın. Bu otantiklik, seni kendi hayatını kendi olarak yaşaman için güçlendirir ve başkalarını da aynı şeyi yapmaları için cesaretlendirir.\n\nKişisel Güç\nKişisel gücün, seni benzersizliğini sergilemeye iten etkileyici bir enerji kaynağıdır. Bu özellik tamamen senin kullanımına özgüdür, başkaları tarafından hayranlıkla karşılanıp kullanılmak istense bile başkalarının erişimine açık değildir. Bu kişisel güç, bağımsızlığını destekler, seni inançlarına göre hareket etmeye yönlendirir ve otantik bir şekilde hayatta kalman ve başarılı olman için seni güçlendirir.\n\nİş Dünyasında Gücünü Kullanmak\nİnanç gücün iş dünyasında değerli bir özelliktir. Karşına çıkan zorluklara rağmen inançlarının arkasında durma ve bağımsız hareket etme yeteneğin, ekiplerin ortak hedeflere ulaşması için güven aşılamak ve onları motive etmek adına çok önemli olabilir. Yenilikçilik ve otantikliğin ön planda olduğu sektörlerde, ilkelere sarsılmaz bağlılığın, sınırları zorlamana ve örnek olarak liderlik etmene olanak tanır. Özellikle üst düzey liderlik rolleri için, güçlü inançlar şirketleri belirsiz veya zorlu zamanlarda yönlendirmeye yardımcı olabilir. Diğer insanlara da otantik ve kararlı bir şekilde hareket etmeleri için ilham verme yeteneğin, ekibinde veya organizasyonunda bütünlük ve dayanıklılık kültürü oluşturur.\n\nİnanç gücün, otantik bir şekilde liderlik yapmanı, başkalarına inançlarının arkasında durmaları için ilham vermeni ve bütünlük ile kişisel gücün geliştiği bir ortam yaratmanı sağlar. Kendi gerçeğine sarılarak ve bu doğrultuda hareket ederek, ilerleme kaydedebilir ve dayanıklılık ve yenilikçilik kültürü yaratabilirsin.  ";
   
-//Bunlar gates 25 plus
+//Bunlar gates 25+
 var guclu_yanlarin_15_1 = "Güven Kaynağı";
 var guclu_yanlarin_15_2 = "Güven ve İstikrar İnşa Etmek\nİnsanları bir araya getirip uyumlu ve güvenilir bir ekip oluşturma konusunda doğal bir yeteneğe sahipsin. Varlığın, gruba istikrar ve güvenlik hissi katar. Farklı bireyleri bağlı ve uyumlu bir ortamda bir araya getirerek, insanların rahat ve desteklenmiş hissettiği bir atmosfer yaratabilirsin.\n\nBağlantıyı Güçlendirmek\nGüvenilirliğin sayesinde ekip üyeleri arasında aidiyet hissini artırırsın. İnsanlar birbirlerine güçlü bir bağ hisseder, bu da grup içinde sadakati teşvik eder. Tutarlı bir yaklaşım sergileyerek, güven ve karşılıklı saygıya dayalı ilişkilerin gelişmesini sağlayabilirsin.\n\nGüvenilir Bir Çevre Yaratmak\nEkip içinde güven duygusu oluşturma yeteneğin çok değerli. İnsanlar birbirlerine güvenebildiklerinde, kendilerini güvende hisseder ve iş birliği içinde çalışmak için motive olurlar. Bu durum, liderlik ve ekip yönetimi rollerinde özellikle önemlidir, çünkü güven duygusu, daha yüksek verimlilik ve çalışan memnuniyeti sağlar.\n\nİş Dünyasında Yetkinliğini Kullanmak\nİş dünyasında, güvenilirlik yetkinliğin ekip liderliği, insan kaynakları veya proje yönetimi gerektiren rollerde kullanılabilir. Tutarlı ve güvenilir yaklaşımın, grup dinamiklerini sağlamlaştırır ve uzun vadeli istikrarı garanti eder. Bağlantı ve güven oluşturma yeteneğini kucaklayarak, ekiplerin geliştiği, verimli çalıştığı ve birlikte büyüdüğü ortamlar yaratabilirsin.  ";
 
@@ -3364,6 +3437,7 @@ var guclu_yanlarin_33_1 = "Gözlem Ustası";
 var guclu_yanlarin_33_2 = "Düzenli İşleyişi Sağlamak\nTüm operasyonları gözetim altında tutma ve her şeyin sorunsuz çalışmasını sağlama konusunda eşsiz bir yeteneğe sahipsin. Varlığın, görevlerin doğru bir şekilde tamamlanmasını, son teslim tarihlerine uyulmasını ve herkesin ne yapması gerektiğini bilmesini sağlar. Detaylara olan dikkatin, organizasyonun düzenini ve verimliliğini korumaya yardımcı olur.\n\nGeçmişten Ders Çıkarmak\nGeçmişteki deneyimlerden öğrenerek, gelecekte başarıya ulaşmak için değerli dersleri uygulayabilirsin. Daha önce neyin işe yarayıp neyin yaramadığını gözlemleme yeteneğin, hataların önlenmesine ve süreçlerin iyileştirilmesine yardımcı olur.\n\nSorumluluğu Sağlamak\nGözetimin sayesinde insanlar işlerinden sorumlu kalırlar. Görevlerin planlandığı gibi tamamlanmasını ve karşılaşılan zorlukların ele alınmasını sağlarsın. İlerlemeyi izleme ve kontrol etme yeteneğin, hiçbir detayın gözden kaçmamasını sağlar ve ekibi hedefte tutar.\n\nİş Dünyasında Yeteneğini Kullanmak\nİş dünyasında, operasyonları gözetme ve detayları yönetme yeteneğin, ekip liderliği veya yönetim gibi rollerde değerlidir. Politikalar oluşturabilir, şikayetleri etkin bir şekilde ele alabilir ve ekibinde sadakat duygusu yaratabilirsin. Bu yetkinlik, her şeyin zamanında ve en yüksek standartlarda yapılmasını sağlayarak verimliliği ve büyümeyi artırır.";
 
 //Güçlü Yanların İngilizce
+//25+
 var guclu_yanlarin_57_10_eng_1 = "The Strength of “Perfected Form” (57-10)";
 var guclu_yanlarin_57_10_eng_2 = "You have the ability to “think on your feet” which is very valuable in dynamic business environments. You are great at creating and designing environments that ensure survival and provide protection from future uncertainties.\n\nPerfecting the Form You enjoy perfecting the form of things: yourself, art, music, writing, interior design, food, gardening, architecture – anything that comes into your realm, including your own and others’ behavior. This attention to detail and drive for perfection can lead to high-quality outputs in any professional field.\n\nLiving True to Yourself By simply living true to yourself, you create something healthy and beautiful with your life. This authenticity can inspire others and foster a positive and productive work environment. Your role is to create what you love and love what you create – including yourself and your life.\n\nUtilizing Your Strength in Business In roles that require creativity and design, your attention to detail and intuitive approach can lead to innovative and aesthetically pleasing outcomes. In leadership, your ability to embrace and perfect every aspect of your work can inspire your team to strive for excellence.\n\nYour strength of perfected form is a powerful asset in the business world, providing a unique blend of intuition, creativity, and a drive for perfection. By harnessing this strength, you can enhance productivity, foster a positive work environment, and drive your organization towards greater success. Embracing and developing this strength can lead to a fulfilling and impactful career.";
 
@@ -3472,7 +3546,7 @@ var guclu_yanlarin_56_11_eng_2 = "You are compelled to continually seek mental s
 var guclu_yanlarin_10_34_eng_1 = "Strength of Conviction (34-10)";
 var guclu_yanlarin_10_34_eng_2 = "You are empowered to follow your truth with unwavering conviction. You have the inner strength to behave independently and authentically, even in the face of opposition. Once you’ve embraced a specific belief, it may be impossible to sway you, no matter how unconventional that belief may seem to others. Your powerful presence and individuality naturally attract attention, but it is by living true to yourself that you empower others to connect with their own convictions and truth.\n\nBeing Yourself You have the ability to adapt your behavior to various situations while remaining true to who you are. Learning to trust, love, and accept yourself, you fully embrace what makes you unique. This authenticity empowers you to live life as yourself and encourages others to do the same.\n\nPersonal Power: Your personal power is an impressive source of energy that empowers you to showcase your uniqueness. This trait is distinctively yours, meant for personal use only, and cannot be harnessed by others, even if admired. It supports your independence, helps you act on your convictions, and empowers you to triumph and survive as your authentic self.\n\nUtilizing Your Strength in Business: Your strength of conviction is a valuable asset in business. Your ability to stand firm in your beliefs and act independently, even when faced with opposition, is crucial for inspiring confidence and driving teams toward shared goals. In industries where innovation and authenticity are paramount, your unwavering commitment to your principles allows you to push boundaries and lead by example. This strength is particularly valuable in roles like executive leadership, where strong convictions can help guide companies through uncertain or challenging times. Your ability to empower others to act authentically and with conviction fosters a culture of integrity and resilience within your team or organization.\n\nYour strength of conviction allows you to lead with authenticity, inspire others to stand by their beliefs, and create an environment where integrity and personal power thrive. By embracing and acting on your truth, you drive progress and foster a culture of resilience and innovation.";
 
-//Bunlar gates
+//Bunlar gates 25+
 var guclu_yanlarin_15_eng_1 = "Trust Anchor";
 var guclu_yanlarin_15_eng_2 = "Building Trust and Stability You have the natural ability to bring people together and create a cohesive, reliable team. Your presence adds stability and a sense of security within the group. By drawing diverse individuals into a connected and harmonious environment, you foster an atmosphere where people feel comfortable and supported.\n\nFostering Connection Through your reliability, you enhance a sense of belonging among team members. People feel a strong connection to one another, reducing turnover and promoting loyalty within the group. By maintaining a consistent approach, you help build relationships grounded in trust and mutual respect.\n\nCreating a Trustworthy Environment Your ability to foster trust within the team is invaluable. When people can rely on one another, they feel secure and motivated to work collaboratively. This is especially critical in leadership and team management roles, where building a sense of trust leads to higher productivity and greater satisfaction among employees.\n\nUsing Your Skill in Business In business, your skill can be applied to roles requiring team leadership, human resources, or project management. Your consistent and trustworthy approach helps solidify group dynamics and ensures long-term stability. By embracing your ability to foster connection and trust, you create environments where teams thrive, perform efficiently, and grow together.";
 
