@@ -4196,50 +4196,97 @@ var ai_25_s4u1_9_2 = "• Risk alma ve deney yapma konusunda ne kadar cesaretlis
 var ai_25_s4u2_9_2 = "• Yapay zeka ile ilgili yenilikçi iş fikirleri geliştirme konusunda ne kadar istekliyim? Yeni projeler başlatmak için hangi adımları atıyorum?\n\n• Girişimcilik becerilerimi geliştirmek için hangi fırsatları değerlendiriyorum? AI projelerinde hangi iş fırsatlarını görebiliyorum?\n\n• Deneysel düşünce yapısına ne kadar açığım? Yeni fikirleri test etmek için hangi stratejileri uyguluyorum?\n\n• Belirsizliklerle başa çıkarken nasıl kararlar alıyorum? Risk almanın getirdiği fırsatları nasıl değerlendirebilirim?";
 
 //Yapay Zeka Çağı Yetkinliklerin İngilizce
-var ai_25_eng_s3_1_1 = "Digital Literacy";
-var ai_25_eng_s3_1_2 = "Fundamental Computer and Technology Skills: This encompasses computer usage, as well as knowledge of software and hardware. You should be able to use technology effectively and efficiently.\n\n• Basics of Artificial Intelligence: Having foundational knowledge about what AI is, how it works, and how it shapes our lives.";
-var ai_25_eng_s4u1_1_2 = "• In what areas can you make an impact with your computer and technology skills? How can you utilize these skills more effectively in school projects or your future career?\n\n• Do you think deepening your foundational knowledge about AI will help you understand which professions will be important in the future? How can you plan a career in these fields?";
-var ai_25_eng_s4u2_1_2 = "• What basic computer skills do I possess, and what can I do to advance these skills further?\n\n• How do I use technology in my daily life? Am I using technology only as a consumer, or can I also be a producer?\n\n• What do I know about artificial intelligence? How much time have I devoted to understanding how AI impacts my life?\n\n• Am I excited about learning more about AI and the opportunities it presents? What steps can I take to develop myself in this field?";
+//12-25
+var ai_12_eng_s3_1_1 = "Digital Skills and Communication";
+var ai_12_eng_s3_1_2 = "• Using Digital Tools Effectively: Using computers, phones and digital tools effectively makes your daily life easier and gives you an advantage in the world of technology.\n\n• Artificial Intelligence Basics: AI is becoming a part of our lives. Understanding what AI is and how it works will prepare you for the future.";
+var ai_12_eng_s4u1_1_2 = "• What can you do with your computer and technology skills? Think about how you can make a difference with these skills in school or in your future career. How can you use these skills more effectively in your projects?\n\n• Improve your knowledge of AI! In which professions do you think AI will be important in the future? What kind of career path can you pursue in these fields?";
+var ai_12_eng_s4u2_1_2 = "• What basic computer skills do I have, and what can I do to improve them?\n\n• How do I use technology in my daily life? Do I only use technology as a consumer, or can I also be a producer?\n\n• What do I know about artificial intelligence? How much time have I spent understanding how AI has impacted my life?\n\n• Am I excited to learn about AI and the opportunities it presents? What steps can I take to improve myself in this area?";
 
-var ai_25_eng_s3_2_1 = "Data Literacy";
-var ai_25_eng_s3_2_2 = "• Data Analysis: The ability to collect, analyze, and derive meaningful conclusions from data. In today’s world, decisions are increasingly data-driven, making this skill highly valuable.\n\n• Data Privacy and Security: Understanding the importance of data security and privacy, and knowing how to protect personal data is essential.";
-var ai_25_eng_s4u1_2_2 = "• How can you use your ability to analyze data in school projects or your professional life? What advantages do you think data-driven decision-making will provide you?\n\n• How aware are you of data security and privacy? How can you apply this knowledge in a future company or your own venture? ";
-var ai_25_eng_s4u2_2_2 = "• How do I leverage data when faced with a problem? How does making data-driven decisions simplify my work?\n\n• How do I protect my personal data? What steps am I taking to ensure my privacy online?\n\n• How knowledgeable am I about online security and data privacy? How can I increase my awareness of security vulnerabilities?\n\n• Am I aware of my responsibility to protect personal data, both mine and others'? What behaviors do I need to develop in this regard?";
+var ai_12_eng_s3_2_1 = "Data Understanding and Decision Making";
+var ai_12_eng_s3_2_2 = "• Data Collection and Understanding: Learning how to collect and analyze data allows you to make informed decisions.\n\n• Data Security: It is very important to be able to keep your personal information safe. Learning about data security protects you in the digital world.";
+var ai_12_eng_s4u1_2_2 = "• How can you use data analysis? Think about how you can use your ability to analyze data in school projects or in your business life. Discover how data-driven decision-making can benefit you?\n\n• Do you know data security? It is very important that your personal data is safe. How can you use this knowledge to be useful in a future company or your own venture?";
+var ai_12_eng_s4u2_2_2 = "• How do I use the data when I encounter a problem? How does making data-driven decisions make my job easier?\n\n• How do I protect my personal data? What steps do I take to ensure my privacy online?\n\n• How much do I know about online security and data privacy? How can I increase my awareness of vulnerabilities?\n\n• Am I aware of my responsibility to protect personal and others' data? What behaviors do I need to improve in this regard?";
 
-var ai_25_eng_s3_3_1 = "Coding and Programming";
-var ai_25_eng_s3_3_2 = "• Programming Languages: Learning foundational programming languages such as Python and JavaScript is crucial for success in AI development and tech-related jobs.\n\n• Algorithmic Thinking: Developing systematic and logical approaches to solving problems is a fundamental skill in the age of AI.";
-var ai_25_eng_s4u1_3_2 = "• How can you use your programming skills in school projects to take on leadership roles in different projects? Which programming languages do you think would help you achieve your career goals?\n\n• How can you apply your algorithmic thinking skills to solve problems more systematically? In which professions could you leverage this skill as an advantage in the future?";
-var ai_25_eng_s4u2_3_2 = "• What is my level of interest in learning programming languages? When considering learning a new language, where should I start?\n\n• languages should I learn to be more effective in my current projects?\n\n• What steps do I follow to solve problems? How advanced are my logical thinking skills?\n\n• What tools can I use to enhance my algorithmic thinking ability? How can I apply this skill more effectively in my work or educational life?";
+var ai_12_eng_s3_3_1 = "Software and Technology Applications";
+var ai_12_eng_s3_3_2 = "• Learning Programming Languages: Learning software with languages like Python and JavaScript allows you to succeed in the world of technology.\n\n• Systematic Thinking: Developing logical and organized ways to solve problems makes you strong in all areas.";
+var ai_12_eng_s4u1_3_2 = "• What can you do by learning programming? Think about how you might use your programming skills in your future business life and what projects you might lead on. Which languages can you use to achieve your career goals?\n\n• How can you come up with solutions with algorithmic thinking? How can you solve the problems you encounter more systematically with your algorithmic thinking skills? Discover which professions you can use this skill in?";
+var ai_12_eng_s4u2_3_2 = "• What is my level of interest in learning programming languages? Where do I start when I'm thinking about learning a new language?\n\n• In which areas can I further develop my programming knowledge? Which languages should I learn to be more effective in my current projects?\n\n• What steps do I follow to solve the problems? How advanced are my logical thinking skills?\n\n• What tools can I use to improve my algorithmic thinking skills? How can I use this skill better in my work or education life?";
 
-var ai_25_eng_s3_4_1 = "Critical Thinking and Problem Solving";
-var ai_25_eng_s3_4_2 = "• Analytical Thinking: The ability to extract meaning from data or events and develop solutions. This skill is vital for effectively utilizing AI tools.\n\n• Creative Problem Solving: The ability to generate innovative and creative solutions, particularly in the fields of AI and technology, provides a significant advantage.";
-var ai_25_eng_s4u1_4_2 = "• In which areas can you enhance and utilize your analytical thinking skills to derive insights from data or events? What career opportunities do you think this skill will present to you in the future?\n\n• In what projects or fields do you think you could make a difference by applying your creative problem-solving ability? How can you further develop this skill?";
-var ai_25_eng_s4u2_4_2 = "• How do I approach situations when making decisions? How analytical am I in evaluating different options?\n\n• What resources do I utilize to improve my analytical thinking skills? What strategy do I follow when facing challenging problems?\n\n• How can I foster creative thinking? How can I learn to view things from different perspectives?\n\n• How willing am I to produce more innovative solutions using technology and AI?";
+var ai_12_eng_s3_4_1 = "Critical Thinking and Solution Generation";
+var ai_12_eng_s3_4_2 = "• Analytical Thinking: Being able to make sense of data and events teaches you to make the right decisions.\n\n• Finding Creative Solutions: Being able to solve problems creatively is a huge advantage in the world of AI and technology.";
+var ai_12_eng_s4u1_4_2 = "• How can you improve your analytical thinking skills? In what areas can you improve your ability to make sense of data or events? What career opportunities can this skill lead you to?\n\n• In which projects can you make a difference with creative problem solving? Think about which areas of business you can use your ability to come up with creative solutions. How can you improve this skill?";
+var ai_12_eng_s4u2_4_2 = "• How do I approach things when making decisions? How analytically am I about considering different options?\n\n• What resources do I use to improve my analytical thinking skills? What strategy do I follow against difficult problems?\n\n• How can I develop creative thinking? How can I learn to look at it from different perspectives?\n\n• How can I develop creative thinking? How can I learn to look at it from different perspectives?";
 
-var ai_25_eng_s3_5_1 = "Adaptability and Lifelong Learning";
-var ai_25_eng_s3_5_2 = "• Flexibility: The ability to rapidly adapt to continuously changing technology and business environments. Learning new AI tools and systems is important.\n\n• Lifelong Learning: As technology evolves, the ability to learn new skills and update existing ones becomes increasingly crucial.";
-var ai_25_eng_s4u1_5_2 = "• How can you adapt in a rapidly changing technological world? In which professions do you think your ability to be flexible will lead to greater success?\n\n• What new technologies do you plan to learn with your lifelong learning mindset? How can you sustain this learning process throughout your career?";
-var ai_25_eng_s4u2_5_2 = "• How quickly can I adapt to new technologies and the changing business landscape? How do I respond to changes?\n\n• How can I be flexible in the face of the rapid development of artificial intelligence? What steps should I take to be more adaptable in my professional life?\n\n• How willing am I to improve myself? How active am I in keeping up with innovations in technology?\n\n• In which areas do I think I need to develop myself further? How can I continue learning in the AI world?";
+var ai_12_eng_s3_5_1 = "Adaptation to Change and Continuous Improvement";
+var ai_12_eng_s3_5_2 = "• Flexibility: Technology is changing rapidly, so it's important to adapt quickly and learn new things.\n\n• Being Open to Learning: Always learning new skills allows you to keep up with the evolving world.";
+var ai_12_eng_s4u1_5_2 = "• How can you adapt in the rapidly changing world of technology? Discover which professions you can be more successful in with your ability to be flexible?\n\n• How can you continue to learn about new technologies? What new skills would you like to learn with your lifelong learning approach? How can you maintain these processes?";
+var ai_12_eng_s4u2_5_2 = "• How quickly can I adapt to new technologies and the changing business world? How do I react to changes?\n\n• How can I be flexible in the face of the rapid development of artificial intelligence? What steps should I take to be more harmonious in my work life?\n\n• How eager am I to improve myself? How active am I in keeping up with what's new in technology?\n\n• In which areas do I think I need to improve more? How can I continue learning in the world of AI?";
 
-var ai_25_eng_s3_6_1 = "Communication and Collaboration";
-var ai_25_eng_s3_6_2 = "• Bridging Technical and Human Language: The ability to explain complex information clearly is essential when working in the fields of AI and technology.\n\n• Teamwork: Collaborating, especially on multidisciplinary projects, is key to success in AI initiatives.";
-var ai_25_eng_s4u1_6_2 = "• In what projects can you take the lead or guide your teammates by simplifying complex technical information? In which fields do you think you could apply this skill?\n\n• In which interdisciplinary projects can you succeed with your teamwork skills? What goals do you plan to achieve through collaboration on AI projects?";
-var ai_25_eng_s4u2_6_2 = "• How successful am I in explaining technical topics to others? How skilled am I at simplifying and clarifying my knowledge?\n\n• What skills should I develop to express technical information more clearly to my teammates or clients?\n\n• How comfortable am I when sharing my ideas within a team? What skills do I need to develop to understand group dynamics and contribute effectively?\n\n• How can I collaborate better with team members on AI projects? How can I utilize my teammates' strengths more effectively?";
+var ai_12_eng_s3_6_1 = "Effective Communication and Collaboration";
+var ai_12_eng_s3_6_2 = "• Ability to Explain Information: Explaining the new things you have learned to others allows you to be effective in the group.\n\n• Collaboration: Working with people is key to succeeding, especially on projects.";
+var ai_12_eng_s4u1_6_2 = "• How can you be effective by simplifying your technical knowledge? What projects can you lead by explaining complex information in an understandable way? Discover where you can use this skill in business areas.\n\n• How can you improve your collaboration skills? How can you succeed in interdisciplinary projects with teamwork? What goals would you like to achieve by collaborating on AI projects?";
+var ai_12_eng_s4u2_6_2 = "• How good am I at explaining technical topics to others? How adept am I at making my own knowledge plain and understandable?\n\n• What skills should I develop to be able to express technical information more clearly to my teammates or customers?\n\n• How comfortable am I sharing ideas within the team? What skills should I develop to understand and contribute to group dynamics?\n\n• How can I better collaborate with team members on AI projects? How can I use my teammates' strengths more effectively?";
 
-var ai_25_eng_s3_7_1 = "Ethics and Social Responsibility";
-var ai_25_eng_s3_7_2 = "• AI Ethics: Being aware of the societal impacts of artificial intelligence, its role in decision-making processes, and its effects on individuals.\n\n• Social Responsibility: Understanding the implications of AI and using this technology to create social benefits enables individuals to develop not only technically but also ethically.";
-var ai_25_eng_s4u1_7_2 = "• In which areas can you make a difference with your awareness of ethical AI usage? Considering the social impacts of AI, what projects do you plan to participate in?\n\n• How can you create an impact in society by using AI technologies with a sense of social responsibility? How can you utilize this awareness in your school and career life?";
-var ai_25_eng_s4u2_7_2 = "• What are my ethical responsibilities when using AI? What can I do to manage these responsibilities better?\n\n• How can I benefit society and my environment when making ethical decisions in AI projects?\n\n• How can I enhance my social responsibility awareness in artificial intelligence projects? What AI projects can I contribute to for the betterment of society?\n\n• How can I turn the opportunities presented by AI technologies into societal benefits?";
+var ai_12_eng_s3_7_1 = "Social Responsibility and Ethical Values";
+var ai_12_eng_s3_7_2 = "• AI Ethics: Understanding the impact of AI on society and how it can be used responsibly allows you to become a more informed individual.\n\n• Social Responsibility: It is very important to use technology not only for yourself but also for others.";
+var ai_12_eng_s4u1_7_2 = "• What can you do about using AI ethically? Which projects do you plan to take part in, considering the social impact of AI? In which areas can you make a difference?\n\n• How can you use AI technologies for society? How can you use this awareness more effectively in your school and career life?";
+var ai_12_eng_s4u2_7_2 = "• What are my ethical responsibilities when using AI? What should I do to better manage these responsibilities?\n\n• When making ethical decisions in AI projects, how can I benefit society and my environment?\n\n• How can I improve my social responsibility awareness in artificial intelligence projects? What AI projects can I contribute to for the good of society?\n\n• How can I turn the opportunities brought by AI technologies into societal benefit??";
 
-var ai_25_eng_s3_8_1 = "Emotional Intelligence (EQ)";
-var ai_25_eng_s3_8_2 = "• Empathy and Emotional Understanding: It is important not to lose sight of human relationships and emotional awareness while working intensively with AI and technological tools. Emotional intelligence is invaluable for leadership and management skills.\n\n• Stress Management: Skills for coping with the stress brought about by continuous learning and adaptation in the AI and digital world should also be developed.";
-var ai_25_eng_s4u1_8_2 = "• How can your empathy help you better understand the needs of your coworkers or clients? How can you apply this skill in leadership or management positions?\n\n• With your competencies in stress management, how can you succeed in demanding and challenging projects? How can you further develop this skill in your career?";
-var ai_25_eng_s4u2_8_2 = "• How much importance do I place on interpersonal relationships when working with artificial intelligence and technology? How can I develop my empathy skills?\n\n• How much do I utilize emotional intelligence in technology projects? What can I do to be more empathetic in the workplace?\n\n• How do I cope with the stress brought on by continuous learning in the AI and digital world? What are my stress management strategies?\n\n• How do I relax during challenging projects? What skills do I need to develop in stress management?";
+var ai_12_eng_s3_8_1 = "Emotional Awareness and Communication";
+var ai_12_eng_s3_8_2 = "• Empathy: Understanding people's emotions helps you build strong relationships.\n\n• Coping with Stress: Keeping up with rapidly changing conditions in the digital world can sometimes create stress. Being able to cope with this stress keeps you healthier.";
+var ai_12_eng_s4u1_8_2 = "• How can you use your empathy skills? How can you develop this skill to better understand the needs of your colleagues or customers? How can you use it in leadership or management positions?\n\n•  How can you cope with stress? How can you improve your stress management skills so that you can succeed in challenging projects? How can you develop this skill over the course of your career?";
+var ai_12_eng_s4u2_8_2 = "• How much do I care about my human relationships when working with artificial intelligence and technology? How can I improve my empathy?\n\n• How much do I use my emotional intelligence in tech projects? What can I do to be more empathetic at work?\n\n• How do I deal with the stress of continuous learning in the AI and digital world? What are my strategies for coping with stress?\n\n• How do I relax myself in challenging projects? What skills should I develop in stress management?";
 
-var ai_25_eng_s3_9_1 = "Innovative and Entrepreneurial Thinking";
-var ai_25_eng_s3_9_2 = "• Entrepreneurship: The ability to develop innovative business ideas in the age of AI and bring those ideas to life.\n\n• Risk-Taking and Experimentation: AI and technological innovations often involve uncertainty. Therefore, individuals should be willing to take risks and open to experimental thinking.";
-var ai_25_eng_s4u1_9_2 = "• With your entrepreneurial mindset, what innovative business ideas can you bring to life in the age of AI? What steps do you plan to take to realize these ideas?\n\n• How courageous are you in taking risks and experimenting? How can you turn this courage into opportunities in your school projects or professional life?";
-var ai_25_eng_s4u2_9_2 = "• How willing am I to develop innovative business ideas related to artificial intelligence? What steps am I taking to initiate new projects?\n\n• What opportunities am I exploring to enhance my entrepreneurial skills? What job opportunities do I see in AI projects?\n\n• How open am I to experimental thinking? What strategies do I apply to test new ideas?\n\n• How do I make decisions when dealing with uncertainties? How can I evaluate the opportunities that come with taking risks?";
+var ai_12_eng_s3_9_1 = "Creative Thinking and Entrepreneurship";
+var ai_12_eng_s3_9_2 = "• Creativity and Entrepreneurship: Being able to develop innovative ideas and bring them to life makes you strong in the business world.\n\n• Taking Risks and Experimenting: Trying new things sometimes requires taking risks. This courage sets you apart and creates great opportunities.";
+var ai_12_eng_s4u1_9_2 = "• How can you develop innovative business ideas? With your entrepreneurial thinking ability, what business ideas can you bring to life in the age of AI? Think about what steps you need to take to realize these ideas.\n\n• Are you afraid to take risks? How can you turn your courage to take risks and experiment into opportunities in school projects or in your career?";
+var ai_12_eng_s4u2_9_2 = "• How enthusiastic am I about developing innovative business ideas related to artificial intelligence? What steps do I take to start new projects?\n\n• What opportunities do I take to develop my entrepreneurial skills? What job opportunities can I see in AI projects?\n\n• How open am I to experimental thinking? What strategies do I use to test new ideas?\n\n• How do I make decisions when dealing with uncertainties? How can I seize the opportunities that come with taking risks?";
+
+//25+
+var ai_25_eng_s3_1_1 = "Digital Skills and Communication";
+var ai_25_eng_s3_1_2 = "• Basic Digital Skills: Being able to use computers effectively and having basic knowledge of software and hardware is an important step for you to be successful in the digital world. These skills can make your daily life easier and give you an edge in your professional life.\n\n• Artificial Intelligence Basics: AI is integrating into every aspect of our lives. Understanding what AI is, how it works, and how it shapes our lives is becoming increasingly important for you to use technology more efficiently.";
+var ai_25_eng_s4u1_1_2 = "• In which areas can you make a difference with your computer and technology skills? If you are thinking about how you can use these skills in your business life, discover in which projects you can use these skills more effectively.\n\n• Do you deepen your basic knowledge of AI and think in which professions artificial intelligence will be important in the future? What kind of career can you plan in these fields?";
+var ai_25_eng_s4u2_1_2 = "• What basic computer skills do I have, and what can I do to improve them?\n\n• How do I use technology in my daily life? Do I only use technology as a consumer, or can I also be a producer?\n\n• What do I know about artificial intelligence? How much time have I spent understanding how AI has impacted my life?\n\n• Am I excited to learn about AI and the opportunities it presents? What steps can I take to improve myself in this area?";
+
+var ai_25_eng_s3_2_1 = "Data Understanding and Decision Making";
+var ai_25_eng_s3_2_2 = "• Data Analysis: The ability to collect, analyze, and draw meaningful conclusions from data is becoming more important every day. This skill will allow you to understand complex information and make the right decisions.\n\n• Data Security and Privacy: In the digital world, it is very important to protect your personal information safely. Knowing about data security gives you a safer experience in the digital environment.";
+var ai_25_eng_s4u1_2_2 = "• How can you use your ability to analyze data in your business life? How do you think making data-driven decisions will benefit you?\n\n• How conscious are you about data security and privacy? How can you use this knowledge in your company or your own venture?";
+var ai_25_eng_s4u2_2_2 = "• How do I use the data when I encounter a problem? How does making data-driven decisions make my job easier?\n\n• How do I protect my personal data? What steps do I take to ensure my privacy online?\n\n• How much do I know about online security and data privacy? How can I increase my awareness of vulnerabilities?\n\n• Am I aware of my responsibility to protect personal and others' data? What behaviors do I need to improve in this regard?";
+
+var ai_25_eng_s3_3_1 = "Software and Technology Applications";
+var ai_25_eng_s3_3_2 = "• Programming Languages: Learning basic programming languages such as Python and JavaScript will help you succeed in technology-related projects. This skill allows you to connect more closely with AI developments and digital innovations.\n\n• Creative Solution Generation: The  ability to develop different and innovative solutions makes you more effective in every field. Creating solutions using your creativity in the fields of AI and technology offers you many opportunities.";
+var ai_25_eng_s4u1_3_2 = "• How can you use your programming skills in business and lead different projects? Which programming languages do you think will help you achieve your career goals?\n\n• How can you solve the problems you encounter with more systematic solutions with your algorithmic thinking skills? In which professions can you use this skill to your advantage in the future?";
+var ai_25_eng_s4u2_3_2 = "• What is my level of interest in learning programming languages? Where do I start when I'm thinking about learning a new language?\n\n• In which areas can I further develop my programming knowledge? Which languages should I learn to be more effective in my current projects?\n\n• What steps do I follow to solve the problems? How advanced are my logical thinking skills?\n\n• What tools can I use to improve my algorithmic thinking skills? How can I use this skill better in my work or education life?";
+
+var ai_25_eng_s3_4_1 = "Critical Thinking and Solution Generation";
+var ai_25_eng_s3_4_2 = "• Analytical Thinking: Being able to draw meaningful conclusions from data will be an important competency for you. Analytical thinking empowers you to solve complex problems.\n\n• Creative Problem Solving: The ability to generate innovative and creative solutions, particularly in the fields of AI and technology, provides a significant advantage.";
+var ai_25_eng_s4u1_4_2 = "• In which areas can you develop and use your analytical thinking skills and the ability to make sense of data or events? What career opportunities do you think this skill will offer you in the future?\n\n• In which projects or areas of work do you think you can make a difference by using your creative problem-solving skills? How can you further develop this skill?";
+var ai_25_eng_s4u2_4_2 = "• How do I approach things when making decisions? How analytically am I about considering different options?\n\n• What resources do I use to improve my analytical thinking skills? What strategy do I follow against difficult problems?\n\n• How can I develop creative thinking? How can I learn to look at it from different perspectives?\n\n• How eager am I to create more innovative solutions using technology and AI?";
+
+var ai_25_eng_s3_5_1 = "Adaptation to Change and Continuous Improvement";
+var ai_25_eng_s3_5_2 = "• Flexibility: It is very important to be able to adapt quickly in the ever-changing world of technology and business. Adapting to new technologies and learning about evolving systems will make you future-proof..\n\n• Lifelong Learning: Technology is advancing rapidly, and constantly learning new things allows you to keep up with these advances. Continuous learning and self-improvement offer great benefits in your professional life.";
+var ai_25_eng_s4u1_5_2 = "• How can you adapt in a rapidly changing world of technology? In which professions do you think you can be more successful with your ability to be flexible?\n\n• Which new technologies do you plan to learn with your lifelong learning approach? How can you continue this learning process throughout your career?";
+var ai_25_eng_s4u2_5_2 = "• How quickly can I adapt to new technologies and the changing business world? How do I react to changes?\n\n• How can I be flexible in the face of the rapid development of artificial intelligence? What steps should I take to be more harmonious in my work life?\n\n• How eager am I to improve myself? How active am I in keeping up with what's new in technology?\n\n• In which areas do I think I need to improve more? How can I continue learning in the world of AI?";
+
+var ai_25_eng_s3_6_1 = "Effective Communication and Collaboration";
+var ai_25_eng_s3_6_2 = "• Ability to Share Knowledge: Being able to express information about technology and AI in a simple and understandable way is a powerful skill. Being able to convey complex information to others makes it easier to collaborate.\n\n• Collaboration: Collaborating effectively on multidisciplinary projects is one of the keys to achieving success. Being able to work with people makes you stand out on larger projects.";
+var ai_25_eng_s4u1_6_2 = "• Which projects can you lead or guide your teammates with your ability to explain complex technical information in a simple way? In which areas of business do you think you can use this skill?\n\n• What interdisciplinary projects can you succeed in with your collaboration skills? What goals do you plan to achieve by collaborating on AI projects?";
+var ai_25_eng_s4u2_6_2 = "• How good am I at explaining technical topics to others? How adept am I at making my own knowledge plain and understandable?\n\n• What skills should I develop to be able to express technical information more clearly to my teammates or customers?\n\n• How comfortable am I sharing ideas within the team? What skills should I develop to understand and contribute to group dynamics?\n\n• How can I better collaborate with team members on AI projects? How can I use my teammates' strengths more effectively?";
+
+var ai_25_eng_s3_7_1 = "Social Responsibility and Ethical Values";
+var ai_25_eng_s3_7_2 = "• AI Ethics: Understanding the societal implications and decision-making processes of AI helps you develop an ethical perspective. Using AI technologies responsibly benefits society.\n\n• Social Responsibility: Becoming aware of the societal impact of AI enables you to use technology in a way that creates social good. This makes you a more responsible individual, not only professionally, but also socially.";
+var ai_25_eng_s4u1_7_2 = "• In which areas can you make a difference with your awareness of the ethical use of artificial intelligence? Considering the social impact of AI, which projects do you plan to be involved in?\n\n• How can you make an impact on society by using AI technologies in a socially responsible manner? How can you use this awareness in your school and career life?";
+var ai_25_eng_s4u2_7_2 = "• What are my ethical responsibilities when using AI? What should I do to better manage these responsibilities?\n\n• When making ethical decisions in AI projects, how can I benefit society and my environment?\n\n• How can I improve my social responsibility awareness in artificial intelligence projects? What AI projects can I contribute to for the good of society?\n\n• How can I turn the opportunities brought by AI technologies into societal benefit?";
+
+var ai_25_eng_s3_8_1 = "Emotional Awareness and Communication";
+var ai_25_eng_s3_8_2 = "• Empathy and Emotional Understanding: When dealing with technology, it's crucial not to lose sight of human relationships and emotional awareness. Empathy makes you strong in your relationships with people.\n\n• Coping with Stress: Stress management is important in order to cope with the speed and change brought by the digital world. This skill allows you to achieve a healthier balance in your work life.";
+var ai_25_eng_s4u1_8_2 = "• How can you empathize and better understand the needs of your colleagues or customers? How can you use this skill in leadership or management positions?\n\n• How can you succeed in intense and challenging projects with your stress management competencies? How can you develop this skill in your career?";
+var ai_25_eng_s4u2_8_2 = "• How much do I care about my human relationships when working with artificial intelligence and technology? How can I improve my empathy?\n\n• How much do I use my emotional intelligence in tech projects? What can I do to be more empathetic at work?\n\n• How do I deal with the stress of continuous learning in the AI and digital world? What are my strategies for coping with stress?\n\n• How do I relax myself in challenging projects? What skills should I develop in stress management?";
+
+var ai_25_eng_s3_9_1 = "Creative Thinking and Entrepreneurship";
+var ai_25_eng_s3_9_2 = "• Entrepreneurship: In the age of AI, generating innovative business ideas and bringing these ideas to life offers you opportunities. Entrepreneurship allows you to develop a strong vision in the business world.\n\n• Risk-Taking and Experimental Thinking: As innovative technologies and AI evolve, sometimes you may need to take risks. Trying new things and boldly navigating uncertain terrain will make you successful.";
+var ai_25_eng_s4u1_9_2 = "• What innovative business ideas can you bring to life in the age of AI with your entrepreneurial thinking skills? What steps do you plan to take to realize these ideas?\n\n• How courageous are you to take risks and experiment? How can you turn this courage into opportunities in school projects or in your business life?";
+var ai_25_eng_s4u2_9_2 = "• How enthusiastic am I about developing innovative business ideas related to artificial intelligence? What steps do I take to start new projects?\n\n• What opportunities do I take to develop my entrepreneurial skills? What job opportunities can I see in AI projects?\n\n• How open am I to experimental thinking? What strategies do I use to test new ideas?\n\n• How do I make decisions when dealing with uncertainties? How can I seize the opportunities that come with taking risks?";
 
 //Ekip Çalışmasına Yatkınlık
 var teamwork_name_1_1 = "Aktif Dinleme ve Empati";
@@ -5575,7 +5622,7 @@ var decision_strategy_eng_ozet_11_2 = "Your decision-making process requires a d
 }
   
   let ai = (aiName, age, type, lang) => {
-    if (lang == "Tr") {
+    if (lang == "Tr" && age > 25) {
       if (type == "name") {
         if (aiName == "Dijital Okuryazarlık") {
           return ai_25_s3_1_1;
@@ -5819,6 +5866,88 @@ var decision_strategy_eng_ozet_11_2 = "Your decision-making process requires a d
           return ai_25_eng_s4u2_8_2;
         } else if (aiName == "Yenilikçi ve Girişimci Düşünce") {
           return ai_25_eng_s4u2_9_2;
+        }
+      }
+    } else if (lang == "En" && age <= 25) {
+      if (type == "name") {
+        if (aiName == "Dijital Okuryazarlık") {
+          return ai_12_eng_s3_1_1;
+        } else if (aiName == "Veri Okur Yazarlığı") {
+          return ai_12_eng_s3_2_1;
+        } else if (aiName == "Kodlama ve Programlama") {
+          return ai_12_eng_s3_3_1;
+        } else if (aiName == "Eleştirel Düşünme ve Problem Çözme") {
+          return ai_12_eng_s3_4_1;
+        } else if (aiName == "Uyarlanabilirlik ve Sürekli Öğrenme") {
+          return ai_12_eng_s3_5_1;
+        } else if (aiName == "İletişim ve İşbirliği") {
+          return ai_12_eng_s3_6_1;
+        } else if (aiName == "Etik ve Sosyal Sorumluluk") {
+          return ai_12_eng_s3_7_1;
+        } else if (aiName == "Duygusal Zeka (EQ)") {
+          return ai_12_eng_s3_8_1;
+        } else if (aiName == "Yenilikçi ve Girişimci Düşünce") {
+          return ai_12_eng_s3_9_1;
+        }
+    } else if (type == "s3_x_2") {
+        if (aiName == "Dijital Okuryazarlık") {
+          return ai_12_eng_s3_1_2;
+        } else if (aiName == "Veri Okur Yazarlığı") {
+          return ai_12_eng_s3_2_2;
+        } else if (aiName == "Kodlama ve Programlama") {
+          return ai_12_eng_s3_3_2;
+        } else if (aiName == "Eleştirel Düşünme ve Problem Çözme") {
+          return ai_12_eng_s3_4_2;
+        } else if (aiName == "Uyarlanabilirlik ve Sürekli Öğrenme") {
+          return ai_12_eng_s3_5_2;
+        } else if (aiName == "İletişim ve İşbirliği") {
+          return ai_12_eng_s3_6_2;
+        } else if (aiName == "Etik ve Sosyal Sorumluluk") {
+          return ai_12_eng_s3_7_2;
+        } else if (aiName == "Duygusal Zeka (EQ)") {
+          return ai_12_eng_s3_8_2;
+        } else if (aiName == "Yenilikçi ve Girişimci Düşünce") {
+          return ai_12_eng_s3_9_2;
+        }
+      } else if (type == "s4u1_x_2") {
+        if (aiName == "Dijital Okuryazarlık") {
+          return ai_12_eng_s4u1_1_2;
+        } else if (aiName == "Veri Okur Yazarlığı") {
+          return ai_12_eng_s4u1_2_2;
+        } else if (aiName == "Kodlama ve Programlama") {
+          return ai_12_eng_s4u1_3_2;
+        } else if (aiName == "Eleştirel Düşünme ve Problem Çözme") {
+          return ai_12_eng_s4u1_4_2;
+        } else if (aiName == "Uyarlanabilirlik ve Sürekli Öğrenme") {
+          return ai_12_eng_s4u1_5_2;
+        } else if (aiName == "İletişim ve İşbirliği") {
+          return ai_12_eng_s4u1_6_2;
+        } else if (aiName == "Etik ve Sosyal Sorumluluk") {
+          return ai_12_eng_s4u1_7_2;
+        } else if (aiName == "Duygusal Zeka (EQ)") {
+          return ai_12_eng_s4u1_8_2;
+        } else if (aiName == "Yenilikçi ve Girişimci Düşünce") {
+          return ai_12_eng_s4u1_9_2;
+        }
+      } else if (type == "s4u2_x_2") {
+        if (aiName == "Dijital Okuryazarlık") {
+          return ai_12_eng_s4u2_1_2;
+        } else if (aiName == "Veri Okur Yazarlığı") {
+          return ai_12_eng_s4u2_2_2;
+        } else if (aiName == "Kodlama ve Programlama") {
+          return ai_12_eng_s4u2_3_2;
+        } else if (aiName == "Eleştirel Düşünme ve Problem Çözme") {
+          return ai_12_eng_s4u2_4_2;
+        } else if (aiName == "Uyarlanabilirlik ve Sürekli Öğrenme") {
+          return ai_12_eng_s4u2_5_2;
+        } else if (aiName == "İletişim ve İşbirliği") {
+          return ai_12_eng_s4u2_6_2;
+        } else if (aiName == "Etik ve Sosyal Sorumluluk") {
+          return ai_12_eng_s4u2_7_2;
+        } else if (aiName == "Duygusal Zeka (EQ)") {
+          return ai_12_eng_s4u2_8_2;
+        } else if (aiName == "Yenilikçi ve Girişimci Düşünce") {
+          return ai_12_eng_s4u2_9_2;
         }
       }
     }
@@ -10276,7 +10405,7 @@ var decision_strategy_eng_ozet_11_2 = "Your decision-making process requires a d
           return kariyer_secim_ozet_9_2;
         }
       }
-    } else if (lang == "Tr" && age >= 12 && age <= 25) {
+    } else if (lang == "Tr" && age <= 25) {
       if (type == "name") {
         if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yaratıcı ve Sanatsal Kariyerler") {
           return kariyer_secim_25_plus_s2_1_1;
