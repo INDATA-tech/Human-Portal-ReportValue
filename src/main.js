@@ -104,6 +104,19 @@ export default async ({ req, res, log, error }) => {
       String(req.body),
     );
 
+    // const client = new Client()
+    //   .setEndpoint("https://appwrite.careerpathkey.com/v1")
+    //   .setProject("665474aa001cd7ecbebd") //process.env.APPWRITE_FUNCTION_PROJECT_ID)
+    //   .setKey(
+    //     "standard_fc8ec2e6ba27f2e46550495fe49df65e1e69f290ccb1d05a0fa75ed027d245d188cf2d18bd2f51a6677d6c68d674b5556505044ae8855b4e56f568e3bf7e62021aa069761cb1ca6c3f118afb69564794429105c53b2056a5d4abd4bdd7f520862d43556e6cd52f3dfd085a1ec66a740c40e00826bcbdad51d2cd77dbd2657c11",
+    //   ); //process.env.APPWRITE_API_KEY)
+    // var database = new Databases(client);
+    // var answers = await database.getDocument(
+    //   "65dc57b1e8322b0426ae",
+    //   "65e97978db53e3998c12",
+    //   String(req),
+    // );
+
   var processedData = JSON.parse(answers.ProcessedData);
   var rawData = JSON.parse(answers.RawData);
 
@@ -1017,6 +1030,18 @@ export default async ({ req, res, log, error }) => {
   var image_karar_verme_stratejileri_9 = "https://appwrite.anahtarsensin.com/v1/storage/buckets/6708de8e00054cee7bd1/files/6756b28b0007742258d3/view?project=665474aa001cd7ecbebd&project=665474aa001cd7ecbebd&mode=admin";
   var image_karar_verme_stratejileri_10 = "https://appwrite.anahtarsensin.com/v1/storage/buckets/6708de8e00054cee7bd1/files/6756b2910026e301602b/view?project=665474aa001cd7ecbebd&project=665474aa001cd7ecbebd&mode=admin";
   var image_karar_verme_stratejileri_11 = "https://appwrite.anahtarsensin.com/v1/storage/buckets/6708de8e00054cee7bd1/files/6756b297003dca7ce90e/view?project=665474aa001cd7ecbebd&project=665474aa001cd7ecbebd&mode=admin";
+
+  var image_karar_verme_stratejileri_eng_1 = "https://appwrite.anahtarsensin.com/v1/storage/buckets/6708de8e00054cee7bd1/files/685543c400091f82ad37/view?project=664d9d3100058da52135&project=664d9d3100058da52135&mode=admin";
+  var image_karar_verme_stratejileri_eng_2 = "https://appwrite.anahtarsensin.com/v1/storage/buckets/6708de8e00054cee7bd1/files/685543de003c2a8a7887/view?project=664d9d3100058da52135&project=664d9d3100058da52135&mode=admin";
+  var image_karar_verme_stratejileri_eng_3 = "https://appwrite.anahtarsensin.com/v1/storage/buckets/6708de8e00054cee7bd1/files/685543e4003bb3fe1d7c/view?project=664d9d3100058da52135&project=664d9d3100058da52135&mode=admin";
+  var image_karar_verme_stratejileri_eng_4 = "https://appwrite.anahtarsensin.com/v1/storage/buckets/6708de8e00054cee7bd1/files/685543eb0011a7c0b428/view?project=664d9d3100058da52135&project=664d9d3100058da52135&mode=admin";
+  var image_karar_verme_stratejileri_eng_5 = "https://appwrite.anahtarsensin.com/v1/storage/buckets/6708de8e00054cee7bd1/files/685543eb0011a7c0b428/view?project=664d9d3100058da52135&project=664d9d3100058da52135&mode=admin";
+  var image_karar_verme_stratejileri_eng_6 = "https://appwrite.anahtarsensin.com/v1/storage/buckets/6708de8e00054cee7bd1/files/685543f70012cbded0e7/view?project=664d9d3100058da52135&project=664d9d3100058da52135&mode=admin";
+  var image_karar_verme_stratejileri_eng_7 = "https://appwrite.anahtarsensin.com/v1/storage/buckets/6708de8e00054cee7bd1/files/685543fe0031c53165c5/view?project=664d9d3100058da52135&project=664d9d3100058da52135&mode=admin";
+  var image_karar_verme_stratejileri_eng_8 = "https://appwrite.anahtarsensin.com/v1/storage/buckets/6708de8e00054cee7bd1/files/685543fe0031c53165c5/view?project=664d9d3100058da52135&project=664d9d3100058da52135&mode=admin";
+  var image_karar_verme_stratejileri_eng_9 = "https://appwrite.anahtarsensin.com/v1/storage/buckets/6708de8e00054cee7bd1/files/6855440a00089de1ee53/view?project=664d9d3100058da52135&project=664d9d3100058da52135&mode=admin";
+  var image_karar_verme_stratejileri_eng_10 = "https://appwrite.anahtarsensin.com/v1/storage/buckets/6708de8e00054cee7bd1/files/6855440f003200f2efeb/view?project=664d9d3100058da52135&project=664d9d3100058da52135&mode=admin";
+  var image_karar_verme_stratejileri_eng_11 = "https://appwrite.anahtarsensin.com/v1/storage/buckets/6708de8e00054cee7bd1/files/68554416000c5de78d53/view?project=664d9d3100058da52135&project=664d9d3100058da52135&mode=admin";
 
   var image_6_3_leader_explorer = "https://appwrite.anahtarsensin.com/v1/storage/buckets/6708de8e00054cee7bd1/files/673322ea0023c9901d57/view?project=665474aa001cd7ecbebd&project=665474aa001cd7ecbebd&mode=admin";
   var image_6_2_talented_leader = "https://appwrite.anahtarsensin.com/v1/storage/buckets/6708de8e00054cee7bd1/files/673322e2001fdd7852d7/view?project=665474aa001cd7ecbebd&project=665474aa001cd7ecbebd&mode=admin";
@@ -6304,7 +6329,7 @@ var decision_strategy_eng_ozet_11_2 = "Your decision-making process requires a d
         }
       } else if (type == "ozet_1") {
         if (lifestyleData == "Manifesting Generator") {
-          return lifestyle_manifesting_generator_ozet_1;
+          return lifestyle_manifesting_generator_ozet_1;z
         } else if (lifestyleData == "Generator") {
           return lifestyle_generator_ozet_1;;
         } else if (lifestyleData == "Projector") {
@@ -6547,7 +6572,7 @@ var decision_strategy_eng_ozet_11_2 = "Your decision-making process requires a d
           else
             return lifestyle_25_plus_manifesting_generator_image_w;
         } else if (lifestyleData == "Generator") {
-            if(cinsiyet == "Female")
+            if(cinsiyet == "Male")
               return lifestyle_25_plus_generator_image_m
             else
               return lifestyle_25_plus_generator_image_w
@@ -7816,31 +7841,31 @@ var decision_strategy_eng_ozet_11_2 = "Your decision-making process requires a d
     } else if (lang = "En") {
       if (type == "image") {
         if (decisionStrategyData.strategy == "To Respond" && decisionStrategyData.innerAuthority == "Emotional") {
-            return image_karar_verme_stratejileri_1; 
+            return image_karar_verme_stratejileri_eng_1; 
         } else if (decisionStrategyData.strategy == "To Respond" && decisionStrategyData.innerAuthority == "Sacral") {
-            return image_karar_verme_stratejileri_2; 
+            return image_karar_verme_stratejileri_eng_2; 
         } else if (decisionStrategyData.strategy == "Wait for the Invitation" && decisionStrategyData.innerAuthority == "Emotional") {
-            return image_karar_verme_stratejileri_3; 
+            return image_karar_verme_stratejileri_eng_3; 
         } else if (decisionStrategyData.strategy == "Wait for the Invitation" && decisionStrategyData.innerAuthority == "Splenic") {
-            return image_karar_verme_stratejileri_4; 
+            return image_karar_verme_stratejileri_eng_4; 
         } else if (decisionStrategyData.strategy == "Wait for the Invitation" && decisionStrategyData.innerAuthority == "Ego Projected") {
-            return image_karar_verme_stratejileri_5; 
+            return image_karar_verme_stratejileri_eng_5; 
         } else if (decisionStrategyData.strategy == "Wait for the Invitation" && decisionStrategyData.innerAuthority == "Self Projected") {
-            return image_karar_verme_stratejileri_6; 
+            return image_karar_verme_stratejileri_eng_6; 
         } else if (decisionStrategyData.strategy == "Wait for the Invitation" && decisionStrategyData.innerAuthority == "Mental") {
-            return image_karar_verme_stratejileri_7; 
+            return image_karar_verme_stratejileri_eng_7; 
         } else if (decisionStrategyData.strategy == "Wait for the Invitation" && decisionStrategyData.innerAuthority == "N") {
-            return image_karar_verme_stratejileri_7; 
+            return image_karar_verme_stratejileri_eng_7; 
         } else if (decisionStrategyData.strategy == "To Inform" && decisionStrategyData.innerAuthority == "Emotional") {
-            return image_karar_verme_stratejileri_8; 
+            return image_karar_verme_stratejileri_eng_8; 
         } else if (decisionStrategyData.strategy == "To Inform" && decisionStrategyData.innerAuthority == "Splenic") {
-            return image_karar_verme_stratejileri_9; 
+            return image_karar_verme_stratejileri_eng_9; 
         } else if (decisionStrategyData.strategy == "To Inform" && decisionStrategyData.innerAuthority == "Ego Manifested") {
-            return image_karar_verme_stratejileri_10; 
+            return image_karar_verme_stratejileri_eng_10; 
         } else if (decisionStrategyData.strategy == "Wait a Lunar Cycle" && decisionStrategyData.innerAuthority == "Lunar") {
-            return image_karar_verme_stratejileri_11; 
+            return image_karar_verme_stratejileri_eng_11; 
         } else if (decisionStrategyData.strategy == "Wait a Lunar Cycle" && decisionStrategyData.innerAuthority == "N") {
-            return image_karar_verme_stratejileri_11; 
+            return image_karar_verme_stratejileri_eng_11; 
       }
       }
       else if (type == "name") {
