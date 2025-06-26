@@ -3127,7 +3127,517 @@ var kariyer_secim_25_plus_s7_eng_finTech_9_5 = "• Risk Analyst (FinTech): By a
 var kariyer_secim_25_plus_s7_eng_finTech_9_6 = "• Blockchain Data Analyst: By analyzing data obtained from blockchain systems, you can increase the security and transparency of financial transactions.";
 var kariyer_secim_25_plus_s7_eng_finTech_9_7 = "";
 
+// Enerji ve Yenilenebilir Enerji 
+var kariyer_secim_25_plus_s7_eng_energy_1_1 = "Creative and Artistic Careers";
+var kariyer_secim_25_plus_s7_eng_energy_1_2 = "Jobs in the energy and renewable energy sector where you can use your creativity can be:";
+var kariyer_secim_25_plus_s7_eng_energy_1_3 = "• Sustainability Communication Specialist: You can develop creative media content and social media strategies to promote renewable energy projects.";
+var kariyer_secim_25_plus_s7_eng_energy_1_4 = "• Energy Design Consultant: You can develop creative projects and propose innovative energy solutions to create green building design, energy efficiency and sustainable living spaces.";
+var kariyer_secim_25_plus_s7_eng_energy_1_5 = "• Energy Education Content Designer: You can create educational and video content and digital platforms about renewable energy sources and environmentally friendly living.";
+var kariyer_secim_25_plus_s7_eng_energy_1_6 = "• Renewable Energy Branding Expert: By strengthening the brand identities of renewable energy companies, you can promote environmentally friendly products and services.";
+var kariyer_secim_25_plus_s7_eng_energy_1_7 = "";
 
+var kariyer_secim_25_plus_s7_eng_energy_2_1 = "Leadership and Management Careers";
+var kariyer_secim_25_plus_s7_eng_energy_2_2 = "Jobs in the energy and renewable energy sector where you can use your leadership and management skills include:";
+var kariyer_secim_25_plus_s7_eng_energy_2_3 = "• Renewable Energy Project Manager: You can manage the design, construction and operation of solar, wind, hydroelectric or biomass energy projects.";
+var kariyer_secim_25_plus_s7_eng_energy_2_4 = "• Energy Manager: By optimizing an organization's energy use, you can develop strategies to ensure it achieves its sustainability goals.";
+var kariyer_secim_25_plus_s7_eng_energy_2_5 = "• Environment and Energy Director: You can direct the sustainability policies of companies and plan environmentally friendly energy solutions and projects.";
+var kariyer_secim_25_plus_s7_eng_energy_2_6 = "• Renewable Energy Strategist: You can lead the development and implementation of renewable energy strategies, and undertake the financing and management of projects.";
+var kariyer_secim_25_plus_s7_eng_energy_2_7 = "";
+
+var kariyer_secim_25_plus_s7_eng_energy_3_1 = "Charity & Social Careers";
+var kariyer_secim_25_plus_s7_eng_energy_3_2 = "Jobs in the energy and renewable energy sector where you can use your social and philanthropic side can be:";
+var kariyer_secim_25_plus_s7_eng_energy_3_3 = "• Energy Access Consultant: You can develop projects to provide electricity and energy access to low-income areas through renewable energy solutions.";
+var kariyer_secim_25_plus_s7_eng_energy_3_4 = "• Social Responsibility Specialist (Energy): You can provide social benefit by increasing environmental sustainability through renewable energy projects.";
+var kariyer_secim_25_plus_s7_eng_energy_3_5 = "• Energy Education Specialist: By providing training on renewable energy in schools and communities, you can promote the use of environmentally friendly energy.";
+var kariyer_secim_25_plus_s7_eng_energy_3_6 = "• Environmental Activist (Energy): You can organize campaigns to raise awareness and raise public awareness about environmentally friendly energy solutions.";
+var kariyer_secim_25_plus_s7_eng_energy_3_7 = "";
+
+var kariyer_secim_25_plus_s7_eng_energy_4_1 = "Technical and Engineering Careers";
+var kariyer_secim_25_plus_s7_eng_energy_4_2 = "Jobs in the energy and renewable energy sector where you can use your technical and engineering skills include:";
+var kariyer_secim_25_plus_s7_eng_energy_4_3 = "• Renewable Energy Engineer: You can develop energy production systems from renewable sources such as solar energy, wind energy or biomass energy, and ensure the efficient operation of facilities.";
+var kariyer_secim_25_plus_s7_eng_energy_4_4 = "• Energy Efficiency Engineer: You can develop engineering solutions for energy efficiency improvement projects and optimize energy savings.";
+var kariyer_secim_25_plus_s7_eng_energy_4_5 = "• Electrical Engineer (Renewable Energy): You can develop technical solutions for the integration of renewable energy sources and the production of this energy.";
+var kariyer_secim_25_plus_s7_eng_energy_4_6 = "• Hydroelectric Engineer: You can manage the design, installation and maintenance processes for hydroelectric power plants, and develop projects to convert water resources into energy.";
+var kariyer_secim_25_plus_s7_eng_energy_4_7 = "";
+
+var kariyer_secim_25_plus_s7_eng_energy_5_1 = "Sales and Relationship Building Careers";
+var kariyer_secim_25_plus_s7_eng_energy_5_2 = "Jobs in the energy and renewable energy industry where you can use your sales and relationship management skills include:";
+var kariyer_secim_25_plus_s7_eng_energy_5_3 = "• Renewable Energy Sales Specialist: By offering solar, wind energy or other renewable energy solutions for sale, you can provide energy solutions that best suit your customers' needs.";
+var kariyer_secim_25_plus_s7_eng_energy_5_4 = "• Sustainability Consultant: By providing renewable energy solutions to organizations, you can enable them to adopt environmentally friendly solutions.";
+var kariyer_secim_25_plus_s7_eng_energy_5_5 = "• Energy Products Sales Manager: You can manage the sales of renewable energy technologies and reach the target audience with strategic marketing campaigns.";
+var kariyer_secim_25_plus_s7_eng_energy_5_6 = "• Corporate Sales Specialist (Energy): You can develop long-term business relationships by providing energy management solutions and renewable energy projects to large companies.";
+var kariyer_secim_25_plus_s7_eng_energy_5_7 = "";
+
+var kariyer_secim_25_plus_s7_eng_energy_6_1 = "Organizational and Administrative Careers";
+var kariyer_secim_25_plus_s7_eng_energy_6_2 = "Jobs in the energy and renewable energy sector where you can use your organizational and managerial skills can be:";
+var kariyer_secim_25_plus_s7_eng_energy_6_3 = "• Energy Operations Manager: You can manage the daily operations of energy production facilities and increase efficiency by monitoring production processes.";
+var kariyer_secim_25_plus_s7_eng_energy_6_4 = "• Energy Project Coordinator: By coordinating between teams in renewable energy projects, you can increase the efficiency of the projects.";
+var kariyer_secim_25_plus_s7_eng_energy_6_5 = "• Administrative Support Specialist (Energy): You can support the administrative processes of renewable energy projects and facilities and prepare the necessary reports and documents.";
+var kariyer_secim_25_plus_s7_eng_energy_6_6 = "• Human Resources Specialist (Energy): You can organize human resources processes in institutions in the energy sector.";
+var kariyer_secim_25_plus_s7_eng_energy_6_7 = "";
+
+var kariyer_secim_25_plus_s7_eng_energy_7_1 = "Innovative and Entrepreneurial Careers";
+var kariyer_secim_25_plus_s7_eng_energy_7_2 = "Jobs in the energy and renewable energy sector where you can use innovative thinking and entrepreneurial spirit can be:";
+var kariyer_secim_25_plus_s7_eng_energy_7_3 = "• Renewable Energy Entrepreneur: By establishing a startup that offers renewable energy solutions, you can make a difference with innovative solutions in the sector.";
+var kariyer_secim_25_plus_s7_eng_energy_7_4 = "• Energy Storage Solutions Entrepreneur: You can develop new products in energy storage technologies to increase the efficient use of energy resources.";
+var kariyer_secim_25_plus_s7_eng_energy_7_5 = "• Sustainable Energy Innovation Consultant: By providing innovative sustainable energy solutions to companies, you can ensure the development of environmentally friendly projects.";
+var kariyer_secim_25_plus_s7_eng_energy_7_6 = "• Electric Vehicle Entrepreneur: You can develop charging infrastructures or innovative energy solutions for electric vehicles, creating new business opportunities to ensure sustainability in the transportation sector.";
+var kariyer_secim_25_plus_s7_eng_energy_7_7 = "";
+
+var kariyer_secim_25_plus_s7_eng_energy_8_1 = "Teaching and Mentoring Careers";
+var kariyer_secim_25_plus_s7_eng_energy_8_2 = "Jobs in the energy and renewable energy sector where you can use your teaching and mentoring skills include:";
+var kariyer_secim_25_plus_s7_eng_energy_8_3 = "• Renewable Energy Trainer: You can give lectures on renewable energy systems in educational institutions.";
+var kariyer_secim_25_plus_s7_eng_energy_8_4 = "• Sustainability Mentor: You can guide young professionals or students about sustainable energy solutions and help them develop their careers.";
+var kariyer_secim_25_plus_s7_eng_energy_8_5 = "• Environmental Trainer: You can provide trainings in communities or organizations on environmentally friendly energy use and sustainability.";
+var kariyer_secim_25_plus_s7_eng_energy_8_6 = "• Mentor (Energy and Renewables): You can mentor professionals pursuing a career in renewable energy on business development, project management or energy efficiency.";
+var kariyer_secim_25_plus_s7_eng_energy_8_7 = "";
+
+var kariyer_secim_25_plus_s7_eng_energy_9_1 = "Analytics and Data-Driven Careers";
+var kariyer_secim_25_plus_s7_eng_energy_9_2 = "Jobs in the energy and renewable energy sector where you can use analytical thinking and data skills include:";
+var kariyer_secim_25_plus_s7_eng_energy_9_3 = "• Energy Data Analyst: By analyzing renewable energy production and consumption data, you can develop strategic recommendations to improve energy efficiency.";
+var kariyer_secim_25_plus_s7_eng_energy_9_4 = "• Renewable Energy Performance Analyst: By measuring the efficiency of power plants and renewable energy systems, you can optimize processes and develop performance-enhancing solutions.";
+var kariyer_secim_25_plus_s7_eng_energy_9_5 = "• Systems Engineer (Energy Data): By setting up data systems to monitor and manage renewable energy systems, you can improve operational efficiency.";
+var kariyer_secim_25_plus_s7_eng_energy_9_6 = "• Energy Market Analyst: You can develop energy trading and pricing strategies and predict the future of the markets.";
+var kariyer_secim_25_plus_s7_eng_energy_9_7 = "";
+
+// Danışmanlık, Koçluk ve Mentörlük
+var kariyer_secim_25_plus_s7_eng_mentor_1_1 = "Creative and Artistic Careers";
+var kariyer_secim_25_plus_s7_eng_mentor_1_2 = "Jobs in the consulting, coaching and mentoring sector where you can use your creativity can be:";
+var kariyer_secim_25_plus_s7_eng_mentor_1_3 = "• Career Coach: You can provide personal and creative guidance for individuals to set their career goals and make the most of their potential.";
+var kariyer_secim_25_plus_s7_eng_mentor_1_4 = "• Personal Development Trainer: You can create training programs that help individuals unleash their creativity and inner potential.";
+var kariyer_secim_25_plus_s7_eng_mentor_1_5 = "• Life Coach: By helping people gain more control over their lives, you can encourage them to live more fulfilling lives.";
+var kariyer_secim_25_plus_s7_eng_mentor_1_6 = "• Training and Content Designer (Coaching and Consultancy): You can increase the efficiency of the process by designing creative training materials, video content or interactive digital platforms suitable for the coaching and consultancy process.";
+var kariyer_secim_25_plus_s7_eng_mentor_1_7 = "";
+
+var kariyer_secim_25_plus_s7_eng_mentor_2_1 = "Leadership and Management Careers";
+var kariyer_secim_25_plus_s7_eng_mentor_2_2 = "Jobs in the consulting, coaching and mentoring industry where you can use your leadership and management skills include:";
+var kariyer_secim_25_plus_s7_eng_mentor_2_3 = "• Executive Coach: You can provide coaching services to senior executives to improve their leadership skills, make strategic decisions and lead more effectively.";
+var kariyer_secim_25_plus_s7_eng_mentor_2_4 = "• Corporate Coaching Manager: By providing coaching and consulting services to companies, you can develop strategies to improve organizational development and employee performance.";
+var kariyer_secim_25_plus_s7_eng_mentor_2_5 = "• Human Resources Consultant: You can optimize the human resources processes of organizations and provide guidance on internal leadership, performance management and employee motivation.";
+var kariyer_secim_25_plus_s7_eng_mentor_2_6 = "• Business Transformation Consultant: You can guide companies' digital transformation processes and help them adapt to strategic changes.";
+var kariyer_secim_25_plus_s7_eng_mentor_2_7 = "";
+
+var kariyer_secim_25_plus_s7_eng_mentor_3_1 = "Charity & Social Careers";
+var kariyer_secim_25_plus_s7_eng_mentor_3_2 = "Jobs in the consulting, coaching and mentoring sector where you can use your social and helpful sides can be:";
+var kariyer_secim_25_plus_s7_eng_mentor_3_3 = "• Life Coach: By helping individuals achieve their personal goals, you can guide them to improve their quality of life.";
+var kariyer_secim_25_plus_s7_eng_mentor_3_4 = "• Social Entrepreneur Coach: By helping social entrepreneurs develop effective projects, you can contribute to creating strategies that can change societies in a positive way.";
+var kariyer_secim_25_plus_s7_eng_mentor_3_5 = "• Family Counselor: You can provide counseling to solve problems in family relationships and to help family members establish healthy relationships.";
+var kariyer_secim_25_plus_s7_eng_mentor_3_6 = "• Social Responsibility Coach: You can guide individuals to fulfill their social responsibilities and create environmental/social impact.";
+var kariyer_secim_25_plus_s7_eng_mentor_3_7 = "";
+
+var kariyer_secim_25_plus_s7_eng_mentor_4_1 = "Technical and Engineering Careers";
+var kariyer_secim_25_plus_s7_eng_mentor_4_2 = "Jobs in the consulting, coaching and mentoring industry where you can use your technical and engineering skills include:";
+var kariyer_secim_25_plus_s7_eng_mentor_4_3 = "• Data Analytics Consultant: You can guide companies on data analysis, reporting and business intelligence, and help them improve their decision-making processes.";
+var kariyer_secim_25_plus_s7_eng_mentor_4_4 = "• Technology Coach: You can help companies or individuals adapt to digital technological developments.";
+var kariyer_secim_25_plus_s7_eng_mentor_4_5 = "• Software Development Coach: You can coach individuals on software development and technology projects and help them improve their technical skills.";
+var kariyer_secim_25_plus_s7_eng_mentor_4_6 = "• Cyber Security Consultant: You can guide companies in developing cyber security strategies and ensuring security in the digital world.";
+var kariyer_secim_25_plus_s7_eng_mentor_4_7 = "";
+
+var kariyer_secim_25_plus_s7_eng_mentor_5_1 = "Sales and Relationship Building Careers";
+var kariyer_secim_25_plus_s7_eng_mentor_5_2 = "Jobs in the consulting, coaching, and mentoring industry where you can use your sales and relationship management skills include:";
+var kariyer_secim_25_plus_s7_eng_mentor_5_3 = "• Corporate Training and Coaching Sales Specialist: You can sell corporate coaching programs and training materials and offer solutions for the needs of companies.";
+var kariyer_secim_25_plus_s7_eng_mentor_5_4 = "• Coaching Services Sales Manager: You can lead the promotion of coaching services, create marketing strategies and manage customer relationships.";
+var kariyer_secim_25_plus_s7_eng_mentor_5_5 = "• Business Development Consultant: You can help companies discover new business opportunities and conduct strategic business development studies in the marketing of coaching and consulting services.";
+var kariyer_secim_25_plus_s7_eng_mentor_5_6 = "• Customer Relations Coordinator: You can manage the customer relations of companies that provide consultancy and coaching services.";
+var kariyer_secim_25_plus_s7_eng_mentor_5_7 = "";
+
+var kariyer_secim_25_plus_s7_eng_mentor_6_1 = "Organizational and Administrative Careers";
+var kariyer_secim_25_plus_s7_eng_mentor_6_2 = "Jobs in the consulting, coaching and mentoring industry where you can use your organizational and administrative skills include:";
+var kariyer_secim_25_plus_s7_eng_mentor_6_3 = "• Coaching Administrative Support Specialist: You can organize the day-to-day operations of coaches and consultants, arrange appointments, meetings and events.";
+var kariyer_secim_25_plus_s7_eng_mentor_6_4 = "• Training and Coaching Organization Manager: You can manage operational processes for planning, implementing and monitoring training and coaching programs.";
+var kariyer_secim_25_plus_s7_eng_mentor_6_5 = "• Coaching Services Operations Manager: You can develop operational strategies to increase the effectiveness of your coaching services and improve the quality of service.";
+var kariyer_secim_25_plus_s7_eng_mentor_6_6 = "• Human Resources and Training Coordinator: You can coordinate in-house training programs and coaching sessions, and follow the progress of employees.";
+var kariyer_secim_25_plus_s7_eng_mentor_6_7 = "";
+
+var kariyer_secim_25_plus_s7_eng_mentor_7_1 = "Innovative and Entrepreneurial Careers";
+var kariyer_secim_25_plus_s7_eng_mentor_7_2 = "Jobs in the consulting, coaching and mentoring industry where you can use innovative thinking and entrepreneurial spirit include:";
+var kariyer_secim_25_plus_s7_eng_mentor_7_3 = "• Career Coaching Entrepreneur: By establishing your own career coaching business, you can support the career journeys of individuals and lead in your field by creating a personal brand.";
+var kariyer_secim_25_plus_s7_eng_mentor_7_4 = "• Social Entrepreneurship Coach: By providing guidance in the field of social entrepreneurship, you can help entrepreneurs create social impact and develop innovative projects.";
+var kariyer_secim_25_plus_s7_eng_mentor_7_5 = "• Digital Coaching Platform Founder: By setting up online coaching platforms, you can provide coaching services to individuals or companies in a digital environment.";
+var kariyer_secim_25_plus_s7_eng_mentor_7_6 = "• Coaching Consulting Agency Founder: By establishing your own consulting agency, you can provide coaching services to a wide range of clients and help the development of business leaders.";
+var kariyer_secim_25_plus_s7_eng_mentor_7_7 = "";
+
+var kariyer_secim_25_plus_s7_eng_mentor_8_1 = "Teaching and Mentoring Careers";
+var kariyer_secim_25_plus_s7_eng_mentor_8_2 = "Jobs in the consulting, coaching and mentoring industry where you can use your teaching and mentoring skills can be:";
+var kariyer_secim_25_plus_s7_eng_mentor_8_3 = "• Coaching Trainer: By training other coaches, you can make them professional coaches and help them improve their coaching skills.";
+var kariyer_secim_25_plus_s7_eng_mentor_8_4 = "• Career Mentor: You can mentor young professionals on career development, job finding strategies, and adaptation to the world of work.";
+var kariyer_secim_25_plus_s7_eng_mentor_8_5 = "• Business Development Mentor: You can guide entrepreneurs and new business owners on business development strategies, marketing, and sales.";
+var kariyer_secim_25_plus_s7_eng_mentor_8_6 = "• Social Responsibility Coach (Mentoring): You can guide individuals who want to take part in social responsibility projects and mentor projects that will create social impact.";
+var kariyer_secim_25_plus_s7_eng_mentor_8_7 = "";
+
+var kariyer_secim_25_plus_s7_eng_mentor_9_1 = "Analytics and Data-Driven Careers";
+var kariyer_secim_25_plus_s7_eng_mentor_9_2 = "Jobs in the consulting, coaching, and mentoring industry where you can use your analytical thinking and data skills include:";
+var kariyer_secim_25_plus_s7_eng_mentor_9_3 = "• Data Analytics Consultant: By measuring the efficiency of coaching and consultancy services, you can support development processes with data-driven analysis and develop strategies.";
+var kariyer_secim_25_plus_s7_eng_mentor_9_4 = "• Business Performance Analyst (Coaching and Consultancy): By analyzing organizational development processes, you can offer productivity-enhancing coaching and consultancy solutions.";
+var kariyer_secim_25_plus_s7_eng_mentor_9_5 = "• Coaching Process Analyst: You can analyze the effectiveness of your coaching sessions, monitor customer success rates and suggest improvements.";
+var kariyer_secim_25_plus_s7_eng_mentor_9_6 = "• Career Development Data Analyst: By following the career development processes of individuals, you can create development strategies and personal goals based on data.";
+var kariyer_secim_25_plus_s7_eng_mentor_9_7 = "";
+
+// Turizm ve Misafirperverlik
+var kariyer_secim_25_plus_s7_eng_tourism_1_1 = "Creative and Artistic Careers";
+var kariyer_secim_25_plus_s7_eng_tourism_1_2 = "Jobs where you can use your creativity in the tourism and hospitality sector can be:";
+var kariyer_secim_25_plus_s7_eng_tourism_1_3 = "• Tourism Content Designer: You can contribute to the promotion of destinations by designing content for travel blogs, tourism brochures, advertising materials, and digital platforms.";
+var kariyer_secim_25_plus_s7_eng_tourism_1_4 = "• Tourism Photographer/Videographer: You can prepare photo and video content to promote tourist attractions, hotels or events, and convey your travel experiences through visual expression.";
+var kariyer_secim_25_plus_s7_eng_tourism_1_5 = "• Experience Designer: You can design creative programs, events, and themes for the tourism industry to provide customers with memorable touristic experiences.";
+var kariyer_secim_25_plus_s7_eng_tourism_1_6 = "• Travel Writer: You can tell about your travel experiences and destinations in written content, and reach large audiences through travel guides or blogs.";
+var kariyer_secim_25_plus_s7_eng_tourism_1_7 = "";
+
+var kariyer_secim_25_plus_s7_eng_tourism_2_1 = "Leadership and Management Careers";
+var kariyer_secim_25_plus_s7_eng_tourism_2_2 = "Jobs in the tourism and hospitality industry where you can use your leadership and management skills include:";
+var kariyer_secim_25_plus_s7_eng_tourism_2_3 = "• Hotel Manager: You can manage all operations of a hotel or resort and develop strategies to increase customer satisfaction.";
+var kariyer_secim_25_plus_s7_eng_tourism_2_4 = "• Hospitality Manager: You can manage customer service and optimize processes to maximize guests' stay experience.";
+var kariyer_secim_25_plus_s7_eng_tourism_2_5 = "• Event and Conference Manager: By organizing large organizations, congresses and events, you can manage all organizational processes to ensure the satisfaction of the participants.";
+var kariyer_secim_25_plus_s7_eng_tourism_2_6 = "• Tourism Director: You can lead the management and strategy development of tourist destinations, and direct regional tourism policies.";
+var kariyer_secim_25_plus_s7_eng_tourism_2_7 = "";
+
+var kariyer_secim_25_plus_s7_eng_tourism_3_1 = "Charity & Social Careers";
+var kariyer_secim_25_plus_s7_eng_tourism_3_2 = "Jobs in the tourism and hospitality sector where you can use your social and helpful sides can be:";
+var kariyer_secim_25_plus_s7_eng_tourism_3_3 = "• Social Responsibility Coordinator (Tourism): You can develop strategies to ensure that businesses in the tourism sector fulfill their environmental and social responsibilities, and develop projects that are beneficial to the society.";
+var kariyer_secim_25_plus_s7_eng_tourism_3_4 = "• Customer Service Representative: By assisting customers with their vacation, travel and accommodation processes, you can solve their problems and meet their expectations.";
+var kariyer_secim_25_plus_s7_eng_tourism_3_5 = "• Eco-Friendly Tourism Coordinator: You can develop sustainable tourism solutions and collaborate with hotels, resorts or tour companies for environmentally friendly projects.";
+var kariyer_secim_25_plus_s7_eng_tourism_3_6 = "• Helpful Travel Advisor: You can provide travel planning and counseling services for people with disabilities, the elderly, or people with special needs.";
+var kariyer_secim_25_plus_s7_eng_tourism_3_7 = "";
+
+var kariyer_secim_25_plus_s7_eng_tourism_4_1 = "Technical and Engineering Careers";
+var kariyer_secim_25_plus_s7_eng_tourism_4_2 = "Jobs in the tourism and hospitality industry where you can use your technical and engineering skills include:";
+var kariyer_secim_25_plus_s7_eng_tourism_4_3 = "• Hotel IT Manager: You can manage the digital infrastructures of hotels and increase efficiency by implementing hotel management software and digital solutions.";
+var kariyer_secim_25_plus_s7_eng_tourism_4_4 = "• Energy Efficiency Specialist (Tourism): You can develop energy efficiency-enhancing solutions in hotels, resorts or other tourism areas and optimize sustainable energy use.";
+var kariyer_secim_25_plus_s7_eng_tourism_4_5 = "• Tourism Software Developer: You can develop software specific to this sector (reservation systems, digital customer service) and contribute to digital transformation.";
+var kariyer_secim_25_plus_s7_eng_tourism_4_6 = "• Touristic Infrastructure Engineer: You can develop infrastructure projects in touristic areas and manage the construction processes of hotels, resorts and other accommodation areas.";
+var kariyer_secim_25_plus_s7_eng_tourism_4_7 = "";
+
+var kariyer_secim_25_plus_s7_eng_tourism_5_1 = "Sales and Relationship Building Careers";
+var kariyer_secim_25_plus_s7_eng_tourism_5_2 = "Jobs in the tourism and hospitality industry where you can use your sales and relationship management skills include:";
+var kariyer_secim_25_plus_s7_eng_tourism_5_3 = "• Tourism Sales Manager: You can develop sales strategies for travel agencies, hotels or resorts, and create new customers and business opportunities.";
+var kariyer_secim_25_plus_s7_eng_tourism_5_4 = "• Digital Marketing Specialist (Tourism): You can create digital marketing strategies for the travel and tourism industry and promote through social media, SEO and other digital channels.";
+var kariyer_secim_25_plus_s7_eng_tourism_5_5 = "• Business Development Manager (Tourism): You can develop new business opportunities at home and abroad, and create marketing strategies to increase the sales of touristic services.";
+var kariyer_secim_25_plus_s7_eng_tourism_5_6 = "• Customer Relationship Manager (Hospitality): You can monitor guests' experiences in hotels or resorts and build personal relationships to increase their satisfaction.";
+var kariyer_secim_25_plus_s7_eng_tourism_5_7 = "";
+
+var kariyer_secim_25_plus_s7_eng_tourism_6_1 = "Organizational and Administrative Careers";
+var kariyer_secim_25_plus_s7_eng_tourism_6_2 = "Jobs in the tourism and hospitality industry where you can use your organizational and administrative skills include:";
+var kariyer_secim_25_plus_s7_eng_tourism_6_3 = "• Hotel Operations Manager: You can manage the daily operations of the hotel and ensure customer satisfaction by organizing employees.";
+var kariyer_secim_25_plus_s7_eng_tourism_6_4 = "• Reservation and Cancellation Coordinator: You can manage the reservation processes of the guests and run the hotel or resort reservation systems on a regular basis.";
+var kariyer_secim_25_plus_s7_eng_tourism_6_5 = "• Human Resources Specialist (Tourism): You can manage the recruitment processes of personnel working in the tourism sector and organize training and development programs.";
+var kariyer_secim_25_plus_s7_eng_tourism_6_6 = "• Finance Manager (Tourism): You can oversee the financial operations of hotels or resorts and develop budgeting, financial reporting and efficiency-enhancing strategies.";
+var kariyer_secim_25_plus_s7_eng_tourism_6_7 = "";
+
+var kariyer_secim_25_plus_s7_eng_tourism_7_1 = "Innovative and Entrepreneurial Careers";
+var kariyer_secim_25_plus_s7_eng_tourism_7_2 = "Jobs in the tourism and hospitality sector where you can use innovative thinking and entrepreneurial spirit can be:";
+var kariyer_secim_25_plus_s7_eng_tourism_7_3 = "• Tourism Entrepreneur: By establishing your own tourism agency or travel company, you can offer new destinations or experiences and fill the gaps in the industry.";
+var kariyer_secim_25_plus_s7_eng_tourism_7_4 = "• Travel Technology Entrepreneur: You can develop digital platforms, mobile applications or innovative solutions for the travel industry and contribute to the digital transformation in the industry.";
+var kariyer_secim_25_plus_s7_eng_tourism_7_5 = "• Sustainable Tourism Entrepreneur: You can develop new projects that offer sustainable tourism solutions and make a difference in this field by protecting natural resources.";
+var kariyer_secim_25_plus_s7_eng_tourism_7_6 = "• Luxury Tourism and Experience Entrepreneur: You can organize luxury holiday packages, VIP travel experiences or special events for high-budget customers.";
+var kariyer_secim_25_plus_s7_eng_tourism_7_7 = "";
+
+var kariyer_secim_25_plus_s7_eng_tourism_8_1 = "Teaching and Mentoring Careers";
+var kariyer_secim_25_plus_s7_eng_tourism_8_2 = "Jobs in the tourism and hospitality industry where you can use your teaching and mentoring skills include:";
+var kariyer_secim_25_plus_s7_eng_tourism_8_3 = "• Tourism Instructor: By providing training in tourism and hospitality schools, you can provide students with skills related to the sector and prepare them for the business world.";
+var kariyer_secim_25_plus_s7_eng_tourism_8_4 = "• Travel Coach: You can help individuals create personal travel plans and routes, and personalize their travel experience.";
+var kariyer_secim_25_plus_s7_eng_tourism_8_5 = "• Hospitality Mentor: You can guide beginner professionals in the hospitality industry and provide information about business processes and customer service in the industry.";
+var kariyer_secim_25_plus_s7_eng_tourism_8_6 = "• Executive Coach (Tourism): You can coach employees in managerial positions in hotels or tourism companies on leadership, time management and decision-making skills.";
+var kariyer_secim_25_plus_s7_eng_tourism_8_7 = "";
+
+var kariyer_secim_25_plus_s7_eng_tourism_9_1 = "Analytics and Data-Driven Careers";
+var kariyer_secim_25_plus_s7_eng_tourism_9_2 = "Jobs in the tourism and hospitality industry where you can use analytical thinking and data skills include:";
+var kariyer_secim_25_plus_s7_eng_tourism_9_3 = "• Tourism Marketing Analyst: By analyzing marketing data in the travel and tourism industry, you can make your marketing strategies more efficient.";
+var kariyer_secim_25_plus_s7_eng_tourism_9_4 = "• Customer Experience Analyst: By collecting guest feedback, you can provide data that will improve the customer experience of hotels and resorts.";
+var kariyer_secim_25_plus_s7_eng_tourism_9_5 = "• Tourism Trends Analyst: By analyzing new trends in the travel industry, you can make strategic recommendations to businesses in the tourism industry.";
+var kariyer_secim_25_plus_s7_eng_tourism_9_6 = "• Reservation and Sales Analyst: By analyzing hotel or resort reservation data, you can optimize your sales strategies and develop revenue-increasing solutions.";
+var kariyer_secim_25_plus_s7_eng_tourism_9_7 = "";
+
+//agroTech
+var kariyer_secim_25_plus_s7_eng_agroTech_1_1 = "Creative and Artistic Careers";
+var kariyer_secim_25_plus_s7_eng_agroTech_1_1 = "Creative and Artistic Careers";
+var kariyer_secim_25_plus_s7_eng_agroTech_1_2 = "Jobs where you can use your creativity in the agriculture and agricultural technology sector can be:";
+var kariyer_secim_25_plus_s7_eng_agroTech_1_3 = "• Agricultural Content Creators: By creating creative educational content, blog posts, video series, and infographics for farmers and agricultural industry professionals, you can convey knowledge through visual and written means.";
+var kariyer_secim_25_plus_s7_eng_agroTech_1_4 = "• Agricultural Technologies Branding Specialist: By developing brand strategies of agricultural sector-oriented products and services, you can create effective campaigns for the target audience.";
+var kariyer_secim_25_plus_s7_eng_agroTech_1_5 = "• Social Media Manager (Agriculture): By helping to promote products in the agricultural sector on digital platforms, you can sell information and products on social media.";
+var kariyer_secim_25_plus_s7_eng_agroTech_1_6 = "• Food Designer: You can develop the packaging designs of agricultural products and offer visual solutions to make the products more attractive.";
+var kariyer_secim_25_plus_s7_eng_agroTech_1_7 = "";
+
+var kariyer_secim_25_plus_s7_eng_agroTech_2_1 = "Leadership and Management Careers";
+var kariyer_secim_25_plus_s7_eng_agroTech_2_2 = "Jobs in the agriculture and agritech sector where you can use your leadership and management skills include:";
+var kariyer_secim_25_plus_s7_eng_agroTech_2_3 = "• Chief Executive Officer - CEO: You can make strategic decisions and direct product development, marketing, and operations in agricultural technology companies.";
+var kariyer_secim_25_plus_s7_eng_agroTech_2_4 = "• Agricultural Projects Manager: You can manage all stages of agricultural projects, organize teams to ensure that projects are completed efficiently and on time.";
+var kariyer_secim_25_plus_s7_eng_agroTech_2_5 = "• Agricultural Supply Chain Manager: You can manage the process from the production, storage and distribution of agricultural products and develop strategies to increase productivity.";
+var kariyer_secim_25_plus_s7_eng_agroTech_2_6 = "• Agricultural Sector Consultant: By providing strategic consultancy to agricultural enterprises, you can increase production efficiency and offer suggestions for sustainable agricultural practices.";
+var kariyer_secim_25_plus_s7_eng_agroTech_2_7 = "";
+
+var kariyer_secim_25_plus_s7_eng_agroTech_3_1 = "Charity & Social Careers";
+var kariyer_secim_25_plus_s7_eng_agroTech_3_2 = "Jobs in the agriculture and agricultural technology sector where you can use your social and philanthropic sides can be:";
+var kariyer_secim_25_plus_s7_eng_agroTech_3_3 = "• Agricultural Trainer: You can train farmers on topics such as modern farming methods, biotechnology and agricultural machinery.";
+var kariyer_secim_25_plus_s7_eng_agroTech_3_4 = "• Social Agriculture Entrepreneur: By combining agricultural production with social goals, you can contribute to local communities and develop sustainable agricultural projects.";
+var kariyer_secim_25_plus_s7_eng_agroTech_3_5 = "• Food Safety Advisor: You can advise farmers to ensure food safety and ensure the healthy production and processing of agricultural products.";
+var kariyer_secim_25_plus_s7_eng_agroTech_3_6 = "• Rural Development Consultant: You can provide guidance to rural farmers and entrepreneurs to provide training, financial support, and promotion of local development.";
+var kariyer_secim_25_plus_s7_eng_agroTech_3_7 = "";
+
+var kariyer_secim_25_plus_s7_eng_agroTech_4_1 = "Technical and Engineering Careers";
+var kariyer_secim_25_plus_s7_eng_agroTech_4_2 = "Jobs in the agricultural and agricultural technology sector where you can use your technical and engineering skills can be:";
+var kariyer_secim_25_plus_s7_eng_agroTech_4_3 = "• Agricultural Engineer: You can improve agricultural processes, produce engineering solutions related to irrigation systems, fertilization and plant health.";
+var kariyer_secim_25_plus_s7_eng_agroTech_4_4 = "• Agricultural Technology Developer: You can develop smart agricultural applications and sensors, and produce digital tools that enable farmers to produce more efficiently.";
+var kariyer_secim_25_plus_s7_eng_agroTech_4_5 = "• Biotechnology Engineer (Agriculture): With genetic engineering and biotechnological solutions, you can develop more durable and efficient agricultural products.";
+var kariyer_secim_25_plus_s7_eng_agroTech_4_6 = "• Irrigation Systems Engineer: By designing efficient irrigation systems, you can develop projects to use water resources more efficiently.";
+var kariyer_secim_25_plus_s7_eng_agroTech_4_7 = "";
+
+var kariyer_secim_25_plus_s7_eng_agroTech_5_1 = "Sales and Relationship Building Careers";
+var kariyer_secim_25_plus_s7_eng_agroTech_5_2 = "Jobs in the agriculture and agritech sector where you can use your sales and relationship management skills include:";
+var kariyer_secim_25_plus_s7_eng_agroTech_5_3 = "• Agricultural Products Sales Manager: You can sell agricultural machinery, fertilizers, seeds or plant protection products, and increase sales by introducing these products to farmers.";
+var kariyer_secim_25_plus_s7_eng_agroTech_5_4 = "• Agricultural Technologies Sales Specialist: You can provide consultancy on agricultural technologies, smart devices and software for farmers, and manage sales processes.";
+var kariyer_secim_25_plus_s7_eng_agroTech_5_5 = "• Business Development Manager (AgriTech): You can discover new business opportunities in the agriculture and agricultural technology sector, and expand your marketing and sales networks by establishing strategic business partnerships.";
+var kariyer_secim_25_plus_s7_eng_agroTech_5_6 = "• Customer Relationship Manager (Agriculture): By establishing long-term relationships with the customers of companies in the agricultural sector, you can increase customer satisfaction and loyalty.";
+var kariyer_secim_25_plus_s7_eng_agroTech_5_7 = "";
+
+var kariyer_secim_25_plus_s7_eng_agroTech_6_1 = "Organizational and Administrative Careers";
+var kariyer_secim_25_plus_s7_eng_agroTech_6_2 = "Jobs in the agricultural and agricultural technology sector where you can use your organizational and administrative skills can be:";
+var kariyer_secim_25_plus_s7_eng_agroTech_6_3 = "• Agriculture Operations Manager: By organizing agricultural production processes, you can direct teams and develop productivity-enhancing solutions.";
+var kariyer_secim_25_plus_s7_eng_agroTech_6_4 = "• Agricultural Production Coordinator: You can coordinate the production processes of agricultural products, control the quality of products and apply sustainable production techniques.";
+var kariyer_secim_25_plus_s7_eng_agroTech_6_5 = "• Human Resources Specialist (Agriculture): You can organize the recruitment of personnel working in enterprises in the agricultural sector and create strategies for their training and development.";
+var kariyer_secim_25_plus_s7_eng_agroTech_6_6 = "• Finance Manager (Agriculture): You can manage the financial processes of businesses in the agricultural sector, develop budgeting, financial reporting and productivity-enhancing strategies.";
+var kariyer_secim_25_plus_s7_eng_agroTech_6_7 = "";
+
+var kariyer_secim_25_plus_s7_eng_agroTech_7_1 = "Innovative and Entrepreneurial Careers";
+var kariyer_secim_25_plus_s7_eng_agroTech_7_2 = "Jobs in the agriculture and agricultural technology sector where you can use innovative thinking and entrepreneurial spirit can be:";
+var kariyer_secim_25_plus_s7_eng_agroTech_7_3 = "• AgriTech Entrepreneur: By establishing an innovative business in agricultural technologies, you can develop digital solutions that will enable farmers to increase production efficiency.";
+var kariyer_secim_25_plus_s7_eng_agroTech_7_4 = "• Sustainable Agriculture Entrepreneur: By establishing a business on organic farming or environmentally friendly production methods, you can offer environmentally friendly solutions and make a difference in the sector.";
+var kariyer_secim_25_plus_s7_eng_agroTech_7_5 = "• Useful Biotechnology Entrepreneur: By starting a startup that produces biotechnological solutions in the agricultural sector, you can develop products that are resistant to plant diseases.";
+var kariyer_secim_25_plus_s7_eng_agroTech_7_6 = "• Digital Agriculture Entrepreneur: You can develop a software or platform that digitizes farmers' production processes, enabling farmers to produce more efficiently and sustainably.";
+var kariyer_secim_25_plus_s7_eng_agroTech_7_7 = "";
+
+var kariyer_secim_25_plus_s7_eng_agroTech_8_1 = "Teaching and Mentoring Careers";
+var kariyer_secim_25_plus_s7_eng_agroTech_8_2 = "Jobs in the agriculture and agritech sector where you can use your teaching and mentoring skills include:";
+var kariyer_secim_25_plus_s7_eng_agroTech_8_3 = "• Agricultural Trainer: You can provide training to farmers and agricultural sector professionals on agricultural techniques, modern machinery, biotechnology and sustainable agriculture.";
+var kariyer_secim_25_plus_s7_eng_agroTech_8_4 = "• Agricultural Coach: You can guide individuals or farmers to be more efficient in agriculture and teach them advanced production techniques.";
+var kariyer_secim_25_plus_s7_eng_agroTech_8_5 = "• Social Agriculture Mentor: You can mentor farmers and local entrepreneurs on rural development and sustainable agriculture, and contribute to the strengthening of communities.";
+var kariyer_secim_25_plus_s7_eng_agroTech_8_6 = "• Agriculture and Technology Consultant: You can guide businesses on industry best practices and innovative solutions.";
+var kariyer_secim_25_plus_s7_eng_agroTech_8_7 = "";
+
+var kariyer_secim_25_plus_s7_eng_agroTech_9_1 = "Analytics and Data-Driven Careers";
+var kariyer_secim_25_plus_s7_eng_agroTech_9_2 = "Jobs in the agriculture and agritech sector where you can use analytical thinking and data skills include:";
+var kariyer_secim_25_plus_s7_eng_agroTech_9_3 = "• Agricultural Data Analyst: By analyzing agricultural production processes, you can develop strategic recommendations and provide data-driven solutions to increase productivity.";
+var kariyer_secim_25_plus_s7_eng_agroTech_9_4 = "• Sustainable Agriculture Analyst: By analyzing the environmental impacts of agriculture, you can evaluate the effectiveness of sustainable agricultural practices and offer suggestions for improvement.";
+var kariyer_secim_25_plus_s7_eng_agroTech_9_5 = "• Agricultural Technology Data Manager: By collecting and analyzing data for the sector, you can help farmers make informed decisions.";
+var kariyer_secim_25_plus_s7_eng_agroTech_9_6 = "• Agricultural Market Analyst: By analyzing the pricing, demand and supply data of agricultural products, you can provide market insights for producers and traders.";
+var kariyer_secim_25_plus_s7_eng_agroTech_9_7 = "";
+
+//logistic
+var kariyer_secim_25_plus_s7_eng_logistic_1_1 = "Creative and Artistic Careers";
+var kariyer_secim_25_plus_s7_eng_logistic_1_2 = "Jobs in the logistics and transportation industry where you can use your creative skills include:";
+var kariyer_secim_25_plus_s7_eng_logistic_1_3 = "• Logistics Content Designer: You can design visual and written content, create infographics, advertising materials and digital content to promote logistics processes and transportation services.";
+var kariyer_secim_25_plus_s7_eng_logistic_1_4 = "• Packaging Designer: You can develop creative packaging solutions and consider logistics and sustainability strategies for the protection of products in transportation and logistics processes.";
+var kariyer_secim_25_plus_s7_eng_logistic_1_5 = "• Digital Marketing Specialist: You can develop your digital marketing strategies and build customer relationships through SEO, digital ads and social media platforms.";
+var kariyer_secim_25_plus_s7_eng_logistic_1_6 = "• Visual Communication Designer: You can develop navigation solutions in urban transportation by designing information signs and visual materials for traffic management.";
+var kariyer_secim_25_plus_s7_eng_logistic_1_7 = "";
+
+var kariyer_secim_25_plus_s7_eng_logistic_2_1 = "Leadership and Management Careers";
+var kariyer_secim_25_plus_s7_eng_logistic_2_2 = "Jobs in the logistics and transportation industry where you can use your leadership and management skills include:";
+var kariyer_secim_25_plus_s7_eng_logistic_2_3 = "• Logistics Manager: You can manage every stage of the supply chain and optimize storage, transportation, inventory control and distribution processes.";
+var kariyer_secim_25_plus_s7_eng_logistic_2_4 = "• Transportation Manager: You can manage urban transportation networks, ensure the efficient and timely operation of buses, trains and other transportation vehicles, and develop transportation solutions.";
+var kariyer_secim_25_plus_s7_eng_logistic_2_5 = "• Supply Chain Manager: By controlling all processes in the supply chain, you can increase the efficiency of logistics processes and manage supplier relations.";
+var kariyer_secim_25_plus_s7_eng_logistic_2_6 = "• Logistics Operations Director: You can improve logistics and transportation processes, determine management strategies and ensure the smooth operation of operations.";
+var kariyer_secim_25_plus_s7_eng_logistic_2_7 = "";
+
+var kariyer_secim_25_plus_s7_eng_logistic_3_1 = "Charity & Social Careers";
+var kariyer_secim_25_plus_s7_eng_logistic_3_2 = "Jobs in the logistics and transportation sector where you can use your social and benevolent sides can be:";
+var kariyer_secim_25_plus_s7_eng_logistic_3_3 = "• Transportation Services Coordinator: You can develop solutions to eliminate the obstacles faced by people with disabilities in urban transportation.";
+var kariyer_secim_25_plus_s7_eng_logistic_3_4 = "• Eco-Friendly Transportation Coordinator: You can create sustainable transportation solutions and promote environmentally friendly transportation with electric vehicles, bicycle paths, and green transportation projects.";
+var kariyer_secim_25_plus_s7_eng_logistic_3_5 = "• Public Transport Development Consultant: You can develop suggestions and offer innovative solutions for the improvement of public transportation systems in cities.";
+var kariyer_secim_25_plus_s7_eng_logistic_3_6 = "• Logistics and Transportation Trainer: You can train employees in the field of logistics and transportation about new technologies, regulations or efficient transportation strategies.";
+var kariyer_secim_25_plus_s7_eng_logistic_3_7 = "";
+
+var kariyer_secim_25_plus_s7_eng_logistic_4_1 = "Technical and Engineering Careers";
+var kariyer_secim_25_plus_s7_eng_logistic_4_2 = "Jobs in the logistics and transportation industry where you can use your technical and engineering skills include:";
+var kariyer_secim_25_plus_s7_eng_logistic_4_3 = "• Logistics Technologies Developer: You can develop software to digitize logistics processes and design solutions such as smart storage, automatic transportation and tracking systems.";
+var kariyer_secim_25_plus_s7_eng_logistic_4_4 = "• Autonomous Vehicle Engineer: You can develop software and hardware for autonomous transport vehicles and robots, and increase the efficiency of automation solutions in the logistics industry.";
+var kariyer_secim_25_plus_s7_eng_logistic_4_5 = "• Intelligent Transportation Systems Engineer: You can develop intelligent traffic management systems that will improve urban transportation and create algorithms to optimize traffic flow.";
+var kariyer_secim_25_plus_s7_eng_logistic_4_6 = "• Logistics Infrastructure Engineer: You can develop engineering solutions for infrastructure projects such as storage areas, logistics centers, transportation roads.";
+var kariyer_secim_25_plus_s7_eng_logistic_4_7 = "";
+
+var kariyer_secim_25_plus_s7_eng_logistic_5_1 = "Sales and Relationship Building Careers";
+var kariyer_secim_25_plus_s7_eng_logistic_5_2 = "Jobs in the logistics and transportation industry where you can use your sales and relationship management skills include:";
+var kariyer_secim_25_plus_s7_eng_logistic_5_3 = "• Logistics Sales Manager: You can manage the sales of companies that provide logistics services, and ensure growth in the sector by developing new customers and business opportunities.";
+var kariyer_secim_25_plus_s7_eng_logistic_5_4 = "• Transportation Solutions Sales Specialist: You can sell transportation systems and transportation solutions to companies or public organizations, and make suggestions to improve transportation infrastructure.";
+var kariyer_secim_25_plus_s7_eng_logistic_5_5 = "• Customer Relationship Manager: You can optimize logistics processes to increase customer satisfaction.";
+var kariyer_secim_25_plus_s7_eng_logistic_5_6 = "• Logistics Innovation and Sales Consultant: You can guide customers on new logistics solutions and technologies and introduce these solutions to institutions.";
+var kariyer_secim_25_plus_s7_eng_logistic_5_7 = "";
+
+var kariyer_secim_25_plus_s7_eng_logistic_6_1 = "Organizational and Administrative Careers";
+var kariyer_secim_25_plus_s7_eng_logistic_6_2 = "Jobs in the logistics and transportation sector where you can use your organizational and administrative skills include:";
+var kariyer_secim_25_plus_s7_eng_logistic_6_3 = "• Logistics Operations Assistant: You can organize logistics operations and provide administrative support in processes such as shipment, delivery and inventory tracking.";
+var kariyer_secim_25_plus_s7_eng_logistic_6_4 = "• Transportation Planning Coordinator: You can plan transportation projects, optimize public transportation lines, route changes and administrative work on transportation infrastructure.";
+var kariyer_secim_25_plus_s7_eng_logistic_6_5 = "• Human Resources Specialist (Logistics): You can manage the recruitment of personnel and organize training and development processes in businesses in the logistics sector.";
+var kariyer_secim_25_plus_s7_eng_logistic_6_6 = "• Supply Chain Coordinator: You can increase efficiency by coordinating the tracking, transportation, and delivery of products in the supply chain.";
+var kariyer_secim_25_plus_s7_eng_logistic_6_7 = "";
+
+var kariyer_secim_25_plus_s7_eng_logistic_7_1 = "Innovative and Entrepreneurial Careers";
+var kariyer_secim_25_plus_s7_eng_logistic_7_2 = "Jobs in the logistics and transportation sector where you can use innovative thinking and entrepreneurial spirit can be:";
+var kariyer_secim_25_plus_s7_eng_logistic_7_3 = "• Logistics and Transportation Entrepreneur: You can develop new logistics solutions or transportation applications, and start a venture by bringing innovative approaches to traditional methods in the sector.";
+var kariyer_secim_25_plus_s7_eng_logistic_7_4 = "• Electric Vehicle Entrepreneur: You can develop charging infrastructures, battery solutions or sustainable transportation solutions for electric vehicles.";
+var kariyer_secim_25_plus_s7_eng_logistic_7_5 = "• Smart Transportation Entrepreneur: By establishing a venture on intelligent transportation systems, autonomous vehicles or traffic management technologies, you can develop solutions that make urban transportation more efficient.";
+var kariyer_secim_25_plus_s7_eng_logistic_7_6 = "• Logistics Digitalization Entrepreneur: You can establish a startup to transform the logistics industry with digital solutions and develop technologies that accelerate transportation and distribution processes.";
+var kariyer_secim_25_plus_s7_eng_logistic_7_7 = "";
+
+var kariyer_secim_25_plus_s7_eng_logistic_8_1 = "Teaching and Mentoring Careers";
+var kariyer_secim_25_plus_s7_eng_logistic_8_2 = "Jobs in the logistics and transportation industry where you can use your teaching and mentoring skills include:";
+var kariyer_secim_25_plus_s7_eng_logistic_8_3 = "• Logistics Trainer: You can provide training to professionals in the field of logistics and transportation, and prepare training programs for people who are new to the sector.";
+var kariyer_secim_25_plus_s7_eng_logistic_8_4 = "• Transportation Coach: By providing guidance on efficiency and sustainability in urban transportation, you can coach professionals on strategies in this field.";
+var kariyer_secim_25_plus_s7_eng_logistic_8_5 = "• Mentor (Logistics): You can guide beginners in the logistics industry and provide information about supply chain management and logistics processes.";
+var kariyer_secim_25_plus_s7_eng_logistic_8_6 = "• Transportation and Logistics Project Manager (Mentoring): You can mentor people who are experienced in project management processes and guide them in the management of logistics and transportation projects.";
+var kariyer_secim_25_plus_s7_eng_logistic_8_7 = "";
+
+var kariyer_secim_25_plus_s7_eng_logistic_9_1 = "Analytics and Data-Driven Careers";
+var kariyer_secim_25_plus_s7_eng_logistic_9_2 = "Jobs in the logistics and transportation industry where you can use analytical thinking and data skills include:";
+var kariyer_secim_25_plus_s7_eng_logistic_9_3 = "• Logistics Data Analyst: You can analyze the efficiency of logistics processes and develop data-based solutions to help optimize transportation and delivery processes.";
+var kariyer_secim_25_plus_s7_eng_logistic_9_4 = "• Transportation Performance Analyst: By analyzing urban transportation systems, you can develop data-driven recommendations that will improve traffic flow.";
+var kariyer_secim_25_plus_s7_eng_logistic_9_5 = "• Intelligent Transportation Data Analyst: By analyzing the data of intelligent transportation systems, you can optimize traffic management and make vehicle flow more efficient.";
+var kariyer_secim_25_plus_s7_eng_logistic_9_6 = "• Logistics Innovation Analyst: By analyzing innovative solutions in the logistics industry, you can contribute to the acceleration of digital transformation in the industry.";
+var kariyer_secim_25_plus_s7_eng_logistic_9_7 = "";
+
+//medya
+var kariyer_secim_25_plus_s7_eng_media_1_1 = "Creative and Artistic Careers";
+var kariyer_secim_25_plus_s7_eng_media_1_2 = "";
+var kariyer_secim_25_plus_s7_eng_media_1_3 = "• Content Creator: You can create videos, text, graphics or other media content for digital platforms, and create interaction on social media and video platforms.";
+var kariyer_secim_25_plus_s7_eng_media_1_4 = "• Media Designer (Graphic Designer): In the media industry, you can prepare visual designs for materials such as advertisements, digital content and brochures.";
+var kariyer_secim_25_plus_s7_eng_media_1_5 = "• Video Production Specialist: You can manage, edit, and create video footage for TV, digital media, or social media.";
+var kariyer_secim_25_plus_s7_eng_media_1_6 = "• Creative Director: You can manage the creative side of a media project and ensure that stories are presented in the most effective way visually and audibly.";
+var kariyer_secim_25_plus_s7_eng_media_1_7 = "";
+
+var kariyer_secim_25_plus_s7_eng_media_2_1 = "Leadership and Management Careers";
+var kariyer_secim_25_plus_s7_eng_media_2_2 = "";
+var kariyer_secim_25_plus_s7_eng_media_2_3 = "• Media Manager: You can undertake managerial tasks such as broadcasting content on TV, radio or digital media platforms, preparing content suitable for the audience and managing budgets.";
+var kariyer_secim_25_plus_s7_eng_media_2_4 = "• Journalism and Publishing Director: You can take part in tasks such as managing news content and journalists in media organs, and supervising editorial processes.";
+var kariyer_secim_25_plus_s7_eng_media_2_5 = "• Broadcast Program Manager: You can plan broadcast streams on TV, radio or digital media platforms and prepare the most suitable programs for your audience.";
+var kariyer_secim_25_plus_s7_eng_media_2_6 = "• Social Media Director: You can develop strategies for digital platforms, manage social media teams and strengthen your brand image.";
+var kariyer_secim_25_plus_s7_eng_media_2_7 = "";
+
+var kariyer_secim_25_plus_s7_eng_media_3_1 = "Charity & Social Careers";
+var kariyer_secim_25_plus_s7_eng_media_3_2 = "";
+var kariyer_secim_25_plus_s7_eng_media_3_3 = "• Journalism Trainer: By providing training in the field of journalism, you can provide training to people who want to get a profession in the fields of written and visual media.";
+var kariyer_secim_25_plus_s7_eng_media_3_4 = "• Social Media Trainer: You can provide training to individuals and companies on social media strategies, content management, and online interaction.";
+var kariyer_secim_25_plus_s7_eng_media_3_5 = "• Media Ethics Consultant: You can guide media organizations in the production of content and news presentation in accordance with the ethical rules of the media.";
+var kariyer_secim_25_plus_s7_eng_media_3_6 = "• Public Relations Specialist (PR): For companies or individuals, you can communicate effectively with the media, manage your brand image, and improve relations with the media.";
+var kariyer_secim_25_plus_s7_eng_media_3_7 = "";
+
+var kariyer_secim_25_plus_s7_eng_media_4_1 = "Technical and Engineering Careers";
+var kariyer_secim_25_plus_s7_eng_media_4_2 = "";
+var kariyer_secim_25_plus_s7_eng_media_4_3 = "• Media Technologies Specialist: You can develop new technological tools and software for TV, radio, digital platforms or social media, and optimize the distribution of media content in the digital environment.";
+var kariyer_secim_25_plus_s7_eng_media_4_4 = "• Audio and Video Technician: In media productions, you can perform, edit and publish audio and video recording.";
+var kariyer_secim_25_plus_s7_eng_media_4_5 = "• Broadcast Engineer: You can create the technical infrastructure of TV and radio broadcasts, install and optimize broadcasting equipment.";
+var kariyer_secim_25_plus_s7_eng_media_4_6 = "• Digital Media Software Developer: You can develop media and content delivery systems, design applications for content management software and digital platforms.";
+var kariyer_secim_25_plus_s7_eng_media_4_7 = "";
+
+var kariyer_secim_25_plus_s7_eng_media_5_1 = "Sales and Relationship Building Careers";
+var kariyer_secim_25_plus_s7_eng_media_5_2 = "";
+var kariyer_secim_25_plus_s7_eng_media_5_3 = "• Media Sales Specialist: You can sell media and advertising, and offer opportunities for brands to promote on media platforms.";
+var kariyer_secim_25_plus_s7_eng_media_5_4 = "• Ad Sales Manager: You can manage the ad sales of media outlets, strengthen relationships with advertisers, and provide strategic advertising solutions.";
+var kariyer_secim_25_plus_s7_eng_media_5_5 = "• Target Audience Analyst: By analyzing audience, listener or readership, you can tailor media content to the target audience.";
+var kariyer_secim_25_plus_s7_eng_media_5_6 = "• Brand Communications Manager: You can ensure that a brand communicates in the right way through media outlets and help spread brand messages.";
+var kariyer_secim_25_plus_s7_eng_media_5_7 = "";
+
+var kariyer_secim_25_plus_s7_eng_media_6_1 = "Organizational and Administrative Careers";
+var kariyer_secim_25_plus_s7_eng_media_6_2 = "";
+var kariyer_secim_25_plus_s7_eng_media_6_3 = "• Broadcast Coordinator: You can coordinate broadcast processes, organize program flows, and ensure that media content is presented properly.";
+var kariyer_secim_25_plus_s7_eng_media_6_4 = "• Media Planning Specialist: You can decide when and how media content will be published, and organize content calendars.";
+var kariyer_secim_25_plus_s7_eng_media_6_5 = "• Editor: You can check whether the content of newspapers, magazines, blogs, news sites is correct in terms of language and meaning, and ensure that written materials are published correctly.";
+var kariyer_secim_25_plus_s7_eng_media_6_6 = "• Press Spokesperson: You can manage the relations of institutions with the media, convey the news and announcements of the company to the press, and manage the public image of the company.";
+var kariyer_secim_25_plus_s7_eng_media_6_7 = "";
+
+var kariyer_secim_25_plus_s7_eng_media_7_1 = "Innovative and Entrepreneurial Careers";
+var kariyer_secim_25_plus_s7_eng_media_7_2 = "";
+var kariyer_secim_25_plus_s7_eng_media_7_3 = "• Media Entrepreneur: By setting up your own digital media platform, you can become an independent news organization or content producer, and you can create your own brand in the media industry.";
+var kariyer_secim_25_plus_s7_eng_media_7_4 = "• Digital Content Entrepreneur: By creating digital content and publishing it on platforms, you can start initiatives in areas such as social media and blogging.";
+var kariyer_secim_25_plus_s7_eng_media_7_5 = "• Independent Journalist: As an independent news and content producer, you can create your own content and share it on digital platforms and social media.";
+var kariyer_secim_25_plus_s7_eng_media_7_6 = "• Content Production Agency Founder: By establishing an agency that produces media content, you can produce videos, written content and social media materials for different sectors, and manage the digital assets of brands.";
+var kariyer_secim_25_plus_s7_eng_media_7_7 = "";
+
+var kariyer_secim_25_plus_s7_eng_media_8_1 = "Teaching and Mentoring Careers";
+var kariyer_secim_25_plus_s7_eng_media_8_2 = "";
+var kariyer_secim_25_plus_s7_eng_media_8_3 = "• Journalism Trainer: By teaching at journalism schools or online training platforms, you can teach students about news writing, investigative journalism, or media ethics.";
+var kariyer_secim_25_plus_s7_eng_media_8_4 = "• Content Creativity Mentor: You can guide people who gain experience in content production processes and help them develop their creative thinking skills.";
+var kariyer_secim_25_plus_s7_eng_media_8_5 = "• Digital Media Coach: By working with content creators, you can help them develop their careers and guide them on social media strategies.";
+var kariyer_secim_25_plus_s7_eng_media_8_6 = "• Media and Communication Mentor: You can guide people who want to pursue a career in the media industry in career development and offer them strategies for the industry.";
+var kariyer_secim_25_plus_s7_eng_media_8_7 = "";
+
+var kariyer_secim_25_plus_s7_eng_media_9_1 = "Analytics and Data-Driven Careers";
+var kariyer_secim_25_plus_s7_eng_media_9_2 = "";
+var kariyer_secim_25_plus_s7_eng_media_9_3 = "• Media Analyst: You can analyze the viewership rates of media content, reader comments, and social media interactions, and provide data to improve media strategies.";
+var kariyer_secim_25_plus_s7_eng_media_9_4 = "• Audience and Listener Research Specialist: You can conduct target audience research for TV, radio or digital media platforms and use this data to improve your content and advertising strategies.";
+var kariyer_secim_25_plus_s7_eng_media_9_5 = "• Social Media Data Analyst: You can analyze content interactions, prepare reports for brand strategies, and offer data-driven solutions.";
+var kariyer_secim_25_plus_s7_eng_media_9_6 = "• Ad Performance Analyst: You can track the performance of published ads and create more efficient advertising strategies by analyzing interaction rates.";
+var kariyer_secim_25_plus_s7_eng_media_9_7 = "";
+
+//other
+var kariyer_secim_25_plus_s7_eng_other_1_1 = "Creative and Artistic Careers";
+var kariyer_secim_25_plus_s7_eng_other_1_2 = "";
+var kariyer_secim_25_plus_s7_eng_other_1_3 = "• Content Creativity: Producing written, visual or video content, creating original content on different platforms.";
+var kariyer_secim_25_plus_s7_eng_other_1_4 = "• Art Director: Working on projects that will guide visual designs and aesthetic aspects in different industries.";
+var kariyer_secim_25_plus_s7_eng_other_1_5 = "• Digital Artistry: Creating graphic design, digital illustrations, and multimedia content.";
+var kariyer_secim_25_plus_s7_eng_other_1_6 = "• Fashion & Design: Creating your own designs, preparing boutique collections or working in design agencies.";
+var kariyer_secim_25_plus_s7_eng_other_1_7 = "";
+
+var kariyer_secim_25_plus_s7_eng_other_2_1 = "Leadership and Management Careers";
+var kariyer_secim_25_plus_s7_eng_other_2_2 = "";
+var kariyer_secim_25_plus_s7_eng_other_2_3 = "• Project Management: To be able to lead all kinds of projects that require advanced organization and management.";
+var kariyer_secim_25_plus_s7_eng_other_2_4 = "• Business Development and Strategy: Careers that will improve the growth strategies of companies and create new business opportunities.";
+var kariyer_secim_25_plus_s7_eng_other_2_5 = "• Management Consulting: Developing organizational change, management processes and strategy in various sectors.";
+var kariyer_secim_25_plus_s7_eng_other_2_6 = "• Organization Management: Managing operational processes by leading small and medium-sized enterprises.";
+var kariyer_secim_25_plus_s7_eng_other_2_7 = "";
+
+var kariyer_secim_25_plus_s7_eng_other_3_1 = "Charity & Social Careers";
+var kariyer_secim_25_plus_s7_eng_other_3_2 = "";
+var kariyer_secim_25_plus_s7_eng_other_3_3 = "• Community Manager: Supporting diverse communities, organizing events, and building social connections.";
+var kariyer_secim_25_plus_s7_eng_other_3_4 = "• Social Responsibility Projects: Developing and implementing social responsibility projects for organizations.";
+var kariyer_secim_25_plus_s7_eng_other_3_5 = "• Counseling and Mentoring: Guiding individuals in their careers and providing support to their personal development.";
+var kariyer_secim_25_plus_s7_eng_other_3_6 = "• Psychological Support and Counseling: To provide guidance and therapeutic services to support the mental health of individuals.";
+var kariyer_secim_25_plus_s7_eng_other_3_7 = "";
+
+var kariyer_secim_25_plus_s7_eng_other_4_1 = "Technical and Engineering Careers";
+var kariyer_secim_25_plus_s7_eng_other_4_2 = "";
+var kariyer_secim_25_plus_s7_eng_other_4_3 = "• Software Development: You can develop all kinds of software solutions and create projects using programming languages.";
+var kariyer_secim_25_plus_s7_eng_other_4_4 = "• Data Analytics: By analyzing large data sets, you can provide data-driven strategic advice to organizations.";
+var kariyer_secim_25_plus_s7_eng_other_4_5 = "• Systems Engineering: Establishing and maintaining system infrastructures in various industries.";
+var kariyer_secim_25_plus_s7_eng_other_4_6 = "• Innovation Management: By following technological developments, you can develop innovative solutions in different areas.";
+var kariyer_secim_25_plus_s7_eng_other_4_7 = "";
+
+var kariyer_secim_25_plus_s7_eng_other_5_1 = "Sales and Relationship Building Careers";
+var kariyer_secim_25_plus_s7_eng_other_5_2 = "";
+var kariyer_secim_25_plus_s7_eng_other_5_3 = "• Business Development: Creating new business opportunities, enabling companies to achieve their goals.";
+var kariyer_secim_25_plus_s7_eng_other_5_4 = "• B2B Sales: Managing corporate sales processes, making agreements with large customers.";
+var kariyer_secim_25_plus_s7_eng_other_5_5 = "• Human Resources: Organizing recruitment, training and employee management in organizations.";
+var kariyer_secim_25_plus_s7_eng_other_5_6 = "• Communication and Public Relations: Managing the internal and external communication processes of organizations, strengthening the brand image.";
+var kariyer_secim_25_plus_s7_eng_other_5_7 = "";
+
+var kariyer_secim_25_plus_s7_eng_other_6_1 = "Organizational and Administrative Careers";
+var kariyer_secim_25_plus_s7_eng_other_6_2 = "";
+var kariyer_secim_25_plus_s7_eng_other_6_3 = "• Office Management: Managing office operations in various industries, optimizing the workflows of employees.";
+var kariyer_secim_25_plus_s7_eng_other_6_4 = "• Administrative Support: To contribute to the efficient operation of organizations by providing administrative support to managers and teams.";
+var kariyer_secim_25_plus_s7_eng_other_6_5 = "• Data Management and Documentation: Organizing data flow, taking responsibility for managing and archiving documents.";
+var kariyer_secim_25_plus_s7_eng_other_6_6 = "• Human Resources Management: Managing personnel processes in organizations, ensuring employee satisfaction.";
+var kariyer_secim_25_plus_s7_eng_other_6_7 = "";
+
+var kariyer_secim_25_plus_s7_eng_other_7_1 = "Innovative and Entrepreneurial Careers";
+var kariyer_secim_25_plus_s7_eng_other_7_2 = "";
+var kariyer_secim_25_plus_s7_eng_other_7_3 = "• Start-up Founding: To start a new business idea by starting your own business.";
+var kariyer_secim_25_plus_s7_eng_other_7_4 = "• Innovation and R&D: Leading research and development processes to develop new products, services, and solutions.";
+var kariyer_secim_25_plus_s7_eng_other_7_5 = "• Investment and Venture Capital: Providing financial support to start-ups and small businesses as an investor.";
+var kariyer_secim_25_plus_s7_eng_other_7_6 = "• Business Strategy and Management: To guide companies on the path of growth and success by providing strategic guidance.";
+var kariyer_secim_25_plus_s7_eng_other_7_7 = "";
+
+var kariyer_secim_25_plus_s7_eng_other_8_1 = "Teaching and Mentoring Careers";
+var kariyer_secim_25_plus_s7_eng_other_8_2 = "";
+var kariyer_secim_25_plus_s7_eng_other_8_3 = "• Educational Coaching: Managing training processes for students, employees or entrepreneurs and supporting their development.";
+var kariyer_secim_25_plus_s7_eng_other_8_4 = "• Career Coaching: To guide individuals in their career journeys and to enable them to reach their goals.";
+var kariyer_secim_25_plus_s7_eng_other_8_5 = "• Personal Development Trainer: To provide trainings for individuals to develop their personal skills and discover their potential.";
+var kariyer_secim_25_plus_s7_eng_other_8_6 = "• Mentoring: Supporting others in their professional development to advance them in their careers.";
+var kariyer_secim_25_plus_s7_eng_other_8_7 = "";
+
+var kariyer_secim_25_plus_s7_eng_other_9_1 = "Analytics and Data-Driven Careers";
+var kariyer_secim_25_plus_s7_eng_other_9_2 = "";
+var kariyer_secim_25_plus_s7_eng_other_9_3 = "• Data Scientist: Analyzing data to generate insights for organizations to help them make strategic decisions.";
+var kariyer_secim_25_plus_s7_eng_other_9_4 = "• Business Intelligence Analyst: Optimizing decision-making processes by providing companies with analysis on market trends, sales performance, and operational efficiency.";
+var kariyer_secim_25_plus_s7_eng_other_9_5 = "• Statistical Analysis and Modeling: To provide solutions to organizations to improve business processes by analyzing data sets.";
+var kariyer_secim_25_plus_s7_eng_other_9_6 = "• Risk Analyst: Creating strategic risk management plans by analyzing the risks faced by organizations.";
+var kariyer_secim_25_plus_s7_eng_other_9_7 = "";
 
 
 //özet
@@ -13741,6 +14251,1266 @@ var decision_strategy_eng_ozet_11_2 = "Your decision-making process requires a d
           return kariyer_secim_25_plus_s7_eng_meal_8_7;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Analitik ve Veri Odaklı Kariyerler") {
           return kariyer_secim_25_plus_s7_eng_meal_9_7;
+        }
+      } else if (type == "s7_edTech_x_1") {
+        if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yaratıcı ve Sanatsal Kariyerler") {
+          return kariyer_secim_25_plus_s7_eng_edTech_1_1;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Liderlik ve Yönetim Kariyerleri") {
+          return kariyer_secim_25_plus_s7_eng_edTech_2_1;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yardım ve Sosyal Kariyerler") {
+          return kariyer_secim_25_plus_s7_eng_edTech_3_1;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Teknik ve Mühendislik Kariyerleri") {
+          return kariyer_secim_25_plus_s7_eng_edTech_4_1;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Satış ve İlişki Kurma Kariyerleri") {
+          return kariyer_secim_25_plus_s7_eng_edTech_5_1;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Organizasyonel ve İdari Kariyerler") {
+          return kariyer_secim_25_plus_s7_eng_edTech_6_1;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yenilikçi ve Girişimci Kariyerler") {
+          return kariyer_secim_25_plus_s7_eng_edTech_7_1;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Öğretim ve Mentorluk Kariyerleri") {
+          return kariyer_secim_25_plus_s7_eng_edTech_8_1;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Analitik ve Veri Odaklı Kariyerler") {
+          return kariyer_secim_25_plus_s7_eng_edTech_9_1;
+        } 
+      } else if (type == "s7_edTech_x_2") {
+        if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yaratıcı ve Sanatsal Kariyerler") {
+          return kariyer_secim_25_plus_s7_eng_edTech_1_2;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Liderlik ve Yönetim Kariyerleri") {
+          return kariyer_secim_25_plus_s7_eng_edTech_2_2;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yardım ve Sosyal Kariyerler") {
+          return kariyer_secim_25_plus_s7_eng_edTech_3_2;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Teknik ve Mühendislik Kariyerleri") {
+          return kariyer_secim_25_plus_s7_eng_edTech_4_2;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Satış ve İlişki Kurma Kariyerleri") {
+          return kariyer_secim_25_plus_s7_eng_edTech_5_2;
+        } else if (careerSelectionData.fineng_d((x) => x.id == kariyer_secimData.id).name == "Organizasyonel ve İdari Kariyerler") {
+          return kariyer_secim_25_plus_s7_eng_edTech_6_2;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yenilikçi ve Girişimci Kariyerler") {
+          return kariyer_secim_25_plus_s7_eng_edTech_7_2;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Öğretim ve Mentorluk Kariyerleri") {
+          return kariyer_secim_25_plus_s7_eng_edTech_8_2;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Analitik ve Veri Odaklı Kariyerler") {
+          return kariyer_secim_25_plus_s7_eng_edTech_9_2;
+        }
+      } else if (type == "s7_edTech_x_3") {eng_
+        if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yaratıcı ve Sanatsal Kariyerler") {
+          return kariyer_secim_25_plus_s7_eng_edTech_1_3;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Liderlik ve Yönetim Kariyerleri") {
+          return kariyer_secim_25_plus_s7_eng_edTech_2_3;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yardım ve Sosyal Kariyerler") {
+          return kariyer_secim_25_plus_s7_eng_edTech_3_3;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Teknik ve Mühendislik Kariyerleri") {
+          return kariyer_secim_25_plus_s7_eng_edTech_4_3;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Satış ve İlişki Kurma Kariyerleri") {
+          return kariyer_secim_25_plus_s7_eng_edTech_5_3;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Organizasyonel ve İdari Kariyerler") {
+          return kariyer_secim_25_plus_s7_eng_edTech_6_3;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yenilikçi ve Girişimci Kariyerler") {
+          return kariyer_secim_25_plus_s7_eng_edTech_7_3;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Öğretim ve Mentorluk Kariyerleri") {
+          return kariyer_secim_25_plus_s7_eng_edTech_8_3;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Analitik ve Veri Odaklı Kariyerler") {
+          return kariyer_secim_25_plus_s7_eng_edTech_9_3;
+        }
+      } else if (type == "s7_edTech_x_4") {
+        if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yaratıcı ve Sanatsal Kariyerler") {
+          return kariyer_secim_25_plus_s7_eng_edTech_1_4;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Liderlik ve Yönetim Kariyerleri") {
+          return kariyer_secim_25_plus_s7_eng_edTech_2_4;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yardım ve Sosyal Kariyerler") {
+          return kariyer_secim_25_plus_s7_eng_edTech_3_4;
+        } else if (careerSelectionData.fineng_d((x) => x.id == kariyer_secimData.id).name == "Teknik ve Mühendislik Kariyerleri") {
+          return kariyer_secim_25_plus_s7_eng_edTech_4_4;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Satış ve İlişki Kurma Kariyerleri") {
+          return kariyer_secim_25_plus_s7_eng_edTech_5_4;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Organizasyonel ve İdari Kariyerler") {
+          return kariyer_secim_25_plus_s7_eng_edTech_6_4;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yenilikçi ve Girişimci Kariyerler") {
+          return kariyer_secim_25_plus_s7_eng_edTech_7_4;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Öğretim ve Mentorluk Kariyerleri") {
+          return kariyer_secim_25_plus_s7_eng_edTech_8_4;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Analitik ve Veri Odaklı Kariyerler") {
+          return kariyer_secim_25_plus_s7_eng_edTech_9_4;
+        }
+      } else if (type == "s7_edTech_x_5") {
+        if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yaratıcı ve Sanatsal Kariyerler") {
+          return kariyer_secim_25_plus_s7_eng_edTech_1_5;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Liderlik ve Yönetim Kariyerleri") {
+          return kariyer_secim_25_plus_s7_eng_edTech_2_5;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yardım ve Sosyal Kariyerler") {
+          return kariyer_secim_25_plus_s7_eng_edTech_3_5;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Teknik ve Mühendislik Kariyerleri") {
+          return kariyer_secim_25_plus_s7_eng_edTech_4_5;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Satış ve İlişki Kurma Kariyerleri") {
+          return kariyer_secim_25_plus_s7_eng_edTech_5_5;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Organizasyonel ve İdari Kariyerler") {
+          return kariyer_secim_25_plus_s7_eng_edTech_6_5;
+        } else if (careerSelectionData.fineng_d((x) => x.id == kariyer_secimData.id).name == "Yenilikçi ve Girişimci Kariyerler") {
+          return kariyer_secim_25_plus_s7_eng_edTech_7_5;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Öğretim ve Mentorluk Kariyerleri") {
+          return kariyer_secim_25_plus_s7_eng_edTech_8_5;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Analitik ve Veri Odaklı Kariyerler") {
+          return kariyer_secim_25_plus_s7_eng_edTech_9_5;
+        }
+      } else if (type == "s7_edTech_x_6") {
+        if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yaratıcı ve Sanatsal Kariyerler") {
+          return kariyer_secim_25_plus_s7_eng_edTech_1_6;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Liderlik ve Yönetim Kariyerleri") {
+          return kariyer_secim_25_plus_s7_eng_edTech_2_6;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yardım ve Sosyal Kariyerler") {
+          return kariyer_secim_25_plus_s7_eng_edTech_3_6;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Teknik ve Mühendislik Kariyerleri") {
+          return kariyer_secim_25_plus_s7_eng_edTech_4_6;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Satış ve İlişki Kurma Kariyerleri") {
+          return kariyer_secim_25_plus_s7_eng_edTech_5_6;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Organizasyonel ve İdari Kariyerler") {
+          return kariyer_secim_25_plus_s7_eng_edTech_6_6;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yenilikçi ve Girişimci Kariyerler") {
+          return kariyer_secim_25_plus_s7_eng_edTech_7_6;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Öğretim ve Mentorluk Kariyerleri") {
+          return kariyer_secim_25_plus_s7_eng_edTech_8_6;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Analitik ve Veri Odaklı Kariyerler") {
+          return kariyer_secim_25_plus_s7_eng_edTech_9_6;
+        }
+      } else if (type == "s7_edTech_x_7") {
+        if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yaratıcı ve Sanatsal Kariyerler") {
+          return kariyer_secim_25_plus_s7_eng_edTech_1_7;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Liderlik ve Yönetim Kariyerleri") {
+          return kariyer_secim_25_plus_s7_eng_edTech_2_7;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yardım ve Sosyal Kariyerler") {
+          return kariyer_secim_25_plus_s7_eng_edTech_3_7;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Teknik ve Mühendislik Kariyerleri") {
+          return kariyer_secim_25_plus_s7_eng_edTech_4_7;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Satış ve İlişki Kurma Kariyerleri") {
+          return kariyer_secim_25_plus_s7_eng_edTech_5_7;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Organizasyonel ve İdari Kariyerler") {
+          return kariyer_secim_25_plus_s7_eng_edTech_6_7;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yenilikçi ve Girişimci Kariyerler") {
+          return kariyer_secim_25_plus_s7_eng_edTech_7_7;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Öğretim ve Mentorluk Kariyerleri") {
+          return kariyer_secim_25_plus_s7_eng_edTech_8_7;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Analitik ve Veri Odaklı Kariyerler") {
+          return kariyer_secim_25_plus_s7_eng_edTech_9_7;
+        }
+      } else if (type == "s7_finTech_x_1") {
+        if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yaratıcı ve Sanatsal Kariyerler") {
+          return kariyer_secim_25_plus_s7_eng_finTech_1_1;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Liderlik ve Yönetim Kariyerleri") {
+          return kariyer_secim_25_plus_s7_eng_finTech_2_1;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yardım ve Sosyal Kariyerler") {
+          return kariyer_secim_25_plus_s7_eng_finTech_3_1;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Teknik ve Mühendislik Kariyerleri") {
+          return kariyer_secim_25_plus_s7_eng_finTech_4_1;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Satış ve İlişki Kurma Kariyerleri") {
+          return kariyer_secim_25_plus_s7_eng_finTech_5_1;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Organizasyonel ve İdari Kariyerler") {
+          return kariyer_secim_25_plus_s7_eng_finTech_6_1;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yenilikçi ve Girişimci Kariyerler") {
+          return kariyer_secim_25_plus_s7_eng_finTech_7_1;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Öğretim ve Mentorluk Kariyerleri") {
+          return kariyer_secim_25_plus_s7_eng_finTech_8_1;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Analitik ve Veri Odaklı Kariyerler") {
+          return kariyer_secim_25_plus_s7_eng_finTech_9_1;
+        } 
+      } else if (type == "s7_finTech_x_2") {
+        if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yaratıcı ve Sanatsal Kariyerler") {
+          return kariyer_secim_25_plus_s7_eng_finTech_1_2;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Liderlik ve Yönetim Kariyerleri") {
+          return kariyer_secim_25_plus_s7_eng_finTech_2_2;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yardım ve Sosyal Kariyerler") {
+          return kariyer_secim_25_plus_s7_eng_finTech_3_2;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Teknik ve Mühendislik Kariyerleri") {
+          return kariyer_secim_25_plus_s7_eng_finTech_4_2;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Satış ve İlişki Kurma Kariyerleri") {
+          return kariyer_secim_25_plus_s7_eng_finTech_5_2;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Organizasyonel ve İdari Kariyerler") {
+          return kariyer_secim_25_plus_s7_eng_finTech_6_2;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yenilikçi ve Girişimci Kariyerler") {
+          return kariyer_secim_25_plus_s7_eng_finTech_7_2;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Öğretim ve Mentorluk Kariyerleri") {
+          return kariyer_secim_25_plus_s7_eng_finTech_8_2;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Analitik ve Veri Odaklı Kariyerler") {
+          return kariyer_secim_25_plus_s7_eng_finTech_9_2;
+        }
+      } else if (type == "s7_finTech_x_3") {
+        if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yaratıcı ve Sanatsal Kariyerler") {
+          return kariyer_secim_25_plus_s7_eng_finTech_1_3;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Liderlik ve Yönetim Kariyerleri") {
+          return kariyer_secim_25_plus_s7_eng_finTech_2_3;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yardım ve Sosyal Kariyerler") {
+          return kariyer_secim_25_plus_s7_eng_finTech_3_3;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Teknik ve Mühendislik Kariyerleri") {
+          return kariyer_secim_25_plus_s7_eng_finTech_4_3;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Satış ve İlişki Kurma Kariyerleri") {
+          return kariyer_secim_25_plus_s7_eng_finTech_5_3;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Organizasyonel ve İdari Kariyerler") {
+          return kariyer_secim_25_plus_s7_eng_finTech_6_3;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yenilikçi ve Girişimci Kariyerler") {
+          return kariyer_secim_25_plus_s7_eng_finTech_7_3;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Öğretim ve Mentorluk Kariyerleri") {
+          return kariyer_secim_25_plus_s7_eng_finTech_8_3;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Analitik ve Veri Odaklı Kariyerler") {
+          return kariyer_secim_25_plus_s7_eng_finTech_9_3;
+        }
+      } else if (type == "s7_finTech_x_4") {
+        if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yaratıcı ve Sanatsal Kariyerler") {
+          return kariyer_secim_25_plus_s7_eng_finTech_1_4;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Liderlik ve Yönetim Kariyerleri") {
+          return kariyer_secim_25_plus_s7_eng_finTech_2_4;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yardım ve Sosyal Kariyerler") {
+          return kariyer_secim_25_plus_s7_eng_finTech_3_4;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Teknik ve Mühendislik Kariyerleri") {
+          return kariyer_secim_25_plus_s7_eng_finTech_4_4;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Satış ve İlişki Kurma Kariyerleri") {
+          return kariyer_secim_25_plus_s7_eng_finTech_5_4;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Organizasyonel ve İdari Kariyerler") {
+          return kariyer_secim_25_plus_s7_eng_finTech_6_4;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yenilikçi ve Girişimci Kariyerler") {
+          return kariyer_secim_25_plus_s7_eng_finTech_7_4;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Öğretim ve Mentorluk Kariyerleri") {
+          return kariyer_secim_25_plus_s7_eng_finTech_8_4;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Analitik ve Veri Odaklı Kariyerler") {
+          return kariyer_secim_25_plus_s7_eng_finTech_9_4;
+        }
+      } else if (type == "s7_finTech_x_5") {
+        if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yaratıcı ve Sanatsal Kariyerler") {
+          return kariyer_secim_25_plus_s7_eng_finTech_1_5;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Liderlik ve Yönetim Kariyerleri") {
+          return kariyer_secim_25_plus_s7_eng_finTech_2_5;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yardım ve Sosyal Kariyerler") {
+          return kariyer_secim_25_plus_s7_eng_finTech_3_5;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Teknik ve Mühendislik Kariyerleri") {
+          return kariyer_secim_25_plus_s7_eng_finTech_4_5;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Satış ve İlişki Kurma Kariyerleri") {
+          return kariyer_secim_25_plus_s7_eng_finTech_5_5;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Organizasyonel ve İdari Kariyerler") {
+          return kariyer_secim_25_plus_s7_eng_finTech_6_5;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yenilikçi ve Girişimci Kariyerler") {
+          return kariyer_secim_25_plus_s7_eng_finTech_7_5;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Öğretim ve Mentorluk Kariyerleri") {
+          return kariyer_secim_25_plus_s7_eng_finTech_8_5;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Analitik ve Veri Odaklı Kariyerler") {
+          return kariyer_secim_25_plus_s7_eng_finTech_9_5;
+        }
+      } else if (type == "s7_finTech_x_6") {
+        if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yaratıcı ve Sanatsal Kariyerler") {
+          return kariyer_secim_25_plus_s7_eng_finTech_1_6;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Liderlik ve Yönetim Kariyerleri") {
+          return kariyer_secim_25_plus_s7_eng_finTech_2_6;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yardım ve Sosyal Kariyerler") {
+          return kariyer_secim_25_plus_s7_eng_finTech_3_6;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Teknik ve Mühendislik Kariyerleri") {
+          return kariyer_secim_25_plus_s7_eng_finTech_4_6;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Satış ve İlişki Kurma Kariyerleri") {
+          return kariyer_secim_25_plus_s7_eng_finTech_5_6;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Organizasyonel ve İdari Kariyerler") {
+          return kariyer_secim_25_plus_s7_eng_finTech_6_6;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yenilikçi ve Girişimci Kariyerler") {
+          return kariyer_secim_25_plus_s7_eng_finTech_7_6;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Öğretim ve Mentorluk Kariyerleri") {
+          return kariyer_secim_25_plus_s7_eng_finTech_8_6;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Analitik ve Veri Odaklı Kariyerler") {
+          return kariyer_secim_25_plus_s7_eng_finTech_9_6;
+        }
+      } else if (type == "s7_finTech_x_7") {
+        if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yaratıcı ve Sanatsal Kariyerler") {
+          return kariyer_secim_25_plus_s7_eng_finTech_1_7;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Liderlik ve Yönetim Kariyerleri") {
+          return kariyer_secim_25_plus_s7_eng_finTech_2_7;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yardım ve Sosyal Kariyerler") {
+          return kariyer_secim_25_plus_s7_eng_finTech_3_7;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Teknik ve Mühendislik Kariyerleri") {
+          return kariyer_secim_25_plus_s7_eng_finTech_4_7;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Satış ve İlişki Kurma Kariyerleri") {
+          return kariyer_secim_25_plus_s7_eng_finTech_5_7;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Organizasyonel ve İdari Kariyerler") {
+          return kariyer_secim_25_plus_s7_eng_finTech_6_7;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yenilikçi ve Girişimci Kariyerler") {
+          return kariyer_secim_25_plus_s7_eng_finTech_7_7;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Öğretim ve Mentorluk Kariyerleri") {
+          return kariyer_secim_25_plus_s7_eng_finTech_8_7;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Analitik ve Veri Odaklı Kariyerler") {
+          return kariyer_secim_25_plus_s7_eng_finTech_9_7;
+        }
+      } else if (type == "s7_energy_x_1") {
+        if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yaratıcı ve Sanatsal Kariyerler") {
+          return kariyer_secim_25_plus_s7_eng_energy_1_1;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Liderlik ve Yönetim Kariyerleri") {
+          return kariyer_secim_25_plus_s7_eng_energy_2_1;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yardım ve Sosyal Kariyerler") {
+          return kariyer_secim_25_plus_s7_eng_energy_3_1;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Teknik ve Mühendislik Kariyerleri") {
+          return kariyer_secim_25_plus_s7_eng_energy_4_1;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Satış ve İlişki Kurma Kariyerleri") {
+          return kariyer_secim_25_plus_s7_eng_energy_5_1;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Organizasyonel ve İdari Kariyerler") {
+          return kariyer_secim_25_plus_s7_eng_energy_6_1;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yenilikçi ve Girişimci Kariyerler") {
+          return kariyer_secim_25_plus_s7_eng_energy_7_1;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Öğretim ve Mentorluk Kariyerleri") {
+          return kariyer_secim_25_plus_s7_eng_energy_8_1;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Analitik ve Veri Odaklı Kariyerler") {
+          return kariyer_secim_25_plus_s7_eng_energy_9_1;
+        } 
+      } else if (type == "s7_energy_x_2") {
+        if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yaratıcı ve Sanatsal Kariyerler") {
+          return kariyer_secim_25_plus_s7_eng_energy_1_2;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Liderlik ve Yönetim Kariyerleri") {
+          return kariyer_secim_25_plus_s7_eng_energy_2_2;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yardım ve Sosyal Kariyerler") {
+          return kariyer_secim_25_plus_s7_eng_energy_3_2;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Teknik ve Mühendislik Kariyerleri") {
+          return kariyer_secim_25_plus_s7_eng_energy_4_2;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Satış ve İlişki Kurma Kariyerleri") {
+          return kariyer_secim_25_plus_s7_eng_energy_5_2;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Organizasyonel ve İdari Kariyerler") {
+          return kariyer_secim_25_plus_s7_eng_energy_6_2;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yenilikçi ve Girişimci Kariyerler") {
+          return kariyer_secim_25_plus_s7_eng_energy_7_2;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Öğretim ve Mentorluk Kariyerleri") {
+          return kariyer_secim_25_plus_s7_eng_energy_8_2;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Analitik ve Veri Odaklı Kariyerler") {
+          return kariyer_secim_25_plus_s7_eng_energy_9_2;
+        }
+      } else if (type == "s7_energy_x_3") {
+        if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yaratıcı ve Sanatsal Kariyerler") {
+          return kariyer_secim_25_plus_s7_eng_energy_1_3;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Liderlik ve Yönetim Kariyerleri") {
+          return kariyer_secim_25_plus_s7_eng_energy_2_3;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yardım ve Sosyal Kariyerler") {
+          return kariyer_secim_25_plus_s7_eng_energy_3_3;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Teknik ve Mühendislik Kariyerleri") {
+          return kariyer_secim_25_plus_s7_eng_energy_4_3;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Satış ve İlişki Kurma Kariyerleri") {
+          return kariyer_secim_25_plus_s7_eng_energy_5_3;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Organizasyonel ve İdari Kariyerler") {
+          return kariyer_secim_25_plus_s7_eng_energy_6_3;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yenilikçi ve Girişimci Kariyerler") {
+          return kariyer_secim_25_plus_s7_eng_energy_7_3;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Öğretim ve Mentorluk Kariyerleri") {
+          return kariyer_secim_25_plus_s7_eng_energy_8_3;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Analitik ve Veri Odaklı Kariyerler") {
+          return kariyer_secim_25_plus_s7_eng_energy_9_3;
+        }
+      } else if (type == "s7_energy_x_4") {
+        if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yaratıcı ve Sanatsal Kariyerler") {
+          return kariyer_secim_25_plus_s7_eng_energy_1_4;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Liderlik ve Yönetim Kariyerleri") {
+          return kariyer_secim_25_plus_s7_eng_energy_2_4;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yardım ve Sosyal Kariyerler") {
+          return kariyer_secim_25_plus_s7_eng_energy_3_4;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Teknik ve Mühendislik Kariyerleri") {
+          return kariyer_secim_25_plus_s7_eng_energy_4_4;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Satış ve İlişki Kurma Kariyerleri") {
+          return kariyer_secim_25_plus_s7_eng_energy_5_4;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Organizasyonel ve İdari Kariyerler") {
+          return kariyer_secim_25_plus_s7_eng_energy_6_4;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yenilikçi ve Girişimci Kariyerler") {
+          return kariyer_secim_25_plus_s7_eng_energy_7_4;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Öğretim ve Mentorluk Kariyerleri") {
+          return kariyer_secim_25_plus_s7_eng_energy_8_4;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Analitik ve Veri Odaklı Kariyerler") {
+          return kariyer_secim_25_plus_s7_eng_energy_9_4;
+        }
+      } else if (type == "s7_energy_x_5") {
+        if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yaratıcı ve Sanatsal Kariyerler") {
+          return kariyer_secim_25_plus_s7_eng_energy_1_5;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Liderlik ve Yönetim Kariyerleri") {
+          return kariyer_secim_25_plus_s7_eng_energy_2_5;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yardım ve Sosyal Kariyerler") {
+          return kariyer_secim_25_plus_s7_eng_energy_3_5;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Teknik ve Mühendislik Kariyerleri") {
+          return kariyer_secim_25_plus_s7_eng_energy_4_5;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Satış ve İlişki Kurma Kariyerleri") {
+          return kariyer_secim_25_plus_s7_eng_energy_5_5;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Organizasyonel ve İdari Kariyerler") {
+          return kariyer_secim_25_plus_s7_eng_energy_6_5;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yenilikçi ve Girişimci Kariyerler") {
+          return kariyer_secim_25_plus_s7_eng_energy_7_5;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Öğretim ve Mentorluk Kariyerleri") {
+          return kariyer_secim_25_plus_s7_eng_energy_8_5;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Analitik ve Veri Odaklı Kariyerler") {
+          return kariyer_secim_25_plus_s7_eng_energy_9_5;
+        }
+      } else if (type == "s7_energy_x_6") {
+        if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yaratıcı ve Sanatsal Kariyerler") {
+          return kariyer_secim_25_plus_s7_eng_energy_1_6;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Liderlik ve Yönetim Kariyerleri") {
+          return kariyer_secim_25_plus_s7_eng_energy_2_6;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yardım ve Sosyal Kariyerler") {
+          return kariyer_secim_25_plus_s7_eng_energy_3_6;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Teknik ve Mühendislik Kariyerleri") {
+          return kariyer_secim_25_plus_s7_eng_energy_4_6;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Satış ve İlişki Kurma Kariyerleri") {
+          return kariyer_secim_25_plus_s7_eng_energy_5_6;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Organizasyonel ve İdari Kariyerler") {
+          return kariyer_secim_25_plus_s7_eng_energy_6_6;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yenilikçi ve Girişimci Kariyerler") {
+          return kariyer_secim_25_plus_s7_eng_energy_7_6;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Öğretim ve Mentorluk Kariyerleri") {
+          return kariyer_secim_25_plus_s7_eng_energy_8_6;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Analitik ve Veri Odaklı Kariyerler") {
+          return kariyer_secim_25_plus_s7_eng_energy_9_6;
+        }
+      } else if (type == "s7_energy_x_7") {
+        if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yaratıcı ve Sanatsal Kariyerler") {
+          return kariyer_secim_25_plus_s7_eng_energy_1_7;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Liderlik ve Yönetim Kariyerleri") {
+          return kariyer_secim_25_plus_s7_eng_energy_2_7;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yardım ve Sosyal Kariyerler") {
+          return kariyer_secim_25_plus_s7_eng_energy_3_7;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Teknik ve Mühendislik Kariyerleri") {
+          return kariyer_secim_25_plus_s7_eng_energy_4_7;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Satış ve İlişki Kurma Kariyerleri") {
+          return kariyer_secim_25_plus_s7_eng_energy_5_7;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Organizasyonel ve İdari Kariyerler") {
+          return kariyer_secim_25_plus_s7_eng_energy_6_7;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yenilikçi ve Girişimci Kariyerler") {
+          return kariyer_secim_25_plus_s7_eng_energy_7_7;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Öğretim ve Mentorluk Kariyerleri") {
+          return kariyer_secim_25_plus_s7_eng_energy_8_7;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Analitik ve Veri Odaklı Kariyerler") {
+          return kariyer_secim_25_plus_s7_eng_energy_9_7;
+        }
+      } else if (type == "s7_mentor_x_1") {eng_
+        if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yaratıcı ve Sanatsal Kariyerler") {
+          return kariyer_secim_25_plus_s7_eng_mentor_1_1;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Liderlik ve Yönetim Kariyerleri") {
+          return kariyer_secim_25_plus_s7_eng_mentor_2_1;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yardım ve Sosyal Kariyerler") {
+          return kariyer_secim_25_plus_s7_eng_mentor_3_1;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Teknik ve Mühendislik Kariyerleri") {
+          return kariyer_secim_25_plus_s7_eng_mentor_4_1;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Satış ve İlişki Kurma Kariyerleri") {
+          return kariyer_secim_25_plus_s7_eng_mentor_5_1;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Organizasyonel ve İdari Kariyerler") {
+          return kariyer_secim_25_plus_s7_eng_mentor_6_1;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yenilikçi ve Girişimci Kariyerler") {
+          return kariyer_secim_25_plus_s7_eng_mentor_7_1;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Öğretim ve Mentorluk Kariyerleri") {
+          return kariyer_secim_25_plus_s7_eng_mentor_8_1;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Analitik ve Veri Odaklı Kariyerler") {
+          return kariyer_secim_25_plus_s7_eng_mentor_9_1;
+        } 
+      } else if (type == "s7_mentor_x_2") {
+        if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yaratıcı ve Sanatsal Kariyerler") {
+          return kariyer_secim_25_plus_s7_eng_mentor_1_2;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Liderlik ve Yönetim Kariyerleri") {
+          return kariyer_secim_25_plus_s7_eng_mentor_2_2;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yardım ve Sosyal Kariyerler") {
+          return kariyer_secim_25_plus_s7_eng_mentor_3_2;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Teknik ve Mühendislik Kariyerleri") {
+          return kariyer_secim_25_plus_s7_eng_mentor_4_2;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Satış ve İlişki Kurma Kariyerleri") {
+          return kariyer_secim_25_plus_s7_eng_mentor_5_2;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Organizasyonel ve İdari Kariyerler") {
+          return kariyer_secim_25_plus_s7_eng_mentor_6_2;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yenilikçi ve Girişimci Kariyerler") {
+          return kariyer_secim_25_plus_s7_eng_mentor_7_2;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Öğretim ve Mentorluk Kariyerleri") {
+          return kariyer_secim_25_plus_s7_eng_mentor_8_2;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Analitik ve Veri Odaklı Kariyerler") {
+          return kariyer_secim_25_plus_s7_eng_mentor_9_2;
+        }
+      } else if (type == "s7_mentor_x_3") {
+        if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yaratıcı ve Sanatsal Kariyerler") {
+          return kariyer_secim_25_plus_s7_eng_mentor_1_3;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Liderlik ve Yönetim Kariyerleri") {
+          return kariyer_secim_25_plus_s7_eng_mentor_2_3;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yardım ve Sosyal Kariyerler") {
+          return kariyer_secim_25_plus_s7_eng_mentor_3_3;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Teknik ve Mühendislik Kariyerleri") {
+          return kariyer_secim_25_plus_s7_eng_mentor_4_3;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Satış ve İlişki Kurma Kariyerleri") {
+          return kariyer_secim_25_plus_s7_eng_mentor_5_3;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Organizasyonel ve İdari Kariyerler") {
+          return kariyer_secim_25_plus_s7_eng_mentor_6_3;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yenilikçi ve Girişimci Kariyerler") {
+          return kariyer_secim_25_plus_s7_eng_mentor_7_3;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Öğretim ve Mentorluk Kariyerleri") {
+          return kariyer_secim_25_plus_s7_eng_mentor_8_3;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Analitik ve Veri Odaklı Kariyerler") {
+          return kariyer_secim_25_plus_s7_eng_mentor_9_3;
+        }
+      } else if (type == "s7_mentor_x_4") {
+        if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yaratıcı ve Sanatsal Kariyerler") {
+          return kariyer_secim_25_plus_s7_eng_mentor_1_4;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Liderlik ve Yönetim Kariyerleri") {
+          return kariyer_secim_25_plus_s7_eng_mentor_2_4;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yardım ve Sosyal Kariyerler") {
+          return kariyer_secim_25_plus_s7_eng_mentor_3_4;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Teknik ve Mühendislik Kariyerleri") {
+          return kariyer_secim_25_plus_s7_eng_mentor_4_4;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Satış ve İlişki Kurma Kariyerleri") {
+          return kariyer_secim_25_plus_s7_eng_mentor_5_4;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Organizasyonel ve İdari Kariyerler") {
+          return kariyer_secim_25_plus_s7_eng_mentor_6_4;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yenilikçi ve Girişimci Kariyerler") {
+          return kariyer_secim_25_plus_s7_eng_mentor_7_4;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Öğretim ve Mentorluk Kariyerleri") {
+          return kariyer_secim_25_plus_s7_eng_mentor_8_4;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Analitik ve Veri Odaklı Kariyerler") {
+          return kariyer_secim_25_plus_s7_eng_mentor_9_4;
+        }
+      } else if (type == "s7_mentor_x_5") {
+        if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yaratıcı ve Sanatsal Kariyerler") {
+          return kariyer_secim_25_plus_s7_eng_mentor_1_5;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Liderlik ve Yönetim Kariyerleri") {
+          return kariyer_secim_25_plus_s7_eng_mentor_2_5;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yardım ve Sosyal Kariyerler") {
+          return kariyer_secim_25_plus_s7_eng_mentor_3_5;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Teknik ve Mühendislik Kariyerleri") {
+          return kariyer_secim_25_plus_s7_eng_mentor_4_5;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Satış ve İlişki Kurma Kariyerleri") {
+          return kariyer_secim_25_plus_s7_eng_mentor_5_5;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Organizasyonel ve İdari Kariyerler") {
+          return kariyer_secim_25_plus_s7_eng_mentor_6_5;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yenilikçi ve Girişimci Kariyerler") {
+          return kariyer_secim_25_plus_s7_eng_mentor_7_5;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Öğretim ve Mentorluk Kariyerleri") {
+          return kariyer_secim_25_plus_s7_eng_mentor_8_5;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Analitik ve Veri Odaklı Kariyerler") {
+          return kariyer_secim_25_plus_s7_eng_mentor_9_5;
+        }
+      } else if (type == "s7_mentor_x_6") {
+        if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yaratıcı ve Sanatsal Kariyerler") {
+          return kariyer_secim_25_plus_s7_eng_mentor_1_6;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Liderlik ve Yönetim Kariyerleri") {
+          return kariyer_secim_25_plus_s7_eng_mentor_2_6;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yardım ve Sosyal Kariyerler") {
+          return kariyer_secim_25_plus_s7_eng_mentor_3_6;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Teknik ve Mühendislik Kariyerleri") {
+          return kariyer_secim_25_plus_s7_eng_mentor_4_6;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Satış ve İlişki Kurma Kariyerleri") {
+          return kariyer_secim_25_plus_s7_eng_mentor_5_6;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Organizasyonel ve İdari Kariyerler") {
+          return kariyer_secim_25_plus_s7_eng_mentor_6_6;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yenilikçi ve Girişimci Kariyerler") {
+          return kariyer_secim_25_plus_s7_eng_mentor_7_6;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Öğretim ve Mentorluk Kariyerleri") {
+          return kariyer_secim_25_plus_s7_eng_mentor_8_6;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Analitik ve Veri Odaklı Kariyerler") {
+          return kariyer_secim_25_plus_s7_eng_mentor_9_6;
+        }
+      } else if (type == "s7_mentor_x_7") {
+        if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yaratıcı ve Sanatsal Kariyerler") {
+          return kariyer_secim_25_plus_s7_eng_mentor_1_7;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Liderlik ve Yönetim Kariyerleri") {
+          return kariyer_secim_25_plus_s7_eng_mentor_2_7;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yardım ve Sosyal Kariyerler") {
+          return kariyer_secim_25_plus_s7_eng_mentor_3_7;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Teknik ve Mühendislik Kariyerleri") {
+          return kariyer_secim_25_plus_s7_eng_mentor_4_7;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Satış ve İlişki Kurma Kariyerleri") {
+          return kariyer_secim_25_plus_s7_eng_mentor_5_7;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Organizasyonel ve İdari Kariyerler") {
+          return kariyer_secim_25_plus_s7_eng_mentor_6_7;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yenilikçi ve Girişimci Kariyerler") {
+          return kariyer_secim_25_plus_s7_eng_mentor_7_7;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Öğretim ve Mentorluk Kariyerleri") {
+          return kariyer_secim_25_plus_s7_eng_mentor_8_7;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Analitik ve Veri Odaklı Kariyerler") {
+          return kariyer_secim_25_plus_s7_eng_mentor_9_7;
+        }
+      } else if (type == "s7_tourism_x_1") {
+        if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yaratıcı ve Sanatsal Kariyerler") {
+          return kariyer_secim_25_plus_s7_eng_tourism_1_1;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Liderlik ve Yönetim Kariyerleri") {
+          return kariyer_secim_25_plus_s7_eng_tourism_2_1;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yardım ve Sosyal Kariyerler") {
+          return kariyer_secim_25_plus_s7_eng_tourism_3_1;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Teknik ve Mühendislik Kariyerleri") {
+          return kariyer_secim_25_plus_s7_eng_tourism_4_1;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Satış ve İlişki Kurma Kariyerleri") {
+          return kariyer_secim_25_plus_s7_eng_tourism_5_1;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Organizasyonel ve İdari Kariyerler") {
+          return kariyer_secim_25_plus_s7_eng_tourism_6_1;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yenilikçi ve Girişimci Kariyerler") {
+          return kariyer_secim_25_plus_s7_eng_tourism_7_1;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Öğretim ve Mentorluk Kariyerleri") {
+          return kariyer_secim_25_plus_s7_eng_tourism_8_1;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Analitik ve Veri Odaklı Kariyerler") {
+          return kariyer_secim_25_plus_s7_eng_tourism_9_1;
+        } 
+      } else if (type == "s7_tourism_x_2") {
+        if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yaratıcı ve Sanatsal Kariyerler") {
+          return kariyer_secim_25_plus_s7_eng_tourism_1_2;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Liderlik ve Yönetim Kariyerleri") {
+          return kariyer_secim_25_plus_s7_eng_tourism_2_2;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yardım ve Sosyal Kariyerler") {
+          return kariyer_secim_25_plus_s7_eng_tourism_3_2;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Teknik ve Mühendislik Kariyerleri") {
+          return kariyer_secim_25_plus_s7_eng_tourism_4_2;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Satış ve İlişki Kurma Kariyerleri") {
+          return kariyer_secim_25_plus_s7_eng_tourism_5_2;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Organizasyonel ve İdari Kariyerler") {
+          return kariyer_secim_25_plus_s7_eng_tourism_6_2;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yenilikçi ve Girişimci Kariyerler") {
+          return kariyer_secim_25_plus_s7_eng_tourism_7_2;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Öğretim ve Mentorluk Kariyerleri") {
+          return kariyer_secim_25_plus_s7_eng_tourism_8_2;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Analitik ve Veri Odaklı Kariyerler") {
+          return kariyer_secim_25_plus_s7_eng_tourism_9_2;
+        }
+      } else if (type == "s7_tourism_x_3") {
+        if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yaratıcı ve Sanatsal Kariyerler") {
+          return kariyer_secim_25_plus_s7_eng_tourism_1_3;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Liderlik ve Yönetim Kariyerleri") {
+          return kariyer_secim_25_plus_s7_eng_tourism_2_3;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yardım ve Sosyal Kariyerler") {
+          return kariyer_secim_25_plus_s7_eng_tourism_3_3;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Teknik ve Mühendislik Kariyerleri") {
+          return kariyer_secim_25_plus_s7_eng_tourism_4_3;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Satış ve İlişki Kurma Kariyerleri") {
+          return kariyer_secim_25_plus_s7_eng_tourism_5_3;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Organizasyonel ve İdari Kariyerler") {
+          return kariyer_secim_25_plus_s7_eng_tourism_6_3;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yenilikçi ve Girişimci Kariyerler") {
+          return kariyer_secim_25_plus_s7_eng_tourism_7_3;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Öğretim ve Mentorluk Kariyerleri") {
+          return kariyer_secim_25_plus_s7_eng_tourism_8_3;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Analitik ve Veri Odaklı Kariyerler") {
+          return kariyer_secim_25_plus_s7_eng_tourism_9_3;
+        }
+      } else if (type == "s7_tourism_x_4") {
+        if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yaratıcı ve Sanatsal Kariyerler") {
+          return kariyer_secim_25_plus_s7_eng_tourism_1_4;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Liderlik ve Yönetim Kariyerleri") {
+          return kariyer_secim_25_plus_s7_eng_tourism_2_4;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yardım ve Sosyal Kariyerler") {
+          return kariyer_secim_25_plus_s7_eng_tourism_3_4;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Teknik ve Mühendislik Kariyerleri") {
+          return kariyer_secim_25_plus_s7_eng_tourism_4_4;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Satış ve İlişki Kurma Kariyerleri") {
+          return kariyer_secim_25_plus_s7_eng_tourism_5_4;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Organizasyonel ve İdari Kariyerler") {
+          return kariyer_secim_25_plus_s7_eng_tourism_6_4;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yenilikçi ve Girişimci Kariyerler") {
+          return kariyer_secim_25_plus_s7_eng_tourism_7_4;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Öğretim ve Mentorluk Kariyerleri") {
+          return kariyer_secim_25_plus_s7_eng_tourism_8_4;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Analitik ve Veri Odaklı Kariyerler") {
+          return kariyer_secim_25_plus_s7_eng_tourism_9_4;
+        }
+      } else if (type == "s7_tourism_x_5") {
+        if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yaratıcı ve Sanatsal Kariyerler") {
+          return kariyer_secim_25_plus_s7_eng_tourism_1_5;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Liderlik ve Yönetim Kariyerleri") {
+          return kariyer_secim_25_plus_s7_eng_tourism_2_5;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yardım ve Sosyal Kariyerler") {
+          return kariyer_secim_25_plus_s7_eng_tourism_3_5;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Teknik ve Mühendislik Kariyerleri") {
+          return kariyer_secim_25_plus_s7_eng_tourism_4_5;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Satış ve İlişki Kurma Kariyerleri") {
+          return kariyer_secim_25_plus_s7_eng_tourism_5_5;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Organizasyonel ve İdari Kariyerler") {
+          return kariyer_secim_25_plus_s7_eng_tourism_6_5;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yenilikçi ve Girişimci Kariyerler") {
+          return kariyer_secim_25_plus_s7_eng_tourism_7_5;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Öğretim ve Mentorluk Kariyerleri") {
+          return kariyer_secim_25_plus_s7_eng_tourism_8_5;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Analitik ve Veri Odaklı Kariyerler") {
+          return kariyer_secim_25_plus_s7_eng_tourism_9_5;
+        }
+      } else if (type == "s7_tourism_x_6") {
+        if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yaratıcı ve Sanatsal Kariyerler") {
+          return kariyer_secim_25_plus_s7_eng_tourism_1_6;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Liderlik ve Yönetim Kariyerleri") {
+          return kariyer_secim_25_plus_s7_eng_tourism_2_6;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yardım ve Sosyal Kariyerler") {
+          return kariyer_secim_25_plus_s7_eng_tourism_3_6;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Teknik ve Mühendislik Kariyerleri") {
+          return kariyer_secim_25_plus_s7_eng_tourism_4_6;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Satış ve İlişki Kurma Kariyerleri") {
+          return kariyer_secim_25_plus_s7_eng_tourism_5_6;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Organizasyonel ve İdari Kariyerler") {
+          return kariyer_secim_25_plus_s7_eng_tourism_6_6;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yenilikçi ve Girişimci Kariyerler") {
+          return kariyer_secim_25_plus_s7_eng_tourism_7_6;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Öğretim ve Mentorluk Kariyerleri") {
+          return kariyer_secim_25_plus_s7_eng_tourism_8_6;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Analitik ve Veri Odaklı Kariyerler") {
+          return kariyer_secim_25_plus_s7_eng_tourism_9_6;
+        }
+      } else if (type == "s7_tourism_x_7") {
+        if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yaratıcı ve Sanatsal Kariyerler") {
+          return kariyer_secim_25_plus_s7_eng_tourism_1_7;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Liderlik ve Yönetim Kariyerleri") {
+          return kariyer_secim_25_plus_s7_eng_tourism_2_7;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yardım ve Sosyal Kariyerler") {
+          return kariyer_secim_25_plus_s7_eng_tourism_3_7;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Teknik ve Mühendislik Kariyerleri") {
+          return kariyer_secim_25_plus_s7_eng_tourism_4_7;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Satış ve İlişki Kurma Kariyerleri") {
+          return kariyer_secim_25_plus_s7_eng_tourism_5_7;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Organizasyonel ve İdari Kariyerler") {
+          return kariyer_secim_25_plus_s7_eng_tourism_6_7;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yenilikçi ve Girişimci Kariyerler") {
+          return kariyer_secim_25_plus_s7_eng_tourism_7_7;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Öğretim ve Mentorluk Kariyerleri") {
+          return kariyer_secim_25_plus_s7_eng_tourism_8_7;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Analitik ve Veri Odaklı Kariyerler") {
+          return kariyer_secim_25_plus_s7_eng_tourism_9_7;
+        }
+      } else if (type == "s7_agroTech_x_1") {
+        if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yaratıcı ve Sanatsal Kariyerler") {
+          return kariyer_secim_25_plus_s7_agroTech_1_1;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Liderlik ve Yönetim Kariyerleri") {
+          return kariyer_secim_25_plus_s7_agroTech_2_1;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yardım ve Sosyal Kariyerler") {
+          return kariyer_secim_25_plus_s7_agroTech_3_1;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Teknik ve Mühendislik Kariyerleri") {
+          return kariyer_secim_25_plus_s7_agroTech_4_1;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Satış ve İlişki Kurma Kariyerleri") {
+          return kariyer_secim_25_plus_s7_agroTech_5_1;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Organizasyonel ve İdari Kariyerler") {
+          return kariyer_secim_25_plus_s7_agroTech_6_1;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yenilikçi ve Girişimci Kariyerler") {
+          return kariyer_secim_25_plus_s7_agroTech_7_1;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Öğretim ve Mentorluk Kariyerleri") {
+          return kariyer_secim_25_plus_s7_agroTech_8_1;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Analitik ve Veri Odaklı Kariyerler") {
+          return kariyer_secim_25_plus_s7_agroTech_9_1;
+        } 
+      } else if (type == "s7_agroTech_x_2") {
+        if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yaratıcı ve Sanatsal Kariyerler") {
+          return kariyer_secim_25_plus_s7_agroTech_1_2;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Liderlik ve Yönetim Kariyerleri") {
+          return kariyer_secim_25_plus_s7_agroTech_2_2;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yardım ve Sosyal Kariyerler") {
+          return kariyer_secim_25_plus_s7_agroTech_3_2;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Teknik ve Mühendislik Kariyerleri") {
+          return kariyer_secim_25_plus_s7_agroTech_4_2;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Satış ve İlişki Kurma Kariyerleri") {
+          return kariyer_secim_25_plus_s7_agroTech_5_2;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Organizasyonel ve İdari Kariyerler") {
+          return kariyer_secim_25_plus_s7_agroTech_6_2;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yenilikçi ve Girişimci Kariyerler") {
+          return kariyer_secim_25_plus_s7_agroTech_7_2;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Öğretim ve Mentorluk Kariyerleri") {
+          return kariyer_secim_25_plus_s7_agroTech_8_2;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Analitik ve Veri Odaklı Kariyerler") {
+          return kariyer_secim_25_plus_s7_agroTech_9_2;
+        }
+      } else if (type == "s7_agroTech_x_3") {
+        if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yaratıcı ve Sanatsal Kariyerler") {
+          return kariyer_secim_25_plus_s7_agroTech_1_3;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Liderlik ve Yönetim Kariyerleri") {
+          return kariyer_secim_25_plus_s7_agroTech_2_3;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yardım ve Sosyal Kariyerler") {
+          return kariyer_secim_25_plus_s7_agroTech_3_3;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Teknik ve Mühendislik Kariyerleri") {
+          return kariyer_secim_25_plus_s7_agroTech_4_3;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Satış ve İlişki Kurma Kariyerleri") {
+          return kariyer_secim_25_plus_s7_agroTech_5_3;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Organizasyonel ve İdari Kariyerler") {
+          return kariyer_secim_25_plus_s7_agroTech_6_3;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yenilikçi ve Girişimci Kariyerler") {
+          return kariyer_secim_25_plus_s7_agroTech_7_3;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Öğretim ve Mentorluk Kariyerleri") {
+          return kariyer_secim_25_plus_s7_agroTech_8_3;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Analitik ve Veri Odaklı Kariyerler") {
+          return kariyer_secim_25_plus_s7_agroTech_9_3;
+        }
+      } else if (type == "s7_agroTech_x_4") {
+        if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yaratıcı ve Sanatsal Kariyerler") {
+          return kariyer_secim_25_plus_s7_agroTech_1_4;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Liderlik ve Yönetim Kariyerleri") {
+          return kariyer_secim_25_plus_s7_agroTech_2_4;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yardım ve Sosyal Kariyerler") {
+          return kariyer_secim_25_plus_s7_agroTech_3_4;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Teknik ve Mühendislik Kariyerleri") {
+          return kariyer_secim_25_plus_s7_agroTech_4_4;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Satış ve İlişki Kurma Kariyerleri") {
+          return kariyer_secim_25_plus_s7_agroTech_5_4;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Organizasyonel ve İdari Kariyerler") {
+          return kariyer_secim_25_plus_s7_agroTech_6_4;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yenilikçi ve Girişimci Kariyerler") {
+          return kariyer_secim_25_plus_s7_agroTech_7_4;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Öğretim ve Mentorluk Kariyerleri") {
+          return kariyer_secim_25_plus_s7_agroTech_8_4;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Analitik ve Veri Odaklı Kariyerler") {
+          return kariyer_secim_25_plus_s7_agroTech_9_4;
+        }
+      } else if (type == "s7_agroTech_x_5") {
+        if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yaratıcı ve Sanatsal Kariyerler") {
+          return kariyer_secim_25_plus_s7_agroTech_1_5;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Liderlik ve Yönetim Kariyerleri") {
+          return kariyer_secim_25_plus_s7_agroTech_2_5;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yardım ve Sosyal Kariyerler") {
+          return kariyer_secim_25_plus_s7_agroTech_3_5;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Teknik ve Mühendislik Kariyerleri") {
+          return kariyer_secim_25_plus_s7_agroTech_4_5;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Satış ve İlişki Kurma Kariyerleri") {
+          return kariyer_secim_25_plus_s7_agroTech_5_5;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Organizasyonel ve İdari Kariyerler") {
+          return kariyer_secim_25_plus_s7_agroTech_6_5;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yenilikçi ve Girişimci Kariyerler") {
+          return kariyer_secim_25_plus_s7_agroTech_7_5;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Öğretim ve Mentorluk Kariyerleri") {
+          return kariyer_secim_25_plus_s7_agroTech_8_5;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Analitik ve Veri Odaklı Kariyerler") {
+          return kariyer_secim_25_plus_s7_agroTech_9_5;
+        }
+      } else if (type == "s7_agroTech_x_6") {
+        if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yaratıcı ve Sanatsal Kariyerler") {
+          return kariyer_secim_25_plus_s7_agroTech_1_6;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Liderlik ve Yönetim Kariyerleri") {
+          return kariyer_secim_25_plus_s7_agroTech_2_6;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yardım ve Sosyal Kariyerler") {
+          return kariyer_secim_25_plus_s7_agroTech_3_6;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Teknik ve Mühendislik Kariyerleri") {
+          return kariyer_secim_25_plus_s7_agroTech_4_6;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Satış ve İlişki Kurma Kariyerleri") {
+          return kariyer_secim_25_plus_s7_agroTech_5_6;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Organizasyonel ve İdari Kariyerler") {
+          return kariyer_secim_25_plus_s7_agroTech_6_6;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yenilikçi ve Girişimci Kariyerler") {
+          return kariyer_secim_25_plus_s7_agroTech_7_6;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Öğretim ve Mentorluk Kariyerleri") {
+          return kariyer_secim_25_plus_s7_agroTech_8_6;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Analitik ve Veri Odaklı Kariyerler") {
+          return kariyer_secim_25_plus_s7_agroTech_9_6;
+        }
+      } else if (type == "s7_agroTech_x_7") {
+        if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yaratıcı ve Sanatsal Kariyerler") {
+          return kariyer_secim_25_plus_s7_agroTech_1_7;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Liderlik ve Yönetim Kariyerleri") {
+          return kariyer_secim_25_plus_s7_agroTech_2_7;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yardım ve Sosyal Kariyerler") {
+          return kariyer_secim_25_plus_s7_agroTech_3_7;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Teknik ve Mühendislik Kariyerleri") {
+          return kariyer_secim_25_plus_s7_agroTech_4_7;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Satış ve İlişki Kurma Kariyerleri") {
+          return kariyer_secim_25_plus_s7_agroTech_5_7;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Organizasyonel ve İdari Kariyerler") {
+          return kariyer_secim_25_plus_s7_agroTech_6_7;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yenilikçi ve Girişimci Kariyerler") {
+          return kariyer_secim_25_plus_s7_agroTech_7_7;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Öğretim ve Mentorluk Kariyerleri") {
+          return kariyer_secim_25_plus_s7_agroTech_8_7;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Analitik ve Veri Odaklı Kariyerler") {
+          return kariyer_secim_25_plus_s7_agroTech_9_7;
+        }
+      } else if (type == "s7_logistic_x_1") {
+        if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yaratıcı ve Sanatsal Kariyerler") {
+          return kariyer_secim_25_plus_s7_logistic_1_1;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Liderlik ve Yönetim Kariyerleri") {
+          return kariyer_secim_25_plus_s7_logistic_2_1;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yardım ve Sosyal Kariyerler") {
+          return kariyer_secim_25_plus_s7_logistic_3_1;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Teknik ve Mühendislik Kariyerleri") {
+          return kariyer_secim_25_plus_s7_logistic_4_1;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Satış ve İlişki Kurma Kariyerleri") {
+          return kariyer_secim_25_plus_s7_logistic_5_1;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Organizasyonel ve İdari Kariyerler") {
+          return kariyer_secim_25_plus_s7_logistic_6_1;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yenilikçi ve Girişimci Kariyerler") {
+          return kariyer_secim_25_plus_s7_logistic_7_1;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Öğretim ve Mentorluk Kariyerleri") {
+          return kariyer_secim_25_plus_s7_logistic_8_1;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Analitik ve Veri Odaklı Kariyerler") {
+          return kariyer_secim_25_plus_s7_logistic_9_1;
+        } 
+      } else if (type == "s7_logistic_x_2") {
+        if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yaratıcı ve Sanatsal Kariyerler") {
+          return kariyer_secim_25_plus_s7_logistic_1_2;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Liderlik ve Yönetim Kariyerleri") {
+          return kariyer_secim_25_plus_s7_logistic_2_2;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yardım ve Sosyal Kariyerler") {
+          return kariyer_secim_25_plus_s7_logistic_3_2;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Teknik ve Mühendislik Kariyerleri") {
+          return kariyer_secim_25_plus_s7_logistic_4_2;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Satış ve İlişki Kurma Kariyerleri") {
+          return kariyer_secim_25_plus_s7_logistic_5_2;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Organizasyonel ve İdari Kariyerler") {
+          return kariyer_secim_25_plus_s7_logistic_6_2;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yenilikçi ve Girişimci Kariyerler") {
+          return kariyer_secim_25_plus_s7_logistic_7_2;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Öğretim ve Mentorluk Kariyerleri") {
+          return kariyer_secim_25_plus_s7_logistic_8_2;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Analitik ve Veri Odaklı Kariyerler") {
+          return kariyer_secim_25_plus_s7_logistic_9_2;
+        }
+      } else if (type == "s7_logistic_x_3") {
+        if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yaratıcı ve Sanatsal Kariyerler") {
+          return kariyer_secim_25_plus_s7_logistic_1_3;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Liderlik ve Yönetim Kariyerleri") {
+          return kariyer_secim_25_plus_s7_logistic_2_3;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yardım ve Sosyal Kariyerler") {
+          return kariyer_secim_25_plus_s7_logistic_3_3;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Teknik ve Mühendislik Kariyerleri") {
+          return kariyer_secim_25_plus_s7_logistic_4_3;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Satış ve İlişki Kurma Kariyerleri") {
+          return kariyer_secim_25_plus_s7_logistic_5_3;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Organizasyonel ve İdari Kariyerler") {
+          return kariyer_secim_25_plus_s7_logistic_6_3;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yenilikçi ve Girişimci Kariyerler") {
+          return kariyer_secim_25_plus_s7_logistic_7_3;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Öğretim ve Mentorluk Kariyerleri") {
+          return kariyer_secim_25_plus_s7_logistic_8_3;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Analitik ve Veri Odaklı Kariyerler") {
+          return kariyer_secim_25_plus_s7_logistic_9_3;
+        }
+      } else if (type == "s7_logistic_x_4") {
+        if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yaratıcı ve Sanatsal Kariyerler") {
+          return kariyer_secim_25_plus_s7_logistic_1_4;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Liderlik ve Yönetim Kariyerleri") {
+          return kariyer_secim_25_plus_s7_logistic_2_4;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yardım ve Sosyal Kariyerler") {
+          return kariyer_secim_25_plus_s7_logistic_3_4;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Teknik ve Mühendislik Kariyerleri") {
+          return kariyer_secim_25_plus_s7_logistic_4_4;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Satış ve İlişki Kurma Kariyerleri") {
+          return kariyer_secim_25_plus_s7_logistic_5_4;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Organizasyonel ve İdari Kariyerler") {
+          return kariyer_secim_25_plus_s7_logistic_6_4;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yenilikçi ve Girişimci Kariyerler") {
+          return kariyer_secim_25_plus_s7_logistic_7_4;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Öğretim ve Mentorluk Kariyerleri") {
+          return kariyer_secim_25_plus_s7_logistic_8_4;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Analitik ve Veri Odaklı Kariyerler") {
+          return kariyer_secim_25_plus_s7_logistic_9_4;
+        }
+      } else if (type == "s7_logistic_x_5") {
+        if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yaratıcı ve Sanatsal Kariyerler") {
+          return kariyer_secim_25_plus_s7_logistic_1_5;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Liderlik ve Yönetim Kariyerleri") {
+          return kariyer_secim_25_plus_s7_logistic_2_5;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yardım ve Sosyal Kariyerler") {
+          return kariyer_secim_25_plus_s7_logistic_3_5;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Teknik ve Mühendislik Kariyerleri") {
+          return kariyer_secim_25_plus_s7_logistic_4_5;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Satış ve İlişki Kurma Kariyerleri") {
+          return kariyer_secim_25_plus_s7_logistic_5_5;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Organizasyonel ve İdari Kariyerler") {
+          return kariyer_secim_25_plus_s7_logistic_6_5;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yenilikçi ve Girişimci Kariyerler") {
+          return kariyer_secim_25_plus_s7_logistic_7_5;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Öğretim ve Mentorluk Kariyerleri") {
+          return kariyer_secim_25_plus_s7_logistic_8_5;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Analitik ve Veri Odaklı Kariyerler") {
+          return kariyer_secim_25_plus_s7_logistic_9_5;
+        }
+      } else if (type == "s7_logistic_x_6") {
+        if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yaratıcı ve Sanatsal Kariyerler") {
+          return kariyer_secim_25_plus_s7_logistic_1_6;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Liderlik ve Yönetim Kariyerleri") {
+          return kariyer_secim_25_plus_s7_logistic_2_6;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yardım ve Sosyal Kariyerler") {
+          return kariyer_secim_25_plus_s7_logistic_3_6;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Teknik ve Mühendislik Kariyerleri") {
+          return kariyer_secim_25_plus_s7_logistic_4_6;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Satış ve İlişki Kurma Kariyerleri") {
+          return kariyer_secim_25_plus_s7_logistic_5_6;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Organizasyonel ve İdari Kariyerler") {
+          return kariyer_secim_25_plus_s7_logistic_6_6;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yenilikçi ve Girişimci Kariyerler") {
+          return kariyer_secim_25_plus_s7_logistic_7_6;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Öğretim ve Mentorluk Kariyerleri") {
+          return kariyer_secim_25_plus_s7_logistic_8_6;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Analitik ve Veri Odaklı Kariyerler") {
+          return kariyer_secim_25_plus_s7_logistic_9_6;
+        }
+      } else if (type == "s7_logistic_x_7") {
+        if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yaratıcı ve Sanatsal Kariyerler") {
+          return kariyer_secim_25_plus_s7_logistic_1_7;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Liderlik ve Yönetim Kariyerleri") {
+          return kariyer_secim_25_plus_s7_logistic_2_7;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yardım ve Sosyal Kariyerler") {
+          return kariyer_secim_25_plus_s7_logistic_3_7;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Teknik ve Mühendislik Kariyerleri") {
+          return kariyer_secim_25_plus_s7_logistic_4_7;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Satış ve İlişki Kurma Kariyerleri") {
+          return kariyer_secim_25_plus_s7_logistic_5_7;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Organizasyonel ve İdari Kariyerler") {
+          return kariyer_secim_25_plus_s7_logistic_6_7;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yenilikçi ve Girişimci Kariyerler") {
+          return kariyer_secim_25_plus_s7_logistic_7_7;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Öğretim ve Mentorluk Kariyerleri") {
+          return kariyer_secim_25_plus_s7_logistic_8_7;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Analitik ve Veri Odaklı Kariyerler") {
+          return kariyer_secim_25_plus_s7_logistic_9_7;
+        }
+      } else if (type == "s7_media_x_1") {
+        if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yaratıcı ve Sanatsal Kariyerler") {
+          return kariyer_secim_25_plus_s7_media_1_1;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Liderlik ve Yönetim Kariyerleri") {
+          return kariyer_secim_25_plus_s7_media_2_1;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yardım ve Sosyal Kariyerler") {
+          return kariyer_secim_25_plus_s7_media_3_1;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Teknik ve Mühendislik Kariyerleri") {
+          return kariyer_secim_25_plus_s7_media_4_1;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Satış ve İlişki Kurma Kariyerleri") {
+          return kariyer_secim_25_plus_s7_media_5_1;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Organizasyonel ve İdari Kariyerler") {
+          return kariyer_secim_25_plus_s7_media_6_1;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yenilikçi ve Girişimci Kariyerler") {
+          return kariyer_secim_25_plus_s7_media_7_1;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Öğretim ve Mentorluk Kariyerleri") {
+          return kariyer_secim_25_plus_s7_media_8_1;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Analitik ve Veri Odaklı Kariyerler") {
+          return kariyer_secim_25_plus_s7_media_9_1;
+        } 
+      } else if (type == "s7_media_x_2") {
+        if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yaratıcı ve Sanatsal Kariyerler") {
+          return kariyer_secim_25_plus_s7_media_1_2;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Liderlik ve Yönetim Kariyerleri") {
+          return kariyer_secim_25_plus_s7_media_2_2;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yardım ve Sosyal Kariyerler") {
+          return kariyer_secim_25_plus_s7_media_3_2;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Teknik ve Mühendislik Kariyerleri") {
+          return kariyer_secim_25_plus_s7_media_4_2;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Satış ve İlişki Kurma Kariyerleri") {
+          return kariyer_secim_25_plus_s7_media_5_2;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Organizasyonel ve İdari Kariyerler") {
+          return kariyer_secim_25_plus_s7_media_6_2;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yenilikçi ve Girişimci Kariyerler") {
+          return kariyer_secim_25_plus_s7_media_7_2;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Öğretim ve Mentorluk Kariyerleri") {
+          return kariyer_secim_25_plus_s7_media_8_2;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Analitik ve Veri Odaklı Kariyerler") {
+          return kariyer_secim_25_plus_s7_media_9_2;
+        }
+      } else if (type == "s7_media_x_3") {
+        if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yaratıcı ve Sanatsal Kariyerler") {
+          return kariyer_secim_25_plus_s7_media_1_3;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Liderlik ve Yönetim Kariyerleri") {
+          return kariyer_secim_25_plus_s7_media_2_3;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yardım ve Sosyal Kariyerler") {
+          return kariyer_secim_25_plus_s7_media_3_3;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Teknik ve Mühendislik Kariyerleri") {
+          return kariyer_secim_25_plus_s7_media_4_3;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Satış ve İlişki Kurma Kariyerleri") {
+          return kariyer_secim_25_plus_s7_media_5_3;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Organizasyonel ve İdari Kariyerler") {
+          return kariyer_secim_25_plus_s7_media_6_3;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yenilikçi ve Girişimci Kariyerler") {
+          return kariyer_secim_25_plus_s7_media_7_3;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Öğretim ve Mentorluk Kariyerleri") {
+          return kariyer_secim_25_plus_s7_media_8_3;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Analitik ve Veri Odaklı Kariyerler") {
+          return kariyer_secim_25_plus_s7_media_9_3;
+        }
+      } else if (type == "s7_media_x_4") {
+        if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yaratıcı ve Sanatsal Kariyerler") {
+          return kariyer_secim_25_plus_s7_media_1_4;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Liderlik ve Yönetim Kariyerleri") {
+          return kariyer_secim_25_plus_s7_media_2_4;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yardım ve Sosyal Kariyerler") {
+          return kariyer_secim_25_plus_s7_media_3_4;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Teknik ve Mühendislik Kariyerleri") {
+          return kariyer_secim_25_plus_s7_media_4_4;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Satış ve İlişki Kurma Kariyerleri") {
+          return kariyer_secim_25_plus_s7_media_5_4;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Organizasyonel ve İdari Kariyerler") {
+          return kariyer_secim_25_plus_s7_media_6_4;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yenilikçi ve Girişimci Kariyerler") {
+          return kariyer_secim_25_plus_s7_media_7_4;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Öğretim ve Mentorluk Kariyerleri") {
+          return kariyer_secim_25_plus_s7_media_8_4;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Analitik ve Veri Odaklı Kariyerler") {
+          return kariyer_secim_25_plus_s7_media_9_4;
+        }
+      } else if (type == "s7_media_x_5") {
+        if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yaratıcı ve Sanatsal Kariyerler") {
+          return kariyer_secim_25_plus_s7_media_1_5;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Liderlik ve Yönetim Kariyerleri") {
+          return kariyer_secim_25_plus_s7_media_2_5;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yardım ve Sosyal Kariyerler") {
+          return kariyer_secim_25_plus_s7_media_3_5;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Teknik ve Mühendislik Kariyerleri") {
+          return kariyer_secim_25_plus_s7_media_4_5;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Satış ve İlişki Kurma Kariyerleri") {
+          return kariyer_secim_25_plus_s7_media_5_5;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Organizasyonel ve İdari Kariyerler") {
+          return kariyer_secim_25_plus_s7_media_6_5;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yenilikçi ve Girişimci Kariyerler") {
+          return kariyer_secim_25_plus_s7_media_7_5;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Öğretim ve Mentorluk Kariyerleri") {
+          return kariyer_secim_25_plus_s7_media_8_5;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Analitik ve Veri Odaklı Kariyerler") {
+          return kariyer_secim_25_plus_s7_media_9_5;
+        }
+      } else if (type == "s7_media_x_6") {
+        if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yaratıcı ve Sanatsal Kariyerler") {
+          return kariyer_secim_25_plus_s7_media_1_6;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Liderlik ve Yönetim Kariyerleri") {
+          return kariyer_secim_25_plus_s7_media_2_6;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yardım ve Sosyal Kariyerler") {
+          return kariyer_secim_25_plus_s7_media_3_6;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Teknik ve Mühendislik Kariyerleri") {
+          return kariyer_secim_25_plus_s7_media_4_6;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Satış ve İlişki Kurma Kariyerleri") {
+          return kariyer_secim_25_plus_s7_media_5_6;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Organizasyonel ve İdari Kariyerler") {
+          return kariyer_secim_25_plus_s7_media_6_6;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yenilikçi ve Girişimci Kariyerler") {
+          return kariyer_secim_25_plus_s7_media_7_6;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Öğretim ve Mentorluk Kariyerleri") {
+          return kariyer_secim_25_plus_s7_media_8_6;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Analitik ve Veri Odaklı Kariyerler") {
+          return kariyer_secim_25_plus_s7_media_9_6;
+        }
+      } else if (type == "s7_media_x_7") {
+        if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yaratıcı ve Sanatsal Kariyerler") {
+          return kariyer_secim_25_plus_s7_media_1_7;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Liderlik ve Yönetim Kariyerleri") {
+          return kariyer_secim_25_plus_s7_media_2_7;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yardım ve Sosyal Kariyerler") {
+          return kariyer_secim_25_plus_s7_media_3_7;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Teknik ve Mühendislik Kariyerleri") {
+          return kariyer_secim_25_plus_s7_media_4_7;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Satış ve İlişki Kurma Kariyerleri") {
+          return kariyer_secim_25_plus_s7_media_5_7;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Organizasyonel ve İdari Kariyerler") {
+          return kariyer_secim_25_plus_s7_media_6_7;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yenilikçi ve Girişimci Kariyerler") {
+          return kariyer_secim_25_plus_s7_media_7_7;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Öğretim ve Mentorluk Kariyerleri") {
+          return kariyer_secim_25_plus_s7_media_8_7;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Analitik ve Veri Odaklı Kariyerler") {
+          return kariyer_secim_25_plus_s7_media_9_7;
+        }
+      } else if (type == "s7_other_x_1") {
+        if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yaratıcı ve Sanatsal Kariyerler") {
+          return kariyer_secim_25_plus_s7_other_1_1;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Liderlik ve Yönetim Kariyerleri") {
+          return kariyer_secim_25_plus_s7_other_2_1;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yardım ve Sosyal Kariyerler") {
+          return kariyer_secim_25_plus_s7_other_3_1;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Teknik ve Mühendislik Kariyerleri") {
+          return kariyer_secim_25_plus_s7_other_4_1;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Satış ve İlişki Kurma Kariyerleri") {
+          return kariyer_secim_25_plus_s7_other_5_1;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Organizasyonel ve İdari Kariyerler") {
+          return kariyer_secim_25_plus_s7_other_6_1;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yenilikçi ve Girişimci Kariyerler") {
+          return kariyer_secim_25_plus_s7_other_7_1;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Öğretim ve Mentorluk Kariyerleri") {
+          return kariyer_secim_25_plus_s7_other_8_1;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Analitik ve Veri Odaklı Kariyerler") {
+          return kariyer_secim_25_plus_s7_other_9_1;
+        } 
+      } else if (type == "s7_other_x_2") {
+        if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yaratıcı ve Sanatsal Kariyerler") {
+          return kariyer_secim_25_plus_s7_other_1_2;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Liderlik ve Yönetim Kariyerleri") {
+          return kariyer_secim_25_plus_s7_other_2_2;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yardım ve Sosyal Kariyerler") {
+          return kariyer_secim_25_plus_s7_other_3_2;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Teknik ve Mühendislik Kariyerleri") {
+          return kariyer_secim_25_plus_s7_other_4_2;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Satış ve İlişki Kurma Kariyerleri") {
+          return kariyer_secim_25_plus_s7_other_5_2;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Organizasyonel ve İdari Kariyerler") {
+          return kariyer_secim_25_plus_s7_other_6_2;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yenilikçi ve Girişimci Kariyerler") {
+          return kariyer_secim_25_plus_s7_other_7_2;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Öğretim ve Mentorluk Kariyerleri") {
+          return kariyer_secim_25_plus_s7_other_8_2;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Analitik ve Veri Odaklı Kariyerler") {
+          return kariyer_secim_25_plus_s7_other_9_2;
+        }
+      } else if (type == "s7_other_x_3") {
+        if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yaratıcı ve Sanatsal Kariyerler") {
+          return kariyer_secim_25_plus_s7_other_1_3;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Liderlik ve Yönetim Kariyerleri") {
+          return kariyer_secim_25_plus_s7_other_2_3;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yardım ve Sosyal Kariyerler") {
+          return kariyer_secim_25_plus_s7_other_3_3;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Teknik ve Mühendislik Kariyerleri") {
+          return kariyer_secim_25_plus_s7_other_4_3;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Satış ve İlişki Kurma Kariyerleri") {
+          return kariyer_secim_25_plus_s7_other_5_3;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Organizasyonel ve İdari Kariyerler") {
+          return kariyer_secim_25_plus_s7_other_6_3;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yenilikçi ve Girişimci Kariyerler") {
+          return kariyer_secim_25_plus_s7_other_7_3;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Öğretim ve Mentorluk Kariyerleri") {
+          return kariyer_secim_25_plus_s7_other_8_3;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Analitik ve Veri Odaklı Kariyerler") {
+          return kariyer_secim_25_plus_s7_other_9_3;
+        }
+      } else if (type == "s7_other_x_4") {
+        if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yaratıcı ve Sanatsal Kariyerler") {
+          return kariyer_secim_25_plus_s7_other_1_4;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Liderlik ve Yönetim Kariyerleri") {
+          return kariyer_secim_25_plus_s7_other_2_4;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yardım ve Sosyal Kariyerler") {
+          return kariyer_secim_25_plus_s7_other_3_4;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Teknik ve Mühendislik Kariyerleri") {
+          return kariyer_secim_25_plus_s7_other_4_4;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Satış ve İlişki Kurma Kariyerleri") {
+          return kariyer_secim_25_plus_s7_other_5_4;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Organizasyonel ve İdari Kariyerler") {
+          return kariyer_secim_25_plus_s7_other_6_4;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yenilikçi ve Girişimci Kariyerler") {
+          return kariyer_secim_25_plus_s7_other_7_4;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Öğretim ve Mentorluk Kariyerleri") {
+          return kariyer_secim_25_plus_s7_other_8_4;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Analitik ve Veri Odaklı Kariyerler") {
+          return kariyer_secim_25_plus_s7_other_9_4;
+        }
+      } else if (type == "s7_other_x_5") {
+        if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yaratıcı ve Sanatsal Kariyerler") {
+          return kariyer_secim_25_plus_s7_other_1_5;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Liderlik ve Yönetim Kariyerleri") {
+          return kariyer_secim_25_plus_s7_other_2_5;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yardım ve Sosyal Kariyerler") {
+          return kariyer_secim_25_plus_s7_other_3_5;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Teknik ve Mühendislik Kariyerleri") {
+          return kariyer_secim_25_plus_s7_other_4_5;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Satış ve İlişki Kurma Kariyerleri") {
+          return kariyer_secim_25_plus_s7_other_5_5;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Organizasyonel ve İdari Kariyerler") {
+          return kariyer_secim_25_plus_s7_other_6_5;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yenilikçi ve Girişimci Kariyerler") {
+          return kariyer_secim_25_plus_s7_other_7_5;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Öğretim ve Mentorluk Kariyerleri") {
+          return kariyer_secim_25_plus_s7_other_8_5;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Analitik ve Veri Odaklı Kariyerler") {
+          return kariyer_secim_25_plus_s7_other_9_5;
+        }
+      } else if (type == "s7_other_x_6") {
+        if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yaratıcı ve Sanatsal Kariyerler") {
+          return kariyer_secim_25_plus_s7_other_1_6;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Liderlik ve Yönetim Kariyerleri") {
+          return kariyer_secim_25_plus_s7_other_2_6;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yardım ve Sosyal Kariyerler") {
+          return kariyer_secim_25_plus_s7_other_3_6;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Teknik ve Mühendislik Kariyerleri") {
+          return kariyer_secim_25_plus_s7_other_4_6;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Satış ve İlişki Kurma Kariyerleri") {
+          return kariyer_secim_25_plus_s7_other_5_6;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Organizasyonel ve İdari Kariyerler") {
+          return kariyer_secim_25_plus_s7_other_6_6;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yenilikçi ve Girişimci Kariyerler") {
+          return kariyer_secim_25_plus_s7_other_7_6;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Öğretim ve Mentorluk Kariyerleri") {
+          return kariyer_secim_25_plus_s7_other_8_6;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Analitik ve Veri Odaklı Kariyerler") {
+          return kariyer_secim_25_plus_s7_other_9_6;
+        }
+      } else if (type == "s7_other_x_7") {
+        if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yaratıcı ve Sanatsal Kariyerler") {
+          return kariyer_secim_25_plus_s7_other_1_7;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Liderlik ve Yönetim Kariyerleri") {
+          return kariyer_secim_25_plus_s7_other_2_7;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yardım ve Sosyal Kariyerler") {
+          return kariyer_secim_25_plus_s7_other_3_7;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Teknik ve Mühendislik Kariyerleri") {
+          return kariyer_secim_25_plus_s7_other_4_7;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Satış ve İlişki Kurma Kariyerleri") {
+          return kariyer_secim_25_plus_s7_other_5_7;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Organizasyonel ve İdari Kariyerler") {
+          return kariyer_secim_25_plus_s7_other_6_7;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yenilikçi ve Girişimci Kariyerler") {
+          return kariyer_secim_25_plus_s7_other_7_7;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Öğretim ve Mentorluk Kariyerleri") {
+          return kariyer_secim_25_plus_s7_other_8_7;
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Analitik ve Veri Odaklı Kariyerler") {
+          return kariyer_secim_25_plus_s7_other_9_7;
         }
       } else if (type == "ozet_1") {
         if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yaratıcı ve Sanatsal Kariyerler") {
