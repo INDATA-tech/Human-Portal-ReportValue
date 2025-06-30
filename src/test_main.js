@@ -13362,13 +13362,31 @@ var decision_strategy_eng_ozet_11_2 = "Your decision-making process requires a d
         } else if (kariyer_secimData == "retail") {
           return "Retail";
         } else if (kariyer_secimData == "dress") {
-          return "Fashion and ready-to-wear";
+          return "Fashion And Ready-To-Wear";
         } else if (kariyer_secimData == "auto") {
           return "Auotomotive";
         } else if (kariyer_secimData == "health") {
           return "Health and Medicine";
         } else if (kariyer_secimData == "meal") {
-          return "Culinary arts";
+          return "Culinary Arts";
+        } else if (kariyer_secimData == "edTech") {
+          return "Education and EdTech";
+        } else if (kariyer_secimData == "finTech") {
+          return "Finance and FinTech";
+        } else if (kariyer_secimData == "energy") {
+          return "Energy and Renewable Energy";
+        } else if (kariyer_secimData == "mentor") {
+          return "Consulting, Coaching and Mentorship";
+        } else if (kariyer_secimData == "tourism") {
+          return "Tourism and Hospitality";
+        } else if (kariyer_secimData == "agroTech") {
+          return "Agriculture and Agricultural Technologies";
+        } else if (kariyer_secimData == "logistic") {
+          return "Logistic and Transportation";
+        } else if (kariyer_secimData == "media") {
+          return "Media, Print and Visual Press";
+        } else if (kariyer_secimData == "other") {
+          return "Others";
         }
       } else if (type == "s2_x_2") {
         if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yaratıcı ve Sanatsal Kariyerler") {
