@@ -3979,6 +3979,152 @@ var guclu_yanlarin_33_1 = "Gözlem Ustası";
 var guclu_yanlarin_33_2 = "Düzenli İşleyişi Sağlamak\nTüm operasyonları gözetim altında tutma ve her şeyin sorunsuz çalışmasını sağlama konusunda eşsiz bir yeteneğe sahipsin. Varlığın, görevlerin doğru bir şekilde tamamlanmasını, son teslim tarihlerine uyulmasını ve herkesin ne yapması gerektiğini bilmesini sağlar. Detaylara olan dikkatin, organizasyonun düzenini ve verimliliğini korumaya yardımcı olur.\n\nGeçmişten Ders Çıkarmak\nGeçmişteki deneyimlerden öğrenerek, gelecekte başarıya ulaşmak için değerli dersleri uygulayabilirsin. Daha önce neyin işe yarayıp neyin yaramadığını gözlemleme yeteneğin, hataların önlenmesine ve süreçlerin iyileştirilmesine yardımcı olur.\n\nSorumluluğu Sağlamak\nGözetimin sayesinde insanlar işlerinden sorumlu kalırlar. Görevlerin planlandığı gibi tamamlanmasını ve karşılaşılan zorlukların ele alınmasını sağlarsın. İlerlemeyi izleme ve kontrol etme yeteneğin, hiçbir detayın gözden kaçmamasını sağlar ve ekibi hedefte tutar.\n\nİş Dünyasında Yeteneğini Kullanmak\nİş dünyasında, operasyonları gözetme ve detayları yönetme yeteneğin, ekip liderliği veya yönetim gibi rollerde değerlidir. Politikalar oluşturabilir, şikayetleri etkin bir şekilde ele alabilir ve ekibinde sadakat duygusu yaratabilirsin. Bu yetkinlik, her şeyin zamanında ve en yüksek standartlarda yapılmasını sağlayarak verimliliği ve büyümeyi artırır.";
 
 //Güçlü Yanların İngilizce
+//12-25
+var guclu_yanlarin2_57_10_eng_1 = "The Strength of Perfected Form (57-10)";
+var guclu_yanlarin2_57_10_eng_2 = "Thinking on Your Feet\nYou are good at thinking quickly, which is helpful in fast-changing situations. You can create spaces that make people feel safe and ready for anything that might happen.\n\nPerfecting the Form\nYou like making things better. It could be yourself, art, music, writing, or even how you arrange things around you. This care for detail helps you do amazing work, no matter what you’re working on.\n\nBeing True to Yourself\nWhen you are true to who you are, you build a healthy and beautiful life. Being yourself can inspire others and create a positive vibe wherever you go. Your role is to do what you love and love what you do, including loving yourself.\n\nUsing Your Strength in Life\nIn jobs that need creativity, your eye for detail and natural style can help you make things that look and feel awesome. As a leader, your drive to perfect everything you do inspires others to work hard and do their best too. Your strength in perfecting things is a great gift in work, helping you and others succeed.";
+
+var guclu_yanlarin2_20_10_eng_1 = "The Strength of Higher Principles (10-20)";
+var guclu_yanlarin2_20_10_eng_2 = "Voice of Leadership\nYou care about doing the right thing and being true to yourself. By just being yourself, you can be a leader and show others how to stay true to who they are too. This helps build a group where everyone feels free to be themselves.\n\nPreferred Environment\nYou like to be around people who also care about being true to themselves. This kind of environment helps you and others grow and stick to what they believe in.\n\nUsing Your Strength in Life\nYour focus on doing the right thing is helpful in many areas of life. As a leader, you inspire people to make fair and good choices. In a team, being yourself helps others trust you and work better together. This makes the team stronger and more successful.\n\nYour strength of staying true to your values is a big gift in work. It helps you lead with honesty and guide others. By using this strength, you can help your others ad your organization make good choices and reach success.";
+
+var guclu_yanlarin2_59_6_eng_1 = "The Strength of Interaction (6-59)";
+var guclu_yanlarin2_59_6_eng_2 = "Building Meaningful Connections\nYou have a special talent for quickly forming deep bonds with others. This helps you build relationships that are both supportive and productive. Whether it's in a team or with clients, your ability to connect makes you a trusted and valued person in any setting.\n\nCreating Comfortable Spaces\nYou know how to create a warm and welcoming atmosphere. This makes people feel safe and included, which is great for bringing out creativity and teamwork. In any group, you make it easier for people to collaborate and share their ideas.\n\nFacilitating Creativity\nYour strength in making people feel comfortable helps encourage creative thinking. Whether it's brainstorming ideas or working on a team project, you foster an environment where new ideas can flourish, making you a key player in any innovative effort.\n\nUsing Your Strength in Life\nYour ability to build deep connections is useful in many areas of life. You may help create motivated and united teams. In your personal relationships, you make people feel valued and understood. By using your strength in interaction, you can open doors to new opportunities, strengthen partnerships, and inspire trust in others.\n\nThis strength helps you succeed not only in work but also in life. Embrace your ability to connect, and you'll continue to build strong, lasting relationships that lead to success in everything you do.";
+
+var guclu_yanlarin2_63_4_eng_1 = "The Strength of Logical Process (63-4)";
+var guclu_yanlarin2_63_4_eng_2 = "Embracing Doubt\nDoubt plays a big role in your thinking process. You understand that even the best logic can be wrong, and by questioning things, you keep improving your thoughts and decisions. This helps you stay sharp and avoid mistakes.\n\nActive Mind\nYour mind is always busy, looking for patterns and checking if they are consistent. This skill helps you spot problems early, so you can solve them before they get too big. It makes you great at keeping things running smoothly and catching mistakes before they happen.\n\nPressure and Questions\nWhen something doesn’t fit the pattern, you feel the need to find answers. This push to solve problems helps you dig deep and make sure everything is accurate and reliable. It makes you a natural problem-solver who doesn't stop until you find the truth.\n\nUsing Your Strength in Life\nYour ability to question, check for patterns, and predict the future is useful in many areas of life. In work, you help your team plan better and make smarter choices. You spot problems before they grow and make sure things run smoothly. By using your logical process, you help those around you make good decisions and succeed.\n\nYour strength in thinking logically can help you succeed in any situation. It allows you to provide useful insights and find solutions that lead to success in both your personal and professional life.";
+
+var guclu_yanlarin2_45_21_eng_1 = "The Strength of Leadership (45-21)";
+var guclu_yanlarin2_45_21_eng_2 = "Earning Trust\nAs a leader, your first step is to earn the trust of those around you. By showing honesty, skill, and a real understanding of what your team needs, you build trust that allows you to create strong, united teams. Trust is the foundation of your leadership.\n\nRecognizing Patterns and Trends\nYou can spot current patterns and understand trends. This ability helps you anticipate changes and prepare your team for future challenges. You lead by knowing what’s coming and guiding your team to be ready for it.\n\nInfluential Voice\nYour voice carries influence, and leadership comes when others invite you to take the role. Being chosen by your peers shows their trust in your abilities and confidence in your leadership.\n\nLeading Behind the Scenes\nYou also have the skill to lead from behind the scenes. You don’t always need to be in the spotlight to influence others. By guiding decision-makers and shaping strategies quietly, you can still drive significant progress.\n\nUsing Your Strength in Life\nYour ability to guide others into the future and earn their trust is valuable in many parts of life. In leadership roles, you help your team feel confident and prepared. By recognizing patterns and trends, you help your group stay ahead of challenges. Your unique leadership, whether up front or behind the scenes, makes a lasting impact.\n\nThis strength in leadership can help you lead your team or organization with confidence and direction, ensuring long-term success and building strong relationships along the way.\n";
+
+var guclu_yanlarin2_60_3_eng_1 = "The Strength of Innovation (3-60)";
+var guclu_yanlarin2_60_3_eng_2 = "Embracing Change\nYou have the power to bring about change, both for yourself and those around you. Change can happen suddenly, like a leap forward and it requires faith in the process. Your motto can be simple: “Change happens when it’s meant to happen.”\n\nFrom Chaos to Order\nInnovation often starts with chaos, but you know how to turn that chaos into order. This process takes time and trust in the right moment. Your ability to manage this transition helps move projects from messy beginnings to successful outcomes.\n\nCreative Flow and Moods\nYou move through cycles of creativity that can include moments of feeling low or moody. Instead of fighting this, you embrace your moods and let them guide you. Your inner response to things will help you find what truly satisfies you.\n\nUsing Your Strength in Life\nYour strength of innovation helps you bring new ideas and changes to life. In work, you lead others from chaos to order, turning big ideas into real results. Your ability to trust the process and embrace change makes you a key player in creative and strategic roles.\n\nBy harnessing this strength, you can foster environments where change and creativity flourish, leading to success in all areas of life.";
+
+var guclu_yanlarin2_5_15_eng_1 = "The Strength of Patterns & Rhythm (5-15)";
+var guclu_yanlarin2_5_15_eng_2 = "Aligning with Your Flow\nWhen you follow your natural rhythm, everything you do feels effortless and smooth. This sense of harmony helps you perform at your best, boosting both your creativity and productivity. Embracing your flow can lead to greater job satisfaction and effectiveness in your work.\n\nHolding to Routines\nYou have a natural ability to stick to routines that work for you. These routines give you structure and stability, making it easier to get things done consistently. At school or in professional settings, this skill helps you create reliable processes that enhance efficiency and reduce stress.\n\nRecognizing Different Rhythms\nYou can also recognize the different rhythms in those around you. Whether someone prefers a fixed routine or something more flexible, you appreciate these differences and adapt to them. This understanding helps create a more cohesive and collaborative team environment.\n\nUsing Your Strength in Life\nYour ability to follow your own rhythm and recognize others' patterns makes you a valuable asset in both work and life. By maintaining your flow, you perform at your best and help others do the same. In teams, you create harmony, boosting collaboration and productivity. Your strength in patterns and rhythm helps everyone stay on track and succeed.\n\nThis power brings structure, harmony, and adaptability, making you a key contributor to any successful project or organization.";
+
+var guclu_yanlarin2_47_64_eng_1 = "The Strength of Experiential Process (64-47)";
+var guclu_yanlarin2_47_64_eng_2 = "Learning by Doing\nYou learn best through direct experience. This hands-on approach helps you understand complex situations in a practical way. In work, this makes you excellent at solving problems on the spot and adapting as you go.\n\nRecognizing Patterns from Experience\nAfter experiencing something, you can notice patterns and processes. This ability helps you make better decisions and improve systems based on real-world feedback. Your solutions are grounded in what actually works.\n\nAdaptability and Resilience\nBy facing challenges head-on, you develop flexibility and resilience. Your ability to adapt quickly to changing circumstances is crucial in fast-paced environments, where things can shift rapidly.\n\nUsing Your Strength in Life\nYour strength of experiential learning helps you succeed in many areas of life. You’re great at learning from your experiences and teaching others by sharing practical examples. At school or at work, this skill helps you improve processes, solve problems quickly, and adapt to new situations with ease.\n\nThis strength of learning through experience is a powerful tool that helps you and those around you grow and succeed in all aspects of life.";
+
+var guclu_yanlarin2_27_50_eng_1 = "The Strength of Custodianship (27-50)";
+var guclu_yanlarin2_27_50_eng_2 = "Nurturing and Sustaining\nYou have a natural gift for caring for resources, people and projects. This ability ensures everything under your care grows and keeps its value. At school or in business, this strength may be important for roles that involve long-term planning and upkeep.\n\nResponsibility and Stewardship\nYou feel responsible for managing resources well. You make sure they are used wisely and saved for the future. This makes you a good fit for roles in sustainability and resource management.\n\nBuilding Communities\nYou can create strong, supportive communities. By making people feel valued, you improve teamwork and productivity. This skill is especially helpful in leadership, where creating a positive culture is key.\n\nUsing Your Strength in Life\nYour strength in caring for others and resources is valuable in both life and work. You help things grow and stay healthy. By building strong communities and protecting resources, you help ensure long-term success.\n\nThis strength combines care, responsibility, and long-term thinking, making you a great asset in any role that needs planning and protection.";
+
+var guclu_yanlarin2_26_44_eng_1 = "The Strength of Sales and Marketing (26-44)";
+var guclu_yanlarin2_26_44_eng_2 = "Clear Communication\nYou can easily share important information. This skill is great for jobs like sales, marketing, or customer service. You make sure everyone understands and reduce misunderstandings.\n\nEmotional Connection\nYou connect with people emotionally. This helps you build trust and strong relationships. It’s very useful in leadership and sales roles where feelings matter.\n\nEnergy and Motivation\nYou bring energy and motivation to others. Your passion can inspire your team to reach their goals. This makes you a great leader.\n\nInfluence and Persuasion\nYour communication skills help you influence and persuade others. Whether sharing an idea or making a deal, you get positive results. This skill is valuable in sales, leadership, and negotiation.\n\nUsing Your Strength in Life\nYour strength in sales and marketing is helpful in many areas. In sales, you engage customers and boost sales. As a leader, you inspire your team. In customer service, you build loyalty through emotional connections.\n\nThis strength helps you create strong relationships, inspire others, and achieve success.";
+
+var guclu_yanlarin2_54_32_eng_1 = "The Strength of Ambition (32-54)";
+var guclu_yanlarin2_54_32_eng_2 = "Driven to Succeed\nYou have a strong drive to reach your goals. This determination pushes you forward, even when faced with challenges. You are very good at tasks that need persistence, and you can do well in roles like entrepreneurship, sales, and leadership in life.\n\nGoal-Oriented\nYou are focused on setting and achieving goals. You know what you want and are ready to work hard to make it happen. This focus keeps you on track and helps you stay motivated.\n\nHigh Standards\nYou set high standards for yourself and aim for excellence. You work hard to improve your skills and get great results. Your high standards also inspire others to do their best.\n\nMotivating Others\nYour ambition motivates others. By working hard and showing dedication, you inspire your team to push their limits. This is important in leadership roles, where ambition can drive a team to success.\n\nUsing Your Strength in Life\nYour ambition is useful in many areas of life. At school and in business, it helps you turn ideas into successful projects. In sales, it helps you deliver great results. As a leader, you motivate your team and lead them to success.\n\nYour ambition is a powerful strength. It helps you achieve your goals and inspire those around you to succeed.";
+
+var guclu_yanlarin2_49_19_eng_1 = "The Strength of Resources (19-49)";
+var guclu_yanlarin2_49_19_eng_2 = "Efficient Resource Management\nYou have a natural talent for managing and allocating resources. This helps ensure everything is used efficiently, making sure all needs are met without waste. This skill is essential for keeping things running smoothly and productive.\n\nMeeting Diverse Needs\nYou understand how to balance the needs of different people. You can prioritize resources to support both the organization and individual needs. This is important in customer service and project management, where success depends on keeping everyone satisfied.\n\nAdaptability\nYour ability to manage resources makes you adaptable. You can quickly adjust to new situations and reallocate resources to solve problems as they come up. This is especially valuable in fast-changing environments where quick thinking is needed.\n\nUsing Your Strength in Life\nYour strength in managing resources is useful in many areas. In operations, you can help increase productivity and cut costs. In finance, your budgeting skills can ensure money is used wisely. In project management, you could make sure the right resources are in place to meet goals.\n\nYour resourcefulness is a powerful asset. It helps you ensure that everything runs smoothly, resources are used well, and goals are achieved.";
+
+var guclu_yanlarin2_37_40_eng_1 = "The Strength of Community (37-40)";
+var guclu_yanlarin2_37_40_eng_2 = "Building Strong Networks\nYou are great at creating supportive groups. This helps people work well together and feel like they belong. Your ability to bring people together makes you valuable in team projects and leadership.\n\nSupportive Environment\nYou are skilled at making environments where people can do their best. You understand what others need and make sure they have the right support. This talent is important in mentoring and helping others grow.\n\n*Encouraging Loyalty\nYour ability to build strong communities leads to loyalty. By creating a positive and welcoming environment, you help people stay committed and engaged for the long term. This is key in roles where people need to feel valued.\n\nUsing Your Strength in Life\nYour community strength is useful in many areas. In teams, you boost cooperation and success. You help build lasting relationships. You create a supportive atmosphere that helps people feel good at work.\n\nThis strength helps you create spaces where people feel valued, connected, and motivated to succeed.";
+
+var guclu_yanlarin2_34_57_eng_1 = "The Strength of Power (34-57)";
+var guclu_yanlarin2_34_57_eng_2 = "Quick Decisions\nYou can respond fast and make clear decisions even under pressure. This skill is very useful in settings where things change quickly and action is needed.\n\nKeeping Things Running\nYou are good at keeping things moving smoothly. You can spot problems right away and fix them quickly. This helps in roles where you need to manage tasks or teams.\n\nHandling Crises\nYou stay calm and take action in tough situations. This makes you great at handling crises and solving problems when things don’t go as planned.\n\nLeading Projects\nIn project work, your power helps keep things on track. You make quick choices, cut out distractions, and keep your team focused. This helps get the job done on time.\n\nUsing Your Strength in Life\nYour strength in power helps in many areas of life. In fast-paced work, you take action quickly and lead others. By using your power, you can guide projects, support your team and stay strong in any challenge.\n\nThis strength makes you a role model, showing others how to act with confidence and purpose.";
+
+var guclu_yanlarin2_20_34_eng_1 = "The Strength of Charisma (34-20)";
+var guclu_yanlarin2_20_34_eng_2 = "Influence and Persuasion\nYour charisma makes it easy to influence and persuade others. Whether you're leading a team, making a deal, or sharing an idea, people trust you and follow your lead. This makes you valuable in sales, marketing, and leadership.\n\nBuilding Strong Relationships\nCharisma helps you build strong and lasting relationships. You make others feel important and understood, which creates trust and loyalty. This skill is important in customer relations and team management.\n\nInspiring Others\nYour charisma inspires and motivates those around you. By showing confidence and enthusiasm, you encourage others to do their best and reach their goals. This is very helpful in leadership roles where you need to motivate a team.\n\nUsing Your Strength in Life\nYour charisma is helpful in many areas of life. In sales and marketing, you can attract customers and grow sales. As a leader, you inspire your team to work harder. In networking, your presence opens doors and creates new opportunities.\n\nCharisma is a powerful strength. It helps you influence others, build relationships, and inspire success.";
+
+var guclu_yanlarin2_51_25_eng_1 = "The Strength of Competitiveness (51-25)";
+var guclu_yanlarin2_51_25_eng_2 = "Pursuing Excellence\nYou have a strong desire to be the best and beat the competition. This drive pushes you to set big goals and work hard to reach them. You and your team always aim for top performance and constant improvement.\n\nResilience and Determination\nYour competitive spirit makes you tough and determined. You do well in difficult situations and don’t give up easily. This helps you stay focused and keep going, even when things are hard.\n\nInspiring Others\nYour competitive nature can inspire those around you. By setting high standards and showing your commitment to success, you encourage your team to work harder and perform better. This is very important in leadership roles.\n\nUsing Your Strength in Life\nYour competitiveness is useful in many areas. In sales and marketing, it drives you to do better and achieve great results. As a leader, your focus on excellence helps your team succeed. In projects, your determination ensures that challenges are overcome, and goals are met.\n\nCompetitiveness is a powerful strength. It helps you reach high levels of performance, inspire others, and lead your team to success.";
+
+var guclu_yanlarin2_8_1_eng_1 = "The Strength of Inspiration (1-8)";
+var guclu_yanlarin2_8_1_eng_2 = "Creative Expression\nYou have a special ability to express different ideas creatively. Whether through your presence or your work, you inspire others by showing new ways to look at things. This is useful in jobs that need creativity, like sales, marketing, or leadership.\n\nBeing a Role Model\n*You show others what it means to be creative and confident in expressing yourself. People admire this and look up to you as a role model. This makes you great in roles where you mentor or lead teams.\n\nCourage to Be Different\nYou have the courage to stand out and be different. By being bold and taking risks, you inspire others to do the same. This helps create new ideas and encourages creativity in your team or organization.\n\nChanging Perspectives\nBy living authentically, you can change the way others think and encourage them to express themselves. Your influence helps create a more open and inclusive environment where different ideas are valued.\n\nUsing Your Strength in Life\nYour strength of inspiration helps in many areas. In creative jobs, you bring new ideas and encourage others to be brave. As a leader, you inspire your team to think differently and achieve more. Your creativity and courage make you a powerful influence.";
+
+var guclu_yanlarin2_28_38_eng_1 = "The Strength of Tenaciousness (38-28)";
+var guclu_yanlarin2_28_38_eng_2 = "Overcoming Challenges\nYou have strong determination that helps you push through challenges. You don’t give up easily when things get tough and see obstacles as chances to learn and grow. This is very important in jobs where you need to overcome difficulties to succeed.\n\nConsistent Effort\nYour tenacity helps you keep working hard toward your goals. You stay committed and are willing to put in extra effort to achieve what you want. This is essential in jobs that need long-term dedication, like research, planning, or managing operations.\n\nInspiring Others\nYour determination can inspire those around you. By showing hard work and commitment, you encourage your team to adopt the same mindset. This is especially helpful in leadership and mentoring roles.\n\nUsing Your Strength in Life\nYour strength in tenaciousness is helpful in many areas. It allows you to keep going even when things are difficult. By using this strength, you can reach your goals and inspire others to do the same.";
+
+var guclu_yanlarin2_7_31_eng_1 = "The Strength of Leadership (7-31)";
+var guclu_yanlarin2_7_31_eng_2 = "Earning Trust\nTo be a good leader, you first need to earn the trust of those you lead. You build trust through honesty, reliability and caring about your team’s well-being. This trust is the foundation for strong teams.\n\nInfluencing with Authority\nYour leadership is not forced but invited. People follow you because they trust and respect your authority. This makes your influence stronger and long-lasting, especially in roles like team leadership and negotiation.\n\nLeading Behind the Scenes\nYou can lead from behind the scenes, guiding important decisions without being in the spotlight. This allows you to help others take action and make progress while supporting them in the background.\n\nProviding Direction\nYour job as a leader is to show the way forward, not to do everything yourself. You provide a vision and guide others to take action. This helps your team feel responsible and empowered.\n\nUsing Your Strength in Life\nYour leadership strength helps in many areas. In executive roles, your vision can guide the organization toward success. In project management, you build trust and give clear direction to keep projects on track. In advisory roles, you lead quietly, helping teams make the right choices.\n\nYour leadership is a powerful skill, combining trust, vision, and influence. By using this strength, you can inspire your team and lead them to success.";
+
+var guclu_yanlarin2_57_20_eng_1 = "The Strength of Spontaneity (57-20)";
+var guclu_yanlarin2_57_20_eng_2 = "Quick Responses\nYou have strong intuition that helps you understand and react quickly. You can think and speak fast without overthinking. This is helpful in jobs that need quick decisions, like crisis management, customer service, and negotiations.\n\nGetting to the Core\nYour spontaneous nature allows you to get straight to the heart of a situation without needing a lot of time. You can quickly identify key issues, which is valuable in problem-solving and leadership roles where time is important.\n\nClear Communication\nYour awareness of how others feel helps you share your thoughts clearly. This reduces misunderstandings and helps others understand you better. This skill is useful in teamwork, customer relationships and solving conflicts.\n\nOvercoming Fear\nSpontaneity requires trusting your instincts and acting without fear of the unknown. By embracing this, you can handle uncertainty with confidence and encourage others to do the same. This is especially important in creative and fast-changing fields.\n\nUsing Your Strength in Life\nYour spontaneity helps you make quick decisions and communicate clearly. You can identify problems and act fast to solve them. By using this strength, you can lead your team and inspire others to be confident and flexible.";
+
+var guclu_yanlarin2_39_55_eng_1 = "The Strength of Provoking (39-55)";
+var guclu_yanlarin2_39_55_eng_2 = "Inspiring Others\nYou have the ability to inspire and push others to reach their full potential. This strength is important in leadership and mentoring, where motivating and challenging people helps them grow.\n\nDeep Creativity\nYour emotions, whether you feel happy, sad or passionate, give you access to deep creativity. By accepting your moods, you can use your creative energy in a powerful way. This is especially useful in fields like art, design, and innovation, where emotions lead to amazing work.\n\nImpacting People Around You\nWhen you embrace how you feel, you gain the power to influence others. Your passion can bring out the best in the people around you. This ability is important in teams, where creating a positive and dynamic spirit helps everyone work better together.\n\nBuilding Strong Relationships\nYou can sense which people connect with you based on their mood or spirit. This helps you form strong and balanced relationships, which are important in teamwork and partnerships. It ensures you work with people who complement your strengths.\n\nUsing Your Strength in Life\nYour strength in provoking helps you inspire others, boost creativity, and build strong relationships. By using this strength, you can push people to do their best, bring out creativity in your team, and form strong connections with those around you.";
+
+var guclu_yanlarin2_2_14_eng_1 = "The Strength of Direction (14-2)";
+var guclu_yanlarin2_2_14_eng_2 = "Guiding New Directions\nYou have the special ability to guide people, projects, and ideas in new, empowering directions by trusting your gut. This strength is valuable in leadership roles where you need to inspire and lead others, like in project management and consultancy.\n\nSupporting Creative Efforts\nYou can keep your own creative projects going or support others in their creative paths. This helps both your projects and those you work with to succeed. This is especially useful in areas like entrepreneurship, research, finance and creative fields.\n\nLeading by Example\nYour power comes from being true to yourself and showing others how to do the same. By living your own purpose, you inspire others to follow their own path. This makes you a strong role model in mentorship, coaching, and leadership.\n\nEmpowering Others\nJust by being yourself, you give people around you a sense of direction and motivation. Your presence helps others feel stable and inspired to take action. This is very effective in teams, leadership, and community building.\n\nUsing Your Strength in Life\nYour strength in direction helps you guide new projects and support creative efforts. By leading through example, you inspire and empower others to find their own path.";
+
+var guclu_yanlarin2_12_22_eng_1 = "The Strength of Socialness (22-12)";
+var guclu_yanlarin2_12_22_eng_2 = "Adapting to Social Settings\nYou have the ability to adjust how you express yourself depending on the social situation. This is important in jobs where clear communication and flexibility are needed, like public relations, customer service or diplomacy. You know how to pick the right words and emotions to connect with different people.\n\nMood-Dependent Socialness\nYour level of social interaction changes based on your mood. Understanding your own emotional rhythms helps you engage with others in a real and authentic way. This is useful in roles that require emotional intelligence, like human resources, counseling, or team leadership.\n\nCatalyst for Change\nYou have a great sense of timing and know when to use your warmth and social skills to get people’s attention. Your words can inspire and bring change in others’ lives. This strength is valuable in motivational speaking, coaching, or any role where inspiring people is important.\n\nUsing Media to Connect\nThrough media like speaking, acting, poetry or music, you can use your voice to touch and empower others. This ability to connect through different forms of expression makes you a strong communicator in fields like entertainment, media, or advocacy, especially when you want to reach new audiences.\n\nUsing Your Strength in Life\nYour socialness helps you adjust to different situations, connect with people, and inspire them. By using this strength, you can create meaningful connections and make a positive impact wherever you go.";
+
+var guclu_yanlarin2_61_24_eng_1 = "The Strength of Creative Process (61-24)";
+var guclu_yanlarin2_61_24_eng_2 = "Inspiration and Inner Truth\nYour mind has a unique ability to find inspiration and understand deep truths. This strength helps you come up with new ideas and solutions, which is important in jobs that need creative thinking and leadership, like strategic planning or research.\n\nSpontaneous Creative Process\nYour creative process is often spontaneous. It can feel like you’re getting ideas from somewhere else, helping you see things in new ways. This is especially helpful in jobs like technology, marketing, or design, where innovation is key.\n\nInspiring Others\nYou can inspire others by sharing your new ideas and unique insights. Your ability to motivate people is valuable in roles like mentoring, teaching, or leadership, where helping others grow is important.\n\nTrusting Your Inner Truth\nYour mind gets stronger when you trust the ideas that come to you at the right time. Being open to new insights helps you solve problems and stay flexible. This is useful in any environment where change and adaptability are important.\n\nUsing Your Strength in Life\nYour creative process is a powerful strength. It helps you bring new ideas, inspire others, and adapt to change easily. By using this strength, you can make a big impact in any setting.";
+
+var guclu_yanlarin2_43_23_eng_1 = "The Strength of Efficiency (43-23)";
+var guclu_yanlarin2_43_23_eng_2 = "Creating Efficient Solutions\nYou have the ability to come up with new ideas that can make things work better and faster. This is very helpful in jobs where problem-solving and improvement are important, like project management and strategic planning. Your talent for finding efficient solutions can make a big difference in how things get done.\n\nExploring the Unknown\nYour mind is designed not only to understand what you know but also to explore things that are still unknown. This curiosity helps you discover new methods and ideas that others might miss. This is especially useful in fields like research, technology and creative industries, where thinking outside the box is needed.\n\nClear Communication\nYou can develop a skill for explaining what you know in a simple and clear way. When people recognize and ask for your ideas, your true genius shines through. This ability to communicate well is especially valuable in roles like teaching, consulting, and leadership, where sharing knowledge is important.\n\nUsing Your Strength in Life\nYour strength in efficiency helps you think in new ways, explore new ideas, and share what you know in a way that others can understand. By using this strength, you can improve how things work, inspire new solutions, and help others learn from your insights.";
+
+var guclu_yanlarin2_9_52_eng_1 = "The Strength of Concentration (52-9)";
+var guclu_yanlarin2_9_52_eng_2 = "Staying Focused\nYou have a strong ability to focus, like a laser, on the task at hand. This makes you great at roles where deep focus is needed, like research, data analysis, and quality control. Your focus helps you work carefully and accurately.\n\nCalm Under Pressure\nWhen you concentrate on details, you feel a quiet, non-stressful pressure that keeps you calm and focused. This calmness is very helpful in high-pressure jobs like engineering, auditing, or surgery, where precision is key.\n\nDetail-Oriented\nYou are always looking closely at the details of anything you work on. This attention to detail is perfect for jobs that require careful evaluation and critical thinking, like legal work, financial planning, or consulting. Your focus ensures that nothing important is missed.\n\nDeep Focus\nIf you don’t have something important to focus on, you may feel restless or down. It’s best for you to focus on one thing at a time to avoid spreading your energy too thin. Your gut instincts tell you what to concentrate on and when to act. This deep focus can help you become an expert in your field.\n\nUsing Your Strength in Life\nYour strength of concentration helps you stay focused, work carefully, and look at details. By using this strength, you can become a valuable expert in any field that requires precision and deep thinking.";
+
+var guclu_yanlarin2_18_58_eng_1 = "The Strength of Logical Judgment (58-18)";
+var guclu_yanlarin2_18_58_eng_2 = "Desire for Perfection\nYou have a strong drive to judge, challenge and improve anything that doesn’t seem right. You always look for the best possible answers by carefully analyzing every detail. This logical approach helps you solve problems with precision and accuracy.\n\nImproving and Mastering Patterns\nYou are great at improving and mastering patterns in systems, processes, and methods. When something doesn’t meet your high standards, you feel the need to fix or challenge it. This drive helps make things better and more efficient.\n\nJoy in Sharing Your Judgment\nWhen people ask for your opinion, it makes you happy because they value your logical judgment. You love being invited to share your thoughts, especially when others ask, “Is something wrong here?” It shows they trust your insights and want your help in improving things.\n\nUsing Your Strength in Life\nIn the business world, your logical judgment is important in roles like planning, quality control, and analysis. Your talent for improving processes and systems helps make things run smoothly and more productively. By using this strength, you can help your organization reach higher levels of success and improvement.";
+
+var guclu_yanlarin2_48_16_eng_1 = "The Strength of Talent (48-16)";
+var guclu_yanlarin2_48_16_eng_2 = "Mastering What You Love\nYou have the ability to combine your natural insight with lots of practice. This helps you improve your skills and create new ideas or methods in anything you’re passionate about. The key to success is focusing on something you truly love doing. Your passion and dedication are what help you turn skills into real talents.\n\nUsing Your Talent in Life\nIn life and business, your talent for mixing intuition and practice can help you find creative solutions and improve how things work. Whether you’re solving problems, managing projects or working in creative areas, your talent can make things more efficient and excellent. By developing this strength, you can have a rewarding and impactful career.";
+
+var guclu_yanlarin2_17_62_eng_1 = "The Strength of Organization (17-62)";
+var guclu_yanlarin2_17_62_eng_2 = "Managing Information\nYou have a special skill for mentally managing details and fitting them into your bigger picture. You can easily absorb new information and organize it with what you already know. This ability is really helpful in complex business environments or when handling lots of tasks.\n\nAlways Organizing\nYour mind is always busy organizing new information to make sure everything fits together perfectly. You pay close attention to details and make sure everything you learn is sorted in a way that makes sense to you. This helps you stay accurate and thorough in your work.\n\nSharing Your Insights\nYou might feel a strong need to share your ideas and explain things in detail. It’s important to pay attention to the right timing and make sure your audience is ready to listen. When you share at the right moment, your insights will have a bigger impact.\n\nUsing Your Strength in Life\nYour talent for organizing groups, events, and projects is highly valuable. You can help streamline tasks, boost productivity, and ensure things run smoothly. Your organizational skills make you a key asset in any team or business.";
+
+var guclu_yanlarin2_53_42_eng_1 = "The Strength of Cycles (53-42)";
+var guclu_yanlarin2_53_42_eng_2 = "Life in Cycles\nYour life moves in cycles with clear beginnings, middles and ends. Each cycle has its own rhythm, taking time to grow and finish before starting over again. By completing experiences, you gain lessons and wisdom that you can share with others. New experiences build on the old, helping you grow and understand more.\n\nLearning from Experience\nRecognize that life works in cycles, and each phase helps you grow. When you reflect on completed experiences, you learn important lessons. Sharing these lessons can help others too.\n\nTrusting Your Instincts\nTrust your gut when starting new things. This helps you avoid getting stuck in patterns where you lose interest. Following your instincts keeps you on track.\n\nLiving Without Expectations\nBy experiencing life without set expectations, you enjoy the moment fully. This approach helps you have more genuine and fulfilling experiences.\n\nUsing Your Strength in Life\nIn business, understanding cycles helps you plan better and manage projects smoothly. By reflecting on what worked and what didn’t, you improve your future efforts. Trusting your instincts helps you avoid mistakes and stay focused on progress.";
+
+var guclu_yanlarin2_46_29_eng_1 = "The Strength of Discovery (29-46)";
+var guclu_yanlarin2_46_29_eng_2 = "Discovering New Things\nYou have a special ability to explore new ideas and keep going until you understand everything. This strength comes from your gut feeling, helping you be in the right place at the right time. By fully committing to a process, even when it doesn't make sense at first, you can find important discoveries at the end. Letting go of expectations and following your instincts increases your chances of success.\n\nStaying Committed\nYour ability to stick with something until it’s fully understood is valuable. In the business world, this perseverance helps you reach important goals and uncover hidden truths. Commitment brings satisfaction and allows you to share what you’ve learned with others.\n\nImmersing Yourself in Experiences\nYou can lose yourself in a project or experience without second-guessing yourself. This deep focus often leads to major discoveries. In the business world, this can mean staying on track during tough projects and coming up with new solutions.\n\nUsing Your Strength in Life\nYour strength of discovery can be used in any job that needs problem-solving and creativity. Whether it's developing new products, doing research, or planning strategies, your commitment to seeing things through helps you find success. You are particularly suited for leadership roles that need persistence and dedication to finish projects.";
+
+var guclu_yanlarin2_33_13_eng_1 = "The Strength of Witnessing (13-33)";
+var guclu_yanlarin2_33_13_eng_2 = "Listening and Learning\nYou have a special ability to listen carefully, remember important details and gather lessons from the stories you hear. You’re great at stepping back to reflect on what you’ve experienced, patiently waiting for deeper truths to show themselves. This strength helps in jobs that need careful observation and analysis.\n\nKeeping Records\nAs a natural record keeper, you store life stories and memories from those around you. Your ability to remember makes you a valuable person in environments where accurate information and detailed records are needed. Your voice says, “I remember.”\n\nTiming and Sharing\nTiming is key. When the time is right, you can share the wisdom you’ve gained. Knowing when to share your insights can make a big difference in your personal and professional life.\n\nUsing Your Strength in Life\nIn life and business, your ability to observe, record and reflect can help in research, leadership, and decision-making. Whether it’s making important discoveries or guiding a team, your strength of witnessing can lead to success. By reflecting on past experiences, you help plan for the future and make informed decisions.";
+
+var guclu_yanlarin2_30_41_eng_1 = "The Strength of Imagination (41-30)";
+var guclu_yanlarin2_30_41_eng_2 = "Dreaming of What Could Be\nYou have the ability to imagine many different possibilities and dream about what the future could look like. Your imagination can lead to creative solutions and new ideas. This makes you great at seeing beyond the present and thinking about a future full of potential.\n\nWanting New Experiences\nYou have a strong desire to try new things and explore new experiences. Your dreams and ideas can create excitement, but sometimes they might not always come true. This desire to experience new things fuels your creativity and keeps you curious.\n\nBalancing Your Energy\nIt’s important to balance your excitement for new experiences with patience and reflection. Taking time to think before you act helps you make better decisions. This balance helps you turn your dreams into real goals that you can achieve.\n\nEnjoying the Journey\nThe secret to using your imagination is to enjoy the process without worrying about the outcome. By focusing on the journey, you can stay open to new ideas and avoid stress from unmet expectations. This way, you can fully embrace your imaginative ideas and bring them to life.\n\nUsing Your Strength in Life\nYour imagination can be very useful in life and business. In jobs that require creative problem-solving, your ability to imagine different outcomes can lead to innovative ideas. In marketing and product development, your creativity can help make exciting stories and unique products. As a leader, your imagination can inspire your team and motivate them to explore new possibilities.";
+
+var guclu_yanlarin2_35_36_eng_1 = "The Strength of The Experiencer (36-35)";
+var guclu_yanlarin2_35_36_eng_2 = "Trying New Things\nYou are open to trying anything to move forward in life. You love to learn from every new experience even if it doesn’t go as planned. This helps you grow and come up with new ideas. You inspire others to live in the moment and take advantage of all the opportunities they get.\n\nEmbracing New Experiences\nYou enjoy exploring new experiences and learning from them. In life and business, this helps you come up with fresh ideas and ways to improve things. Even if things don’t go perfectly, you keep going, and this helps you succeed in fast-changing environments.\n\nInspiring Others\nBy having a lot of different experiences, you become someone others look up to. Your willingness to try new things and your ability to keep going when things get tough can motivate others to do the same. You show others that by exploring new opportunities, they can achieve great things.\n\nUsing Your Strength in Life\nYour strength of being an Experiencer is valuable in roles that require trying new things and staying adaptable, like product development, research, or leadership. In leadership, your excitement for new experiences can create a culture where your team is always learning and growing. By being open to trying new things, you help drive progress and inspire your team to explore new possibilities.";
+
+var guclu_yanlarin2_56_11_eng_1 = "The Strength of Curiosity (11-56)";
+var guclu_yanlarin2_56_11_eng_2 = "Exploring New Ideas\nYou always seek out new ideas and love discovering different ways of seeing the world. You don’t have a set goal; you just enjoy saying, \"Look at what I found!\" This love for discovery keeps you mentally active and helps you come up with creative ideas.\n\nUnleashing Creativity\nWhen you connect ideas with stories based on your thoughts about life, your creativity becomes magical. You can share these ideas in a way that makes people excited and inspired. This ability to make others see things differently is a big strength.\n\nTelling Stories\nYou have a talent for turning complex ideas into stories that are fun to hear and easy to understand. This helps you explain difficult concepts to people and keep them interested. You’re great at making things engaging and easy to follow.\n\nBelieving in Your Vision\nWhen you believe in something, it becomes real for you. You care more about how your stories reflect your experiences than whether they are 100% factual. This makes you a great storyteller, able to connect deeply with people and share a new perspective on life.\n\nUsing Your Strength in Life\nYour curiosity is valuable in life and business. You can explore new ideas that lead to breakthrough products or creative solutions. In marketing or storytelling roles, you can turn ideas into powerful stories that attract people. As a leader, your curiosity can encourage your team to keep learning and growing.";
+
+var guclu_yanlarin2_10_34_eng_1 = "The Strength of Conviction (34-10)";
+var guclu_yanlarin2_10_34_eng_2 = "Believing in Yourself\nYou have the power to stand firm in what you believe, even if others don’t agree with you. You act independently and confidently, staying true to yourself no matter what. When you stick to your beliefs, you inspire others to follow their own truths as well.\n\nBeing Authentic\nYou can adapt to different situations while still being yourself. When you trust and accept yourself, you fully embrace what makes you unique. This helps you live confidently as yourself and encourages others to do the same.\n\nPersonal Power\nYour personal power comes from your ability to express your uniqueness. This strength is yours alone—it cannot be copied by others, even if they admire it. This inner power supports your independence and helps you act on your beliefs with confidence.\n\nUsing Your Strength in Life\nIn life and business, your strength of conviction is a valuable trait. Your ability to stand firm in what you believe, even when faced with challenges, inspires trust and confidence in others. In leadership roles, your strong convictions guide your team through difficult times and push the organization forward. You help create a culture where people feel empowered to act with integrity and stay true to their values.";
+
+//Bunlar gates 12-25
+var guclu_yanlarin2_15_eng_1 = "Trust Anchor (15)";
+var guclu_yanlarin2_15_eng_2 = "Building Trust and Stability\nYou can naturally bring people together and create a reliable, connected team. Your presence makes the group feel safe and stable. By helping different people feel like they belong, you create a space where everyone feels supported and comfortable.\n\nFostering Connection\nYour reliability makes everyone in the group feel like they belong. People feel closer to each other, which helps build loyalty and teamwork. By being consistent, you help grow trust and respect in the team.\n\nCreating a Trustworthy Environment\nWhen people can rely on each other, they feel safe and want to work together. Your ability to build trust is really important. It makes everyone work better and feel happier.\n\nUsing Your Skill in Life\nYour skill of reliability and anchoring trust is important in roles where team management or even helping with projects is needed. By being consistent and trustworthy, you help teams work smoothly and stay stable. With your ability to build connection and trust, you can help groups grow, succeed, and work well together.";
+
+var guclu_yanlarin2_5_eng_1 = "Atmosphere Setter (5)";
+var guclu_yanlarin2_5_eng_2 = "Creating the Groups Atmosphere\nYou have the talent to set up the environment of a group. Whether it's how people dress or how they behave, you help shape the way things are done within the group. Your influence helps create a positive vibe where everyone feels comfortable and knows what’s expected.\n\nSetting Rules and Norms\nYou naturally help create the guidelines for how the group operates, from the way people talk to each other to the times when everyone starts or ends work. This skill helps keep things organized and consistent.\n\nHelping the Group Succeed\nBy encouraging good habits, you help the group work better together. Your role in creating these routines and standards ensures that the group runs smoothly and everyone knows how to behave for success.\n\nUsing Your Skill in Life\nIn school or in work, your ability to shape a group's culture and set the atmosphere helps create a positive and productive environment. Whether it's organizing activities or helping set rules, your skills make you a key part of any team, helping others stay focused and succeed.";
+
+var guclu_yanlarin2_46_eng_1 = "Group Harmonizer (46)";
+var guclu_yanlarin2_46_eng_2 = "Keeping the Group Together\nYou’re great at keeping a group organized and working well together. Your presence helps everyone focus on the task and feel comfortable, creating a team that works in harmony.\n\nHelping the Group Stay Focused\nYou help the group stay focused on what’s important. When everyone is focused, the group can get more done and reach its goals faster.\n\nCreating Balance\nYou make sure the group works well with each other and with outside people like clients or suppliers. This creates a positive environment where everyone feels good about working together.\n\nAdapting to Change\nYou help the group stay flexible and handle changes easily. Whether it’s a new challenge or a change in the project, your coordination keeps the group moving forward without getting stuck.\n\nUsing Your Skill in Life\nThis skill helps you in school projects, organizing events, or leading a team. You can help people work together better and make sure the group stays focused and adaptable to any changes.";
+
+var guclu_yanlarin2_29_eng_1 = "Purpose Connector (29)";
+var guclu_yanlarin2_29_eng_2 = "Bringing Everyone Together\nYou have a talent for helping people unite around a common goal. Your presence makes everyone feel connected, working towards the same purpose with dedication.\n\nBuilding Loyalty \nYou make people feel part of the team and help them stay loyal to each other. By encouraging everyone to commit to their roles, you create a sense of trust and teamwork.\n\nWorking for the Team \nWith you around, people are willing to work hard for the team. You help them understand that working together makes the team stronger, which helps everyone succeed.\n\nUsing Your Skill In Life\nYour skill is great for roles where leading teams or managing projects is important. You bring people together to stay focused on a goal, helping the team stay motivated and productive.";
+
+var guclu_yanlarin2_14_eng_1 = "Resource Master (14)";
+var guclu_yanlarin2_14_eng_2 = "Helping Your Team Get What They Need\nYou are great at helping your team gather the things they need to succeed, whether it’s money, people, or supplies. With you around, your team feels confident that they can meet their goals and do what they say they will.\n\nMaking Things Happen\nBy helping your group get the resources they need, you make sure things run smoothly and everyone has what they need to do their best. You give your team the boost they need to get the job done.\n\nTrusting Your Power\nWhen you’re part of the team, people trust that they have what it takes to be successful. Your presence makes people feel ready to face challenges, knowing they’ll have the right tools and resources to win.\n\nUsing Your Skill in Life\nIn life, your skill in resource management makes you a valuable team player. Whether it’s in a school project, a community event or later in your career, you’ll always be the person people turn to for getting things done. By trusting your ability to provide the right resources, you help others succeed, and you’ll feel proud knowing you made a difference.";
+ 
+var guclu_yanlarin2_2_eng_1 = "Direction Setter (2)";
+var guclu_yanlarin2_2_eng_2 = "Setting the Right Direction\nYou can help your team find the right path forward. Your ideas guide the team on how to use time and resources effectively. You help everyone plan for the future and manage their tasks each day, making sure the group stays focused and works together smoothly.\n\nHelping the Team Grow through a vision\nWith your vision, you help the team see where they need to invest their efforts and resources. You make sure they use their time and money wisely so the business can grow and succeed.\n\nManaging Resources\nYou show the team how to use their resources wisely. You help them understand what they have and how to make the best use of it, ensuring nothing is wasted.\n\nUsing Your Skill in Life\nYour skill of setting direction helps teams work toward their long-term goals while staying efficient in the short term. Whether you’re involved in leadership or planning, your ability to provide direction and manage resources keeps everything on track and helps the team succeed.";
+
+var guclu_yanlarin2_1_eng_1 = "Sales Catalyst (1)";
+var guclu_yanlarin2_1_eng_2 = "Turning Ideas into Actions\nYou have a special ability to take an idea and turn it into real actions. This means that you can help make sure ideas lead to real things, like products or services that people can actually use. By using creative strategies, you make sure that everyone’s efforts result in something that can be seen and used.\n\nMaking Sure Things Get Done\nYou know how to take charge of the final steps to get products or services to customers. Whether it's through sales or marketing, you make sure everything gets out and reaches the right people.\n\nMaking Plans Work\nYour strength is making sure that plans become real results. You help bring together the right strategies and efforts to create success and help the business grow. This skill is important for making sure projects work out well.\n\nUsing Your Skill in Life\nIn life, you can persuade people to buy into your ideas. In business, your sales skill is great for marketing and sales. You know how to turn plans into real things, which makes everyone’s work more successful. By using this skill, you help the team achieve real results.";
+ 
+var guclu_yanlarin2_8_eng_1 = "Brand Ambassador (8)";
+var guclu_yanlarin2_8_eng_2 = "Gaining Attention\nYou’re great at helping the team get noticed. With your creativity, you make sure that people see what your group is doing and that it leaves a positive impression. Your ability to attract attention helps the team stand out in a crowd.\n\nPromoting the Group \nYour skill lies in sharing the group’s work in a way that others appreciate. You know how to showcase what your team is doing, whether it’s a project or an event, and make sure people see its value. You help the group gain respect and admiration.\n\nInspiring Others \nYou’re not afraid to step up and show what the group stands for. By demonstrating your team’s strengths and vision, you encourage others to follow. You inspire your teammates to put their best foot forward and contribute to group goals.\n\nUsing Your Skill in Life\nYour ability to represent your team and gain attention can open doors for you in many ways. Whether it’s promoting an event, building a personal brand, or helping a cause, you’re great at showing others what’s important and why they should care. By trusting your skill in gaining positive attention, you help yourself and your team succeed in whatever goals you set.";
+
+var guclu_yanlarin2_7_eng_1 = "Strategic Planner (7)"
+var guclu_yanlarin2_7_eng_2 = "Thinking Ahead\nYou have the skill to think ahead and plan what needs to happen for success. Your ability to make sure that everyone knows their role and what to do helps the team move forward smoothly. By planning well, you help the group grow and achieve its goals.\n\nUnderstanding What’s Important\nYou can see what the outside world, market or customers want and your planning keeps the team on track. By knowing what’s needed, you make sure the group is ready to adjust and succeed in a fast-changing world.\n\nOrganizing Resources\nYour ability to organize people, tools, and time ensures that everything runs smoothly. By doing this, you help the group stay productive and avoid wasting time or effort.\n\nUsing Your Skill in Life\nYour strategic planning skill is valuable in jobs that need careful organization, like managing a project or operations. Your clear planning helps the group meet deadlines and get results. This skill is key to keeping the team moving toward success.";
+
+var guclu_yanlarin2_31_eng_1 = "Implementation Maestro (31)";
+var guclu_yanlarin2_31_eng_2 = "Turning Plans into Action\nYou’re great at taking a plan and making it happen. You help everyone in the group do their part and ensure things run smoothly. Your talent for staying organized helps the team reach their goals.\n\nGiving Everyone a Role\nYou’re good at assigning the right tasks to the right people. This ensures that the plan works well and everyone is involved in making it a success.\n\nManaging the Team\nYou help the team stay on track by organizing how things work. From making sure everyone is happy to creating helpful guidelines, you make sure everything goes according to plan.\n\nUsing Your Skill in Life\nYour skill is valuable when managing projects or working in teams. Your ability to organize people and tasks helps the team succeed and keeps things running smoothly. ";
+
+var guclu_yanlarin2_13_eng_1 = "Numbers Strategist (13)";
+var guclu_yanlarin2_13_eng_2 = "Tracking Business Success\nYou can keep track of whether a project is making or losing money. Your skill helps the project stay on track and grow by understanding the important numbers.\n\nUnderstanding Profit and Loss\nYou may help a business or group know if it’s doing well financially. By looking at the money coming in and going out, you provide key information to help the business succeed.\n\nKeeping Accurate Records\nYou are good at keeping records of the projects steps and progress. These records help the business make smart decisions and show customers that they are trustworthy.\n\nBuilding Trust Through Records\nBy keeping accurate records, you help build trust with customers. Businesses with clear records are more trusted by people, and you help make sure that trust is strong.\n\nUsing Your Skill in Life\nYour skill can be used in areas like keeping track of numbers, finance, bookkeeping, and management. Your ability to track profits and keep records helps the business stay successful and grow.";
+
+var guclu_yanlarin2_33_eng_1 = "Overseer (33)";
+var guclu_yanlarin2_33_eng_2 = "Keeping Things Running Smoothly\nYou are great at making sure everything goes as planned. You help your team stay on track by checking that things get done the right way and on time. Your careful attention makes sure tasks are finished and that everyone knows what they need to do.\n\nLearning from Mistakes\nYou learn from past experiences and help your team avoid making the same mistakes. By reflecting on what has worked before, you improve how things are done in the future.\n\nMaking Sure Everyone Does Their Part\nYour ability to keep an eye on things helps your team stay responsible for their work. You make sure that everyone is doing what they need to do and that any problems are solved quickly.\n\nUsing Your Skill in Life\nYour skill to keep things in order is valuable in roles like team leader or manager. You help create rules, solve problems, and build trust in your team. By using this skill, you ensure the team works efficiently and reaches its goals.";
+
 //25+
 var guclu_yanlarin_57_10_eng_1 = "The Strength of “Perfected Form” (57-10)";
 var guclu_yanlarin_57_10_eng_2 = "You have the ability to “think on your feet” which is very valuable in dynamic business environments. You are great at creating and designing environments that ensure survival and provide protection from future uncertainties.\n\nPerfecting the Form You enjoy perfecting the form of things: yourself, art, music, writing, interior design, food, gardening, architecture – anything that comes into your realm, including your own and others’ behavior. This attention to detail and drive for perfection can lead to high-quality outputs in any professional field.\n\nLiving True to Yourself By simply living true to yourself, you create something healthy and beautiful with your life. This authenticity can inspire others and foster a positive and productive work environment. Your role is to create what you love and love what you create – including yourself and your life.\n\nUtilizing Your Strength in Business In roles that require creativity and design, your attention to detail and intuitive approach can lead to innovative and aesthetically pleasing outcomes. In leadership, your ability to embrace and perfect every aspect of your work can inspire your team to strive for excellence.\n\nYour strength of perfected form is a powerful asset in the business world, providing a unique blend of intuition, creativity, and a drive for perfection. By harnessing this strength, you can enhance productivity, foster a positive work environment, and drive your organization towards greater success. Embracing and developing this strength can lead to a fulfilling and impactful career.";
@@ -16464,6 +16610,297 @@ var decision_strategy_eng_ozet_11_2 = "Your decision-making process requires a d
           return guclu_yanlarin_33_eng_1;
         } else if (type == "33_2") {
           return guclu_yanlarin_33_eng_2;
+        }
+      }
+    } else if (lang == "En" && age <= 25) {
+      if (guclu_yanlarinData.name == "57-10") {
+        if (type == "57-10_1") {
+          return guclu_yanlarin2_57_10_eng_1;
+        } else if (type == "57-10_2") {
+          return guclu_yanlarin2_57_10_eng_2;
+        }
+      } else if (guclu_yanlarinData.name == "20-10") {
+        if (type == "20-10_1") {
+          return guclu_yanlarin2_20_10_eng_1;
+        } else if (type == "20-10_2") {
+          return guclu_yanlarin2_20_10_eng_2;
+        }
+      } else if (guclu_yanlarinData.name == "59-6") {
+        if (type == "59-6_1") {
+          return guclu_yanlarin2_59_6_eng_1;
+        } else if (type == "59-6_2") {
+          return guclu_yanlarin2_59_6_eng_2;
+        } 
+      } else if (guclu_yanlarinData.name == "63-4") {
+        if (type == "63-4_1") {
+          return guclu_yanlarin2_63_4_eng_1;
+        } else if (type == "63-4_2") {
+          return guclu_yanlarin2_63_4_eng_2;
+        }
+      } else if (guclu_yanlarinData.name == "21-45") {
+        if (type == "21-45_1") {
+          return guclu_yanlarin2_45_21_eng_1;
+        } else if (type == "21-45_2") {
+          return guclu_yanlarin2_45_21_eng_2;
+        }
+      } else if (guclu_yanlarinData.name == "3-60") {
+        if (type == "3-60_1") {
+          return guclu_yanlarin2_60_3_eng_1;
+        } else if (type == "3-60_2") {
+          return guclu_yanlarin2_60_3_eng_2;
+        }
+      } else if (guclu_yanlarinData.name == "15-5") {
+        if (type == "15-5_1") {
+          return guclu_yanlarin2_5_15_eng_1;
+        } else if (type == "15-5_2") {
+          return guclu_yanlarin2_5_15_eng_2;
+        }
+      } else if (guclu_yanlarinData.name == "64-47") {
+        if (type == "64-47_1") {
+          return guclu_yanlarin2_47_64_eng_1;
+        } else if (type == "64-47_2") {
+          return guclu_yanlarin2_47_64_eng_2;
+        }
+      } else if (guclu_yanlarinData.name == "27-50") {
+        if (type == "27-50_1") {
+          return guclu_yanlarin2_27_50_eng_1;
+        } else if (type == "27-50_2") {
+          return guclu_yanlarin2_27_50_eng_2;
+        } else if (type == "27-50_3") {
+        }
+      } else if (guclu_yanlarinData.name == "26-44") {
+        if (type == "26-44_1") {
+          return guclu_yanlarin2_26_44_eng_1;
+        } else if (type == "26-44_2") {
+          return guclu_yanlarin2_26_44_eng_2;
+        }
+      } else if (guclu_yanlarinData.name == "32-54") {
+        if (type == "32-54_1") {
+          return guclu_yanlarin2_54_32_eng_1;
+        } else if (type == "32-54_2") {
+          return guclu_yanlarin2_54_32_eng_2;
+        }
+      } else if (guclu_yanlarinData.name == "19-49") {
+        if (type == "19-49_1") {
+          return guclu_yanlarin2_49_19_eng_1;
+        } else if (type == "19-49_2") {
+          return guclu_yanlarin2_49_19_eng_2;
+        }
+      } else if (guclu_yanlarinData.name == "37-40") {
+        if (type == "37-40_1") {
+          return guclu_yanlarin2_37_40_eng_1;
+        } else if (type == "37-40_2") {
+          return guclu_yanlarin2_37_40_eng_2;
+        }
+      } else if (guclu_yanlarinData.name == "57-34") {
+        if (type == "57-34_1") {
+          return guclu_yanlarin2_34_57_eng_1;
+        } else if (type == "57-34_2") {
+          return guclu_yanlarin2_34_57_eng_2;
+        }
+      } else if (guclu_yanlarinData.name == "20-34") {
+        if (type == "20-34_1") {
+          return guclu_yanlarin2_20_34_eng_1;
+        } else if (type == "20-34_2") {
+          return guclu_yanlarin2_20_34_eng_2;
+        }
+      } else if (guclu_yanlarinData.name == "25-51") {
+        if (type == "25-51_1") {
+          return guclu_yanlarin2_51_25_eng_1;
+        } else if (type == "25-51_2") {
+          return guclu_yanlarin2_51_25_eng_2;
+        }
+      } else if (guclu_yanlarinData.name == "1-8") {
+        if (type == "1-8_1") {
+          return guclu_yanlarin2_8_1_eng_1;
+        } else if (type == "1-8_2") {
+          return guclu_yanlarin2_8_1_eng_2;
+        }
+      } else if (guclu_yanlarinData.name == "28-38") {
+        if (type == "28-38_1") {
+          return guclu_yanlarin2_28_38_eng_1;
+        } else if (type == "28-38_2") {
+          return guclu_yanlarin2_28_38_eng_2;
+        }
+      } else if (guclu_yanlarinData.name == "7-31") {
+        if (type == "7-31_1") {
+          return guclu_yanlarin2_7_31_eng_1;
+        } else if (type == "7-31_2") {
+          return guclu_yanlarin2_7_31_eng_2;
+        }
+      } else if (guclu_yanlarinData.name == "57-20") {
+        if (type == "57-20_1") {
+          return guclu_yanlarin2_57_20_eng_1;
+        } else if (type == "57-20_2") {
+          return guclu_yanlarin2_57_20_eng_2;
+        }
+      } else if (guclu_yanlarinData.name == "39-55") {
+        if (type == "39-55_1") {
+          return guclu_yanlarin2_39_55_eng_1;
+        } else if (type == "39-55_2") {
+          return guclu_yanlarin2_39_55_eng_2;
+        }
+      } else if (guclu_yanlarinData.name == "2-14") {
+        if (type == "2-14_1") {
+          return guclu_yanlarin2_2_14_eng_1;
+        } else if (type == "2-14_2") {
+          return guclu_yanlarin2_2_14_eng_2;
+        }
+      } else if (guclu_yanlarinData.name == "12-22") {
+        if (type == "12-22_1") {
+          return guclu_yanlarin2_12_22_eng_1;
+        } else if (type == "12-22_2") {
+          return guclu_yanlarin2_12_22_eng_2;
+        }
+      } else if (guclu_yanlarinData.name == "61-24") {
+        if (type == "61-24_1") {
+          return guclu_yanlarin2_61_24_eng_1;
+        } else if (type == "61-24_2") {
+          return guclu_yanlarin2_61_24_eng_2;
+        }
+      } else if (guclu_yanlarinData.name == "43-23") {
+        if (type == "43-23_1") {
+          return guclu_yanlarin2_43_23_eng_1;
+        } else if (type == "43-23_2") {
+          return guclu_yanlarin2_43_23_eng_2;
+        }
+      } else if (guclu_yanlarinData.name == "9-52") {
+        if (type == "9-52_1") {
+          return guclu_yanlarin2_9_52_eng_1;
+        } else if (type == "9-52_2") {
+          return guclu_yanlarin2_9_52_eng_2;
+        }
+      } else if (guclu_yanlarinData.name == "18-58") {
+        if (type == "18-58_1") {
+          return guclu_yanlarin2_18_58_eng_1;
+        } else if (type == "18-58_2") {
+          return guclu_yanlarin2_18_58_eng_2;
+        }
+      } else if (guclu_yanlarinData.name == "16-48") {
+        if (type == "16-48_1") {
+          return guclu_yanlarin2_48_16_eng_1;
+        } else if (type == "16-48_2") {
+          return guclu_yanlarin2_48_16_eng_2;
+        }
+      } else if (guclu_yanlarinData.name == "17-62") {
+        if (type == "17-62_1") {
+          return guclu_yanlarin2_17_62_eng_1;
+        } else if (type == "17-62_2") {
+          return guclu_yanlarin2_17_62_eng_2;
+        }
+      } else if (guclu_yanlarinData.name == "42-53") {
+        if (type == "42-53_1") {
+          return guclu_yanlarin2_53_42_eng_1;
+        } else if (type == "42-53_2") {
+          return guclu_yanlarin2_53_42_eng_2;
+        }
+      } else if (guclu_yanlarinData.name == "46-29") {
+        if (type == "46-29_1") {
+          return guclu_yanlarin2_46_29_eng_1;
+        } else if (type == "46-29_2") {
+          return guclu_yanlarin2_46_29_eng_2;
+        }
+      } else if (guclu_yanlarinData.name == "13-33") {
+        if (type == "13-33_1") {
+          return guclu_yanlarin2_33_13_eng_1;
+        } else if (type == "13-33_2") {
+          return guclu_yanlarin2_33_13_eng_2;
+        }
+      } else if (guclu_yanlarinData.name == "41-30") {
+        if (type == "41-30_1") {
+          return guclu_yanlarin2_30_41_eng_1;
+        } else if (type == "41-30_2") {
+          return guclu_yanlarin2_30_41_eng_2;
+        }
+      } else if (guclu_yanlarinData.name == "35-36") {
+        if (type == "35-36_1") {
+          return guclu_yanlarin2_35_36_eng_1;
+        } else if (type == "35-36_2") {
+          return guclu_yanlarin2_35_36_eng_2;
+        }
+      } else if (guclu_yanlarinData.name == "11-56") {
+        if (type == "11-56_1") {
+          return guclu_yanlarin2_56_11_eng_1;
+        } else if (type == "11-56_2") {
+          return guclu_yanlarin2_56_11_eng_2;
+        }
+      } else if (guclu_yanlarinData.name == "34-10") {
+        if (type == "34-10_1") {
+          return guclu_yanlarin2_10_34_eng_1;
+        } else if (type == "34-10_2") {
+          return guclu_yanlarin2_10_34_eng_2;
+        }
+      } else if (guclu_yanlarinData.name == "15") {
+        if (type == "15_1") {
+          return guclu_yanlarin2_15_eng_1;
+        } else if (type == "15_2") {
+          return guclu_yanlarin2_15_eng_2;
+        }
+      } else if (guclu_yanlarinData.name == "5") {
+        if (type == "5_1") {
+          return guclu_yanlarin2_5_eng_1;
+        } else if (type == "5_2") {
+          return guclu_yanlarin2_5_eng_2;
+        }
+      } else if (guclu_yanlarinData.name == "46") {
+        if (type == "46_1") {
+          return guclu_yanlarin2_46_eng_1;
+        } else if (type == "46_2") {
+          return guclu_yanlarin2_46_eng_2;
+        }
+      } else if (guclu_yanlarinData.name == "29") {
+        if (type == "29_1") {
+          return guclu_yanlarin2_29_eng_1;
+        } else if (type == "29_2") {
+          return guclu_yanlarin2_29_eng_2;
+        }
+      } else if (guclu_yanlarinData.name == "14") {
+        if (type == "14_1") {
+          return guclu_yanlarin2_14_eng_1;
+        } else if (type == "14_2") {
+          return guclu_yanlarin2_14_eng_2;
+        }
+      } else if (guclu_yanlarinData.name == "2") {
+        if (type == "2_1") {
+          return guclu_yanlarin2_2_eng_1;
+        } else if (type == "2_2") {
+          return guclu_yanlarin2_2_eng_2;
+        }
+      } else if (guclu_yanlarinData.name == "1") {
+        if (type == "1_1") {
+          return guclu_yanlarin2_1_eng_1;
+        } else if (type == "1_2") {
+          return guclu_yanlarin2_1_eng_2;
+        }
+      } else if (guclu_yanlarinData.name == "8") {
+        if (type == "8_1") {
+          return guclu_yanlarin2_8_eng_1;
+        } else if (type == "8_2") {
+          return guclu_yanlarin2_8_eng_2;
+        }
+      } else if (guclu_yanlarinData.name == "7") {
+        if (type == "7_1") {
+          return guclu_yanlarin2_7_eng_1;
+        } else if (type == "7_2") {
+          return guclu_yanlarin2_7_eng_2;
+        }
+      } else if (guclu_yanlarinData.name == "31") {
+        if (type == "31_1") {
+          return guclu_yanlarin2_31_eng_1;
+        } else if (type == "31_2") {
+          return guclu_yanlarin2_31_eng_2;
+        }
+      } else if (guclu_yanlarinData.name == "13") {
+        if (type == "13_1") {
+          return guclu_yanlarin2_13_eng_1;
+        } else if (type == "13_2") {
+          return guclu_yanlarin2_13_eng_2;
+        }
+      } else if (guclu_yanlarinData.name == "33") {
+        if (type == "33_1") {
+          return guclu_yanlarin2_33_eng_1;
+        } else if (type == "33_2") {
+          return guclu_yanlarin2_33_eng_2;
         }
       }
     } 
