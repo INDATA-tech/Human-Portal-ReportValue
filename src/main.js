@@ -4864,7 +4864,7 @@ var krktr_ozl_eng_ozet_10_1 = "You Are Open to Experience and Emotionally Balanc
 var krktr_ozl_eng_ozet_10_2 = "You have a flexible and emotionally balanced personality that is open to innovations. As you adapt to change, you act while maintaining your peace of mind.";
 
 
-//Yapay Zeka Çağı Yetkinliklerin
+//Yapay Zeka Çağı Yetkinliklerin //TODO: algoritması yenilenmiş
 //12-25
 var ai_12_s3_1_1 = "Dijital Okuryazarlık";
 var ai_12_s3_1_2 = "• Temel Bilgisayar ve Teknoloji Becerileri: Bilgisayar kullanımını, yazılım ve donanım bilgilerini kapsar. Gençler teknolojiyi etkili ve verimli bir şekilde kullanabilmelidir.\n\n• Yapay Zeka Temelleri: AI'nın ne olduğu, nasıl çalıştığı ve hayatımızı nasıl şekillendirdiği hakkında temel bilgilere sahip olmak giderek önem kazanıyor.";
@@ -5200,7 +5200,7 @@ var lifestyle_12_25_manifestor_evaluation = "• Ne tür fikirler veya projeler 
 var lifestyle_12_25_reflektor_question_name = "Yansıtıcı";
 var lifestyle_12_25_reflektor_evaluation = "• Okul ortamım ve çevremdeki insanlar hakkında ne hissediyorum? Kendimi iyi hissetmeme yardımcı oluyorlar mı?\n\n• Benim için neyin doğru olduğundan daha emin hissetmek için büyük kararlar vermeden önce kendime nasıl daha fazla zaman verebilirim?\n\n• Kendimi en çok nerede ve ne zaman kendim gibi hissediyorum ve bu durumlardan daha fazlasını nasıl yaratabilirim?\n\n• Başkalarının duygularını ve enerjilerini nasıl idare ederim ve kendi duygularımı korumak için ne yapabilirim?\n\n• Çevremdeki insanlara ve yerlere karşı hassasiyetimi bunalmış hissetmeden nasıl koruyabilirim?";
 
-//25+
+//Yaşamda İlerleme Tarzın 25+
 var lifestyle_25_plus_manifesting_generator_image_w = "https://appwrite.anahtarsensin.com/v1/storage/buckets/6708de8e00054cee7bd1/files/generator-w/view?project=665474aa001cd7ecbebd&project=665474aa001cd7ecbebd&mode=admin";
 var lifestyle_25_plus_manifesting_generator_image_m = "https://appwrite.anahtarsensin.com/v1/storage/buckets/6708de8e00054cee7bd1/files/generator-m/view?project=665474aa001cd7ecbebd&project=665474aa001cd7ecbebd&mode=admin";
 var lifestyle_25_plus_manifesting_generator_name = "Enerjik";
@@ -5248,7 +5248,7 @@ var lifestyle_25_plus_reflektor_motto = "DÜNYAYA BENZERSİZ BİR BAKIŞ AÇISI 
 var lifestyle_reflektor_ozet_1 = "Yaşam Tarzın: Yansıtıcı";
 var lifestyle_reflektor_ozet_2 = "Sen çevrenin enerjisini derinlemesine hissedip yansıtan, nadir bir bakış açısına sahipsin. Doğru ortamda bulunduğunda, topluluklara tarafsız ve bilgece içgörüler sunabilirsin. Acele etmeden, kendi ritmine uygun kararlar alman senin için en sağlıklı ilerleme yoludur.";
 
-//gücünü kullan 25 plus
+//gücünü kullan 25+
 var lifestyle_25_plus_manifesting_generator_question_name = "Başlatıcı Enerjik";
 var lifestyle_25_plus_manifesting_generator_evaluation = "• Harekete geçmeden önce hem başlatma arzumu hem de çevremdeki dünyaya yanıt verme ihtiyacımı nasıl onurlandırabilirim?\n\n• Hayal kırıklığı veya sabırsızlık anlarıyla nasıl başa çıkabilirim ve şu anki yaklaşımım hakkında bu duygulardan ne öğrenebilirim?\n\n• Yön değiştirme konusunda suçluluk hissetmeden hayatımda esnekliği ve deneyselliği hangi yollarla kucaklayabilirim?\n\n• Hayatımın hangi alanları çoklu görev yeteneğimden yararlanır ve gereksiz dikkat dağıtıcı şeylerden kaçınmak için odağımı nasıl düzeltebilirim?\n\n• Yeni bir şeye başlama dürtüsünü hissettiğimde, bir sonraki adımın doğru olduğundan emin olmak için bağırsaklarımı (Sakral tepki) nasıl kontrol edebilirim? ";
 
@@ -5265,7 +5265,7 @@ var lifestyle_25_plus_reflektor_question_name = "Yansıtıcı";
 var lifestyle_25_plus_reflektor_evaluation = "• Şu anki ortamımda nasıl hissediyorum ve etrafımdaki insanlar ve alanlar hakkında ne yansıtıyor?\n\n• Ay döngüsünün doğal ritmine güvenerek önemli kararlar almak için kendime nasıl daha fazla zaman verebilirim?\n\n• Hangi durumlarda gerçek benliğimle en uyumlu hissediyorum ve hayatımda bu deneyimlerden daha fazlasını nasıl yaratabilirim?\n\n• Başkalarının duygularını ve enerjilerini nasıl idare ederim ve kendi iyiliğimi korumak için hangi sınırları belirlemem gerekir?\n\n• Eşsiz duyarlılığımı ve çevremin gerçeğini bunalmış hissetmeden yansıtma yeteneğimi onurlandırmak için ne yapabilirim? ";
 
 //Yaşamda İlerleme Tarzın İngilizce
-//12 -25
+//12-25
 var lifestyle_12_25_eng_manifesting_generator_name = "Energetic";
 var lifestyle_12_25_eng_manifesting_generator_1 = "In everything you do, both at school and in your activities, you have a unique special energy. You’re great at getting things done quickly, building, and improving things. When you channel your energy into what you love, you can enjoy a great night's sleep and wake up full of energy to start again the next day.\n\nThe key to feeling good in life isn’t just about working hard or putting in effort—it's about using your energy smartly and effectively. What you do is crucial to your happiness and well-being. Inside you, there’s a strong source of energy that helps you take action and create. The more you do what you love, the more your energy multiplies.";
 var lifestyle_12_25_eng_manifesting_generator_2 = "The more you trust your instincts and wait for the right moment, the more satisfying and enjoyable life becomes. You can think of yourself like a magnet, noticing how your energy naturally attracts opportunities to you.";
@@ -5306,7 +5306,7 @@ var lifestyle_12_25_eng_reflektor_motto = "You’re here to bring a unique persp
 var lifestyle_reflektor_eng_ozet_1 = "Your Lifestyle: Reflective";
 var lifestyle_reflektor_eng_ozet_2 = "You have a rare perspective that deeply feels and reflects the energy of the environment. When you're in the right environment, you can provide unbiased and wise insights to communities. Making decisions in accordance with your own rhythm without rushing is the healthiest way for you to progress.";
 
-//gücünü kullan 12-25
+//gücünü kullan 12-25 ingilizce
 var lifestyle_12_25_eng_manifesting_generator_question_name = "Energetic";
 var lifestyle_12_25_eng_manifesting_generator_evaluation = "• How can I balance my urge to start things with making sure it’s the right time to act?\n\n• What tasks or activities at school or home allow me to do multiple things at once, and how can I stay focused?\n\n• What do I do when I feel frustrated or impatient, and what can that feeling teach me about how I’m approaching things?\n\n• When I want to start something new, how can I check in with myself to make sure it’s a good choice?\n\n• How can I feel okay with changing my mind or switching directions without feeling bad about it?";
 
@@ -5322,8 +5322,7 @@ var lifestyle_12_25_eng_manifestor_evaluation = "• What types of ideas or proj
 var lifestyle_12_25_eng_reflektor_question_name = "Evaluator";
 var lifestyle_12_25_eng_reflektor_evaluation = "• How do I feel about my environment and the people around me? Do they help me feel good?\n\n• How can I give myself more time before making big decisions so I feel more certain about what’s right for me?\n\n• Where and when do I feel most like myself, and how can I create more of those situations?\n\n• How do I handle the feelings and energy of others, and what can I do to protect my own emotions?\n\n• How can I take care of my sensitivity to the people and places around me without feeling overwhelmed?";
 
-
-//25 plus
+//Yaşamda İlerleme Tarzın İngilizce 25+
 var lifestyle_25_plus_eng_manifesting_generator_name = "Energetic";
 var lifestyle_25_plus_eng_manifesting_generator_1 = "In the professional world and your career, you possess a unique and distinctive energy. You're excellent at managing tasks, building things, and growing them. When you use your energy for the work you love, you can rest your head on the pillow with a sense of satisfaction.\n\nThe key to finding satisfaction in life and work isn't just about working hard; it’s about how effectively and efficiently you use your energy. The work you do is crucial for your well-being and prosperity. You have a powerful source of energy that helps you take action and create.\n\nBe mindful that you don’t always have to start or initiate things. Your strength lies in responding to life based on your instincts and waiting for the right cues.";
 var lifestyle_25_plus_eng_manifesting_generator_2 = "Trusting your instincts and waiting for the right moment will make your life more fulfilling and enjoyable. Think of yourself as a magnet; you may notice that your energy naturally attracts opportunities to you.";
@@ -5354,7 +5353,7 @@ var lifestyle_25_plus_eng_reflektor_2 = "Offering an objective perspective and r
 var lifestyle_25_plus_eng_reflektor_3 = "When making decisions, it's important not to rush. Evaluate significant issues and discuss them with trusted individuals. Be aware of potential traps in interactions, such as being in the wrong environment or trying to fit in with everyone. Avoid excessive dependence on others or feeling invisible; do not compromise your true self. Resist the urge to initiate, push, or force things into being, as this may lead to resistance and frustration in others. Avoid being influenced by others' fears, emotions, stress, and anxieties. Always maintain a healthy distance from those around you and avoid rushing or feeling pressured when making decisions. It's crucial for you to be in the right environment to make the best choices and feel good. You have the ability to reflect the energy of your surroundings, so always prioritize your environment in both your personal and professional life.";
 var lifestyle_25_plus_eng_reflektor_motto = "YOU ARE HERE TO BRING A UNIQUE PERSPECTIVE TO THE WORLD. MAKE SURE THE ENVIRONMENT YOU ARE IN IS RIGHT FOR YOU!";
 
-//gücünü kullan 25 plus ingilizce
+//gücünü kullan 25+ ingilizce
 var lifestyle_25_plus_eng_manifesting_generator_question_name = "Energetic";
 var lifestyle_25_plus_eng_manifesting_generator_evaluation = "• How can I honor both my desire to initiate and my need to respond to the world around me before taking action?\n\n• What areas of my life benefit from my ability to multi-task, and how can I refine my focus to avoid unnecessary distractions?\n\n• How do I handle moments of frustration or impatience, and what can I learn from these feelings about my current approach?\n\n• When I feel the urge to start something new, how can I check in with my gut (Sacral response) to ensure it’s the right next step?\n\n• In what ways can I embrace flexibility and experimentation in my life without feeling guilty about changing direction?";
 
@@ -5820,23 +5819,7 @@ var decision_strategy_eng_ozet_11_2 = "Your decision-making process requires a d
         return kslk_ozl_conventional_you_may_not_like;
       }
     } else if (type == "questions") {
-      if (hollandName == "Gerçekçi") {
-        return kslk_ozl_25_plus_realistic_questions;
-      } else if (hollandName == "Araştırıcı") {
-        return kslk_ozl_25_plus_investigative_questions;
-      } else if (hollandName == "Artistik Sanatsal") {
-        return kslk_ozl_25_plus_artistic_questions;
-      } else if (hollandName == "Sosyal") {
-        return kslk_ozl_25_plus_social_questions;
-      } else if (hollandName == "Girişimci") {
-        return kslk_ozl_25_plus_entreprise_questions;
-      } else if (hollandName == "Geleneksel") {
-        return kslk_ozl_25_plus_conventional_questions;
-      }
-    }
-
-    if (age <= 25) {
-      if (type == "questions") {
+      if (age <= 25) {
         if (hollandName == "Gerçekçi") {
           return kslk_ozl_12_25_realistic_questions;
         } else if (hollandName == "Araştırıcı") {
@@ -5850,8 +5833,22 @@ var decision_strategy_eng_ozet_11_2 = "Your decision-making process requires a d
         } else if (hollandName == "Geleneksel") {
           return kslk_ozl_12_25_conventional_questions;
         }
-      }
+      } else {
+         if (hollandName == "Gerçekçi") {
+          return kslk_ozl_25_plus_realistic_questions;
+        } else if (hollandName == "Araştırıcı") {
+          return kslk_ozl_25_plus_investigative_questions;
+        } else if (hollandName == "Artistik Sanatsal") {
+          return kslk_ozl_25_plus_artistic_questions;
+        } else if (hollandName == "Sosyal") {
+          return kslk_ozl_25_plus_social_questions;
+        } else if (hollandName == "Girişimci") {
+          return kslk_ozl_25_plus_entreprise_questions;
+        } else if (hollandName == "Geleneksel") {
+          return kslk_ozl_25_plus_conventional_questions;
+        }
     }
+  }
 } else if (lang == "En") {
     if (type == "name") {
       if (hollandName == "Gerçekçi") {
@@ -6716,7 +6713,7 @@ var decision_strategy_eng_ozet_11_2 = "Your decision-making process requires a d
   };
 
   let teamwork = (teamworkName, age, type, lang) => {
-    if (lang == "Tr") {
+    if (lang == "Tr" && age > 25) {
       if (type == "name") {
         if (teamworkName == "Aktif Dinleme ve Empati") {
           return teamwork_name_1_1;
@@ -6806,7 +6803,7 @@ var decision_strategy_eng_ozet_11_2 = "Your decision-making process requires a d
           return teamwork_s3u2_10_2;
         }
       }
-    } else if (lang == "En") {
+    } else if (lang == "En" && age > 25) {
       if (type == "name") {
         if (teamworkName == "Aktif Dinleme ve Empati") {
           return teamwork_name_eng_1_1;
@@ -7284,7 +7281,7 @@ var decision_strategy_eng_ozet_11_2 = "Your decision-making process requires a d
           return lifestyle_reflektor_eng_ozet_2; 
         }
       } 
-    }
+    } //TODO: En 12-25 algoritmasını ekle
   };
 
   let communication = (communicationData, age, type, lang) => {
