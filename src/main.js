@@ -2633,7 +2633,6 @@ var kariyer_secim_25_plus_s7_eng_retail_9_5 = "• Marketing Analytics Specialis
 var kariyer_secim_25_plus_s7_eng_retail_9_6 = "• E-Commerce Analytics Specialist: Analyze data from online stores to understand customer behavior and provide solutions.";
 var kariyer_secim_25_plus_s7_eng_retail_9_7 = "• Customer Analytics Specialist: Analyze customer data, perform segmentation, and target specific customer groups.";
 
-
 //sağlık
 var kariyer_secim_25_plus_s7_eng_health_1_1 = "Creative and Artistic Careers";
 var kariyer_secim_25_plus_s7_eng_health_1_2 = "Jobs in the Healthcare and Pharmaceutical Sector:";
@@ -3044,8 +3043,8 @@ var kariyer_secim_25_plus_s7_eng_edTech_6_1 = "Organizational and Administrative
 var kariyer_secim_25_plus_s7_eng_edTech_6_2 = "Jobs in the education sector where you can use your organizational and administrative skills can be:";
 var kariyer_secim_25_plus_s7_eng_edTech_6_3 = "• Educational Technology Operations Manager: You can manage the day-to-day operation of educational projects and ensure that platforms and content run smoothly.";
 var kariyer_secim_25_plus_s7_eng_edTech_6_4 = "• Training Manager Assistant: You can organize the schedules of training managers and keep track of the regular and up-to-date online course content.";
-var kariyer_secim_25_plus_s7_eng_edTech_6_5 = "• School Administrative Support Specialist: You can ensure the proper functioning of the education system by supporting the management of the digital infrastructure of educational institutions.";
-var kariyer_secim_25_plus_s7_eng_edTech_6_6 = "• Human Resources Specialist (Training): You can manage recruitment within the education sector and hire trainers and managers with digital training skills.";
+var kariyer_secim_25_plus_s7_eng_edTech_6_5 = "• Human Resources Specialist (Training): You can manage recruitment within the education sector and hire trainers and managers with digital training skills.";
+var kariyer_secim_25_plus_s7_eng_edTech_6_6 = "• School Administrative Support Specialist: You can ensure the proper functioning of the education system by supporting the management of the digital infrastructure of educational institutions.";
 var kariyer_secim_25_plus_s7_eng_edTech_6_7 = "";
 
 var kariyer_secim_25_plus_s7_eng_edTech_7_1 = "Innovative and Entrepreneurial Careers";
@@ -3084,9 +3083,9 @@ var kariyer_secim_25_plus_s7_eng_finTech_1_7 = "";
 var kariyer_secim_25_plus_s7_eng_finTech_2_1 = "Leadership and Management Careers";
 var kariyer_secim_25_plus_s7_eng_finTech_2_2 = "Jobs in the Finance and FinTech sector where you can use your leadership and management skills include:";
 var kariyer_secim_25_plus_s7_eng_finTech_2_3 = "• FinTech CEO or COO: You can lead the management of FinTech startups and ensure the growth of the company by setting a strategic vision.";
-var kariyer_secim_25_plus_s7_eng_finTech_2_4 = "• Product Manager (FinTech): By managing the design, development and launch of digital financial products, you can create products that fit customer needs.";
-var kariyer_secim_25_plus_s7_eng_finTech_2_5 = "• Financial Services Manager: You can undertake strategic management of financial services in banks, insurance companies or fintech firms.";
-var kariyer_secim_25_plus_s7_eng_finTech_2_6 = "• Risk Management Manager: You can develop the company's risk management strategies by identifying and analyzing financial risks.";
+var kariyer_secim_25_plus_s7_eng_finTech_2_4 = "• Financial Services Manager: You can undertake strategic management of financial services in banks, insurance companies or fintech firms.";
+var kariyer_secim_25_plus_s7_eng_finTech_2_5 = "• Risk Management Manager: You can develop the company's risk management strategies by identifying and analyzing financial risks.";
+var kariyer_secim_25_plus_s7_eng_finTech_2_6 = "• Product Manager (FinTech): By managing the design, development and launch of digital financial products, you can create products that fit customer needs.";
 var kariyer_secim_25_plus_s7_eng_finTech_2_7 = "";
 
 var kariyer_secim_25_plus_s7_eng_finTech_3_1 = "Charity & Social Careers";
@@ -3149,9 +3148,9 @@ var kariyer_secim_25_plus_s7_eng_finTech_9_7 = "";
 var kariyer_secim_25_plus_s7_eng_energy_1_1 = "Creative and Artistic Careers";
 var kariyer_secim_25_plus_s7_eng_energy_1_2 = "Jobs in the energy and renewable energy sector where you can use your creativity can be:";
 var kariyer_secim_25_plus_s7_eng_energy_1_3 = "• Sustainability Communication Specialist: You can develop creative media content and social media strategies to promote renewable energy projects.";
-var kariyer_secim_25_plus_s7_eng_energy_1_4 = "• Energy Design Consultant: You can develop creative projects and propose innovative energy solutions to create green building design, energy efficiency and sustainable living spaces.";
-var kariyer_secim_25_plus_s7_eng_energy_1_5 = "• Energy Education Content Designer: You can create educational and video content and digital platforms about renewable energy sources and environmentally friendly living.";
-var kariyer_secim_25_plus_s7_eng_energy_1_6 = "• Renewable Energy Branding Expert: By strengthening the brand identities of renewable energy companies, you can promote environmentally friendly products and services.";
+var kariyer_secim_25_plus_s7_eng_energy_1_4 = "• Energy Education Content Designer: You can create educational and video content and digital platforms about renewable energy sources and environmentally friendly living.";
+var kariyer_secim_25_plus_s7_eng_energy_1_5 = "• Renewable Energy Branding Expert: By strengthening the brand identities of renewable energy companies, you can promote environmentally friendly products and services.";
+var kariyer_secim_25_plus_s7_eng_energy_1_6 = "• Energy Design Consultant: You can develop creative projects and propose innovative energy solutions to create green building design, energy efficiency and sustainable living spaces.";
 var kariyer_secim_25_plus_s7_eng_energy_1_7 = "";
 
 var kariyer_secim_25_plus_s7_eng_energy_2_1 = "Leadership and Management Careers";
@@ -3190,8 +3189,8 @@ var kariyer_secim_25_plus_s7_eng_energy_6_1 = "Organizational and Administrative
 var kariyer_secim_25_plus_s7_eng_energy_6_2 = "Jobs in the energy and renewable energy sector where you can use your organizational and managerial skills can be:";
 var kariyer_secim_25_plus_s7_eng_energy_6_3 = "• Energy Operations Manager: You can manage the daily operations of energy production facilities and increase efficiency by monitoring production processes.";
 var kariyer_secim_25_plus_s7_eng_energy_6_4 = "• Energy Project Coordinator: By coordinating between teams in renewable energy projects, you can increase the efficiency of the projects.";
-var kariyer_secim_25_plus_s7_eng_energy_6_5 = "• Administrative Support Specialist (Energy): You can support the administrative processes of renewable energy projects and facilities and prepare the necessary reports and documents.";
-var kariyer_secim_25_plus_s7_eng_energy_6_6 = "• Human Resources Specialist (Energy): You can organize human resources processes in institutions in the energy sector.";
+var kariyer_secim_25_plus_s7_eng_energy_6_5 = "• Human Resources Specialist (Energy): You can organize human resources processes in institutions in the energy sector.";
+var kariyer_secim_25_plus_s7_eng_energy_6_6 = "• Administrative Support Specialist (Energy): You can support the administrative processes of renewable energy projects and facilities and prepare the necessary reports and documents.";
 var kariyer_secim_25_plus_s7_eng_energy_6_7 = "";
 
 var kariyer_secim_25_plus_s7_eng_energy_7_1 = "Innovative and Entrepreneurial Careers";
@@ -3213,9 +3212,9 @@ var kariyer_secim_25_plus_s7_eng_energy_8_7 = "";
 var kariyer_secim_25_plus_s7_eng_energy_9_1 = "Analytics and Data-Driven Careers";
 var kariyer_secim_25_plus_s7_eng_energy_9_2 = "Jobs in the energy and renewable energy sector where you can use analytical thinking and data skills include:";
 var kariyer_secim_25_plus_s7_eng_energy_9_3 = "• Energy Data Analyst: By analyzing renewable energy production and consumption data, you can develop strategic recommendations to improve energy efficiency.";
-var kariyer_secim_25_plus_s7_eng_energy_9_4 = "• Renewable Energy Performance Analyst: By measuring the efficiency of power plants and renewable energy systems, you can optimize processes and develop performance-enhancing solutions.";
-var kariyer_secim_25_plus_s7_eng_energy_9_5 = "• Systems Engineer (Energy Data): By setting up data systems to monitor and manage renewable energy systems, you can improve operational efficiency.";
-var kariyer_secim_25_plus_s7_eng_energy_9_6 = "• Energy Market Analyst: You can develop energy trading and pricing strategies and predict the future of the markets.";
+var kariyer_secim_25_plus_s7_eng_energy_9_4 = "• Systems Engineer (Energy Data): By setting up data systems to monitor and manage renewable energy systems, you can improve operational efficiency.";
+var kariyer_secim_25_plus_s7_eng_energy_9_5 = "• Energy Market Analyst: You can develop energy trading and pricing strategies and predict the future of the markets.";
+var kariyer_secim_25_plus_s7_eng_energy_9_6 = "• Renewable Energy Performance Analyst: By measuring the efficiency of power plants and renewable energy systems, you can optimize processes and develop performance-enhancing solutions.";
 var kariyer_secim_25_plus_s7_eng_energy_9_7 = "";
 
 // Danışmanlık, Koçluk ve Mentörlük
@@ -3231,16 +3230,16 @@ var kariyer_secim_25_plus_s7_eng_mentor_2_1 = "Leadership and Management Careers
 var kariyer_secim_25_plus_s7_eng_mentor_2_2 = "Jobs in the consulting, coaching and mentoring industry where you can use your leadership and management skills include:";
 var kariyer_secim_25_plus_s7_eng_mentor_2_3 = "• Executive Coach: You can provide coaching services to senior executives to improve their leadership skills, make strategic decisions and lead more effectively.";
 var kariyer_secim_25_plus_s7_eng_mentor_2_4 = "• Corporate Coaching Manager: By providing coaching and consulting services to companies, you can develop strategies to improve organizational development and employee performance.";
-var kariyer_secim_25_plus_s7_eng_mentor_2_5 = "• Human Resources Consultant: You can optimize the human resources processes of organizations and provide guidance on internal leadership, performance management and employee motivation.";
-var kariyer_secim_25_plus_s7_eng_mentor_2_6 = "• Business Transformation Consultant: You can guide companies' digital transformation processes and help them adapt to strategic changes.";
+var kariyer_secim_25_plus_s7_eng_mentor_2_5 = "• Business Transformation Consultant: You can guide companies' digital transformation processes and help them adapt to strategic changes.";
+var kariyer_secim_25_plus_s7_eng_mentor_2_6 = "• Human Resources Consultant: You can optimize the human resources processes of organizations and provide guidance on internal leadership, performance management and employee motivation.";
 var kariyer_secim_25_plus_s7_eng_mentor_2_7 = "";
 
 var kariyer_secim_25_plus_s7_eng_mentor_3_1 = "Charity & Social Careers";
 var kariyer_secim_25_plus_s7_eng_mentor_3_2 = "Jobs in the consulting, coaching and mentoring sector where you can use your social and helpful sides can be:";
 var kariyer_secim_25_plus_s7_eng_mentor_3_3 = "• Life Coach: By helping individuals achieve their personal goals, you can guide them to improve their quality of life.";
-var kariyer_secim_25_plus_s7_eng_mentor_3_4 = "• Social Entrepreneur Coach: By helping social entrepreneurs develop effective projects, you can contribute to creating strategies that can change societies in a positive way.";
-var kariyer_secim_25_plus_s7_eng_mentor_3_5 = "• Family Counselor: You can provide counseling to solve problems in family relationships and to help family members establish healthy relationships.";
-var kariyer_secim_25_plus_s7_eng_mentor_3_6 = "• Social Responsibility Coach: You can guide individuals to fulfill their social responsibilities and create environmental/social impact.";
+var kariyer_secim_25_plus_s7_eng_mentor_3_4 = "• Family Counselor: You can provide counseling to solve problems in family relationships and to help family members establish healthy relationships.";
+var kariyer_secim_25_plus_s7_eng_mentor_3_5 = "• Social Responsibility Coach: You can guide individuals to fulfill their social responsibilities and create environmental/social impact.";
+var kariyer_secim_25_plus_s7_eng_mentor_3_6 = "• Social Entrepreneur Coach: By helping social entrepreneurs develop effective projects, you can contribute to creating strategies that can change societies in a positive way.";
 var kariyer_secim_25_plus_s7_eng_mentor_3_7 = "";
 
 var kariyer_secim_25_plus_s7_eng_mentor_4_1 = "Technical and Engineering Careers";
@@ -3255,8 +3254,8 @@ var kariyer_secim_25_plus_s7_eng_mentor_5_1 = "Sales and Relationship Building C
 var kariyer_secim_25_plus_s7_eng_mentor_5_2 = "Jobs in the consulting, coaching, and mentoring industry where you can use your sales and relationship management skills include:";
 var kariyer_secim_25_plus_s7_eng_mentor_5_3 = "• Corporate Training and Coaching Sales Specialist: You can sell corporate coaching programs and training materials and offer solutions for the needs of companies.";
 var kariyer_secim_25_plus_s7_eng_mentor_5_4 = "• Coaching Services Sales Manager: You can lead the promotion of coaching services, create marketing strategies and manage customer relationships.";
-var kariyer_secim_25_plus_s7_eng_mentor_5_5 = "• Business Development Consultant: You can help companies discover new business opportunities and conduct strategic business development studies in the marketing of coaching and consulting services.";
-var kariyer_secim_25_plus_s7_eng_mentor_5_6 = "• Customer Relations Coordinator: You can manage the customer relations of companies that provide consultancy and coaching services.";
+var kariyer_secim_25_plus_s7_eng_mentor_5_5 = "• Customer Relations Coordinator: You can manage the customer relations of companies that provide consultancy and coaching services.";
+var kariyer_secim_25_plus_s7_eng_mentor_5_6 = "• Business Development Consultant: You can help companies discover new business opportunities and conduct strategic business development studies in the marketing of coaching and consulting services.";
 var kariyer_secim_25_plus_s7_eng_mentor_5_7 = "";
 
 var kariyer_secim_25_plus_s7_eng_mentor_6_1 = "Organizational and Administrative Careers";
@@ -3295,25 +3294,25 @@ var kariyer_secim_25_plus_s7_eng_mentor_9_7 = "";
 var kariyer_secim_25_plus_s7_eng_tourism_1_1 = "Creative and Artistic Careers";
 var kariyer_secim_25_plus_s7_eng_tourism_1_2 = "Jobs where you can use your creativity in the tourism and hospitality sector can be:";
 var kariyer_secim_25_plus_s7_eng_tourism_1_3 = "• Tourism Content Designer: You can contribute to the promotion of destinations by designing content for travel blogs, tourism brochures, advertising materials, and digital platforms.";
-var kariyer_secim_25_plus_s7_eng_tourism_1_4 = "• Tourism Photographer/Videographer: You can prepare photo and video content to promote tourist attractions, hotels or events, and convey your travel experiences through visual expression.";
-var kariyer_secim_25_plus_s7_eng_tourism_1_5 = "• Experience Designer: You can design creative programs, events, and themes for the tourism industry to provide customers with memorable touristic experiences.";
-var kariyer_secim_25_plus_s7_eng_tourism_1_6 = "• Travel Writer: You can tell about your travel experiences and destinations in written content, and reach large audiences through travel guides or blogs.";
+var kariyer_secim_25_plus_s7_eng_tourism_1_4 = "• Experience Designer: You can design creative programs, events, and themes for the tourism industry to provide customers with memorable touristic experiences.";
+var kariyer_secim_25_plus_s7_eng_tourism_1_5 = "• Travel Writer: You can tell about your travel experiences and destinations in written content, and reach large audiences through travel guides or blogs.";
+var kariyer_secim_25_plus_s7_eng_tourism_1_6 = "• Tourism Photographer/Videographer: You can prepare photo and video content to promote tourist attractions, hotels or events, and convey your travel experiences through visual expression.";
 var kariyer_secim_25_plus_s7_eng_tourism_1_7 = "";
 
 var kariyer_secim_25_plus_s7_eng_tourism_2_1 = "Leadership and Management Careers";
 var kariyer_secim_25_plus_s7_eng_tourism_2_2 = "Jobs in the tourism and hospitality industry where you can use your leadership and management skills include:";
 var kariyer_secim_25_plus_s7_eng_tourism_2_3 = "• Hotel Manager: You can manage all operations of a hotel or resort and develop strategies to increase customer satisfaction.";
 var kariyer_secim_25_plus_s7_eng_tourism_2_4 = "• Hospitality Manager: You can manage customer service and optimize processes to maximize guests' stay experience.";
-var kariyer_secim_25_plus_s7_eng_tourism_2_5 = "• Event and Conference Manager: By organizing large organizations, congresses and events, you can manage all organizational processes to ensure the satisfaction of the participants.";
-var kariyer_secim_25_plus_s7_eng_tourism_2_6 = "• Tourism Director: You can lead the management and strategy development of tourist destinations, and direct regional tourism policies.";
+var kariyer_secim_25_plus_s7_eng_tourism_2_5 = "• Tourism Director: You can lead the management and strategy development of tourist destinations, and direct regional tourism policies.";
+var kariyer_secim_25_plus_s7_eng_tourism_2_6 = "• Event and Conference Manager: By organizing large organizations, congresses and events, you can manage all organizational processes to ensure the satisfaction of the participants.";
 var kariyer_secim_25_plus_s7_eng_tourism_2_7 = "";
 
 var kariyer_secim_25_plus_s7_eng_tourism_3_1 = "Charity & Social Careers";
 var kariyer_secim_25_plus_s7_eng_tourism_3_2 = "Jobs in the tourism and hospitality sector where you can use your social and helpful sides can be:";
-var kariyer_secim_25_plus_s7_eng_tourism_3_3 = "• Social Responsibility Coordinator (Tourism): You can develop strategies to ensure that businesses in the tourism sector fulfill their environmental and social responsibilities, and develop projects that are beneficial to the society.";
-var kariyer_secim_25_plus_s7_eng_tourism_3_4 = "• Customer Service Representative: By assisting customers with their vacation, travel and accommodation processes, you can solve their problems and meet their expectations.";
-var kariyer_secim_25_plus_s7_eng_tourism_3_5 = "• Eco-Friendly Tourism Coordinator: You can develop sustainable tourism solutions and collaborate with hotels, resorts or tour companies for environmentally friendly projects.";
-var kariyer_secim_25_plus_s7_eng_tourism_3_6 = "• Helpful Travel Advisor: You can provide travel planning and counseling services for people with disabilities, the elderly, or people with special needs.";
+var kariyer_secim_25_plus_s7_eng_tourism_3_3 = "• Customer Service Representative: By assisting customers with their vacation, travel and accommodation processes, you can solve their problems and meet their expectations.";
+var kariyer_secim_25_plus_s7_eng_tourism_3_4 = "• Eco-Friendly Tourism Coordinator: You can develop sustainable tourism solutions and collaborate with hotels, resorts or tour companies for environmentally friendly projects.";
+var kariyer_secim_25_plus_s7_eng_tourism_3_5 = "• Helpful Travel Advisor: You can provide travel planning and counseling services for people with disabilities, the elderly, or people with special needs.";
+var kariyer_secim_25_plus_s7_eng_tourism_3_6 = "• Social Responsibility Coordinator (Tourism): You can develop strategies to ensure that businesses in the tourism sector fulfill their environmental and social responsibilities, and develop projects that are beneficial to the society.";
 var kariyer_secim_25_plus_s7_eng_tourism_3_7 = "";
 
 var kariyer_secim_25_plus_s7_eng_tourism_4_1 = "Technical and Engineering Careers";
@@ -3327,9 +3326,9 @@ var kariyer_secim_25_plus_s7_eng_tourism_4_7 = "";
 var kariyer_secim_25_plus_s7_eng_tourism_5_1 = "Sales and Relationship Building Careers";
 var kariyer_secim_25_plus_s7_eng_tourism_5_2 = "Jobs in the tourism and hospitality industry where you can use your sales and relationship management skills include:";
 var kariyer_secim_25_plus_s7_eng_tourism_5_3 = "• Tourism Sales Manager: You can develop sales strategies for travel agencies, hotels or resorts, and create new customers and business opportunities.";
-var kariyer_secim_25_plus_s7_eng_tourism_5_4 = "• Digital Marketing Specialist (Tourism): You can create digital marketing strategies for the travel and tourism industry and promote through social media, SEO and other digital channels.";
-var kariyer_secim_25_plus_s7_eng_tourism_5_5 = "• Business Development Manager (Tourism): You can develop new business opportunities at home and abroad, and create marketing strategies to increase the sales of touristic services.";
-var kariyer_secim_25_plus_s7_eng_tourism_5_6 = "• Customer Relationship Manager (Hospitality): You can monitor guests' experiences in hotels or resorts and build personal relationships to increase their satisfaction.";
+var kariyer_secim_25_plus_s7_eng_tourism_5_4 = "• Business Development Manager (Tourism): You can develop new business opportunities at home and abroad, and create marketing strategies to increase the sales of touristic services.";
+var kariyer_secim_25_plus_s7_eng_tourism_5_5 = "• Customer Relationship Manager (Hospitality): You can monitor guests' experiences in hotels or resorts and build personal relationships to increase their satisfaction.";
+var kariyer_secim_25_plus_s7_eng_tourism_5_6 = "• Digital Marketing Specialist (Tourism): You can create digital marketing strategies for the travel and tourism industry and promote through social media, SEO and other digital channels.";
 var kariyer_secim_25_plus_s7_eng_tourism_5_7 = "";
 
 var kariyer_secim_25_plus_s7_eng_tourism_6_1 = "Organizational and Administrative Careers";
@@ -3343,17 +3342,17 @@ var kariyer_secim_25_plus_s7_eng_tourism_6_7 = "";
 var kariyer_secim_25_plus_s7_eng_tourism_7_1 = "Innovative and Entrepreneurial Careers";
 var kariyer_secim_25_plus_s7_eng_tourism_7_2 = "Jobs in the tourism and hospitality sector where you can use innovative thinking and entrepreneurial spirit can be:";
 var kariyer_secim_25_plus_s7_eng_tourism_7_3 = "• Tourism Entrepreneur: By establishing your own tourism agency or travel company, you can offer new destinations or experiences and fill the gaps in the industry.";
-var kariyer_secim_25_plus_s7_eng_tourism_7_4 = "• Travel Technology Entrepreneur: You can develop digital platforms, mobile applications or innovative solutions for the travel industry and contribute to the digital transformation in the industry.";
-var kariyer_secim_25_plus_s7_eng_tourism_7_5 = "• Sustainable Tourism Entrepreneur: You can develop new projects that offer sustainable tourism solutions and make a difference in this field by protecting natural resources.";
-var kariyer_secim_25_plus_s7_eng_tourism_7_6 = "• Luxury Tourism and Experience Entrepreneur: You can organize luxury holiday packages, VIP travel experiences or special events for high-budget customers.";
+var kariyer_secim_25_plus_s7_eng_tourism_7_4 = "• Sustainable Tourism Entrepreneur: You can develop new projects that offer sustainable tourism solutions and make a difference in this field by protecting natural resources.";
+var kariyer_secim_25_plus_s7_eng_tourism_7_5 = "• Luxury Tourism and Experience Entrepreneur: You can organize luxury holiday packages, VIP travel experiences or special events for high-budget customers.";
+var kariyer_secim_25_plus_s7_eng_tourism_7_6 = "• Travel Technology Entrepreneur: You can develop digital platforms, mobile applications or innovative solutions for the travel industry and contribute to the digital transformation in the industry.";
 var kariyer_secim_25_plus_s7_eng_tourism_7_7 = "";
 
 var kariyer_secim_25_plus_s7_eng_tourism_8_1 = "Teaching and Mentoring Careers";
 var kariyer_secim_25_plus_s7_eng_tourism_8_2 = "Jobs in the tourism and hospitality industry where you can use your teaching and mentoring skills include:";
-var kariyer_secim_25_plus_s7_eng_tourism_8_3 = "• Tourism Instructor: By providing training in tourism and hospitality schools, you can provide students with skills related to the sector and prepare them for the business world.";
-var kariyer_secim_25_plus_s7_eng_tourism_8_4 = "• Travel Coach: You can help individuals create personal travel plans and routes, and personalize their travel experience.";
-var kariyer_secim_25_plus_s7_eng_tourism_8_5 = "• Hospitality Mentor: You can guide beginner professionals in the hospitality industry and provide information about business processes and customer service in the industry.";
-var kariyer_secim_25_plus_s7_eng_tourism_8_6 = "• Executive Coach (Tourism): You can coach employees in managerial positions in hotels or tourism companies on leadership, time management and decision-making skills.";
+var kariyer_secim_25_plus_s7_eng_tourism_8_3 = "• Travel Coach: You can help individuals create personal travel plans and routes, and personalize their travel experience.";
+var kariyer_secim_25_plus_s7_eng_tourism_8_4 = "• Hospitality Mentor: You can guide beginner professionals in the hospitality industry and provide information about business processes and customer service in the industry.";
+var kariyer_secim_25_plus_s7_eng_tourism_8_5 = "• Executive Coach (Tourism): You can coach employees in managerial positions in hotels or tourism companies on leadership, time management and decision-making skills.";
+var kariyer_secim_25_plus_s7_eng_tourism_8_6 = "• Tourism Instructor: By providing training in tourism and hospitality schools, you can provide students with skills related to the sector and prepare them for the business world.";
 var kariyer_secim_25_plus_s7_eng_tourism_8_7 = "";
 
 var kariyer_secim_25_plus_s7_eng_tourism_9_1 = "Analytics and Data-Driven Careers";
@@ -3366,12 +3365,11 @@ var kariyer_secim_25_plus_s7_eng_tourism_9_7 = "";
 
 //agroTech
 var kariyer_secim_25_plus_s7_eng_agroTech_1_1 = "Creative and Artistic Careers";
-var kariyer_secim_25_plus_s7_eng_agroTech_1_1 = "Creative and Artistic Careers";
 var kariyer_secim_25_plus_s7_eng_agroTech_1_2 = "Jobs where you can use your creativity in the agriculture and agricultural technology sector can be:";
-var kariyer_secim_25_plus_s7_eng_agroTech_1_3 = "• Agricultural Content Creators: By creating creative educational content, blog posts, video series, and infographics for farmers and agricultural industry professionals, you can convey knowledge through visual and written means.";
-var kariyer_secim_25_plus_s7_eng_agroTech_1_4 = "• Agricultural Technologies Branding Specialist: By developing brand strategies of agricultural sector-oriented products and services, you can create effective campaigns for the target audience.";
-var kariyer_secim_25_plus_s7_eng_agroTech_1_5 = "• Social Media Manager (Agriculture): By helping to promote products in the agricultural sector on digital platforms, you can sell information and products on social media.";
-var kariyer_secim_25_plus_s7_eng_agroTech_1_6 = "• Food Designer: You can develop the packaging designs of agricultural products and offer visual solutions to make the products more attractive.";
+var kariyer_secim_25_plus_s7_eng_agroTech_1_3 = "• Agricultural Technologies Branding Specialist: By developing brand strategies of agricultural sector-oriented products and services, you can create effective campaigns for the target audience.";
+var kariyer_secim_25_plus_s7_eng_agroTech_1_4 = "• Social Media Manager (Agriculture): By helping to promote products in the agricultural sector on digital platforms, you can sell information and products on social media.";
+var kariyer_secim_25_plus_s7_eng_agroTech_1_5 = "• Food Designer: You can develop the packaging designs of agricultural products and offer visual solutions to make the products more attractive.";
+var kariyer_secim_25_plus_s7_eng_agroTech_1_6 = "• Agricultural Content Creators: By creating creative educational content, blog posts, video series, and infographics for farmers and agricultural industry professionals, you can convey knowledge through visual and written means.";
 var kariyer_secim_25_plus_s7_eng_agroTech_1_7 = "";
 
 var kariyer_secim_25_plus_s7_eng_agroTech_2_1 = "Leadership and Management Careers";
@@ -3385,114 +3383,114 @@ var kariyer_secim_25_plus_s7_eng_agroTech_2_7 = "";
 var kariyer_secim_25_plus_s7_eng_agroTech_3_1 = "Charity & Social Careers";
 var kariyer_secim_25_plus_s7_eng_agroTech_3_2 = "Jobs in the agriculture and agricultural technology sector where you can use your social and philanthropic sides can be:";
 var kariyer_secim_25_plus_s7_eng_agroTech_3_3 = "• Agricultural Trainer: You can train farmers on topics such as modern farming methods, biotechnology and agricultural machinery.";
-var kariyer_secim_25_plus_s7_eng_agroTech_3_4 = "• Social Agriculture Entrepreneur: By combining agricultural production with social goals, you can contribute to local communities and develop sustainable agricultural projects.";
-var kariyer_secim_25_plus_s7_eng_agroTech_3_5 = "• Food Safety Advisor: You can advise farmers to ensure food safety and ensure the healthy production and processing of agricultural products.";
-var kariyer_secim_25_plus_s7_eng_agroTech_3_6 = "• Rural Development Consultant: You can provide guidance to rural farmers and entrepreneurs to provide training, financial support, and promotion of local development.";
+var kariyer_secim_25_plus_s7_eng_agroTech_3_4 = "• Food Safety Advisor: You can advise farmers to ensure food safety and ensure the healthy production and processing of agricultural products.";
+var kariyer_secim_25_plus_s7_eng_agroTech_3_5 = "• Rural Development Consultant: You can provide guidance to rural farmers and entrepreneurs to provide training, financial support, and promotion of local development.";
+var kariyer_secim_25_plus_s7_eng_agroTech_3_6 = "• Social Agriculture Entrepreneur: By combining agricultural production with social goals, you can contribute to local communities and develop sustainable agricultural projects.";
 var kariyer_secim_25_plus_s7_eng_agroTech_3_7 = "";
 
 var kariyer_secim_25_plus_s7_eng_agroTech_4_1 = "Technical and Engineering Careers";
 var kariyer_secim_25_plus_s7_eng_agroTech_4_2 = "Jobs in the agricultural and agricultural technology sector where you can use your technical and engineering skills can be:";
 var kariyer_secim_25_plus_s7_eng_agroTech_4_3 = "• Agricultural Engineer: You can improve agricultural processes, produce engineering solutions related to irrigation systems, fertilization and plant health.";
-var kariyer_secim_25_plus_s7_eng_agroTech_4_4 = "• Agricultural Technology Developer: You can develop smart agricultural applications and sensors, and produce digital tools that enable farmers to produce more efficiently.";
-var kariyer_secim_25_plus_s7_eng_agroTech_4_5 = "• Biotechnology Engineer (Agriculture): With genetic engineering and biotechnological solutions, you can develop more durable and efficient agricultural products.";
-var kariyer_secim_25_plus_s7_eng_agroTech_4_6 = "• Irrigation Systems Engineer: By designing efficient irrigation systems, you can develop projects to use water resources more efficiently.";
+var kariyer_secim_25_plus_s7_eng_agroTech_4_4 = "• Biotechnology Engineer (Agriculture): With genetic engineering and biotechnological solutions, you can develop more durable and efficient agricultural products.";
+var kariyer_secim_25_plus_s7_eng_agroTech_4_5 = "• Irrigation Systems Engineer: By designing efficient irrigation systems, you can develop projects to use water resources more efficiently.";
+var kariyer_secim_25_plus_s7_eng_agroTech_4_6 = "• Agricultural Technology Developer: You can develop smart agricultural applications and sensors, and produce digital tools that enable farmers to produce more efficiently.";
 var kariyer_secim_25_plus_s7_eng_agroTech_4_7 = "";
 
 var kariyer_secim_25_plus_s7_eng_agroTech_5_1 = "Sales and Relationship Building Careers";
 var kariyer_secim_25_plus_s7_eng_agroTech_5_2 = "Jobs in the agriculture and agritech sector where you can use your sales and relationship management skills include:";
 var kariyer_secim_25_plus_s7_eng_agroTech_5_3 = "• Agricultural Products Sales Manager: You can sell agricultural machinery, fertilizers, seeds or plant protection products, and increase sales by introducing these products to farmers.";
 var kariyer_secim_25_plus_s7_eng_agroTech_5_4 = "• Agricultural Technologies Sales Specialist: You can provide consultancy on agricultural technologies, smart devices and software for farmers, and manage sales processes.";
-var kariyer_secim_25_plus_s7_eng_agroTech_5_5 = "• Business Development Manager (AgriTech): You can discover new business opportunities in the agriculture and agricultural technology sector, and expand your marketing and sales networks by establishing strategic business partnerships.";
-var kariyer_secim_25_plus_s7_eng_agroTech_5_6 = "• Customer Relationship Manager (Agriculture): By establishing long-term relationships with the customers of companies in the agricultural sector, you can increase customer satisfaction and loyalty.";
+var kariyer_secim_25_plus_s7_eng_agroTech_5_5 = "• Customer Relationship Manager (Agriculture): By establishing long-term relationships with the customers of companies in the agricultural sector, you can increase customer satisfaction and loyalty.";
+var kariyer_secim_25_plus_s7_eng_agroTech_5_6 = "• Business Development Manager (AgriTech): You can discover new business opportunities in the agriculture and agricultural technology sector, and expand your marketing and sales networks by establishing strategic business partnerships.";
 var kariyer_secim_25_plus_s7_eng_agroTech_5_7 = "";
 
 var kariyer_secim_25_plus_s7_eng_agroTech_6_1 = "Organizational and Administrative Careers";
 var kariyer_secim_25_plus_s7_eng_agroTech_6_2 = "Jobs in the agricultural and agricultural technology sector where you can use your organizational and administrative skills can be:";
 var kariyer_secim_25_plus_s7_eng_agroTech_6_3 = "• Agriculture Operations Manager: By organizing agricultural production processes, you can direct teams and develop productivity-enhancing solutions.";
 var kariyer_secim_25_plus_s7_eng_agroTech_6_4 = "• Agricultural Production Coordinator: You can coordinate the production processes of agricultural products, control the quality of products and apply sustainable production techniques.";
-var kariyer_secim_25_plus_s7_eng_agroTech_6_5 = "• Human Resources Specialist (Agriculture): You can organize the recruitment of personnel working in enterprises in the agricultural sector and create strategies for their training and development.";
-var kariyer_secim_25_plus_s7_eng_agroTech_6_6 = "• Finance Manager (Agriculture): You can manage the financial processes of businesses in the agricultural sector, develop budgeting, financial reporting and productivity-enhancing strategies.";
+var kariyer_secim_25_plus_s7_eng_agroTech_6_5 = "• Finance Manager (Agriculture): You can manage the financial processes of businesses in the agricultural sector, develop budgeting, financial reporting and productivity-enhancing strategies.";
+var kariyer_secim_25_plus_s7_eng_agroTech_6_6 = "• Human Resources Specialist (Agriculture): You can organize the recruitment of personnel working in enterprises in the agricultural sector and create strategies for their training and development.";
 var kariyer_secim_25_plus_s7_eng_agroTech_6_7 = "";
 
 var kariyer_secim_25_plus_s7_eng_agroTech_7_1 = "Innovative and Entrepreneurial Careers";
 var kariyer_secim_25_plus_s7_eng_agroTech_7_2 = "Jobs in the agriculture and agricultural technology sector where you can use innovative thinking and entrepreneurial spirit can be:";
 var kariyer_secim_25_plus_s7_eng_agroTech_7_3 = "• AgriTech Entrepreneur: By establishing an innovative business in agricultural technologies, you can develop digital solutions that will enable farmers to increase production efficiency.";
-var kariyer_secim_25_plus_s7_eng_agroTech_7_4 = "• Sustainable Agriculture Entrepreneur: By establishing a business on organic farming or environmentally friendly production methods, you can offer environmentally friendly solutions and make a difference in the sector.";
-var kariyer_secim_25_plus_s7_eng_agroTech_7_5 = "• Useful Biotechnology Entrepreneur: By starting a startup that produces biotechnological solutions in the agricultural sector, you can develop products that are resistant to plant diseases.";
-var kariyer_secim_25_plus_s7_eng_agroTech_7_6 = "• Digital Agriculture Entrepreneur: You can develop a software or platform that digitizes farmers' production processes, enabling farmers to produce more efficiently and sustainably.";
+var kariyer_secim_25_plus_s7_eng_agroTech_7_4 = "• Useful Biotechnology Entrepreneur: By starting a startup that produces biotechnological solutions in the agricultural sector, you can develop products that are resistant to plant diseases.";
+var kariyer_secim_25_plus_s7_eng_agroTech_7_5 = "• Digital Agriculture Entrepreneur: You can develop a software or platform that digitizes farmers' production processes, enabling farmers to produce more efficiently and sustainably.";
+var kariyer_secim_25_plus_s7_eng_agroTech_7_6 = "• Sustainable Agriculture Entrepreneur: By establishing a business on organic farming or environmentally friendly production methods, you can offer environmentally friendly solutions and make a difference in the sector.";
 var kariyer_secim_25_plus_s7_eng_agroTech_7_7 = "";
 
 var kariyer_secim_25_plus_s7_eng_agroTech_8_1 = "Teaching and Mentoring Careers";
 var kariyer_secim_25_plus_s7_eng_agroTech_8_2 = "Jobs in the agriculture and agritech sector where you can use your teaching and mentoring skills include:";
-var kariyer_secim_25_plus_s7_eng_agroTech_8_3 = "• Agricultural Trainer: You can provide training to farmers and agricultural sector professionals on agricultural techniques, modern machinery, biotechnology and sustainable agriculture.";
-var kariyer_secim_25_plus_s7_eng_agroTech_8_4 = "• Agricultural Coach: You can guide individuals or farmers to be more efficient in agriculture and teach them advanced production techniques.";
-var kariyer_secim_25_plus_s7_eng_agroTech_8_5 = "• Social Agriculture Mentor: You can mentor farmers and local entrepreneurs on rural development and sustainable agriculture, and contribute to the strengthening of communities.";
-var kariyer_secim_25_plus_s7_eng_agroTech_8_6 = "• Agriculture and Technology Consultant: You can guide businesses on industry best practices and innovative solutions.";
+var kariyer_secim_25_plus_s7_eng_agroTech_8_3 = "• Agricultural Coach: You can guide individuals or farmers to be more efficient in agriculture and teach them advanced production techniques.";
+var kariyer_secim_25_plus_s7_eng_agroTech_8_4 = "• Social Agriculture Mentor: You can mentor farmers and local entrepreneurs on rural development and sustainable agriculture, and contribute to the strengthening of communities.";
+var kariyer_secim_25_plus_s7_eng_agroTech_8_5 = "• Agriculture and Technology Consultant: You can guide businesses on industry best practices and innovative solutions.";
+var kariyer_secim_25_plus_s7_eng_agroTech_8_6 = "• Agricultural Trainer: You can provide training to farmers and agricultural sector professionals on agricultural techniques, modern machinery, biotechnology and sustainable agriculture.";
 var kariyer_secim_25_plus_s7_eng_agroTech_8_7 = "";
 
 var kariyer_secim_25_plus_s7_eng_agroTech_9_1 = "Analytics and Data-Driven Careers";
 var kariyer_secim_25_plus_s7_eng_agroTech_9_2 = "Jobs in the agriculture and agritech sector where you can use analytical thinking and data skills include:";
 var kariyer_secim_25_plus_s7_eng_agroTech_9_3 = "• Agricultural Data Analyst: By analyzing agricultural production processes, you can develop strategic recommendations and provide data-driven solutions to increase productivity.";
-var kariyer_secim_25_plus_s7_eng_agroTech_9_4 = "• Sustainable Agriculture Analyst: By analyzing the environmental impacts of agriculture, you can evaluate the effectiveness of sustainable agricultural practices and offer suggestions for improvement.";
-var kariyer_secim_25_plus_s7_eng_agroTech_9_5 = "• Agricultural Technology Data Manager: By collecting and analyzing data for the sector, you can help farmers make informed decisions.";
-var kariyer_secim_25_plus_s7_eng_agroTech_9_6 = "• Agricultural Market Analyst: By analyzing the pricing, demand and supply data of agricultural products, you can provide market insights for producers and traders.";
+var kariyer_secim_25_plus_s7_eng_agroTech_9_4 = "• Agricultural Technology Data Manager: By collecting and analyzing data for the sector, you can help farmers make informed decisions.";
+var kariyer_secim_25_plus_s7_eng_agroTech_9_5 = "• Agricultural Market Analyst: By analyzing the pricing, demand and supply data of agricultural products, you can provide market insights for producers and traders.";
+var kariyer_secim_25_plus_s7_eng_agroTech_9_6 = "• Sustainable Agriculture Analyst: By analyzing the environmental impacts of agriculture, you can evaluate the effectiveness of sustainable agricultural practices and offer suggestions for improvement.";
 var kariyer_secim_25_plus_s7_eng_agroTech_9_7 = "";
 
 //logistic
 var kariyer_secim_25_plus_s7_eng_logistic_1_1 = "Creative and Artistic Careers";
 var kariyer_secim_25_plus_s7_eng_logistic_1_2 = "Jobs in the logistics and transportation industry where you can use your creative skills include:";
-var kariyer_secim_25_plus_s7_eng_logistic_1_3 = "• Logistics Content Designer: You can design visual and written content, create infographics, advertising materials and digital content to promote logistics processes and transportation services.";
-var kariyer_secim_25_plus_s7_eng_logistic_1_4 = "• Packaging Designer: You can develop creative packaging solutions and consider logistics and sustainability strategies for the protection of products in transportation and logistics processes.";
-var kariyer_secim_25_plus_s7_eng_logistic_1_5 = "• Digital Marketing Specialist: You can develop your digital marketing strategies and build customer relationships through SEO, digital ads and social media platforms.";
-var kariyer_secim_25_plus_s7_eng_logistic_1_6 = "• Visual Communication Designer: You can develop navigation solutions in urban transportation by designing information signs and visual materials for traffic management.";
+var kariyer_secim_25_plus_s7_eng_logistic_1_3 = "• Packaging Designer: You can develop creative packaging solutions and consider logistics and sustainability strategies for the protection of products in transportation and logistics processes.";
+var kariyer_secim_25_plus_s7_eng_logistic_1_4 = "• Digital Marketing Specialist: You can develop your digital marketing strategies and build customer relationships through SEO, digital ads and social media platforms.";
+var kariyer_secim_25_plus_s7_eng_logistic_1_5 = "• Visual Communication Designer: You can develop navigation solutions in urban transportation by designing information signs and visual materials for traffic management.";
+var kariyer_secim_25_plus_s7_eng_logistic_1_6 = "• Logistics Content Designer: You can design visual and written content, create infographics, advertising materials and digital content to promote logistics processes and transportation services.";
 var kariyer_secim_25_plus_s7_eng_logistic_1_7 = "";
 
 var kariyer_secim_25_plus_s7_eng_logistic_2_1 = "Leadership and Management Careers";
 var kariyer_secim_25_plus_s7_eng_logistic_2_2 = "Jobs in the logistics and transportation industry where you can use your leadership and management skills include:";
 var kariyer_secim_25_plus_s7_eng_logistic_2_3 = "• Logistics Manager: You can manage every stage of the supply chain and optimize storage, transportation, inventory control and distribution processes.";
-var kariyer_secim_25_plus_s7_eng_logistic_2_4 = "• Transportation Manager: You can manage urban transportation networks, ensure the efficient and timely operation of buses, trains and other transportation vehicles, and develop transportation solutions.";
-var kariyer_secim_25_plus_s7_eng_logistic_2_5 = "• Supply Chain Manager: By controlling all processes in the supply chain, you can increase the efficiency of logistics processes and manage supplier relations.";
-var kariyer_secim_25_plus_s7_eng_logistic_2_6 = "• Logistics Operations Director: You can improve logistics and transportation processes, determine management strategies and ensure the smooth operation of operations.";
+var kariyer_secim_25_plus_s7_eng_logistic_2_4 = "• Supply Chain Manager: By controlling all processes in the supply chain, you can increase the efficiency of logistics processes and manage supplier relations.";
+var kariyer_secim_25_plus_s7_eng_logistic_2_5 = "• Logistics Operations Director: You can improve logistics and transportation processes, determine management strategies and ensure the smooth operation of operations.";
+var kariyer_secim_25_plus_s7_eng_logistic_2_6 = "• Transportation Manager: You can manage urban transportation networks, ensure the efficient and timely operation of buses, trains and other transportation vehicles, and develop transportation solutions.";
 var kariyer_secim_25_plus_s7_eng_logistic_2_7 = "";
 
 var kariyer_secim_25_plus_s7_eng_logistic_3_1 = "Charity & Social Careers";
 var kariyer_secim_25_plus_s7_eng_logistic_3_2 = "Jobs in the logistics and transportation sector where you can use your social and benevolent sides can be:";
 var kariyer_secim_25_plus_s7_eng_logistic_3_3 = "• Transportation Services Coordinator: You can develop solutions to eliminate the obstacles faced by people with disabilities in urban transportation.";
-var kariyer_secim_25_plus_s7_eng_logistic_3_4 = "• Eco-Friendly Transportation Coordinator: You can create sustainable transportation solutions and promote environmentally friendly transportation with electric vehicles, bicycle paths, and green transportation projects.";
-var kariyer_secim_25_plus_s7_eng_logistic_3_5 = "• Public Transport Development Consultant: You can develop suggestions and offer innovative solutions for the improvement of public transportation systems in cities.";
-var kariyer_secim_25_plus_s7_eng_logistic_3_6 = "• Logistics and Transportation Trainer: You can train employees in the field of logistics and transportation about new technologies, regulations or efficient transportation strategies.";
+var kariyer_secim_25_plus_s7_eng_logistic_3_4 = "• Public Transport Development Consultant: You can develop suggestions and offer innovative solutions for the improvement of public transportation systems in cities.";
+var kariyer_secim_25_plus_s7_eng_logistic_3_5 = "• Logistics and Transportation Trainer: You can train employees in the field of logistics and transportation about new technologies, regulations or efficient transportation strategies.";
+var kariyer_secim_25_plus_s7_eng_logistic_3_6 = "• Eco-Friendly Transportation Coordinator: You can create sustainable transportation solutions and promote environmentally friendly transportation with electric vehicles, bicycle paths, and green transportation projects.";
 var kariyer_secim_25_plus_s7_eng_logistic_3_7 = "";
 
 var kariyer_secim_25_plus_s7_eng_logistic_4_1 = "Technical and Engineering Careers";
 var kariyer_secim_25_plus_s7_eng_logistic_4_2 = "Jobs in the logistics and transportation industry where you can use your technical and engineering skills include:";
 var kariyer_secim_25_plus_s7_eng_logistic_4_3 = "• Logistics Technologies Developer: You can develop software to digitize logistics processes and design solutions such as smart storage, automatic transportation and tracking systems.";
-var kariyer_secim_25_plus_s7_eng_logistic_4_4 = "• Autonomous Vehicle Engineer: You can develop software and hardware for autonomous transport vehicles and robots, and increase the efficiency of automation solutions in the logistics industry.";
-var kariyer_secim_25_plus_s7_eng_logistic_4_5 = "• Intelligent Transportation Systems Engineer: You can develop intelligent traffic management systems that will improve urban transportation and create algorithms to optimize traffic flow.";
-var kariyer_secim_25_plus_s7_eng_logistic_4_6 = "• Logistics Infrastructure Engineer: You can develop engineering solutions for infrastructure projects such as storage areas, logistics centers, transportation roads.";
+var kariyer_secim_25_plus_s7_eng_logistic_4_4 = "• Intelligent Transportation Systems Engineer: You can develop intelligent traffic management systems that will improve urban transportation and create algorithms to optimize traffic flow.";
+var kariyer_secim_25_plus_s7_eng_logistic_4_5 = "• Logistics Infrastructure Engineer: You can develop engineering solutions for infrastructure projects such as storage areas, logistics centers, transportation roads.";
+var kariyer_secim_25_plus_s7_eng_logistic_4_6 = "• Autonomous Vehicle Engineer: You can develop software and hardware for autonomous transport vehicles and robots, and increase the efficiency of automation solutions in the logistics industry.";
 var kariyer_secim_25_plus_s7_eng_logistic_4_7 = "";
 
 var kariyer_secim_25_plus_s7_eng_logistic_5_1 = "Sales and Relationship Building Careers";
 var kariyer_secim_25_plus_s7_eng_logistic_5_2 = "Jobs in the logistics and transportation industry where you can use your sales and relationship management skills include:";
 var kariyer_secim_25_plus_s7_eng_logistic_5_3 = "• Logistics Sales Manager: You can manage the sales of companies that provide logistics services, and ensure growth in the sector by developing new customers and business opportunities.";
-var kariyer_secim_25_plus_s7_eng_logistic_5_4 = "• Transportation Solutions Sales Specialist: You can sell transportation systems and transportation solutions to companies or public organizations, and make suggestions to improve transportation infrastructure.";
-var kariyer_secim_25_plus_s7_eng_logistic_5_5 = "• Customer Relationship Manager: You can optimize logistics processes to increase customer satisfaction.";
-var kariyer_secim_25_plus_s7_eng_logistic_5_6 = "• Logistics Innovation and Sales Consultant: You can guide customers on new logistics solutions and technologies and introduce these solutions to institutions.";
+var kariyer_secim_25_plus_s7_eng_logistic_5_4 = "• Customer Relationship Manager: You can optimize logistics processes to increase customer satisfaction.";
+var kariyer_secim_25_plus_s7_eng_logistic_5_5 = "• Logistics Innovation and Sales Consultant: You can guide customers on new logistics solutions and technologies and introduce these solutions to institutions.";
+var kariyer_secim_25_plus_s7_eng_logistic_5_6 = "• Transportation Solutions Sales Specialist: You can sell transportation systems and transportation solutions to companies or public organizations, and make suggestions to improve transportation infrastructure.";
 var kariyer_secim_25_plus_s7_eng_logistic_5_7 = "";
 
 var kariyer_secim_25_plus_s7_eng_logistic_6_1 = "Organizational and Administrative Careers";
 var kariyer_secim_25_plus_s7_eng_logistic_6_2 = "Jobs in the logistics and transportation sector where you can use your organizational and administrative skills include:";
 var kariyer_secim_25_plus_s7_eng_logistic_6_3 = "• Logistics Operations Assistant: You can organize logistics operations and provide administrative support in processes such as shipment, delivery and inventory tracking.";
-var kariyer_secim_25_plus_s7_eng_logistic_6_4 = "• Transportation Planning Coordinator: You can plan transportation projects, optimize public transportation lines, route changes and administrative work on transportation infrastructure.";
-var kariyer_secim_25_plus_s7_eng_logistic_6_5 = "• Human Resources Specialist (Logistics): You can manage the recruitment of personnel and organize training and development processes in businesses in the logistics sector.";
-var kariyer_secim_25_plus_s7_eng_logistic_6_6 = "• Supply Chain Coordinator: You can increase efficiency by coordinating the tracking, transportation, and delivery of products in the supply chain.";
+var kariyer_secim_25_plus_s7_eng_logistic_6_4 = "• Human Resources Specialist (Logistics): You can manage the recruitment of personnel and organize training and development processes in businesses in the logistics sector.";
+var kariyer_secim_25_plus_s7_eng_logistic_6_5 = "• Supply Chain Coordinator: You can increase efficiency by coordinating the tracking, transportation, and delivery of products in the supply chain.";
+var kariyer_secim_25_plus_s7_eng_logistic_6_6 = "• Transportation Planning Coordinator: You can plan transportation projects, optimize public transportation lines, route changes and administrative work on transportation infrastructure.";
 var kariyer_secim_25_plus_s7_eng_logistic_6_7 = "";
 
 var kariyer_secim_25_plus_s7_eng_logistic_7_1 = "Innovative and Entrepreneurial Careers";
 var kariyer_secim_25_plus_s7_eng_logistic_7_2 = "Jobs in the logistics and transportation sector where you can use innovative thinking and entrepreneurial spirit can be:";
 var kariyer_secim_25_plus_s7_eng_logistic_7_3 = "• Logistics and Transportation Entrepreneur: You can develop new logistics solutions or transportation applications, and start a venture by bringing innovative approaches to traditional methods in the sector.";
 var kariyer_secim_25_plus_s7_eng_logistic_7_4 = "• Electric Vehicle Entrepreneur: You can develop charging infrastructures, battery solutions or sustainable transportation solutions for electric vehicles.";
-var kariyer_secim_25_plus_s7_eng_logistic_7_5 = "• Smart Transportation Entrepreneur: By establishing a venture on intelligent transportation systems, autonomous vehicles or traffic management technologies, you can develop solutions that make urban transportation more efficient.";
-var kariyer_secim_25_plus_s7_eng_logistic_7_6 = "• Logistics Digitalization Entrepreneur: You can establish a startup to transform the logistics industry with digital solutions and develop technologies that accelerate transportation and distribution processes.";
+var kariyer_secim_25_plus_s7_eng_logistic_7_5 = "• Logistics Digitalization Entrepreneur: You can establish a startup to transform the logistics industry with digital solutions and develop technologies that accelerate transportation and distribution processes.";
+var kariyer_secim_25_plus_s7_eng_logistic_7_6 = "• Smart Transportation Entrepreneur: By establishing a venture on intelligent transportation systems, autonomous vehicles or traffic management technologies, you can develop solutions that make urban transportation more efficient.";
 var kariyer_secim_25_plus_s7_eng_logistic_7_7 = "";
 
 var kariyer_secim_25_plus_s7_eng_logistic_8_1 = "Teaching and Mentoring Careers";
@@ -3507,8 +3505,8 @@ var kariyer_secim_25_plus_s7_eng_logistic_9_1 = "Analytics and Data-Driven Caree
 var kariyer_secim_25_plus_s7_eng_logistic_9_2 = "Jobs in the logistics and transportation industry where you can use analytical thinking and data skills include:";
 var kariyer_secim_25_plus_s7_eng_logistic_9_3 = "• Logistics Data Analyst: You can analyze the efficiency of logistics processes and develop data-based solutions to help optimize transportation and delivery processes.";
 var kariyer_secim_25_plus_s7_eng_logistic_9_4 = "• Transportation Performance Analyst: By analyzing urban transportation systems, you can develop data-driven recommendations that will improve traffic flow.";
-var kariyer_secim_25_plus_s7_eng_logistic_9_5 = "• Intelligent Transportation Data Analyst: By analyzing the data of intelligent transportation systems, you can optimize traffic management and make vehicle flow more efficient.";
-var kariyer_secim_25_plus_s7_eng_logistic_9_6 = "• Logistics Innovation Analyst: By analyzing innovative solutions in the logistics industry, you can contribute to the acceleration of digital transformation in the industry.";
+var kariyer_secim_25_plus_s7_eng_logistic_9_5 = "• Logistics Innovation Analyst: By analyzing innovative solutions in the logistics industry, you can contribute to the acceleration of digital transformation in the industry.";
+var kariyer_secim_25_plus_s7_eng_logistic_9_6 = "• Intelligent Transportation Data Analyst: By analyzing the data of intelligent transportation systems, you can optimize traffic management and make vehicle flow more efficient.";
 var kariyer_secim_25_plus_s7_eng_logistic_9_7 = "";
 
 //medya
@@ -3522,26 +3520,26 @@ var kariyer_secim_25_plus_s7_eng_media_1_7 = "";
 
 var kariyer_secim_25_plus_s7_eng_media_2_1 = "Leadership and Management Careers";
 var kariyer_secim_25_plus_s7_eng_media_2_2 = "";
-var kariyer_secim_25_plus_s7_eng_media_2_3 = "• Media Manager: You can undertake managerial tasks such as broadcasting content on TV, radio or digital media platforms, preparing content suitable for the audience and managing budgets.";
-var kariyer_secim_25_plus_s7_eng_media_2_4 = "• Journalism and Publishing Director: You can take part in tasks such as managing news content and journalists in media organs, and supervising editorial processes.";
-var kariyer_secim_25_plus_s7_eng_media_2_5 = "• Broadcast Program Manager: You can plan broadcast streams on TV, radio or digital media platforms and prepare the most suitable programs for your audience.";
-var kariyer_secim_25_plus_s7_eng_media_2_6 = "• Social Media Director: You can develop strategies for digital platforms, manage social media teams and strengthen your brand image.";
+var kariyer_secim_25_plus_s7_eng_media_2_3 = "• Journalism and Publishing Director: You can take part in tasks such as managing news content and journalists in media organs, and supervising editorial processes.";
+var kariyer_secim_25_plus_s7_eng_media_2_4 = "• Broadcast Program Manager: You can plan broadcast streams on TV, radio or digital media platforms and prepare the most suitable programs for your audience.";
+var kariyer_secim_25_plus_s7_eng_media_2_5 = "• Social Media Director: You can develop strategies for digital platforms, manage social media teams and strengthen your brand image.";
+var kariyer_secim_25_plus_s7_eng_media_2_6 = "• Media Manager: You can undertake managerial tasks such as broadcasting content on TV, radio or digital media platforms, preparing content suitable for the audience and managing budgets.";
 var kariyer_secim_25_plus_s7_eng_media_2_7 = "";
 
 var kariyer_secim_25_plus_s7_eng_media_3_1 = "Charity & Social Careers";
 var kariyer_secim_25_plus_s7_eng_media_3_2 = "";
-var kariyer_secim_25_plus_s7_eng_media_3_3 = "• Journalism Trainer: By providing training in the field of journalism, you can provide training to people who want to get a profession in the fields of written and visual media.";
-var kariyer_secim_25_plus_s7_eng_media_3_4 = "• Social Media Trainer: You can provide training to individuals and companies on social media strategies, content management, and online interaction.";
-var kariyer_secim_25_plus_s7_eng_media_3_5 = "• Media Ethics Consultant: You can guide media organizations in the production of content and news presentation in accordance with the ethical rules of the media.";
-var kariyer_secim_25_plus_s7_eng_media_3_6 = "• Public Relations Specialist (PR): For companies or individuals, you can communicate effectively with the media, manage your brand image, and improve relations with the media.";
+var kariyer_secim_25_plus_s7_eng_media_3_3 = "• Social Media Trainer: You can provide training to individuals and companies on social media strategies, content management, and online interaction.";
+var kariyer_secim_25_plus_s7_eng_media_3_4 = "• Media Ethics Consultant: You can guide media organizations in the production of content and news presentation in accordance with the ethical rules of the media.";
+var kariyer_secim_25_plus_s7_eng_media_3_5 = "• Public Relations Specialist (PR): For companies or individuals, you can communicate effectively with the media, manage your brand image, and improve relations with the media.";
+var kariyer_secim_25_plus_s7_eng_media_3_6 = "• Journalism Trainer: By providing training in the field of journalism, you can provide training to people who want to get a profession in the fields of written and visual media.";
 var kariyer_secim_25_plus_s7_eng_media_3_7 = "";
 
 var kariyer_secim_25_plus_s7_eng_media_4_1 = "Technical and Engineering Careers";
 var kariyer_secim_25_plus_s7_eng_media_4_2 = "";
-var kariyer_secim_25_plus_s7_eng_media_4_3 = "• Media Technologies Specialist: You can develop new technological tools and software for TV, radio, digital platforms or social media, and optimize the distribution of media content in the digital environment.";
-var kariyer_secim_25_plus_s7_eng_media_4_4 = "• Audio and Video Technician: In media productions, you can perform, edit and publish audio and video recording.";
-var kariyer_secim_25_plus_s7_eng_media_4_5 = "• Broadcast Engineer: You can create the technical infrastructure of TV and radio broadcasts, install and optimize broadcasting equipment.";
-var kariyer_secim_25_plus_s7_eng_media_4_6 = "• Digital Media Software Developer: You can develop media and content delivery systems, design applications for content management software and digital platforms.";
+var kariyer_secim_25_plus_s7_eng_media_4_3 = "• Audio and Video Technician: In media productions, you can perform, edit and publish audio and video recording.";
+var kariyer_secim_25_plus_s7_eng_media_4_4 = "• Broadcast Engineer: You can create the technical infrastructure of TV and radio broadcasts, install and optimize broadcasting equipment.";
+var kariyer_secim_25_plus_s7_eng_media_4_5 = "• Digital Media Software Developer: You can develop media and content delivery systems, design applications for content management software and digital platforms.";
+var kariyer_secim_25_plus_s7_eng_media_4_6 = "• Media Technologies Specialist: You can develop new technological tools and software for TV, radio, digital platforms or social media, and optimize the distribution of media content in the digital environment.";
 var kariyer_secim_25_plus_s7_eng_media_4_7 = "";
 
 var kariyer_secim_25_plus_s7_eng_media_5_1 = "Sales and Relationship Building Careers";
@@ -3556,8 +3554,8 @@ var kariyer_secim_25_plus_s7_eng_media_6_1 = "Organizational and Administrative 
 var kariyer_secim_25_plus_s7_eng_media_6_2 = "";
 var kariyer_secim_25_plus_s7_eng_media_6_3 = "• Broadcast Coordinator: You can coordinate broadcast processes, organize program flows, and ensure that media content is presented properly.";
 var kariyer_secim_25_plus_s7_eng_media_6_4 = "• Media Planning Specialist: You can decide when and how media content will be published, and organize content calendars.";
-var kariyer_secim_25_plus_s7_eng_media_6_5 = "• Editor: You can check whether the content of newspapers, magazines, blogs, news sites is correct in terms of language and meaning, and ensure that written materials are published correctly.";
-var kariyer_secim_25_plus_s7_eng_media_6_6 = "• Press Spokesperson: You can manage the relations of institutions with the media, convey the news and announcements of the company to the press, and manage the public image of the company.";
+var kariyer_secim_25_plus_s7_eng_media_6_5 = "• Press Spokesperson: You can manage the relations of institutions with the media, convey the news and announcements of the company to the press, and manage the public image of the company.";
+var kariyer_secim_25_plus_s7_eng_media_6_6 = "• Editor: You can check whether the content of newspapers, magazines, blogs, news sites is correct in terms of language and meaning, and ensure that written materials are published correctly.";
 var kariyer_secim_25_plus_s7_eng_media_6_7 = "";
 
 var kariyer_secim_25_plus_s7_eng_media_7_1 = "Innovative and Entrepreneurial Careers";
@@ -3579,9 +3577,9 @@ var kariyer_secim_25_plus_s7_eng_media_8_7 = "";
 var kariyer_secim_25_plus_s7_eng_media_9_1 = "Analytics and Data-Driven Careers";
 var kariyer_secim_25_plus_s7_eng_media_9_2 = "";
 var kariyer_secim_25_plus_s7_eng_media_9_3 = "• Media Analyst: You can analyze the viewership rates of media content, reader comments, and social media interactions, and provide data to improve media strategies.";
-var kariyer_secim_25_plus_s7_eng_media_9_4 = "• Audience and Listener Research Specialist: You can conduct target audience research for TV, radio or digital media platforms and use this data to improve your content and advertising strategies.";
-var kariyer_secim_25_plus_s7_eng_media_9_5 = "• Social Media Data Analyst: You can analyze content interactions, prepare reports for brand strategies, and offer data-driven solutions.";
-var kariyer_secim_25_plus_s7_eng_media_9_6 = "• Ad Performance Analyst: You can track the performance of published ads and create more efficient advertising strategies by analyzing interaction rates.";
+var kariyer_secim_25_plus_s7_eng_media_9_4 = "• Social Media Data Analyst: You can analyze content interactions, prepare reports for brand strategies, and offer data-driven solutions.";
+var kariyer_secim_25_plus_s7_eng_media_9_5 = "• Ad Performance Analyst: You can track the performance of published ads and create more efficient advertising strategies by analyzing interaction rates.";
+var kariyer_secim_25_plus_s7_eng_media_9_6 = "• Audience and Listener Research Specialist: You can conduct target audience research for TV, radio or digital media platforms and use this data to improve your content and advertising strategies.";
 var kariyer_secim_25_plus_s7_eng_media_9_7 = "";
 
 //other
@@ -3596,9 +3594,9 @@ var kariyer_secim_25_plus_s7_eng_other_1_7 = "";
 var kariyer_secim_25_plus_s7_eng_other_2_1 = "Leadership and Management Careers";
 var kariyer_secim_25_plus_s7_eng_other_2_2 = "";
 var kariyer_secim_25_plus_s7_eng_other_2_3 = "• Project Management: To be able to lead all kinds of projects that require advanced organization and management.";
-var kariyer_secim_25_plus_s7_eng_other_2_4 = "• Business Development and Strategy: Careers that will improve the growth strategies of companies and create new business opportunities.";
-var kariyer_secim_25_plus_s7_eng_other_2_5 = "• Management Consulting: Developing organizational change, management processes and strategy in various sectors.";
-var kariyer_secim_25_plus_s7_eng_other_2_6 = "• Organization Management: Managing operational processes by leading small and medium-sized enterprises.";
+var kariyer_secim_25_plus_s7_eng_other_2_4 = "• Management Consulting: Developing organizational change, management processes and strategy in various sectors.";
+var kariyer_secim_25_plus_s7_eng_other_2_5 = "• Organization Management: Managing operational processes by leading small and medium-sized enterprises.";
+var kariyer_secim_25_plus_s7_eng_other_2_6 = "• Business Development and Strategy: Careers that will improve the growth strategies of companies and create new business opportunities.";
 var kariyer_secim_25_plus_s7_eng_other_2_7 = "";
 
 var kariyer_secim_25_plus_s7_eng_other_3_1 = "Charity & Social Careers";
@@ -3628,9 +3626,9 @@ var kariyer_secim_25_plus_s7_eng_other_5_7 = "";
 var kariyer_secim_25_plus_s7_eng_other_6_1 = "Organizational and Administrative Careers";
 var kariyer_secim_25_plus_s7_eng_other_6_2 = "";
 var kariyer_secim_25_plus_s7_eng_other_6_3 = "• Office Management: Managing office operations in various industries, optimizing the workflows of employees.";
-var kariyer_secim_25_plus_s7_eng_other_6_4 = "• Administrative Support: To contribute to the efficient operation of organizations by providing administrative support to managers and teams.";
-var kariyer_secim_25_plus_s7_eng_other_6_5 = "• Data Management and Documentation: Organizing data flow, taking responsibility for managing and archiving documents.";
-var kariyer_secim_25_plus_s7_eng_other_6_6 = "• Human Resources Management: Managing personnel processes in organizations, ensuring employee satisfaction.";
+var kariyer_secim_25_plus_s7_eng_other_6_4 = "• Data Management and Documentation: Organizing data flow, taking responsibility for managing and archiving documents.";
+var kariyer_secim_25_plus_s7_eng_other_6_5 = "• Human Resources Management: Managing personnel processes in organizations, ensuring employee satisfaction.";
+var kariyer_secim_25_plus_s7_eng_other_6_6 = "• Administrative Support: To contribute to the efficient operation of organizations by providing administrative support to managers and teams.";
 var kariyer_secim_25_plus_s7_eng_other_6_7 = "";
 
 var kariyer_secim_25_plus_s7_eng_other_7_1 = "Innovative and Entrepreneurial Careers";
@@ -3645,16 +3643,16 @@ var kariyer_secim_25_plus_s7_eng_other_8_1 = "Teaching and Mentoring Careers";
 var kariyer_secim_25_plus_s7_eng_other_8_2 = "";
 var kariyer_secim_25_plus_s7_eng_other_8_3 = "• Educational Coaching: Managing training processes for students, employees or entrepreneurs and supporting their development.";
 var kariyer_secim_25_plus_s7_eng_other_8_4 = "• Career Coaching: To guide individuals in their career journeys and to enable them to reach their goals.";
-var kariyer_secim_25_plus_s7_eng_other_8_5 = "• Personal Development Trainer: To provide trainings for individuals to develop their personal skills and discover their potential.";
-var kariyer_secim_25_plus_s7_eng_other_8_6 = "• Mentoring: Supporting others in their professional development to advance them in their careers.";
+var kariyer_secim_25_plus_s7_eng_other_8_5 = "• Mentoring: Supporting others in their professional development to advance them in their careers.";
+var kariyer_secim_25_plus_s7_eng_other_8_6 = "• Personal Development Trainer: To provide trainings for individuals to develop their personal skills and discover their potential.";
 var kariyer_secim_25_plus_s7_eng_other_8_7 = "";
 
 var kariyer_secim_25_plus_s7_eng_other_9_1 = "Analytics and Data-Driven Careers";
 var kariyer_secim_25_plus_s7_eng_other_9_2 = "";
 var kariyer_secim_25_plus_s7_eng_other_9_3 = "• Data Scientist: Analyzing data to generate insights for organizations to help them make strategic decisions.";
-var kariyer_secim_25_plus_s7_eng_other_9_4 = "• Business Intelligence Analyst: Optimizing decision-making processes by providing companies with analysis on market trends, sales performance, and operational efficiency.";
-var kariyer_secim_25_plus_s7_eng_other_9_5 = "• Statistical Analysis and Modeling: To provide solutions to organizations to improve business processes by analyzing data sets.";
-var kariyer_secim_25_plus_s7_eng_other_9_6 = "• Risk Analyst: Creating strategic risk management plans by analyzing the risks faced by organizations.";
+var kariyer_secim_25_plus_s7_eng_other_9_4 = "• Statistical Analysis and Modeling: To provide solutions to organizations to improve business processes by analyzing data sets.";
+var kariyer_secim_25_plus_s7_eng_other_9_5 = "• Risk Analyst: Creating strategic risk management plans by analyzing the risks faced by organizations.";
+var kariyer_secim_25_plus_s7_eng_other_9_6 = "• Business Intelligence Analyst: Optimizing decision-making processes by providing companies with analysis on market trends, sales performance, and operational efficiency.";
 var kariyer_secim_25_plus_s7_eng_other_9_7 = "";
 
 
