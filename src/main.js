@@ -2901,7 +2901,7 @@ var kariyer_secim_25_plus_s7_eng_auto_6_5 = "• Inventory Management Specialist
 var kariyer_secim_25_plus_s7_eng_auto_6_6 = "• Sales Operations Manager: Oversee the operational details of vehicle sales processes, coordinating communication between dealers and distributors.";
 var kariyer_secim_25_plus_s7_eng_auto_6_7 = "• Logistics and Distribution Specialist: Organize logistics processes to ensure that manufactured vehicles are delivered to dealerships or distributors on time6";
 
-var kariyer_secim_25_plus_s7_eng_auto_7_2 = "Innovative and Entrepreneurial Careers";
+var kariyer_secim_25_plus_s7_eng_auto_7_1 = "Innovative and Entrepreneurial Careers";
 var kariyer_secim_25_plus_s7_eng_auto_7_2 = "Automotive Industry";
 var kariyer_secim_25_plus_s7_eng_auto_7_3 = "• Electric Vehicle Entrepreneur: Start a venture focused on electric car production or developing charging infrastructure.";
 var kariyer_secim_25_plus_s7_eng_auto_7_4 = "• Automotive Technology Entrepreneur: Launch a business offering innovative solutions for autonomous driving, artificial intelligence, or connected vehicle technologies.";
@@ -14469,7 +14469,7 @@ var decision_strategy_eng_ozet_11_2 = "Your decision-making process requires a d
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Analitik ve Veri Odaklı Kariyerler") {
           return kariyer_secim_25_plus_s7_eng_edTech_9_2;
         }
-      } else if (type == "s7_edTech_x_3") {eng_
+      } else if (type == "s7_edTech_x_3") {
         if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yaratıcı ve Sanatsal Kariyerler") {
           return kariyer_secim_25_plus_s7_eng_edTech_1_3;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Liderlik ve Yönetim Kariyerleri") {
