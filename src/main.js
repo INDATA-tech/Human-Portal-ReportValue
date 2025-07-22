@@ -14849,7 +14849,7 @@ var decision_strategy_eng_ozet_11_2 = "Your decision-making process requires a d
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Analitik ve Veri Odaklı Kariyerler") {
           return kariyer_secim_25_plus_s7_eng_energy_9_7;
         }
-      } else if (type == "s7_mentor_x_1") {eng_
+      } else if (type == "s7_mentor_x_1") {
         if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yaratıcı ve Sanatsal Kariyerler") {
           return kariyer_secim_25_plus_s7_eng_mentor_1_1;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Liderlik ve Yönetim Kariyerleri") {
