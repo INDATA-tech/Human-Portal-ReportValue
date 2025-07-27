@@ -14588,7 +14588,7 @@ var decision_strategy_eng_ozet_11_2 = "Your decision-making process requires a d
           return kariyer_secim_25_plus_s7_eng_edTech_4_2;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Satış ve İlişki Kurma Kariyerleri") {
           return kariyer_secim_25_plus_s7_eng_edTech_5_2;
-        } else if (careerSelectionData.fineng_d((x) => x.id == kariyer_secimData.id).name == "Organizasyonel ve İdari Kariyerler") {
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Organizasyonel ve İdari Kariyerler") {
           return kariyer_secim_25_plus_s7_eng_edTech_6_2;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yenilikçi ve Girişimci Kariyerler") {
           return kariyer_secim_25_plus_s7_eng_edTech_7_2;
@@ -14624,7 +14624,7 @@ var decision_strategy_eng_ozet_11_2 = "Your decision-making process requires a d
           return kariyer_secim_25_plus_s7_eng_edTech_2_4;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yardım ve Sosyal Kariyerler") {
           return kariyer_secim_25_plus_s7_eng_edTech_3_4;
-        } else if (careerSelectionData.fineng_d((x) => x.id == kariyer_secimData.id).name == "Teknik ve Mühendislik Kariyerleri") {
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Teknik ve Mühendislik Kariyerleri") {
           return kariyer_secim_25_plus_s7_eng_edTech_4_4;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Satış ve İlişki Kurma Kariyerleri") {
           return kariyer_secim_25_plus_s7_eng_edTech_5_4;
@@ -14650,7 +14650,7 @@ var decision_strategy_eng_ozet_11_2 = "Your decision-making process requires a d
           return kariyer_secim_25_plus_s7_eng_edTech_5_5;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Organizasyonel ve İdari Kariyerler") {
           return kariyer_secim_25_plus_s7_eng_edTech_6_5;
-        } else if (careerSelectionData.fineng_d((x) => x.id == kariyer_secimData.id).name == "Yenilikçi ve Girişimci Kariyerler") {
+        } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Yenilikçi ve Girişimci Kariyerler") {
           return kariyer_secim_25_plus_s7_eng_edTech_7_5;
         } else if (careerSelectionData.find((x) => x.id == kariyer_secimData.id).name == "Öğretim ve Mentorluk Kariyerleri") {
           return kariyer_secim_25_plus_s7_eng_edTech_8_5;
