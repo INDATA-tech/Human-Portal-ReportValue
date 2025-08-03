@@ -75,7 +75,7 @@ export default async ({ req, res, log, error }) => {
       return "edTech";
     else if (sektorName == "Finance and FinTech")
       return "finTech";
-    else if (sektorName == "Energy and Reneweable Energy")
+    else if (sektorName == "Energy and Renewable Energy")
       return "energy";
     else if (sektorName == "Consulting, Coaching and Mentorship")
       return "mentor";
