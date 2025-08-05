@@ -3116,7 +3116,7 @@ var kariyer_secim_25_plus_s7_eng_finTech_6_1 = "Organizational and Administrativ
 var kariyer_secim_25_plus_s7_eng_finTech_6_2 = "Jobs in the Finance and FinTech sector where you can use your organizational and administrative skills include:";
 var kariyer_secim_25_plus_s7_eng_finTech_6_3 = "• Financial Operations Manager: By organizing the day-to-day operation of financial transactions, you can ensure that digital financial solutions work properly.";
 var kariyer_secim_25_plus_s7_eng_finTech_6_4 = "• Financial Advisory Assistant: You can follow the business processes of financial advisors, organize and analyze financial information about customers.";
-var kariyer_secim_25_plus_s7_eng_finTech_6_5 = "• Human Resources Specialist (FinTech): In FinTech companies, you can organize processes such as personnel recruitment, employee training and performance management.";
+var kariyer_secim_25_plus_s7_eng_finTech_6_5 = "• Human Resources Specialist (FinTech): You can organize processes such as personnel recruitment, employee training and performance management.";
 var kariyer_secim_25_plus_s7_eng_finTech_6_6 = "• Financial Administrative Assistant: By taking part in the inner workings of financial institutions, you can work as an executive assistant and undertake daily administrative tasks.";
 var kariyer_secim_25_plus_s7_eng_finTech_6_7 = "";
 
@@ -4994,7 +4994,7 @@ var ai_12_eng_s4u2_7_2 = "• What are my ethical responsibilities when using AI
 
 var ai_12_eng_s3_8_1 = "Emotional Awareness and Communication";
 var ai_12_eng_s3_8_2 = "• Empathy: Understanding people's emotions helps you build strong relationships.\n\n• Coping with Stress: Keeping up with rapidly changing conditions in the digital world can sometimes create stress. Being able to cope with this stress keeps you healthier.";
-var ai_12_eng_s4u1_8_2 = "• How can you use your empathy skills? How can you develop this skill to better understand the needs of your colleagues or customers? How can you use it in leadership or management positions?\n\n•  How can you cope with stress? How can you improve your stress management skills so that you can succeed in challenging projects? How can you develop this skill over the course of your career?";
+var ai_12_eng_s4u1_8_2 = "• How can you cope with stress? How can you improve your stress management skills so that you can succeed in challenging projects? How can you develop this skill over the course of your career?\n\n• How can you use your empathy skills? How can you develop this skill to better understand the needs of your colleagues or customers? How can you use it in leadership or management positions?";
 var ai_12_eng_s4u2_8_2 = "• How much do I care about my human relationships when working with artificial intelligence and technology? How can I improve my empathy?\n\n• How much do I use my emotional intelligence in tech projects? What can I do to be more empathetic at work?\n\n• How do I deal with the stress of continuous learning in the AI and digital world? What are my strategies for coping with stress?\n\n• How do I relax myself in challenging projects? What skills should I develop in stress management?";
 
 var ai_12_eng_s3_9_1 = "Creative Thinking and Entrepreneurship";
