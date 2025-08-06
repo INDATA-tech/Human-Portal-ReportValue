@@ -19385,14 +19385,48 @@ var decision_strategy_eng_ozet_11_2 = "Your decision-making process requires a d
 
   var nameSurname = Object.entries(rawData).find((x) => x[0] == "kisiselbilgi / isim")[1] + " " + Object.entries(rawData).find((x) => x[0] == "kisiselbilgi / soyisim")[1];
   var cinsiyet =  Object.entries(rawData).find((x) => x[0] == "kisiselbilgi / cinsiyet")[1]
-  var dogumTarihi = Object.entries(rawData).find((x) => x[0] == "kisiselbilgi / tarih-saat")[1];
+  var dogumTarihiStr = Object.entries(rawData).find((x) => x[0] == "kisiselbilgi / tarih-saat")[1];
 
-  var year = parseInt(dogumTarihi.split(" ")[2]);
-  if (isNaN(year)) {
-     var year = parseInt(dogumTarihi.split("-")[0]);
-   }
- 
-  var age = new Date().getFullYear() - year;
+  // Türkçe tarih formatını Date nesnesine çevirmek için önce parse edelim
+  function parseTurkishDate(str) {
+      // Örnek: "14 Mayıs 1971 07:30"
+      const aylar = {
+          "Ocak": 0, "Şubat": 1, "Mart": 2, "Nisan": 3, "Mayıs": 4, "Haziran": 5,
+          "Temmuz": 6, "Ağustos": 7, "Eylül": 8, "Ekim": 9, "Kasım": 10, "Aralık": 11
+      };
+
+      const parts = str.split(" ");
+      const gun = parseInt(parts[0]);
+      const ay = aylar[parts[1]];
+      const yil = parseInt(parts[2]);
+
+      let saat = 0, dakika = 0;
+      if (parts[3]) {
+          const timeParts = parts[3].split(":");
+          saat = parseInt(timeParts[0]);
+          dakika = parseInt(timeParts[1]);
+      }
+
+      return new Date(yil, ay, gun, saat, dakika);
+  }
+
+  var dogumTarihi = parseTurkishDate(dogumTarihiStr);
+
+  var bugun = new Date();
+
+  // Yaşı tam olarak gün-ay-yıl'a göre hesapla
+  var age = bugun.getFullYear() - dogumTarihi.getFullYear();
+
+  var hasntHadBirthdayThisYear =
+      bugun.getMonth() < dogumTarihi.getMonth() ||
+      (bugun.getMonth() === dogumTarihi.getMonth() && bugun.getDate() < dogumTarihi.getDate());
+
+  if (hasntHadBirthdayThisYear) {
+      age--;
+  }
+
+  console.log("Yaş:", age);
+
   var language = Object.entries(rawData).find((x) => x[0] == "Lang")[1];
 
   if (language == "Tr") { //ortak kullanılan değişkenler burada
