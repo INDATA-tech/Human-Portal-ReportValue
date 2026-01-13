@@ -1325,16 +1325,27 @@ export default async ({ req, res, log, error }) => {
    * @param {string} lang - Language ("Tr" or "En")
    * @returns {string|undefined} The translated content
    */
-  let decision_strategy = (decisionStrategyData, age, type, lang) => {
-    const comboKey = `${decisionStrategyData.strategy}|${decisionStrategyData.innerAuthority}`;
-    const index = decisionStrategyIndexMap[comboKey];
-    if (!index) return undefined;
 
+  let decision_strategy = (decisionStrategyData, age, type, lang) => {
+    const strategy = decisionStrategyData.strategy;
+    const authority = decisionStrategyData.innerAuthority;
+    // Direkt eşleşme
+    let comboKey = `${strategy}|${authority}`;
+    let index = decisionStrategyIndexMap[comboKey];
+    if (index) {
+      return index; // bulunduysa direkt dön
+    }
+    // Ego fallback (Ego Projected / Ego Manifested vb.)
+    if (authority === "Ego") {
+      const egoKey = Object.keys(decisionStrategyIndexMap)
+        .find(k => k.startsWith(`${strategy}|Ego`));
+      if (egoKey) {
+        index = decisionStrategyIndexMap[egoKey];
+      }
+    }
     const typeConfig = decisionStrategyTypeMap[type];
     if (!typeConfig) return undefined;
-
     let key;
-
     if (type === "image") {
       // Image: image_karar_verme_stratejileri_{index}
       key = `image_karar_verme_stratejileri_${index}`;
@@ -1345,10 +1356,8 @@ export default async ({ req, res, log, error }) => {
       // Others: decision_strategy_{section}_{index}{suffix}
       key = `decision_strategy_${typeConfig.section}_${index}${typeConfig.suffix}`;
     }
-
     const translation = translations[key];
     if (!translation) return undefined;
-
     if (lang === "Tr") return translation.tr;
     if (lang === "En") return translation.en;
     if (lang === "De") return translation.de;
