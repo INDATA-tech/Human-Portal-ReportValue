@@ -63,7 +63,7 @@ export default async ({ req, res, log, error }) => {
       return "tech";
     else if (sektorName == "Retail")
       return "retail";
-    else if (sektorName == "Fashion and Ready-To-2ear")
+    else if (sektorName == "Fashion and Ready-To-Wear")
       return "dress";
     else if (sektorName == "Automotive")
       return "auto";
@@ -109,12 +109,12 @@ export default async ({ req, res, log, error }) => {
     return siraliGates;
   }
 
-   const client = new Client()
-      .setEndpoint("https://appwrite.anahtarsensin.com/v1")
-      .setProject("664d9d3100058da52135") //process.env.APPWRITE_FUNCTION_PROJECT_ID)
-      .setKey(
-        "a3c118df4b071221a3555380fb0f32fc6e96734088f1d2fe05f9356c2299b90379d97a0e86f46677bfbbc587130cb32ae73f4e4e76880270e29d4dafd6fd734a21e8b66ed5c8436ea1784cb497d4dd33ca25978d34acd1259d3b81e1422f3e25b6c8c4a9b95bf30460bc095712e78ab452373464335be65c27a5068f02fbf805",
-      ); //process.env.APPWRITE_API_KEY)
+    const client = new Client() // PORTAL
+    .setEndpoint("https://appwrite.anahtarsensin.com/v1")
+    .setProject("665474aa001cd7ecbebd") //process.env.APPWRITE_FUNCTION_PROJECT_ID)
+    .setKey(
+      "c4aa87b551e3aa52c257f74c13a80f6d2bdc6d9e3ef0c7696d05fd4241956e94915f2746aaabe9311f04ef10c0571b0503c3e6ad60f0323a440a660d1beb5d5716157030bd25a7478fcbec0835083eb2b09c313df0c9ce56c334c01e7dbea72522d6783d93bb935a6be15ca4efb8e76f4e9aa965dd6589c92ce74d455bff382e",
+    ); //process.env.APPWRITE_API_KEY)
     var database = new Databases(client);
     var answers = await database.getDocument(
       "65dc57b1e8322b0426ae",
@@ -122,7 +122,7 @@ export default async ({ req, res, log, error }) => {
       String(req),
     );
 
-    // const client = new Client()
+    // const client = new Client() //PLATFORM
     //   .setEndpoint("https://appwrite.careerpathkey.com/v1")
     //   .setProject("665474aa001cd7ecbebd") //process.env.APPWRITE_FUNCTION_PROJECT_ID)
     //   .setKey(
@@ -174,170 +174,6 @@ export default async ({ req, res, log, error }) => {
   hollandData.sort((a, b) => b.value - a.value);
   big5Data.sort((a, b) => b.value - a.value);
 
-  var type = [
-    {
-      name: "Manifesting Generator",
-      value: `İş dünyasında ve kariyerinde kendine has ve benzersiz bir enerjin var. İşleri halletmede, bir şeyler inşa etmede ve büyütmede harikasın. Enerjini yapmayı sevdiğin işlere kullandıktan sonra başını yastığa koyduğunda bir bebek gibi uyuyabilirsin. \n\nHayatta ve işte tatmininin anahtarı sadece çok çalışmak değil, enerjini nasıl etkili ve verimli kullandığın. Yaptığın iş refahın ve esenliğin için çok önemli. İçinde harekete geçmene ve bir şeyler yaratmana yardımcı olan güçlü bir enerji kaynağın var. \n\nBirçoğumuz bir şeyleri başlatmamız gerektiğine inandırılarak büyüdük, senin dikkatli olman gereken konu başlamak ya da başlatmak zorunda olmadığını bilmek. Gücün, içgüdülerine dayanarak hayata cevap vermekte ve doğru ipuçlarını beklemekte yatıyor. \n\nİçgüdülerine ne kadar güvenir ve doğru anı beklersen, hayatın o kadar tatmin edici ve keyifli hale gelir. Kendini bir mıknatıs gibi düşünebilirsin, enerjinin fırsatları doğal olarak sana çektiğini gözlemleyebilirsin. \n\nGelecek için endişelenmene gerek yok; eforsuz ve doğal olan yolun, şu anda hayatın sunduklarına cevap verdiğinde kendini gösterecektir. Enerjin, hayatın sana getirdiklerine cevap vermek aracılığıyla taahhüt ettiğin şeyde ustalaşmana yardımcı olmak için burada. Doğru yolda olduğunun işareti, işlerin doğal olarak yerine oturmaya başlaması ve içinde bir tatmin hissidir. \n\nÇok büyük bir enerjin olduğu için seni gerçekten ilgilendirmeyen veya seni tatmin etmeyen şeylere evet dememeye ve bağlanmamaya dikkat etmelisin. Gücün, en başından itibaren hangi işe ya da kişiye bağlanacağını bilmekte yatar. İç pusulan içgüdülerin aracılığıyla seninle iletişim kurar. Hayatı doğru yaşamak için stratejin hayatın sana getirmesini beklemek ve gelene cevap vermektir. Bu tepkilere uyum sağladığında, gerçek potansiyelini ortaya çıkartacak kararları verebilirsin. \n\nİş yaşamın boyunca engellerle karşılaşabilirsin. İş yaşamında bir çalışan olduğunu ve bir köle olmadığını unutma. Önce içgüdülerini dinle ve başkalarının ne yapman gerektiğini dikte etmesine izin verme. Sen monoton bir rutin için yaratılmadın. Tek yapman gereken hayatın sana getirdiklerine yanıt vermek ve böylece senin için doğru ve tatmin dolu olacak kariyer yolun kendini gösterecek. Üretmeye, inşa etmeye devam et ve inanılmaz enerjine her zaman güven. \n\nHayat tatmini için benimseyeceğin slogan: Yaptığın işi sev ve sevdiğin işi yap!`,
-      images: [
-        "https://appwrite.indata.com.tr/v1/storage/buckets/images/files/generatork/view?project=65dc554eb069bed83c59",
-        "https://appwrite.indata.com.tr/v1/storage/buckets/images/files/generatore/view?project=65dc554eb069bed83c59",
-      ],
-    },
-    {
-      name: "Generator",
-      value: `İş dünyasında ve kariyerinde kendine has ve benzersiz bir enerjin var. İşleri halletmede, bir şeyler inşa etmede ve büyütmede harikasın. Enerjini yapmayı sevdiğin işlere kullandıktan sonra başını yastığa koyduğunda bir bebek gibi uyuyabilirsin. \n\nHayatta ve işte tatmininin anahtarı sadece çok çalışmak değil, enerjini nasıl etkili ve verimli kullandığın. Yaptığın iş refahın ve esenliğin için çok önemli. İçinde harekete geçmene ve bir şeyler yaratmana yardımcı olan güçlü bir enerji kaynağın var. \n\nBirçoğumuz bir şeyleri başlatmamız gerektiğine inandırılarak büyüdük, senin dikkatli olman gereken konu başlamak ya da başlatmak zorunda olmadığını bilmek. Gücün, içgüdülerine dayanarak hayata cevap vermekte ve doğru ipuçlarını beklemekte yatıyor. \n\nİçgüdülerine ne kadar güvenir ve doğru anı beklersen, hayatın o kadar tatmin edici ve keyifli hale gelir. Kendini bir mıknatıs gibi düşünebilirsin, enerjinin fırsatları doğal olarak sana çektiğini gözlemleyebilirsin. \n\nGelecek için endişelenmene gerek yok; eforsuz ve doğal olan yolun, şu anda hayatın sunduklarına cevap verdiğinde kendini gösterecektir. Enerjin, hayatın sana getirdiklerine cevap vermek aracılığıyla taahhüt ettiğin şeyde ustalaşmana yardımcı olmak için burada. Doğru yolda olduğunun işareti, işlerin doğal olarak yerine oturmaya başlaması ve içinde bir tatmin hissidir. \n\nÇok büyük bir enerjin olduğu için seni gerçekten ilgilendirmeyen veya seni tatmin etmeyen şeylere evet dememeye ve bağlanmamaya dikkat etmelisin. Gücün, en başından itibaren hangi işe ya da kişiye bağlanacağını bilmekte yatar. İç pusulan içgüdülerin aracılığıyla seninle iletişim kurar. Hayatı doğru yaşamak için stratejin hayatın sana getirmesini beklemek ve gelene cevap vermektir. Bu tepkilere uyum sağladığında, gerçek potansiyelini ortaya çıkartacak kararları verebilirsin. \n\nİş yaşamın boyunca engellerle karşılaşabilirsin. İş yaşamında bir çalışan olduğunu ve bir köle olmadığını unutma. Önce içgüdülerini dinle ve başkalarının ne yapman gerektiğini dikte etmesine izin verme. Sen monoton bir rutin için yaratılmadın. Tek yapman gereken hayatın sana getirdiklerine yanıt vermek ve böylece senin için doğru ve tatmin dolu olacak kariyer yolun kendini gösterecek. Üretmeye, inşa etmeye devam et ve inanılmaz enerjine her zaman güven. \n\nHayat tatmini için benimseyeceğin slogan: Yaptığın işi sev ve sevdiğin işi yap!`,
-      images: [
-        "https://appwrite.indata.com.tr/v1/storage/buckets/images/files/generatork/view?project=65dc554eb069bed83c59",
-        "https://appwrite.indata.com.tr/v1/storage/buckets/images/files/generatore/view?project=65dc554eb069bed83c59",
-      ],
-    },
-    {
-      name: "Projector",
-      value: `Kariyer ve liderlik dünyasındaki yolculuğun benzersiz. Çevrendekiler yeteneklerini fark ettiğinde, bireyleri, grupları ve sistemleri organize etmeyi ve yönetmeyi içeren rollerde gerçekten parlarsın. Uyumlu bir sonuç için tüm unsurları yöneten bir orkestranın şefi gibisin. \n\nKariyerinde yetenekli bir organizatör, yönetici, ağ oluşturucu veya arabulucu olma potansiyeline sahipsin. Rolün, enerji kaynaklarını en verimli şekilde kullanmak için diğerlerine rehberlik etmek etrafında döner. Enerjiyi verimli bir şekilde anlama ve yönetme konusunda mükemmelsin ve bu beceri sende doğal olarak var. \n\nDoğuştan gelen yeteneklerinden biri, başkalarındaki potansiyeli tanımak. Bu, yetenekleri tespit edebileceğin ve onları doğru görevler ve projelerle eşleştirebileceğin için seni modern dünya için ideal bir lider ve rehber yapar. Enerji dinamiklerine dikkat etmen çok önemli. Çevrendekilerin enerjilerinden beslenir ve bu enerjiyi katlayarak büyütebilirsin. Enerjin iyi yönetilmezse, ileriki yaşlarda tükenmişliğe ve bitkinliğe yol açabilir. Durmayı bilmek ve dinlenmek sağlığını korumak için çok önemli. \n\nTanınmayı ve doğru davetleri beklemek, başarının anahtarıdır.  Enerjini ve bilgeliğini en anlamlı ve etkili şekilde yönlendirmeni sağlar. Yalnızca yolunla gerçekten rezonansa giren davetleri kabul etme konusunda seçici ol. Bu süreçte sana rehberlik etmesi için sezgilerine güven. \n\nİnsanları ve fırsatları doğal olarak sana çeken benzersiz bir varlığın var. Auran açıklık ve odaklanmayı yansıtır. Her seferinde bir kişiye odaklanma yeteneğin, son derece kişisel ve anlamlı etkileşimler yaratır. \n\nBecerilerin, yeteneklerin ve dünyayı benzersiz algılama şeklinle tanındığında ve doğru davetleri aldığında, gerçek potansiyelini gerçekleştirme yolundasın demektir. Senin için başarı, zekanı ve bilgeliğini gerçekten takdir eden ve kabul eden doğru insanları ve fırsatları seçmekle ilgili. Çevrendekiler için bilge ve zeki bir rehber olabilirsin.`,
-      images: [
-        "https://appwrite.indata.com.tr/v1/storage/buckets/images/files/projector/view?project=65dc554eb069bed83c59",
-        "https://appwrite.indata.com.tr/v1/storage/buckets/images/files/projector/view?project=65dc554eb069bed83c59",
-      ],
-    },
-    {
-      name: "Reflector",
-      value: `Doğru ortamda, insanların, toplulukların ve işletmelerin objektif bir değerlendirmesini sağlayan bir kişi olarak parlayabilirsin. Bakış açın tamamen benzersiz ve ilerlemeyi veya dikkat edilmesi gereken alanları doğru bir şekilde değerlendirerek düşünmene ve genel bir bakış açısı kazanmana olanak tanır. \n\nBaşkalarını kabul etme, doğru gitmeyen şeyleri vurgulayarak onları işbirliğine, barışa ve eşitliğe doğru yönlendirme konusunda olağanüstü bir yeteneğe sahipsin. Bir işletmenin, topluluğun veya bir grubun merkezinde olduğunda, özgürce hareket ettiğinde ve işlerin bir bütün olarak nasıl yürüdüğünü yansıtmak için buradasın. \n\nÇevrendekilere çeşitliliği kucaklamanın önemini öğreterek özellikle etkili olabilirsin. \n\nVarlığın sessizlik, nezaket ve müdahaleci olmama ile tanımlanabilir. Çevreyi bir bütün olarak yansıtırsın ve diğerleri kim olduğunu tam olarak anlamakta zorlanabilir. Objektif bir bakış açısı sunarak etrafındaki her şeyi ve herkesi yansıtmak yeteneklerin arasında. \n\nKarar verirken acele etmemelisin. Önemli konularda önce bekle, düşünün ve güvendiğin kişiler ile konuyu konuş. Başkalarıyla etkileşim kurarken, yanlış ortamda olmak veya herkese uymaya çalışmak gibi tuzakların farkında ol. Başkalarına aşırı bağımlı olmaktan veya görünmez hissetmekten kaçın, gerçek benliğinden ödün verme. \n\nBir şeyleri başlatma, hayata geçirme veya olmaya zorlama dürtüsüne diren, çünkü bu başkalarında dirence neden olabilir ve hayal kırıklığına yol açabilir. Başkalarının korkularına, duygularına, stresine ve kaygılarına kapılmaktan kaçın. Etrafındakilerle sağlıklı bir mesafeyi her zaman koru ve acele etmekten veya karar vermek için baskı altında kalmaktan kaçın. Dünyaya benzersiz bir bakış açısı getirmede hayati bir rol oynamak için buradasın.`,
-      images: [
-        "https://appwrite.indata.com.tr/v1/storage/buckets/images/files/reflector/view?project=65dc554eb069bed83c59",
-        "https://appwrite.indata.com.tr/v1/storage/buckets/images/files/reflector/view?project=65dc554eb069bed83c59",
-      ],
-    },
-    {
-      name: "Manifestor",
-      value: `Benzersiz ve güçlü bir yeteneğe sahipsin - Çevrendeki bir çok kişiden farklı olarak, bir şeyleri başlatmak  için doğuştan gelen bir beceriye sahipsin. Rolün çok önemli, çünkü ilk adımı atmazsan, işler olması gerektiği gibi gelişmez. Kendi kendine yetebilirsin, bağımsız çalışmak ve hareket etmek için buradasın, yaptıklarınla başkalarını etkilersin. \n\nİlişkiler ve işler alanında da, başlatıcı rolünü oynarsın – ilk hamleyi yapan kişi sen olmalısın. Kendini sık sık geleceğe bakarken, başkalarının vizyonunu yakalamasını beklerken bulabilirsin. Çevrendekiler senin enerjini kapalı ve dışarı doğru kuvvetlice iten bir güç gibi algılayabilir. \n\nSenin için başarılı etkileşimlerin anahtarı, bir şeyler yapmak ve başlatmak için tasarlanmış biri olduğunu kabul etmekte yatar. Bununla birlikte, bu güç, başkalarını savunmaya geçirerek bilinçli veya bilinçsiz kontrol edilme korkusuyla birlikte gelir. Bunun üstesinden gelmek için, harekete geçmeden önce bilgilendirme sanatını öğrenmen çok önemlidir. \n\nHarekete geçmeden önce çevrendekileri bilgilendirdiğinde açık, verimli ve barışçıl bir iletişimin önünü açmış olursun. Bilgilendirmek sana doğal gelmese de, ustalaşmaya değer bir uygulamadır. \n\nBaşlatma gücün ile bilgilendirme sanatı arasındaki dengeyi anlamak ve uygulamak iş yaşamındaki başarının ve içsel huzurunun kaynağı olacaktır.`,
-      images: [
-        "https://appwrite.indata.com.tr/v1/storage/buckets/images/files/manifestor/view?project=65dc554eb069bed83c59",
-        "https://appwrite.indata.com.tr/v1/storage/buckets/images/files/manifestor/view?project=65dc554eb069bed83c59",
-      ],
-    },
-  ];
-  var definition = [
-    {
-      name: "herkes",
-      title: "",
-      value: `Bilgiyi öğrenmemizin, işlememizin ve bütünleştirmemiz herkes için farklıdır. Her stilin kendine özgü bir avantajı vardır.\nTarzını bildiğinizde ve kullandığında:\n- Öğrenme potansiyelini en üst düzeye çıkarabilir\n- Bilgiyi kendi hızınızda bütünleştirebilir\n- Doğal sürecinin benzersiz faydalarından yararlanabilirsin.\n- Bu aynı zamanda başkalarının öğrenme stillerine saygı duymanızı sağlar.\n\nTarzını bilmediğinde veya kullanmadığında:\n- Kendininkini fark etmeden başkalarının tarzlarının avantajlarını gördüğün için kendinizi çoğu zaman yetersiz hissedebilir veya senden daha hızlı veya daha yavaş çalışanlardan dolayı hayal kırıklığına uğrayabilirsin.`,
-    },
-    {
-      name: "No Definition",
-      title: "Objectif Çalışma Stili",
-      value: `Bilgiyi özümseme tarzın, Objektifdir. Bilgiyi yargılayıcı olmayan bir şekilde içeri alma ve iç görülerini objektif olarak paylaşma konusunda dikkate değer bir yetenek gösterirsin. Yaklaşımın, herhangi bir günde çevrenin kalitesini örneklemeyi, yansıtmayı ve değerlendirmeyi içerir ve bir topluluğun, grubun ve hatta daha geniş bir çevrenin fiziksel, psişik veya duygusal sağlığını nesnel olarak algılamana olanak tanır.\n\nUyumlanma yeteneğin yakın çevrenin ötesine uzanır, çevrendekiler ve tüm evrenden  bilgi toplamanı sağlar. Keskin bir algı, insanlığın içindeki adaletsizlikleri yansıtan özgünlüğü ayırt etmeni sağlar.\n\nAçık fikirliliğin, nesnel olarak değerlendirirken her şeyin senden geçmesine izin veren tanımlayıcı bir özelliktir. Bu perspektif genişliği seni, insan deneyiminin ve genel olarak dünyanın çeşitli boyutlarını kapsayan içgörüler sağlayabilen değerli bir gözlemci olarak konumlandırır.`,
-    },
-    {
-      name: "Single Definition",
-      title: "Tekil - Bireysel Çalışma Stili",
-      value: `Bilgileri Bağımsız olarak öğrenirsin.  Çalışma tarzın özerklik için uyarlanmıştır, görevleri tek başına yerine getirirken ve bilgileri bağımsız olarak işlerken başarılı olursun. İçinde, tutarlı ve güvenilir bir bilgi işleme yöntemi tarafından yönlendirilen doğal bir bütünlük duygusu bulunur. Tekil bir odağı sürdürme yeteneğin dikkat çekicidir ve iş yaşamında çok işine yarar.\n\nBilgiyi hızlı ve yetkin bir şekilde sindiren bağımsız bir birim olarak çalışırsın. Bununla birlikte, yavaşlamak ve bilgilerin daha bilinçli bir şekilde işlenmesine izin vermek için biraz zaman ayırman, ilerleme hızının değerini anlaman çok önemlidir. İşbirlikçi çabalarında, anlamak için ek zamana ihtiyaç duyabilecek diğerlerine sabır göstermen faydalı olacaktır. Hızlı anlama yeteneğin ile diğerlerinin düşünceli temposu arasındaki bu dengeyi benimsemek, profesyonel ortamındaki kolektif anlayışı geliştirebilir.`,
-    },
-    {
-      name: "Split Definition",
-      title: "İş Birlikçi Çalışma Stili",
-      value: `Bilgileri İşbirlikçi yaklaşımın ile anlar ve öğrenirsin. Profesyonel tasarımın, başkalarıyla birlikte çalışmaya, işbirliği yoluyla tatmin ve bütünlük duygusu bulmaya yöneliktir. Çevrendekilerin varlığı, iş dinamiklerinin ayrılmaz bir parçasıdır ve bütünlük hissine katkıda bulunur. Bazen, bir eksiklik varmış gibi hissedebilir ve algıladığın eksiklikleri telafi etmeye çalışabilirsin. Bununla birlikte, işbirlikçi doğan ile doğal olarak tamamlayıcı becerilere ve güçlü yönlere sahip diğer kişileri kendine çektiğini anlaman önemlidir.\n\nBilgiyi almak, işlemek ve sindirmek senin açından biraz daha fazla zaman gerektirebilir ve bu süreç boyunca kendine karşı sabırlı olman çok önemlidir. Kararlar ve bilgi işleme, yalnızlık içinde yapıldığında rahatsız edici olabilir, ancak zamana ve sabra izin vermek bir bütünlük duygusu getirebilir. Kalabalık ortamlar senin için değerli arenalar haline gelir, yeni bakış açıları sunar ve anlama sürecine yardımcı olur.\n\nÖğrenme stilinin avantajını benimseyerek, tam olarak kavramanız biraz uzun sürebilir, ancak bir kez kavradığında, anlayışın gerçekten derindir. Bunun nedeni, bilgilere çeşitli açılardan yaklaşman ve profesyonel içgörülerini zenginleştiren kapsamlı ve derin bir anlayışla sonuçlanmasıdır.`,
-    },
-    {
-      name: "Triple Split Definition",
-      title: "Sentezleyen Çalışma Stili",
-      value: `Bilgiyi öğrenmede, farklı kaynaklardan ve bireylerden gelen içgörüleri birleştirmek için benzersiz bir yetenek sergileyerek Sentezlersin. Profesyonelliğin gün boyunca çeşitli insanlarla hareket edebileceğin, işbirliği yapabileceğin ve etkileşimde bulunabileceğin ortamlarda gelişir. Bu dinamik angajmana bir sağlık duygusu eşlik eder ve her gün aynı kişi ve yerle sınırlı kalmak sana iyi gelmeyebilir.\n\nProfesyonel tavrını tanımlayan karakteristik bir dürtü, hırs ve atılganlık vardır. Bununla birlikte, sabırsızlığa ve erken harekete geçmeye yönelik potansiyel bir eğilimin olabilir.  Sabır geliştirmen, karar vermeden veya harekete geçmeden önce bilgileri kapsamlı bir şekilde sentezlemek için gereken zamanı ayrıman çok önemlidir.\n\nİlgi çekici bir yönün, oyunda üç farklı role sahip olma duygusudur. Bu çok yönlü özellik, karmaşık durumlarda gezinme ve zorluklara çeşitli açılardan yaklaşma yeteneğine katkıda bulunur. Bu sentezleri benimsemek, yenilikçi çözümlere ve eldeki bilgilerin kapsamlı bir şekilde anlaşılmasına imkan sağlar.`,
-    },
-    {
-      name: "Quadruple Split Definition",
-      title: "Öznel Çalışma Stili",
-      value: `Bilgileri özümseme stilin, bilgileri sabit ve kişiselleştirilmiş bir şekilde işlemek için güçlü bir eğilim gösterir ve Özneldir. Yaklaşımın, kendi  derin deneyimlerinden gelir ve farklı ve öznel bir bakış açısına katkıda bulunur. Bu sabit yapı, daha az esnek görünmene neden olabilir ve çevrendekilerin senin tercih ettiğin bilgi işleme yöntemine uyum sağlamasını gerektirebilir.\n\nBiraz kapalı olma, seçici olarak belirli kişilerin yakın çevrene girmesine izin verme eğilimin olabilir. Küçük grup ortamları sende rahatsızlık uyandırabilir.\n\nOptimal anlama ve öğrenme sürecin zaman ve belli bir hız gerektirdiğinden, hızlı karar verme dürtüsüne direnmen çok önemlidir. Başkalarının beklentilerini karşılamak için zorlanmak zihinsel, fiziksel ve duygusal sağlığını olumsuz etkileyebilir. Bunun yerine, bilgiyi özümserken, bu yaklaşımın genel sağlığın ve etkinliğin için önemini kabul ederek kendi hızınıza ve zamanlaman öncelik ver.`,
-    },
-  ];
-  var profile = [
-    {
-      name: "1 / 3",
-      value1: `Alanında ustalık geliştirirsin ve kendini ayrıntıları derinlemesine anlayan bir otorite olmaya adarsın. Kararlılığın seni sürekli olarak cevaplar aramaya, deneme yanılma ile öğrenmeye yönlendirir. Hayat senin için hem gerçek hem de mecazi olarak zorluklarla karşılaştığın, esnek bir ruhla uyum sağladığın ve geliştiğin dinamik bir etkileşim. Esnekliğin, seçtiğin yolun karmaşıklıklarında gezinmedeki başarına katkıda bulunur.`,
-      value2: `Sağlam bir temel kurulması senin için önemli ve böyle bir zeminde durmadığında bir güvensizlik duygusu hissedebilirsin. Alçakgönüllülük ve yaratıcılık, konunda uzmanlık ve yeniliğin dengeli bir karışımını yaratarak yaklaşımını pekiştirirsin. Kararlı bir kâşif olarak rolünde, adaptasyon ve deneyim yoluyla öğrenme konusunda başarılı olursun. Genellikle düşe kalka yaşanan deneme yanılma süreci, neyin işe yarayıp neyin yaramadığını keşfetmen için değerli bir araç haline gelir. Başarısızlık karşısındaki dayanıklılığın ve kararlılığın, devrim niteliğinde değişiklikler ve yenilikçi çözümler getirme yeteneğine katkıda bulundukları için övgüye değerdir. Öncü ruhun alanının ön saflarında kalmanı sağlayacaktır. Kararlı bir kâşif olarak yolculuğun, sürekli bir bilgi arayışı, zorluklar karşısında dayanıklılık ve alanında olumlu ve dönüştürücü değişiklikler ortaya çıkarma ile pekişir.`,
-      image:
-        "https://appwrite.indata.com.tr/v1/storage/buckets/images/files/1-3/view?project=65dc554eb069bed83c59",
-    },
-    {
-      name: "1 / 4",
-      value1: `Birincil önceliğin ilgi alanlarının temellerini derinlemesine anlamak ve kendini bu alanlarda bir uzman ve otorite olmak için hazırlamaktır. Uzmanlığının temelini oluşturacak bilgileri sağlamak için araştırma yapmak seni keyiflendirir.`,
-      value2: `Yaratıcı eğilimin, bulgularını başkalarıyla yenilikçi yollarla paylaşmaya seni motive eder.Dostluk ve yakın ilişkiler kurmak için yaratıldın, hayatta ve tüm iş yaşamında fırsatların bu ağlar aracılığıyla sana gelecektir. Bilgeliği dışsallaştırma ve başkalarını etkileme yeteneğin seni çeşitli sosyal ve profesyonel çevrelerde değerli bir varlık haline getirir. Bununla birlikte, ağlar ve bağlantı kurmak sana neşe getirirken, yaratıcılığınla baş başa kalmak ta sana iyi gelir.Başkaları aracılığıyla gelen fırsatlara açık kalmak iş hayatında çok önemli olacak.Dışa dönük doğana rağmen, periyodik olarak yalnız kalmak sana iyi gelir, zira bağlı olduğun insanlardan ve ağlardan sıkılıp daralabilirsin. Etkileyici ve ağ oluşturucu olarak rolün, hem profesyonel hem de kişisel alanlarında kalıcı bir etki yaratarak başkalarıyla bağlantı kurma, etkileşimde bulunma ve başkalarını olumlu yönde etkileme yeteneğine sahip olduğun için insan kaynakları alanında çok önemlidir.`,
-      image:
-        "https://appwrite.indata.com.tr/v1/storage/buckets/images/files/1-4/view?project=65dc554eb069bed83c59",
-    },
-    {
-      name: "2 / 4",
-      value1: `Doğal ve doğuştan gelen yeteneklere sahip bir birey olarak benzersiz özelliklerin ön planda. Yaşam amacın, yeteneklerinin başkaları tarafından tanınması ve kabul edilmesine karmaşık bir şekilde bağlı. Dünyaya vermeye geldiğin hediyelerinin ortaya çıkması dış doğrulama ve teşvik yoluyla olur, bu da çevrendekilerin bakış açılarına açık olmayı önemli hale getirir.`,
-      value2: `Doğal yeteneklerin göz önüne alındığında, sana kolay gelen işlere ve görevlere odaklanman önemlidir. Bir iş sana zorlayıcı geliyorsa, doğuştan gelen güçlü yönlerinle uyumlu olmayabilir. Yeteneklerinin değerini görmüyor olabilirsin, bu yüzden başkalarının onları fark etmesi önemlidir.Enerjinin doğru kullanımı iyi olman için önemli. Yanlış yönlendirilmiş enerji yorgunluğa, tükenmişliğe ve bitkinliğe neden olabilir. Kendin için yalnız kalma ihtiyacın ve başkalarıyla bağlantı kurma yeteneğin de dahil olmak üzere, hayatındaki denge senin için önemlidir. Doğal ve etkili bir networker olarak, derin bağlantılar kurmak için tasarlandın ve ilişkiler hayatında büyük önem taşıyor. Yalnız zamanını sosyal etkileşimlerle dengelemek, tatmin edici ve sürdürülebilir bir yaşam tarzına katkıda bulunacaktır.Derin ve anlamlı bağlantılarda başarılı olurken, yabancılarla çalışmak senin için en iyi seçim olmayabilir. İnsanlarla bağlantı kurma ve tanışman, bu konudaki doğal yeteneğin ve yerleşik ağların aracılığıyla kolaylaş olur. Bu ağları beslemek sana kişisel ve profesyonel gelişim için gerekli fırsatları ve bağlantıları sağlayacaktır.Doğal yeteneklerini kucaklayarak ve yalnızlık ile sosyal etkileşim arasındaki uyumu bularak, başarılı ve tatmin edici bir kariyer ve yaşam yolunu açarsın.`,
-      image:
-        "https://appwrite.indata.com.tr/v1/storage/buckets/images/files/2-4/view?project=65dc554eb069bed83c59",
-    },
-    {
-      name: "2 / 5",
-      value1: `Doğal bir münzevi olman ve problem çözücülüğün ayırt edici niteliklerin. Yalnızlıkta teselli bulur ve gelişirsin, pratikliğe ve sessiz, uyumlu bir yaşama değer verirsin. Doğal utangaçlığına rağmen, Diğerleri, yardım sunma yeteneğine çekilir. Hayatın pratik yönlerini anlayarak ve başkalarıyla etkileşimlerini yöneterek bu dinamikte gezinmen önemlidir.`,
-      value2: `Yaklaşımın, insanları kendine çekmeyi, ihtiyaçlarını pratik çözümlerle ele almayı ve ardından stratejik olarak geri çekilmeyi içerir. Bu gelgit, itibarını ve enerji seviyeni korumak için gereklidir. Çözümler sunduktan sonra geri çekilmek, enerjinin, doğal yeteneklerinin ve itibarının oluşması için sana zaman kazandırır ve ihtiyaç duyulduğunda pratik ve bazen değişik çözümler sunmaya hazır olmanı sağlar. Çevrendekiler sana güven duyuyorlarsa, küçük veya büyük kriz zamanlarında rehberliğini aradıklarında onlara etkili bir şekilde yardım edebilirsin. En güçlü etkin, pratik dehan başkalarının sana yansıttığı projeksiyonlarla aynı hizaya geldiğinde ortaya çıkar. Yeteneklerin tam olarak ortaya çıktıkça, işlerinde ifade edilebilir ve kalıcı bir etki yaratır. Kariyer yolculuğun özünde hassas bir yalnızlık, pratik problem çözme ve başkalarıyla stratejik etkileşim dengesini içerir. Doğal eğilimlerini benimseyerek ve yansıtma ve geri çekilme dinamiklerinde gezinerek, yeteneklerinin parlamasının ve pratik çözümlerinin anlamlı bir etki kaynağı olmasının yolunu açarsın.`,
-      image:
-        "https://appwrite.indata.com.tr/v1/storage/buckets/images/files/2-5/view?project=65dc554eb069bed83c59",
-    },
-    {
-      name: "3 / 5",
-      value1: `Neyin işe yarayıp neyin yaramadığını anlamak için kararlı ve dinamik bir yaklaşıma, sorumluluk alma ve yenilikçi ve pratik çözümler sunma kabiliyetine sahipsin. Etrafındakiler, özellikle kriz zamanlarında, rehberliğini, liderliğini ve durumu düzeltme veya kurtarma yeteneğine başvurmak için doğal olarak sana yönelir.`,
-      value2: `Koşullara uyum sağlayabilmen, dayanıklılığın ve değişime açık doğan seni fiziksel dünyada deneme yanılma yoluyla gelişen esnek bir öğrenci yapar. Karşına çıkan zorluklar öğrenme sürecinin ayrılmaz bir parçasıdır. Başarıya ulaşsın ya da ulaşmasın, her deneyim, yeni içgörüler ve bilgelik kazanman için birer fırsat olarak sana hizmet eder.Hayattaki şeyler hızla sana gelirken, sen de hızla onlara doğru ilerlersin.  Dünyayla dinamik ilişkin ve bu deneyimler yoluyla biriken bu bilgelik, dönüştürücü gücünün kaynağı olur. Sadece gelişmen için seni güçlendirmekle kalmaz, aynı zamanda seni hem kendinde hem de başkalarında olumlu bir değişim yaratabilecek etkili bir güç olarak konumlandırır.Kariyer yolculuğun sürekli bir öğrenme, uyarlama ve deneyimleri bilgeliğe dönüştürme süreciyle karakterize olur. Yoluna çıkan zorlukları ve fırsatları kucaklayarak, yalnızca kendi yolunu şekillendirme gücünü kullanmakla kalmaz, aynı zamanda çevrenizdekilerin dönüşümüne de katkıda bulunursun. Denemek istediğin şeyleri denemekten asla vazgeçme.`,
-      image:
-        "https://appwrite.indata.com.tr/v1/storage/buckets/images/files/3-5/view?project=65dc554eb069bed83c59",
-    },
-    {
-      name: "3 / 6",
-      value1: `Değişimi yönlendirmek için buradasın, neyin işe yarayıp neyin yaramadığını anlamak sana göre. Keşif sürecinin dönüştürücü potansiyelini ifade etmek, bilgeliğin çeşitli olgunlaşma aşamalarında benzersiz bir şekilde geliştiğini ve nihayetinde otantik bireysel benzersizlik olarak ortaya çıktığını çevrendekilere gösterebilirsin.`,
-      value2: `Güven senin için önemlidir ve bir mükemmellik arayışı içinde de olabilirsin. Bu yüksek standartlarını karşılayamayan ilişkilerde, işlerde ve kariyerlerde stres yaratabilecek bir unsur olabilir ve senin için önem taşır. Özgüven ve ustalık geliştirmenin anahtarı, hayatı uygulamalı bir şekilde kucaklamak ve dibine kadar dalmakta yatar. Deneyimlere aktif olarak katılarak güven, mükemmellik ve kararsızlığın karmaşıklıklarında gezinebilir, kişisel gelişimi teşvik edebilir ve hem profesyonel hem de kişisel alanlarında olumlu değişime katkıda bulunabilirsin. Özellikle genç yaşlarda deneyimlediklerinden elde ettiğin bilgeliği yaşamının ileriki dönemlerinde çevrendekiler ile paylaşabilir, onlara bir rol model olabilirsin.`,
-      image:
-        "https://appwrite.indata.com.tr/v1/storage/buckets/images/files/3-6/view?project=65dc554eb069bed83c59",
-    },
-    {
-      name: "4 / 1",
-      value1: `Kendini gerçekleştirme yolculuğun, sağlam bir alt yapı oluşturmayı ve daha sonra bilgi ağını etkilemek için otorite konumuna geçmeyi içeren bir süreçtir. Sosyal ve samimi bir yaklaşıma sahip olman, içtenlikle başkalarıyla etkileşimde bulunman ve merakını araştırma ve uzmanlıkla dönüştürerek otorite ve yetkinlik kazanman anlamına gelir.`,
-      value2: `Otorite pozisyonunda olduğunda, uzmanlık alanında etkili bir şekilde liderlik yapabilirsin. Bilgiyi başkalarına aktarma konusundaki doğal yeteneğin, öğrendiklerini paylaşmayı istemene neden olur. Hayatındaki hareket, sabit bir rotada ilerleyen bir tren gibi belirgin bir yöne sahiptir. Bu, bazı belirsizlikleri beraberinde getirirken, aynı zamanda kimliğine bağlı kalmanın önemini vurgular. Kendi rotanı koruman ve yolculuğunun tadını çıkarman sana bağlıdır. Senin etrafındakilere uyum sağlaman zor olabileceğinden, çevrendekilerden bu esnekliği bekleyebilirsin. Kendi özelliklerini saygıyla karşılayarak bilgiyi etkileme ve iletişim kurma yeteneğini geliştirmek, çevrende kalıcı bir etki bırakmana ve tatmin edici bir hayat yaşamana olanak tanır.`,
-      image:
-        "https://appwrite.indata.com.tr/v1/storage/buckets/images/files/4-1/view?project=65dc554eb069bed83c59",
-    },
-    {
-      name: "4 / 6",
-      value1: `Etki alanını genişletmek için sosyal yeteneklerini ve kişisel ağlarını bilinçli olarak kullanabilirsin ve bireysel ve etkili bir yaşam için rol modelsin. Engelsiz bir bakış açısını korumak için çevrendekilerden biraz ayrı kalarak, başkalarının düşünme biçimlerini değiştirebilecek yeni bir bakış açısına katkıda bulunmak için uygun anı objektif ve sabırla beklersin.`,
-      value2: `İstikrar ve sağlam bir temel için özlem duyarken, gerçeği arayan deneyimsel yolculuğunu kucaklayarak kendi gelişimine katkıda bulunursun. Herkes için en iyisini arzulayan cömert ruhun her zaman parlar, ancak güvenin kırıldığında hassas kalbin kolayca yaralanabilir.Senin için ilişkiler büyük önem taşır ve yaşam kaliten ağlarının kalitesiyle doğrudan bağlantılıdır. Bu bağlantıları aktif olarak beslemek yalnızca kişisel yaşamını geliştirmekle kalmayacak, aynı zamanda etkinin derinliğine ve genişliğine de katkıda bulunacaktır. Bireyselliğin ve başkalarıyla olan bağlantın arasındaki hassas dengede gezinme yeteneğin, otantik bir şekilde yaşamak için etkili bir model olarak potansiyelini ortaya çıkarmanın anahtarıdır.`,
-      image:
-        "https://appwrite.indata.com.tr/v1/storage/buckets/images/files/4-6/view?project=65dc554eb069bed83c59",
-    },
-    {
-      name: "5 / 1",
-      value1: `Liderlik, rehberlik ve problem çözme oldukça başarılı olabilirsin. Doğal olarak dikkat çekersin ve insanlar kriz zamanlarında pratik çözümler için içgüdüsel olarak sana gelirler. Doğal bir işleri yoluna koyucu olarak rolün, problem çözme becerileri çevrendekilere sunman ile uyumludur ve seni çeşitli senaryolarda paha biçilmez bir kişi haline getirir.`,
-      value2: `Keskin gözlem becerileri ve disiplinli sabrın, hazırlıklı olma ve doğru zamanlamaya olan bağlılığının altını çizerek, kapsamlı çalışma ve araştırma yoluyla güvenli bir bilgi temeli oluşturur. Bu sağlam temel, uzmanlığının üzerine inşa edildiği temel haline gelir ve parçası olduğu ekip ya da topluluğu etkilemene ve gerektiğinde yeniden şekillendirmene olanak tanır. Başkalarının beklentileriyle ilgili dikkatli olmalısın, çevrendekilerin san a yüklediği birtakım projeksiyonların yeteneklerinle uyumlu olup olmadığını ayırt etmen oldukça önemlidir. Doğru fırsatlara "evet" demek, itibarını artırır ve genellikle olağan dışı ve pratik çözümlerinizle önemli bir fark yaratmanı sağlar. Pratik pazarlama becerilerine sahip biri olarak, yeni kavramları evrenselleştirme, çözümler sunma ve bir kurtarıcı olarak görülme konusunda yetkinsin. Herhangi bir konuya dahil olma, gerekli düzeltmeleri yapma ve işler yoluna girince konudan ayrılma yeteneği, doğal liderlik tarzını yansıtır. İlgini çeken alanlarda uzmanlığını geliştirirken, iç gözlemlerin, araştırman ve sağlam bir temel kurmaya olan bağlılığın, alçakgönüllülüğünü ve yaratıcılığını da vurgular. Empati gücün ve çalışma ve araştırmaya olan bağlılığın, olumlu bir değişim yaratma yeteneğini daha da geliştirir. Genel olarak, kariyer yolun güvenlik, hayatta kalma içgüdüleri ve benzersiz pratik çözümler sunma yeteneğin ile anlamlı bir etki yaratma niyetin arasında dikkatli bir denge ile işaretlenmiş bir yoldur.`,
-      image:
-        "https://appwrite.indata.com.tr/v1/storage/buckets/images/files/5-1/view?project=65dc554eb069bed83c59",
-    },
-    {
-      name: "5 / 2",
-      value1: `Liderlik, rehberlik ve problem çözme oldukça başarılı olabilirsin. Benzersiz niteliklerin ve sıradanlığın ötesinde devrim niteliğinde bir şeye doğru içsel çağrıyı bekleyen derin ve bilinçsiz bir dehan var.`,
-      value2: `Çevrendekilerin sorunlarına yardım edip onlara pratik çözümler sağlayabilirsin. Dikkatli olman gereken bir konu, çevrendekilerin beklentileri karşılamak zorunda olmadığındır. Onların düşündüğü kadar iyi olmak, ya da olmanı istedikleri kalıba girmek zorunda değilsin.  İhtiyaç duyulduğunda çevrendekilere pratik çözümlerin ile yardımcı olup sonra çekilmek yapabileceğin en iyi şeydir. Bunun yanı sıra nereden geldiğini bilmediğin bazı doğal yeteneklerin var ve bunları kolaylıkla kullanabilirsin. Başkalarının beklentilerine bire bir uymaman, gerçek yeteneklerin hakkında belirsizliğe yol açarak kendini izole etmene ve hediyelerini saklamana neden olabilir. Sevdiğin şeylere yaptığında ve dış müdahale olmadan keşfetmene izin verildiğinde hediyelerini ortaya koyman çok kolay olur.Hem iş hem de kişisel ilişkilerde sağlığını ve esenliği korumak için, kendini gerektiğinde başkalarının talep ve beklentilerinden uzaklaştırman ve yalnız zaman geçirmen çok önemlidir. Bu yalnızlık, benzersiz ve devrimci katkın için gereken enerjiyi yeniden şarj etmene ve korumanı sağlar.`,
-      image:
-        "https://appwrite.indata.com.tr/v1/storage/buckets/images/files/5-2/view?project=65dc554eb069bed83c59",
-    },
-    {
-      name: "6 / 2",
-      value1: `Çevrendekilere bağımlı olmadan kendine has bir şekilde yaşayarak diğerlerine örnek olmak, çevrendekilere benzersiz mükemmelliklerini tanımaları ve kabul etmeleri için rehberlik etmek için buradasın.`,
-      value2: `Hayatın dramalarından uzak durma konusundaki yeteneğin, seni dağın tepesindeki bir bilgeye benzer şekilde objektif bir gözlemci olarak konumlandırır. Bu bakış açısı sana hayata kuşbakışı bakma kabiliyeti kazandırarak büyük resmi görmeni ve yaşının ötesinde bir bilgeliğe sahip olmanı da sağlar. Doğal olarak yeteneklisin ve birçok şeyi nereden bildiğini bilmeden çok iyi yapabilirsin.  Doğal yetenekleri olan ve bilge bir kişi olarak görülürsün ve çevrendekiler içgüdüsel olarak sana güvenir ve tavsiyelerin onlar için önemli bir ağırlık taşır. Özgünlüğü somutlaştırarak ve bağımsız bakış açından edindiğin bilgeliği aktararak, çevrendekilerin refahına ve gelişimine katkıda bulunabilirsin. Başkalarının sana duyduğu güven, hem kendin hem de içgörülerinden yararlanacak kadar şanslı olanlar için uyumlu bir yaşamı teşvik eden bir rehberlik ve bilgelik kaynağıdır ve bu dünyada ve iş yaşamındaki benzersiz rolünün bir kanıtıdır.`,
-      image:
-        "https://appwrite.indata.com.tr/v1/storage/buckets/images/files/6-2/view?project=65dc554eb069bed83c59",
-    },
-    {
-      name: "6 / 3",
-      value1: `İş yaşamındaki ve hayattaki rolün öncü bir figür, başkalarının takip etiği bir rol model olarak öne çıkıyor. Neyin işe yarayıp neyin yaramadığını anlama konusundaki doğuştan gelen kararlılığın, keşif sürecinin dönüştürücü gücünü ifade etmek için burada olduğunun altını çiziyor.`,
-      value2: `Bu süreç, bakış açının olgunlaşmasının çeşitli aşamalarında bilgeliğinin gelişmesine yol açıyor ve benzersizliğinin bireysel ifadesiyle sonuçlanıyor. Güven, senin için merkezi bir tema ve zaman zaman yüksek standartların ilişkilerini, içinde bulunduğun ekibi ve kariyerini zorlayan bir mükemmellik arayışıyla iç içe geçebilir. Çevrendekiler ile aranda güven tesis edildiğinde, kendini ideal bir iş veya yaşam vizyonunla uyumlu bir yerde bulursun. Alışılmışın ötesinde, hayatın beklentilerinden uzaklaştığında ara sıra geri çekilmene neden olan bir asalet duygusu yayarsın. Çeşitli deneyimlere girme ve taahhütte bulunmadan gözlemleme arasındaki etkileşim hem işinde hem de yaşamında bir git gel dinamiği yaratabilir. Hayatı uygulamalı bir şekilde kucaklamak, özgüven ve ustalık geliştirmenin temel unsurudur. Deneyimlerle aktif olarak ilgilenmek, güven, mükemmellik ve kararsızlığın karmaşıklıklarında gezinmene, kişisel gelişimi teşvik etmene ve hem profesyonel hem de kişisel alanlarda olumlu değişim için öncü bir rol model olarak konumlandırmana olanak tanır.`,
-      image:
-        "https://appwrite.indata.com.tr/v1/storage/buckets/images/files/6-3/view?project=65dc554eb069bed83c59",
-    },
-  ];
-  var strategyevery = {
-    name: "herkes",
-    value: `Aldığın kararlar yolunu şekillendirmede kilit rol oynar, sadece profesyonel gidişatını değil, güvenini, iç huzurunu ve genel başarını da etkiler. Karar Alma Stratejini iş yaşamın boyunca sana yön ve güven sunan bir pusula gibi düşünebilirsin.`,
-  };
   var strategy = [
     {
       name: "To Respond",
@@ -661,114 +497,6 @@ export default async ({ req, res, log, error }) => {
       value: `Hedeflediğin kişilere, bir şeyi ikna edici bir şekilde anlatma ve kabul ettirme ya da satma yeteneğine sahipsin. Başkalarını içgüdüsel olarak değerlendirmek ve onları "ihtiyaç duydukları" ürünler, işler ve hatta ideolojilerle eşleştirmek için bir yeteneğin var. İçgüdülerine güven - bir şey doğru 'kokmuyorsa', ondan uzaklaş.`,
     },
   ];
-  var holland = [
-    {
-      name: "Araştırıcı",
-      nameBig: "ARAŞTIRICI",
-      value: {
-        description: `Harekete geçmek yerine düşünmeyi ve gözlemlemeyi seçmek\nİkna etmek yerine bilgiyi düzenlemeyi ve anlamayı seçmek\nİnsanlarla çalışmak yerine verilerle çalışmak`,
-        feature: `Entelektüel, analitik düşünce yapısına sahip, rasyonel, eleştirel, titiz, sabırlı, yöntemci, bağımsız, popüler olmaktan hoşlanmayan`,
-        value: 0,
-      },
-    },
-    {
-      name: "Sosyal",
-      nameBig: "SOSYAL",
-      value: {
-        description: `Diğer insanlarla yakın ilişkiler kurmak için daha fazla çekilirler.\nEntellektüel veya fiziksel olmak istemeye daha az eğilimlidirler.\nÖğretme veya yardım durumlarında, ihtiyaçlarını karşılıyor gibi görünen insanlarla çalışmayı severler`,
-        feature: `Yardımsever, sorumluluk sahibi, sosyal işbirliğine yatkın, empatik, arkadaş canlısı, içten, sabırlı, nazik, anlayışlı`,
-        value: 0,
-      },
-    },
-    {
-      name: "Gerçekçi",
-      nameBig: "GERÇEKÇİ",
-      value: {
-        description: `Nesnelerle çalışmayı seven, “iddialı ve rekabetçi” dirler.\nMotor koordinasyon, beceri ve güç gerektiren faaliyetlere odaklanırlar.\nKonuşmak ya da oturup düşünmek yerine bir problem üzerinde çalışmayı tercih eder.\nSoyut olandan ziyade somuta odaklanırlar.\nEstetikten ziyade bilimsel ve mekanik olanı seçerler.`,
-        feature: `Sabırlı ve hoşgörülü, pratik, maddeci, eril, antisosyal, uyumlu, içten, doğal, sabırlı, iç görüleri ve başarma güdüleri fazla`,
-        value: 0,
-      },
-    },
-    {
-      name: "Girişimci",
-      nameBig: "GİRİŞİMCİ",
-      value: {
-        description: `İnsanlar ve veriler ile çalışmayı severler.\nOnlar iyi konuşmacılardır ve bu beceriyi başkalarına liderlik etmek veya ikna etmek için kullanırlar.\nAyrıca "güce, paraya ve statüye" değer vererek yüksek güçlü durumlara çekilirler`,
-        feature: `Dışa dönük, enerjik, kendine güvenli, atılgan, fevri, ikna yeteneği yüksek, sabırsız, meraklı, maceracı, iyimser, sosyal, konuşkan`,
-        value: 0,
-      },
-    },
-    {
-      name: "Artistik Sanatsal",
-      nameBig: "ARTİSTİK SANATSAL",
-      value: {
-        description: `Estetik faaliyetler yaparlar\nTutkulu, bağımsız, sistematik olmayan aktiviteleri severler\nSanatsal etkinlik ve ürünler yaratmayı tercih ederler\nBağımsız, yaratıcı çalışmalar içindedirler`,
-        feature: `Heyecan ve coşkuları dengesiz, hayalci, fevri, karmaşık, sezgileri güçlü, bağımsız, duygusal, uyumlu olmayan, duyarlı ve etkileyici`,
-        value: 0,
-      },
-    },
-    {
-      name: "Geleneksel",
-      nameBig: "GELENEKSEL",
-      value: {
-        description: `Sistemli kurallara bağlı aktiviteler\nNesnelerle ilgili sistematik çalışmalar\nKayıt tutma, hesaplama, kontrol işlemleri, veri`,
-        feature: `Dikkatli, titiz, itaatkar, tutarlı, esnek olmayan, düzenli, sabırlı, vicdanlı, özdenetimli, hayal gücünden yoksun, dengeli`,
-        value: 0,
-      },
-    },
-  ];
-  var big5 = [
-    {
-      name: "Deneyime Açıklık",
-      nameBig: "DENEYİME AÇIKLIK",
-      value: {
-        karakter: `Deneyime açıklık, kişinin yeni fikirleri ve deneyimleri ne kadar istekli bir şekilde kabul ettigini yansıtır.`,
-        arti: `Deneyime açıklık, yaratıcılığı, esnekliği ve yeni fikirleri benimseme yeteneğini yansıtır. Bu özellik, sanat ve inovasyon alanlarında başarı getirebilir.`,
-        eksi: `Deneyime aşırı açık olmak, bazen odak kaybına veya sabit bir kariyer hedefine sahip olmama sorunlarına neden olabilir.`,
-        value: 0,
-      },
-    },
-    {
-      name: "Uyumluluk",
-      nameBig: "UYUMLULUK",
-      value: {
-        karakter: `Uyumluluk, kişinin diğer insanlarla nasıl etkileşimde bulunduğunu, empati yeteneğini ve işbirliği yapma istegini yansıtır.`,
-        arti: `Uyumluluk, işbirliği, empati ve iletişim becerilerini yansıtır. iş yerinde diğer insanlarla iyi geçinme yeteneği için avantaj saglayabilir.`,
-        eksi: `Aşırı uyumlu olmak, sınırların belirsizleşmesine ve iş yerinde zor kararlar almada güçlük yaşanmasına neden olabilir.`,
-        value: 0,
-      },
-    },
-    {
-      name: "Öz Disiplin",
-      nameBig: "ÖZ DİSİPLİN",
-      value: {
-        karakter: `Öz Disiplinli olma, kişinin disiplini, organizasyon yeteneği ve hedeflerine nasıl sadık kaldığını yansıtır.`,
-        arti: `Öz Disiplinli olma, disiplini, organizasyon becerilerini ve sorumluluk hissini yansıtır. Bu, zaman yönetimi ve verimlilik açısından avantaj sağlayabilir.`,
-        eksi: `Aşırı öz disiplinli olmak, esneklik eksikliğine yol açabilir ve iş yerinde aşırı mükemmeliyetçiliğe neden olabilir.`,
-        value: 0,
-      },
-    },
-    {
-      name: "Dışa Dönüklük",
-      nameBig: "DIŞA DÖNÜKLÜK",
-      value: {
-        karakter: `Dışa Dönükler, sosyal ilişkileri geliştirmeye ve yeni arkadaşlar edinmeye açık olabilirler. Kişinin sosyal çevresiyle daha fazla etkileşimde bulunma eğilimini yansıtabilir.`,
-        arti: `Sosyal etkileşimlere yatkınlık, liderlik pozisyonlarına uygunluk ve ekip çalışması yeteneği gibi dışa dönüklük özellikleri, iş yerinde iş birligi ve iletişim becerilerini geliştirebilir.`,
-        eksi: `İş yerinde fazla dışa dönük olmak, odak kaybına neden olabilir ve bazen kişinin kendi görevlerine odaklanmasını zorlaştırabilir.`,
-        value: 0,
-      },
-    },
-    {
-      name: "Duygusal Dayanıklılık",
-      nameBig: "DUYGUSAL DAYANIKLILIK",
-      value: {
-        karakter: `Duygusal kararlılık, kişinin stresle nasıl başa çıktığını, duygusal dengeyi koruma yeteneğini ve özsaygısını yansıtabilir.`,
-        arti: `Duygusal istikrar, stresle başa çıkma yeteneği ve iş yerinde olumsuz durumları tolere etme yeteneğini yansıtır. Bu, kriz anlarında sakin kalma ve etkili kararlar alabilme yeteneğini artırabilir.`,
-        eksi: `Aşırı Duygusal istikrar, stresli işlerde veya kriz durumlarında zorluk yaratabilir ve ilişkileri etkileyebilir.`,
-        value: 0,
-      },
-    },
-  ];
   var careerSelectionKey = {
     1: [
       { name: "15", value: [2, 1, 4, 4, 3, 4, 5, 3, 4] },
@@ -838,7 +566,6 @@ export default async ({ req, res, log, error }) => {
       { name: "Gerçekçi", value: [4, 2, 3, 3, 5, 3, 2, 1, 1] },
     ],
   };
-
   var careerSelectionResult = [
     { name: "1", value: [0, 0, 0, 0, 0, 0, 0, 0, 0] },
     { name: "2", value: [0, 0, 0, 0, 0, 0, 0, 0, 0] },
@@ -972,70 +699,6 @@ export default async ({ req, res, log, error }) => {
       value: "Analitik düşünce ve veri analizi becerilerini kullanabileceğin meslkeleri tercih edebilirsin. Veri bilimi, analitik pazarlama veya iş zekası gibi alanlarda sayısal verilerle çalışarak çözüm odaklı kariyer seçenekleri arasından seçim yapabilirsin.",
     },
   ];
-  var careerSelectionData2 = [
-    {
-      id: "1",
-      name: "Yaratıcı ve Sanatsal Kariyerler",
-      geleneksel: `Grafik Tasarımcı\nİçerik Yazarı\nFotoğrafçı\nIllustrator\nMüzisyen\nYönetmen\nSanat Yönetmeni\nAnimatör\nReklam Sanat Yönetmeni\nİç Mimar\nModa Tasarımcısı\nWeb Tasarımcısı\nVideo Düzenleyici\nSes Mühendisi\nKreatif Direktör`,
-      futurist: `Sanal Gerçeklik Tasarımcısı\nArtırılmış Gerçeklik Sanatçısı\nNFT Sanatçısı\nXR Deneyim Tasarımcısı (Genişletilmiş Gerçeklik)\nYapay Zeka Tarafından Oluşturulan Sanat Geliştiricisi\nHolografik Sanatçı\nSosyal Medya İçerik Üreticisi\nBiyo-Sanatçı (Biyoteknoloji Sanatı)\nSanal Moda Tasarımcısı\n3D Baskı Sanatçısı\nYapay Zeka ile Geliştirilmiş Müzik Bestecisi\nOyun Anlatı Tasarımcısı\nYapay Zeka Tarafından Oluşturulan Hikaye Anlatıcısı\nMetaverse Mimarı\nYapay Zeka Destekli Film Yapımcısı`,
-    },
-
-    {
-      id: "2",
-      name: "Liderlik ve Yönetim Kariyerleri",
-      geleneksel: `Proje Yöneticisi\nİnsan Kaynakları Müdürü\nPazarlama Müdürü\nFinans Müdürü\nOperasyon Müdürü\nTedarik Zinciri Yöneticisi\nGenel Müdür\nSatış Müdürü\nÜretim Müdürü\nİcra Direktörü\nKalite Güvence Müdürü\nBilgi İşlem Müdürü\nAğırlama Müdürü\nPerakende Mağaza Müdürü\nEtkinlik Planlayıcısı`,
-      futurist: `Sürdürülebilirlik Direktörü\nDijital Dönüşüm Yöneticisi\nUzaktan Çalışma Koordinatörü\nYapay Zeka Strateji Direktörü\nBlockchain Proje Yöneticisi\nBaş İnovasyon Sorumlusu\nESG (Çevresel, Sosyal ve Yönetişim) Yöneticisi\nVeri Yönetişimi Sorumlusu\nSiber Güvenlik Yöneticisi\nAI Etik Görevlisi\nYapay Zeka Benimseme Stratejisti\nSanal Ekip Lideri\nKriz Yönetimi Koordinatörü\nTedarik Zinciri Dayanıklılık Yöneticisi\nUzay Turizmi Operasyon Direktörü`,
-    },
-
-    {
-      id: "3",
-      name: "Yardım ve Sosyal Kariyerler",
-      geleneksel: `Sosyal Hizmet Uzmanı\nDanışman/Psikolog\nHemşire\nÖğretmen\nEvlilik ve Aile Terapisti\nMadde Bağımlılığı Danışmanı\nKlinik Psikolog\nOkul Danışmanı\nRehabilitasyon Danışmanı\nKâr Amacı Gütmeyen Program Yöneticisi\nGeriatrik Bakım Müdürü\nÇocuk Esirgeme Kurumu Çalışanı\nRuh Sağlığı Teknisyeni\nDarülaceze Çalışanı\nToplum Sağlığı Çalışanı`,
-      futurist: `Telesağlık Uzmanı\nYapay Zeka Terapisti\nSanal Gerçeklik Terapisti\nTeletıp Koordinatörü\nRuh Sağlığı Yapay Zeka Koçu\nGerontolog (yaşlı bakımında uzmanlaşmış)\nDijital Sağlık Koçu\nTopluluk Dayanıklılık Görevlisi\nYapay Zeka Destekli Özel İhtiyaç Eğitimcisi\nAfet Müdahale Koordinatörü\nYapay Zeka ile Geliştirilmiş Yaşlı Refakatçi\nRobotik Rehabilitasyon Terapisti\nUzaktan Ruh Sağlığı Danışmanı\nKriz İletişimi Müdürü\nÇevre Adaleti Savunucusu`,
-    },
-
-    {
-      id: "4",
-      name: "Teknik ve Mühendislik Kariyerleri",
-      geleneksel: `Yazılım Mühendisi\nMakina Mühendisi\nElektrik Mühendisi\nİnşaat Mühendisi\nHavacılık ve Uzay Mühendisi\nBiyomedikal Mühendisi\nÇevre Mühendisi\nKimya Mühendisi\nVeri Bilimcisi\nAğ Yöneticisi\nSistem Mühendisi\nKalite Kontrol Mühendisi\nEndüstri Mühendisi\nProses Mühendisi\nTelekomünikasyon Mühendisi`,
-      futurist: `Kuantum Bilişim Mühendisi\nYapay Zeka (AI) Etik Uzmanı\nRobotik Proses Otomasyon Mühendisi\n3D Baskı Mühendisi\nUzay Araştırmaları Mühendisi\nYenilenebilir Enerji Mühendisi\nOtonom Araç Mühendisi\nArtırılmış Gerçeklik Mühendisi\nBlockchain Geliştiricisi\nSiber Güvenlik Analisti\nSağlık Mühendisi için Yapay Zeka\nNanoteknoloji Mühendisi\nBiyoinformatik Bilimcisi\nSu Kaynakları Mühendisi (Sürdürülebilir Altyapı)\nUzaktan Drone Teknisyeni`,
-    },
-
-    {
-      id: "5",
-      name: "Satış ve İlişki Kurma Kariyerleri",
-      geleneksel: `Satış Temsilcisi\nMuhasebe Müdürü\nİş Geliştirme Müdürü\nEmlakçı\nPazarlama Koordinatörü\nMüşteri İlişkileri Yöneticisi\nReklam Satış Temsilcisi\nMarka Elçisi\nKilit Müşteri Yöneticisi\nİç Satış Temsilcisi\nHalkla İlişkiler Uzmanı\nSatış Operasyonları Analisti\nPerakende Mağaza Müdürü\nEtkinlik Planlayıcısı\nAğırlama Müdürü`,
-      futurist: `Dijital Satış Stratejisti\nYapay Zeka Satış Uzmanı\nSanal Gerçeklik Satış Müdürü\nSürdürülebilirlik Satış Danışmanı\nChatbot Satış Temsilcisi\nMüşteri Deneyimi Direktörü\nVeriye Dayalı Satış Analisti\nE-ticaret Müdürü\nSosyal Ticaret Uzmanı\nYapay Zeka Destekli Kişisel Alışverişçi\nInfluencer Pazarlama Müdürü\nBlockchain Satış Danışmanı\nArtırılmış Gerçeklik Satış Uzmanı\nUzaktan Satış Koçu\nMüşteri Deneyimi Yapay Zeka Tasarımcısı`,
-    },
-
-    {
-      id: "6",
-      name: "Organizasyonel ve İdari Kariyerler",
-      geleneksel: `Yönetici Asistanı\nOfis Müdürü\nYönetici Asistanı\nProje Koordinatörü\nEtkinlik Planlayıcısı\nOfis Yöneticisi\nKayıt Yöneticisi\nİnsan Kaynakları Koordinatörü\nVeri Giriş Uzmanı\nHukuk Sekreteri\nTesis Müdürü\nSatınalma Uzmanı\nSeyahat Koordinatörü\nMüşteri Hizmetleri Sorumlusu\nFaturalandırma Uzmanı`,
-      futurist: `Sanal Asistan\nAI Ofis Müdürü\nİşyeri Refahı Koordinatörü\nBlok Zinciri Yöneticisi\nDijital Etkinlik Yöneticisi\nSürdürülebilirlik Yöneticisi\nSiber Güvenlik Yöneticisi\nVeri Yönetişimi Uzmanı\nUzak Ekip Koordinatörü\nYapay Zeka Destekli İK Koordinatörü\nRobotik Süreç Otomasyonu Yöneticisi\nAkıllı Ofis Danışmanı\nUzay Turizmi Operasyon Koordinatörü\nUzak Etkinlik Planlayıcısı\nNFT Sanat Galerisi Yöneticisi`,
-    },
-
-    {
-      id: "7",
-      name: "Yenilikçi ve Girişimci Kariyerler",
-      geleneksel: `Girişimci/Startup Kurucusu\nGirişim Kapitalisti\nÜrün Müdürü\nİş Geliştirme Uzmanı\nİnovasyon Danışmanı\nGrowth Hacker\nFranchise Sahibi\nTasarım Odaklı Düşünme Kolaylaştırıcısı\nİnovasyon Koçu\nSosyal Girişimci\nPatent Analisti\nBaş İnovasyon Sorumlusu\nSürdürülebilirlik Danışmanı\nBiyolojik korsan\nESG (Çevresel, Sosyal ve Yönetişim) Uzmanı`,
-      futurist: `Blockchain Girişimcisi\nAI Startup Kurucusu\nUzay Turizmi Girişimcisi\nSürdürülebilir Ürün Yenilikçisi\nDijital Sağlık Yenilikçisi\nDrone Hizmetleri Girişimcisi\nNFT Startup Kurucusu\nSanal Gerçeklik Arcade Sahibi\nUzay Madenciliği Girişimcisi\nArtırılmış Gerçeklik Turizm Operatörü\nYeşil Teknoloji Yenilikçisi\nSosyal Etki Girişimcisi için Yapay Zeka\nKuantum Bilişim Girişimcisi\nKişisel Markalaşma Koçu\nMetaverse Deneyim Tasarımcısı`,
-    },
-
-    {
-      id: "8",
-      name: "Öğretim ve Mentorluk Kariyerleri",
-      geleneksel: `Öğretmen/Eğitimci\nProfesör\nOkul Müdürü\nMüfredat Geliştirici\nÖğretim Tasarımcısı\nEğitim Danışmanı\nÇevrimiçi Eğitmen\nÖzel Eğitim Öğretmeni\nESL Öğretmeni\nOkul Danışmanı\nKütüphaneci\nMentor/Koç\nKariyer Danışmanı\nEğitim Teknoloğu\nGençlik Mentoru`,
-      futurist: `Virtual Reality Education Specialist\nAI Education Coach\nEdTech Developer\nOnline Learning Experience Designer\nAugmented Reality Instructor\nLifelong Learning Facilitator\nYouth Mentor in Virtual Worlds\nAI Mentorship Coordinator\nRemote Education Specialist\nDigital Wellness Educator\nMetaverse Learning Experience Designer\nBlockchain Education Specialist\nGaming and Esports Mentor\nCybersecurity Education Specialist\nAI-Powered Language Instructor`,
-    },
-
-    {
-      id: "0",
-      name: "Analitik ve Veri Odaklı Kariyerler",
-      geleneksel: `Veri Analisti\nFinansal Analist\nPazar Araştırması Analisti\nİstatistikçi\nYöneylem Araştırması Analisti\nAktüerya\nKantitatif Analist\nRisk Analisti\nİş Zekası Analisti\nTedarik Zinciri Analisti\nKredi Analisti\nFiyatlandırma Analisti\nKalite Güvence Analisti\nSağlık Veri Analisti\nUyumluluk Analisti`,
-      futurist: `Veri Bilimcisi\nMakine Öğrenimi Mühendisi\nYapay Zeka (AI) Etikçisi\nVeri Gizliliği Görevlisi\nBlockchain Veri Analisti\nBaş Veri Sorumlusu\nTahmine Dayalı Analitik Modelleyici\nArtırılmış Analitik Uzmanı\nSiber Güvenlik Veri Analisti\nKuantum Veri Analisti\nSağlık Bilişiminde Veri Bilimcisi\nVeriye Dayalı Pazarlama Uzmanı\nSürdürülebilirlik Veri Analisti\nİnsan Kaynakları Analisti için Yapay Zeka\nIoT (Nesnelerin İnterneti) Veri Analisti`,
-    },
-  ];
 
   var image_karar_verme_stratejileri_1 = "https://appwrite.anahtarsensin.com/v1/storage/buckets/6708de8e00054cee7bd1/files/6756b247000e1713375d/view?project=665474aa001cd7ecbebd&project=665474aa001cd7ecbebd&mode=admin";
   var image_karar_verme_stratejileri_2 = "https://appwrite.anahtarsensin.com/v1/storage/buckets/6708de8e00054cee7bd1/files/6756b251000cce3d6d50/view?project=665474aa001cd7ecbebd&project=665474aa001cd7ecbebd&mode=admin";
@@ -1061,25 +724,6 @@ export default async ({ req, res, log, error }) => {
   var image_karar_verme_stratejileri_eng_10 = "https://appwrite.anahtarsensin.com/v1/storage/buckets/6708de8e00054cee7bd1/files/6855440f003200f2efeb/view?project=664d9d3100058da52135&project=664d9d3100058da52135&mode=admin";
   var image_karar_verme_stratejileri_eng_11 = "https://appwrite.anahtarsensin.com/v1/storage/buckets/6708de8e00054cee7bd1/files/68554416000c5de78d53/view?project=664d9d3100058da52135&project=664d9d3100058da52135&mode=admin";
 
-  var image_6_3_leader_explorer = "https://appwrite.anahtarsensin.com/v1/storage/buckets/6708de8e00054cee7bd1/files/673322ea0023c9901d57/view?project=665474aa001cd7ecbebd&project=665474aa001cd7ecbebd&mode=admin";
-  var image_6_2_talented_leader = "https://appwrite.anahtarsensin.com/v1/storage/buckets/6708de8e00054cee7bd1/files/673322e2001fdd7852d7/view?project=665474aa001cd7ecbebd&project=665474aa001cd7ecbebd&mode=admin";
-  var image_5_2_solution_gives_talent = "https://appwrite.anahtarsensin.com/v1/storage/buckets/6708de8e00054cee7bd1/files/673322d9002bce8dd6a6/view?project=665474aa001cd7ecbebd&project=665474aa001cd7ecbebd&mode=admin";
-  var image_5_1_practice_authority = "https://appwrite.anahtarsensin.com/v1/storage/buckets/6708de8e00054cee7bd1/files/673322d20033d27b4f32/view?project=665474aa001cd7ecbebd&project=665474aa001cd7ecbebd&mode=admin";
-  var image_4_6_impactful_leader = "https://appwrite.anahtarsensin.com/v1/storage/buckets/6708de8e00054cee7bd1/files/673322c8001d23247b88/view?project=665474aa001cd7ecbebd&project=665474aa001cd7ecbebd&mode=admin";
-  var image_4_1_attractive_authority = "https://appwrite.anahtarsensin.com/v1/storage/buckets/6708de8e00054cee7bd1/files/673322c0000834ab763b/view?project=665474aa001cd7ecbebd&project=665474aa001cd7ecbebd&mode=admin";
-  var image_3_6_explorer_role_model = "https://appwrite.anahtarsensin.com/v1/storage/buckets/6708de8e00054cee7bd1/files/673322b60012aa7e3499/view?project=665474aa001cd7ecbebd&project=665474aa001cd7ecbebd&mode=admin";
-  var image_3_5_exploration_solver = "https://appwrite.anahtarsensin.com/v1/storage/buckets/6708de8e00054cee7bd1/files/673322ad0011d4c5a403/view?project=665474aa001cd7ecbebd&project=665474aa001cd7ecbebd&mode=admin";
-  var image_2_5_talented_solution_creator = "https://appwrite.anahtarsensin.com/v1/storage/buckets/6708de8e00054cee7bd1/files/673322a50018baefc20b/view?project=665474aa001cd7ecbebd&project=665474aa001cd7ecbebd&mode=admin";
-  var image_2_4_talented_connector = "https://appwrite.anahtarsensin.com/v1/storage/buckets/6708de8e00054cee7bd1/files/6733229a0030e4ce5812/view?project=665474aa001cd7ecbebd&project=665474aa001cd7ecbebd&mode=admin";
-  var image_1_4_information_connector = "https://appwrite.anahtarsensin.com/v1/storage/buckets/6708de8e00054cee7bd1/files/673322910004bac07424/view?project=665474aa001cd7ecbebd&project=665474aa001cd7ecbebd&mode=admin";
-  var image_1_3_explorer_proffessor = "https://appwrite.anahtarsensin.com/v1/storage/buckets/6708de8e00054cee7bd1/files/67332285001c81e3bf63/view?project=665474aa001cd7ecbebd&project=665474aa001cd7ecbebd&mode=admin";
-
-  var image_projector = "https://appwrite.anahtarsensin.com/v1/storage/buckets/6708de8e00054cee7bd1/files/projector/view?project=665474aa001cd7ecbebd&project=665474aa001cd7ecbebd&mode=admin";
-  var image_generator_w = "https://appwrite.anahtarsensin.com/v1/storage/buckets/6708de8e00054cee7bd1/files/generator-w/view?project=665474aa001cd7ecbebd&project=665474aa001cd7ecbebd&mode=admin";
-  var image_generator_m = "https://appwrite.anahtarsensin.com/v1/storage/buckets/6708de8e00054cee7bd1/files/generator-m/view?project=665474aa001cd7ecbebd&project=665474aa001cd7ecbebd&mode=admin";
-  var image_reflector = "https://appwrite.anahtarsensin.com/v1/storage/buckets/6708de8e00054cee7bd1/files/reflector/view?project=665474aa001cd7ecbebd&project=665474aa001cd7ecbebd&mode=admin";
-  var image_manifestor = "https://appwrite.anahtarsensin.com/v1/storage/buckets/6708de8e00054cee7bd1/files/manifestor/view?project=665474aa001cd7ecbebd&project=665474aa001cd7ecbebd&mode=admin";
-
   var guclu_yanlarinData = usageGate;
 
 // Çalışma ve Öğrenme Stilin
@@ -1090,31 +734,31 @@ var c_o_s_individual_ozet_1 = "Çalışma Stilin: Bağımsız";
 var c_o_s_individual_ozet_2 = "Bilgiyi hızlı ve kendi başına işleyebilen bir yapıya sahipsin. Hızlı düşünme ve harekete geçme yeteneğin güçlü olmakla birlikte, zaman zaman başkalarının ritmine uyum sağlamak uzun vadeli başarı için önemli olabilir. Bağımsızlığını korurken, ekip içindeki farklı bakış açılarını dahil etmek sana daha derin ve etkili sonuçlar getirebilir.";
 
 var c_o_s_collaborative_title = "İş Birlikçi";
-var c_o_s_collaborative = "Senin İşbirlikçi çalışma ve öğrenme tarzın sayesinde, başkalarıyla bir aradayken en parlak halini sergiliyorsun. Diğer insanlarla çalışırken, ortaya çıkan enerji ve fikirler seni canlandırıyor, doğal enerjin iş birliği içinde güçleniyor. Sadece düşünceleri paylaşmıyorsun; başka biriyle çalışmak ya da grup ortamında olmak, en iyi yanlarını ortaya çıkarmana yardımcı oluyor. Takım çalışması senin için adeta bir 'güç artışı' gibi, kendi yeteneklerini ve fikirlerini yükseltiyor. Bu yüzden, başkalarıyla çalışmakta gerçekten başarılısın çünkü herkes bir araya geldiğinde, bilgiyi anlama ve işleme yeteneğin hızla gelişiyor.\n\nYalnız çalışırken bazen işleri tamamlayamama hissine kapılabilirsin. Bu bir eksiklik değil, tam potansiyelinin iş birliği yoluyla ortaya çıktığının bir göstergesi. Başkalarının varlığı, senin bilgi işleme gücünü tamamlıyor ve bilgiyi uyumlaştırma yeteneğini harekete geçiriyor.\n\nİş dünyasında, ortaklıklar kurmak senin için özellikle faydalı olabilir. Bu bir bağımlılık değil, diğer insanlarla yaratıcı bir alanı paylaşmanın getirdiği canlı bir değişimdir. İçgörülerinin derinliği, doğal olarak senin yeteneklerini tamamlayan becerilere ve güçlü yönlere sahip insanları kendine çektiğin için genişler.\n\nSenin tarzın, bilgiyi sindirip tam anlamıyla işlemeye daha fazla zaman ayırmanı gerektirebilir.Bu, konuları derinlemesine keşfetmeni ve bir sorun ya da fırsatın farklı yönlerini değerlendirmeni sağlar.İşte bu yaklaşımın büyük avantajı: Bir şeyi tam olarak anladığında, onu her açıdan incelediğin için bu sadece anlamış olmak değil, adeta içini dışını bilmek anlamına gelir.Bu derin anlayış, iş dünyasında senin için bir süper güçtür.Bir karar ya da projeye ilerlemeye hazır olduğunda, sağlam bir temel ve ayrıntılı bir kavrayışla hareket ediyorsun.\n\nKarar verirken içgüdüsel olarak hemen sonuca ulaşmak isteyebilirsin.Bunun yerine, doğal ritmini kucakla ve karar verme sürecinin başkalarının varlığıyla gelişmesine izin ver.Doğru kişilerle birlikte olduğunda, açık fikirlerin aktığı bir ortamda, bütünlük ve kesinlik duyguların ortaya çıkacak ve seni doğru sonuca yönlendirecek.\n\nCanlı bir ortamda olmak — hareketli bir ofis, işbirlikçi bir atölye ya da halka açık bir toplantı yeri fark etmez — senin uyum sürecin için bir katalizör görevi görür. Bu ortamların enerjisi, bilgi işleme yeteneğini artırır ve zihinsel keskinliğini yükseltir.\nİşbirlikçi alanların enerjisini ve başkalarıyla çalışma eğilimini kullanarak iş dünyasında başarıya ulaşabilirsin.";
+var c_o_s_collaborative = "Senin İşbirlikçi çalışma ve öğrenme tarzın sayesinde, başkalarıyla bir aradayken en parlak halini sergiliyorsun. Diğer insanlarla çalışırken, ortaya çıkan enerji ve fikirler seni canlandırıyor, doğal enerjin iş birliği içinde güçleniyor. Sadece düşünceleri paylaşmıyorsun; başka biriyle çalışmak ya da grup ortamında olmak, en iyi yanlarını ortaya çıkarmana yardımcı oluyor. Takım çalışması senin için adeta bir 'güç artışı' gibi, kendi yeteneklerini ve fikirlerini yükseltiyor. Bu yüzden, başkalarıyla çalışmakta gerçekten başarılısın çünkü herkes bir araya geldiğinde, bilgiyi anlama ve işleme yeteneğin hızla gelişiyor.\n\nYalnız çalışırken bazen işleri tamamlayamama hissine kapılabilirsin. Bu bir eksiklik değil, tam potansiyelinin iş birliği yoluyla ortaya çıktığının bir göstergesi. Başkalarının varlığı, senin bilgi işleme gücünü tamamlıyor ve bilgiyi uyumlaştırma yeteneğini harekete geçiriyor.\n\nİş dünyasında, ortaklıklar kurmak senin için özellikle faydalı olabilir. Bu bir bağımlılık değil, diğer insanlarla yaratıcı bir alanı paylaşmanın getirdiği canlı bir değişimdir. İçgörülerinin derinliği, doğal olarak senin yeteneklerini tamamlayan becerilere ve güçlü yönlere sahip insanları kendine çektiğin için genişler.\n\nSenin tarzın, bilgiyi sindirip tam anlamıyla işlemeye daha fazla zaman ayırmanı gerektirebilir. Bu, konuları derinlemesine keşfetmeni ve bir sorun ya da fırsatın farklı yönlerini değerlendirmeni sağlar. İşte bu yaklaşımın büyük avantajı: Bir şeyi tam olarak anladığında, onu her açıdan incelediğin için bu sadece anlamış olmak değil, adeta içini dışını bilmek anlamına gelir.Bu derin anlayış, iş dünyasında senin için bir süper güçtür. Bir karar ya da projeye ilerlemeye hazır olduğunda, sağlam bir temel ve ayrıntılı bir kavrayışla hareket ediyorsun.\n\nKarar verirken iç güdüsel olarak hemen sonuca ulaşmak isteyebilirsin. Bunun yerine, doğal ritmini kucakla ve karar verme sürecinin başkalarının varlığıyla gelişmesine izin ver. Doğru kişilerle birlikte olduğunda, açık fikirlerin aktığı bir ortamda, bütünlük ve kesinlik duyguların ortaya çıkacak ve seni doğru sonuca yönlendirecek.\n\nCanlı bir ortamda olmak — hareketli bir ofis, işbirlikçi bir atölye ya da halka açık bir toplantı yeri fark etmez — senin uyum sürecin için bir katalizör görevi görür. Bu ortamların enerjisi, bilgi işleme yeteneğini artırır ve zihinsel keskinliğini yükseltir.\n\nİşbirlikçi alanların enerjisini ve başkalarıyla çalışma eğilimini kullanarak iş dünyasında başarıya ulaşabilirsin.";
 var c_o_s_collaborative_s3 = "• Birden fazla kaynaktan bilgi toplarken, bu bilgileri nasıl daha sabırlı bir şekilde sindirebilirsin?\n\n• Farklı insanlarla etkileşim içinde olduğunda enerjin nasıl artıyor? Bu enerjiyi iş hayatında daha etkin kullanmak için neler yapabilirsin?\n\n• Kararlarını aceleye getirmek yerine, düşünmek ve farklı açılardan bakmak için yeterince zaman ayırıyor musun?\n\n• Kararlarını aceleye getirmek yerine, düşünmek ve farklı açılardan bakmak için yeterince zaman ayırıyor musun?\n\n• Çeşitliliğin iş süreçlerine katkısını daha iyi anlamak ve kullanmak için kendini nasıl geliştirebilirsin? ";
 var c_o_s_collaborative_ozet_1 = "Çalışma Stilin: İşbirlikçi";
 var c_o_s_collaborative_ozet_2 = "Başkalarıyla birlikte çalışırken enerjin artar ve düşünme gücün derinleşir. Ekip ortamlarında parladığın gibi, fikirleri paylaşmak ve birlikte üretmek senin öğrenme sürecini zenginleştirir. İçinde bulunduğun ortamın canlılığı, öğrenme hızını artırır ve kararlarında sağlam bir temel oluşturur.";
 
 var c_o_s_synthesizing_title = "Sentezleyen";
-var c_o_s_synthesizing = "Senin sentezleyici çalışma ve öğrenme tarzın, farklı bilgi kaynaklarını bir araya getirip anlamlandırma konusunda benzersiz bir yetenek sağlıyor. En iyi performansı, özgürce hareket edip çeşitli insanlarla etkileşime girebildiğinde gösterirsin. Farklı perspektiflerden bilgi toplamak ve bu bilgileri bir yapboz gibi birleştirmek senin doğal yeteneğin.\n\nDeğişim ve çeşitlilikten beslenirsin. Gün içinde farklı ortamlarda, çeşitli insanlarla etkileşim kurduğunda kendini daha enerjik ve sağlıklı hissedersin.Aynı ortamda veya aynı grupla sınırlı kalmak seni kısıtlanmış hissettirebilir, bu yüzden seni meşgul eden ve zihinsel olarak uyarıcı çeşitli iş deneyimlerini aramalısın.\n\nDoğal eğilimin hızla hareket etmek ve kararlarını anlık olarak vermek olabilir, çünkü bu senin hırsın ve itici gücünle bağlantılıdır. Ancak, asıl gücün, elindeki bilgileri sentezleyebilme yeteneğinden gelir ve bu da sabır gerektirir.Farklı girdileri tam anlamıyla bütünleştirip anlamadan harekete geçmeden önce kendine zaman tanıdığında, daha dengeli ve etkili sonuçlar elde edersin.\n\nÇoğu zaman sanki aynı anda üç rolü birden üstleniyormuş gibi hissedebilirsin, her biri kendi istekleri ve bakış açılarıyla.Bu bir bölünme değil, üç güçlü yönün bir araya gelmesiyle oluşan bir bütünlüktür. Bu üç yönü bir arada kullanmayı başardığında, durumlara, zorluklara ve çözümlere üç boyutlu bir bakış açısıyla yaklaşabilirsin.\n\nİş birliği, farklı bakış açılarını sentezlemek için faydalı olsa da, yalnız çalışmakta da oldukça iyisin. Kendi başına işleri halledebilme yeteneğin, farklı ortamlarda esnek bir şekilde çalışma özgürlüğü sağlar—ister hareketli bir ofiste ister sessiz bir özel alanda.Unutma, sentezleyici çalışma ve öğrenme tarzın, kendi kendine yetebilme ve farklı kaynaklardan gelen içgörüleri birleştirebilme yeteneğinin güçlü bir birleşimidir.Bu da seni iş dünyasında dinamik ve çok yönlü bir değer haline getirir.";
+var c_o_s_synthesizing = "Senin sentezleyici çalışma ve öğrenme tarzın, farklı bilgi kaynaklarını bir araya getirip anlamlandırma konusunda benzersiz bir yetenek sağlıyor. En iyi performansı, özgürce hareket edip çeşitli insanlarla etkileşime girebildiğinde gösterirsin. Farklı perspektiflerden bilgi toplamak ve bu bilgileri bir yapboz gibi birleştirmek senin doğal yeteneğin.\n\nDeğişim ve çeşitlilikten beslenirsin. Gün içinde farklı ortamlarda, çeşitli insanlarla etkileşim kurduğunda kendini daha enerjik ve sağlıklı hissedersin. Aynı ortamda veya aynı grupla sınırlı kalmak seni kısıtlanmış hissettirebilir, bu yüzden seni meşgul eden ve zihinsel olarak uyarıcı çeşitli iş deneyimlerini aramalısın.\n\nDoğal eğilimin hızla hareket etmek ve kararlarını anlık olarak vermek olabilir, çünkü bu senin hırsın ve itici gücünle bağlantılıdır. Ancak, asıl gücün, elindeki bilgileri sentezleyebilme yeteneğinden gelir ve bu da sabır gerektirir. Farklı girdileri tam anlamıyla bütünleştirip anlamadan harekete geçmeden önce kendine zaman tanıdığında, daha dengeli ve etkili sonuçlar elde edersin.\n\nÇoğu zaman sanki aynı anda üç rolü birden üstleniyormuş gibi hissedebilirsin, her biri kendi istekleri ve bakış açılarıyla.Bu bir bölünme değil, üç güçlü yönün bir araya gelmesiyle oluşan bir bütünlüktür. Bu üç yönü bir arada kullanmayı başardığında, durumlara, zorluklara ve çözümlere üç boyutlu bir bakış açısıyla yaklaşabilirsin.\n\nİş birliği, farklı bakış açılarını sentezlemek için faydalı olsa da, yalnız çalışmakta da oldukça iyisin. Kendi başına işleri halledebilme yeteneğin, farklı ortamlarda esnek bir şekilde çalışma özgürlüğü sağlar—ister hareketli bir ofiste ister sessiz bir özel alanda. Unutma, sentezleyici çalışma ve öğrenme tarzın, kendi kendine yetebilme ve farklı kaynaklardan gelen içgörüleri birleştirebilme yeteneğinin güçlü bir birleşimidir.Bu da seni iş dünyasında dinamik ve çok yönlü bir değer haline getirir.";
 var c_o_s_synthesizing_s3 = "• Başkalarıyla çalışırken enerjinin yükseldiğini ne kadar fark ediyorsun ve bunu projelerine nasıl yansıtabilirsin?\n\n• Tek başına çalışırken hangi zorlukları yaşıyorsun ve bu durumlarda kendini nasıl daha iyi motive edebilirsin?\n\n• İş birliği ortamlarında diğer kişilerin bakış açılarına nasıl yer veriyorsun ve bu sürecin sonucunda nasıl daha zengin içgörüler elde edebilirsin?\n\n• Bilgiyi sindirirken, karşındaki insanlarla etkileşime girmenin senin düşünme sürecini nasıl hızlandırdığını fark ediyor musun?\n\n• Karar alma sürecinde başkalarının enerjisini ve fikirlerini nasıl daha etkin bir şekilde kullanabilirsin? ";
 var c_o_s_synthesizing_ozet_1 = "Çalışma Stilin: Sentezleyen";
 var c_o_s_synthesizing_ozet_2 = "Farklı kaynaklardan bilgi alıp birleştirme konusunda doğuştan gelen bir yeteneğe sahipsin. Değişken ve dinamik ortamlarda en iyi performansını gösterirsin. Bilgiyi sentezlemeden önce kendine zaman tanıman, çok yönlü bakış açını daha dengeli ve etkili bir şekilde ortaya koymanı sağlar.";
 
 var c_o_s_subjective_title = "Öznel";
-var c_o_s_subjective = "Senin Öznel Çalışma ve Öğrenme tarzın, bilgiyi işleme konusunda oldukça özel ve sabit bir yaklaşıma sahip olmanı sağlar. Bu, tamamen kişisel deneyimlerine dayanan, derinlemesine ve öznel bir yöntemdir. Diğerleri sana daha az esnek görünebilir, ancak bu, bilgiyi kendine özgü bir şekilde özümseme sürecinden kaynaklanıyor. Bilgileri doğal olarak kendi bakış açınla yorumlayarak, çevrendeki dünyayı benzersiz bir biçimde anlamlandırıyorsun.\n\nYaklaşımın seçici gibi görünebilir ve bu, sınırların önemini ve derin bağlantıların değerini bildiğin içindir. Doğal olarak belirli insanlara yakınlık duyarak, güvenilir ve samimi bir çevre oluşturma eğilimindesin. Bu, bazen 'taraf tutuyormuşsun' gibi görünebilir ama aslında, gerçek ve derin ilişkiler kurma ihtiyacının bir yansımasıdır.\n\nKüçük gruplarda sık sık uyum sağlamanı gerektiren durumlar sana zor gelebilir, çünkü en iyi işlerini, farklı insanlarla ve farklı ortamlarda etkileşim kurma özgürlüğüne sahip olduğunda ortaya koyarsın. Bu çeşitlilik ihtiyacı, nicelikten çok nitelik arayışından kaynaklanıyor; seni zenginleştiren farklı bakış açıları, öznel analizini derinleştiriyor.\n Hızlı kararlar vermek sana göre değildir çünkü bilgiyi kendi ritmine uygun şekilde işlemen için zamana ihtiyacın var. Bu zaman, yeni bilgileri mevcut bilgi birikimine tam anlamıyla dahil etmene olanak tanır, böylece verdiğin kararlar kişisel anlayışına dayalı sağlam temellere oturur.\n\nKendi hızında hareket etmek senin için çok önemli. Başkalarının beklentilerine veya zaman çizelgelerine uymaya zorlanmak, zihinsel, fiziksel ve duygusal sağlığını olumsuz etkileyebilir. Kendi ritmini benimsemek, sürecine sadık kalmanı ve işte de, hayatta da etkili ve tatmin edici sonuçlar elde etmeni sağlar.\n İş dünyasında, Öznel çalışma ve öğrenme tarzın büyük bir avantajdır. Derinlemesine düşünülmüş ve yenilikçi çözümler ortaya koymana yardımcı olur. Kişisel işleme tarzına sadık kalarak, her profesyonel ortamda tartışmalara ve projelere önemli bir değer katabilir ve daha çeşitli, zengin bir bakış açısına katkıda bulunabilirsin.";
+var c_o_s_subjective = "Senin Öznel Çalışma ve Öğrenme tarzın, bilgiyi işleme konusunda oldukça özel ve sabit bir yaklaşıma sahip olmanı sağlar. Bu, tamamen kişisel deneyimlerine dayanan, derinlemesine ve öznel bir yöntemdir. Diğerleri sana daha az esnek görünebilir, ancak bu, bilgiyi kendine özgü bir şekilde özümseme sürecinden kaynaklanıyor. Bilgileri doğal olarak kendi bakış açınla yorumlayarak, çevrendeki dünyayı benzersiz bir biçimde anlamlandırıyorsun.\n\nYaklaşımın seçici gibi görünebilir ve bu, sınırların önemini ve derin bağlantıların değerini bildiğin içindir. Doğal olarak belirli insanlara yakınlık duyarak, güvenilir ve samimi bir çevre oluşturma eğilimindesin. Bu, bazen 'taraf tutuyormuşsun' gibi görünebilir ama aslında, gerçek ve derin ilişkiler kurma ihtiyacının bir yansımasıdır.\n\nKüçük gruplarda sık sık uyum sağlamanı gerektiren durumlar sana zor gelebilir, çünkü en iyi işlerini, farklı insanlarla ve farklı ortamlarda etkileşim kurma özgürlüğüne sahip olduğunda ortaya koyarsın. Bu çeşitlilik ihtiyacı, nicelikten çok nitelik arayışından kaynaklanıyor; seni zenginleştiren farklı bakış açıları, öznel analizini derinleştiriyor.\n\nHızlı kararlar vermek sana göre değildir çünkü bilgiyi kendi ritmine uygun şekilde işlemen için zamana ihtiyacın var. Bu zaman, yeni bilgileri mevcut bilgi birikimine tam anlamıyla dahil etmene olanak tanır, böylece verdiğin kararlar kişisel anlayışına dayalı sağlam temellere oturur.\n\nKendi hızında hareket etmek senin için çok önemli. Başkalarının beklentilerine veya zaman çizelgelerine uymaya zorlanmak, zihinsel, fiziksel ve duygusal sağlığını olumsuz etkileyebilir. Kendi ritmini benimsemek, sürecine sadık kalmanı ve işte de, hayatta da etkili ve tatmin edici sonuçlar elde etmeni sağlar.\n\nİş dünyasında, Öznel çalışma ve öğrenme tarzın büyük bir avantajdır. Derinlemesine düşünülmüş ve yenilikçi çözümler ortaya koymana yardımcı olur. Kişisel işleme tarzına sadık kalarak, her profesyonel ortamda tartışmalara ve projelere önemli bir değer katabilir ve daha çeşitli, zengin bir bakış açısına katkıda bulunabilirsin.";
 var c_o_s_subjective_s3 = "• Kararlarını kendi kişisel deneyimlerine dayandırırken, farklı bakış açılarını nasıl dahil edebilirsin?\n\n• Derin ve samimi ilişkiler kurma eğilimin iş hayatında sana nasıl fayda sağlıyor?\n\n• Kendine zaman ayırarak bilgiyi özümsemek için hangi stratejileri kullanıyorsun?\n\n• Farklı insanlardan gelen bilgilerle kendi deneyimlerini nasıl birleştiriyorsun ve bu birleşimden nasıl yararlanıyorsun?\n\n• Dış baskılar altında çalışırken, kendi doğal ritmine sadık kalmayı nasıl başarabilirsin? ";
 var c_o_s_subjective_ozet_1 = "Çalışma Stilin: Öznel";
 var c_o_s_subjective_ozet_2 = "Bilgiyi kişisel deneyimlerin süzgecinden geçirerek anlamlandırırsın. Derin bağlar kurduğun ortamlarda en iyi şekilde öğrenir ve karar alırsın. Kendi hızında ilerlemek sana hem özgün bir bakış açısı hem de sürdürülebilir başarı getirir.";
 
 var c_o_s_objective_title = "Objektif";
-var c_o_s_objective = "Senin Objektif çalışma ve öğrenme tarzın, bilgiyi önyargısız bir şekilde alma yeteneğine sahip olmanı sağlar ve bu da bulgularını gerçekten tarafsız bir şekilde paylaşmanı mümkün kılar. Bilgiye yaklaşımın, çevreyi örnekleme, karşılaştığın şeyleri yansıtma ve algıladıklarını net ve tarafsız bir bakış açısıyla değerlendirme üzerine kuruludur.\n\nÇevrendeki ortamın genel sağlığını, ister ofisinin fiziksel alanı ister ekibinin duygusal durumu olsun, sezme yeteneğin çok değerlidir. İnce ipuçlarını doğal olarak yakalayarak, bir durumun iyi mi yoksa altında çözülmesi gereken sorunlar mı barındırdığını objektif bir şekilde algılayabilirsin.\n\nSamimiyete olan keskin duyarlılığın sayesinde, çevrendeki insanların ne zaman kendilerine sadık olduğunu ya da olmadığını sezebilirsin. Bu yetenek, iş dünyasında kime güvenebileceğini anlamana ve kimlerin kendini açması için cesaretlendirilmesi gerektiğini belirlemene yardımcı olur.\n\n Açık yaklaşımın, adeta bir ayna gibi, insanlara ve gruplara, eylemlerinin ve tercihlerinin gerçekliğini yansıtmanı sağlar, özellikle de zarar verici ya da adaletsiz durumlarla karşılaştıklarında. Bu, seni güçlü bir değişim temsilcisi yapar, çünkü etrafındakilerin daha net görmelerine ve herkesin yararına olacak ayarlamalar yapmalarına yardımcı olabilirsin.\n\nDeğerlendirici olarak, Objektif çalışma ve öğrenme ile her şeyi kişisel filtrelerden geçirmeden, anlamak ve değerlendirmek amacıyla işlersin. Bu geniş ve açık yaklaşım, her şeyden etkilenmek anlamına gelmez; aksine, bilgilerin senden geçmesine izin verir ve böylece diğerlerinin kaçırabileceği bir netlik sağlar.\n\nProfesyonel alanda, objektif değerlendirme yeteneğin sayesinde tarafsız içgörüler ve rehberlik sunabilirsin. İster yeni bir projenin uygulanabilirliğini değerlendiriyor, ister potansiyel bir ortaklığın havasını ölçüyor ol, değerlendirmelerin net ve bulandırılmamış gözlemlere dayanır. İş dünyasında, işletmelerin misyonlarına sadık kalmalarına ve sağlıklı, samimi bir şekilde faaliyet göstermelerine yardımcı olmak için önemli bir rol oynarsın. Objektif çalışma ve öğrenme tarzını kullanarak iş dünyasında çok gerekli bir perspektif sunar, kararların mevcut bilgilerin doğru ve adil bir değerlendirmesine dayalı olarak verilmesini sağlarsın.";
+var c_o_s_objective = "Senin Objektif çalışma ve öğrenme tarzın, bilgiyi önyargısız bir şekilde alma yeteneğine sahip olmanı sağlar ve bu da bulgularını gerçekten tarafsız bir şekilde paylaşmanı mümkün kılar. Bilgiye yaklaşımın, çevreyi örnekleme, karşılaştığın şeyleri yansıtma ve algıladıklarını net ve tarafsız bir bakış açısıyla değerlendirme üzerine kuruludur.\n\nÇevrendeki ortamın genel sağlığını, ister ofisinin fiziksel alanı ister ekibinin duygusal durumu olsun, sezme yeteneğin çok değerlidir. İnce ipuçlarını doğal olarak yakalayarak, bir durumun iyi mi yoksa altında çözülmesi gereken sorunlar mı barındırdığını objektif bir şekilde algılayabilirsin.\n\nSamimiyete olan keskin duyarlılığın sayesinde, çevrendeki insanların ne zaman kendilerine sadık olduğunu ya da olmadığını sezebilirsin. Bu yetenek, iş dünyasında kime güvenebileceğini anlamana ve kimlerin kendini açması için cesaretlendirilmesi gerektiğini belirlemene yardımcı olur.\n\nAçık yaklaşımın, adeta bir ayna gibi, insanlara ve gruplara, eylemlerinin ve tercihlerinin gerçekliğini yansıtmanı sağlar, özellikle de zarar verici ya da adaletsiz durumlarla karşılaştıklarında. Bu, seni güçlü bir değişim temsilcisi yapar, çünkü etrafındakilerin daha net görmelerine ve herkesin yararına olacak ayarlamalar yapmalarına yardımcı olabilirsin.\n\nDeğerlendirici olarak, Objektif çalışma ve öğrenme ile her şeyi kişisel filtrelerden geçirmeden, anlamak ve değerlendirmek amacıyla işlersin. Bu geniş ve açık yaklaşım, her şeyden etkilenmek anlamına gelmez; aksine, bilgilerin senden geçmesine izin verir ve böylece diğerlerinin kaçırabileceği bir netlik sağlar.\n\nProfesyonel alanda, objektif değerlendirme yeteneğin sayesinde tarafsız içgörüler ve rehberlik sunabilirsin. İster yeni bir projenin uygulanabilirliğini değerlendiriyor, ister potansiyel bir ortaklığın havasını ölçüyor ol, değerlendirmelerin net ve bulandırılmamış gözlemlere dayanır. İş dünyasında, işletmelerin misyonlarına sadık kalmalarına ve sağlıklı, samimi bir şekilde faaliyet göstermelerine yardımcı olmak için önemli bir rol oynarsın. Objektif çalışma ve öğrenme tarzını kullanarak iş dünyasında çok gerekli bir perspektif sunar, kararların mevcut bilgilerin doğru ve adil bir değerlendirmesine dayalı olarak verilmesini sağlarsın.";
 var c_o_s_objective_s3 = "• Çevrende olup bitenleri tarafsız bir şekilde değerlendirirken bu içgörülerini iş hayatına nasıl yansıtıyorsun?\n\n• İnsanların samimiyetini veya uyumsuzluklarını sezdiğinde nasıl tepki veriyorsun ve bu bilgiyi nasıl kullanıyorsun?\n\n• Ortamın duygusal ve fiziksel sağlığını sezme yeteneğinle iş süreçlerini nasıl daha verimli hale getirebilirsin?\n\n• İş yerinde bir ayna gibi davranarak başkalarına hangi farkındalıkları kazandırıyorsun ve bu süreçte nasıl bir değişim yarattığını düşünüyorsun?\n\n• Tarafsız değerlendirmen sayesinde işletmenin misyonuna daha sadık kalmasını nasıl sağlıyorsun? ";
 var c_o_s_objective_ozet_1 = "Çalışma Stilin: Objektif";
 var c_o_s_objective_ozet_2 = "Tarafsızlık ve çevresel farkındalık senin güçlü yönlerin arasında. Bilgiyi önyargısız bir şekilde değerlendirir, bulunduğun ortamın duygusal ve yapısal dengesini kolaylıkla sezebilirsin. Bu objektif yaklaşım, iş dünyasında net kararlar almanı ve diğerlerinin fark edemediği noktaları görmeni sağlar.";
 
 //Çalışma ve Öğrenme Stilin İngilizce
-var c_o_s_individual_eng_title = "Individual"
+var c_o_s_individual_eng_title = "Independent"
 var c_o_s_individual_eng = "With Independent Assimilation, you carry the unique capability to process information and work autonomously. Your demeanor is marked by an innate sense of completeness, needing no external confirmation to feel secure in your understanding and actions. Your focus allows you to digest and assimilate information swiftly, giving you the edge in rapidly evolving situations. This fast-paced cognitive approach enables you to act decisively, making you a valuable asset in high-stakes environments where time is of the essence.\n\nWith your consistent and independent way of processing, you could move fast. While your ability to process rapidly is a strength, it's vital to temper it with patience. The world often operates on collective rhythms that require synchronization. Slowing down allows others to catch up to your pace, ensuring that when you act on your insights, the timing is aligned with both individual and organizational readiness.";
 var c_o_s_individual_eng_s3 = "• How confident are you in making decisions, and how much do you rely on external approval?\n\n• When making quick decisions, how can you be patient to allow others to keep up with your pace?\n\n• Processing information quickly is your natural talent, but in which situations do you recognize the need to slow down and think more deeply?\n\n• How can you make more room for different perspectives when collaborating with your team?\n\n• When working independently, how can you maintain a balanced approach without overlooking potential contributions from others?";
 var c_o_s_individual_eng_ozet_1 = "Your Work Style: Independent";
@@ -2436,10 +2080,10 @@ var kariyer_secim_12_25_eng_s2_9_2 = "We see that you are good with numbers and 
 
 //--  
 var kariyer_secim_12_25_eng_s5_1_1 = "Creative and Artistic Careers";
-var kariyer_secim_12_25_eng_s5_1_2 = "• Graphic Design\n• Fine arts\n• İç Mimarlık\n• Interior Architecture\n• Fashion Design\n• Advertising\n• Cinema and Television\n• Music\n• Creative Writing\n• Performing Arts";
+var kariyer_secim_12_25_eng_s5_1_2 = "• Graphic Design\n• Fine arts\n• Interior Architecture\n• Fashion Design\n• Advertising\n• Cinema and Television\n• Music\n• Creative Writing\n• Performing Arts";
 
 var kariyer_secim_12_25_eng_s5_2_1 = "Leadership and Management Careers";
-var kariyer_secim_12_25_eng_s5_2_2 = "• Company\n• Management and Organization\n• Human Resources Management\n• Industrial Engineering\n• Public Administration\n• Logistics Management\n• Project Management (MSc)\n• International Relations";
+var kariyer_secim_12_25_eng_s5_2_2 = "• Business Administration\n• Management and Organization\n• Human Resources Management\n• Industrial Engineering\n• Public Administration\n• Logistics Management\n• Project Management (MSc)\n• International Relations";
 
 var kariyer_secim_12_25_eng_s5_3_1 = "Charity & Social Careers";
 var kariyer_secim_12_25_eng_s5_3_2 = "• Social Work\n• Psychology\n• Guidance and Psychological Counseling\n• Nursing\n• Physiotherapy and Rehabilitation\n• Healthcare Management\n• Sociology\n• Child Development";
@@ -2448,13 +2092,13 @@ var kariyer_secim_12_25_eng_s5_4_1 = "Technical and Engineering Careers";
 var kariyer_secim_12_25_eng_s5_4_2 = "• Computer Engineering\n• Electrical and Electronics Engineering\n• Mechanical Engineeringi\n• Civil Engineering\n• Software Engineering\n• Industrial Engineering\n• Mechatronics Engineering\n• Mathematical Engineering";
 
 var kariyer_secim_12_25_eng_s5_5_1 = "Sales and Relationship Building Careers";
-var kariyer_secim_12_25_eng_s5_5_2 = "• Company\n• Marketing\n• Public Relations and Advertising\n• Communication\n• International Trade\n• Economics\n• Commercial Law (LL.M.)\n• Sales Management (Certificate and Graduate Programs)";
+var kariyer_secim_12_25_eng_s5_5_2 = "• Business Administration\n• Marketing\n• Public Relations and Advertising\n• Communication\n• International Trade\n• Economics\n• Commercial Law (Masters Degree)\n• Sales Management (Certificate and Graduate Programs)";
 
 var kariyer_secim_12_25_eng_s5_6_1 = "Organizational and Administrative Careers";
-var kariyer_secim_12_25_eng_s5_6_2 = "• Human Resources Management\n• Company\n• Office Management\n• Public Administration\n• Management Information Systems\n• Industrial Engineering\n• Management Engineering\n• Project Management (MSc)";
+var kariyer_secim_12_25_eng_s5_6_2 = "• Human Resources Management\n• Business Administration\n• Office Management\n• Public Administration\n• Management Information Systems\n• Industrial Engineering\n• Management Engineering\n• Project Management (MSc)";
 
 var kariyer_secim_12_25_eng_s5_7_1 = "Innovative and Entrepreneurial Careers";
-var kariyer_secim_12_25_eng_s5_7_2 = "• Company\n• Entrepreneurship\n• E-Commerce and Digital Marketing\n• Industrial Engineering\n• Computer Science\n• Innovation Management (MSc)\n• Product Development & Design";
+var kariyer_secim_12_25_eng_s5_7_2 = "• Business Administration\n• Entrepreneurship\n• E-Commerce and Digital Marketing\n• Industrial Engineering\n• Computer Science\n• Innovation Management (MSc)\n• Product Development & Design";
 
 var kariyer_secim_12_25_eng_s5_8_1 = "Teaching and Mentoring Careers";
 var kariyer_secim_12_25_eng_s5_8_2 = "• Faculties of Education (teaching in fields such as Physics, Chemistry, Mathematics, Turkish Language and Literature)\n• Psychology\n• Guidance and Psychological Counseling\n• Pedagogical Formation Training\n• Educational Administration and Supervision (MSc)\n• Life Coaching (Certificate Programs)";
@@ -2465,7 +2109,7 @@ var kariyer_secim_12_25_eng_s5_9_2 = "• Data Science & Business Analytics\n•
 //-
 var kariyer_secim_12_25_eng_s6_1_1 = "Creative and Artistic Careers";
 var kariyer_secim_12_25_eng_s6_1_2 = "You can be successful in creative and artistic fields without a university degree. Especially after graduating from departments such as design, graphics, fashion and visual arts in vocational high schools, you can follow the following paths:";
-var kariyer_secim_12_25_eng_s6_1_3 = "• Freelance Designer: You can work freelance by creating your own portfolio in areas such as graphic design, web design, illustration.\n\n• Fashion Designer: By working in fashion workshops, you can gain experience in the industry and create your own brand.\n\n• •	Photography: You can become a wedding, event or fashion photographer by working in a photo studio or acquiring your own equipment.\n\n• Musician or Artist: You can develop yourself in the field of music or art, and you can be recognized by sharing your works on social media and digital platforms.";
+var kariyer_secim_12_25_eng_s6_1_3 = "• Freelance Designer: You can work freelance by creating your own portfolio in areas such as graphic design, web design, illustration.\n\n• Fashion Designer: By working in fashion workshops, you can gain experience in the industry and create your own brand.\n\n• Photography: You can become a wedding, event or fashion photographer by working in a photo studio or acquiring your own equipment.\n\n• Musician or Artist: You can develop yourself in the field of music or art, and you can be recognized by sharing your works on social media and digital platforms.";
 
 var kariyer_secim_12_25_eng_s6_2_1 = "Leadership and Management Careers";
 var kariyer_secim_12_25_eng_s6_2_2 = "It is also possible to advance in leadership and management careers with a vocational high school or high school graduation:";
@@ -2534,7 +2178,7 @@ var kariyer_secim_eng_s3_5_1 = "Sales Representative\nAccount Manager\nBusiness 
 var kariyer_secim_eng_s3_6_0 = "Organizational and Administrative Careers";
 var kariyer_secim_eng_s3_6_1 = "Executive Assistant\nOffice Manager\nExecutive Assistant\nProject Coordinator\nEvent Planner\nOffice Administrator\nRecords Manager\nHuman Resources Coordinator\nData Entry Specialist\nLegal Secretary\nFacility Manager\nPurchasing Specialist\nTravel Coordinator\nCustomer Service\nRepresentative\nBilling Specialist";
 var kariyer_secim_eng_s3_7_0 = "Innovative and Entrepreneurial Careers";
-var kariyer_secim_eng_s3_7_1 = "Startup Founder\nEntrepreneur/Startup Founder\nInnovation Consultant\nEducation Consultant\nGrowth Hacker\nFranchise Owner\nDistance Learning Educator\nDesign-Centered Innovation Consultant\nSchool Teacher\nSocial Entrepreneur\nPatent Analyst\nMentor/Coach\nChief Innovation Officer\nCareer Consultant\nSustainability Consultant\nEducational Technologist\nBiotech Innovator\nSG (Environmental, Social, and Governance) Expert";
+var kariyer_secim_eng_s3_7_1 = "Startup Founder\nEntrepreneur/Startup Founder\nInnovation Consultant\nEducation Consultant\nGrowth Hacker\nFranchise Owner\nDistance Learning Educator\nDesign-Centered Innovation Consultant\nSchool Teacher\nSocial Entrepreneur\nPatent Analyst\nMentor/Coach\nChief Innovation Officer\nCareer Consultant\nSustainability Consultant\nEducational Technologist\nBiotech Innovator\nESG (Environmental, Social, and Governance) Expert";
 var kariyer_secim_eng_s3_8_0 = "Teaching and Mentoring Careers";
 var kariyer_secim_eng_s3_8_1 = "Teacher/Educator\nProfessor\nSchool Principal\nCurriculum Developer\nInstructional Designer\nEducation Consultant\nOnline Instructor\nSpecial Education Teacher\nESL Teacher\nSchool Counselor\nLibrarian\nMentor/Coach\nCareer Advisor\nEducational Technologist\nYouth Mentor";
 var kariyer_secim_eng_s3_9_0 = "Analytical and Data-Driven Careers";
@@ -2766,10 +2410,10 @@ var kariyer_secim_25_plus_s7_eng_tech_7_7 = "• Design Consultancy: You can pro
 var kariyer_secim_25_plus_s7_eng_tech_8_1 = "Teaching and Mentorship Careers";
 var kariyer_secim_25_plus_s7_eng_tech_8_2 = "Jobs Available in the Technology Sector";
 var kariyer_secim_25_plus_s7_eng_tech_8_3 = "• Fashion Educator: You can teach students or employees about fashion design, style consultancy, or textile production.";
-var kariyer_secim_25_plus_s7_eng_tech_8_4 = "• Stylist Consultant: You can guide aspiring stylists, helping them develop in their careers.";
-var kariyer_secim_25_plus_s7_eng_tech_8_5 = "• Fashion Coach: You can offer professional coaching to individuals who want to pursue a career in fashion, helping them through their development process.";
-var kariyer_secim_25_plus_s7_eng_tech_8_6 = "• Career Mentor (Fashion): You can guide professionals in the fashion industry, helping them overcome challenges in their careers.";
-var kariyer_secim_25_plus_s7_eng_tech_8_7 = "• Fashion School Administrator: As a school administrator, you can manage educational programs in a fashion school and ensure students receive quality education.";
+var kariyer_secim_25_plus_s7_eng_tech_8_4 = "• Fashion Coach: You can offer professional coaching to individuals who want to pursue a career in fashion, helping them through their development process.";
+var kariyer_secim_25_plus_s7_eng_tech_8_5 = "• Career Mentor (Fashion): You can guide professionals in the fashion industry, helping them overcome challenges in their careers.";
+var kariyer_secim_25_plus_s7_eng_tech_8_6 = "• Fashion School Administrator: As a school administrator, you can manage educational programs in a fashion school and ensure students receive quality education.";
+var kariyer_secim_25_plus_s7_eng_tech_8_7 = "• Stylist Consultant: You can guide aspiring stylists, helping them develop in their careers.";
 
 var kariyer_secim_25_plus_s7_eng_tech_9_1 = "Analytical and Data-Driven Careers";
 var kariyer_secim_25_plus_s7_eng_tech_9_2 = "Jobs Available in the Technology Sector";
@@ -3197,8 +2841,8 @@ var kariyer_secim_25_plus_s7_eng_energy_7_1 = "Innovative and Entrepreneurial Ca
 var kariyer_secim_25_plus_s7_eng_energy_7_2 = "Jobs in the energy and renewable energy sector where you can use innovative thinking and entrepreneurial spirit can be:";
 var kariyer_secim_25_plus_s7_eng_energy_7_3 = "• Renewable Energy Entrepreneur: By establishing a startup that offers renewable energy solutions, you can make a difference with innovative solutions in the sector.";
 var kariyer_secim_25_plus_s7_eng_energy_7_4 = "• Energy Storage Solutions Entrepreneur: You can develop new products in energy storage technologies to increase the efficient use of energy resources.";
-var kariyer_secim_25_plus_s7_eng_energy_7_5 = "• Sustainable Energy Innovation Consultant: By providing innovative sustainable energy solutions to companies, you can ensure the development of environmentally friendly projects.";
-var kariyer_secim_25_plus_s7_eng_energy_7_6 = "• Electric Vehicle Entrepreneur: You can develop charging infrastructures or innovative energy solutions for electric vehicles, creating new business opportunities to ensure sustainability in the transportation sector.";
+var kariyer_secim_25_plus_s7_eng_energy_7_5 = "• Electric Vehicle Entrepreneur: You can develop charging infrastructures or innovative energy solutions for electric vehicles.";
+var kariyer_secim_25_plus_s7_eng_energy_7_6 = "• Sustainable Energy Innovation Consultant: By providing innovative sustainable energy solutions to companies, you can ensure the development of environmentally friendly projects.";
 var kariyer_secim_25_plus_s7_eng_energy_7_7 = "";
 
 var kariyer_secim_25_plus_s7_eng_energy_8_1 = "Teaching and Mentoring Careers";
@@ -3400,8 +3044,8 @@ var kariyer_secim_25_plus_s7_eng_agroTech_5_1 = "Sales and Relationship Building
 var kariyer_secim_25_plus_s7_eng_agroTech_5_2 = "Jobs in the agriculture and agritech sector where you can use your sales and relationship management skills include:";
 var kariyer_secim_25_plus_s7_eng_agroTech_5_3 = "• Agricultural Products Sales Manager: You can sell agricultural machinery, fertilizers, seeds or plant protection products.";
 var kariyer_secim_25_plus_s7_eng_agroTech_5_4 = "• Agricultural Technologies Sales Specialist: You can provide consultancy on agricultural technologies, smart devices and software for farmers, and manage sales processes.";
-var kariyer_secim_25_plus_s7_eng_agroTech_5_5 = "• Customer Relationship Manager: By establishing long-term relationships with the customers of companies in the agricultural sector, you can increase customer satisfaction and loyalty.";
-var kariyer_secim_25_plus_s7_eng_agroTech_5_6 = "• Business Development Manager (AgriTech): You can discover new business opportunities in the agriculture and agricultural technology sector, and expand your marketing and sales networks by establishing strategic business partnerships.";
+var kariyer_secim_25_plus_s7_eng_agroTech_5_5 = "• Business Development Manager: You can discover new business and expand your marketing and sales networks by establishing strategic business partnerships.";
+var kariyer_secim_25_plus_s7_eng_agroTech_5_6 = "• Customer Relationship Manager: By establishing long-term relationships with the customers of companies in the agricultural sector, you can increase customer satisfaction and loyalty.";
 var kariyer_secim_25_plus_s7_eng_agroTech_5_7 = "";
 
 var kariyer_secim_25_plus_s7_eng_agroTech_6_1 = "Organizational and Administrative Careers";
@@ -3670,7 +3314,7 @@ var kariyer_secim_eng_ozet_4_1 = "The Career Field That Suits You Best: Technica
 var kariyer_secim_eng_ozet_4_2 = "You're on a career path where you can maximize your tech and engineering skills. You can excel in areas that require problem-solving, innovative thinking, and technical knowledge. If you're strong in technical fields like computer science or engineering and want to make a difference, technical and engineering careers are a good fit for you.";
 
 var kariyer_secim_eng_ozet_5_1 = "Best Career Field for You: Sales and Relational Careers";
-var kariyer_secim_eng_ozet_5_2 = "İnsan ilişkileri, ikna kabiliyeti ve etkili iletişim becerilerinle parlayabileceğin bir kariyer seni bekliyor. Müşteri ilişkilerini yönetmek, satış stratejileri geliştirmek ve pazarlama gibi alanlarda başarılı olabilirsin. Sosyal bir kişiliğin varsa, dinamik bir ortamda insanlarla güçlü ilişkiler kurmayı seviyorsan, satış ve ilişkisel kariyerler tam sana göre.";
+var kariyer_secim_eng_ozet_5_2 = "A career where you can shine with your human relations, persuasion skills and effective communication skills awaits you. You can be successful in areas such as managing customer relationships, developing sales strategies, and marketing. If you have a social personality and like to build strong relationships with people in a dynamic environment, sales and relational careers are for you.";
 
 var kariyer_secim_eng_ozet_6_1 = "The Career Field That Suits You Best: Organizational and Administrative Careers";
 var kariyer_secim_eng_ozet_6_2 = "You can step into a career path where you can use your organized, efficient and organizational skills. You can develop competencies such as office management, project coordination and managing workflows. If you have attention to detail and management and coordination skills, organizational and administrative careers are ideal for you.";
@@ -3850,7 +3494,7 @@ var guclu_yanlarin_60_3_1 = "“Yenilik” Gücü (3-60)";
 var guclu_yanlarin_60_3_2 = "Kendini ve çevrendekileri değişim ve yenilik potansiyeli ile güçlendirirsin. Bu seviyede bir değişimi kucaklamak için körü körüne bir inanç gereklidir, çünkü bu ani bir şekilde gerçekleşebilir ve bir kuantum sıçraması gibi hissedilebilir. \"Senin için değişim olması gerektiğinde olur.\"\n\nKaostan Düzene Geçiş\nYeniliğin doğasında bulunan kaostan düzene geçişi kucaklarsın. Bu dönüşüm süreci sabır ve olayların zamanlamasına güven gerektirir. Geçişi yönetme ve kolaylaştırma yeteneğin, yenilikçi projeleri ve girişimleri sürdürmek için çok önemlidir.\n\nYaratıcı ve Melankolik Süreç\nYaratıcılığının ortaya çıkması için değişken bir ruh hali ile melankolik bir süreçten geçebilirsin. Zamanlaman içsel bir yanıtla sana gelir ve bu seni gerçekten tatmin edici olana yönlendirir. İçgüdülerine ve içsel saatine güvenmek, doğal yeteneklerin ve enerji seviyelerinle uyum içinde kararlar almanı sağlar.\n\nİş Dünyasında Gücünü Kullanmak\nYenilik gücün, iş dünyasının çeşitli alanlarında kullanılabilir. Ürün geliştirmede, önemli değişiklikler yapma yeteneğin çığır açan yeniliklere yol açabilir. Proje yönetiminde, kaostan düzene geçişteki becerin, projelerin verimli ve yaratıcı bir şekilde tamamlanmasını sağlar. Büyük organizasyonlarda yeniliğe liderlik etmek için yönetici pozisyonlarına çağrılabilirsin. Pproblem çözme ve stratejik düşünme gerektiren rollerde, yenilikçi yaklaşımın, organizasyonu yeni ve başarılı yönlere doğru yönlendirebilir.\n\nSonuç\nYenilik gücün, iş dünyasında yaratıcılık, dayanıklılık ve dönüştürücü potansiyel açısından benzersiz bir karışım sunan güçlü bir özelliktir. Bu gücü kullanarak, önemli değişiklikler yapabilir, yaratıcı ortamlar oluşturabilir ve organizasyonunu yeni ve yenilikçi yönlere yönlendirebilirsin. ";
 
 var guclu_yanlarin_5_15_1 = "“Kalıplar ve Ritim” Gücü (5-15)";
-var guclu_yanlarin_5_15_2 = "Bu güç, akışın ve ritminle uyum sağladığında, yaptığın her şeyin zahmetsiz ve doğal hissettirmesini sağlar. Bu uyum hali, işinde en iyi performansı göstermene, üretkenliğini ve yaratıcılığını artırmana olanak tanır. Doğal ritimlerini kucaklaman, iş tatminine ve etkinliğini sağlar.\n\nRutinlere Bağlı Kalmak\nSSana hizmet eden kalıplara veya rutinlere bağlı kalma yeteneğine sahipsin. Bu rutinler, yapı ve istikrar sağlar, görevlerini kolaylıkla ve tutarlılıkla yürütmene olanak tanır. Profesyonel bir ortamda, bu yetenek, verimliliği artıran ve stresi azaltan güvenilir süreçler ve iş akışları oluşturmanı sağlar.\n\nÇeşitliliği Kucaklamak\nAyrıca çevrendekilerin de rutinlerini tanımlama ve kucaklama yeteneğine sahipsin. Bu anlayış, çevrendekiler ile etkili bir şekilde çalışmana, onların benzersizliklerini ve ritimlerini takdir etmene olanak tanır. Bu sayede daha uyumlu ve işbirlikçi bir çalışma ortamı oluşturabilirsin.\n\nKişisel Zamanlama ve Akış\nKişisel iç ritmin tarafından tamamen belirlenen kendi zamanlama ve akış anlayışına sahipsin. Hiçbir şeyin veya hiç kimsenin akışına müdahale etmesine izin vermemeye dikkat et. Ritmini korumak, üretkenliğini ve esenliğini sürdürmek için çok önemlidir. Doğal kalıplarına saygı gösteren destekleyici bir ortam yaratmak ve sınırlar koymak, en optimal performansta kalmana yardımcı olabilir.\n\nBaşkalarına Fayda Sağlamak\nÇevrendekilere doğru ritim ve zamanlamaya uyum sağlamalarında yardım ederek, onları da dolaylı olarak faydalandırabilirsin. Başkalarının ritimlerini tanımlama ve onlarla uyum sağlama yeteneğin, daha uyumlu ve üretken bir ekip dinamiği yaratabilir.\n\nİş Dünyasında Gücünü Kullanmak\nKalıplar ve ritim gücünü iş dünyasının çeşitli alanlarında kullanabilirsin. Proje yönetiminde, etkili rutinler oluşturma ve sürdürme yeteneğin, zamanında ve tutarlı ilerleme sağlar. Ekip liderliğinde, çeşitliliği anlama yeteneğin, çok değişik yelpazede kişileri yönetmene ve motive etmene yardımcı olabilir. Ayrıca, yaratıcı problem çözme gerektiren rollerde, doğal akışın yenilikçi ve verimli çözümler üretmene yol açabilir.\n\nİş dünyasında bu gücünü kullanarak, üretkenliği artırabilir, işbirliğini teşvik edebilir ve organizasyonunu daha büyük bir başarıya yönlendirebilirsin.";
+var guclu_yanlarin_5_15_2 = "Bu güç, akışın ve ritminle uyum sağladığında, yaptığın her şeyin zahmetsiz ve doğal hissettirmesini sağlar. Bu uyum hali, işinde en iyi performansı göstermene, üretkenliğini ve yaratıcılığını artırmana olanak tanır. Doğal ritimlerini kucaklaman, iş tatminine ve etkinliğini sağlar.\n\nRutinlere Bağlı Kalmak\nSana hizmet eden kalıplara veya rutinlere bağlı kalma yeteneğine sahipsin. Bu rutinler, yapı ve istikrar sağlar, görevlerini kolaylıkla ve tutarlılıkla yürütmene olanak tanır. Profesyonel bir ortamda, bu yetenek, verimliliği artıran ve stresi azaltan güvenilir süreçler ve iş akışları oluşturmanı sağlar.\n\nÇeşitliliği Kucaklamak\nAyrıca çevrendekilerin de rutinlerini tanımlama ve kucaklama yeteneğine sahipsin. Bu anlayış, çevrendekiler ile etkili bir şekilde çalışmana, onların benzersizliklerini ve ritimlerini takdir etmene olanak tanır. Bu sayede daha uyumlu ve işbirlikçi bir çalışma ortamı oluşturabilirsin.\n\nKişisel Zamanlama ve Akış\nKişisel iç ritmin tarafından tamamen belirlenen kendi zamanlama ve akış anlayışına sahipsin. Hiçbir şeyin veya hiç kimsenin akışına müdahale etmesine izin vermemeye dikkat et. Ritmini korumak, üretkenliğini ve esenliğini sürdürmek için çok önemlidir. Doğal kalıplarına saygı gösteren destekleyici bir ortam yaratmak ve sınırlar koymak, en optimal performansta kalmana yardımcı olabilir.\n\nBaşkalarına Fayda Sağlamak\nÇevrendekilere doğru ritim ve zamanlamaya uyum sağlamalarında yardım ederek, onları da dolaylı olarak faydalandırabilirsin. Başkalarının ritimlerini tanımlama ve onlarla uyum sağlama yeteneğin, daha uyumlu ve üretken bir ekip dinamiği yaratabilir.\n\nİş Dünyasında Gücünü Kullanmak\nKalıplar ve ritim gücünü iş dünyasının çeşitli alanlarında kullanabilirsin. Proje yönetiminde, etkili rutinler oluşturma ve sürdürme yeteneğin, zamanında ve tutarlı ilerleme sağlar. Ekip liderliğinde, çeşitliliği anlama yeteneğin, çok değişik yelpazede kişileri yönetmene ve motive etmene yardımcı olabilir. Ayrıca, yaratıcı problem çözme gerektiren rollerde, doğal akışın yenilikçi ve verimli çözümler üretmene yol açabilir.\n\nİş dünyasında bu gücünü kullanarak, üretkenliği artırabilir, işbirliğini teşvik edebilir ve organizasyonunu daha büyük bir başarıya yönlendirebilirsin.";
 
 var guclu_yanlarin_47_64_1 = "“Deneyimsel Süreç” Gücü (64-47)";
 var guclu_yanlarin_47_64_2 = "Doğrudan deneyim yoluyla öğrenme ve içgörüler kazanma yeteneğine sahipsin. Bu pratik yaklaşım, karmaşık durumları derinlemesine ve pratik bir şekilde anlamanı sağlar. İş dünyasında bu güç, sahada problem çözme ve uyum sağlama gerektiren rollerde çok değerlidir.\n\nPaternleri ve Süreçleri Anlamak\nDeneyimleyip bu deneyimleri yansıtarak paternleri ve süreçleri etkili bir şekilde anlama yeteneğine sahipsin. Bu içgörü, bilinçli kararlar almanı ve geri bildirimlere dayalı sistemleri iyileştirmeni sağlar. Deneyimsel öğrenme yaklaşımın, çözümlerin gerçeklik ve pratiklikle temellendirilmesini sağlar.\n\nUyum Sağlama ve Dayanıklılık\nDeneyimsel öğrenme, uyum sağlama ve dayanıklılık geliştirir. Zorluklarla doğrudan etkileşimde bulunarak, değişen koşullara uyum sağlama ve yanıt verme esnekliğini geliştirirsin. Bu uyum sağlama yeteneği, koşulların hızla değişebileceği dinamik iş ortamlarında çok önemlidir.\n\nİçgörüleri Etkili Bir Şekilde Anlatmak\nİçgörülerini ve deneyimlerini başkalarına etkili bir şekilde aktarma yeteneğine sahipsin, karmaşık kavramları pratik örneklerle anlamalarına yardımcı olursun. Bu beceri, özellikle eğitim ve mentorluk rollerinde faydalıdır, çünkü pratik bilgi aktarmak, öğrenme ve gelişimi önemli ölçüde artırabilir.\n\nİş Dünyasında Gücünü Kullanmak\nDeneyimsel süreç gücünü iş dünyasının çeşitli alanlarında kullanabilirsin. Proje yönetiminde, deneyimlerden öğrenme ve uyum sağlama yeteneğin, projelerin tahmin edilemeyen koşullarda bile etkili bir şekilde yönetilmesini sağlar. Operasyonlarda, pratik yaklaşımın, verimliliği artırır ve sorun çözme yeteneklerini geliştirir. Ayrıca, eğitim ve gelişim gerektiren rollerde, deneyimsel içgörüler, öğrenme deneyimini önemli ölçüde artırabilir.\n\nDeneyimsel süreç gücün, iş dünyasında pratik anlayış, uyum sağlama ve etkili iletişim açısından benzersiz bir karışım sunan güçlü bir özelliktir. Bu gücü kullanarak, sürekli iyileştirmeyi sürükleyebilir, dayanıklılığı artırabilir ve organizasyonunu daha büyük bir başarıya yönlendirebilirsin.  ";
@@ -4417,7 +4061,7 @@ var kslk_ozl_social_eng_you_may_not_like = "You might not enjoy competitive envi
 var kslk_ozl_12_25_social_eng_questions = "• How do I feel when I help a friend solve their problem? How can I use this helping skill more effectively in school events?\n\n• How does a group project move forward when I motivate my friends? How can I apply this motivational strength more in school projects?\n\n• How does understanding what others need give me advantages in school life? How can I develop this empathy further?";
 var kslk_ozl_25_plus_social_eng_questions = "• When I help or guide my colleagues, which skills of mine stand out? How can I utilize this helpfulness more in my professional life?\n\n• How do I influence the progress of work when I motivate others in team projects? How can I reflect this ability in more projects?\n\n• How does understanding others’ needs and providing suitable solutions benefit my work? What can I do to strengthen this empathy further in the workplace?";
 
-var kslk_ozl_entreprise_eng_your_profile = "Entreprise"; 
+var kslk_ozl_entreprise_eng_your_profile = "Enterprising"; 
 var kslk_ozl_entreprise_eng_your_profile_ = "You might enjoy starting and leading projects, especially when it comes to business ventures. You may feel comfortable persuading others, taking initiative, and making quick decisions. You could be open to taking risks and prefer turning your ideas into action.";
 var kslk_ozl_entreprise_eng_your_interests_1 = "You may be confident, ambitious, and energetic. You might use your verbal skills to influence others, promote your ideas, and make deals. You could enjoy roles that involve sales, marketing, or leadership.";
 var kslk_ozl_entreprise_eng_your_interests_2 = "Success, innovation, and growth may be important to you. You might have a competitive spirit and be willing to take risks to create big opportunities. You may enjoy developing projects and attracting others to join you. Working with both ideas and people could be your preferred way to reach your goals.";
@@ -4562,7 +4206,7 @@ var is_y_r_9_s2_0 = "Haberci/Otorite";
 var is_y_r_9_s2_1 = "Pratik Otorite (5/1)";
 var is_y_r_9_s2_2 = "Özellikle kriz zamanlarında pratik çözümler sunman için sana başvurulur. Büyük resmi görebilme ve başkalarına zorlukların üstesinden gelmelerinde yardımcı olacak uygulanabilir içgörüler sunma yeteneğine sahipsin. Bu da seni, özellikle rehberlik ve cevap arandığında alanında bir otorite haline getirir. Rolün, konunda ustalaşmaya olan derin bağlılığın ile uzmanlığını başkalarına etki eden bir şekilde iletme yeteneğini birleştirir. İnsanların güvendiği bir problem çözücü olarak, neyin bozuk olduğunu anlamak ve doğru çözümleri sunmak için sana güvenilir.";
 var is_y_r_9_s2_3 = "Gücün, seçtiğin alanda derinlemesine araştırma yapma, detayları öğrenme ve ardından bu bulguları net ve etkili bir şekilde iletme yeteneğinde yatar. İş dünyasında, zorluklar olduğunda pratik çözümler ve uzman bilgisi getiren biri olarak görülürsün. Bu da seni, özellikle düzeltme gereken durumlarda veya stratejik rehberlik gerektiğinde değerli bir kaynak yapar. Etkin, hem alanındaki derin anlayışından hem de insanlara güvenilir çözümler sunma yeteneğinden gelir.";
-var is_y_r_9_s2_4 = "Çözüm Sağlayan Yetenekli Olmak";
+var is_y_r_9_s2_4 = "Pratik Otorite Olmak";
 var is_y_r_9_s2_5 = "Rolün, başkalarının aradığı değerli içgörüler ve çözümler sunmakla ilgilidir, özellikle ihtiyaç duyulan zamanlarda. Tanınma peşinde koşmana gerek yoktur—insanlar doğal olarak bilgeliğin için sana başvurur. Zamanla, bilgini derinleştirdikçe ve başkalarıyla paylaştıkça otoriten büyür. Alanında ustalaşmaya ve ihtiyaç anlarında başkalarına yardımcı olmaya odaklanarak hem haberci hem de otorite rolünü yerine getirirsin. Etkin, güven, bilgi ve açık iletişim üzerine inşa edilmiştir.";
 var is_y_r_9_s3_1 = "Fırsatların, başkalarına çözüm sunmaları için çağrıldıklarında ortaya çıkar. Kritik anlarda devreye girip başkalarının güvenebileceği rehberliği sunduğun durumlarda gelişirsin. Ancak, bu roldeki zorluklardan biri, hangi fırsatların senin için doğru olduğunu ayırt etmeyi öğrenmektir. Her sorun senin çözmen gereken bir sorun değildir ve gerçek yeteneklerinle uyumlu olmayan projelerden kaçınarak enerjini korumalısın. Güçlü olduğun alanlara odaklanmak hem enerjini hem de etkinliğini sürdürebilmen için önemlidir.";
 var is_y_r_9_s3_2 = "Rolün, başkalarına yardımcı olacak pratik çözümler sunmak ve kendi alanında güvenilen bir bilgelik kaynağı olmakla ilgilidir. Bilgini paylaşarak ve başkalarına rehberlik ederek hayat amacını yerine getirirsin. Rolünle uyum içinde olduğunda, güvenilir bir problem çözücü ve uzman olarak tanınacağın bir kariyer inşa edersin. Başarı, anlamlı içgörüler sunma yeteneğine ve ne zaman adım atıp uzmanlığını paylaşacağını bilme becerine güvendiğinde gelir.";
@@ -4571,7 +4215,7 @@ var is_y_r_10_s2_0 = "Haberci/Doğal";
 var is_y_r_10_s2_1 = "Çözüm Sağlayan Yetenek (5/2)";
 var is_y_r_10_s2_2 = "Kendin bile farkına varmadan başkalarının sıklıkla fark ettiği doğuştan gelen yeteneklere sahipsin. Özellikle ihtiyaç anlarında, başkalarına yardımcı olacak pratik çözümler ve yenilikçi içgörüler sunma yeteneğine sahipsin. Genellikle sahne arkasında çalışmayı tercih etsen de, insanlar doğal olarak bilgeliğine çekilir ve senin onların sorunlarını çözebileceğine dair beklentiler geliştirir. Rolün, bu fırsatlara adım atıp yeteneklerini kendine özgü bir şekilde paylaşmakla ilgilidir.";
 var is_y_r_10_s2_3 = "Gücün, başkalarının göremediği yenilikçi ve sıra dışı çözümler sunma yeteneğinde yatar. Doğal bir problem çözücüsün ve içgörülerin genellikle tam da ihtiyaç duyulduğunda ortaya çıkar. İş dünyasında, insanlar yargına ve sonuç elde etme yeteneğine güvenir. Bağımsız çalışmak için sana alan verildiğinde başarılı olursun ve doğru fırsatlar geldiğinde, pratik çözümlerini paylaşmak için öne çıkarsın. Bu da seni, özellikle kriz veya belirsizlik zamanlarında, herhangi bir ekibe ya da organizasyona değerli bir katkı sağlayan biri yapar.";
-var is_y_r_10_s2_4 = "Haberci / Doğal Olmak";
+var is_y_r_10_s2_4 = "Çözüm Sağlayan Yetenekli Olmak";
 var is_y_r_10_s2_5 = "Rolün, sana kolay gelen yetenekleri kucaklamak ve başkalarının bu yetenekleri fark edip seni çağırmalarına izin vermekle ilgilidir. Kendini öne çıkarmaya çalışmana gerek yok—insanlar doğal olarak içgörülerini aradıkça etkin büyür. En etkili katkıların, çözümlerini içten bir yerden sunduğunda ve seni zorlayan rollere girmediğinde gelir. Yeteneklerinin fark edileceğine ve doğru fırsatların sana geleceğine güvenmelisin.";
 var is_y_r_10_s3_1 = "Fırsatların başkalarının senin yeteneklerini fark edip çözümler sunmanı beklediklerinde ortaya çıkar. Bu, yeteneklerini paylaşman için harika bir fırsat olabilir, ancak beklentiler senin gerçekten ilgilendiğin veya yapabileceğin şeylerle uyumlu değilse, bu durum bazen bunaltıcı gelebilir. Senin görevin, hangi fırsatların senin için doğru olduğunu ayırt etmek ve kendini fazla yormamaktır. Gerektiğinde 'hayır' demeyi öğrenmek ve başkalarına yardımcı olmak ile kendi ihtiyaçlarına saygı göstermek arasında denge kurmak uzun vadeli başarının anahtarıdır.";
 var is_y_r_10_s3_2 = "Rolün, doğuştan gelen yeteneklerini başkalarıyla uyum içinde paylaşmakla ilgilidir. Hayat amacını, en çok ihtiyaç duyulduğunda pratik çözümler sunarak ve doğru insanların yeteneklerini fark edeceğine güvenerek gerçekleştirirsin. Doğal yeteneklerini kucaklayıp kendini zorlayan rollere girmediğinde, tatmin edici bir kariyer ve yaşam yaratmış olursun. Başarı, yeteneklerinin doğal olarak ortaya çıkmasına izin verdiğinde ve başkalarının seni benzersiz bilgeliğin için aramasına fırsat verdiğinde gelir.";
@@ -4612,16 +4256,16 @@ var is_y_r_eng_1_s2_0 = "Otorite/Öncü";
 var is_y_r_eng_1_s2_1 = "The Expert Explorer (1/3)";
 var is_y_r_eng_1_s2_2 = "Your life is a journey of discovery and digging deep on things that interest you where you continuously learn through experience. You naturally develop expertise by exploring what works and what doesn’t through trial and error. This hands-on approach makes you uniquely qualified to become an authority in your chosen field. Whether you’re just starting out or are well-established in your career, you’re driven by a desire to understand the details, build a strong foundation, and master your craft through real-world experience.";
 var is_y_r_eng_1_s2_3 = "Your greatest strength lies in your ability to investigate and experiment until you find solutions that work. In any job or career, you approach problems with curiosity and persistence, always eager to dig deeper and discover the best way forward. This ability to navigate challenges and learn from mistakes sets you apart, making you someone others turn to for advice and insights. Over time, you develop a deep understanding of your field, which positions you as an authority or expert, regardless of your age or experience level.";
-var is_y_r_eng_1_s2_4 = "Living as an Authority / Pioneer";
-var is_y_r_eng_1_s2_5 = "Your greatest strength lies in your ability to investigate and experiment until you find solutions that work. In any job or career, you approach problems with curiosity and persistence, always eager to dig deeper and discover the best way forward. This ability to navigate challenges and learn from mistakes sets you apart, making you someone others turn to for advice and insights. Over time, you develop a deep understanding of your field, which positions you as an authority or expert, regardless of your age or experience level.";
-var is_y_r_eng_1_s3_1 = "Your opportunities come from your willingness to face challenges head-on. You thrive in situations where you can explore, test, and refine new ideas or processes. There may be times when you feel insecure, especially if you don’t yet have a solid foundation to stand on. Recognize that this feeling is part of your growth process—your role is to build that foundation through experience. Over time, these challenges will become the steppingstones to your expertise.";
+var is_y_r_eng_1_s2_4 = "Living as an Expert Explorer";
+var is_y_r_eng_1_s2_5 = "If you are interested in something genuinely, you are inclined to become an authority in your area of expertise. This doesn’t necessarily mean holding a formal leadership position; it’s about mastering your subject through hands-on learning and sharing your knowledge with others. People will look to you because of your depth of understanding and your ability to find solutions. Whether you’re working on a team, pursuing your own projects, or contributing to a larger organization, your strength is in offering solid, experience-based insights that others can rely on.";
+var is_y_r_eng_1_s3_1 = "Your opportunities come from your willingness to face challenges head-on. You thrive in situations where you can explore, test, and refine new ideas or processes. There may be times when you feel insecure, especially if you don’t yet have a solid foundation to stand on. Recognize that this feeling is part of your growth process—your role is to build that foundation through experience. Over time, these challenges will become the stepping stones to your expertise.";
 var is_y_r_eng_1_s3_2 = "Your Role is about using your experience to build a life and career that aligns with your strengths. As you navigate the ups and downs of your journey, you’ll continue to develop mastery in your field. By sharing what you’ve learned and standing firm in your understanding, you’ll naturally fulfill your life purpose by contributing valuable insights to others. Whether you’re just starting out or well into your career, embracing your Role will lead to greater confidence, satisfaction, and success.";
 
 var is_y_r_eng_2_s2_0 = "Otorite/Etkileyici";
 var is_y_r_eng_2_s2_1 = "Knowledgeable Networker (1/4)";
 var is_y_r_eng_2_s2_2 = "You are driven by a need to establish yourself as an expert in your field while also sharing your knowledge and insights with others. You are naturally curious and love to investigate and understand the foundation of any subject that interests you. Once you’ve built this solid base, you enjoy influencing and guiding others by sharing what you’ve learned. Your journey involves both mastering your subject and using your natural gift for networking to spread your ideas and influence.";
 var is_y_r_eng_2_s2_3 = "Your strength lies in your ability to thoroughly investigate topics and then communicate your findings in a way that connects with others. In business, you excel at building relationships and forming networks of people who can benefit from your expertise. Whether it’s sharing ideas with colleagues, contributing to a project, or guiding a team, your natural ability to influence makes you a key player. Your talent for blending personal knowledge with social connections allows you to stand out as both an authority and a trusted resource in any business setting.";
-var is_y_r_eng_2_s2_4 = "Living as an Authority / Influencer";
+var is_y_r_eng_2_s2_4 = "Living as a Knowledgeable Networker";
 var is_y_r_eng_2_s2_5 = "Becoming an authority is part of your natural progression and your strength also lies in your ability to influence others. People are drawn to your expertise and your friendly, approachable nature. You tend to build strong networks, and opportunities often come to you through these connections. Whether you are working on your own or as part of a team, your success comes from your ability to use your deep knowledge to make an impact on others and connecting with your close network. By combining a strong foundation with your social influence, you have the potential to shape your environment and create opportunities for yourself and others.";
 var is_y_r_eng_2_s3_1 = "Your opportunities come from both your solid knowledge and connection. You thrive in situations where you can learn deeply about a topic and then share that knowledge with others. Whether it’s presenting an idea, mentoring colleagues, or leading a project, your ability to communicate and connect with others sets you apart. It’s also important to balance your natural friendliness with the need for solitude. Sometimes, people fatigue or the pressure of always being “on” can weigh on you, so remember to take time for yourself to recharge.";
 var is_y_r_eng_2_s3_2 = "Your Role is about mastering your field and then sharing that knowledge in a way that benefits others. You fulfill your life purpose by becoming a go-to resource and using your networks to spread ideas and solutions. By aligning with your Role, you will find that your career and life naturally bring opportunities to influence others. Whether you are just starting out or well-established, embracing both the authority and influencer sides of your Role will lead to a fulfilling and impactful career.";
@@ -4630,7 +4274,7 @@ var is_y_r_eng_3_s2_0 = "Doğal/Etkileyici";
 var is_y_r_eng_3_s2_1 = "Talented Connector (2/4)";
 var is_y_r_eng_3_s2_2 = "You possess innate talents that others easily recognize, even if they feel effortless to you. Your gifts come so naturally that you may take them for granted, but others frequently call on you to share your expertise. Your Role is about finding balance between embracing your natural abilities and building meaningful connections with others. You enjoy spending time alone to focus on your interests, but your influence grows when you engage with your close networks.";
 var is_y_r_eng_3_s2_3 = "Your ability to form deep, personal connections allows you to naturally attract career and business opportunities. Rather than needing to work hard to stand out, you thrive by staying true to what feels easy and natural. This makes you valuable whether you’re working independently or with a team. You seamlessly navigate both solitary work and social environments, excelling in business because of the trust you build and the talents you bring.";
-var is_y_r_eng_3_s2_4 = "Living as a Natural / Influencer";
+var is_y_r_eng_3_s2_4 = "Living as a Talented Connector";
 var is_y_r_eng_3_s2_5 = "You don’t need to chase leadership or influence—it comes to you through the recognition of others. By focusing on what comes effortlessly, you allow your natural abilities to shine. People are drawn to your warmth and authenticity, and your influence grows organically through your relationships. Success comes when you allow opportunities to flow through your networks and take on roles that align with your natural strengths.";
 var is_y_r_eng_3_s3_1 = "Your greatest opportunities arise when others recognize your talents and invite you to share them. Trust that your abilities are enough and avoid the temptation to take on roles that feel forced. At times, your deep connections with others can lead to people fatigue, or you may feel pressure to always be available. Remember that balancing solitude with social engagement is key to maintaining your energy and ensuring long-term success.";
 var is_y_r_eng_3_s3_2 = "Your Role is about embracing and sharing your gifts in a way that feels authentic to you. By allowing yourself to be called into opportunities that align with your talents, you can create a fulfilling career or business without forcing yourself into uncomfortable roles. Trust in your natural abilities and let others recognize your value. This approach will lead to a career and life that is both impactful and satisfying.";
@@ -4639,7 +4283,7 @@ var is_y_r_eng_4_s2_0 = "Doğal/Haberci";
 var is_y_r_eng_4_s2_1 = "Gifted Solution Maker (2/5)";
 var is_y_r_eng_4_s2_2 = "You possess deep natural talents that may often go unnoticed by yourself but are highly valued by others. Your gifts tend to emerge when others call on you for assistance, especially when they need practical solutions. While you prefer to work quietly and independently, you are often drawn into situations where your insights can make a big impact. Your Role involves striking a balance between your natural desire for solitude and your ability to communicate and provide valuable solutions to others.";
 var is_y_r_eng_4_s2_3 = "Your strength lies in your ability to offer innovative, practical solutions when they are needed most. You don’t need to seek out recognition—your influence grows when others recognize your talents and call on you to share them. You excel in problem-solving and are often seen as a “fixer” who can step in, provide the necessary insights, and then step back into your preferred space of quiet reflection. This ability makes you invaluable in business environments where practical, well-timed solutions are critical.";
-var is_y_r_eng_4_s2_4 = "Living as a Natural / Messenger";
+var is_y_r_eng_4_s2_4 = "Living as a Gifted Solution-Maker";
 var is_y_r_eng_4_s2_5 = "Your Role emerges naturally through the recognition of others. You are not someone who seeks attention or tries to impose your views on others. Instead, your influence grows when others notice your ability to offer insightful, practical advice. When you are called upon, you can step in, deliver impactful solutions, and then return to your natural rhythm. Success comes when you trust in your process and let others seek out your expertise when it’s most needed.";
 var is_y_r_eng_4_s3_1 = "Your opportunities often come when people project their expectations onto you, believing that you can help them solve a particular problem. This projection can be both an opportunity and a challenge, as it may sometimes feel overwhelming or burdensome. Your task is to discern which opportunities align with your true talents and which might drain your energy. Maintaining balance between your need for alone time and your natural inclination to provide solutions to others is key to sustaining success.";
 var is_y_r_eng_4_s3_2 = "Your Role is about trusting that your gifts will be recognized by the right people at the right time. You fulfill your life purpose by offering practical solutions when they are most needed and by allowing yourself the space to step back once you’ve made your contribution. By trusting in the flow of recognition and aligning with opportunities that feel right and knowing when to step out you will find fulfillment in your career and personal life. Success comes when you embrace your natural gifts without feeling the need to force them.";
@@ -4648,7 +4292,7 @@ var is_y_r_eng_5_s2_0 = "Öncü/Haberci";
 var is_y_r_eng_5_s2_1 = "The Explorer Solution Finder (3/5)";
 var is_y_r_eng_5_s2_2 = "You are a natural agent for change. You are driven to discover what works and what doesn’t through personal experience, often learning through trial and error. This hands-on approach allows you to find practical solutions that others may not see. You are resilient, adaptable, and able to learn from the challenges life throws at you. Once you’ve discovered what works, you share these insights with others, making you a valuable resource in times of need.";
 var is_y_r_eng_5_s2_3 = "Your strength lies in your ability to experiment and refine processes until you find what works. You excel in situations where innovation and practical solutions are needed, and you’re not afraid to take risks or make mistakes along the way. In business, people often look to you for your ability to solve problems, especially when others may be stuck. Your resilience and determination to find answers set you apart, and your ability to communicate your findings makes you a key contributor in any team or organization.";
-var is_y_r_eng_5_s2_4 = "Living as a Pioneer / Messenger";
+var is_y_r_eng_5_s2_4 = "Living as an Explorer Solution Finder";
 var is_y_r_eng_5_s2_5 = "Your Role involves not only discovering new solutions but also sharing them with others. You are naturally inclined to test, adapt, and experiment with different ideas, and once you’ve found what works, you’re eager to spread the word. Your influence comes from the practical solutions you provide, not from a desire for recognition. You thrive when you’re able to bring new perspectives to the table and help others through your knowledge and experience.";
 var is_y_r_eng_5_s3_1 = "Opportunities may often come in the form of challenges or crises. You are at your best when you’re figuring out what’s wrong and how to fix it, and you’re not afraid to get your hands dirty in the process. However, this constant drive to experiment and learn can sometimes lead to burnout if you don’t give yourself time to rest. Balancing your need for exploration with the need for self-care is crucial to maintaining your energy and focus.";
 var is_y_r_eng_5_s3_2 = "Your Role is about using your experiences to discover practical solutions and then sharing those insights with others. You fulfill your life purpose by embracing challenges, learning from them, and helping others by offering your wisdom. Whether in business or personal life, you are someone who others turn to in times of uncertainty. By trusting in your ability to find solutions and share them effectively, you will create a fulfilling and impactful career. Success comes when you lean into your strengths and allow your natural problem-solving abilities to shine.";
@@ -4657,34 +4301,34 @@ var is_y_r_eng_6_s2_0 = "Öncü/Lider";
 var is_y_r_eng_6_s2_1 = "The Discoverer Role Model (3/6)";
 var is_y_r_eng_6_s2_2 = "Your life unfolds through a series of stages where you continuously learn and grow from your experiences. In the first part of your life, you learn by doing, often through trial and error. Your experiences help you gain deep insights into what works and what doesn’t, making you a practical problem-solver. As you mature, you move from being an active participant to becoming a more detached observer and leader. Your unique journey allows you to offer wisdom to others, guiding them with the knowledge you’ve gained from real-world experience.";
 var is_y_r_eng_6_s2_3 = "Your strength lies in your ability to adapt and learn through experience. In business, you excel at tackling challenges head-on and finding innovative solutions. Early in your life you may be more focused on experimenting and learning from mistakes, but as you grow, you become someone who others look to for guidance and leadership. Your wisdom, drawn from your own experiences, makes you a valuable resource in any organization, especially when strategic thinking and problem-solving are needed.";
-var is_y_r_eng_6_s2_4 = "Living as a Pioneer and a Leader";
+var is_y_r_eng_6_s2_4 = "Living as a Discoverer Role Model";
 var is_y_r_eng_6_s2_5 = "Your Role involves moving through phases where you first learn through trial and error and then transition into a leadership position, offering advice and guidance based on your accumulated wisdom. As you mature, you naturally shift from a hands-on role to one where you observe, analyze, and mentor others.";
 var is_y_r_eng_6_s3_1 = "Your opportunities come from your ability to face challenges early in life and learn from them. You thrive in environments where you can experiment, problem-solve, and grow. As you move into a more leadership-oriented phase, people will naturally seek your advice, looking to you as a trusted guide. Trusting your process and embracing your unique journey is key to navigating these shifts.";
 var is_y_r_eng_6_s3_2 = "Your Role is about learning through experience and using that knowledge to lead and guide others. You fulfill your life purpose by embracing the lessons life offers you, both in your personal growth and your professional journey. As you move through different phases of life, your ability to adapt and evolve makes you an impactful leader. Whether you are actively solving problems or offering strategic advice, your contributions help others navigate their own paths. Success comes when you trust your process and allow your leadership to emerge naturally.";
 
-var is_y_r_eng_7_s2_0 = "Etkileyici/Lider";
-var is_y_r_eng_7_s2_1 = "The Influencer Leader (4/6)";
-var is_y_r_eng_7_s2_2 = "Your life journey is defined by your ability to build strong, meaningful connections and influence those around you. In the early part of your life, you focus on developing relationships and networking, which naturally positions you as a connector and influencer. As you mature, your Role shifts into one of leadership, where your experience and wisdom enable you to guide and mentor others. People are naturally drawn to you, and your ability to combine influence with leadership makes you a trusted figure in both personal and professional settings.";
-var is_y_r_eng_7_s2_3 = "Your strength lies in your ability to influence others through strong personal connections and a natural sense of authority. In business, you excel at networking and creating alliances, which open doors to opportunities. You have an intuitive sense for knowing who to connect with and when to leverage those relationships for the benefit of your team or organization. As you grow, your ability to lead through influence becomes more pronounced, making you a key figure in helping others navigate challenges and achieve success.";
-var is_y_r_eng_7_s2_4 = "Living as an Influencer / Leader";
-var is_y_r_eng_7_s2_5 = "Your Role involves a gradual transition from being a connector and influencer to becoming a leader who others turn to for guidance. Early in your career, you may focus more on building relationships and influencing through your network. As you gain more experience, you naturally step into leadership roles, where people seek your advice and trust your judgment. Your leadership style is based on understanding both people and the bigger picture, which allows you to lead with empathy and insight.";
-var is_y_r_eng_7_s3_1 = "Opportunities for you often come from your ability to build strong networks and leverage those connections. You thrive in environments where collaboration and relationship-building are key. As you transition into leadership, people will look to you for guidance and direction. However, one challenge you may face is balancing your need for connection with the pressure to lead. Sometimes, the weight of others’ expectations can feel overwhelming, and it’s important to take time to recharge and reflect.";
-var is_y_r_eng_7_s3_2 = "Your Role is about using your ability to build relationships and share your insights to help others succeed. You fulfill your life purpose by combining your talent for networking with your natural leadership abilities, guiding others through both personal and professional challenges. As you embrace your leadership Role, you will find that your career and life become more fulfilling, allowing you to make a significant impact on those around you. Success comes when you trust your ability to influence and lead with authenticity and confidence.";
+var is_y_r_eng_7_s2_0 = "Etkileyici/Otorite";
+var is_y_r_eng_7_s2_1 = "The Networker Expert (4/1)";
+var is_y_r_eng_7_s2_2 = "You combine the natural ability to form deep connections with others and a strong drive to master a specific area of expertise. You are both an influential networker and a detailed investigator. While you enjoy connecting with people, your true strength comes from diving deep into subjects that fascinate you and establishing a solid foundation of knowledge. As a result, you often become a trusted authority in your field, sharing your insights with those around you and influencing their perspectives.";
+var is_y_r_eng_7_s2_3 = "Your strengths in business stem from your ability to connect deeply with others while also mastering your chosen area of expertise. You can build strong networks that bring opportunities your way, and your thorough understanding of your field makes you a go-to person for advice and guidance. Your professional success often comes from blending personal relationships with a deep commitment to study and investigation, positioning you as both an influencer and an authority in your business environment.";
+var is_y_r_eng_7_s2_4 = "Living as a Networker Expert";
+var is_y_r_eng_7_s2_5 = "Your Role involves a combination of influence and mastery. You excel when you can immerse yourself in a subject that interests you, mastering it thoroughly. This mastery, combined with your strong interpersonal skills, allows you to influence those around you. You don’t have to seek out leadership or recognition—it naturally follows as others recognize your expertise and trust your insights. By building both knowledge and relationships, you can create a lasting impact in your business or career.";
+var is_y_r_eng_7_s3_1 = "Opportunities for Influencer/Authorities often arise from the combination of your knowledge and your ability to connect with others. You thrive in environments where you can both study deeply and engage with people in meaningful ways. However, one challenge you may face is balancing your need for solitude to focus on your studies with the demands of your social connections. Taking time to recharge and maintain your balance between focus and connection is key to maintaining both your influence and your authority.";
+var is_y_r_eng_7_s3_2 = "Your Role is about using your deep understanding of a subject to influence and guide others. You fulfill your life purpose by sharing your expertise and helping others benefit from your knowledge. By aligning with your Role, you create opportunities for yourself and those around you, while also building a fulfilling career. Success comes when you trust your ability to influence through both knowledge and connection, allowing your natural gifts to shine.";
 
-var is_y_r_eng_8_s2_0 = "Etkileyici/Otorite";
-var is_y_r_eng_8_s2_1 = "The Networker Expert (4/1)";
-var is_y_r_eng_8_s2_2 = "You combine the natural ability to form deep connections with others and a strong drive to master a specific area of expertise. You are both an influential networker and a detailed investigator. While you enjoy connecting with people, your true strength comes from diving deep into subjects that fascinate you and establishing a solid foundation of knowledge. As a result, you often become a trusted authority in your field, sharing your insights with those around you and influencing their perspectives.";
-var is_y_r_eng_8_s2_3 = "Your strengths in business stem from your ability to connect deeply with others while also mastering your chosen area of expertise. You can build strong networks that bring opportunities your way, and your thorough understanding of your field makes you a go-to person for advice and guidance. Your professional success often comes from blending personal relationships with a deep commitment to study and investigation, positioning you as both an influencer and an authority in your business environment.";
-var is_y_r_eng_8_s2_4 = "Living as an Influencer / Authority";
-var is_y_r_eng_8_s2_5 = "Your Role involves a combination of influence and mastery. You excel when you can immerse yourself in a subject that interests you, mastering it thoroughly. This mastery, combined with your strong interpersonal skills, allows you to influence those around you. You don’t have to seek out leadership or recognition—it naturally follows as others recognize your expertise and trust your insights. By building both knowledge and relationships, you can create a lasting impact in your business or career.";
-var is_y_r_eng_8_s3_1 = "Opportunities for Influencer/Authorities often arise from the combination of your knowledge and your ability to connect with others. You thrive in environments where you can both study deeply and engage with people in meaningful ways. However, one challenge you may face is balancing your need for solitude to focus on your studies with the demands of your social connections. Taking time to recharge and maintain your balance between focus and connection is key to maintaining both your influence and your authority.";
-var is_y_r_eng_8_s3_2 = "Your Role is about using your deep understanding of a subject to influence and guide others. You fulfill your life purpose by sharing your expertise and helping others benefit from your knowledge. By aligning with your Role, you create opportunities for yourself and those around you, while also building a fulfilling career. Success comes when you trust your ability to influence through both knowledge and connection, allowing your natural gifts to shine.";
+var is_y_r_eng_8_s2_0 = "Etkileyici/Lider";
+var is_y_r_eng_8_s2_1 = "The Influencer Leader (4/6)";
+var is_y_r_eng_8_s2_2 = "Your life journey is defined by your ability to build strong, meaningful connections and influence those around you. In the early part of your life, you focus on developing relationships and networking, which naturally positions you as a connector and influencer. As you mature, your Role shifts into one of leadership, where your experience and wisdom enable you to guide and mentor others. People are naturally drawn to you, and your ability to combine influence with leadership makes you a trusted figure in both personal and professional settings.";
+var is_y_r_eng_8_s2_3 = "Your strength lies in your ability to influence others through strong personal connections and a natural sense of authority. In business, you excel at networking and creating alliances, which open doors to opportunities. You have an intuitive sense for knowing who to connect with and when to leverage those relationships for the benefit of your team or organization. As you grow, your ability to lead through influence becomes more pronounced, making you a key figure in helping others navigate challenges and achieve success.";
+var is_y_r_eng_8_s2_4 = "Living as an Influencer Leader";
+var is_y_r_eng_8_s2_5 = "Your Role involves a gradual transition from being a connector and influencer to becoming a leader who others turn to for guidance. Early in your career, you may focus more on building relationships and influencing through your network. As you gain more experience, you naturally step into leadership roles, where people seek your advice and trust your judgment. Your leadership style is based on understanding both people and the bigger picture, which allows you to lead with empathy and insight.";
+var is_y_r_eng_8_s3_1 = "Opportunities for you often come from your ability to build strong networks and leverage those connections. You thrive in environments where collaboration and relationship-building are key. As you transition into leadership, people will look to you for guidance and direction. However, one challenge you may face is balancing your need for connection with the pressure to lead. Sometimes, the weight of others’ expectations can feel overwhelming, and it’s important to take time to recharge and reflect.";
+var is_y_r_eng_8_s3_2 = "Your Role is about using your ability to build relationships and share your insights to help others succeed. You fulfill your life purpose by combining your talent for networking with your natural leadership abilities, guiding others through both personal and professional challenges. As you embrace your leadership Role, you will find that your career and life become more fulfilling, allowing you to make a significant impact on those around you. Success comes when you trust your ability to influence and lead with authenticity and confidence.";
 
 var is_y_r_eng_9_s2_0 = "Haberci/Otorite";
 var is_y_r_eng_9_s2_1 = "The Practical Expert (5/1)";
 var is_y_r_eng_9_s2_2 = "You are called upon to offer practical solutions, especially in times of crisis. You have a natural ability to see the bigger picture and provide actionable insights that help others navigate challenges. This makes you an authority in your field, especially when people are seeking guidance and answers. Your Role combines a deep commitment to mastering your subject with the ability to communicate your expertise in a way that resonates with others. You are a problem-solver who people trust to step in, fix what’s broken, and provide the wisdom they need.";
 var is_y_r_eng_9_s2_3 = "Your strength lies in your ability to investigate, master the details of your chosen field, and then communicate those findings in a clear and impactful way. In business, you are often seen as someone who can step up when there’s a challenge, bringing practical solutions and expert knowledge. This makes you a valuable resource in any organization, especially when things need to be fixed or when strategic guidance is required. Your influence comes from both your deep understanding of your subject and your ability to deliver solutions that people can trust.";
-var is_y_r_eng_9_s2_4 = "Living as a Messenger / Authority";
+var is_y_r_eng_9_s2_4 = "Living as a Practical Expert";
 var is_y_r_eng_9_s2_5 = "Your Role is to provide valuable insights and solutions that others seek, particularly in times of need. You don’t need to chase recognition—people naturally turn to you for your wisdom. Over time, your authority grows as you deepen your knowledge and share it with others. By focusing on mastering your field and being available when others call on you, you fulfill your Role as both a messenger of practical solutions and an authority in your area of expertise. Your influence is built on trust, knowledge, and the ability to communicate clearly.";
 var is_y_r_eng_9_s3_1 = "Your opportunities come from being called upon to provide solutions. You thrive when you can step in during critical moments and offer guidance that others can rely on. However, the challenge is learning to discern which opportunities are right for you. Not every problem is yours to solve, and you need to protect your energy by avoiding projects or requests that don’t align with your true talents. Maintaining your focus on the areas where you excel will help you sustain your energy and influence.";
 var is_y_r_eng_9_s3_2 = "Your Role is about offering practical solutions that help others and being a trusted source of wisdom in your field. You fulfill your life purpose by sharing your knowledge and guiding others through challenges. By aligning with your Role, you create a career where you are seen as both a reliable problem-solver and an expert. Success comes when you trust your ability to deliver meaningful insights and recognize when to step forward and offer your expertise.";
@@ -4693,7 +4337,7 @@ var is_y_r_eng_10_s2_0 = "Haberci/Doğal";
 var is_y_r_eng_10_s2_1 = "The Solution Providing Talent (5/2)";
 var is_y_r_eng_10_s2_2 = "You possess innate gifts that others often recognize in you before you fully realize them yourself. You have a natural ability to offer practical solutions and innovative insights that help others, especially in times of need. While you may prefer working behind the scenes, people are naturally drawn to your wisdom and often project their expectations onto you, seeing you as someone who can solve their problems. Your Role is about stepping into these opportunities and sharing your talents in a way that feels authentic to you.";
 var is_y_r_eng_10_s2_3 = "Your strength lies in your ability to provide outside-the-box solutions that others may not see. You’re a natural problem-solver, and your insights often arrive at just the right moment. In business, people turn to you because they trust your judgment and your ability to deliver results. You excel when you are given the space to work independently, and when the right opportunities arise, you step forward to share your practical solutions. This makes you a valuable contributor in any team or organization, particularly in times of crisis or uncertainty.";
-var is_y_r_eng_10_s2_4 = "Living as a Messenger / Natural";
+var is_y_r_eng_10_s2_4 = "Living as a Solution Providing Talent";
 var is_y_r_eng_10_s2_5 = "Your Role is about embracing the talents that come easily to you and allowing others to recognize and call out those gifts. You don’t need to push yourself into the spotlight—your influence grows naturally as people seek your insights. Your contribution is most impactful when you offer your solutions from a place of authenticity, without forcing yourself into roles that don’t feel right. Trust that your talents will be recognized and that the right opportunities will come to you.";
 var is_y_r_eng_10_s3_1 = "Your opportunities arise when others project their expectations onto you, expecting you to offer solutions. While this can be a great opportunity to share your talents, it can also feel overwhelming if the projections don’t align with what you are truly capable of or interested in. Your challenge is to discern which opportunities are right for you and to avoid overextending yourself. Learning to say “no” when necessary and maintaining a balance between helping others and honoring your own needs is key to your long-term success.";
 var is_y_r_eng_10_s3_2 = "Your Role is about sharing your innate gifts with others in a way that feels aligned with your true self. You fulfill your life purpose by offering practical solutions when they are most needed and trusting that the right people will recognize your talents. By embracing your natural abilities and not forcing yourself into uncomfortable roles, you create a fulfilling career and life. Success comes when you allow your gifts to emerge naturally, letting others seek you out for your unique wisdom.";
@@ -4711,7 +4355,7 @@ var is_y_r_eng_12_s2_0 = "Lider/Öncü";
 var is_y_r_eng_12_s2_1 = "The Leader Discoverer (6/3)";
 var is_y_r_eng_12_s2_2 = "You are defined by your extraordinary resilience and ability to learn and grow through personal experience. No matter how many setbacks or challenges you face, you always find a way to get back up and keep moving forward. You thrive on trial and error, discovering what works through hands-on experience. Over time, these lessons position you as a trusted leader who can offer practical guidance based on your real-world knowledge and personal growth.";
 var is_y_r_eng_12_s2_3 = "Your strength in business lies in your relentless resilience and willingness to take risks. Early in your career, you learn by doing, unafraid of making mistakes because you know that each setback brings valuable insights. This hands-on approach builds your knowledge and expertise, allowing others to trust your judgment. As you grow, you become a more objective leader, offering guidance based on both your practical experience and strategic thinking. People value your insights not only because of what you know but also because of your ability to rise after every fall, making you a powerful force in any business environment.";
-var is_y_r_eng_12_s2_4 = "Living as g a Leader and a Pioneer";
+var is_y_r_eng_12_s2_4 = "Living as a Leader Discoverer";
 var is_y_r_eng_12_s2_5 = "Your Role is about evolving from a hands-on problem-solver to a resilient and strategic leader. In your early years, you are focused on pushing boundaries, experimenting, and learning from failure. Each challenge you face only strengthens your resolve and deepens your understanding. As you mature, your experiences shape you into a leader who others turn to for advice and support. Your leadership is grounded in your ability to endure, recover, and use your experiences to provide wisdom to others. By the time you reach your later years, your leadership becomes more about guiding others with the knowledge you’ve gained through your resilience and personal journey.";
 var is_y_r_eng_12_s3_1 = "Your opportunities come from your ability to embrace challenges and take risks. You thrive in environments where you can explore new possibilities, knowing that even failure brings growth. Your resilience sets you apart—no matter how many times things go wrong, you find a way to get back up and continue forward. Over time, this trial-and-error approach evolves into a grounded leadership style, where you are seen as a mentor and guide. The challenge for you may come when transitioning from being hands-on to taking a more detached, leadership role. Trusting your process and allowing your leadership to emerge naturally will help you find fulfillment.";
 var is_y_r_eng_12_s3_2 = "Your Role is about using the resilience and lessons learned through personal experience to guide and mentor others. You fulfill your life purpose by embracing both the successes and failures of your journey and allowing them to shape you into a wise and thoughtful leader. In your later years, after 50, you will step fully into your leadership Role, offering others the benefit of your hard-earned wisdom and unbreakable spirit. Success comes when you trust your ability to lead not only through action but also through your resilience and ability to keep moving forward, no matter what challenges come your way.";
@@ -4810,7 +4454,7 @@ var krktr_ozl_eng_extraversion = "Extraversion";
 var krktr_ozl_eng_extraversion_s1 = "Extraversion may reflect how energized you feel by being around others. If this trait is high, you may enjoy social settings, feel confident expressing yourself, and gain energy from group interaction. You might be enthusiastic, outgoing, and talkative. Lower extraversion often means you may prefer calm settings, need time alone to recharge, and feel drained by too much social interaction.";
 var krktr_ozl_eng_strenghts_extraversion_s2_1 = "Boosts communication skills, teamwork, and social confidence.";
 var krktr_ozl_eng_weaknesses_extraversion_s2_1 = "Too much extraversion may cause distraction and difficulty focusing on individual tasks.";
-var krktr_ozl_eng_other_attributes_extraversion_s2 = "Gregariousness (sociable)\nassertiveness (forceful)\nactivity (energetic)\nexcitement-seeking (adventurous)\npositive emotions (enthusiastic)\nwarmth (outgoing).";
+var krktr_ozl_eng_other_attributes_extraversion_s2 = "Gregariousness (sociable)\nAssertiveness (forceful)\nActivity (energetic)\nExcitement-seeking (adventurous)\nPositive emotions (enthusiastic)\nWarmth (outgoing).";
 var krktr_ozl_eng_12_25_extraversion_questions = "• How do I feel when I take an active role in group work or class activities? In which other school activities can I use this energy more?\n\n• How does learning through interacting with my friends impact me? How can I take on more leadership roles in group work?\n\n• How does being in social settings and speaking up affect my school success? How can I show these skills more often in classes or projects?";
 var krktr_ozl_eng_25_plus_extraversion_questions = "• How do I feel when I participate in group work or take on leadership roles at work? How can I use this energy more effectively in team projects?\n\n• How does working by interacting with my colleagues affect my performance? How can I showcase these social skills in more work opportunities?\n\n• How does being active in meetings or social settings contribute to my success at work? How can I utilize this skill more in the workplace?";
 
@@ -5202,7 +4846,7 @@ var lifestyle_12_25_reflektor_evaluation = "• Okul ortamım ve çevremdeki ins
 var lifestyle_25_plus_manifesting_generator_image_w = "https://appwrite.anahtarsensin.com/v1/storage/buckets/6708de8e00054cee7bd1/files/generator-w/view?project=665474aa001cd7ecbebd&project=665474aa001cd7ecbebd&mode=admin";
 var lifestyle_25_plus_manifesting_generator_image_m = "https://appwrite.anahtarsensin.com/v1/storage/buckets/6708de8e00054cee7bd1/files/generator-m/view?project=665474aa001cd7ecbebd&project=665474aa001cd7ecbebd&mode=admin";
 var lifestyle_25_plus_manifesting_generator_name = "Enerjik";
-var lifestyle_25_plus_manifesting_generator_1 = "Kariyer ve liderlik dünyasındaki yolculuğun benzersiz. Çevrendekiler yeteneklerini fark ettiğinde, bireyleri, grupları ve sistemleri organize etmeyi ve yönetmeyi içeren rollerde gerçekten parlarsın.\n\nUyumlu bir sonuç için tüm unsurları yöneten bir orkestranın şefi gibisin.Kariyerinde yetenekli bir organizatör, yönetici, ağ oluşturucu veya arabulucu olma potansiyeline sahipsin.\n\nRolün, enerji kaynaklarını en verimli şekilde kullanmak için diğerlerine rehberlik etmek etrafında döner.Enerji dinamiklerine dikkat etmen çok önemli.\n\nÇevrendekilerin enerjilerinden beslenir ve bu enerjiyi katlayarak büyütebilirsin.Enerjin iyi yönetilmezse, ileriki yaşlarda tükenmişliğe ve bitkinliğe yol açabilir.Durmayı bilmek ve dinlenmek sağlığını korumak için çok önemli.";
+var lifestyle_25_plus_manifesting_generator_1 = "İş dünyasında ve kariyerinde kendine has ve benzersiz bir enerjin var. İşleri halletmede, bir şeyler inşa etmede ve büyütmede harikasın. Enerjini yapmayı sevdiğin işlere kullandıktan sonra başını yastığa koyduğunda tatmin hissi ile uyuyabilirsin.\n\nHayatta ve işte tatmininin anahtarı sadece çok çalışmak değil, enerjini nasıl etkili ve verimli kullandığın. Yaptığın iş refahın ve esenliğin için çok önemli. İçinde harekete geçmene ve bir şeyler yaratmana yardımcı olan güçlü bir enerji kaynağın var.\n\nDikkat etmen gereken başlamak ya da başlatmak zorunda olmadığını bilmek. Gücün, içgüdülerine dayanarak hayata cevap vermekte ve doğru ipuçlarını beklemekte yatıyor.";
 var lifestyle_25_plus_manifesting_generator_2 = "İçgüdülerine ne kadar güvenir ve doğru anı beklersen, hayatın o kadar tatmin edici ve keyifli hale gelir.Kendini bir mıknatıs gibi düşünebilirsin, enerjinin fırsatları doğal olarak sana çektiğini gözlemleyebilirsin.";
 var lifestyle_25_plus_manifesting_generator_3 = "Eforsuz ve doğal olan yolun, anda hayatın sunduklarına cevap verdiğinde kendini gösterecektir.Enerjin, hayatın sana getirdiklerine cevap vermek aracılığıyla taahhüt ettiğin şeyde ustalaşmana yardımcı olmak için burada.Doğru yolda olduğunun işareti, işlerin doğal olarak yerine oturmaya başlaması ve içinde bir tatmin hissi.\n\nÇok büyük bir enerjin olduğu için seni gerçekten ilgilendirmeyen veya seni tatmin etmeyen şeylere evet dememeye ve bağlanmamaya dikkat etmelisin.İç pusulan içgüdülerin aracılığıyla seninle iletişim kurar.Hayatı doğru yaşamak için stratejin hayatın sana getirmesini beklemek ve gelene cevap vermektir.Önce içgüdülerini dinle ve başkalarının ne yapman gerektiğini dikte etmesine izin verme.\n\nSen monoton bir rutin için yaratılmadın.Üretmeye, inşa etmeye devam et ve inanılmaz enerjine her zaman güven.";
 var lifestyle_25_plus_manifesting_generator_motto = "HAYAT TATMİNİ İÇİN BENİMSEYECEĞİN SLOGAN: YAPTIĞIN İŞİ SEV VE SEVDİĞİN İŞİ YAP!";
@@ -5247,7 +4891,7 @@ var lifestyle_reflektor_ozet_1 = "Yaşam Tarzın: Yansıtıcı";
 var lifestyle_reflektor_ozet_2 = "Sen çevrenin enerjisini derinlemesine hissedip yansıtan, nadir bir bakış açısına sahipsin. Doğru ortamda bulunduğunda, topluluklara tarafsız ve bilgece içgörüler sunabilirsin. Acele etmeden, kendi ritmine uygun kararlar alman senin için en sağlıklı ilerleme yoludur.";
 
 //gücünü kullan 25+
-var lifestyle_25_plus_manifesting_generator_question_name = "Başlatıcı Enerjik";
+var lifestyle_25_plus_manifesting_generator_question_name = "Enerjik";
 var lifestyle_25_plus_manifesting_generator_evaluation = "• Harekete geçmeden önce hem başlatma arzumu hem de çevremdeki dünyaya yanıt verme ihtiyacımı nasıl onurlandırabilirim?\n\n• Hayal kırıklığı veya sabırsızlık anlarıyla nasıl başa çıkabilirim ve şu anki yaklaşımım hakkında bu duygulardan ne öğrenebilirim?\n\n• Yön değiştirme konusunda suçluluk hissetmeden hayatımda esnekliği ve deneyselliği hangi yollarla kucaklayabilirim?\n\n• Hayatımın hangi alanları çoklu görev yeteneğimden yararlanır ve gereksiz dikkat dağıtıcı şeylerden kaçınmak için odağımı nasıl düzeltebilirim?\n\n• Yeni bir şeye başlama dürtüsünü hissettiğimde, bir sonraki adımın doğru olduğundan emin olmak için bağırsaklarımı (Sakral tepki) nasıl kontrol edebilirim? ";
 
 var lifestyle_25_plus_generator_question_name = "Enerjik";
@@ -5280,12 +4924,12 @@ var lifestyle_12_25_eng_generator_motto = "Your motto for life satisfaction: Lov
 var lifestyle_generator_eng_ozet_1 = "Your Lifestyle: Energetic";
 var lifestyle_generator_eng_ozet_2 = "Your inner energy is based on continuous production and contribution. When you focus on the work that really satisfies you, you can move forward with sustainable power in long-term projects. Moving forward by responding to what life throws at you promotes inner peace and a sense of accomplishment.";
 
-var lifestyle_12_25_eng_projektor_name = "Guide";
+var lifestyle_12_25_eng_projektor_name = "Advisor";
 var lifestyle_12_25_eng_projektor_1 = "When people around you notice your talents, you shine at bringing others together, organizing, and leading them. Just like a conductor of an orchestra, you can make sure everyone moves in harmony.\n\nYou have the potential to be an excellent organizer, manager, connector or problem solver. Using your energy efficiently and guiding others is something you’re capable of.\n\nYou can get inspired by the energy of those around you and make it even stronger. But if you don’t manage your energy well, you might feel really tired and worn out later on. So remember to take breaks and rest because your health is more important than anything else.";
 var lifestyle_12_25_eng_projektor_2 = "Waiting for the right time and for invitations that match your talents is the key to success. This helps you use your energy and abilities in the best way possible. Be careful when accepting opportunities that come your way, trust your inner voice and instincts.";
 var lifestyle_12_25_eng_projektor_3 = "You have a special energy that attracts people and opportunities to you. Being able to focus on one person at a time allows you to build very personal and meaningful relationships. You might be more mature and wise compared to your peers, seeing the bigger picture. When you share your thoughts without being asked, others might see it as being a know-it-all or misunderstand you. It’s important to share your wisdom when you’re invited to do so, as this helps with clear communication.\n\nWhen your talents, skills, and unique way of seeing the world are recognized, and you receive invitations for the right opportunities, it means you’re on the path to reaching your true potential. For you, success is about choosing people and opportunities that truly understand and value your knowledge and intelligence.";
 var lifestyle_12_25_eng_projektor_motto = "You can be a wise and intelligent guide for those around you. Share your wisdom only with those who invite you to do so.";
-var lifestyle_projektor_eng_ozet_1 = "Your Lifestyle: Guide";
+var lifestyle_projektor_eng_ozet_1 = "Your Lifestyle: Advisor";
 var lifestyle_projektor_eng_ozet_2 = "Your natural ability is to see the potential of others and guide them in the right way. When you are recognized by the right people in the right environment, you demonstrate impressive leadership. The key to success is to wait for invitations and use your energy wisely.";
 
 var lifestyle_12_25_eng_manifestor_name = "Initator";
@@ -5311,7 +4955,7 @@ var lifestyle_12_25_eng_manifesting_generator_evaluation = "• How can I balanc
 var lifestyle_12_25_eng_generator_question_name = "Energetic";
 var lifestyle_12_25_eng_generator_evaluation = "• What activities at school or home make me feel happiest, and how can I spend more time doing those things?\n\n• How do I feel when I wait for something to come to me instead of trying to make it happen right away?\n\n• Are there any things I’m trying too hard to make work? How can I focus on what feels right instead?\n\n• How do I know when my gut is telling me something is a good idea, and how can I follow that feeling more often?\n\n• When I feel stuck or frustrated, what helps me feel better, and how can I practice being more patient?";
 
-var lifestyle_12_25_eng_projektor_question_name = "Guide";
+var lifestyle_12_25_eng_projektor_question_name = "Advisor";
 var lifestyle_12_25_eng_projektor_evaluation = "• How do I know when I should wait for someone to ask me to help instead of offering it right away?\n\n• When have I been recognized or asked for my advice, and how did that feel for me?\n\n• In school or with friends, where do I feel most appreciated for what I can do, and how can I focus more on that?\n\n• How do I keep my energy up and avoid feeling tired, especially when I don’t feel noticed or valued?\n\n• How can I be more patient and trust that the right opportunities will come to me when it’s the right time?";
 
 var lifestyle_12_25_eng_manifestor_question_name = "Initiator";
@@ -5333,20 +4977,20 @@ var lifestyle_25_plus_eng_generator_2 = "Trusting your instincts and waiting for
 var lifestyle_25_plus_eng_generator_3 = "Your effortless and natural path will reveal itself when you respond to what life offers in the present moment. Your energy is here to help you master what you commit to by responding to what life brings you. A sign that you are on the right track is when things start to fall into place naturally and you feel a sense of satisfaction. Given your immense energy, be cautious about saying 'yes' or getting involved in things that don’t genuinely interest or satisfy you. Your inner compass communicates through your gut feeling. To live life correctly, your strategy should be to wait for what life brings and respond to it. Listen to your gut feeling first and don’t let others dictate what you should do. You weren’t created for a monotonous routine. Continue to create and build, and always trust in your incredible energy.";
 var lifestyle_25_plus_eng_generator_motto = "FOR LIFE SATISFACTION, EMBRACE THE SLOGAN: LOVE WHAT YOU DO AND DO WHAT YOU LOVE!";
 
-var lifestyle_25_plus_eng_projektor_name = "Guide";
-var lifestyle_25_plus_eng_projektor_1 = "Your journey in the world of career and leadership is unique. When others recognize your talents, you truly shine in roles that involve organizing and managing individuals, groups, and systems. You are like a conductor, orchestrating all elements to achieve harmonious outcomes. You have the potential to be a skilled organizer, manager, networker, or mediator in your career. Your role revolves around guiding others by utilizing energy resources most efficiently. It is crucial to pay attention to energy dynamics. You draw inspiration from the energies of those around you and can amplify that energy. However, if not managed well, your energy can lead to burnout and exhaustion in the future. Knowing when to pause and rest is vital for maintaining your health.";
+var lifestyle_25_plus_eng_projektor_name = "Advisor";
+var lifestyle_25_plus_eng_projektor_1 = "Your journey in the world of career and leadership is unique. When others recognize your talents, you truly shine in roles that involve organizing and managing individuals, groups, and systems.You are like a conductor, orchestrating all elements to achieve harmonious outcomes.\n\nYou have the potential to be a skilled organizer, manager, networker, or mediator in your career.Your role revolves around guiding others by utilizing energy resources most efficiently.\n\nIt is crucial to pay attention to energy dynamics. You draw inspiration from the energies of those around you and can amplify that energy. However, if not managed well, your energy can lead to burnout and exhaustion in the future. Knowing when to pause and rest is vital for maintaining your health.";
 var lifestyle_25_plus_eng_projektor_2 = "Waiting for recognition and the right invitations is the key to success. This approach allows you to channel your energy and wisdom in the most meaningful and effective way. Be selective about accepting the right invitations for you. Trust your intuition to guide you through this process.";
 var lifestyle_25_plus_eng_projektor_3 = "One of your innate talents is recognizing potential in others. This ability makes you an ideal leader and guide in the modern world, as you can identify talents and match them with the right tasks and projects. You have a unique presence that naturally attracts people and opportunities to you. Your ability to focus on one person at a time creates highly personal and meaningful interactions. When you are recognized for your skills, talents, and unique perspective on the world, and you receive the right invitations, you are on the path to realizing your true potential. For you, success involves selecting the right people and opportunities that genuinely appreciate and acknowledge your intelligence and wisdom.";
 var lifestyle_25_plus_eng_projektor_motto = "YOU CAN BE A WISE AND INTELLIGENT GUIDE FOR THOSE AROUND YOU. SHARE YOUR WISDOM ONLY WITH THOSE WHO INVITE YOU TO DO SO.";
 
 var lifestyle_25_plus_eng_manifestor_name = "Initator";
-var lifestyle_25_plus_eng_manifestor_1 = "You possess a unique and powerful ability—unlike many others around you, you have an innate skill for initiating things. Your role is crucial because if you don't take the first step, things won’t progress as they should. You are here to be self-sufficient, to work and act independently, and to make an impact with your actions. In relationships and work, you also play the role of initiator—the one who makes the first move. You may often find yourself looking ahead, waiting for others to catch up with your vision. Those around you might perceive your energy as a strong, outward force, pushing forward with purpose.";
+var lifestyle_25_plus_eng_manifestor_1 = "You possess a unique and powerful ability—unlike many others around you, you have an innate skill for initiating things. Your role is crucial because if you don't take the first step, things won’t progress as they should. You are here to be self-sufficient, to work and act independently, and to make an impact with your actions.\n\nIn relationships and work, you also play the role of initiator—the one who makes the first move. You may often find yourself looking ahead, waiting for others to catch up with your vision. Those around you might perceive your energy as a strong, outward force, pushing forward with purpose.";
 var lifestyle_25_plus_eng_manifestor_2 = "The key to successful interactions for you lies in recognizing that you are designed to initiate and get things done. When you start something, if you make sure to inform everyone who will be affected, you can create a positive and effective interaction for yourself and those around you.";
 var lifestyle_25_plus_eng_manifestor_3 = "You don't enjoy being controlled. Nonetheless, learning the art of informing before taking action is crucial. By informing those around you before you act, you pave the way for clear, efficient, and peaceful communication. Even though informing might not come naturally to you, mastering this skill is worth the effort and will be a vital element in both your personal and professional life. As you advance in your career, you will naturally recognize what needs to be done or started. Proceed by following your insights and make sure to inform everyone who will be affected. This approach is the key to your success and peace of mind in your professional life.";
 var lifestyle_25_plus_eng_manifestor_motto = "UNDERSTANDING AND APPLYING THE BALANCE BETWEEN YOUR INITIATING POWER AND THE ART OF INFORMING WILL BE THE KEY TO SUCCESS AND INNER PEACE IN YOUR PROFESSIONAL LIFE.";
 
 var lifestyle_25_plus_eng_reflektor_name = "Evaluator";
-var lifestyle_25_plus_eng_reflektor_1 = "In the right environment, you can shine as someone who provides objective assessments of people, communities, and businesses. Your perspective is entirely unique and allows you to think critically, evaluate progress or areas needing attention, and gain a broad view. You possess an extraordinary ability to accept others and guide them towards collaboration, peace, and fairness by highlighting what isn’t working. When you are at the center of a business, community, or group, you are there to reflect on how things operate as a whole, moving freely and effectively. You can be particularly effective by teaching those around you the importance of embracing diversity.";
+var lifestyle_25_plus_eng_reflektor_1 = "In the right environment, you can shine as someone who provides objective assessments of people, communities, and businesses. Your perspective is entirely unique and allows you to think critically, evaluate progress or areas needing attention, and gain a broad view.\n\nYou possess an extraordinary ability to accept others and guide them towards collaboration, peace, and fairness by highlighting what isn’t working. When you are at the center of a business, community, or group, you are there to reflect on how things operate as a whole, moving freely and effectively. You can be particularly effective by teaching those around you the importance of embracing diversity.";
 var lifestyle_25_plus_eng_reflektor_2 = "Offering an objective perspective and reflecting everything and everyone around you is among your skills. Your presence can be defined by silence, kindness, and non-interference. You reflect the environment as a whole, which can make it difficult for others to fully understand who you are.";
 var lifestyle_25_plus_eng_reflektor_3 = "When making decisions, it's important not to rush. Evaluate significant issues and discuss them with trusted individuals. Be aware of potential traps in interactions, such as being in the wrong environment or trying to fit in with everyone. Avoid excessive dependence on others or feeling invisible; do not compromise your true self. Resist the urge to initiate, push, or force things into being, as this may lead to resistance and frustration in others. Avoid being influenced by others' fears, emotions, stress, and anxieties. Always maintain a healthy distance from those around you and avoid rushing or feeling pressured when making decisions. It's crucial for you to be in the right environment to make the best choices and feel good. You have the ability to reflect the energy of your surroundings, so always prioritize your environment in both your personal and professional life.";
 var lifestyle_25_plus_eng_reflektor_motto = "YOU ARE HERE TO BRING A UNIQUE PERSPECTIVE TO THE WORLD. MAKE SURE THE ENVIRONMENT YOU ARE IN IS RIGHT FOR YOU!";
@@ -5358,7 +5002,7 @@ var lifestyle_25_plus_eng_manifesting_generator_evaluation = "• How can I hono
 var lifestyle_25_plus_eng_generator_question_name = "Energetic";
 var lifestyle_25_plus_eng_generator_evaluation = "• What activities give me the most satisfaction, and how can I align more of my daily life with these activities?\n\n• How do I feel in my body when I respond to opportunities versus when I initiate action without waiting?\n\n• In what areas of my life am I forcing things to happen, and how can I shift to a more responsive approach?\n\n• What signals does my Sacral (gut response) give me when I’m on the right path, and how can I trust and follow them more consistently?\n\n• How do I recharge my energy when I feel frustrated or stuck, and what can I do to cultivate more patience during these times?";
 
-var lifestyle_25_plus_eng_projektor_question_name = "Guide";
+var lifestyle_25_plus_eng_projektor_question_name = "Advisor";
 var lifestyle_25_plus_eng_projektor_evaluation = "• How can I recognize when it’s time to wait for invitations rather than pushing to be seen or heard?\n\n• What invitations or recognition have I received recently that felt aligned with my strengths, and how did I respond to them?\n\n• In what areas of my life do I feel most seen and valued for my unique perspective, and how can I focus more energy there?\n\n• How do I maintain my energy and avoid burnout, especially when I feel like I’m not being recognized or appreciated?\n\n• What can I do to cultivate more patience and trust in the right opportunities and invitations coming my way?";
 
 var lifestyle_25_plus_eng_manifestor_question_name = "Initiator";
@@ -5441,7 +5085,7 @@ var communication_generator_eng_3_s2 = "Establish Clear Boundaries: Be clear abo
 var communication_generator_eng_4_s2 = "Showcase Enthusiasm in Engagement: When you do choose to engage, do so with evident enthusiasm. Your energy is contagious and can inspire and motivate your team. Let your genuine excitement for the work guide your interactions, and you’ll find that you become even more pivotal within your team dynamics.";
 var communication_generator_eng_s3 = "• Do you wait to respond before engaging in interactions? How can you listen to your instincts and recognize when the right time comes?\n\n• Are you responding to things that truly excite you? What can you do to trust your instincts and choose only the opportunities that align with you?\n\n• Are you making sure you're truly responding before initiating interactions? How can you apply this approach more in your work and social life?\n\n• Do you notice that people naturally gravitate towards you? What steps can you take to create more effective interactions at work thanks to your natural magnetism?\n\n• Are you responding to the right projects at work and ensuring your energy is directed towards the right areas? What strategies can you use to find the tasks that bring you the most satisfaction?"; 
 
-var communication_projector_eng_0 = "Guide";
+var communication_projector_eng_0 = "Advisor";
 var communication_projector_eng_1 = "Central to effective communication for you is your non-verbal presence, which is a subtle yet powerful force. You have an open, focused, and absorbing presence that naturally draws others to you. This magnetic quality means you are designed to be recognized by others without having to demand attention.";
 var communication_projector_eng_2 = "Wait for Recognition and an Invitation Before Engaging:";
 var communication_projector_eng_3 = "You thrive on recognition. Before engaging, make sure that you have been noticed and acknowledged for your skills, talents, and capacity to guide and lead. This ensures that your interactions are based on an authentic and recognized foundation.";
@@ -5485,123 +5129,123 @@ var communication_reflektor_eng_4_s2 = "Leverage Your Innate Wisdom: Allow your 
 var communication_reflektor_eng_s3 = "Do you notice how you objectively reflect the people and environments around you? How can you use this reflective power more effectively in your workplace or social circles?\n\nHow does waiting and thinking before engaging provide you with insight? In which situations could you apply this waiting process more effectively?\n\nHow does your gentle and quiet presence help others express themselves comfortably? How could you use this quality more in team collaborations?\n\nDo you take enough time to evaluate your reflective insights before sharing them with others? What types of discussions could help deepen your strategic perspective?\n\nHow does your ability to observe the health of your environment contribute to your teammates and projects? How can you bring out this inner wisdom more effectively at work?";
 
 //Karar Verme Stratejilerin
-var decision_strategy_s3_1_0 = "Karşılık Vermek İçin Bekle ve Netlik İçin Sabret";
-var decision_strategy_s3_1_1 = "Karşılık Ver ve Netlikle Karar Al"; 
+var decision_strategy_s3_1_0 = "Karşılık Ver ve Netlikle Karar Al"; 
+var decision_strategy_s3_1_1 = "Karşılık Vermek İçin Bekle ve Netlik İçin Sabret";
 var decision_strategy_s3_1_2 = "Karar verme stratejin iki temel unsur üzerine kuruludur: İçsel yanıtını (karnında hissedebilirsin) dinlemek ve ardından netliğin ortaya çıkmasını sabırla beklemek. İçsel yanıtın belirli bir eyleme adım atmaya enerjin olup olmadığını gösteren değerli bir rehberdir. Ancak, yanıtlarının zihin tarafından, özellikle aciliyet veya baskı hissettiğinde etkilenebileceğini unutmamak önemlidir. Bu yüzden, bu baskıların hafiflemesini bekleyip, netliğe ulaşmak çok önemlidir.";
 var decision_strategy_s3_1_3 = "• İçsel Tepki (Tam karnında hissedebilirsin): Hayat sana bir fırsat sunduğunda, içsel yanıtın \"hı-hı\" (evet), \"ı-ı\" (hayır) ya da \"hımm\" (şimdilik hayır veya başka bir şekilde sor) olarak kendini gösterir. Bu alanda enerjin artabilir ya da azalabilir. Bu ince sinyallere dikkat et, ancak yalnızca anlık içgüdüsel tepkilere dayanarak karar vermekten kaçın.";
 var decision_strategy_s3_1_4 = "• Netlik İçin Bekle: Aceleyle harekete geçmek yerine, netliğin ortaya çıkması için kendine zaman ve alan tanı.Duygusal iniş ve çıkışlar sırasında karar vermekten kaçın ve önemli seçimler yapmadan önce kendine zaman ver. Bu sabır, sakin ve emin bir güvenle karar vermeni sağlar.";
 var decision_strategy_s4_1_text = "Zihinle hareket etmek, içsel yanıtını sorgulamaya, kaygı hissetmeye ve fırsatları kaçırmaya yol açabilir. Buna karşılık, tepki ve netliğe dayalı hareket etmek, hayatın sana gelmesini beklemeyi, içgüdülerine güvenmeyi ve karar vermeden önce duygusal netlik aramayı içerir.";
-var decision_strategy_s4_1_1 = "1.Aktif Bekle: Hayatın sana verdiği işaretlere ve sinyallere açık ol, aceleyle harekete geçmeden gözlemle.\n2Karşılık Ver: İçsel tepkinin verdiği yanıtı dinle – evet için \"hı-hı\", hayır için \"ı-ı\" ya da henüz değil için \"hımm\". Bu konuda enerjinin arttığını ya da artmadığını hissedebilirsin..\n3.Netlik İçin Bekle: Bir gece üzerine yat ve duygusal netlikte hissetmeye izin ver. Yüksek duygusal hallerde karar vermekten kaçın.\n4.Karar Ver: İçsel yanıtın ve duygusal netliğin doğrultusunda karar ver – evet, hayır ya da şimdilik değil.\n5.Harekete Geç ya da Geçme: Son olarak, kararına göre harekete geç ya da geçme; içsel tepkinin ve duygusal netliğinin bilgeliğine güven.";
+var decision_strategy_s4_1_1 = "1. Aktif Bekle: Hayatın sana verdiği işaretlere ve sinyallere açık ol, aceleyle harekete geçmeden gözlemle.\n2. Karşılık Ver: İçsel tepkinin verdiği yanıtı dinle – evet için \"hı-hı\", hayır için \"ı-ı\" ya da henüz değil için \"hımm\". Bu konuda enerjinin arttığını ya da artmadığını hissedebilirsin..\n3. Netlik İçin Bekle: Bir gece üzerine yat ve duygusal netlikte hissetmeye izin ver. Yüksek duygusal hallerde karar vermekten kaçın.\n4. Karar Ver: İçsel yanıtın ve duygusal netliğin doğrultusunda karar ver – evet, hayır ya da şimdilik değil.\n5. Harekete Geç ya da Geçme: Son olarak, kararına göre harekete geç ya da geçme; içsel tepkinin ve duygusal netliğinin bilgeliğine güven.";
 var decision_strategy_s4_1_txt = "Bu karar verme stratejisine bağlı kalarak, seçimlerini sabır, sağduyu ve güvenle yapabilirsin. Bu da kariyerinde ve iş hayatında daha büyük başarı ve tatmin sağlayabilir.";
 var decision_strategy_ozet_1_1 = "Karar Verme Stratejin: Karşılık Ver ve Netlikle Karar Al";
 var decision_strategy_ozet_1_2 = "Senin için doğru karar, hayatın sunduğu fırsatlara içgüdüsel olarak verdiğin yanıtı dinleyip, ardından netleşmesini sabırla beklediğinde ortaya çıkar. Harekete geçmeden önce duygusal dalgalanmaların durulmasını beklemek, seçimlerinin sana huzur ve güven getirmesini sağlar.";
 
-var decision_strategy_s3_2_0 = "Karşılık Vermek İçin Bekle ve İçgüdülerini Takip Edebilirsin";
-var decision_strategy_s3_2_1 = "Karşılık Vermek İçin Bekle ve İçgüdülerini Takip Et"; 
+var decision_strategy_s3_2_0 = "Karşılık Vermek İçin Bekle ve İçgüdülerini Takip Et"; 
+var decision_strategy_s3_2_1 = "Karşılık Vermek İçin Bekle ve İçgüdülerini Takip Edebilirsin";
 var decision_strategy_s3_2_2 = "Karar verme stratejin iki temel unsura dayanır: cevap vermek için beklemek ve içsel tepkini (karnında hissedebilirsin) takip etmek. İçsel tepkin, belirli bir eyleme adım atmaya enerjin ve eğilimin olup olmadığını güçlü bir şekilde gösterir. Ancak, bu içsel tepki sadece evet ya da hayır sorularına yanıt verir, bu yüzden sorularını buna uygun şekilde şekillendirmen önemlidir.";
 var decision_strategy_s3_2_3 = "• Cevap Vermek İçin Bekle: Düşünmeden ve aceleyle harekete geçmek yerine, kendine beklemek ve gözlemlemek için alan aç. Hayatın sana farklı şekillerde yaklaştığını fark et – bir soru, bir e-posta, bir insan ya da bir ses olabilir. Doğru zaman geldiğinde, hayat sana fırsatları sunacaktır, buna güven.";
 var decision_strategy_s3_2_4 = "• İçsel Tepkini Takip Et: İçsel tepkilerin ya \"hı-hı\" (evet), ya \"ı-ı\" (hayır) ya da \"hımm\" (şimdilik hayır veya başka bir şekilde sor) olarak kendini gösterir. Vücudundaki hislere (karında) dikkat et – bir şeye heyecanla çekildiğini mi hissediyorsun yoksa midende bir düğüm hissi mi var?";
 var decision_strategy_s4_2_text = "Zihinden hareket etmek, içsel tepkilerini sorgulamana, kaygı duymana ve fırsatları kaçırmana neden olabilir. Karşılık vermek için beklemek, hayatın sana gelmesini beklemeyi ve içsel tepkilerinin rehberliğine güvenmeyi içerir. Hayatın büyüsüne teslim ol ve seni heyecanlandıran şeylere doğru çekilmeye, çekilmeyenlerden ise uzaklaşmaya izin ver.";
-var decision_strategy_s4_2_1 = "1.Aktif Bekle: Hayatın sana verdiği işaretlere ve sinyallere açık ol, bunlar sorular, etkileşimler ya da deneyimler şeklinde gelebilir.\n2.Cevap Ver: İçgüdülerinin verdiği yanıtı dinle – evet için \"ah-huh\", hayır için \"uhn - un\" ya da \"hmmmmm\" ile henüz değil.\n3.Karar Ver: İçgüdülerine göre karar ver – evet, hayır ya da henüz değil. Bu aşamada zihninin müdahalesine karşı dikkatli ol.\n4.Harekete Geç ya da Geçme: Son olarak, kararına göre harekete geç ya da geçme, içgüdülerinin bilgeliğine güven.";
+var decision_strategy_s4_2_1 = "1. Aktif Bekle: Hayatın sana verdiği işaretlere ve sinyallere açık ol, bunlar sorular, etkileşimler ya da deneyimler şeklinde gelebilir.\n2. Cevap Ver: İçgüdülerinin verdiği yanıtı dinle – evet için \"ah-huh\", hayır için \"uhn - un\" ya da \"hmmmmm\" ile henüz değil.\n3. Karar Ver: İçgüdülerine göre karar ver – evet, hayır ya da henüz değil. Bu aşamada zihninin müdahalesine karşı dikkatli ol.\n4. Harekete Geç ya da Geçme: Son olarak, kararına göre harekete geç ya da geçme, içgüdülerinin bilgeliğine güven.";
 var decision_strategy_s4_2_txt = "Bu karar verme stratejisine sadık kalarak, seçimlerini netlik, güven ve otantiklikle yapabilir, bu da kariyerinde ve iş hayatında daha büyük bir başarı ve tatmin sağlayabilir";
-var decision_strategy_ozet_2_1 = "Karar Verme Stratejin: Harekete Geçmeden Önce Bilgilendir";
-var decision_strategy_ozet_2_2 = "Senin için doğru kararlar, harekete geçmeden önce çevrendekileri bilgilendirerek ve içsel dürtünü takip ederek ortaya çıkar. Kararlarını paylaşmak, karşılaşabileceğin dirençleri azaltır ve senin bağımsız hareket ederken desteklenmeni sağlar.";
+var decision_strategy_ozet_2_1 = "Karar Verme Stratejin: Karşılık Vermek için Bekle ve İçgüdülerini Takip Et";
+var decision_strategy_ozet_2_2 = "Senin için doğru kararlar, hayatın sana sunduğu fırsatlara içsel dürtünü takip ederek vereceğin cevaplarla ortaya çıkar. Senin o anda karar vermen önemli, eğer netlik oluşmadıysa belki de karar vermemen ve bir sonraki karşılık anını beklemen yerinde olacaktır.";
 
-var decision_strategy_s3_3_0 = "Tanınma, Davet ve Netlik için Bekle ";
-var decision_strategy_s3_3_1 = "Tanınma ve Davet Al, Netlik ile Karar Al "; 
+var decision_strategy_s3_3_0 = "Tanınma ve Davet Al, Netlik ile Karar Al "; 
+var decision_strategy_s3_3_1 = "Tanınma, Davet ve Netlik için Bekle ";
 var decision_strategy_s3_3_2 = "Karar verme stratejin, tanınmayı, davet almayı ve duygusal netliğin ortaya çıkmasını beklemeye dayanır. Süreci sabırla gözlemleyerek ve güvenerek, doğru zamanda ve duygusal gerçekliğinle uyumlu kararlar alabilirsin. ";
 var decision_strategy_s3_3_3 = "• Tanınma ve Davet İçin Bekle: Sabırlı ol ve tanınmayı, ya da bir daveti beklerken güven içinde ol. Özellikle aşk, kariyer, ilişkiler ve yaşam düzenlemeleri gibi hayatının önemli alanlarında seçici ve dikkatli olmalısın.";
 var decision_strategy_s3_3_4 = "• Duygusal Netlik İçin Bekle: Tanındıktan veya davet aldıktan sonra, harekete geçmeden önce duygusal netliği elde etmek için kendine zaman tanı. Duygusal dalgalanmalar sırasında karar vermekten kaçın ve doğru zamanın geldiğini gösteren sakin bir güvenin ortaya çıkmasını bekle. ";
 var decision_strategy_s4_3_text = "Zihinle hareket etmek, dürtüselliğe, şüphelere ve fırsatların kaçmasına yol açabilir. Oysa tanınma, davet ve netliği beklemek, kimyanın ve fırsatların sessiz büyüsüne güvenmeni sağlar. ";
-var decision_strategy_s4_3_1 = "1.Tanınma ve Davet İçin Aktif Bekle: Tanınmayı veya bir davetin ortaya çıkmasını sabır ve dikkatle bekle. Sürece güven ve seçimlerinde seçici ol.\n2.Netlik İçin Bekle: Tanındıktan ve davet aldıktan sonra, üzerinde düşün ve duygusal dalgalanmanı hissetmene izin ver. Duygusal dürtülerle karar vermekten kaçın ve netlik sinyalini bekle.\n3.Karar Ver: Duygusal netliğine dayanarak, evet, hayır veya şimdi değil gibi kararını, kendi gerçeğin ve sezgilerinle uyumlu olacak şekilde ver.\n4.Harekete Geç ya da Geçme: Eğer kararın doğru hissediliyorsa güvenle harekete geç, yoksa duygusal netlik için bekle. ";
+var decision_strategy_s4_3_1 = "1. Tanınma ve Davet İçin Aktif Bekle: Tanınmayı veya bir davetin ortaya çıkmasını sabır ve dikkatle bekle. Sürece güven ve seçimlerinde seçici ol.\n2. Netlik İçin Bekle: Tanındıktan ve davet aldıktan sonra, üzerinde düşün ve duygusal dalgalanmanı hissetmene izin ver. Duygusal dürtülerle karar vermekten kaçın ve netlik sinyalini bekle.\n3. Karar Ver: Duygusal netliğine dayanarak, evet, hayır veya şimdi değil gibi kararını, kendi gerçeğin ve sezgilerinle uyumlu olacak şekilde ver.\n4. Harekete Geç ya da Geçme: Eğer kararın doğru hissediliyorsa güvenle harekete geç, yoksa duygusal netlik için bekle. ";
 var decision_strategy_s4_3_txt = "Bu karar verme stratejisine bağlı kalarak, sabır, güven ve duygusal netlikle seçim yapabilir ve böylece eylemlerini gerçek niyetlerinle uyumlu hale getirerek, daha büyük tatmin ve başarıya ulaşabilirsin. ";
 var decision_strategy_ozet_3_1 = "Karar Verme Stratejin: Tanınma ve Davet Al, Netlikle Karar Al";
 var decision_strategy_ozet_3_2 = "Doğru kararlar senin için, bir davetle birlikte geldiğinde ve duygusal açıdan netleştiğinde ortaya çıkar. Duyguların dalgalanmasına izin verip netliği beklemek, uzun vadede seni tatmin eden seçimler yapmanı sağlar.";
 
-var decision_strategy_s3_4_0 = "Tanınmayı, Daveti Bekle ve İçgüdülerini Takip Et ";
-var decision_strategy_s3_4_1 = "Tanınma ve Davet Al, İçgüdülerini Takip Et "; 
+var decision_strategy_s3_4_0 = "Tanınma ve Davet Al, İçgüdülerini Takip Et ";
+var decision_strategy_s3_4_1 = "Tanınmayı, Daveti Bekle ve İçgüdülerini Takip Et";
 var decision_strategy_s3_4_2 = "Karar verme stratejin, sabırla tanınmayı veya daveti beklemeye, ardından içgüdülerini takip ederek doğru yolu bulmaya dayanır. Duyularına dikkat ederek ve anlık bilgeliğine güvenerek, kararlarını güvenle ve özgün bir şekilde verebilirsin. ";
 var decision_strategy_s3_4_3 = "• Tanınma veya Daveti Bekle: Sabırlı ol ve tanınmanın ya da bir davetin ortaya çıkmasını beklerken sürece güven. İnce ipuçlarına dikkat et ve özellikle aşk, kariyer, ilişkiler ve yaşam düzenlemeleri gibi kritik alanlarda seçimlerinde dikkatli ol. ";
 var decision_strategy_s3_4_4 = "• İçgüdülerini Takip Et: Tanındıktan veya davet aldıktan sonra, anın içindeki içgüdülerine güven. Bedeninin ince sinyallerine dikkat ederek, anlık bilgeliğinin kararlarını yönlendirmesine izin ver. ";
 var decision_strategy_s4_4_text = "Zihinden hareket etmek, şüphe, kaygı ve fırsatların kaçmasına neden olabilirken, tanınmayı, daveti ve içgüdülerini takip etmek, kimyanın ve fırsatların sessiz büyüsüne güvenmeni sağlar. ";
-var decision_strategy_s4_4_1 = "1.Tanınma ve Daveti Aktif Bekle: Sabırlı ol ve keskin bir gözlemle tanınmayı ve davetin ortaya çıkmasını bekle. Sürece güven ve seçimlerinde dikkatli ol.\n2.İçgüdülerini Takip Et: Tanındıktan veya davet aldıktan sonra, o anki içgüdülerine güven. Bedeninin sinyallerine dikkat ederek, anlık bilgeliğinle kararlarını yönlendir. İçgüdüsel bilgi çoğu zaman sessiz bir şekilde, gürültü ve hareketin ortasında konuşur. Bedenin senin için doğru olanı hissetmeye ayarlıdır; bu bilgeliğin kararlarını şekillendirmesine izin ver.\n3.Karar Ver: İçgüdülerine ve sezgisel bilgine dayanarak, evet, hayır ya da şimdilik değil kararı ver, ve bu karar senin gerçeğinle uyumlu olsun.\n4.Harekete Geç ya da Geçme: Kararın doğru hissettiriyorsa güvenle harekete geç ya da daha fazla düşünmeye ihtiyaç varsa bekle. ";
+var decision_strategy_s4_4_1 = "1. Tanınma ve Daveti Aktif Bekle: Sabırlı ol ve keskin bir gözlemle tanınmayı ve davetin ortaya çıkmasını bekle. Sürece güven ve seçimlerinde dikkatli ol.\n2. İçgüdülerini Takip Et: Tanındıktan veya davet aldıktan sonra, o anki içgüdülerine güven. Bedeninin sinyallerine dikkat ederek, anlık bilgeliğinle kararlarını yönlendir. İçgüdüsel bilgi çoğu zaman sessiz bir şekilde, gürültü ve hareketin ortasında konuşur. Bedenin senin için doğru olanı hissetmeye ayarlıdır; bu bilgeliğin kararlarını şekillendirmesine izin ver.\n3. Karar Ver: İçgüdülerine ve sezgisel bilgine dayanarak, evet, hayır ya da şimdilik değil kararı ver, ve bu karar senin gerçeğinle uyumlu olsun.\n4. Harekete Geç ya da Geçme: Kararın doğru hissettiriyorsa güvenle harekete geç ya da daha fazla düşünmeye ihtiyaç varsa bekle. ";
 var decision_strategy_s4_4_txt = "Bu karar verme stratejisine sadık kalarak, seçimlerini sabır, güven ve özgünlükle yönlendirebilir, böylece içgüdülerinle uyumlu hareket ederek daha büyük tatmin ve başarıya ulaşabilirsin.  ";
 var decision_strategy_ozet_4_1 = "Karar Verme Stratejin: Tanınma ve Davet Al, İçgüdülerini Takip Et";
 var decision_strategy_ozet_4_2 = "Bir davetle tanındığında ve içgüdüsel bir evet hissi aldığında doğru karar ortaya çıkar. Vücudunun verdiği anlık tepkiler, senin için sağlam bir rehber olabilir; bu yüzden sezgilerini duymaya dikkat et.";
 
-var decision_strategy_s3_5_0 = "Tanınmayı, Daveti Bekle ve İradeni Takip Et ";
-var decision_strategy_s3_5_1 = "Tanınma ve Davet Al, İradeli Kararlılığını Takip Et "; 
+var decision_strategy_s3_5_0 = "Tanınma ve Davet Al, İradeli Kararlılığını Takip Et"; 
+var decision_strategy_s3_5_1 = "Tanınmayı, Daveti Bekle ve İradeni Takip Et";
 var decision_strategy_s3_5_2 = "Karar verme stratejin, sabırla tanınmayı veya daveti beklemeye, ardından iradeni takip ederek harekete geçmeye dayanır. Kendi isteklerine öncelik verip bağlılığını değerlendirerek, kararlarının gerçek niyetlerinle uyumlu olmasını sağlayabilir ve tatmin edici sonuçlara ulaşabilirsin. ";
 var decision_strategy_s3_5_3 = "• Tanınma veya Daveti Bekle: Sabırlı ol ve tanınmanın ardından bir davetin ortaya çıkmasını beklerken sürece güven. Özellikle aşk, kariyer, ilişkiler ve yaşam düzenlemeleri gibi hayati konularda dikkatli ve seçici ol. ";
 var decision_strategy_s3_5_4 = '• İradeni Takip Et: Tanınıp davet aldıktan sonra, iradeni değerlendirerek bağlılık ve istek seviyeni ölç. "Ben ne istiyorum?" ve "Bu benim için ne ifade ediyor ? " sorularını bencilce sorarak, kalbinin tam anlamıyla işin içinde olup olmadığından emin ol. Bu, dengeni koruyarak sağlığını ve mutluluğunu sürdürmene yardımcı olur. ';
 var decision_strategy_s4_5_text = "Zihinden hareket etmek şüphe, kaygı ve kaçırılmış fırsatlara yol açabilirken, tanınmayı, daveti ve iradeni takip etmek, kimyanın ve fırsatların sessiz büyüsüne güvenmeni sağlar. ";
-var decision_strategy_s4_5_1 = "1.Tanınma ve Daveti Aktif Bekle: Sabırlı ol, gözlem yap ve tanınmayı beklerken sürece güven. Fırsatların isteklerinle uyumlu olduğundan emin olarak seçici davran.\n2.İradeni Dinle: Tanınıp davet aldıktan sonra, bağlılık ve isteğini değerlendirmek için iradene kulak ver. Kendi ihtiyaçlarına ve arzularına öncelik vererek, gerçek niyetlerinle uyumlu olup olmadığını kontrol et.\n3.Karar Ver: İrade ve isteklerinin değerlendirmesi sonucunda, evet, hayır ya da şimdilik değil kararı ver; bu karar gerçek arzularını ve niyetlerini yansıtsın.\n4.Harekete Geç ya da Geçme: Kalbin tam anlamıyla işin içindeyse ve kararın gerçek niyetlerinle uyumluysa güvenle harekete geç. Daha fazla düşünmeye ihtiyaç varsa, eylemden kaçın. ";
+var decision_strategy_s4_5_1 = "1. Tanınma ve Daveti Aktif Bekle: Sabırlı ol, gözlem yap ve tanınmayı beklerken sürece güven. Fırsatların isteklerinle uyumlu olduğundan emin olarak seçici davran.\n2. İradeni Dinle: Tanınıp davet aldıktan sonra, bağlılık ve isteğini değerlendirmek için iradene kulak ver. Kendi ihtiyaçlarına ve arzularına öncelik vererek, gerçek niyetlerinle uyumlu olup olmadığını kontrol et.\n3. Karar Ver: İrade ve isteklerinin değerlendirmesi sonucunda, evet, hayır ya da şimdilik değil kararı ver; bu karar gerçek arzularını ve niyetlerini yansıtsın.\n4. Harekete Geç ya da Geçme: Kalbin tam anlamıyla işin içindeyse ve kararın gerçek niyetlerinle uyumluysa güvenle harekete geç. Daha fazla düşünmeye ihtiyaç varsa, eylemden kaçın. ";
 var decision_strategy_s4_5_txt = "Bu karar verme stratejisine sadık kalarak, sabır, güven ve öz farkındalıkla seçimlerini yönlendirebilir, gerçek arzularınla uyum içinde hareket ederek daha büyük tatmin ve başarıya ulaşabilirsin. ";
 var decision_strategy_ozet_5_1 = "Karar Verme Stratejin: Tanınma ve Davet Al, İradeli Kararlılığını Takip Et";
 var decision_strategy_ozet_5_2 = "Senin karar yolculuğun, tanınmayla başlayan ve içindeki güçlü kararlılıkla şekillenen bir yapıya sahip. Hedeflerine bağlılık gösterdiğinde ve seni gerçekten motive eden şeylere yöneldiğinde doğru kararları daha net görebilirsin.";
 
-var decision_strategy_s3_6_0 = "Tanınmayı, Daveti Bekle ve Söylediklerini Dinle  ";
-var decision_strategy_s3_6_1 = "Tanınma ve Davet Al, Söylediklerini Dinle "; 
+var decision_strategy_s3_6_0 = "Tanınma ve Davet Al, Söylediklerini Dinle "; 
+var decision_strategy_s3_6_1 = "Tanınmayı, Daveti Bekle ve Söylediklerini Dinle";
 var decision_strategy_s3_6_2 = "Karar verme stratejin, sabırla tanınmayı veya davet beklemeye, ardından güvendiğin birkaç kişiyle konuşarak kendi sesini dikkatlice dinlemeye dayanır. Kendi kendine düşünmeye ve içsel bilgeliğine güvenerek, kararlarının otantik ve gerçek arzularınla uyumlu olmasını sağlayabilirsin. ";
 var decision_strategy_s3_6_3 = "• Tanınma veya Davet Bekle: Tanınmanın veya davetin ortaya çıkmasını sabırla beklerken sürece güven. Özellikle aşk, kariyer, ilişkiler ve yaşam düzenlemeleri gibi önemli yaşam alanlarında seçici ve dikkatli ol. ";
 var decision_strategy_s3_6_4 = "• Söylediklerini Dinle: Tanınıp davet aldıktan sonra, güvendiğin insanlarla konuşmalar yap, ancak onların tavsiyelerini almak için değil, kendi sesini dinlemek için. Kararlarının seni ne kadar mutlu ettiğine, kendini ifade etme biçiminle ve kişisel yönünle uyumlu olup olmadığına dikkat et. ";
 var decision_strategy_s4_6_text = "Zihinden hareket etmek, şüphe, kaygı ve kaçırılmış fırsatlara yol açabilirken, tanınmayı, daveti ve kendi sesini dinlemeyi takip etmek, içsel sesinin sessiz bilgeliğine güvenmeni sağlar. ";
-var decision_strategy_s4_6_1 = "1.Tanınma veya Davet Aktif Bekle: Sabırlı ol, gözlem yap ve tanınmayı beklerken sürece güven. Fırsatların isteklerinle uyumlu olduğundan emin olarak seçici davran.\n2.Söylediklerini Dinle: Güvendiğin kişilerle sohbet ederken, onların tavsiyelerine değil, kendi sesine odaklan. Kararlarının seni mutlu edip etmediğini ve kişisel yönünle uyumlu olup olmadığını düşün.\n3.Karar Ver: Kendi yansımaların ve içsel bilgeliğin doğrultusunda, evet, hayır ya da şimdilik değil kararı ver; bu karar gerçek arzularını ve niyetlerini yansıtsın.\n4.Harekete Geç ya da Geçme: Kararın gerçek arzularınla uyumluysa ve içsel sesinle rezonansa giriyorsa güvenle harekete geç. Daha fazla düşünmeye ihtiyaç duyarsan, eylemden kaçın.";
+var decision_strategy_s4_6_1 = "1. Tanınma veya Davet Aktif Bekle: Sabırlı ol, gözlem yap ve tanınmayı beklerken sürece güven. Fırsatların isteklerinle uyumlu olduğundan emin olarak seçici davran.\n2. Söylediklerini Dinle: Güvendiğin kişilerle sohbet ederken, onların tavsiyelerine değil, kendi sesine odaklan. Kararlarının seni mutlu edip etmediğini ve kişisel yönünle uyumlu olup olmadığını düşün.\n3. Karar Ver: Kendi yansımaların ve içsel bilgeliğin doğrultusunda, evet, hayır ya da şimdilik değil kararı ver; bu karar gerçek arzularını ve niyetlerini yansıtsın.\n4. Harekete Geç ya da Geçme: Kararın gerçek arzularınla uyumluysa ve içsel sesinle rezonansa giriyorsa güvenle harekete geç. Daha fazla düşünmeye ihtiyaç duyarsan, eylemden kaçın.";
 var decision_strategy_s4_6_txt = "Bu karar verme stratejisine sadık kalarak, içsel farkındalık, otantiklik ve içsel bilgeliğine güvenle hareket edebilir, kararlarının gerçek arzularınla uyumlu olmasını sağlayarak daha büyük tatmin ve başarıya ulaşabilirsin.";
 var decision_strategy_ozet_6_1 = "Karar Verme Stratejin: Tanınma ve Davet Al, Söylediklerini Dinle";
 var decision_strategy_ozet_6_2 = "Tanınmak ve ardından söylediklerine kulak vermek, senin karar alma sürecinin merkezindedir. Konuşurken söylediklerin üzerinden netlik kazanabilir ve doğru yönü bu şekilde fark edebilirsin.";
 
-var decision_strategy_s3_7_0 = "Tanınmayı, Daveti Bekle ve Söylediklerini Dinle ";
-var decision_strategy_s3_7_1 = "Tanınma ve Davet Al, Kendi Söylediklerini Dinle ";
+var decision_strategy_s3_7_0 = "Tanınma ve Davet Al, Kendi Söylediklerini Dinle";
+var decision_strategy_s3_7_1 = "Tanınmayı, Daveti Bekle ve Söylediklerini Dinle";
 var decision_strategy_s3_7_2 = "Karar verme stratejin, sabırla tanınmayı veya bir daveti beklemeye, ardından güvendiğin kişilerle yapacağın sohbetlerde kendi sesini dinlemeye dayanır. Kendi kendini yansıtma ve çevresel duyarlılığa odaklanarak, kararlarının otantik arzuların ve niyetlerinle uyumlu olmasını sağlayabilirsin. ";
 var decision_strategy_s3_7_3 = "• Tanınma veya Davet Bekle: Tanınmayı ve bir davetin ortaya çıkmasını sabırla beklerken sürece güven. Ortamın doğru hissedip hissetmediğine dikkat et; çevresel ipuçlarına karşı hassassın. ";
 var decision_strategy_s3_7_4 = "• Söylediklerini Dinle: Güvendiğin kişilerle yapacağın sohbetlerde, onların tavsiyelerini almak için değil, kendi sesini dinlemek için konuş. Kararlarının seni mutlu edip etmediğini, kendini ifade ediş şeklinle ve kişisel yönünle uyumlu olup olmadığını düşünürken, farklı kişilerle fikirlerini paylaşarak bakış açısı kazan. ";
 var decision_strategy_s4_7_text = "Zihinden hareket etmek, şüphe, kaygı ve kaçırılmış fırsatlara yol açabilirken, tanınmayı, daveti ve kendi sesini dinlemeyi takip etmek, içsel sesinin sessiz bilgeliğine ve çevresel ipuçlarına güvenmeni sağlar. ";
-var decision_strategy_s4_7_1 = "1.Tanınma veya Daveti Aktif Bekle: Sabırlı ol, gözlem yap ve tanınmayı beklerken sürece güven. Ortamın doğru hissettirdiğinden emin ol.\n2.Kendi Söylediklerini Dinle: Güvendiğin kişilerle sohbet ederken, kendi sesini dinlemeye odaklan. Kararlarının kendini ifade etme şeklinle uyumlu olup olmadığını düşünürken, farklı bakış açıları kazanmak için görüş alışverişinde bulun.\n3.Karar Ver: Yansımaların ve içsel bilgeliklerine dayanarak, hem duygusal tepkilerini hem de çevresel ipuçlarını dikkate alarak evet, hayır ya da şimdilik değil kararı ver.\n4.Harekete Geç ya da Geçme: Kararın gerçek arzularınla uyumluysa ve içsel sesinle ve çevresel ipuçlarıyla rezonansa giriyorsa güvenle harekete geç. Daha fazla düşünmeye ya da çevresel ayarlamalara ihtiyaç duyarsan, eylemden kaçın. ";
+var decision_strategy_s4_7_1 = "1. Tanınma veya Daveti Aktif Bekle: Sabırlı ol, gözlem yap ve tanınmayı beklerken sürece güven. Ortamın doğru hissettirdiğinden emin ol.\n2. Kendi Söylediklerini Dinle: Güvendiğin kişilerle sohbet ederken, kendi sesini dinlemeye odaklan. Kararlarının kendini ifade etme şeklinle uyumlu olup olmadığını düşünürken, farklı bakış açıları kazanmak için görüş alışverişinde bulun.\n3. Karar Ver: Yansımaların ve içsel bilgeliklerine dayanarak, hem duygusal tepkilerini hem de çevresel ipuçlarını dikkate alarak evet, hayır ya da şimdilik değil kararı ver.\n4. Harekete Geç ya da Geçme: Kararın gerçek arzularınla uyumluysa ve içsel sesinle ve çevresel ipuçlarıyla rezonansa giriyorsa güvenle harekete geç. Daha fazla düşünmeye ya da çevresel ayarlamalara ihtiyaç duyarsan, eylemden kaçın. ";
 var decision_strategy_s4_7_txt = "Bu karar verme stratejisine sadık kalarak, farkındalık, otantiklik ve içsel bilgeliğine güvenle hareket edebilir, kararlarının gerçek arzuların ve çevresel duyarlılıklarınla uyumlu olmasını sağlayarak daha büyük tatmin ve başarıya ulaşabilirsin. ";
 var decision_strategy_ozet_7_1 = "Karar Verme Stratejin: Tanınma ve Davet Al, Kendi Söylediklerini Dinle";
 var decision_strategy_ozet_7_2 = "Seni tanıyanlardan gelen davetle birlikte, yüksek sesle düşündüklerinde söylediklerini fark etmek senin için çok belirleyici olabilir. Karar verirken kendini ifade etmen, ne istediğini daha net anlamanı sağlar.";
 
-var decision_strategy_s3_8_0 = "Duygusal Netlikle Harekete Geçmeden Önce Bekle ve Eylemden Önce Bilgilendir ";
-var decision_strategy_s3_8_1 = "Gör, Netlik Bekle ve Bilgi Ver ";
+var decision_strategy_s3_8_0 = "Gör, Netlik Bekle ve Bilgi Ver";
+var decision_strategy_s3_8_1 = "Duygusal Netlikle Harekete Geçmeden Önce Bekle ve Eylemden Önce Bilgilendir";
 var decision_strategy_s3_8_2 = "Bir başlatıcı olarak, karar verme stratejin, harekete geçmeden önce duygusal netliği beklemeye ve harekete geçmeden önce diğer insanları bilgilendirmeye dayanır. Eylemlerini duygusal netlikle hizalayarak ve başkaları üzerindeki etkisini göz önünde bulundurarak, kararlarını bilinçli ve özenli bir şekilde alabilirsin. ";
 var decision_strategy_s3_8_3 = "• Netliği Bekle: Anlık dürtülere yenik düşmek yerine, harekete geçmeden önce duygusal netliği beklemek için kendine zaman ve alan tanı. Duygusal iniş çıkışlar sırasında karar vermekten kaçın ve durumu daha geniş bir perspektifle görebilmek için önce rahatlayarak düşün. ";
 var decision_strategy_s3_8_4 = "• Harekete Geçmeden Önce Bilgilendir: Eylemlerinin başkalarını etkileyeceğini kabul et ve harekete geçmeden önce onları bilgilendirmek için inisiyatif al. Niyetlerini önceden ileterek engelleri ortadan kaldırır, barış, anlayış ve iş birliği ortamı oluşturursun. ";
 var decision_strategy_s4_8_text = "Zihinden hareket etmek, dürtüsel eylemler, kaygı ve başkaları üzerinde olumsuz etkiler yaratabilir. Oysa harekete geçmeden önce bilgilendirmek, duygusal netliği beklemeyi ve başkaları üzerindeki olası etkileri dikkate almayı içerir, böylece etkili iletişim ve iş birliğini güçlendirirsin. ";
-var decision_strategy_s4_8_1 = "1.Gör: Başlatılması gereken şeyleri fark et.\n2.Duygusal Netlikle Harekete Geçmeyi Bekle: Rahatla ve sinirlerin yatışmasına izin ver. Duygusal dalgalarını gözlemleyerek eylem planın hakkında netlik kazan.\n3.Karar Ver: Yansımaların ve içsel bilgeliklerine dayanarak, hem duygusal tepkilerini hem de çevresel ipuçlarını dikkate alarak evet, hayır ya da şimdilik değil kararı ver.\n4.Bilgilendir: Harekete geçmeden önce kararının kimleri etkileyeceğini düşün ve onları bilgilendir. Bu proaktif iletişim, direnci ortadan kaldırır ve anlayışı güçlendirir.\n5.Harekete Geç: Seçtiğin eylemi hayata geçirirken, başkaları üzerindeki etkiye duyarlı ol ve bilgilendirilmiş iletişimin gücüne güven. ";
+var decision_strategy_s4_8_1 = "1. Gör: Başlatılması gereken şeyleri fark et.\n2. Duygusal Netlikle Harekete Geçmeyi Bekle: Rahatla ve sinirlerin yatışmasına izin ver. Duygusal dalgalarını gözlemleyerek eylem planın hakkında netlik kazan.\n3. Karar Ver: Yansımaların ve içsel bilgeliklerine dayanarak, hem duygusal tepkilerini hem de çevresel ipuçlarını dikkate alarak evet, hayır ya da şimdilik değil kararı ver.\n4. Bilgilendir: Harekete geçmeden önce kararının kimleri etkileyeceğini düşün ve onları bilgilendir. Bu proaktif iletişim, direnci ortadan kaldırır ve anlayışı güçlendirir.\n5. Harekete Geç: Seçtiğin eylemi hayata geçirirken, başkaları üzerindeki etkiye duyarlı ol ve bilgilendirilmiş iletişimin gücüne güven. ";
 var decision_strategy_s4_8_txt = "Bu karar verme stratejisine uyarak, bilinçli, özenli ve etkili iletişim ile kararlarını yönetebilir, iş birliklerini güçlendirerek daha büyük başarıya ulaşabilirsin. ";
 var decision_strategy_ozet_8_1 = "Karar Verme Stratejin: Gör, Netlik Bekle ve Bilgi Ver";
 var decision_strategy_ozet_8_2 = "Hayatı dikkatle gözlemleyip fırsatları fark ettikten sonra, kararlarını netleştirmek ve harekete geçmeden önce bilgi paylaşmak senin için önemlidir. Duygusal netliği beklemek, güvenle ilerlemeni sağlar.";
 
-var decision_strategy_s3_9_0 = "İçgüdülerine Güven ve Harekete Geçmeden Önce Bilgilendir ";
-var decision_strategy_s3_9_1 = "Gör, İç güdülerine Kulak ver ve Bilgi Ver. ";
+var decision_strategy_s3_9_0 = "Gör, İç güdülerine Kulak ver ve Bilgi Ver.";
+var decision_strategy_s3_9_1 = "İçgüdülerine Güven ve Harekete Geçmeden Önce Bilgilendir";
 var decision_strategy_s3_9_2 = "Karar verme stratejin, içgüdülerine güvenmeye ve harekete geçmeden önce başkalarını bilgilendirmeye dayanır. Anın içinde kalarak ve bedeninin ince sinyallerine uyum sağlayarak, içgüdülerine güvenerek anlık kararlar verebilirsin. Aynı zamanda eylemlerinin başkaları üzerindeki etkisini göz önünde bulundurup etkili iletişimi güçlendirebilirsin. ";
 var decision_strategy_s3_9_3 = "• İçgüdülerine Güven: İçinde aniden beliren içsel bilgiyi kucakla. O anın farkında olarak, bedeninin deneyimlediği ince hislere dikkat et ve içgüdülerinin seni yönlendirmesine izin ver. ";
 var decision_strategy_s3_9_4 = "• Harekete Geçmeden Önce Bilgilendir: Eylemlerinin başkalarını etkileyeceğini kabul et ve harekete geçmeden önce onları bilgilendirmek için zaman ayır. Proaktif iletişim engelleri ortadan kaldırır, barış, anlayış ve iş birliği sağlar. ";
 var decision_strategy_s4_9_text = "Zihinden hareket etmek, içgüdülerini sorgulamaya, dürtüsel davranışlara ve başkaları üzerinde olumsuz etkilere yol açabilir. Oysa, harekete geçmeden önce bilgilendirmek, içgüdülerine güvenmeyi ve başkaları üzerindeki potansiyel etkileri dikkate almayı içerir, böylece etkili iletişim ve iş birliğini güçlendirirsin. ";
-var decision_strategy_s4_9_1 = "1.Gör: Başlatılması gereken şeyleri fark et.\n2.İçgüdülerin Tarafından Hareket Ettirilmeyi Bekle: O an içinde hisset ve içsel sezgilerine güven.\n3.Karar Ver: İçgüdüsel bilginle bir karar ver – evet, hayır ya da şimdi değil.\n4.Bilgilendir: Kararının kimleri etkileyeceğini düşün ve harekete geçmeden önce onları bilgilendir. Bu, direnci ortadan kaldırır ve anlayışı artırır.\n5.Harekete Geç: Seçtiğin eylemi gerçekleştirirken, başkaları üzerindeki etkiye duyarlı ol ve bilgilendirilmiş iletişimin gücünü kullan. ";
+var decision_strategy_s4_9_1 = "1. Gör: Başlatılması gereken şeyleri fark et.\n2. İçgüdülerin Tarafından Hareket Ettirilmeyi Bekle: O an içinde hisset ve içsel sezgilerine güven.\n3. Karar Ver: İçgüdüsel bilginle bir karar ver – evet, hayır ya da şimdi değil.\n4. Bilgilendir: Kararının kimleri etkileyeceğini düşün ve harekete geçmeden önce onları bilgilendir. Bu, direnci ortadan kaldırır ve anlayışı artırır.\n5. Harekete Geç: Seçtiğin eylemi gerçekleştirirken, başkaları üzerindeki etkiye duyarlı ol ve bilgilendirilmiş iletişimin gücünü kullan. ";
 var decision_strategy_s4_9_txt = "Bu karar verme stratejisine uyarak, anlık, bilinçli ve etkili iletişim ile kararlarını yönetebilir, iş birliğini güçlendirerek daha büyük başarıya ulaşabilirsin. ";
 var decision_strategy_ozet_9_1 = "Karar Verme Stratejin: Gör, İçgüdülerine Kulak Ver ve Bilgi Ver";
 var decision_strategy_ozet_9_2 = "Gözlem yaparak yön bulduğunda ve içgüdülerinle uyumlu olduğunda, kararların daha sağlam temellere oturur. Sezgisel netlik hissedince, çevreni bilgilendirerek ilerlemek sana güvenli bir alan sunar.";
 
-var decision_strategy_s3_10_0 = "İradene Dayanarak Harekete Geçme ve Bilgilendirerek İlerleme.";
-var decision_strategy_s3_10_1 = "Gör, İradeni Dinle ve Bilgi Ver.";
+var decision_strategy_s3_10_0 = "Gör, İradeni Dinle ve Bilgi Ver.";
+var decision_strategy_s3_10_1 = "Gör, İradeni Dinle, Bilgi Ver ve Harekete Geç";
 var decision_strategy_s3_10_2 = "Karar verme stratejin, iradeni harekete geçirip başkalarını bilgilendirerek eyleme geçmene dayanır. Kendi kişisel otoriteni fark ederek ve eylemlerinin başkaları üzerindeki etkisini göz önünde bulundurarak, kararlarını netlik, niyet ve etkili iletişim ile yönetebilirsin.";
 var decision_strategy_s3_10_3 = '• İradene Dayanarak Harekete Geç: İradenin gücüne kulak vererek harekete geçmeye hazır olup olmadığını fark et. "Sahibim" ve "Yapacağım" gibi anlık ifadelerin, otoritenin ve kararlılığının göstergesi olduğunu unutma.';
 var decision_strategy_s3_10_4 = "• Harekete Geçmeden Önce Bilgilendir: Eylemlerinin başkalarını etkileyeceğini kabul et ve harekete geçmeden önce onları bilgilendir. İletişim yoluyla engelleri ve direnci ortadan kaldırarak, anlayış ve iş birliği sağlarsın.";
 var decision_strategy_s4_10_text = "Zihinden hareket etmek şüphelere, dürtüsel eylemlere ve başkaları üzerinde olumsuz etkilere neden olabilir. Oysa, harekete geçmeden önce bilgilendirmek, iradeni tanımanı ve başkalarına olan etkileri düşünmeni gerektirir, böylece etkili iletişim ve iş birliği sağlanır.";
-var decision_strategy_s4_10_1 = "1.Gör: Başlatılması gereken şeyleri fark et.\n2.İradene Göre Harekete Geçmeye Hazır Ol: Eyleme geçmek için yeterli irade ve arzunun olup olmadığını değerlendir. Sana ne getireceğini ve kalbinin gerçekten işin içinde olup olmadığını düşün.\n3.Karar Ver: İradene göre bir karar ver – evet, hayır ya da şimdi değil.\n4.Bilgilendir: Kararının kimleri etkileyeceğini düşün ve harekete geçmeden önce onları bilgilendir. Bu, direnci ortadan kaldırır ve anlayışı artırır.\n5.Harekete Geç: Seçtiğin eylemi gerçekleştirirken, başkaları üzerindeki etkiye duyarlı ol ve bilgilendirilmiş iletişimin gücünü kullan.";
+var decision_strategy_s4_10_1 = "1. Gör: Başlatılması gereken şeyleri fark et.\n2. İradene Göre Harekete Geçmeye Hazır Ol: Eyleme geçmek için yeterli irade ve arzunun olup olmadığını değerlendir. Sana ne getireceğini ve kalbinin gerçekten işin içinde olup olmadığını düşün.\n3. Karar Ver: İradene göre bir karar ver – evet, hayır ya da şimdi değil.\n4. Bilgilendir: Kararının kimleri etkileyeceğini düşün ve harekete geçmeden önce onları bilgilendir. Bu, direnci ortadan kaldırır ve anlayışı artırır.\n5. Harekete Geç: Seçtiğin eylemi gerçekleştirirken, başkaları üzerindeki etkiye duyarlı ol ve bilgilendirilmiş iletişimin gücünü kullan.";
 var decision_strategy_s4_10_txt = "Bu karar verme stratejisine uyarak, kararlılık, netlik ve etkili iletişim ile seçimlerini yönetebilir, iş birliğini güçlendirerek daha büyük başarıya ulaşabilirsin.";
 var decision_strategy_ozet_10_1 = "Karar Verme Stratejin: Gör, İradeni Dinle ve Bilgi Ver";
 var decision_strategy_ozet_10_2 = "Hayatın sana sunduğu fırsatları gözlemledikten sonra, güçlü kararlılığını takip etmek ve çevreni bilgilendirerek ilerlemek senin için ideal yoldur. Odaklandığın hedeflere bağlı kalmak sana istikrar getirir.";
 
-var decision_strategy_s3_11_0 = "28 Günlük Bir Döngü Bekleyip Düşün, Değerlendir ve Tartış.";
-var decision_strategy_s3_11_1 = "Senin için önemli konularda en doğru kararları almak, yansıtmak, değerlendirmek ve tartışmak için yaklaşık bir ay beklemelisin.";
+var decision_strategy_s3_11_0 = "Senin için önemli konularda en doğru kararları almak, yansıtmak, değerlendirmek ve tartışmak için yaklaşık bir ay beklemelisin.";
+var decision_strategy_s3_11_1 = "28 Günlük Bir Döngü Bekleyip Düşün, Değerlendir ve Tartış.";
 var decision_strategy_s3_11_2 = "Karar verme stratejin, önemli kararlar almadan önce beklemek, düşünmek ve tartışmak üzerine kuruludur. Kendine zaman tanıyarak ve bir değerlendirme sürecine girerek, kişisel gerçeğine ve netliğine dayanan doğru karara varabilirsin.";
-var decision_strategy_s3_11_3 = "• Bekleme, Düşünme ve Tartışma: Karar vermede sabırlı bir yaklaşımı benimse, bir ay veya daha uzun bir süreyi düşünme ve tartışma için ayır. Refahını destekleyen bir ortam yarat ve güvendiğin kişilerle düşüncelerini paylaşarak kendi gerçeğini duy.";
+var decision_strategy_s3_11_3 = "• Bekle, Düşün ve Tartış: Karar vermede sabırlı bir yaklaşımı benimse, bir ay veya daha uzun bir süreyi düşünme ve tartışma için ayır. Refahını destekleyen bir ortam yarat ve güvendiğin kişilerle düşüncelerini paylaşarak kendi gerçeğini duy.";
 var decision_strategy_s3_11_4 = "• Derin ve Ani İçsel Bilgi: Bekleme, düşünme ve tartışma süreci boyunca, bir kararın gerçeğine uygun olup olmadığını gösteren derin bir içsel bilgi ya da farkındalık hissedeceksin.";
 var decision_strategy_s4_11_text = "Zihinden hareket etmek, şüphelere, dürtüsel eylemlere ve kaçırılan fırsatlara yol açabilir. Oysa, bekleyip düşünmek ve tartışmak, algılarını olgunlaştırmana ve zamanla netliğe ulaşmana yardımcı olur.";
-var decision_strategy_s4_11_1 = "1.Bir Teklif ya da Daveti Bekle: Kendi kendine girişimde bulunma isteğine diren. Diğerlerinin sana bir teklif ya da davet sunmasını bekle, bu doğal eğiliminle uyumludur.\n2.Bekle, Düşün, Tartış: Karar üzerinde düşünmek ve başkalarıyla tartışmak için yaklaşık bir ayını ayır. Bu konuşmaları tavsiye almak için değil, düşüncelerini ifade etmek ve potansiyel gerçeğini duymak için kullan.\n3.Derin ve Ani Bir İçsel Bilgi Hissini Bekle: İçsel rehberliğine güven, bir kararın senin gerçeğinle derin bir şekilde örtüştüğünü fark ettiğinde bunu kabul et.\n4.Karar Ver: Düşüncelerin ve tartışmaların ışığında, \"evet,\" \"hayır\" ya da \"şimdi değil\" şeklinde net bir karar ver.\n5.Harekete Geç: Kararının düşünceli bir değerlendirme ve diyalogla desteklendiğinden emin olarak, kendine güvenle ilerle.";
+var decision_strategy_s4_11_1 = "1. Bir Teklif ya da Daveti Bekle: Kendi kendine girişimde bulunma isteğine diren. Diğerlerinin sana bir teklif ya da davet sunmasını bekle, bu doğal eğiliminle uyumludur.\n2. Bekle, Düşün, Tartış: Karar üzerinde düşünmek ve başkalarıyla tartışmak için yaklaşık bir ayını ayır. Bu konuşmaları tavsiye almak için değil, düşüncelerini ifade etmek ve potansiyel gerçeğini duymak için kullan.\n3. Derin ve Ani Bir İçsel Bilgi Hissini Bekle: İçsel rehberliğine güven, bir kararın senin gerçeğinle derin bir şekilde örtüştüğünü fark ettiğinde bunu kabul et.\n4. Karar Ver: Düşüncelerin ve tartışmaların ışığında, \"evet,\" \"hayır\" ya da \"şimdi değil\" şeklinde net bir karar ver.\n5. Harekete Geç: Kararının düşünceli bir değerlendirme ve diyalogla desteklendiğinden emin olarak, kendine güvenle ilerle.";
 var decision_strategy_s4_11_txt = "Bu karar verme stratejisine uyarak, seçimlerini sabır, netlik ve derin bir anlayışla yönetebilir, böylece hayatında daha fazla uyum ve tatmin sağlayabilirsin.";
 var decision_strategy_ozet_11_1 = "Karar Verme Stratejin: Yansıt, Değerlendir ve Zaman Tanı";
 var decision_strategy_ozet_11_2 = "Senin karar verme sürecin, zamanla derinleşen bir değerlendirmeyi gerektirir. Kendine yaklaşık bir ay kadar düşünme alanı tanımak, çevrenden yansıyanları gözlemlemek ve başkalarıyla fikir alışverişinde bulunmak, doğru kararları vermen için en sağlıklı yoldur.";
@@ -5613,7 +5257,7 @@ var decision_strategy_eng_s3_1_2 = "Your decision-making strategy is based on tw
 var decision_strategy_eng_s3_1_3 = "Inner Response (You may feel it right in your belly): When life presents you with an opportunity, your inner response manifests itself as \"uh-huh\" (yes), \"uh-huh\" (no), or \"um\" (ask no for now, or otherwise). Your energy may increase or decrease in this area. Pay attention to these subtle signals, but avoid making decisions based solely on immediate instinctual reactions.";
 var decision_strategy_eng_s3_1_4 = "Wait for Clarity: Instead of rushing into action, give yourself time and space for clarity to emerge. Avoid making decisions during emotional ups and downs and give yourself time before making important choices. This patience allows you to make decisions calmly and confidently.";
 var decision_strategy_eng_s4_1_text = "Acting with the mind  can lead to questioning your inner response, feeling anxiety, and missing out on opportunities. Acting with response and based on clarity involves waiting for life to come to you, trusting your inner reaction, and finding emotional clarity before making a decision.";
-var decision_strategy_eng_s4_1_1 = "1.Active Wait: Be open to the signs and signals that life gives you, observe without rushing into action.\n2.Respond: Listen to the response of the inner response – \"uh-huh\" for yes, \"uh-huh\" for no, or \"um\" for not yet. You may feel that your energy is increasing or not increasing in this regard.\n3.Wait for Clarity: Lie on it for a night and allow yourself to feel emotional clarity. Avoid making decisions in high emotional states.\n4.Decide: Decide based on your inner response and emotional clarity – yes, no, or not for now.\n5.Take Action or Not: Finally, act or not act on your decision; trust in the wisdom of your inner response and emotional clarity.";
+var decision_strategy_eng_s4_1_1 = "1. Active Wait: Be open to the signs and signals that life gives you, observe without rushing into action.\n2. Respond: Listen to the response of the inner response – \"uh-huh\" for yes, \"uh-huh\" for no, or \"um\" for not yet. You may feel that your energy is increasing or not increasing in this regard.\n3. Wait for Clarity: Lie on it for a night and allow yourself to feel emotional clarity. Avoid making decisions in high emotional states.\n4. Decide: Decide based on your inner response and emotional clarity – yes, no, or not for now.\n5. Take Action or Not: Finally, act or not act on your decision; trust in the wisdom of your inner response and emotional clarity.";
 var decision_strategy_eng_s4_1_txt = "By adhering to this decision-making strategy, you can make your choices with patience, common sense, and confidence. This, in turn, can lead to greater success and fulfillment in your career and business life.";
 var decision_strategy_eng_ozet_1_1 = "Your Decision-Making Strategy: Respond and Make Decisions with Clarity";
 var decision_strategy_eng_ozet_1_2 = "The right decision for you comes when you listen to your instinctive response to life's opportunities and then wait patiently for it to become clear. Waiting for the emotional fluctuations to subside before taking action will allow your choices to bring you peace and confidence.";
@@ -5624,10 +5268,10 @@ var decision_strategy_eng_s3_2_2 = "Your decision-making strategy is based on tw
 var decision_strategy_eng_s3_2_3 = "Wait To Respond: Rather than impulsively jumping into action, allow yourself the space to wait and observe. Be actively aware of life coming towards you in various forms – a question, an email, a person, or even a sound. Trust that life will present opportunities to you when the time is right.";
 var decision_strategy_eng_s3_2_4 = "Follow Your Inner Reaction: Your internal reactions manifest as either \"uh-huh\" (yes), \"uh-huh\" (no), or \"hmm\" (no for now, or ask in some other way). Pay attention to the sensations in your body (in the abdomen) – do you feel excitedly drawn to something, or do you have a knot feeling in your stomach?";
 var decision_strategy_eng_s4_2_text = "Acting from the mind  can cause you to question your inner reactions, feel anxious, and miss opportunities. Waiting to reciprocate involves waiting for life to come to you and trusting the guidance of your inner reactions. Surrender to the magic of life and allow yourself to be drawn towards the things that excite you and move away from the things that are not.";
-var decision_strategy_eng_s4_2_1 = "1.Actively Wait: Be receptive to life's cues and signals, whether they come in the form of questions, interactions, or experiences.\n2.Respond: Listen for your gut's response – an \"ah-huh\" for yes, a \"uhn-un\" for no, or a \"hmmmmm\" for not now.\n3.Decide: Based on your gut's response, make a decision – yes, no, or not now. Be wary of the mind's interference at this stage.\n4.Act or Not: Finally, take action or refrain from action based on your decision, trusting in the wisdom of your gut instincts.";
+var decision_strategy_eng_s4_2_1 = "1. Actively Wait: Be receptive to life's cues and signals, whether they come in the form of questions, interactions, or experiences.\n2. Respond: Listen for your gut's response – an \"ah-huh\" for yes, a \"uhn-un\" for no, or a \"hmmmmm\" for not now.\n3. Decide: Based on your gut's response, make a decision – yes, no, or not now. Be wary of the mind's interference at this stage.\n4. Act or Not: Finally, take action or refrain from action based on your decision, trusting in the wisdom of your gut instincts.";
 var decision_strategy_eng_s4_2_txt = "By adhering to this decision-making strategy, you can navigate through choices with clarity, confidence, and authenticity, leading to greater success and fulfillment in your career and business endeavors";
-var decision_strategy_eng_ozet_2_1 = "Your Decision-Making Strategy: Inform Before You Take Action";
-var decision_strategy_eng_ozet_2_2 = "The decisions that are right for you occur by informing those around you and following your inner impulse before taking action. Sharing your decisions reduces the resistance you may encounter and allows you to be supported as you act independently.";
+var decision_strategy_eng_ozet_2_1 = "Your Decision-Making Strategy: Wait to Respond and Follow Your Inner Instinct";
+var decision_strategy_eng_ozet_2_2 = "The right decisions for you will be made by following your inner impulse to the opportunities that life presents you. It's important that you make a decision at that moment, and if there is no clarity, maybe it's better not to make a decision and wait for the next moment of response.";
 
 var decision_strategy_eng_s3_3_0 = "Get Recognition and Invitation, Make Decisions with Clarity";
 var decision_strategy_eng_s3_3_1 = "Wait for Recognition, Invitation, and Clarity";
@@ -5635,7 +5279,7 @@ var decision_strategy_eng_s3_3_2 = "Your decision-making strategy centers on wai
 var decision_strategy_eng_s3_3_3 = "Wait for Recognition and Invitation: Be patient and be safe while waiting for recognition or an invitation . You need to be selective and careful in important areas of your life, especially in areas such as love, career, relationships, and life arrangements.";
 var decision_strategy_eng_s3_3_4 = "Wait for Emotional Clarity: Once  you've been recognized or received an invitation, give yourself time to achieve emotional clarity before taking action. Avoid making decisions during emotional fluctuations and wait for calm confidence to emerge, indicating that the time is right.";
 var decision_strategy_eng_s4_3_text = "Acting from the mind can lead to impulsivity, doubt, and missed opportunities, while waiting for recognition, invitation, and clarity allows you to trust in the silent magic of your chemistry and opportunities.";
-var decision_strategy_eng_s4_3_1 = "1.Actively Wait for Recognition & an Invitation: Exercise patience and keen observation as you wait for recognition or an invitation to present themselves. Trust in the process and be selective in your choices.\n2.Wait for Clarity: Once recognized and invited, take the time to sleep on it and feel out your emotional wave. Avoid making decisions based on emotional impulses and wait for the calm confidence that signals clarity.\n3.Make a Decision: Based on your emotional clarity, make your decision – yes, no, or  not now – in a way that aligns with your own truth and intuition.\n4.Take Action or Don't Act: If your decision feels right, act with confidence, if not,  wait for emotional clarity.";
+var decision_strategy_eng_s4_3_1 = "1. Actively Wait for Recognition & an Invitation: Exercise patience and keen observation as you wait for recognition or an invitation to present themselves. Trust in the process and be selective in your choices.\n2. Wait for Clarity: Once recognized and invited, take the time to sleep on it and feel out your emotional wave. Avoid making decisions based on emotional impulses and wait for the calm confidence that signals clarity.\n3. Make a Decision: Based on your emotional clarity, make your decision – yes, no, or  not now – in a way that aligns with your own truth and intuition.\n4. Take Action or Don't Act: If your decision feels right, act with confidence, if not,  wait for emotional clarity.";
 var decision_strategy_eng_s4_3_txt = "By adhering to this decision-making strategy, you can navigate through choices with patience, trust, and emotional clarity, ensuring that your actions are aligned with your true intentions and leading to greater fulfillment and success.";
 var decision_strategy_eng_ozet_3_1 = "Your Decision-Making Strategy: Get Recognition and Invitation, Make Decisions with Clarity";
 var decision_strategy_eng_ozet_3_2 = "The right decisions come for you when they come with an invitation and become emotionally clear. Letting your emotions fluctuate and waiting for clarity allows you to make choices that satisfy you in the long run.";
@@ -5646,7 +5290,7 @@ var decision_strategy_eng_s3_4_2 = "Your decision-making strategy revolves aroun
 var decision_strategy_eng_s3_4_3 = "Wait for Recognition or Invitation: Exercise patience and trust as you wait for recognition and an invitation to unfold. Pay attention to subtle cues and be selective in your choices, especially in critical areas like love, career, relationships, and living arrangements.";
 var decision_strategy_eng_s3_4_4 = "Follow Your Instincts: Once recognized or invited, trust your instincts to guide you in the moment. Stay present and attuned to your body's subtle sensations, allowing your spontaneous knowing to inform your decisions.";
 var decision_strategy_eng_s4_4_text = "Acting from the mind can lead to doubt, anxiety, and missed opportunities, while following recognition, invitation, and instincts allows you to trust in the silent magic of your chemistry and opportunities.";
-var decision_strategy_eng_s4_4_1 = "1.Actively Wait for Recognition & an Invitation: Exercise patience and keen observation as you await recognition and invitation. Trust in the process and remain selective in your choices.\n2.Follow Your Instincts: Once recognized or invited, trust your instincts in the moment. Stay present and attuned to your body's sensations, allowing your spontaneous knowing to guide your decisions. Remember, instinctive knowing speaks softly and subtly, often during noise and activity. Stay present and receptive to its guidance, even in the busiest of moments. Trust that your body is attuned to what is right for you and allow its wisdom to inform your decisions as you navigate through life's twists and turns. With practice, you'll learn to harness the power of instinctive knowing wherever you are, leading to greater clarity and confidence in your choices.\n3.Decide: Based on your instincts and intuitive knowing, make a decision – yes, no, or not now – that resonates with your truth.\n4.Act or Not: Proceed with confidence if the decision feels right, or refrain from action if further contemplation is needed.";
+var decision_strategy_eng_s4_4_1 = "1. Actively Wait for Recognition & an Invitation: Exercise patience and keen observation as you await recognition and invitation. Trust in the process and remain selective in your choices.\n2. Follow Your Instincts: Once recognized or invited, trust your instincts in the moment. Stay present and attuned to your body's sensations, allowing your spontaneous knowing to guide your decisions. Remember, instinctive knowing speaks softly and subtly, often during noise and activity. Stay present and receptive to its guidance, even in the busiest of moments. Trust that your body is attuned to what is right for you and allow its wisdom to inform your decisions as you navigate through life's twists and turns. With practice, you'll learn to harness the power of instinctive knowing wherever you are, leading to greater clarity and confidence in your choices.\n3. Decide: Based on your instincts and intuitive knowing, make a decision – yes, no, or not now – that resonates with your truth.\n4. Act or Not: Proceed with confidence if the decision feels right, or refrain from action if further contemplation is needed.";
 var decision_strategy_eng_s4_4_txt = "By adhering to this decision-making strategy, you can navigate through choices with patience, trust, and authenticity, ensuring that your actions are aligned with your true instincts and leading to greater fulfillment and success.";
 var decision_strategy_eng_ozet_4_1 = "Your Decision-Making Strategy: Get Recognition and Invitation, Follow Your Instincts";
 var decision_strategy_eng_ozet_4_2 = "The right decision is made when he is recognized by an invitation and receives an instinctive feeling of yes. Your body's instantaneous reactions can be a solid guide for you; So be careful to hear your intuition.";
@@ -5657,7 +5301,7 @@ var decision_strategy_eng_s3_5_2 = "Your decision-making strategy centers on pat
 var decision_strategy_eng_s3_5_3 = "Wait for Recognition & Invitation: Exercise patience and trust as you wait for recognition and an invitation to unfold. Be selective and attentive, especially in crucial life domains like love, career, relationships, and living arrangements.";
 var decision_strategy_eng_s3_5_4 = "Follow Your Willful Determination: Once recognized and invited, assess your willful determination to discern your level of commitment and desire. Be selfish in asking, \"What do I want?\" and \"What is in it for me?\" Ensure that your heart is fully invested to maintain your well-being and balance.";
 var decision_strategy_eng_s4_5_text = "Acting from the mind may lead to doubt, anxiety, and missed opportunities, while following recognition, invitation, and willfulness empowers you to trust in the silent magic of your chemistry and opportunities.";
-var decision_strategy_eng_s4_5_1 = "1.Actively Wait for Recognition & an Invitation: Exercise patience, observation, and trust as you await recognition and invitation. Remain selective and attentive, ensuring that opportunities align with your desires.\n2.Listen to Your Willful Determination: Once recognized and invited, tune into your willful determination to assess your commitment and desire. Selfishly prioritize your own needs and desires to ensure alignment with your true intentions.\n3.Decide: Based on your assessment of your willful determination, make a decision – yes, no, or not now – that reflects your true desires and intentions.\n4.Act or Not: Proceed with confidence if your heart is fully invested and the decision aligns with your true intentions. Refrain from action if further contemplation is needed to ensure alignment.";
+var decision_strategy_eng_s4_5_1 = "1. Actively Wait for Recognition & an Invitation: Exercise patience, observation, and trust as you await recognition and invitation. Remain selective and attentive, ensuring that opportunities align with your desires.\n2. Listen to Your Willful Determination: Once recognized and invited, tune into your willful determination to assess your commitment and desire. Selfishly prioritize your own needs and desires to ensure alignment with your true intentions.\n3. Decide: Based on your assessment of your willful determination, make a decision – yes, no, or not now – that reflects your true desires and intentions.\n4. Act or Not: Proceed with confidence if your heart is fully invested and the decision aligns with your true intentions. Refrain from action if further contemplation is needed to ensure alignment.";
 var decision_strategy_eng_s4_5_txt = "By adhering to this decision-making strategy, you can navigate choices with patience, trust, and self-awareness, ensuring that your actions are aligned with your true desires and leading to greater fulfillment and success.";
 var decision_strategy_eng_ozet_5_1 = "Your Decision-Making Strategy: Get Recognition and Invitation, Follow Your Willful Determination";
 var decision_strategy_eng_ozet_5_2 = "Your decision journey has a structure that begins with recognition and is shaped by the strong determination within you. When you commit to your goals and focus on what really motivates you, you can see the right decisions more clearly.";
@@ -5668,7 +5312,7 @@ var decision_strategy_eng_s3_6_2 = "Your decision-making strategy is based on pa
 var decision_strategy_eng_s3_6_3 = "Wait for Recognition or Invitation:  Trust the process while patiently waiting for the recognition or invitation to appear. Be selective and careful, especially in important areas of life such as love, career, relationships, and life arrangements.";
 var decision_strategy_eng_s3_6_4 = "Listen to What You Say: Once recognized and invited, engage in conversations with trusted individuals, not for their advice, but to listen to your own voice. Pay attention to how decisions resonate with you, whether they align with your happiness, self-expression, and personal direction.";
 var decision_strategy_eng_s4_6_text = "Your decision-making strategy revolves around patiently waiting for recognition and invitation, then attentively listening to your own voice as you speak to a few people you trust to hear what you are saying. By engaging in self-reflection and trusting your inner wisdom, you can ensure that your decisions are authentic and aligned with your true desires.";
-var decision_strategy_eng_s4_6_1 = "1.Be Recognized or Invite Active Wait: Be patient, observe, and trust the process while you wait to be recognized. Be selective, making sure that the opportunities align with your true desires.\n2.Listen to What They Have to Say: When conversing with people you trust, focus on your own voice, not their advice. Think about whether your decisions make you happy and if they align with your personal direction.\n3.Decide: In line with your  own reflection and inner wisdom, decide yes, no, or not for now, and let that decision reflect your true desires and intentions.\n4.Take Action or Not: If your decision aligns with your true desires and resonates with your inner voice, take action with confidence. If you feel the need to think more, avoid the action.";
+var decision_strategy_eng_s4_6_1 = "1. Be Recognized or Invite Active Wait: Be patient, observe, and trust the process while you wait to be recognized. Be selective, making sure that the opportunities align with your true desires.\n2. Listen to What They Have to Say: When conversing with people you trust, focus on your own voice, not their advice. Think about whether your decisions make you happy and if they align with your personal direction.\n3. Decide: In line with your  own reflection and inner wisdom, decide yes, no, or not for now, and let that decision reflect your true desires and intentions.\n4. Take Action or Not: If your decision aligns with your true desires and resonates with your inner voice, take action with confidence. If you feel the need to think more, avoid the action.";
 var decision_strategy_eng_s4_6_txt = "By staying true to this decision-making strategy, you can confidently act on your inner awareness, authenticity, and inner wisdom, ensuring that your decisions align with your true desires, achieving greater fulfillment and success.";
 var decision_strategy_eng_ozet_6_1 = "Your Decision-Making Strategy: Get Recognition and Invitations, Listen to What They Have to Say";
 var decision_strategy_eng_ozet_6_2 = "Being recognized, and then listening to what you have to say, is central to your decision-making process. When you speak, you can gain clarity through what you say and realize the right direction in this way.";
@@ -5679,7 +5323,7 @@ var decision_strategy_eng_s3_7_2 = "Your decision-making strategy is based on pa
 var decision_strategy_eng_s3_7_3 = "Wait for Recognition or Invitation: Exercise patience and trust as you await recognition and an invitation to unfold. Pay attention to the atmosphere and ensure it feels correct, as you are sensitive to environmental cues.";
 var decision_strategy_eng_s3_7_4 = "Listen to What You Say: Engage in conversations with trusted individuals not for advice, but to listen to your own voice. Reflect on whether decisions align with your happiness, self-expression, and personal direction, while bouncing ideas off different people to gain perspective.";
 var decision_strategy_eng_s4_7_text = "Acting from the mind may lead to doubt, anxiety, and missed opportunities, while following recognition, invitation, and listening empowers you to trust in the silent wisdom of your inner voice and environmental cues.";
-var decision_strategy_eng_s4_7_1 = "1.Actively Wait for Recognition & an Invitation: Exercise patience, observation, and trust as you await recognition and invitation. Pay attention to the environment and ensure it feels correct, as you are sensitive to atmospheric cues.\n2.Listen to What YOU Say: Engage in conversations with trusted individuals as sounding boards, focusing on listening to your own voice. Reflect on whether decisions align with your happiness, self-expression, and personal direction, while seeking different perspectives to gain clarity.\n3.Decide: Based on your reflections and inner wisdom, make a decision – yes, no, or not now – that reflects your authentic desires and intentions, considering both your emotional responses and environmental cues.\n4.Act or Not: Proceed with confidence if decisions align with your true desires and resonate with your inner voice and environmental cues. Refrain from action if further contemplation or environmental adjustments are needed to ensure alignment.";
+var decision_strategy_eng_s4_7_1 = "1. Actively Wait for Recognition & an Invitation: Exercise patience, observation, and trust as you await recognition and invitation. Pay attention to the environment and ensure it feels correct, as you are sensitive to atmospheric cues.\n2. Listen to What YOU Say: Engage in conversations with trusted individuals as sounding boards, focusing on listening to your own voice. Reflect on whether decisions align with your happiness, self-expression, and personal direction, while seeking different perspectives to gain clarity.\n3. Decide: Based on your reflections and inner wisdom, make a decision – yes, no, or not now – that reflects your authentic desires and intentions, considering both your emotional responses and environmental cues.\n4. Act or Not: Proceed with confidence if decisions align with your true desires and resonate with your inner voice and environmental cues. Refrain from action if further contemplation or environmental adjustments are needed to ensure alignment.";
 var decision_strategy_eng_s4_7_txt = "By adhering to this decision-making strategy, you can navigate choices with self-awareness, authenticity, and trust in your inner wisdom and environmental sensitivity, ensuring that your actions are aligned with your true desires and lead to greater fulfillment and success.";
 var decision_strategy_eng_ozet_7_1 = "Your Decision-Making Strategy: Get Recognition and Invitation, Listen to What You Have to Say";
 var decision_strategy_eng_ozet_7_2 = "Along with the invitation from those who know you, it can be very decisive for you to notice what you say when you think out loud. Expressing yourself when making decisions allows you to understand more clearly what you want.";
@@ -5690,7 +5334,7 @@ var decision_strategy_eng_s3_8_2 = "As an initiator, your decision-making strate
 var decision_strategy_eng_s3_8_3 = "Wait for Clarity: Rather than succumbing to impulsive urges, allow yourself the time and space to wait for emotional clarity before taking action. Avoid making decisions during emotional highs or lows and instead sleep on it to gain perspective and allow nervousness to subside.";
 var decision_strategy_eng_s3_8_4 = "Inform Before Taking Action: Recognize that your actions will impact others, and take the initiative to inform them before proceeding. By communicating your intentions upfront, you remove obstacles and resistance from your path, fostering peace, understanding, and collaboration.";
 var decision_strategy_eng_s4_8_text = "Acting from the mind can lead to impulsive actions, anxiety, and negative impacts on others. In contrast, informing before acting involves waiting for emotional clarity and considering the potential impact on others before proceeding, fostering effective communication and collaboration.";
-var decision_strategy_eng_s4_8_1 = "1.See: Recognize what needs to happen or be initiated.\n2.Wait to be Moved by Emotional Clarity: Sleep on it and allow nervousness to subside. Feel out your emotional wave to gain clarity on your course of action.\n3.Decide: Based on your emotional clarity, make a decision – yes, no, or not now.\n4.Inform: Before taking action, consider who will be impacted by your decision and inform them accordingly. This proactive communication removes resistance and fosters understanding.\n5.Take Action: Proceed with your chosen course of action, mindful of the impact on others and the power of informed communication.";
+var decision_strategy_eng_s4_8_1 = "1. See: Recognize what needs to happen or be initiated.\n2. Wait to be Moved by Emotional Clarity: Sleep on it and allow nervousness to subside. Feel out your emotional wave to gain clarity on your course of action.\n3. Decide: Based on your emotional clarity, make a decision – yes, no, or not now.\n4. Inform: Before taking action, consider who will be impacted by your decision and inform them accordingly. This proactive communication removes resistance and fosters understanding.\n5. Take Action: Proceed with your chosen course of action, mindful of the impact on others and the power of informed communication.";
 var decision_strategy_eng_s4_8_txt = "By adhering to this decision-making strategy, you can navigate through choices with mindfulness, consideration, and effective communication, leading to greater success and collaboration in your endeavors.";
 var decision_strategy_eng_ozet_8_1 = "Your Decision-Making Strategy: See, Expect Clarity, and Inform";
 var decision_strategy_eng_ozet_8_2 = "Once you've carefully observed life and recognized opportunities, it's important for you to clarify your decisions and share information before taking action. Expecting emotional clarity allows you to move forward with confidence.";
@@ -5701,7 +5345,7 @@ var decision_strategy_eng_s3_9_2 = "Your decision-making strategy revolves aroun
 var decision_strategy_eng_s3_9_3 = "Trust Your Instinctive Knowing: Embrace the spontaneous, instant knowing that arises within you. Stay present, aware, and attuned to the subtle sensations your body experiences, allowing your instinctive knowing to guide your decisions in the moment.";
 var decision_strategy_eng_s3_9_4 = "Inform Before Taking Action: Recognize that your actions will impact others and take the time to inform them before proceeding. Proactive communication removes obstacles and resistance, fostering peace, understanding, and collaboration.";
 var decision_strategy_eng_s4_9_text = "Acting from the mind can lead to second-guessing your instinctive knowing, impulsivity, and negative impacts on others. In contrast, informing before acting involves trusting your instinctive knowing and considering the potential impact on others before proceeding, fostering effective communication and collaboration.";
-var decision_strategy_eng_s4_9_1 = "1.See: Recognize what needs to happen or be initiated.\n2.Wait to be Moved By Your Instinctive Knowing: Sense it in the moment and trust your gut feelings.\n3.Decide: Based on your instinctive knowing, make a decision – yes, no, or not now.\n4.Inform: Consider who will be impacted by your decision and inform them before taking action, removing resistance and fostering understanding.\n5.Take Action: Proceed with your chosen course of action, mindful of the impact on others and the power of informed communication.";
+var decision_strategy_eng_s4_9_1 = "1. See: Recognize what needs to happen or be initiated.\n2. Wait to be Moved By Your Instinctive Knowing: Sense it in the moment and trust your gut feelings.\n3. Decide: Based on your instinctive knowing, make a decision – yes, no, or not now.\n4. Inform: Consider who will be impacted by your decision and inform them before taking action, removing resistance and fostering understanding.\n5. Take Action: Proceed with your chosen course of action, mindful of the impact on others and the power of informed communication.";
 var decision_strategy_eng_s4_9_txt = "By adhering to this decision-making strategy, you can navigate through choices with spontaneity, mindfulness, and effective communication, leading to greater success and collaboration in your endeavors.";
 var decision_strategy_eng_ozet_9_1 = "Your Decision-Making Strategy: See, Listen to Your Instincts, and Inform";
 var decision_strategy_eng_ozet_9_2 = "When you are guided by observation and in tune with your instincts, your decisions are more grounded. Once you feel intuitive clarity, it gives you a safe space to move forward by informing your surroundings.";
@@ -5712,7 +5356,7 @@ var decision_strategy_eng_s3_10_2 = "Your decision-making strategy revolves arou
 var decision_strategy_eng_s3_10_3 = "Being Moved by Your Willful Determination: Tune into the force of your will, recognizing whether you have the energy and desire to take action. Pay attention to your non-pre-planned statements of \"I have...\" and \"I will...\" as indicators of your authority and determination.";
 var decision_strategy_eng_s3_10_4 = "Informing Before Taking Action: Acknowledge that your actions will impact others and take the proactive step of informing them before proceeding. By removing obstacles and resistance through communication, you foster understanding and collaboration.";
 var decision_strategy_eng_s4_10_text = "Acting from the mind can lead to doubts, impulsivity, and negative impacts on others. In contrast, informing before acting involves recognizing your willful determination and considering the potential impact on others before proceeding, fostering effective communication and collaboration.";
-var decision_strategy_eng_s4_10_1 = "1.See: Recognize what needs to happen or be initiated.\n2.Wait to be Moved By Your Willful Determination: Assess whether you have the will and desire to take action. Consider what is in it for you and whether your heart is truly in it.\n3.Decide: Based on your willful determination, make a decision – yes, no, or not now.\n4.Inform: Consider who will be impacted by your decision and inform them before taking action, removing resistance and fostering understanding.\n5.Take Action: Proceed with your chosen course of action, mindful of the impact on others and the power of informed communication";
+var decision_strategy_eng_s4_10_1 = "1. See: Recognize what needs to happen or be initiated.\n2. Wait to be Moved By Your Willful Determination: Assess whether you have the will and desire to take action. Consider what is in it for you and whether your heart is truly in it.\n3. Decide: Based on your willful determination, make a decision – yes, no, or not now.\n4. Inform: Consider who will be impacted by your decision and inform them before taking action, removing resistance and fostering understanding.\n5. Take Action: Proceed with your chosen course of action, mindful of the impact on others and the power of informed communication";
 var decision_strategy_eng_s4_10_txt = "By adhering to this decision-making strategy, you can navigate through choices with determination, clarity, and effective communication, leading to greater success and collaboration in your endeavors.";
 var decision_strategy_eng_ozet_10_1 = "Your Decision-Making Strategy: See, Listen to Your Will, and Inform";
 var decision_strategy_eng_ozet_10_2 = "After observing the opportunities that life offers you, it is the ideal way for you to follow your strong determination and move forward by informing your environment. Sticking to the goals you focus on brings you stability.";
@@ -5723,7 +5367,7 @@ var decision_strategy_eng_s3_11_2 = "Your decision-making strategy is based on w
 var decision_strategy_eng_s3_11_3 = "Waiting, Reflection & Discussion: Embrace a patient approach to decision-making, allowing about a month or more for reflection and discussion. Create an environment conducive to your well-being and engage with trusted confidants to articulate your thoughts and hear your own truth.";
 var decision_strategy_eng_s3_11_4 = "Deep Sudden Inner Knowing: Through the process of waiting, reflecting, and discussing, you will experience a profound inner sense or knowing that signals whether a decision aligns with your truth or not.";
 var decision_strategy_eng_s4_11_text = "Acting from the mind can lead to doubt, impulsivity, and missed opportunities, while waiting, reflecting, and discussing allows you to refine your perceptions and arrive at clarity over time, leading to a more informed decision-making process.";
-var decision_strategy_eng_s4_11_1 = "1.Wait for an Offer or Invitation: Resist the urge to initiate yourself. Wait for others to extend an offer or invitation, aligning with your natural inclination.\n2.Wait, Reflect, Discuss: Take your time, allowing approximately a month for waiting, reflecting on the decision, and engaging in discussions with others. Use these conversations not for advice, but to articulate your thoughts and hear your potential truth.\n3.Feel a Deep Sudden Inner Knowing: Trust in your inner guidance, recognizing when a decision resonates deeply within you, signaling its alignment with your truth.\n4.Decide: Based on your reflections and discussions, make a decision – yes, no, or not now – informed by your newfound clarity.\n5.Take Action: Proceed with confidence, knowing that your decision is rooted in your personal truth and supported by thoughtful consideration and dialogue.";
+var decision_strategy_eng_s4_11_1 = "1. Wait for an Offer or Invitation: Resist the urge to initiate yourself. Wait for others to extend an offer or invitation, aligning with your natural inclination.\n2. Wait, Reflect, Discuss: Take your time, allowing approximately a month for waiting, reflecting on the decision, and engaging in discussions with others. Use these conversations not for advice, but to articulate your thoughts and hear your potential truth.\n3. Feel a Deep Sudden Inner Knowing: Trust in your inner guidance, recognizing when a decision resonates deeply within you, signaling its alignment with your truth.\n4. Decide: Based on your reflections and discussions, make a decision – yes, no, or not now – informed by your newfound clarity.\n5. Take Action: Proceed with confidence, knowing that your decision is rooted in your personal truth and supported by thoughtful consideration and dialogue.";
 var decision_strategy_eng_s4_11_txt = "By adhering to this decision-making strategy, you can navigate through choices with patience, clarity, and a deep understanding of your own truth, leading to greater fulfillment and alignment in your endeavors.";
 var decision_strategy_eng_ozet_11_1 = "Your Decision-Making Strategy: Reflect, Evaluate, and Give Time";
 var decision_strategy_eng_ozet_11_2 = "Your decision-making process requires a deepening evaluation over time. Giving yourself space to think for about a month, observing the reflections of your surroundings and exchanging ideas with others is the healthiest way to make the right decisions.";
@@ -7366,12 +7010,12 @@ var decision_strategy_eng_ozet_11_2 = "Your decision-making process requires a d
           }
         } else if( type == "image") {
           if (lifestyleData == "Manifesting Generator") {
-            if(cinsiyet == "Erkek")
+            if(cinsiyet == "Male")
               return lifestyle_25_plus_manifesting_generator_image_m;
             else
               return lifestyle_25_plus_manifesting_generator_image_w;
           } else if (lifestyleData == "Generator") {
-              if(cinsiyet == "Erkek")
+              if(cinsiyet == "Male")
                 return lifestyle_25_plus_generator_image_m
               else
                 return lifestyle_25_plus_generator_image_w
@@ -8266,6 +7910,8 @@ var decision_strategy_eng_ozet_11_2 = "Your decision-making process requires a d
             return image_karar_verme_stratejileri_9; 
           } else if (decisionStrategyData.strategy == "To Inform" && decisionStrategyData.innerAuthority == "Ego Manifested") {
             return image_karar_verme_stratejileri_10; 
+          } else if (decisionStrategyData.strategy == "To Inform" && decisionStrategyData.innerAuthority == "Ego") {
+            return image_karar_verme_stratejileri_10; 
           } else if (decisionStrategyData.strategy == "Wait a Lunar Cycle" && decisionStrategyData.innerAuthority == "Lunar") {
             return image_karar_verme_stratejileri_11; 
           } else if (decisionStrategyData.strategy == "Wait a Lunar Cycle" && decisionStrategyData.innerAuthority == "N") {
@@ -8295,6 +7941,8 @@ var decision_strategy_eng_ozet_11_2 = "Your decision-making process requires a d
               return decision_strategy_s3_9_1; 
           } else if (decisionStrategyData.strategy == "To Inform" && decisionStrategyData.innerAuthority == "Ego Manifested") {
               return decision_strategy_s3_10_1; 
+          } else if (decisionStrategyData.strategy == "To Inform" && decisionStrategyData.innerAuthority == "Ego") {
+              return decision_strategy_s3_10_1; 
           } else if (decisionStrategyData.strategy == "Wait a Lunar Cycle" && decisionStrategyData.innerAuthority == "Lunar") {
               return decision_strategy_s3_11_1; 
           } else if (decisionStrategyData.strategy == "Wait a Lunar Cycle" && decisionStrategyData.innerAuthority == "N") {
@@ -8322,6 +7970,8 @@ var decision_strategy_eng_ozet_11_2 = "Your decision-making process requires a d
           } else if (decisionStrategyData.strategy == "To Inform" && decisionStrategyData.innerAuthority == "Splenic") {
               return decision_strategy_s3_9_2;
           } else if (decisionStrategyData.strategy == "To Inform" && decisionStrategyData.innerAuthority == "Ego Manifested") {
+              return decision_strategy_s3_10_2; 
+          } else if (decisionStrategyData.strategy == "To Inform" && decisionStrategyData.innerAuthority == "Ego") {
               return decision_strategy_s3_10_2; 
           } else if (decisionStrategyData.strategy == "Wait a Lunar Cycle" && decisionStrategyData.innerAuthority == "Lunar") {
               return decision_strategy_s3_11_2; 
@@ -8351,6 +8001,8 @@ var decision_strategy_eng_ozet_11_2 = "Your decision-making process requires a d
               return decision_strategy_s3_9_3; 
           } else if (decisionStrategyData.strategy == "To Inform" && decisionStrategyData.innerAuthority == "Ego Manifested") {
               return decision_strategy_s3_10_3; 
+          } else if (decisionStrategyData.strategy == "To Inform" && decisionStrategyData.innerAuthority == "Ego") {
+              return decision_strategy_s3_10_3; 
           } else if (decisionStrategyData.strategy == "Wait a Lunar Cycle" && decisionStrategyData.innerAuthority == "Lunar") {
               return decision_strategy_s3_11_3; 
           } else if (decisionStrategyData.strategy == "Wait a Lunar Cycle" && decisionStrategyData.innerAuthority == "N") {
@@ -8378,6 +8030,8 @@ var decision_strategy_eng_ozet_11_2 = "Your decision-making process requires a d
           } else if (decisionStrategyData.strategy == "To Inform" && decisionStrategyData.innerAuthority == "Splenic") {
               return decision_strategy_s3_9_4; 
           } else if (decisionStrategyData.strategy == "To Inform" && decisionStrategyData.innerAuthority == "Ego Manifested") {
+              return decision_strategy_s3_10_4; 
+          } else if (decisionStrategyData.strategy == "To Inform" && decisionStrategyData.innerAuthority == "Ego") {
               return decision_strategy_s3_10_4; 
           } else if (decisionStrategyData.strategy == "Wait a Lunar Cycle" && decisionStrategyData.innerAuthority == "Lunar") {
               return decision_strategy_s3_11_4; 
@@ -8407,6 +8061,8 @@ var decision_strategy_eng_ozet_11_2 = "Your decision-making process requires a d
             return decision_strategy_s4_9_text; 
           } else if (decisionStrategyData.strategy == "To Inform" && decisionStrategyData.innerAuthority == "Ego Manifested") {
             return decision_strategy_s4_10_text; 
+          } else if (decisionStrategyData.strategy == "To Inform" && decisionStrategyData.innerAuthority == "Ego") {
+              return decision_strategy_s4_10_text; 
           } else if (decisionStrategyData.strategy == "Wait a Lunar Cycle" && decisionStrategyData.innerAuthority == "Lunar") {
             return decision_strategy_s4_11_text; 
           } else if (decisionStrategyData.strategy == "Wait a Lunar Cycle" && decisionStrategyData.innerAuthority == "N") {
@@ -8434,6 +8090,8 @@ var decision_strategy_eng_ozet_11_2 = "Your decision-making process requires a d
           } else if (decisionStrategyData.strategy == "To Inform" && decisionStrategyData.innerAuthority == "Splenic") {
             return decision_strategy_s4_9_1; 
           } else if (decisionStrategyData.strategy == "To Inform" && decisionStrategyData.innerAuthority == "Ego Manifested") {
+            return decision_strategy_s4_10_1; 
+          } else if (decisionStrategyData.strategy == "To Inform" && decisionStrategyData.innerAuthority == "Ego") {
             return decision_strategy_s4_10_1; 
           } else if (decisionStrategyData.strategy == "Wait a Lunar Cycle" && decisionStrategyData.innerAuthority == "Lunar") {
             return decision_strategy_s4_11_1; 
@@ -8463,6 +8121,8 @@ var decision_strategy_eng_ozet_11_2 = "Your decision-making process requires a d
             return decision_strategy_s4_9_2; 
           } else if (decisionStrategyData.strategy == "To Inform" && decisionStrategyData.innerAuthority == "Ego Manifested") {
             return decision_strategy_s4_10_2;
+          } else if (decisionStrategyData.strategy == "To Inform" && decisionStrategyData.innerAuthority == "Ego") {
+            return decision_strategy_s4_10_2; 
           } else if (decisionStrategyData.strategy == "Wait a Lunar Cycle" && decisionStrategyData.innerAuthority == "Lunar") {
             return decision_strategy_s4_11_2; 
           } else if (decisionStrategyData.strategy == "Wait a Lunar Cycle" && decisionStrategyData.innerAuthority == "N") {
@@ -8491,6 +8151,8 @@ var decision_strategy_eng_ozet_11_2 = "Your decision-making process requires a d
             return decision_strategy_s4_9_3; 
           } else if (decisionStrategyData.strategy == "To Inform" && decisionStrategyData.innerAuthority == "Ego Manifested") {
             return decision_strategy_s4_10_3;
+          } else if (decisionStrategyData.strategy == "To Inform" && decisionStrategyData.innerAuthority == "Ego") {
+            return decision_strategy_s4_10_3; 
           } else if (decisionStrategyData.strategy == "Wait a Lunar Cycle" && decisionStrategyData.innerAuthority == "Lunar") {
             return decision_strategy_s4_11_3; 
           } else if (decisionStrategyData.strategy == "Wait a Lunar Cycle" && decisionStrategyData.innerAuthority == "N") {
@@ -8518,6 +8180,8 @@ var decision_strategy_eng_ozet_11_2 = "Your decision-making process requires a d
           } else if (decisionStrategyData.strategy == "To Inform" && decisionStrategyData.innerAuthority == "Splenic") {
             return decision_strategy_s4_9_4; 
           } else if (decisionStrategyData.strategy == "To Inform" && decisionStrategyData.innerAuthority == "Ego Manifested") {
+            return decision_strategy_s4_10_4; 
+          } else if (decisionStrategyData.strategy == "To Inform" && decisionStrategyData.innerAuthority == "Ego") {
             return decision_strategy_s4_10_4; 
           } else if (decisionStrategyData.strategy == "Wait a Lunar Cycle" && decisionStrategyData.innerAuthority == "Lunar") {
             return decision_strategy_s4_11_4; 
@@ -8547,6 +8211,8 @@ var decision_strategy_eng_ozet_11_2 = "Your decision-making process requires a d
             return decision_strategy_s4_9_5; 
           } else if (decisionStrategyData.strategy == "To Inform" && decisionStrategyData.innerAuthority == "Ego Manifested") {
             return decision_strategy_s4_10_5; 
+          } else if (decisionStrategyData.strategy == "To Inform" && decisionStrategyData.innerAuthority == "Ego") {
+            return decision_strategy_s4_10_5; 
           } else if (decisionStrategyData.strategy == "Wait a Lunar Cycle" && decisionStrategyData.innerAuthority == "Lunar") {
             return decision_strategy_s4_11_5; 
           } else if (decisionStrategyData.strategy == "Wait a Lunar Cycle" && decisionStrategyData.innerAuthority == "N") {
@@ -8574,6 +8240,8 @@ var decision_strategy_eng_ozet_11_2 = "Your decision-making process requires a d
           } else if (decisionStrategyData.strategy == "To Inform" && decisionStrategyData.innerAuthority == "Splenic") {
             return decision_strategy_s4_9_txt; 
           } else if (decisionStrategyData.strategy == "To Inform" && decisionStrategyData.innerAuthority == "Ego Manifested") {
+            return decision_strategy_s4_10_txt; 
+          } else if (decisionStrategyData.strategy == "To Inform" && decisionStrategyData.innerAuthority == "Ego") {
             return decision_strategy_s4_10_txt; 
           } else if (decisionStrategyData.strategy == "Wait a Lunar Cycle" && decisionStrategyData.innerAuthority == "Lunar") {
             return decision_strategy_s4_11_txt; 
@@ -8603,6 +8271,8 @@ var decision_strategy_eng_ozet_11_2 = "Your decision-making process requires a d
             return decision_strategy_ozet_9_1; 
           } else if (decisionStrategyData.strategy == "To Inform" && decisionStrategyData.innerAuthority == "Ego Manifested") {
             return decision_strategy_ozet_10_1; 
+          } else if (decisionStrategyData.strategy == "To Inform" && decisionStrategyData.innerAuthority == "Ego") {
+            return decision_strategy_ozet_10_1; 
           } else if (decisionStrategyData.strategy == "Wait a Lunar Cycle" && decisionStrategyData.innerAuthority == "Lunar") {
             return decision_strategy_ozet_11_1; 
           } else if (decisionStrategyData.strategy == "Wait a Lunar Cycle" && decisionStrategyData.innerAuthority == "N") {
@@ -8630,6 +8300,8 @@ var decision_strategy_eng_ozet_11_2 = "Your decision-making process requires a d
           } else if (decisionStrategyData.strategy == "To Inform" && decisionStrategyData.innerAuthority == "Splenic") {
             return decision_strategy_ozet_9_2; 
           } else if (decisionStrategyData.strategy == "To Inform" && decisionStrategyData.innerAuthority == "Ego Manifested") {
+            return decision_strategy_ozet_10_2; 
+          } else if (decisionStrategyData.strategy == "To Inform" && decisionStrategyData.innerAuthority == "Ego") {
             return decision_strategy_ozet_10_2; 
           } else if (decisionStrategyData.strategy == "Wait a Lunar Cycle" && decisionStrategyData.innerAuthority == "Lunar") {
             return decision_strategy_ozet_11_2;
@@ -8661,13 +8333,15 @@ var decision_strategy_eng_ozet_11_2 = "Your decision-making process requires a d
               return image_karar_verme_stratejileri_eng_9; 
           } else if (decisionStrategyData.strategy == "To Inform" && decisionStrategyData.innerAuthority == "Ego Manifested") {
               return image_karar_verme_stratejileri_eng_10; 
+          } else if (decisionStrategyData.strategy == "To Inform" && decisionStrategyData.innerAuthority == "Ego") {
+              return image_karar_verme_stratejileri_eng_10; 
           } else if (decisionStrategyData.strategy == "Wait a Lunar Cycle" && decisionStrategyData.innerAuthority == "Lunar") {
               return image_karar_verme_stratejileri_eng_11; 
           } else if (decisionStrategyData.strategy == "Wait a Lunar Cycle" && decisionStrategyData.innerAuthority == "N") {
               return image_karar_verme_stratejileri_eng_11; 
         }
         }
-        else if (type == "name") {
+        else if (type == "name") { 
           if (decisionStrategyData.strategy == "To Respond" && decisionStrategyData.innerAuthority == "Emotional") {
               return decision_strategy_eng_s3_1_1; 
           } else if (decisionStrategyData.strategy == "To Respond" && decisionStrategyData.innerAuthority == "Sacral") {
@@ -8689,7 +8363,9 @@ var decision_strategy_eng_ozet_11_2 = "Your decision-making process requires a d
           } else if (decisionStrategyData.strategy == "To Inform" && decisionStrategyData.innerAuthority == "Splenic") {
               return decision_strategy_eng_s3_9_1; 
           } else if (decisionStrategyData.strategy == "To Inform" && decisionStrategyData.innerAuthority == "Ego Manifested") {
-              return decision_strategy_eng_s3_10_1; 
+              return decision_strategy_eng_s3_10_1;
+          } else if (decisionStrategyData.strategy == "To Inform" && decisionStrategyData.innerAuthority == "Ego") {
+              return decision_strategy_eng_s3_10_1;
           } else if (decisionStrategyData.strategy == "Wait a Lunar Cycle" && decisionStrategyData.innerAuthority == "Lunar") {
               return decision_strategy_eng_s3_11_1; 
           } else if (decisionStrategyData.strategy == "Wait a Lunar Cycle" && decisionStrategyData.innerAuthority == "N") {
@@ -8718,6 +8394,8 @@ var decision_strategy_eng_ozet_11_2 = "Your decision-making process requires a d
               return decision_strategy_eng_s3_9_2;
           } else if (decisionStrategyData.strategy == "To Inform" && decisionStrategyData.innerAuthority == "Ego Manifested") {
               return decision_strategy_eng_s3_10_2; 
+          } else if (decisionStrategyData.strategy == "To Inform" && decisionStrategyData.innerAuthority == "Ego") {
+              return decision_strategy_eng_s3_10_2;
           } else if (decisionStrategyData.strategy == "Wait a Lunar Cycle" && decisionStrategyData.innerAuthority == "Lunar") {
               return decision_strategy_eng_s3_11_2; 
           } else if (decisionStrategyData.strategy == "Wait a Lunar Cycle" && decisionStrategyData.innerAuthority == "N") {
@@ -8746,6 +8424,8 @@ var decision_strategy_eng_ozet_11_2 = "Your decision-making process requires a d
               return decision_strategy_eng_s3_9_3; 
           } else if (decisionStrategyData.strategy == "To Inform" && decisionStrategyData.innerAuthority == "Ego Manifested") {
               return decision_strategy_eng_s3_10_3; 
+          } else if (decisionStrategyData.strategy == "To Inform" && decisionStrategyData.innerAuthority == "Ego") {
+              return decision_strategy_eng_s3_10_3;
           } else if (decisionStrategyData.strategy == "Wait a Lunar Cycle" && decisionStrategyData.innerAuthority == "Lunar") {
               return decision_strategy_eng_s3_11_3; 
           } else if (decisionStrategyData.strategy == "Wait a Lunar Cycle" && decisionStrategyData.innerAuthority == "N") {
@@ -8774,6 +8454,8 @@ var decision_strategy_eng_ozet_11_2 = "Your decision-making process requires a d
               return decision_strategy_eng_s3_9_4; 
           } else if (decisionStrategyData.strategy == "To Inform" && decisionStrategyData.innerAuthority == "Ego Manifested") {
               return decision_strategy_eng_s3_10_4; 
+          } else if (decisionStrategyData.strategy == "To Inform" && decisionStrategyData.innerAuthority == "Ego") {
+              return decision_strategy_eng_s3_10_4;
           } else if (decisionStrategyData.strategy == "Wait a Lunar Cycle" && decisionStrategyData.innerAuthority == "Lunar") {
               return decision_strategy_eng_s3_11_4; 
           } else if (decisionStrategyData.strategy == "Wait a Lunar Cycle" && decisionStrategyData.innerAuthority == "N") {
@@ -8802,6 +8484,8 @@ var decision_strategy_eng_ozet_11_2 = "Your decision-making process requires a d
             return decision_strategy_eng_s4_9_text; 
           } else if (decisionStrategyData.strategy == "To Inform" && decisionStrategyData.innerAuthority == "Ego Manifested") {
             return decision_strategy_eng_s4_10_text; 
+          } else if (decisionStrategyData.strategy == "To Inform" && decisionStrategyData.innerAuthority == "Ego") {
+            return decision_strategy_eng_s4_10_text;
           } else if (decisionStrategyData.strategy == "Wait a Lunar Cycle" && decisionStrategyData.innerAuthority == "Lunar") {
             return decision_strategy_eng_s4_11_text;
           } else if (decisionStrategyData.strategy == "Wait a Lunar Cycle" && decisionStrategyData.innerAuthority == "N") {
@@ -8830,6 +8514,8 @@ var decision_strategy_eng_ozet_11_2 = "Your decision-making process requires a d
             return decision_strategy_eng_s4_9_1; 
           } else if (decisionStrategyData.strategy == "To Inform" && decisionStrategyData.innerAuthority == "Ego Manifested") {
             return decision_strategy_eng_s4_10_1; 
+          } else if (decisionStrategyData.strategy == "To Inform" && decisionStrategyData.innerAuthority == "Ego") {
+            return decision_strategy_eng_s4_10_1;
           } else if (decisionStrategyData.strategy == "Wait a Lunar Cycle" && decisionStrategyData.innerAuthority == "Lunar") {
             return decision_strategy_eng_s4_11_1; 
           } else if (decisionStrategyData.strategy == "Wait a Lunar Cycle" && decisionStrategyData.innerAuthority == "N") {
@@ -8857,6 +8543,8 @@ var decision_strategy_eng_ozet_11_2 = "Your decision-making process requires a d
           } else if (decisionStrategyData.strategy == "To Inform" && decisionStrategyData.innerAuthority == "Splenic") {
             return decision_strategy_eng_s4_9_2; 
           } else if (decisionStrategyData.strategy == "To Inform" && decisionStrategyData.innerAuthority == "Ego Manifested") {
+            return decision_strategy_eng_s4_10_2;
+          } else if (decisionStrategyData.strategy == "To Inform" && decisionStrategyData.innerAuthority == "Ego") {
             return decision_strategy_eng_s4_10_2;
           } else if (decisionStrategyData.strategy == "Wait a Lunar Cycle" && decisionStrategyData.innerAuthority == "Lunar") {
             return decision_strategy_eng_s4_11_2; 
@@ -8886,6 +8574,8 @@ var decision_strategy_eng_ozet_11_2 = "Your decision-making process requires a d
             return decision_strategy_eng_s4_9_3; 
           } else if (decisionStrategyData.strategy == "To Inform" && decisionStrategyData.innerAuthority == "Ego Manifested") {
             return decision_strategy_eng_s4_10_3;
+          } else if (decisionStrategyData.strategy == "To Inform" && decisionStrategyData.innerAuthority == "Ego") {
+            return decision_strategy_eng_s4_10_3;
           } else if (decisionStrategyData.strategy == "Wait a Lunar Cycle" && decisionStrategyData.innerAuthority == "Lunar") {
             return decision_strategy_eng_s4_11_3; 
           } else if (decisionStrategyData.strategy == "Wait a Lunar Cycle" && decisionStrategyData.innerAuthority == "N") {
@@ -8914,6 +8604,8 @@ var decision_strategy_eng_ozet_11_2 = "Your decision-making process requires a d
             return decision_strategy_eng_s4_9_4; 
           } else if (decisionStrategyData.strategy == "To Inform" && decisionStrategyData.innerAuthority == "Ego Manifested") {
             return decision_strategy_eng_s4_10_4; 
+          } else if (decisionStrategyData.strategy == "To Inform" && decisionStrategyData.innerAuthority == "Ego") {
+            return decision_strategy_eng_s4_10_4;
           } else if (decisionStrategyData.strategy == "Wait a Lunar Cycle" && decisionStrategyData.innerAuthority == "Lunar") {
             return decision_strategy_eng_s4_11_4; 
           } else if (decisionStrategyData.strategy == "Wait a Lunar Cycle" && decisionStrategyData.innerAuthority == "N") {
@@ -8942,6 +8634,8 @@ var decision_strategy_eng_ozet_11_2 = "Your decision-making process requires a d
             return decision_strategy_eng_s4_9_5; 
           } else if (decisionStrategyData.strategy == "To Inform" && decisionStrategyData.innerAuthority == "Ego Manifested") {
             return decision_strategy_eng_s4_10_5; 
+          } else if (decisionStrategyData.strategy == "To Inform" && decisionStrategyData.innerAuthority == "Ego") {
+            return decision_strategy_eng_s4_10_5;
           } else if (decisionStrategyData.strategy == "Wait a Lunar Cycle" && decisionStrategyData.innerAuthority == "Lunar") {
             return decision_strategy_eng_s4_11_5; 
           } else if (decisionStrategyData.strategy == "Wait a Lunar Cycle" && decisionStrategyData.innerAuthority == "N") {
@@ -8970,6 +8664,8 @@ var decision_strategy_eng_ozet_11_2 = "Your decision-making process requires a d
             return decision_strategy_eng_s4_9_txt; 
           } else if (decisionStrategyData.strategy == "To Inform" && decisionStrategyData.innerAuthority == "Ego Manifested") {
             return decision_strategy_eng_s4_10_txt; 
+          } else if (decisionStrategyData.strategy == "To Inform" && decisionStrategyData.innerAuthority == "Ego") {
+            return decision_strategy_eng_s4_10_txt;
           } else if (decisionStrategyData.strategy == "Wait a Lunar Cycle" && decisionStrategyData.innerAuthority == "Lunar") {
             return decision_strategy_eng_s4_11_txt; 
           } else if (decisionStrategyData.strategy == "Wait a Lunar Cycle" && decisionStrategyData.innerAuthority == "N") {
@@ -8998,6 +8694,8 @@ var decision_strategy_eng_ozet_11_2 = "Your decision-making process requires a d
             return decision_strategy_eng_ozet_9_1; 
           } else if (decisionStrategyData.strategy == "To Inform" && decisionStrategyData.innerAuthority == "Ego Manifested") {
             return decision_strategy_eng_ozet_10_1; 
+          } else if (decisionStrategyData.strategy == "To Inform" && decisionStrategyData.innerAuthority == "Ego") {
+            return decision_strategy_eng_ozet_10_1;
           } else if (decisionStrategyData.strategy == "Wait a Lunar Cycle" && decisionStrategyData.innerAuthority == "Lunar") {
             return decision_strategy_eng_ozet_11_1; 
           } else if (decisionStrategyData.strategy == "Wait a Lunar Cycle" && decisionStrategyData.innerAuthority == "N") {
@@ -9026,6 +8724,8 @@ var decision_strategy_eng_ozet_11_2 = "Your decision-making process requires a d
             return decision_strategy_eng_ozet_9_2; 
           } else if (decisionStrategyData.strategy == "To Inform" && decisionStrategyData.innerAuthority == "Ego Manifested") {
             return decision_strategy_eng_ozet_10_2; 
+          } else if (decisionStrategyData.strategy == "To Inform" && decisionStrategyData.innerAuthority == "Ego") {
+            return decision_strategy_eng_ozet_10_2;
           } else if (decisionStrategyData.strategy == "Wait a Lunar Cycle" && decisionStrategyData.innerAuthority == "Lunar") {
             return decision_strategy_eng_ozet_11_2; 
           } else if (decisionStrategyData.strategy == "Wait a Lunar Cycle" && decisionStrategyData.innerAuthority == "N") {
@@ -19384,10 +19084,10 @@ var decision_strategy_eng_ozet_11_2 = "Your decision-making process requires a d
   };
 
   var nameSurname = Object.entries(rawData).find((x) => x[0] == "kisiselbilgi / isim")[1] + " " + Object.entries(rawData).find((x) => x[0] == "kisiselbilgi / soyisim")[1];
-  var cinsiyet =  Object.entries(rawData).find((x) => x[0] == "kisiselbilgi / cinsiyet")[1]
+  var cinsiyet =  Object.entries(rawData).find((x) => x[0] == "kisiselbilgi / cinsiyet")[1];
+  // var timezone = Object.entries(rawData).find((x) => x[0] == "kisiselbilgi / birthLocation")[1];
   var dogumTarihiStr = Object.entries(rawData).find((x) => x[0] == "kisiselbilgi / tarih-saat")[1];
 
-  // Türkçe tarih formatını Date nesnesine çevirmek için önce parse edelim
   function parseTurkishDate(str) {
       // Örnek: "14 Mayıs 1971 07:30"
       const aylar = {
@@ -19427,7 +19127,11 @@ var decision_strategy_eng_ozet_11_2 = "Your decision-making process requires a d
 
   console.log("Yaş:", age);
 
+  // var timezone_birthDate = `${timezone} - ${dogumTarihi}`;
+
   var language = Object.entries(rawData).find((x) => x[0] == "Lang")[1];
+
+  language = "Tr"
 
   if (language == "Tr") { //ortak kullanılan değişkenler burada
     var dearName = "Sevgili " + Object.entries(rawData).find((x) => x[0] == "kisiselbilgi / isim")[1] + ",";
@@ -19449,13 +19153,13 @@ var decision_strategy_eng_ozet_11_2 = "Your decision-making process requires a d
     
     var value = hollandData[0].name;
     if (value == "Gerçekçi") {
-      hollandDataFirst = "Enterprising";
+      hollandDataFirst = "Realistic";
     } else if (value == "Araştırıcı") {
       hollandDataFirst = "Investigative";
     } else if (value == "Artistik Sanatsal") {
       hollandDataFirst = "Artistic";
     } else if (value == "Girişimci") {
-      hollandDataFirst = "Enterprise";
+      hollandDataFirst = "Enterprising";
     } else if (value == "Sosyal") {
       hollandDataFirst = "Social";
     } else if (value == "Geleneksel") {
@@ -19464,13 +19168,13 @@ var decision_strategy_eng_ozet_11_2 = "Your decision-making process requires a d
 
     var value2 = hollandData[1].name;
     if (value2 == "Gerçekçi") {
-      hollandDataSecond = "Enterprising";
+      hollandDataSecond = "Realistic";
     } else if (value2 == "Araştırıcı") {
       hollandDataSecond = "Investigative";
     } else if (value2 == "Artistik Sanatsal") {
       hollandDataSecond = "Artistic";
     } else if (value2 == "Girişimci") {
-      hollandDataSecond = "Enterprise";
+      hollandDataSecond = "Enterprising";
     } else if (value2 == "Sosyal") {
       hollandDataSecond = "Social";
     } else if (value2 =="Geleneksel") {
@@ -19479,13 +19183,13 @@ var decision_strategy_eng_ozet_11_2 = "Your decision-making process requires a d
 
     var value3 = hollandData[5].name;
     if (value3 == "Gerçekçi") {
-      hollandDataLast = "Enterprising";
+      hollandDataLast = "Realistic";
     } else if (value3 == "Araştırıcı") {
       hollandDataLast = "Investigative";
     } else if (value3 == "Artistik Sanatsal") {
       hollandDataLast = "Artistic";
     } else if (value3 == "Girişimci") {
-      hollandDataLast = "Enterprise";
+      hollandDataLast = "Enterprising";
     } else if (value3 == "Sosyal") {
       hollandDataLast = "Social";
     } else if (value3 =="Geleneksel") {
@@ -20162,7 +19866,7 @@ var decision_strategy_eng_ozet_11_2 = "Your decision-making process requires a d
         P39A11: allVariables2.P39A11,
         P39A12: allVariables2.P39A12,
 
-        P40A1: allVariables2.P40A1, // SevgiWli Dinçer
+        P40A1: allVariables2.P40A1, 
       };
       
     } else if (usageGate.length === 2) {
@@ -20349,7 +20053,7 @@ var decision_strategy_eng_ozet_11_2 = "Your decision-making process requires a d
         P40A10: allVariables2.P40A10,
         P40A11: allVariables2.P40A11,
         P40A12: allVariables2.P40A12,
-        P41A1: allVariables2.P41A1, // SevgiWli Dinçer
+        P41A1: allVariables2.P41A1, 
       };
     } else if (usageGate.length === 3) {
   
@@ -20542,7 +20246,7 @@ var decision_strategy_eng_ozet_11_2 = "Your decision-making process requires a d
         P41A11: allVariables2.P41A11,
         P41A12: allVariables2.P41A12,
         
-        P42A1: allVariables2.P42A1, // SevgiWli Dinçer
+        P42A1: allVariables2.P42A1, 
       };
     } else if (usageGate.length === 4) {
   
@@ -20740,7 +20444,7 @@ var decision_strategy_eng_ozet_11_2 = "Your decision-making process requires a d
         P42A10: allVariables2.P42A10,
         P42A11: allVariables2.P42A11,
         P42A12: allVariables2.P42A12,    
-        P43A1: allVariables2.P43A1, // SevgiWli Dinçer
+        P43A1: allVariables2.P43A1, 
       };
     } else if (usageGate.length === 5) {
 
@@ -20945,7 +20649,7 @@ var decision_strategy_eng_ozet_11_2 = "Your decision-making process requires a d
         P43A11: allVariables2.P43A11,
         P43A12: allVariables2.P43A12,
 
-        P44A1: allVariables2.P44A1, // SevgiWli Dinçer
+        P44A1: allVariables2.P44A1, 
       };
   
     } else if (usageGate.length === 6) {
@@ -21157,7 +20861,7 @@ var decision_strategy_eng_ozet_11_2 = "Your decision-making process requires a d
         P44A11: allVariables2.P44A11,
         P44A12: allVariables2.P44A12,       
       
-        P45A1: allVariables2.P45A1, // SevgiWli Dinçer
+        P45A1: allVariables2.P45A1, 
       };
     } else if (usageGate.length === 7) {
   
@@ -21374,7 +21078,7 @@ var decision_strategy_eng_ozet_11_2 = "Your decision-making process requires a d
        P45A11: allVariables2.P45A11,
        P45A12: allVariables2.P45A12,
        
-       P46A1: allVariables2.P46A1, // SevgiWli Dinçer
+       P46A1: allVariables2.P46A1, 
       };
     } else if (usageGate.length === 8) {
   
@@ -21597,7 +21301,7 @@ var decision_strategy_eng_ozet_11_2 = "Your decision-making process requires a d
         P46A11: allVariables2.P46A11,
         P46A12: allVariables2.P46A12,
         
-        P47A1: allVariables2.P47A1, // SevgiWli Dinçer
+        P47A1: allVariables2.P47A1, 
       };
     } else if (usageGate.length === 9) {
   
@@ -21826,7 +21530,7 @@ var decision_strategy_eng_ozet_11_2 = "Your decision-making process requires a d
         P47A11: allVariables2.P47A11,
         P47A12: allVariables2.P47A12,
       
-        P48A1: allVariables2.P48A1, // SevgiWli Dinçer
+        P48A1: allVariables2.P48A1, 
       };
     } else if (usageGate.length === 10) {
   
@@ -22061,7 +21765,7 @@ var decision_strategy_eng_ozet_11_2 = "Your decision-making process requires a d
         P48A11: allVariables2.P48A11,
         P48A12: allVariables2.P48A12,
         
-        P49A1: allVariables2.P49A1, // SevgiWli Dinçer
+        P49A1: allVariables2.P49A1, 
       };
     } else if (usageGate.length === 11) {
   
@@ -22302,7 +22006,7 @@ var decision_strategy_eng_ozet_11_2 = "Your decision-making process requires a d
         P49A11: allVariables2.P49A11,
         P49A12: allVariables2.P49A12,        
                   
-        P50A1: allVariables2.P50A1, // SevgiWli Dinçer
+        P50A1: allVariables2.P50A1, 
       };
     } else if (usageGate.length >= 12) {
   
@@ -22549,7 +22253,7 @@ var decision_strategy_eng_ozet_11_2 = "Your decision-making process requires a d
         P50A11: allVariables2.P50A11,
         P50A12: allVariables2.P50A12,        
          
-        P51A1: allVariables2.P51A1, // SevgiWli Dinçer
+        P51A1: allVariables2.P51A1, 
       };
     }
   }
@@ -22707,7 +22411,7 @@ var decision_strategy_eng_ozet_11_2 = "Your decision-making process requires a d
         P42A10: allVariables.P42A10,
         P42A11: allVariables.P42A11,
         P42A12: allVariables.P42A12,
-        P43A1: allVariables.P43A1, // SevgiWli Dinçer
+        P43A1: allVariables.P43A1, 
       };
       
     } else if (usageGate.length === 2) {
@@ -22869,7 +22573,7 @@ var decision_strategy_eng_ozet_11_2 = "Your decision-making process requires a d
         P42A11: allVariables.P42A11,
         P42A12: allVariables.P42A12,
 
-        P43A1: allVariables.P43A1, // SevgiWli Dinçer
+        P43A1: allVariables.P43A1, 
       };
     } else if (usageGate.length === 3) {
   
@@ -23035,7 +22739,7 @@ var decision_strategy_eng_ozet_11_2 = "Your decision-making process requires a d
         P43A10: allVariables.P43A10,
         P43A11: allVariables.P43A11,
         P43A12: allVariables.P43A12,
-        P44A1: allVariables.P44A1, // SevgiWli Dinçer
+        P44A1: allVariables.P44A1, 
       };
   
   
@@ -23209,7 +22913,7 @@ var decision_strategy_eng_ozet_11_2 = "Your decision-making process requires a d
         P44A10: allVariables.P44A10,
         P44A11: allVariables.P44A11,
         P44A12: allVariables.P44A12,
-        P45A1: allVariables.P45A1, // SevgiWli Dinçer
+        P45A1: allVariables.P45A1, 
       };
     } else if (usageGate.length === 5) {
   
@@ -23386,7 +23090,7 @@ var decision_strategy_eng_ozet_11_2 = "Your decision-making process requires a d
         P45A11: allVariables.P45A11,
         P45A12: allVariables.P45A12,
 
-        P46A1: allVariables.P46A1, // SevgiWli Dinçer
+        P46A1: allVariables.P46A1, 
       };
   
     } else if (usageGate.length === 6) {
@@ -23571,7 +23275,7 @@ var decision_strategy_eng_ozet_11_2 = "Your decision-making process requires a d
         P46A10: allVariables.P46A10,
         P46A11: allVariables.P46A11,
         P46A12: allVariables.P46A12,
-        P47A1: allVariables.P47A1, // SevgiWli Dinçer
+        P47A1: allVariables.P47A1, 
       };
     } else if (usageGate.length === 7) {
   
@@ -23761,7 +23465,7 @@ var decision_strategy_eng_ozet_11_2 = "Your decision-making process requires a d
        P47A10: allVariables.P47A10,
        P47A11: allVariables.P47A11,
        P47A12: allVariables.P47A12,
-       P48A1: allVariables.P48A1, // SevgiWli Dinçer
+       P48A1: allVariables.P48A1, 
       };
   
   
@@ -23960,7 +23664,7 @@ var decision_strategy_eng_ozet_11_2 = "Your decision-making process requires a d
         P48A11: allVariables.P48A11,
         P48A12: allVariables.P48A12,
         
-        P49A1: allVariables.P49A1, // SevgiWli Dinçer
+        P49A1: allVariables.P49A1, 
       };
   
   
@@ -24165,7 +23869,7 @@ var decision_strategy_eng_ozet_11_2 = "Your decision-making process requires a d
         P49A11: allVariables.P49A11,
         P49A12: allVariables.P49A12,
         
-        P50A1: allVariables.P50A1, // SevgiWli Dinçer
+        P50A1: allVariables.P50A1, 
       };
     } else if (usageGate.length === 10) {
   
@@ -24203,13 +23907,13 @@ var decision_strategy_eng_ozet_11_2 = "Your decision-making process requires a d
   
       allVariables.P42A1 = decision_strategy(decision_strategyData, age, "name", language); // Senin Karar Verme Stratejin
       allVariables.P42A2 = decision_strategy(decision_strategyData, age, "s3_x_2", language);
-      allVariables.P42A3 = "İki Temel Unsur:";
+      allVariables.P42A3 = kararVermeStratejin1;
       allVariables.P42A4 = decision_strategy(decision_strategyData, age, "s3_x_3", language);
       allVariables.P42A5 = decision_strategy(decision_strategyData, age, "s3_x_4", language);
   
-      allVariables.P43A1 = "Karar Verme Stratejini Takip Etmek:";
+      allVariables.P43A1 = kararVermeStratejin2
       allVariables.P43A2 = decision_strategy(decision_strategyData, age, "s4_x_text", language);
-      allVariables.P43A3 = "Adımlar:";
+      allVariables.P43A3 = kararVermeStratejin3;
       allVariables.P43A4 = decision_strategy(decision_strategyData, age, "s4_x_1", language);
       allVariables.P43A5 = decision_strategy(decision_strategyData, age, "s4_x_txt", language);
       allVariables.P43A6 = decision_strategy(decision_strategyData, age, "image", language);
@@ -24273,7 +23977,7 @@ var decision_strategy_eng_ozet_11_2 = "Your decision-making process requires a d
       allVariables.P50A11 = kariyer_secim(careerSelectionLastResult[0], age, "ozet_1", language),
       allVariables.P50A12 = kariyer_secim(careerSelectionLastResult[0], age, "ozet_2", language),      
   
-      allVariables.P51A1 = "Sevgili " + Object.entries(rawData).find((x) => x[0] == "kisiselbilgi / isim")[1] + ","; // Sevgili Dinçer
+      allVariables.P51A1 = dearName;
   
       var inputs_25_plus = {
   
@@ -24373,7 +24077,7 @@ var decision_strategy_eng_ozet_11_2 = "Your decision-making process requires a d
         P50A10: allVariables.P50A10,
         P50A11: allVariables.P50A11,
         P50A12: allVariables.P50A12,
-        P51A1: allVariables.P51A1, // SevgiWli Dinçer
+        P51A1: allVariables.P51A1, 
       };
   
   
@@ -24589,7 +24293,7 @@ var decision_strategy_eng_ozet_11_2 = "Your decision-making process requires a d
         P51A10: allVariables.P51A10,
         P51A11: allVariables.P51A11,
         P51A12: allVariables.P51A12,        
-        P52A1: allVariables.P52A1, // SevgiWli Dinçer
+        P52A1: allVariables.P52A1, 
       };
     } else if (usageGate.length >= 12) {
   
@@ -24809,7 +24513,7 @@ var decision_strategy_eng_ozet_11_2 = "Your decision-making process requires a d
         P52A10: allVariables.P52A10,
         P52A11: allVariables.P52A11,
         P52A12: allVariables.P52A12,        
-        P53A1: allVariables.P53A1, // SevgiWli Dinçer
+        P53A1: allVariables.P53A1, 
       };
     }
   }
