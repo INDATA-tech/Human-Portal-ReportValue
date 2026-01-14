@@ -1332,11 +1332,9 @@ export default async ({ req, res, log, error }) => {
     // Direkt eşleşme
     let comboKey = `${strategy}|${authority}`;
     let index = decisionStrategyIndexMap[comboKey];
-    if (index) {
-      return index; // bulunduysa direkt dön
-    }
+
     // Ego fallback (Ego Projected / Ego Manifested vb.)
-    if (authority === "Ego") {
+    if (!index && authority === "Ego") {
       const egoKey = Object.keys(decisionStrategyIndexMap)
         .find(k => k.startsWith(`${strategy}|Ego`));
       if (egoKey) {
@@ -2032,6 +2030,7 @@ export default async ({ req, res, log, error }) => {
     const sscp = `P${careerSkillsPage}`;
     const sectorName = decision_strategyData.sectorName;
     targetObj[`${sscp}A1`] = kariyer_secim(sectorName, age, "sector", language);
+    result[`${sscp}A1`] = targetObj[`${sscp}A1`];
 
     const s7Suffixes = ["_x_1", "_x_3", "_x_4", "_x_5", "_x_6", "_x_7"];
     let aIdx = 2;
@@ -2043,7 +2042,6 @@ export default async ({ req, res, log, error }) => {
         aIdx++;
       }
     }
-    result[`${sscp}A1`] = targetObj[`${sscp}A1`];
 
     // Note: Summary page (özet) is now statically defined at P4 in allVariables
 
