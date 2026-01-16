@@ -2048,7 +2048,7 @@ export default async ({ req, res, log, error }) => {
     // 11. Closing Page
 
     const clp = `P${closingPage}`;
-    targetObj[`${clp}A1`] = dearName;
+    targetObj[`${clp}A1`] = "";
     result[`${clp}A1`] = targetObj[`${clp}A1`];
 
     return result;
