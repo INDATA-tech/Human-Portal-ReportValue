@@ -1414,13 +1414,20 @@ export default async ({ req, res, log, error }) => {
   };
 
   // Type pattern configuration for key building
+  // Note: s2_x_2, s5, s6 sections are age-dependent, handled in function
   const kariyerSecimTypeConfig = {
     "name": { prefix: "kariyer_secim", section: "25_plus_s2", suffix: "_1" },
-    "s2_x_2": { prefix: "kariyer_secim", section: "25_plus_s2", suffix: "_2" },
+    "s2_x_2": { prefix: "kariyer_secim", section: null, suffix: "_2" }, // age-dependent section
     "s3_x_1": { prefix: "kariyer_secim", section: "s3", suffix: "_1" },
     "s4_x_1": { prefix: "kariyer_secim", section: "s4", suffix: "_1" },
     "ozet_1": { prefix: "kariyer_secim", section: "ozet", suffix: "_1" },
-    "ozet_2": { prefix: "kariyer_secim", section: "ozet", suffix: "_2" }
+    "ozet_2": { prefix: "kariyer_secim", section: "ozet", suffix: "_2" },
+    // 12-25 age group specific types
+    "s5_x_1": { prefix: "kariyer_secim", section: "12_25_s5", suffix: "_1" }, // university name
+    "s5_x_2": { prefix: "kariyer_secim", section: "12_25_s5", suffix: "_2" }, // university departments
+    "s6_x_1": { prefix: "kariyer_secim", section: "12_25_s6", suffix: "_1" }, // without degree name
+    "s6_x_2": { prefix: "kariyer_secim", section: "12_25_s6", suffix: "_2" }, // without degree intro
+    "s6_x_3": { prefix: "kariyer_secim", section: "12_25_s6", suffix: "_3" }  // without degree jobs
   };
 
   /**
@@ -1444,16 +1451,25 @@ export default async ({ req, res, log, error }) => {
     const careerIndex = careerCategoryIndexMap[careerItem.name];
     if (!careerIndex) return undefined;
 
-    const agePart = age > 25 ? "_25_plus" : "";
     let key;
 
     // Handle s7 sector-specific types (e.g., s7_retail_x_1, s7_health_x_2, etc.)
+    // Note: s7 keys always use _25_plus prefix for all ages as per original implementation
     const s7Match = type.match(/^s7_(\w+)_x_(\d+)$/);
     if (s7Match) {
       const [, sector, subIndex] = s7Match;
-      key = `kariyer_secim${agePart}_s7_${sector}_${careerIndex}_${subIndex}`;
+      key = `kariyer_secim_25_plus_s7_${sector}_${careerIndex}_${subIndex}`;
+    } else if (type === "s2_x_2") {
+      // s2_x_2 type uses age-dependent section: 12_25_s2 for ages ≤25, 25_plus_s2 for ages >25
+      const section = age > 25 ? "25_plus_s2" : "12_25_s2";
+      key = `kariyer_secim_${section}_${careerIndex}_2`;
+    } else if (type.startsWith("s5_x_") || type.startsWith("s6_x_")) {
+      // s5 (university) and s6 (without degree) are 12-25 specific
+      const config = kariyerSecimTypeConfig[type];
+      if (!config) return undefined;
+      key = `kariyer_secim_${config.section}_${careerIndex}${config.suffix}`;
     } else {
-      // Handle basic types
+      // Handle basic types (name, s3_x_1, s4_x_1, ozet_1, ozet_2)
       const config = kariyerSecimTypeConfig[type];
       if (!config) return undefined;
       key = `kariyer_secim_${config.section}_${careerIndex}${config.suffix}`;
@@ -2081,6 +2097,77 @@ export default async ({ req, res, log, error }) => {
     dearName
   });
 
+
+  // 12-25 age group: University, Without Degree, and Sector pages
+  // These START at careerSkillsPage position (P46), replacing the s7 content from buildDynamicVariables
+  // buildDynamicVariables already generates s3 (P44) and s4 (P45), so we only add s5, s6, s7 here
+  if (age >= 12 && age <= 25) {
+    const sectorName = decision_strategyData.sectorName;
+    const usageGateLen = Math.min(usageGate.length, 12);
+    const baseGucluPage = 27;  // Base page for 12-25 age group
+
+    // Calculate careerSkillsPage position where 12-25 specific pages start:
+    // careerSkillsPage = baseGucluPage + usageGateLen + 2 (decision) + 1 + 1 + 1 + 1 + 1 = baseGucluPage + usageGateLen + 8
+    const universityPage = baseGucluPage + usageGateLen + 8;   // P46 - University Suggestions (s5)
+    const withoutDegreePage = universityPage + 1;              // P47 - Without University Degree (s6)
+    const sectorPage = withoutDegreePage + 1;                  // P48 - Sector (s7)
+
+    // P46: University Suggestions Page (s5 content) - 6 fields
+    // A1: Career 1 name, A2: Career 1 university list
+    // A3: Career 2 name, A4: Career 2 university list
+    // A5: Career 3 name, A6: Career 3 university list
+    const univ = `P${universityPage}`;
+    inputs_25_plus[`${univ}A1`] = kariyer_secim(careerSelectionLastResult[0], age, "s5_x_1", language);
+    inputs_25_plus[`${univ}A2`] = kariyer_secim(careerSelectionLastResult[0], age, "s5_x_2", language);
+    inputs_25_plus[`${univ}A3`] = kariyer_secim(careerSelectionLastResult[1], age, "s5_x_1", language);
+    inputs_25_plus[`${univ}A4`] = kariyer_secim(careerSelectionLastResult[1], age, "s5_x_2", language);
+    inputs_25_plus[`${univ}A5`] = kariyer_secim(careerSelectionLastResult[2], age, "s5_x_1", language);
+    inputs_25_plus[`${univ}A6`] = kariyer_secim(careerSelectionLastResult[2], age, "s5_x_2", language);
+
+    // P47: Without University Degree Page (s6 content) - 6 fields
+    // A1: Career 1 name, A2: Career 1 intro, A3: Career 1 jobs
+    // A4: Career 2 name, A5: Career 2 intro, A6: Career 2 jobs
+    const woDegree = `P${withoutDegreePage}`;
+    inputs_25_plus[`${woDegree}A1`] = kariyer_secim(careerSelectionLastResult[0], age, "s6_x_1", language);
+    inputs_25_plus[`${woDegree}A2`] = kariyer_secim(careerSelectionLastResult[0], age, "s6_x_2", language);
+    inputs_25_plus[`${woDegree}A3`] = kariyer_secim(careerSelectionLastResult[0], age, "s6_x_3", language);
+    inputs_25_plus[`${woDegree}A4`] = kariyer_secim(careerSelectionLastResult[1], age, "s6_x_1", language);
+    inputs_25_plus[`${woDegree}A5`] = kariyer_secim(careerSelectionLastResult[1], age, "s6_x_2", language);
+    inputs_25_plus[`${woDegree}A6`] = kariyer_secim(careerSelectionLastResult[1], age, "s6_x_3", language);
+
+    // P48: Sector Page (s7 content) - 19 fields
+    // A1: Sector name
+    // A2: Career 1 name, A3-A7: Career 1 s7 items (5 items)
+    // A8: Career 2 name, A9-A13: Career 2 s7 items (5 items)
+    // A14: Career 3 name, A15-A19: Career 3 s7 items (5 items)
+    const sect = `P${sectorPage}`;
+    inputs_25_plus[`${sect}A1`] = kariyer_secim(sectorName, age, "sector", language);
+
+    const s7Suffixes = ["_x_1", "_x_3", "_x_4", "_x_5", "_x_6"];
+
+    // Career 1: A2 (name), A3-A7 (5 s7 items)
+    inputs_25_plus[`${sect}A2`] = kariyer_secim(careerSelectionLastResult[0], age, "name", language);
+    for (let i = 0; i < 5; i++) {
+      const key = `s7_${sectorName}${s7Suffixes[i]}`;
+      inputs_25_plus[`${sect}A${3 + i}`] = kariyer_secim(careerSelectionLastResult[0], age, key, language);
+    }
+
+    // Career 2: A8 (name), A9-A13 (5 s7 items)
+    inputs_25_plus[`${sect}A8`] = kariyer_secim(careerSelectionLastResult[1], age, "name", language);
+    for (let i = 0; i < 5; i++) {
+      const key = `s7_${sectorName}${s7Suffixes[i]}`;
+      inputs_25_plus[`${sect}A${9 + i}`] = kariyer_secim(careerSelectionLastResult[1], age, key, language);
+    }
+
+    // Career 3: A14 (name), A15-A19 (5 s7 items)
+    inputs_25_plus[`${sect}A14`] = kariyer_secim(careerSelectionLastResult[2], age, "name", language);
+    for (let i = 0; i < 5; i++) {
+      const key = `s7_${sectorName}${s7Suffixes[i]}`;
+      inputs_25_plus[`${sect}A${15 + i}`] = kariyer_secim(careerSelectionLastResult[2], age, key, language);
+    }
+  }
+
+  // Add usageGate and age at the end of JSON
   inputs_25_plus.usageGate = usageGate.length;
   inputs_25_plus.age = age;
 
