@@ -2145,7 +2145,7 @@ export default async ({ req, res, log, error }) => {
   inputs_25_plus.age = age;
 
   const jsonString = JSON.stringify(inputs_25_plus)
-  //console.log(jsonString)
+  console.log(jsonString)
 
   return inputs_25_plus;
 }
