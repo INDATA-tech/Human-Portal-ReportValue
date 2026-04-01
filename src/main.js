@@ -120,7 +120,7 @@ export default async ({ req, res, log, error }) => {
   var answers = await database.getDocument(
     "65dc57b1e8322b0426ae",
     "65e97978db53e3998c12",
-    String(req),
+    String(req.body),
   );
 
   // const client = new Client() //PLATFORM
@@ -133,7 +133,7 @@ export default async ({ req, res, log, error }) => {
   // var answers = await database.getDocument(
   //   "65dc57b1e8322b0426ae",
   //   "65e97978db53e3998c12",
-  //   req.body,
+  //   String(req.body),
   // );
 
   var processedData = JSON.parse(answers.ProcessedData);
@@ -1551,6 +1551,23 @@ export default async ({ req, res, log, error }) => {
 
 
   function parseTurkishDate(str) {
+    if (!str) return new Date();
+
+    // ISO benzeri format kontrolü: "2010-01-09 00:45:00.000" veya "YYYY-MM-DD"
+    if (str.includes("-")) {
+      const dateTimeString = str.replace("T", " ");
+      const [datePart, timePart] = dateTimeString.split(" ");
+      const [yil, ay, gun] = datePart.split("-").map(Number);
+      
+      let saat = 0, dakika = 0;
+      if (timePart) {
+        const timeParts = timePart.split(":");
+        saat = parseInt(timeParts[0]) || 0;
+        dakika = parseInt(timeParts[1]) || 0;
+      }
+      return new Date(yil, ay - 1, gun, saat, dakika);
+    }
+
     // Örnek: "14 Mayıs 1971 07:30"
     const aylar = {
       "Ocak": 0, "Şubat": 1, "Mart": 2, "Nisan": 3, "Mayıs": 4, "Haziran": 5,
@@ -1559,14 +1576,14 @@ export default async ({ req, res, log, error }) => {
 
     const parts = str.split(" ");
     const gun = parseInt(parts[0]);
-    const ay = aylar[parts[1]];
+    const ay = aylar[parts[1]] !== undefined ? aylar[parts[1]] : 0;
     const yil = parseInt(parts[2]);
 
     let saat = 0, dakika = 0;
     if (parts[3]) {
       const timeParts = parts[3].split(":");
-      saat = parseInt(timeParts[0]);
-      dakika = parseInt(timeParts[1]);
+      saat = parseInt(timeParts[0]) || 0;
+      dakika = parseInt(timeParts[1]) || 0;
     }
 
     return new Date(yil, ay, gun, saat, dakika);
@@ -2147,5 +2164,5 @@ export default async ({ req, res, log, error }) => {
   const jsonString = JSON.stringify(inputs_25_plus)
   console.log(jsonString)
 
-  return inputs_25_plus;
+  return res.send(inputs_25_plus);
 }
