@@ -1141,9 +1141,9 @@ var kariyer_secim_25_plus_s7_tech_8_1 = "Öğretim ve Mentorluk Kariyerleri";
 var kariyer_secim_25_plus_s7_tech_8_2 = "Teknoloji sektöründe öğretim ve mentorluk becerilerini kullanabileceğin işler şunlar olabilir:";
 var kariyer_secim_25_plus_s7_tech_8_3 = "• Yazılım Eğitmeni: Genç yazılımcılara ya da profesyonellere yazılım dilleri ve teknolojik çözümler konusunda eğitim verebilirsin.";
 var kariyer_secim_25_plus_s7_tech_8_4 = "• Teknoloji Koçu: Teknoloji alanında yeni başlayanlara ya da genç profesyonellere rehberlik ederek kariyer gelişimlerine katkıda bulunabilirsin";
-var kariyer_secim_25_plus_s7_tech_8_5 = "• Dijital Eğitim Uzmanı: Online eğitim platformlarında ya da eğitim kurumlarında teknoloji odaklı dersler ve eğitim materyalleri oluşturabilirsin.";
+var kariyer_secim_25_plus_s7_tech_8_5 = "• Mentor (Teknoloji): Start-up kurucuları ya da teknoloji profesyonellerine iş geliştirme, ürün yönetimi ya da yazılım geliştirme konularında rehberlik edebilirsin.";
 var kariyer_secim_25_plus_s7_tech_8_6 = "• STEM Eğitmeni: Okullarda ya da özel kurslarda fen, teknoloji, mühendislik ve matematik (STEM) eğitimleri vererek gençleri bu alanlara yönlendirebilirsin.";
-var kariyer_secim_25_plus_s7_tech_8_7 = "• Mentor (Teknoloji): Start-up kurucuları ya da teknoloji profesyonellerine iş geliştirme, ürün yönetimi ya da yazılım geliştirme konularında rehberlik edebilirsin.";
+var kariyer_secim_25_plus_s7_tech_8_7 = "• Dijital Eğitim Uzmanı: Online eğitim platformlarında ya da eğitim kurumlarında teknoloji odaklı dersler ve eğitim materyalleri oluşturabilirsin.";
 
 var kariyer_secim_25_plus_s7_tech_9_1 = "Analitik ve Veri Odaklı Kariyerler";
 var kariyer_secim_25_plus_s7_tech_9_2 = "Teknoloji sektöründe analitik düşünce ve veri becerilerini kullanabileceğin işler şunlar olabilir:";
