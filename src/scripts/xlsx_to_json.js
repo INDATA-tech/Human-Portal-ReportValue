@@ -7,7 +7,7 @@ const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 
 // Read the Excel file with raw strings option to prevent truncation
-const inputPath = path.join(__dirname, '../../output.xlsx');
+const inputPath = path.join(__dirname, '../../human_translations.xlsx');
 const fileBuffer = fs.readFileSync(inputPath);
 const workbook = XLSX.read(fileBuffer, {
     type: 'buffer',
