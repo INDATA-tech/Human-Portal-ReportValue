@@ -1,4 +1,4 @@
-﻿import { Client, Databases } from "node-appwrite";
+import { Client, Databases } from "node-appwrite";
 import translations from "../output_translations.json" with { type: "json" };
 
 // This is your Appwrite function
@@ -133,7 +133,7 @@ export default async ({ req, res, log, error }) => {
   // var answers = await database.getDocument(
   //   "65dc57b1e8322b0426ae",
   //   "65e97978db53e3998c12",
-  //   String(req.body),
+  //   String(req),
   // );
 
   var processedData = JSON.parse(answers.ProcessedData);
@@ -1558,7 +1558,7 @@ export default async ({ req, res, log, error }) => {
       const dateTimeString = str.replace("T", " ");
       const [datePart, timePart] = dateTimeString.split(" ");
       const [yil, ay, gun] = datePart.split("-").map(Number);
-      
+
       let saat = 0, dakika = 0;
       if (timePart) {
         const timeParts = timePart.split(":");
@@ -1609,8 +1609,12 @@ export default async ({ req, res, log, error }) => {
   var language = Object.entries(rawData).find((x) => x[0] == "Lang")[1];
 
   if (language == "Tr") { //ortak kullanılan değişkenler burada
+    var hollandDataFirst = kslk_ozl(hollandData[0].name, age, "name", language) || hollandData[0].name;
+    var hollandDataSecond = kslk_ozl(hollandData[1].name, age, "name", language) || hollandData[1].name;
+    var hollandDataLast = kslk_ozl(hollandData[5].name, age, "name", language) || hollandData[5].name;
+
     var dearName = "Sevgili " + Object.entries(rawData).find((x) => x[0] == "kisiselbilgi / isim")[1] + ",";
-    var kisilikOzelliklerinTop2 = hollandData[0].name + " ve " + hollandData[1].name + " kişilik özelliklerinin baskın, " + hollandData[5].name + " özelliğinin daha geri planda olduğu bir yapın var.";
+    var kisilikOzelliklerinTop2 = hollandDataFirst + " ve " + hollandDataSecond + " kişilik özelliklerinin baskın, " + hollandDataLast + " özelliğinin daha geri planda olduğu bir yapın var.";
     var iletisimVeEtkilesimTarzin = "Başkalarıyla Başarılı Etkileşimlerin Anahtarı...";
     var kararVermeStratejin1 = "İki Temel Unsur:";
     var kararVermeStratejin2 = "Karar Verme Stratejini Takip Etmek:";
@@ -1619,57 +1623,10 @@ export default async ({ req, res, log, error }) => {
     var isYasamindaRolun2 = "Fırsatlar Ve Zorluklar";
     var isYasamindaRolun3 = "Hayat Amacını Gerçekleştirmek";
   }
-
   else if (language == "En") { //ortak kullanılan değişkenler burada (yaş kontrolünü kaldırdım)
-
-    var hollandDataFirst = "";
-    var hollandDataSecond = "";
-    var hollandDataLast = "";
-
-    var value = hollandData[0].name;
-    if (value == "Gerçekçi") {
-      hollandDataFirst = "Realistic";
-    } else if (value == "Araştırıcı") {
-      hollandDataFirst = "Investigative";
-    } else if (value == "Artistik Sanatsal") {
-      hollandDataFirst = "Artistic";
-    } else if (value == "Girişimci") {
-      hollandDataFirst = "Enterprising";
-    } else if (value == "Sosyal") {
-      hollandDataFirst = "Social";
-    } else if (value == "Geleneksel") {
-      hollandDataFirst = "Conventional";
-    }
-
-    var value2 = hollandData[1].name;
-    if (value2 == "Gerçekçi") {
-      hollandDataSecond = "Realistic";
-    } else if (value2 == "Araştırıcı") {
-      hollandDataSecond = "Investigative";
-    } else if (value2 == "Artistik Sanatsal") {
-      hollandDataSecond = "Artistic";
-    } else if (value2 == "Girişimci") {
-      hollandDataSecond = "Enterprising";
-    } else if (value2 == "Sosyal") {
-      hollandDataSecond = "Social";
-    } else if (value2 == "Geleneksel") {
-      hollandDataSecond = "Conventional";
-    }
-
-    var value3 = hollandData[5].name;
-    if (value3 == "Gerçekçi") {
-      hollandDataLast = "Realistic";
-    } else if (value3 == "Araştırıcı") {
-      hollandDataLast = "Investigative";
-    } else if (value3 == "Artistik Sanatsal") {
-      hollandDataLast = "Artistic";
-    } else if (value3 == "Girişimci") {
-      hollandDataLast = "Enterprising";
-    } else if (value3 == "Sosyal") {
-      hollandDataLast = "Social";
-    } else if (value3 == "Geleneksel") {
-      hollandDataLast = "Conventional";
-    }
+    var hollandDataFirst = kslk_ozl(hollandData[0].name, age, "name", language) || hollandData[0].name;
+    var hollandDataSecond = kslk_ozl(hollandData[1].name, age, "name", language) || hollandData[1].name;
+    var hollandDataLast = kslk_ozl(hollandData[5].name, age, "name", language) || hollandData[5].name;
 
     var dearName = "Dear " + Object.entries(rawData).find((x) => x[0] == "kisiselbilgi / isim")[1];
     var kisilikOzelliklerinTop2 = "You have a personality where " + hollandDataFirst + " and " + hollandDataSecond + " traits are dominant, while " + hollandDataLast + " traits take a backseat.";
@@ -1682,43 +1639,19 @@ export default async ({ req, res, log, error }) => {
     var isYasamindaRolun3 = "Fulfilling Your Life Purpose";
   }
   else if (language == "De") {
-    var hollandDataFirst = "";
-    var hollandDataSecond = "";
-    var hollandDataLast = "";
+    var hollandDataFirst = kslk_ozl(hollandData[0].name, age, "name", language) || hollandData[0].name;
+    var hollandDataSecond = kslk_ozl(hollandData[1].name, age, "name", language) || hollandData[1].name;
+    var hollandDataLast = kslk_ozl(hollandData[5].name, age, "name", language) || hollandData[5].name;
 
-    var value = hollandData[0].name;
-    if (value == "Gerçekçi") hollandDataFirst = "Realistic (DE)";
-    else if (value == "Araştırıcı") hollandDataFirst = "Investigative (DE)";
-    else if (value == "Artistik Sanatsal") hollandDataFirst = "Artistic (DE)";
-    else if (value == "Girişimci") hollandDataFirst = "Enterprising (DE)";
-    else if (value == "Sosyal") hollandDataFirst = "Social (DE)";
-    else if (value == "Geleneksel") hollandDataFirst = "Conventional (DE)";
-
-    var value2 = hollandData[1].name;
-    if (value2 == "Gerçekçi") hollandDataSecond = "Realistic (DE)";
-    else if (value2 == "Araştırıcı") hollandDataSecond = "Investigative (DE)";
-    else if (value2 == "Artistik Sanatsal") hollandDataSecond = "Artistic (DE)";
-    else if (value2 == "Girişimci") hollandDataSecond = "Enterprising (DE)";
-    else if (value2 == "Sosyal") hollandDataSecond = "Social (DE)";
-    else if (value2 == "Geleneksel") hollandDataSecond = "Conventional (DE)";
-
-    var value3 = hollandData[5].name;
-    if (value3 == "Gerçekçi") hollandDataLast = "Realistic (DE)";
-    else if (value3 == "Araştırıcı") hollandDataLast = "Investigative (DE)";
-    else if (value3 == "Artistik Sanatsal") hollandDataLast = "Artistic (DE)";
-    else if (value3 == "Girişimci") hollandDataLast = "Enterprising (DE)";
-    else if (value3 == "Sosyal") hollandDataLast = "Social (DE)";
-    else if (value3 == "Geleneksel") hollandDataLast = "Conventional (DE)";
-
-    var dearName = "Sehr geehrte/r " + Object.entries(rawData).find((x) => x[0] == "kisiselbilgi / isim")[1];
+    var dearName = "Liebe " + Object.entries(rawData).find((x) => x[0] == "kisiselbilgi / isim")[1];
     var kisilikOzelliklerinTop2 = "Sie haben eine Persönlichkeit, bei der " + hollandDataFirst + " und " + hollandDataSecond + " Merkmale dominant sind, während " + hollandDataLast + " Merkmale im Hintergrund stehen.";
     var iletisimVeEtkilesimTarzin = "Effektive Kommunikation und Engagement bei der Arbeit...";
     var kararVermeStratejin1 = "Zwei Hauptaspekte:";
-    var kararVermeStratejin2 = "Verfolgen Ihrer Entscheidungsfindungsstrategie:";
+    var kararVermeStratejin2 = "Folge deiner Entscheidunsstrategie:";
     var kararVermeStratejin3 = "Schritte:";
     var isYasamindaRolun1 = "Stärken in Beruf und Karriere";
     var isYasamindaRolun2 = "Chancen und Herausforderungen";
-    var isYasamindaRolun3 = "Erfüllung Ihres Lebenszwecks";
+    var isYasamindaRolun3 = "Erfüllung deines Lebenszwecks";
   }
 
   // Unified variable initialization for all ages
@@ -2021,9 +1954,9 @@ export default async ({ req, res, log, error }) => {
     // 4. Career Distribution Image Page
     const cip = `P${careerImagePage}`;
     targetObj[`${cip}A1`] = "image";
-    targetObj[`${cip}A2`] = "1." + kariyer_secim(careerSelectionLastResult[0], age, "name", language);
-    targetObj[`${cip}A3`] = "2." + kariyer_secim(careerSelectionLastResult[1], age, "name", language);
-    targetObj[`${cip}A4`] = "3." + kariyer_secim(careerSelectionLastResult[2], age, "name", language);
+    targetObj[`${cip}A2`] = "1. " + kariyer_secim(careerSelectionLastResult[0], age, "name", language);
+    targetObj[`${cip}A3`] = "2. " + kariyer_secim(careerSelectionLastResult[1], age, "name", language);
+    targetObj[`${cip}A4`] = "3. " + kariyer_secim(careerSelectionLastResult[2], age, "name", language);
 
     result[`${cip}A1`] = targetObj[`${cip}A1`];
     result[`${cip}A2`] = targetObj[`${cip}A2`];
