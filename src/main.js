@@ -1,5 +1,7 @@
 import { Client, Databases } from "node-appwrite";
 import translations from "../output_translations.json" with { type: "json" };
+import sectorMappings from "../sector_mappings.json" with { type: "json" };
+
 
 // This is your Appwrite function
 // It's executed each time we get a request
@@ -30,66 +32,7 @@ export default async ({ req, res, log, error }) => {
   }
 
   function Map2SektorName(sektorName) {
-    if (sektorName == "Teknoloji")
-      return "tech";
-    else if (sektorName == "Perakende")
-      return "retail";
-    else if (sektorName == "Moda ve Hazır Giyim")
-      return "dress";
-    else if (sektorName == "Otomotiv")
-      return "auto";
-    else if (sektorName == "Sağlık ve İlaç")
-      return "health";
-    else if (sektorName == "Mutfak Sanatları")
-      return "meal";
-    else if (sektorName == "Eğitim ve EdTech")
-      return "edTech";
-    else if (sektorName == "Finans ve FinTech")
-      return "finTech";
-    else if (sektorName == "Enerji ve Yenilenebilir Enerji")
-      return "energy";
-    else if (sektorName == "Danışmanlık, Koçluk ve Mentörlük")
-      return "mentor";
-    else if (sektorName == "Turizm ve Misafirperverlik")
-      return "tourism";
-    else if (sektorName == "Tarım ve Tarım Teknolojileri")
-      return "agroTech";
-    else if (sektorName == "Lojistik ve Ulaşım")
-      return "logistic";
-    else if (sektorName == "Medya, Yazılı ve Görsel Basın")
-      return "media";
-    else if (sektorName == "Bunların Dışında Bir Şey - Genel Kariyer")
-      return "other";
-    else if (sektorName == "Technology")
-      return "tech";
-    else if (sektorName == "Retail")
-      return "retail";
-    else if (sektorName == "Fashion and Ready-To-Wear")
-      return "dress";
-    else if (sektorName == "Automotive")
-      return "auto";
-    else if (sektorName == "Health and Medicine")
-      return "health";
-    else if (sektorName == "Culinary Arts")
-      return "meal";
-    else if (sektorName == "Education and EdTech")
-      return "edTech";
-    else if (sektorName == "Finance and FinTech")
-      return "finTech";
-    else if (sektorName == "Energy and Renewable Energy")
-      return "energy";
-    else if (sektorName == "Consulting, Coaching and Mentorship")
-      return "mentor";
-    else if (sektorName == "Tourism and Hospitality")
-      return "tourism";
-    else if (sektorName == "Agriculture and Agricultural Technologies")
-      return "agroTech";
-    else if (sektorName == "Logistics and Transportation")
-      return "logistic";
-    else if (sektorName == "Media, Print and Visual Press")
-      return "media";
-    else if (sektorName == "Others")
-      return "other";
+    return sectorMappings[sektorName];
   }
 
   function siralaValueUzunlugunaGore(gates) {
