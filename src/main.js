@@ -1,6 +1,7 @@
 import { Client, Databases } from "node-appwrite";
 import translations from "../output_translations.json" with { type: "json" };
 import sectorMappings from "../sector_mappings.json" with { type: "json" };
+import sectorTranslations from "../sector_translations.json" with { type: "json" };
 
 
 // This is your Appwrite function
@@ -666,14 +667,7 @@ export default async ({ req, res, log, error }) => {
     "questions": "questions"
   };
 
-  /**
-   * Get kslk_ozl translation from JSON using dynamic key lookup
-   * @param {string} hollandName - Holland personality type (in Turkish)
-   * @param {number} age - User's age
-   * @param {string} type - Content type
-   * @param {string} lang - Language ("Tr" or "En")
-   * @returns {string|undefined} The translated content
-   */
+
   let kslk_ozl = (hollandName, age, type, lang) => {
     const hollandKey = hollandNameMap[hollandName];
     if (!hollandKey) return undefined;
@@ -725,15 +719,7 @@ export default async ({ req, res, log, error }) => {
     "ozet_2": "2"
   };
 
-  /**
-   * Get kslk_ozl_ozet translation from JSON using dynamic key lookup
-   * @param {string} hollandName_1 - First Holland personality type (in Turkish)
-   * @param {string} hollandName_2 - Second Holland personality type (in Turkish)
-   * @param {number} age - User's age (kept for API compatibility)
-   * @param {string} type - Content type ("ozet_1" or "ozet_2")
-   * @param {string} lang - Language ("Tr" or "En")
-   * @returns {string|undefined} The translated content
-   */
+
   let kslk_ozl_ozet = (hollandName_1, hollandName_2, age, type, lang) => {
     const pairKey = [hollandName_1, hollandName_2].sort().join("-");
     const pairIndex = hollandPairIndexMap[pairKey];
@@ -772,14 +758,7 @@ export default async ({ req, res, log, error }) => {
     "questions": ["", "_questions"]
   };
 
-  /**
-   * Get krktr_ozl translation from JSON using dynamic key lookup
-   * @param {string} big5Name - Big5 personality trait (in Turkish)
-   * @param {number} age - User's age
-   * @param {string} type - Content type
-   * @param {string} lang - Language ("Tr" or "En")
-   * @returns {string|undefined} The translated content
-   */
+
   let krktr_ozl = (big5Name, age, type, lang) => {
     const big5Key = big5NameMap[big5Name];
     if (!big5Key) return undefined;
@@ -822,15 +801,7 @@ export default async ({ req, res, log, error }) => {
     "Deneyime Açıklık-Duygusal Dayanıklılık": 10
   };
 
-  /**
-   * Get krktr_ozl_ozet translation from JSON using dynamic key lookup
-   * @param {string} big5Name_1 - First Big5 personality trait (in Turkish)
-   * @param {string} big5Name_2 - Second Big5 personality trait (in Turkish)
-   * @param {number} age - User's age (kept for API compatibility)
-   * @param {string} type - Content type ("ozet_1" or "ozet_2")
-   * @param {string} lang - Language ("Tr" or "En")
-   * @returns {string|undefined} The translated content
-   */
+
   let krktr_ozl_ozet = (big5Name_1, big5Name_2, age, type, lang) => {
     const pairKey = [big5Name_1, big5Name_2].sort().join("-");
     const pairIndex = big5PairIndexMap[pairKey];
@@ -871,14 +842,7 @@ export default async ({ req, res, log, error }) => {
     "s4u2_x_2": ["s4u2_", "_2"]
   };
 
-  /**
-   * Get AI skill translation from JSON using dynamic key lookup
-   * @param {string} aiName - AI skill name (in Turkish)
-   * @param {number} age - User's age
-   * @param {string} type - Content type
-   * @param {string} lang - Language ("Tr" or "En")
-   * @returns {string|undefined} The translated content
-   */
+
   let ai = (aiName, age, type, lang) => {
     const aiIndex = aiNameIndexMap[aiName];
     if (!aiIndex) return undefined;
@@ -923,14 +887,7 @@ export default async ({ req, res, log, error }) => {
     "s3u2_x_1": ["s3u2_", "_2"]
   };
 
-  /**
-   * Get teamwork skill translation from JSON using dynamic key lookup
-   * @param {string} teamworkName - Teamwork skill name (in Turkish)
-   * @param {number} age - User's age
-   * @param {string} type - Content type
-   * @param {string} lang - Language ("Tr" or "En")
-   * @returns {string|undefined} The translated content
-   */
+
   let teamwork = (teamworkName, age, type, lang) => {
     // Only handles age > 25 case
     if (age <= 25) return undefined;
@@ -974,14 +931,7 @@ export default async ({ req, res, log, error }) => {
     "evaluation": "_evaluation"
   };
 
-  /**
-   * Get lifestyle translation from JSON using dynamic key lookup
-   * @param {string} lifestyleData - Lifestyle type
-   * @param {number} age - User's age
-   * @param {string} type - Content type
-   * @param {string} lang - Language ("Tr" or "En")
-   * @returns {string|undefined} The translated content
-   */
+
   let lifestyle = (lifestyleData, age, type, lang) => {
     const lifestyleKey = lifestyleKeyMap[lifestyleData];
     if (!lifestyleKey) return undefined;
@@ -1066,14 +1016,7 @@ export default async ({ req, res, log, error }) => {
     "1_s3": "_s3" // Note: different pattern, no leading number
   };
 
-  /**
-   * Get communication translation from JSON using dynamic key lookup
-   * @param {string} communicationData - Communication type
-   * @param {number} age - User's age (kept for API compatibility)
-   * @param {string} type - Content type
-   * @param {string} lang - Language ("Tr" or "En")
-   * @returns {string|undefined} The translated content
-   */
+
   let communication = (communicationData, age, type, lang) => {
     const commKey = communicationKeyMap[communicationData];
     if (!commKey) return undefined;
@@ -1115,14 +1058,7 @@ export default async ({ req, res, log, error }) => {
     "ozet_2": "_ozet_2"
   };
 
-  /**
-   * Get worklearnstyle translation from JSON using dynamic key lookup
-   * @param {string} worklearnData - Work/learn style definition type
-   * @param {number} age - User's age (kept for API compatibility)
-   * @param {string} type - Content type
-   * @param {string} lang - Language ("Tr" or "En")
-   * @returns {string|undefined} The translated content
-   */
+
   let worklearnstyle = (worklearnData, age, type, lang) => {
     const worklearnKey = worklearnKeyMap[worklearnData];
     if (!worklearnKey) return undefined;
@@ -1184,14 +1120,7 @@ export default async ({ req, res, log, error }) => {
     "s3_2": "_s3_2"
   };
 
-  /**
-   * Get is_y_r translation from JSON using dynamic key lookup
-   * @param {string} is_y_rData - Profile data (e.g., "1 / 3")
-   * @param {number} age - User's age (kept for API compatibility)
-   * @param {string} type - Content type
-   * @param {string} lang - Language ("Tr" or "En")
-   * @returns {string|undefined} The translated content
-   */
+
   let is_y_r = (is_y_rData, age, type, lang) => {
     // Handle image type separately (language-independent)
     if (type === "image") {
@@ -1260,14 +1189,7 @@ export default async ({ req, res, log, error }) => {
     "ozet_2": { prefix: "decision_strategy", section: "ozet", suffix: "_2" }
   };
 
-  /**
-   * Get decision_strategy translation from JSON using dynamic key lookup
-   * @param {Object} decisionStrategyData - Decision strategy data with strategy and innerAuthority
-   * @param {number} age - User's age (kept for API compatibility)
-   * @param {string} type - Content type
-   * @param {string} lang - Language ("Tr" or "En")
-   * @returns {string|undefined} The translated content
-   */
+
 
   let decision_strategy = (decisionStrategyData, age, type, lang) => {
     const strategy = decisionStrategyData.strategy;
@@ -1318,43 +1240,7 @@ export default async ({ req, res, log, error }) => {
     "Analitik ve Veri Odaklı Kariyerler": 9
   };
 
-  // Sector code -> Turkish name mapping
-  const sectorNameMap = {
-    "tech": "Teknoloji",
-    "retail": "Perakende",
-    "dress": "Moda ve Hazır Giyim",
-    "auto": "Otomotiv",
-    "health": "Sağlık ve İlaç",
-    "meal": "Mutfak Sanatları",
-    "edTech": "Eğitim ve EdTech",
-    "finTech": "Finans ve FinTech",
-    "energy": "Enerji ve Yenilenebilir Enerji",
-    "mentor": "Danışmanlık, Koçluk ve Mentörlük",
-    "tourism": "Turizm ve Misafirperverlik",
-    "agroTech": "Tarım ve Tarım Teknolojileri",
-    "logistic": "Lojistik ve Ulaşım",
-    "media": "Medya, Yazılı ve Görsel Basın",
-    "other": "Bunların Dışında Bir Şey - Genel Kariyer"
-  };
 
-  // Sector code -> English name mapping  
-  const sectorNameMapEn = {
-    "tech": "Technology",
-    "retail": "Retail",
-    "dress": "Fashion and Apparel",
-    "auto": "Automotive",
-    "health": "Health and Pharmaceuticals",
-    "meal": "Culinary Arts",
-    "edTech": "Education and EdTech",
-    "finTech": "Finance and FinTech",
-    "energy": "Energy and Renewable Energy",
-    "mentor": "Consulting, Coaching and Mentoring",
-    "tourism": "Tourism and Hospitality",
-    "agroTech": "Agriculture and Agritech",
-    "logistic": "Logistics and Transportation",
-    "media": "Media, Print and Broadcast",
-    "other": "Something Else - General Career"
-  };
 
   // Type pattern configuration for key building
   // Note: s2_x_2, s5, s6 sections are age-dependent, handled in function
@@ -1384,7 +1270,9 @@ export default async ({ req, res, log, error }) => {
   let kariyer_secim = (kariyer_secimData, age, type, lang) => {
     // Handle sector type - direct string return
     if (type === "sector") {
-      return lang === "Tr" ? sectorNameMap[kariyer_secimData] : sectorNameMapEn[kariyer_secimData];
+      const translation = sectorTranslations[kariyer_secimData];
+      if (!translation) return kariyer_secimData;
+      return translation[lang] || translation["En"] || translation["Tr"] || kariyer_secimData;
     }
 
     // Get career category index from data
@@ -1443,14 +1331,7 @@ export default async ({ req, res, log, error }) => {
     "1": "1", "8": "8", "7": "7", "31": "31", "13": "13", "33": "33"
   };
 
-  /**
-   * Get guclu_yanlarin translation from JSON using dynamic key lookup
-   * @param {Object} guclu_yanlarinData - Data with name property
-   * @param {number} age - User's age
-   * @param {string} type - Content type (e.g., "57-10_1", "57-10_2")
-   * @param {string} lang - Language ("Tr" or "En")
-   * @returns {string|undefined} The translated content
-   */
+
   let guclu_yanlarin = (guclu_yanlarinData, age, type, lang) => {
     const keyBase = gucluYanlarinKeyMap[guclu_yanlarinData.name];
     if (!keyBase) return undefined;
@@ -2041,4 +1922,5 @@ export default async ({ req, res, log, error }) => {
   console.log(jsonString)
 
   return res.send(inputs_25_plus);
+  //return inputs_25_plus;
 }
