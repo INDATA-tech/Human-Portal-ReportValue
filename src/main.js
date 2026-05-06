@@ -32,6 +32,14 @@ export default async ({ req, res, log, error }) => {
     return gates;
   }
 
+  // Language & Gender Mappings
+  const maleMap = {
+    "Tr": "Erkek",
+    "En": "Male",
+    "De": "Männlich"
+  };
+
+
   function Map2SektorName(sektorName) {
     return sectorMappings[sektorName];
   }
@@ -687,7 +695,6 @@ export default async ({ req, res, log, error }) => {
     // Get from imported JSON - translations[key] = { tr: "...", en: "..." }
     const translation = translations[key];
     if (!translation) return undefined;
-
     if (lang === "Tr") return translation.tr;
     if (lang === "En") return translation.en;
     if (lang === "De") return translation.de;
@@ -731,7 +738,6 @@ export default async ({ req, res, log, error }) => {
     const key = `kslk_ozl_ozet_${pairIndex}_${typeSuffix}`;
     const translation = translations[key];
     if (!translation) return undefined;
-
     if (lang === "Tr") return translation.tr;
     if (lang === "En") return translation.en;
     if (lang === "De") return translation.de;
@@ -780,7 +786,6 @@ export default async ({ req, res, log, error }) => {
 
     const translation = translations[key];
     if (!translation) return undefined;
-
     if (lang === "Tr") return translation.tr;
     if (lang === "En") return translation.en;
     if (lang === "De") return translation.de;
@@ -813,7 +818,6 @@ export default async ({ req, res, log, error }) => {
     const key = `krktr_ozl_ozet_${pairIndex}_${typeSuffix}`;
     const translation = translations[key];
     if (!translation) return undefined;
-
     if (lang === "Tr") return translation.tr;
     if (lang === "En") return translation.en;
     if (lang === "De") return translation.de;
@@ -857,7 +861,6 @@ export default async ({ req, res, log, error }) => {
     const key = `ai_${agePrefix}_${typePrefix}${aiIndex}${suffix}`;
     const translation = translations[key];
     if (!translation) return undefined;
-
     if (lang === "Tr") return translation.tr;
     if (lang === "En") return translation.en;
     if (lang === "De") return translation.de;
@@ -904,7 +907,6 @@ export default async ({ req, res, log, error }) => {
     const key = `teamwork_${typePrefix}${skillIndex}${suffix}`;
     const translation = translations[key];
     if (!translation) return undefined;
-
     if (lang === "Tr") return translation.tr;
     if (lang === "En") return translation.en;
     if (lang === "De") return translation.de;
@@ -940,10 +942,9 @@ export default async ({ req, res, log, error }) => {
     if (type === "image") {
       // Image keys don't change with age, always use 25_plus prefix
       if (lifestyleData === "Manifesting Generator" || lifestyleData === "Generator") {
-        const genderSuffix = (lang === "Tr" ? cinsiyet === "Erkek" : cinsiyet === "Male") ? "_image_m" : "_image_w";
+        const genderSuffix = cinsiyet === (maleMap[lang] || "Male") ? "_image_m" : "_image_w";
         const key = `lifestyle_25_plus_${lifestyleKey}${genderSuffix}`;
         const translation = translations[key];
-
         if (!translation) return undefined;
         if (lang === "Tr") return translation.tr;
         if (lang === "En") return translation.en;
@@ -952,7 +953,6 @@ export default async ({ req, res, log, error }) => {
       }
       const key = `lifestyle_25_plus_${lifestyleKey}_image`;
       const translation = translations[key];
-
       if (!translation) return undefined;
       if (lang === "Tr") return translation.tr;
       if (lang === "En") return translation.en;
@@ -982,7 +982,6 @@ export default async ({ req, res, log, error }) => {
     const key = `lifestyle_${agePrefix}_${lifestyleKey}${typeSuffix}`;
     const translation = translations[key];
     if (!translation) return undefined;
-
     if (lang === "Tr") return translation.tr;
     if (lang === "En") return translation.en;
     if (lang === "De") return translation.de;
@@ -1033,7 +1032,6 @@ export default async ({ req, res, log, error }) => {
     const key = `communication_${commKey}${typeSuffix}`;
     const translation = translations[key];
     if (!translation) return undefined;
-
     if (lang === "Tr") return translation.tr;
     if (lang === "En") return translation.en;
     if (lang === "De") return translation.de;
@@ -1070,7 +1068,6 @@ export default async ({ req, res, log, error }) => {
     const key = `c_o_s_${worklearnKey}${typeSuffix}`;
     const translation = translations[key];
     if (!translation) return undefined;
-
     if (lang === "Tr") return translation.tr;
     if (lang === "En") return translation.en;
     if (lang === "De") return translation.de;
@@ -1126,12 +1123,13 @@ export default async ({ req, res, log, error }) => {
     if (type === "image") {
       const imageKey = isYrImageKeyMap[is_y_rData];
       if (!imageKey) return undefined;
-
       const key = `is_y_r_image_${imageKey}`;
       const translation = translations[key];
       if (!translation) return undefined;
-
-      return lang === "Tr" ? translation.tr : translation.en;
+      if (lang === "Tr") return translation.tr;
+      if (lang === "En") return translation.en;
+      if (lang === "De") return translation.de;
+      return translation.en;
     }
 
     // Handle other types
@@ -1141,12 +1139,10 @@ export default async ({ req, res, log, error }) => {
     const typeSuffix = isYrTypeMap[type];
     if (!typeSuffix) return undefined;
 
-    // Key format: is_y_r_{index}{typeSuffix} (Tr) or is_y_r_eng_{index}{typeSuffix} (En)
     // Key format: is_y_r_{index}{typeSuffix}
     const key = `is_y_r_${index}${typeSuffix}`;
     const translation = translations[key];
     if (!translation) return undefined;
-
     if (lang === "Tr") return translation.tr;
     if (lang === "En") return translation.en;
     if (lang === "De") return translation.de;
@@ -1272,7 +1268,10 @@ export default async ({ req, res, log, error }) => {
     if (type === "sector") {
       const translation = sectorTranslations[kariyer_secimData];
       if (!translation) return kariyer_secimData;
-      return translation[lang] || translation["En"] || translation["Tr"] || kariyer_secimData;
+      if (lang === "Tr") return translation.tr;
+      if (lang === "En") return translation.en;
+      if (lang === "De") return translation.de;
+      return translation.en;
     }
 
     // Get career category index from data
@@ -1308,7 +1307,6 @@ export default async ({ req, res, log, error }) => {
 
     const translation = translations[key];
     if (!translation) return undefined;
-
     if (lang === "Tr") return translation.tr;
     if (lang === "En") return translation.en;
     if (lang === "De") return translation.de;
@@ -1348,7 +1346,6 @@ export default async ({ req, res, log, error }) => {
 
     const translation = translations[key];
     if (!translation) return undefined;
-
     if (lang === "Tr") return translation.tr;
     if (lang === "En") return translation.en;
     if (lang === "De") return translation.de;
@@ -1467,7 +1464,7 @@ export default async ({ req, res, log, error }) => {
     var hollandDataSecond = kslk_ozl(hollandData[1].name, age, "name", language) || hollandData[1].name;
     var hollandDataLast = kslk_ozl(hollandData[5].name, age, "name", language) || hollandData[5].name;
 
-    var dearName = "Liebe " + Object.entries(rawData).find((x) => x[0] == "kisiselbilgi / isim")[1];
+    var dearName = (cinsiyet === (maleMap[language] || "Male") ? "Lieber " : "Liebe ") + Object.entries(rawData).find((x) => x[0] == "kisiselbilgi / isim")[1];
     var kisilikOzelliklerinTop2 = "Sie haben eine Persönlichkeit, bei der " + hollandDataFirst + " und " + hollandDataSecond + " Merkmale dominant sind, während " + hollandDataLast + " Merkmale im Hintergrund stehen.";
     var iletisimVeEtkilesimTarzin = "Effektive Kommunikation und Engagement bei der Arbeit...";
     var kararVermeStratejin1 = "Zwei Hauptaspekte:";
