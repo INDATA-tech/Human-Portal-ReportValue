@@ -558,6 +558,8 @@ export default async ({ req, res, log, error }) => {
 
   var bigdataPercent = [];
   var hollanddataPercent = [];
+
+  ///Big 5 Data Percent
   big5Data.forEach((x) => {
     var deger = Math.round(((x.value * 2) / 100) * 5);
     var percent = { name: x.name, value: x.value * 2 };
@@ -567,6 +569,8 @@ export default async ({ req, res, log, error }) => {
       careerSelectionResult[1].value[index] += list[index] * deger;
     }
   });
+
+  // Holland Data Percent
   hollandData.forEach((x) => {
     var deger = Math.round(((x.value * 100) / 15 / 100) * 5);
     var percent = { name: x.name, value: Math.round((x.value * 100) / 15) };
@@ -576,6 +580,28 @@ export default async ({ req, res, log, error }) => {
       careerSelectionResult[2].value[index] += list[index] * deger;
     }
   });
+
+  // Recalculate aiData using hollanddataPercent and bigdataPercent
+  var hVal = function (name) { return hollanddataPercent.find(function (x) { return x.name === name; }).value; };
+  var bVal = function (name) { return bigdataPercent.find(function (x) { return x.name === name; }).value; };
+
+  aiData = [
+    { name: "Dijital Okuryazarlık", value: Math.round(hVal("Araştırıcı") * 0.2 + hVal("Gerçekçi") * 0.4 + bVal("Dışa Dönüklük") * 0.2 + bVal("Deneyime Açıklık") * 0.2) },
+    { name: "Veri Okur Yazarlığı", value: Math.round(hVal("Araştırıcı") * 0.5 + hVal("Gerçekçi") * 0.1 + bVal("Öz Disiplin") * 0.1 + bVal("Deneyime Açıklık") * 0.3) },
+    { name: "Kodlama ve Programlama", value: Math.round(hVal("Girişimci") * 0.1 + hVal("Gerçekçi") * 0.5 + bVal("Öz Disiplin") * 0.3 + bVal("Deneyime Açıklık") * 0.1) },
+    { name: "Eleştirel Düşünme ve Problem Çözme", value: Math.round(hVal("Araştırıcı") * 0.3 + hVal("Girişimci") * 0.3 + bVal("Öz Disiplin") * 0.2 + bVal("Deneyime Açıklık") * 0.2) },
+    { name: "Uyarlanabilirlik ve Sürekli Öğrenme", value: Math.round(hVal("Sosyal") * 0.2 + hVal("Girişimci") * 0.3 + bVal("Öz Disiplin") * 0.1 + bVal("Deneyime Açıklık") * 0.4) },
+    { name: "İletişim ve İşbirliği", value: Math.round(hVal("Sosyal") * 0.4 + hVal("Girişimci") * 0.25 + bVal("Dışa Dönüklük") * 0.25 + bVal("Uyumluluk") * 0.1) },
+    { name: "Etik ve Sosyal Sorumluluk", value: Math.round(hVal("Sosyal") * 0.4 + hVal("Geleneksel") * 0.2 + bVal("Dışa Dönüklük") * 0.1 + bVal("Uyumluluk") * 0.3) },
+    { name: "Duygusal Zeka (EQ)", value: Math.round(hVal("Sosyal") * 0.4 + bVal("Dışa Dönüklük") * 0.1 + bVal("Uyumluluk") * 0.3 + bVal("Duygusal Dayanıklılık") * 0.2) },
+    { name: "Yenilikçi ve Girişimci Düşünce", value: Math.round(hVal("Girişimci") * 0.5 + hVal("Gerçekçi") * 0.1 + bVal("Deneyime Açıklık") * 0.4) }
+  ];
+
+  // Re-sort aiData after recalculation
+  sortedaiData = aiData.sort(function (a, b) {
+    return b.value - a.value;
+  });
+
   var careerSelectionLastResult = [
     { id: 0, name: "Analitik", value: 0 },
     { id: 1, name: "Yaratıcı ve Sanatsal", value: 0 },
