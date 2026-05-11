@@ -120,10 +120,6 @@ export default async ({ req, res, log, error }) => {
     return b.value - a.value;
   });
 
-  var sortedTeamWorkData = teamworkData.sort(function (a, b) {
-    return b.value - a.value;
-  });
-
   hollandData.sort((a, b) => b.value - a.value);
   big5Data.sort((a, b) => b.value - a.value);
 
@@ -599,6 +595,23 @@ export default async ({ req, res, log, error }) => {
 
   // Re-sort aiData after recalculation
   sortedaiData = aiData.sort(function (a, b) {
+    return b.value - a.value;
+  });
+
+  // Recalculate teamworkData using hollanddataPercent and bigdataPercent
+  teamworkData = [
+    { name: "Aktif Dinleme ve Empati", value: Math.round((hVal("Sosyal") + (bVal("Dışa Dönüklük") + bVal("Uyumluluk") + bVal("Duygusal Dayanıklılık")) / 3) / 2) },
+    { name: "Efektif İletişim", value: Math.round((hVal("Sosyal") + (bVal("Dışa Dönüklük") + bVal("Deneyime Açıklık")) / 2) / 2) },
+    { name: "İş Birliği", value: Math.round((hVal("Sosyal") + (bVal("Uyumluluk") + bVal("Dışa Dönüklük")) / 2) / 2) },
+    { name: "Uyumluluk", value: Math.round((hVal("Girişimci") + (bVal("Deneyime Açıklık") + bVal("Duygusal Dayanıklılık")) / 2) / 2) },
+    { name: "Sorun Çözme", value: Math.round((hVal("Sosyal") + (bVal("Uyumluluk") + bVal("Duygusal Dayanıklılık")) / 2) / 2) },
+    { name: "Öncü Olma", value: Math.round((hVal("Girişimci") + (bVal("Öz Disiplin") + bVal("Deneyime Açıklık")) / 2) / 2) },
+    { name: "Geri Bildirim", value: Math.round((hVal("Sosyal") + (bVal("Uyumluluk") + bVal("Öz Disiplin")) / 2) / 2) },
+    { name: "Takım Oyuncusu Olma", value: Math.round((hVal("Sosyal") + (bVal("Dışa Dönüklük") + bVal("Uyumluluk")) / 2) / 2) },
+    { name: "Profesyonel Gelişim", value: Math.round((hVal("Girişimci") + (bVal("Öz Disiplin") + bVal("Deneyime Açıklık")) / 2) / 2) }
+  ];
+
+  var sortedTeamWorkData = teamworkData.sort(function (a, b) {
     return b.value - a.value;
   });
 
