@@ -44,6 +44,7 @@ export default async ({ req, res, log, error }) => {
     return sectorMappings[sektorName];
   }
 
+
   function siralaValueUzunlugunaGore(gates) {
     // 1. Adım: value değerlerini bir diziye al
     const valueSiralama = gates.map((gate) => gate.value.length);
