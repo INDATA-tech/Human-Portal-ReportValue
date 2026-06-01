@@ -1,0 +1,11 @@
+{
+    "name": "excel-to-json-converter",
+    "version": "1.0.0",
+    "description": "Converts Excel translations to JSON and saves to Database",
+    "main": "src/main.js",
+    "type": "module",
+    "dependencies": {
+        "node-appwrite": "^12.0.1",
+        "xlsx": "^0.18.5"
+    }
+}
