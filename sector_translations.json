@@ -1,0 +1,77 @@
+{
+  "tech": {
+    "Tr": "Teknoloji",
+    "En": "Technology",
+    "De": "Technologie"
+  },
+  "retail": {
+    "Tr": "Perakende",
+    "En": "Retail",
+    "De": "Einzelhandel"
+  },
+  "dress": {
+    "Tr": "Moda ve Hazır Giyim",
+    "En": "Fashion and Ready-To-Wear",
+    "De": "Mode und Bekleidung"
+  },
+  "auto": {
+    "Tr": "Otomotiv",
+    "En": "Automotive",
+    "De": "Automobilindustrie"
+  },
+  "health": {
+    "Tr": "Sağlık ve İlaç",
+    "En": "Health and Medicine",
+    "De": "Gesundheit und Medizin"
+  },
+  "meal": {
+    "Tr": "Mutfak Sanatları",
+    "En": "Culinary Arts",
+    "De": "Gastronomie und Kulinarik"
+  },
+  "edTech": {
+    "Tr": "Eğitim ve EdTech",
+    "En": "Education and EdTech",
+    "De": "Bildung und EdTech"
+  },
+  "finTech": {
+    "Tr": "Finans ve FinTech",
+    "En": "Finance and FinTech",
+    "De": "Finanzen und FinTech"
+  },
+  "energy": {
+    "Tr": "Enerji ve Yenilenebilir Enerji",
+    "En": "Energy and Renewable Energy",
+    "De": "Energie und Erneuerbare Energien"
+  },
+  "mentor": {
+    "Tr": "Danışmanlık, Koçluk ve Mentörlük",
+    "En": "Consulting, Coaching and Mentorship",
+    "De": "Beratung, Coaching und Mentoring"
+  },
+  "tourism": {
+    "Tr": "Turizm ve Misafirperverlik",
+    "En": "Tourism and Hospitality",
+    "De": "Tourismus und Hotellerie"
+  },
+  "agroTech": {
+    "Tr": "Tarım ve Tarım Teknolojileri",
+    "En": "Agriculture and Agricultural Technologies",
+    "De": "Landwirtschaft und Agrartechnologie"
+  },
+  "logistic": {
+    "Tr": "Lojistik ve Ulaşım",
+    "En": "Logistics and Transportation",
+    "De": "Logistik und Transport"
+  },
+  "media": {
+    "Tr": "Medya, Yazılı ve Görsel Basın",
+    "En": "Media, Print and Visual Press",
+    "De": "Medien, Print und visuelle Medien"
+  },
+  "other": {
+    "Tr": "Bunların Dışında Bir Şey - Genel Kariyer",
+    "En": "Others",
+    "De": "Sonstiges"
+  }
+}

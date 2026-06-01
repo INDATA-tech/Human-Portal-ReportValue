@@ -2209,7 +2209,7 @@ var kariyer_secim_25_plus_s7_eng_retail_1_1 = "Creative and Artistic Careers";
 var kariyer_secim_25_plus_s7_eng_retail_1_2 = "Jobs Available in the Retail Sector:";
 var kariyer_secim_25_plus_s7_eng_retail_1_3 = "• Window Display Designer: Showcase your creative vision by designing the exterior displays of stores.";
 var kariyer_secim_25_plus_s7_eng_retail_1_4 = "• Visual Merchandiser: Plan how products are presented in-store to attract customers with aesthetic arrangements.";
-var kariyer_secim_25_plus_s7_eng_retail_1_5 = "• Graphic Designer: Design promotional materials (posters, brochures, social media visuals) for retail companies";
+var kariyer_secim_25_plus_s7_eng_retail_1_5 = "• Graphic Designer: Design promotional materials (posters, brochures, social media visuals) for retail companies.";
 var kariyer_secim_25_plus_s7_eng_retail_1_6 = "• Fashion Consultant: Provide creative style advice to customers in clothing stores.";
 var kariyer_secim_25_plus_s7_eng_retail_1_7 = "• Interior Decorator: Use your creativity to design and arrange store interiors in the retail space.";
 
@@ -2519,7 +2519,7 @@ var kariyer_secim_25_plus_s7_eng_auto_3_3 = "• Customer Service Specialist: Gu
 var kariyer_secim_25_plus_s7_eng_auto_3_4 = "• Warranty Consultant: Provide information to customers about car warranties and organize warranty-covered services.";
 var kariyer_secim_25_plus_s7_eng_auto_3_5 = "• Sustainability Specialist: Promote environmental awareness in the industry by working on eco-friendly car production and sustainable energy usage.";
 var kariyer_secim_25_plus_s7_eng_auto_3_6 = "• Training and Development Specialist: Contribute to knowledge sharing in the industry by providing service, sales, or technical training to automotive employees.";
-var kariyer_secim_25_plus_s7_eng_auto_3_7 = "• Community Relations Specialist: Manage social responsibility projects for automotive companies, creating initiatives that benefit the community3";
+var kariyer_secim_25_plus_s7_eng_auto_3_7 = "• Community Relations Specialist: Manage social responsibility projects for automotive companies, creating initiatives that benefit the community.";
 
 var kariyer_secim_25_plus_s7_eng_auto_4_1 = "Technical and Engineering Careers";
 var kariyer_secim_25_plus_s7_eng_auto_4_2 = "Automotive Industry";
@@ -2527,14 +2527,14 @@ var kariyer_secim_25_plus_s7_eng_auto_4_3 = "• Mechanical Engineer: Design and
 var kariyer_secim_25_plus_s7_eng_auto_4_4 = "• Automotive Engineer: Work on improving vehicle performance, ensuring safety, and optimizing energy efficiency.";
 var kariyer_secim_25_plus_s7_eng_auto_4_5 = "• Electrical-Electronics Engineer: Develop the electronic systems, sensors, and autonomous driving technologies in vehicles.";
 var kariyer_secim_25_plus_s7_eng_auto_4_6 = "• Production Engineer: Plan production processes for vehicles, working to improve efficiency and reduce costs.";
-var kariyer_secim_25_plus_s7_eng_auto_4_7 = "• Quality Control Specialist: Ensure that manufactured vehicles meet quality standards by inspecting and improving production processes4";
+var kariyer_secim_25_plus_s7_eng_auto_4_7 = "• Quality Control Specialist: Ensure that manufactured vehicles meet quality standards by inspecting and improving production processes.";
 
 var kariyer_secim_25_plus_s7_eng_auto_5_1 = "Sales and Relationship Management Careers";
 var kariyer_secim_25_plus_s7_eng_auto_5_2 = "Automotive Industry";
 var kariyer_secim_25_plus_s7_eng_auto_5_3 = "• Car Sales Consultant: Manage customer relationships in dealerships, facilitating car sales and meeting customer needs.";
 var kariyer_secim_25_plus_s7_eng_auto_5_4 = "• Fleet Sales Manager: Develop vehicle sales strategies for large companies or fleet buyers, building relationships with corporate clients.";
 var kariyer_secim_25_plus_s7_eng_auto_5_5 = "• Marketing Specialist: Manage marketing campaigns for car brands, developing advertising and promotion strategies.";
-var kariyer_secim_25_plus_s7_eng_auto_5_6 = "• Customer Experience Manager: Analyze customer experiences during and after the purchasing process, creating strategies to improve customer satisfaction5";
+var kariyer_secim_25_plus_s7_eng_auto_5_6 = "• Customer Experience Manager: Analyze customer experiences during and after the purchasing process, creating strategies to improve customer satisfaction.";
 var kariyer_secim_25_plus_s7_eng_auto_5_7 = "• After-Sales Services Specialist: Provide support for customers' service, maintenance, and spare parts needs, enhancing the quality of after-sales services.";
 
 var kariyer_secim_25_plus_s7_eng_auto_6_1 = "Organizational and Administrative Careers";
@@ -2543,7 +2543,7 @@ var kariyer_secim_25_plus_s7_eng_auto_6_3 = "• Office Manager: Manage administ
 var kariyer_secim_25_plus_s7_eng_auto_6_4 = "• Human Resources Specialist: Handle recruitment, training, and performance evaluations for employees in the automotive industry.";
 var kariyer_secim_25_plus_s7_eng_auto_6_5 = "• Inventory Management Specialist: Manage vehicle and parts inventories in dealerships or manufacturing plants, optimizing stock levels based on demand.";
 var kariyer_secim_25_plus_s7_eng_auto_6_6 = "• Sales Operations Manager: Oversee the operational details of vehicle sales processes, coordinating communication between dealers and distributors.";
-var kariyer_secim_25_plus_s7_eng_auto_6_7 = "• Logistics and Distribution Specialist: Organize logistics processes to ensure that manufactured vehicles are delivered to dealerships or distributors on time6";
+var kariyer_secim_25_plus_s7_eng_auto_6_7 = "• Logistics and Distribution Specialist: Organize logistics processes to ensure that manufactured vehicles are delivered to dealerships or distributors on time.";
 
 var kariyer_secim_25_plus_s7_eng_auto_7_1 = "Innovative and Entrepreneurial Careers";
 var kariyer_secim_25_plus_s7_eng_auto_7_2 = "Automotive Industry";
@@ -2592,7 +2592,7 @@ var kariyer_secim_25_plus_s7_eng_meal_3_3 = "• Community Kitchen Manager: Work
 var kariyer_secim_25_plus_s7_eng_meal_3_4 = "• Food Safety Instructor: Provide training on food safety and hygiene in restaurants and kitchens, helping to protect health.";
 var kariyer_secim_25_plus_s7_eng_meal_3_5 = "• Culinary Instructor: Teach young chefs or food enthusiasts culinary skills and recipes.";
 var kariyer_secim_25_plus_s7_eng_meal_3_6 = "• Social Aid Project Coordinator: Take part in food donation or kitchen support projects, supporting community collaboration.";
-var kariyer_secim_25_plus_s7_eng_meal_3_7 = "• Food Consultant: Guide people in creating healthy meal plans and improving their quality of life through nutrition3";
+var kariyer_secim_25_plus_s7_eng_meal_3_7 = "• Food Consultant: Guide people in creating healthy meal plans and improving their quality of life through nutrition.";
 
 var kariyer_secim_25_plus_s7_eng_meal_4_1 = "Technical and Engineering Careers";
 var kariyer_secim_25_plus_s7_eng_meal_4_2 = "Culinary Arts";
@@ -2608,7 +2608,7 @@ var kariyer_secim_25_plus_s7_eng_meal_5_3 = "• Restaurant Sales Representative
 var kariyer_secim_25_plus_s7_eng_meal_5_4 = "• Food and Beverage Sales Manager: Develop strategies to increase food and beverage sales and manage client relations.";
 var kariyer_secim_25_plus_s7_eng_meal_5_5 = "• Food Products Sales Consultant: Introduce new food products and develop sales strategies for supermarkets or restaurants.";
 var kariyer_secim_25_plus_s7_eng_meal_5_6 = "• Restaurant Marketing Specialist: Promote restaurants, manage marketing campaigns, and create strategies to attract customers.";
-var kariyer_secim_25_plus_s7_eng_meal_5_7 = "• Customer Relations Manager: Oversee the customer experience in restaurant or catering services, review feedback, and make improvements5";
+var kariyer_secim_25_plus_s7_eng_meal_5_7 = "• Customer Relations Manager: Oversee the customer experience in restaurant or catering services, review feedback, and make improvements.";
 
 var kariyer_secim_25_plus_s7_eng_meal_6_1 = "Organizational and Administrative Careers";
 var kariyer_secim_25_plus_s7_eng_meal_6_2 = "Culinary Arts";

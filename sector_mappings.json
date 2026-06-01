@@ -1,0 +1,61 @@
+{
+  "Teknoloji": "tech",
+  "Technology": "tech",
+  "Technologie": "tech",
+
+  "Perakende": "retail",
+  "Retail": "retail",
+  "Einzelhandel": "retail",
+
+  "Moda ve Hazır Giyim": "dress",
+  "Fashion and Ready-To-Wear": "dress",
+  "Mode und Bekleidung": "dress",
+
+  "Otomotiv": "auto",
+  "Automotive": "auto",
+  "Automobilindustrie": "auto",
+
+  "Sağlık ve İlaç": "health",
+  "Health and Medicine": "health",
+  "Gesundheit und Medizin": "health",
+
+  "Mutfak Sanatları": "meal",
+  "Culinary Arts": "meal",
+  "Gastronomie und Kulinarik": "meal",
+
+  "Eğitim ve EdTech": "edTech",
+  "Education and EdTech": "edTech",
+  "Bildung und EdTech": "edTech",
+
+  "Finans ve FinTech": "finTech",
+  "Finance and FinTech": "finTech",
+  "Finanzen und FinTech": "finTech",
+
+  "Enerji ve Yenilenebilir Enerji": "energy",
+  "Energy and Renewable Energy": "energy",
+  "Energie und Erneuerbare Energien": "energy",
+
+  "Danışmanlık, Koçluk ve Mentörlük": "mentor",
+  "Consulting, Coaching and Mentorship": "mentor",
+  "Beratung, Coaching und Mentoring": "mentor",
+
+  "Turizm ve Misafirperverlik": "tourism",
+  "Tourism and Hospitality": "tourism",
+  "Tourismus und Hotellerie": "tourism",
+
+  "Tarım ve Tarım Teknolojileri": "agroTech",
+  "Agriculture and Agricultural Technologies": "agroTech",
+  "Landwirtschaft und Agrartechnologie": "agroTech",
+
+  "Lojistik ve Ulaşım": "logistic",
+  "Logistics and Transportation": "logistic",
+  "Logistik und Transport": "logistic",
+
+  "Medya, Yazılı ve Görsel Basın": "media",
+  "Media, Print and Visual Press": "media",
+  "Medien, Print und visuelle Medien": "media",
+
+  "Bunların Dışında Bir Şey - Genel Kariyer": "other",
+  "Others": "other",
+  "Sonstiges": "other"
+}

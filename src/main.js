@@ -1,5 +1,8 @@
-﻿import { Client, Databases } from "node-appwrite";
+import { Client, Databases } from "node-appwrite";
 import translations from "../output_translations.json" with { type: "json" };
+import sectorMappings from "../sector_mappings.json" with { type: "json" };
+import sectorTranslations from "../sector_translations.json" with { type: "json" };
+
 
 // This is your Appwrite function
 // It's executed each time we get a request
@@ -29,68 +32,18 @@ export default async ({ req, res, log, error }) => {
     return gates;
   }
 
+  // Language & Gender Mappings
+  const maleMap = {
+    "Tr": "Erkek",
+    "En": "Male",
+    "De": "Männlich"
+  };
+
+
   function Map2SektorName(sektorName) {
-    if (sektorName == "Teknoloji")
-      return "tech";
-    else if (sektorName == "Perakende")
-      return "retail";
-    else if (sektorName == "Moda ve Hazır Giyim")
-      return "dress";
-    else if (sektorName == "Otomotiv")
-      return "auto";
-    else if (sektorName == "Sağlık ve İlaç")
-      return "health";
-    else if (sektorName == "Mutfak Sanatları")
-      return "meal";
-    else if (sektorName == "Eğitim ve EdTech")
-      return "edTech";
-    else if (sektorName == "Finans ve FinTech")
-      return "finTech";
-    else if (sektorName == "Enerji ve Yenilenebilir Enerji")
-      return "energy";
-    else if (sektorName == "Danışmanlık, Koçluk ve Mentörlük")
-      return "mentor";
-    else if (sektorName == "Turizm ve Misafirperverlik")
-      return "tourism";
-    else if (sektorName == "Tarım ve Tarım Teknolojileri")
-      return "agroTech";
-    else if (sektorName == "Lojistik ve Ulaşım")
-      return "logistic";
-    else if (sektorName == "Medya, Yazılı ve Görsel Basın")
-      return "media";
-    else if (sektorName == "Bunların Dışında Bir Şey - Genel Kariyer")
-      return "other";
-    else if (sektorName == "Technology")
-      return "tech";
-    else if (sektorName == "Retail")
-      return "retail";
-    else if (sektorName == "Fashion and Ready-To-Wear")
-      return "dress";
-    else if (sektorName == "Automotive")
-      return "auto";
-    else if (sektorName == "Health and Medicine")
-      return "health";
-    else if (sektorName == "Culinary Arts")
-      return "meal";
-    else if (sektorName == "Education and EdTech")
-      return "edTech";
-    else if (sektorName == "Finance and FinTech")
-      return "finTech";
-    else if (sektorName == "Energy and Renewable Energy")
-      return "energy";
-    else if (sektorName == "Consulting, Coaching and Mentorship")
-      return "mentor";
-    else if (sektorName == "Tourism and Hospitality")
-      return "tourism";
-    else if (sektorName == "Agriculture and Agricultural Technologies")
-      return "agroTech";
-    else if (sektorName == "Logistics and Transportation")
-      return "logistic";
-    else if (sektorName == "Media, Print and Visual Press")
-      return "media";
-    else if (sektorName == "Others")
-      return "other";
+    return sectorMappings[sektorName];
   }
+
 
   function siralaValueUzunlugunaGore(gates) {
     // 1. Adım: value değerlerini bir diziye al
@@ -133,7 +86,7 @@ export default async ({ req, res, log, error }) => {
   // var answers = await database.getDocument(
   //   "65dc57b1e8322b0426ae",
   //   "65e97978db53e3998c12",
-  //   String(req.body),
+  //   String(req),
   // );
 
   var processedData = JSON.parse(answers.ProcessedData);
@@ -165,10 +118,6 @@ export default async ({ req, res, log, error }) => {
   };
 
   var sortedaiData = aiData.sort(function (a, b) {
-    return b.value - a.value;
-  });
-
-  var sortedTeamWorkData = teamworkData.sort(function (a, b) {
     return b.value - a.value;
   });
 
@@ -606,6 +555,8 @@ export default async ({ req, res, log, error }) => {
 
   var bigdataPercent = [];
   var hollanddataPercent = [];
+
+  ///Big 5 Data Percent
   big5Data.forEach((x) => {
     var deger = Math.round(((x.value * 2) / 100) * 5);
     var percent = { name: x.name, value: x.value * 2 };
@@ -615,6 +566,8 @@ export default async ({ req, res, log, error }) => {
       careerSelectionResult[1].value[index] += list[index] * deger;
     }
   });
+
+  // Holland Data Percent
   hollandData.forEach((x) => {
     var deger = Math.round(((x.value * 100) / 15 / 100) * 5);
     var percent = { name: x.name, value: Math.round((x.value * 100) / 15) };
@@ -624,6 +577,45 @@ export default async ({ req, res, log, error }) => {
       careerSelectionResult[2].value[index] += list[index] * deger;
     }
   });
+
+  // Recalculate aiData using hollanddataPercent and bigdataPercent
+  var hVal = function (name) { return hollanddataPercent.find(function (x) { return x.name === name; }).value; };
+  var bVal = function (name) { return bigdataPercent.find(function (x) { return x.name === name; }).value; };
+
+  aiData = [
+    { name: "Dijital Okuryazarlık", value: Math.round(hVal("Araştırıcı") * 0.2 + hVal("Gerçekçi") * 0.4 + bVal("Dışa Dönüklük") * 0.2 + bVal("Deneyime Açıklık") * 0.2) },
+    { name: "Veri Okur Yazarlığı", value: Math.round(hVal("Araştırıcı") * 0.5 + hVal("Gerçekçi") * 0.1 + bVal("Öz Disiplin") * 0.1 + bVal("Deneyime Açıklık") * 0.3) },
+    { name: "Kodlama ve Programlama", value: Math.round(hVal("Girişimci") * 0.1 + hVal("Gerçekçi") * 0.5 + bVal("Öz Disiplin") * 0.3 + bVal("Deneyime Açıklık") * 0.1) },
+    { name: "Eleştirel Düşünme ve Problem Çözme", value: Math.round(hVal("Araştırıcı") * 0.3 + hVal("Girişimci") * 0.3 + bVal("Öz Disiplin") * 0.2 + bVal("Deneyime Açıklık") * 0.2) },
+    { name: "Uyarlanabilirlik ve Sürekli Öğrenme", value: Math.round(hVal("Sosyal") * 0.2 + hVal("Girişimci") * 0.3 + bVal("Öz Disiplin") * 0.1 + bVal("Deneyime Açıklık") * 0.4) },
+    { name: "İletişim ve İşbirliği", value: Math.round(hVal("Sosyal") * 0.4 + hVal("Girişimci") * 0.25 + bVal("Dışa Dönüklük") * 0.25 + bVal("Uyumluluk") * 0.1) },
+    { name: "Etik ve Sosyal Sorumluluk", value: Math.round(hVal("Sosyal") * 0.4 + hVal("Geleneksel") * 0.2 + bVal("Dışa Dönüklük") * 0.1 + bVal("Uyumluluk") * 0.3) },
+    { name: "Duygusal Zeka (EQ)", value: Math.round(hVal("Sosyal") * 0.4 + bVal("Dışa Dönüklük") * 0.1 + bVal("Uyumluluk") * 0.3 + bVal("Duygusal Dayanıklılık") * 0.2) },
+    { name: "Yenilikçi ve Girişimci Düşünce", value: Math.round(hVal("Girişimci") * 0.5 + hVal("Gerçekçi") * 0.1 + bVal("Deneyime Açıklık") * 0.4) }
+  ];
+
+  // Re-sort aiData after recalculation
+  sortedaiData = aiData.sort(function (a, b) {
+    return b.value - a.value;
+  });
+
+  // Recalculate teamworkData using hollanddataPercent and bigdataPercent
+  teamworkData = [
+    { name: "Aktif Dinleme ve Empati", value: Math.round((hVal("Sosyal") + (bVal("Dışa Dönüklük") + bVal("Uyumluluk") + bVal("Duygusal Dayanıklılık")) / 3) / 2) },
+    { name: "Efektif İletişim", value: Math.round((hVal("Sosyal") + (bVal("Dışa Dönüklük") + bVal("Deneyime Açıklık")) / 2) / 2) },
+    { name: "İş Birliği", value: Math.round((hVal("Sosyal") + (bVal("Uyumluluk") + bVal("Dışa Dönüklük")) / 2) / 2) },
+    { name: "Uyumluluk", value: Math.round((hVal("Girişimci") + (bVal("Deneyime Açıklık") + bVal("Duygusal Dayanıklılık")) / 2) / 2) },
+    { name: "Sorun Çözme", value: Math.round((hVal("Sosyal") + (bVal("Uyumluluk") + bVal("Duygusal Dayanıklılık")) / 2) / 2) },
+    { name: "Öncü Olma", value: Math.round((hVal("Girişimci") + (bVal("Öz Disiplin") + bVal("Deneyime Açıklık")) / 2) / 2) },
+    { name: "Geri Bildirim", value: Math.round((hVal("Sosyal") + (bVal("Uyumluluk") + bVal("Öz Disiplin")) / 2) / 2) },
+    { name: "Takım Oyuncusu Olma", value: Math.round((hVal("Sosyal") + (bVal("Dışa Dönüklük") + bVal("Uyumluluk")) / 2) / 2) },
+    { name: "Profesyonel Gelişim", value: Math.round((hVal("Girişimci") + (bVal("Öz Disiplin") + bVal("Deneyime Açıklık")) / 2) / 2) }
+  ];
+
+  var sortedTeamWorkData = teamworkData.sort(function (a, b) {
+    return b.value - a.value;
+  });
+
   var careerSelectionLastResult = [
     { id: 0, name: "Analitik", value: 0 },
     { id: 1, name: "Yaratıcı ve Sanatsal", value: 0 },
@@ -723,14 +715,7 @@ export default async ({ req, res, log, error }) => {
     "questions": "questions"
   };
 
-  /**
-   * Get kslk_ozl translation from JSON using dynamic key lookup
-   * @param {string} hollandName - Holland personality type (in Turkish)
-   * @param {number} age - User's age
-   * @param {string} type - Content type
-   * @param {string} lang - Language ("Tr" or "En")
-   * @returns {string|undefined} The translated content
-   */
+
   let kslk_ozl = (hollandName, age, type, lang) => {
     const hollandKey = hollandNameMap[hollandName];
     if (!hollandKey) return undefined;
@@ -750,7 +735,6 @@ export default async ({ req, res, log, error }) => {
     // Get from imported JSON - translations[key] = { tr: "...", en: "..." }
     const translation = translations[key];
     if (!translation) return undefined;
-
     if (lang === "Tr") return translation.tr;
     if (lang === "En") return translation.en;
     if (lang === "De") return translation.de;
@@ -782,15 +766,7 @@ export default async ({ req, res, log, error }) => {
     "ozet_2": "2"
   };
 
-  /**
-   * Get kslk_ozl_ozet translation from JSON using dynamic key lookup
-   * @param {string} hollandName_1 - First Holland personality type (in Turkish)
-   * @param {string} hollandName_2 - Second Holland personality type (in Turkish)
-   * @param {number} age - User's age (kept for API compatibility)
-   * @param {string} type - Content type ("ozet_1" or "ozet_2")
-   * @param {string} lang - Language ("Tr" or "En")
-   * @returns {string|undefined} The translated content
-   */
+
   let kslk_ozl_ozet = (hollandName_1, hollandName_2, age, type, lang) => {
     const pairKey = [hollandName_1, hollandName_2].sort().join("-");
     const pairIndex = hollandPairIndexMap[pairKey];
@@ -802,7 +778,6 @@ export default async ({ req, res, log, error }) => {
     const key = `kslk_ozl_ozet_${pairIndex}_${typeSuffix}`;
     const translation = translations[key];
     if (!translation) return undefined;
-
     if (lang === "Tr") return translation.tr;
     if (lang === "En") return translation.en;
     if (lang === "De") return translation.de;
@@ -829,14 +804,7 @@ export default async ({ req, res, log, error }) => {
     "questions": ["", "_questions"]
   };
 
-  /**
-   * Get krktr_ozl translation from JSON using dynamic key lookup
-   * @param {string} big5Name - Big5 personality trait (in Turkish)
-   * @param {number} age - User's age
-   * @param {string} type - Content type
-   * @param {string} lang - Language ("Tr" or "En")
-   * @returns {string|undefined} The translated content
-   */
+
   let krktr_ozl = (big5Name, age, type, lang) => {
     const big5Key = big5NameMap[big5Name];
     if (!big5Key) return undefined;
@@ -858,7 +826,6 @@ export default async ({ req, res, log, error }) => {
 
     const translation = translations[key];
     if (!translation) return undefined;
-
     if (lang === "Tr") return translation.tr;
     if (lang === "En") return translation.en;
     if (lang === "De") return translation.de;
@@ -879,15 +846,7 @@ export default async ({ req, res, log, error }) => {
     "Deneyime Açıklık-Duygusal Dayanıklılık": 10
   };
 
-  /**
-   * Get krktr_ozl_ozet translation from JSON using dynamic key lookup
-   * @param {string} big5Name_1 - First Big5 personality trait (in Turkish)
-   * @param {string} big5Name_2 - Second Big5 personality trait (in Turkish)
-   * @param {number} age - User's age (kept for API compatibility)
-   * @param {string} type - Content type ("ozet_1" or "ozet_2")
-   * @param {string} lang - Language ("Tr" or "En")
-   * @returns {string|undefined} The translated content
-   */
+
   let krktr_ozl_ozet = (big5Name_1, big5Name_2, age, type, lang) => {
     const pairKey = [big5Name_1, big5Name_2].sort().join("-");
     const pairIndex = big5PairIndexMap[pairKey];
@@ -899,7 +858,6 @@ export default async ({ req, res, log, error }) => {
     const key = `krktr_ozl_ozet_${pairIndex}_${typeSuffix}`;
     const translation = translations[key];
     if (!translation) return undefined;
-
     if (lang === "Tr") return translation.tr;
     if (lang === "En") return translation.en;
     if (lang === "De") return translation.de;
@@ -928,14 +886,7 @@ export default async ({ req, res, log, error }) => {
     "s4u2_x_2": ["s4u2_", "_2"]
   };
 
-  /**
-   * Get AI skill translation from JSON using dynamic key lookup
-   * @param {string} aiName - AI skill name (in Turkish)
-   * @param {number} age - User's age
-   * @param {string} type - Content type
-   * @param {string} lang - Language ("Tr" or "En")
-   * @returns {string|undefined} The translated content
-   */
+
   let ai = (aiName, age, type, lang) => {
     const aiIndex = aiNameIndexMap[aiName];
     if (!aiIndex) return undefined;
@@ -950,7 +901,6 @@ export default async ({ req, res, log, error }) => {
     const key = `ai_${agePrefix}_${typePrefix}${aiIndex}${suffix}`;
     const translation = translations[key];
     if (!translation) return undefined;
-
     if (lang === "Tr") return translation.tr;
     if (lang === "En") return translation.en;
     if (lang === "De") return translation.de;
@@ -980,14 +930,7 @@ export default async ({ req, res, log, error }) => {
     "s3u2_x_1": ["s3u2_", "_2"]
   };
 
-  /**
-   * Get teamwork skill translation from JSON using dynamic key lookup
-   * @param {string} teamworkName - Teamwork skill name (in Turkish)
-   * @param {number} age - User's age
-   * @param {string} type - Content type
-   * @param {string} lang - Language ("Tr" or "En")
-   * @returns {string|undefined} The translated content
-   */
+
   let teamwork = (teamworkName, age, type, lang) => {
     // Only handles age > 25 case
     if (age <= 25) return undefined;
@@ -1004,7 +947,6 @@ export default async ({ req, res, log, error }) => {
     const key = `teamwork_${typePrefix}${skillIndex}${suffix}`;
     const translation = translations[key];
     if (!translation) return undefined;
-
     if (lang === "Tr") return translation.tr;
     if (lang === "En") return translation.en;
     if (lang === "De") return translation.de;
@@ -1031,14 +973,7 @@ export default async ({ req, res, log, error }) => {
     "evaluation": "_evaluation"
   };
 
-  /**
-   * Get lifestyle translation from JSON using dynamic key lookup
-   * @param {string} lifestyleData - Lifestyle type
-   * @param {number} age - User's age
-   * @param {string} type - Content type
-   * @param {string} lang - Language ("Tr" or "En")
-   * @returns {string|undefined} The translated content
-   */
+
   let lifestyle = (lifestyleData, age, type, lang) => {
     const lifestyleKey = lifestyleKeyMap[lifestyleData];
     if (!lifestyleKey) return undefined;
@@ -1047,10 +982,9 @@ export default async ({ req, res, log, error }) => {
     if (type === "image") {
       // Image keys don't change with age, always use 25_plus prefix
       if (lifestyleData === "Manifesting Generator" || lifestyleData === "Generator") {
-        const genderSuffix = (lang === "Tr" ? cinsiyet === "Erkek" : cinsiyet === "Male") ? "_image_m" : "_image_w";
+        const genderSuffix = cinsiyet === (maleMap[lang] || "Male") ? "_image_m" : "_image_w";
         const key = `lifestyle_25_plus_${lifestyleKey}${genderSuffix}`;
         const translation = translations[key];
-
         if (!translation) return undefined;
         if (lang === "Tr") return translation.tr;
         if (lang === "En") return translation.en;
@@ -1059,7 +993,6 @@ export default async ({ req, res, log, error }) => {
       }
       const key = `lifestyle_25_plus_${lifestyleKey}_image`;
       const translation = translations[key];
-
       if (!translation) return undefined;
       if (lang === "Tr") return translation.tr;
       if (lang === "En") return translation.en;
@@ -1089,7 +1022,6 @@ export default async ({ req, res, log, error }) => {
     const key = `lifestyle_${agePrefix}_${lifestyleKey}${typeSuffix}`;
     const translation = translations[key];
     if (!translation) return undefined;
-
     if (lang === "Tr") return translation.tr;
     if (lang === "En") return translation.en;
     if (lang === "De") return translation.de;
@@ -1123,14 +1055,7 @@ export default async ({ req, res, log, error }) => {
     "1_s3": "_s3" // Note: different pattern, no leading number
   };
 
-  /**
-   * Get communication translation from JSON using dynamic key lookup
-   * @param {string} communicationData - Communication type
-   * @param {number} age - User's age (kept for API compatibility)
-   * @param {string} type - Content type
-   * @param {string} lang - Language ("Tr" or "En")
-   * @returns {string|undefined} The translated content
-   */
+
   let communication = (communicationData, age, type, lang) => {
     const commKey = communicationKeyMap[communicationData];
     if (!commKey) return undefined;
@@ -1147,7 +1072,6 @@ export default async ({ req, res, log, error }) => {
     const key = `communication_${commKey}${typeSuffix}`;
     const translation = translations[key];
     if (!translation) return undefined;
-
     if (lang === "Tr") return translation.tr;
     if (lang === "En") return translation.en;
     if (lang === "De") return translation.de;
@@ -1172,14 +1096,7 @@ export default async ({ req, res, log, error }) => {
     "ozet_2": "_ozet_2"
   };
 
-  /**
-   * Get worklearnstyle translation from JSON using dynamic key lookup
-   * @param {string} worklearnData - Work/learn style definition type
-   * @param {number} age - User's age (kept for API compatibility)
-   * @param {string} type - Content type
-   * @param {string} lang - Language ("Tr" or "En")
-   * @returns {string|undefined} The translated content
-   */
+
   let worklearnstyle = (worklearnData, age, type, lang) => {
     const worklearnKey = worklearnKeyMap[worklearnData];
     if (!worklearnKey) return undefined;
@@ -1191,7 +1108,6 @@ export default async ({ req, res, log, error }) => {
     const key = `c_o_s_${worklearnKey}${typeSuffix}`;
     const translation = translations[key];
     if (!translation) return undefined;
-
     if (lang === "Tr") return translation.tr;
     if (lang === "En") return translation.en;
     if (lang === "De") return translation.de;
@@ -1241,25 +1157,19 @@ export default async ({ req, res, log, error }) => {
     "s3_2": "_s3_2"
   };
 
-  /**
-   * Get is_y_r translation from JSON using dynamic key lookup
-   * @param {string} is_y_rData - Profile data (e.g., "1 / 3")
-   * @param {number} age - User's age (kept for API compatibility)
-   * @param {string} type - Content type
-   * @param {string} lang - Language ("Tr" or "En")
-   * @returns {string|undefined} The translated content
-   */
+
   let is_y_r = (is_y_rData, age, type, lang) => {
     // Handle image type separately (language-independent)
     if (type === "image") {
       const imageKey = isYrImageKeyMap[is_y_rData];
       if (!imageKey) return undefined;
-
       const key = `is_y_r_image_${imageKey}`;
       const translation = translations[key];
       if (!translation) return undefined;
-
-      return lang === "Tr" ? translation.tr : translation.en;
+      if (lang === "Tr") return translation.tr;
+      if (lang === "En") return translation.en;
+      if (lang === "De") return translation.de;
+      return translation.en;
     }
 
     // Handle other types
@@ -1269,12 +1179,10 @@ export default async ({ req, res, log, error }) => {
     const typeSuffix = isYrTypeMap[type];
     if (!typeSuffix) return undefined;
 
-    // Key format: is_y_r_{index}{typeSuffix} (Tr) or is_y_r_eng_{index}{typeSuffix} (En)
     // Key format: is_y_r_{index}{typeSuffix}
     const key = `is_y_r_${index}${typeSuffix}`;
     const translation = translations[key];
     if (!translation) return undefined;
-
     if (lang === "Tr") return translation.tr;
     if (lang === "En") return translation.en;
     if (lang === "De") return translation.de;
@@ -1317,14 +1225,7 @@ export default async ({ req, res, log, error }) => {
     "ozet_2": { prefix: "decision_strategy", section: "ozet", suffix: "_2" }
   };
 
-  /**
-   * Get decision_strategy translation from JSON using dynamic key lookup
-   * @param {Object} decisionStrategyData - Decision strategy data with strategy and innerAuthority
-   * @param {number} age - User's age (kept for API compatibility)
-   * @param {string} type - Content type
-   * @param {string} lang - Language ("Tr" or "En")
-   * @returns {string|undefined} The translated content
-   */
+
 
   let decision_strategy = (decisionStrategyData, age, type, lang) => {
     const strategy = decisionStrategyData.strategy;
@@ -1375,43 +1276,7 @@ export default async ({ req, res, log, error }) => {
     "Analitik ve Veri Odaklı Kariyerler": 9
   };
 
-  // Sector code -> Turkish name mapping
-  const sectorNameMap = {
-    "tech": "Teknoloji",
-    "retail": "Perakende",
-    "dress": "Moda ve Hazır Giyim",
-    "auto": "Otomotiv",
-    "health": "Sağlık ve İlaç",
-    "meal": "Mutfak Sanatları",
-    "edTech": "Eğitim ve EdTech",
-    "finTech": "Finans ve FinTech",
-    "energy": "Enerji ve Yenilenebilir Enerji",
-    "mentor": "Danışmanlık, Koçluk ve Mentörlük",
-    "tourism": "Turizm ve Misafirperverlik",
-    "agroTech": "Tarım ve Tarım Teknolojileri",
-    "logistic": "Lojistik ve Ulaşım",
-    "media": "Medya, Yazılı ve Görsel Basın",
-    "other": "Bunların Dışında Bir Şey - Genel Kariyer"
-  };
 
-  // Sector code -> English name mapping  
-  const sectorNameMapEn = {
-    "tech": "Technology",
-    "retail": "Retail",
-    "dress": "Fashion and Apparel",
-    "auto": "Automotive",
-    "health": "Health and Pharmaceuticals",
-    "meal": "Culinary Arts",
-    "edTech": "Education and EdTech",
-    "finTech": "Finance and FinTech",
-    "energy": "Energy and Renewable Energy",
-    "mentor": "Consulting, Coaching and Mentoring",
-    "tourism": "Tourism and Hospitality",
-    "agroTech": "Agriculture and Agritech",
-    "logistic": "Logistics and Transportation",
-    "media": "Media, Print and Broadcast",
-    "other": "Something Else - General Career"
-  };
 
   // Type pattern configuration for key building
   // Note: s2_x_2, s5, s6 sections are age-dependent, handled in function
@@ -1441,7 +1306,12 @@ export default async ({ req, res, log, error }) => {
   let kariyer_secim = (kariyer_secimData, age, type, lang) => {
     // Handle sector type - direct string return
     if (type === "sector") {
-      return lang === "Tr" ? sectorNameMap[kariyer_secimData] : sectorNameMapEn[kariyer_secimData];
+      const translation = sectorTranslations[kariyer_secimData];
+      if (!translation) return kariyer_secimData;
+      if (lang === "Tr") return translation.tr;
+      if (lang === "En") return translation.en;
+      if (lang === "De") return translation.de;
+      return translation.en;
     }
 
     // Get career category index from data
@@ -1477,7 +1347,6 @@ export default async ({ req, res, log, error }) => {
 
     const translation = translations[key];
     if (!translation) return undefined;
-
     if (lang === "Tr") return translation.tr;
     if (lang === "En") return translation.en;
     if (lang === "De") return translation.de;
@@ -1500,14 +1369,7 @@ export default async ({ req, res, log, error }) => {
     "1": "1", "8": "8", "7": "7", "31": "31", "13": "13", "33": "33"
   };
 
-  /**
-   * Get guclu_yanlarin translation from JSON using dynamic key lookup
-   * @param {Object} guclu_yanlarinData - Data with name property
-   * @param {number} age - User's age
-   * @param {string} type - Content type (e.g., "57-10_1", "57-10_2")
-   * @param {string} lang - Language ("Tr" or "En")
-   * @returns {string|undefined} The translated content
-   */
+
   let guclu_yanlarin = (guclu_yanlarinData, age, type, lang) => {
     const keyBase = gucluYanlarinKeyMap[guclu_yanlarinData.name];
     if (!keyBase) return undefined;
@@ -1524,7 +1386,6 @@ export default async ({ req, res, log, error }) => {
 
     const translation = translations[key];
     if (!translation) return undefined;
-
     if (lang === "Tr") return translation.tr;
     if (lang === "En") return translation.en;
     if (lang === "De") return translation.de;
@@ -1558,7 +1419,7 @@ export default async ({ req, res, log, error }) => {
       const dateTimeString = str.replace("T", " ");
       const [datePart, timePart] = dateTimeString.split(" ");
       const [yil, ay, gun] = datePart.split("-").map(Number);
-      
+
       let saat = 0, dakika = 0;
       if (timePart) {
         const timeParts = timePart.split(":");
@@ -1609,8 +1470,12 @@ export default async ({ req, res, log, error }) => {
   var language = Object.entries(rawData).find((x) => x[0] == "Lang")[1];
 
   if (language == "Tr") { //ortak kullanılan değişkenler burada
+    var hollandDataFirst = kslk_ozl(hollandData[0].name, age, "name", language) || hollandData[0].name;
+    var hollandDataSecond = kslk_ozl(hollandData[1].name, age, "name", language) || hollandData[1].name;
+    var hollandDataLast = kslk_ozl(hollandData[5].name, age, "name", language) || hollandData[5].name;
+
     var dearName = "Sevgili " + Object.entries(rawData).find((x) => x[0] == "kisiselbilgi / isim")[1] + ",";
-    var kisilikOzelliklerinTop2 = hollandData[0].name + " ve " + hollandData[1].name + " kişilik özelliklerinin baskın, " + hollandData[5].name + " özelliğinin daha geri planda olduğu bir yapın var.";
+    var kisilikOzelliklerinTop2 = hollandDataFirst + " ve " + hollandDataSecond + " kişilik özelliklerinin baskın, " + hollandDataLast + " özelliğinin daha geri planda olduğu bir yapın var.";
     var iletisimVeEtkilesimTarzin = "Başkalarıyla Başarılı Etkileşimlerin Anahtarı...";
     var kararVermeStratejin1 = "İki Temel Unsur:";
     var kararVermeStratejin2 = "Karar Verme Stratejini Takip Etmek:";
@@ -1619,57 +1484,10 @@ export default async ({ req, res, log, error }) => {
     var isYasamindaRolun2 = "Fırsatlar Ve Zorluklar";
     var isYasamindaRolun3 = "Hayat Amacını Gerçekleştirmek";
   }
-
   else if (language == "En") { //ortak kullanılan değişkenler burada (yaş kontrolünü kaldırdım)
-
-    var hollandDataFirst = "";
-    var hollandDataSecond = "";
-    var hollandDataLast = "";
-
-    var value = hollandData[0].name;
-    if (value == "Gerçekçi") {
-      hollandDataFirst = "Realistic";
-    } else if (value == "Araştırıcı") {
-      hollandDataFirst = "Investigative";
-    } else if (value == "Artistik Sanatsal") {
-      hollandDataFirst = "Artistic";
-    } else if (value == "Girişimci") {
-      hollandDataFirst = "Enterprising";
-    } else if (value == "Sosyal") {
-      hollandDataFirst = "Social";
-    } else if (value == "Geleneksel") {
-      hollandDataFirst = "Conventional";
-    }
-
-    var value2 = hollandData[1].name;
-    if (value2 == "Gerçekçi") {
-      hollandDataSecond = "Realistic";
-    } else if (value2 == "Araştırıcı") {
-      hollandDataSecond = "Investigative";
-    } else if (value2 == "Artistik Sanatsal") {
-      hollandDataSecond = "Artistic";
-    } else if (value2 == "Girişimci") {
-      hollandDataSecond = "Enterprising";
-    } else if (value2 == "Sosyal") {
-      hollandDataSecond = "Social";
-    } else if (value2 == "Geleneksel") {
-      hollandDataSecond = "Conventional";
-    }
-
-    var value3 = hollandData[5].name;
-    if (value3 == "Gerçekçi") {
-      hollandDataLast = "Realistic";
-    } else if (value3 == "Araştırıcı") {
-      hollandDataLast = "Investigative";
-    } else if (value3 == "Artistik Sanatsal") {
-      hollandDataLast = "Artistic";
-    } else if (value3 == "Girişimci") {
-      hollandDataLast = "Enterprising";
-    } else if (value3 == "Sosyal") {
-      hollandDataLast = "Social";
-    } else if (value3 == "Geleneksel") {
-      hollandDataLast = "Conventional";
-    }
+    var hollandDataFirst = kslk_ozl(hollandData[0].name, age, "name", language) || hollandData[0].name;
+    var hollandDataSecond = kslk_ozl(hollandData[1].name, age, "name", language) || hollandData[1].name;
+    var hollandDataLast = kslk_ozl(hollandData[5].name, age, "name", language) || hollandData[5].name;
 
     var dearName = "Dear " + Object.entries(rawData).find((x) => x[0] == "kisiselbilgi / isim")[1];
     var kisilikOzelliklerinTop2 = "You have a personality where " + hollandDataFirst + " and " + hollandDataSecond + " traits are dominant, while " + hollandDataLast + " traits take a backseat.";
@@ -1682,43 +1500,19 @@ export default async ({ req, res, log, error }) => {
     var isYasamindaRolun3 = "Fulfilling Your Life Purpose";
   }
   else if (language == "De") {
-    var hollandDataFirst = "";
-    var hollandDataSecond = "";
-    var hollandDataLast = "";
+    var hollandDataFirst = kslk_ozl(hollandData[0].name, age, "name", language) || hollandData[0].name;
+    var hollandDataSecond = kslk_ozl(hollandData[1].name, age, "name", language) || hollandData[1].name;
+    var hollandDataLast = kslk_ozl(hollandData[5].name, age, "name", language) || hollandData[5].name;
 
-    var value = hollandData[0].name;
-    if (value == "Gerçekçi") hollandDataFirst = "Realistic (DE)";
-    else if (value == "Araştırıcı") hollandDataFirst = "Investigative (DE)";
-    else if (value == "Artistik Sanatsal") hollandDataFirst = "Artistic (DE)";
-    else if (value == "Girişimci") hollandDataFirst = "Enterprising (DE)";
-    else if (value == "Sosyal") hollandDataFirst = "Social (DE)";
-    else if (value == "Geleneksel") hollandDataFirst = "Conventional (DE)";
-
-    var value2 = hollandData[1].name;
-    if (value2 == "Gerçekçi") hollandDataSecond = "Realistic (DE)";
-    else if (value2 == "Araştırıcı") hollandDataSecond = "Investigative (DE)";
-    else if (value2 == "Artistik Sanatsal") hollandDataSecond = "Artistic (DE)";
-    else if (value2 == "Girişimci") hollandDataSecond = "Enterprising (DE)";
-    else if (value2 == "Sosyal") hollandDataSecond = "Social (DE)";
-    else if (value2 == "Geleneksel") hollandDataSecond = "Conventional (DE)";
-
-    var value3 = hollandData[5].name;
-    if (value3 == "Gerçekçi") hollandDataLast = "Realistic (DE)";
-    else if (value3 == "Araştırıcı") hollandDataLast = "Investigative (DE)";
-    else if (value3 == "Artistik Sanatsal") hollandDataLast = "Artistic (DE)";
-    else if (value3 == "Girişimci") hollandDataLast = "Enterprising (DE)";
-    else if (value3 == "Sosyal") hollandDataLast = "Social (DE)";
-    else if (value3 == "Geleneksel") hollandDataLast = "Conventional (DE)";
-
-    var dearName = "Sehr geehrte/r " + Object.entries(rawData).find((x) => x[0] == "kisiselbilgi / isim")[1];
-    var kisilikOzelliklerinTop2 = "Sie haben eine Persönlichkeit, bei der " + hollandDataFirst + " und " + hollandDataSecond + " Merkmale dominant sind, während " + hollandDataLast + " Merkmale im Hintergrund stehen.";
+    var dearName = (cinsiyet === (maleMap[language] || "Male") ? "Lieber " : "Liebe ") + Object.entries(rawData).find((x) => x[0] == "kisiselbilgi / isim")[1];
+    var kisilikOzelliklerinTop2 = "Du Hast eine Persönlichkeit, bei der dei " + hollandDataFirst + " und " + hollandDataSecond + " Merkmale dominant sind, während " + hollandDataLast + " Merkmale im Hintergrund stehen.";
     var iletisimVeEtkilesimTarzin = "Effektive Kommunikation und Engagement bei der Arbeit...";
     var kararVermeStratejin1 = "Zwei Hauptaspekte:";
-    var kararVermeStratejin2 = "Verfolgen Ihrer Entscheidungsfindungsstrategie:";
+    var kararVermeStratejin2 = "Folge deiner Entscheidunsstrategie:";
     var kararVermeStratejin3 = "Schritte:";
     var isYasamindaRolun1 = "Stärken in Beruf und Karriere";
     var isYasamindaRolun2 = "Chancen und Herausforderungen";
-    var isYasamindaRolun3 = "Erfüllung Ihres Lebenszwecks";
+    var isYasamindaRolun3 = "Erfüllung deines Lebenszwecks";
   }
 
   // Unified variable initialization for all ages
@@ -2021,9 +1815,9 @@ export default async ({ req, res, log, error }) => {
     // 4. Career Distribution Image Page
     const cip = `P${careerImagePage}`;
     targetObj[`${cip}A1`] = "image";
-    targetObj[`${cip}A2`] = "1." + kariyer_secim(careerSelectionLastResult[0], age, "name", language);
-    targetObj[`${cip}A3`] = "2." + kariyer_secim(careerSelectionLastResult[1], age, "name", language);
-    targetObj[`${cip}A4`] = "3." + kariyer_secim(careerSelectionLastResult[2], age, "name", language);
+    targetObj[`${cip}A2`] = "1. " + kariyer_secim(careerSelectionLastResult[0], age, "name", language);
+    targetObj[`${cip}A3`] = "2. " + kariyer_secim(careerSelectionLastResult[1], age, "name", language);
+    targetObj[`${cip}A4`] = "3. " + kariyer_secim(careerSelectionLastResult[2], age, "name", language);
 
     result[`${cip}A1`] = targetObj[`${cip}A1`];
     result[`${cip}A2`] = targetObj[`${cip}A2`];
@@ -2165,4 +1959,5 @@ export default async ({ req, res, log, error }) => {
   console.log(jsonString)
 
   return res.send(inputs_25_plus);
+  //return inputs_25_plus;
 }
