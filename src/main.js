@@ -3,18 +3,7 @@ import sectorMappings from "../sector_mappings.json" with { type: "json" };
 import sectorTranslations from "../sector_translations.json" with { type: "json" };
 
 
-// This is your Appwrite function
-// It's executed each time we get a request
 export default async ({ req, res, log, error }) => {
-  // fetch('files/dosya.txt')
-  //     .then(response => response.text())
-  //     .then(data => {
-  //         const satirlar = data.split('\n'); // Satırları ayır
-  //         console.log(satirlar[0]); // İlk satırı yazdır
-  //         // Burada istediğiniz satırı `satirlar[index]` ile alabilirsiniz
-  //     })
-  //     .catch(error => console.error('Dosya okunamadı:', error));
-  // log(req)
   function getAllGates(jsonData) {
     let gates = [];
 
@@ -38,11 +27,9 @@ export default async ({ req, res, log, error }) => {
     "De": "Männlich"
   };
 
-
   function Map2SektorName(sektorName) {
     return sectorMappings[sektorName];
   }
-
 
   function siralaValueUzunlugunaGore(gates) {
     // 1. Adım: value değerlerini bir diziye al
@@ -62,14 +49,26 @@ export default async ({ req, res, log, error }) => {
     return siraliGates;
   }
 
+  
+  // const client = new Client() //PLATFORM
+  //   .setEndpoint("https://appwrite.careerpathkey.com/v1")
+  //   .setProject("665474aa001cd7ecbebd") //process.env.APPWRITE_FUNCTION_PROJECT_ID)
+  //   .setKey(
+  //     "standard_fc8ec2e6ba27f2e46550495fe49df65e1e69f290ccb1d05a0fa75ed027d245d188cf2d18bd2f51a6677d6c68d674b5556505044ae8855b4e56f568e3bf7e62021aa069761cb1ca6c3f118afb69564794429105c53b2056a5d4abd4bdd7f520862d43556e6cd52f3dfd085a1ec66a740c40e00826bcbdad51d2cd77dbd2657c11",
+  //   ); //process.env.APPWRITE_API_KEY)
+  //  var database = new Databases(client);
+  //  var answers = await database.getDocument(
+  //   "65dc57b1e8322b0426ae",
+  //   "65e97978db53e3998c12",
+  //   String(req),
+  // );
+
   const client = new Client() // PORTAL
     .setEndpoint("https://appwrite.anahtarsensin.com/v1")
     .setProject("665474aa001cd7ecbebd") //process.env.APPWRITE_FUNCTION_PROJECT_ID)
-    .setKey(
-      "c4aa87b551e3aa52c257f74c13a80f6d2bdc6d9e3ef0c7696d05fd4241956e94915f2746aaabe9311f04ef10c0571b0503c3e6ad60f0323a440a660d1beb5d5716157030bd25a7478fcbec0835083eb2b09c313df0c9ce56c334c01e7dbea72522d6783d93bb935a6be15ca4efb8e76f4e9aa965dd6589c92ce74d455bff382e",
-    ); //process.env.APPWRITE_API_KEY)
-  var database = new Databases(client);
-  var answers = await database.getDocument(
+    .setKey("c4aa87b551e3aa52c257f74c13a80f6d2bdc6d9e3ef0c7696d05fd4241956e94915f2746aaabe9311f04ef10c0571b0503c3e6ad60f0323a440a660d1beb5d5716157030bd25a7478fcbec0835083eb2b09c313df0c9ce56c334c01e7dbea72522d6783d93bb935a6be15ca4efb8e76f4e9aa965dd6589c92ce74d455bff382e"); //process.env.APPWRITE_API_KEY)
+    var database = new Databases(client);
+    var answers = await database.getDocument(
     "65dc57b1e8322b0426ae",
     "65e97978db53e3998c12",
     String(req.body),
@@ -82,19 +81,6 @@ export default async ({ req, res, log, error }) => {
     "current"               // documentId
   );
   var translations = JSON.parse(translationsDoc.data);
-
-  // const client = new Client() //PLATFORM
-  //   .setEndpoint("https://appwrite.careerpathkey.com/v1")
-  //   .setProject("665474aa001cd7ecbebd") //process.env.APPWRITE_FUNCTION_PROJECT_ID)
-  //   .setKey(
-  //     "standard_fc8ec2e6ba27f2e46550495fe49df65e1e69f290ccb1d05a0fa75ed027d245d188cf2d18bd2f51a6677d6c68d674b5556505044ae8855b4e56f568e3bf7e62021aa069761cb1ca6c3f118afb69564794429105c53b2056a5d4abd4bdd7f520862d43556e6cd52f3dfd085a1ec66a740c40e00826bcbdad51d2cd77dbd2657c11",
-  //   ); //process.env.APPWRITE_API_KEY)
-  // var database = new Databases(client);
-  // var answers = await database.getDocument(
-  //   "65dc57b1e8322b0426ae",
-  //   "65e97978db53e3998c12",
-  //   String(req),
-  // );
 
   var processedData = JSON.parse(answers.ProcessedData);
   var rawData = JSON.parse(answers.RawData);
@@ -855,8 +841,9 @@ export default async ({ req, res, log, error }) => {
 
 
   let krktr_ozl_ozet = (big5Name_1, big5Name_2, age, type, lang) => {
-    const pairKey = [big5Name_1, big5Name_2].sort().join("-");
-    const pairIndex = big5PairIndexMap[pairKey];
+    const pairKey = `${big5Name_1}-${big5Name_2}`;
+    const reversePairKey = `${big5Name_2}-${big5Name_1}`;
+    const pairIndex = big5PairIndexMap[pairKey] ?? big5PairIndexMap[reversePairKey];
     if (!pairIndex) return undefined;
 
     const typeSuffix = ozetTypeKeyMap[type];
