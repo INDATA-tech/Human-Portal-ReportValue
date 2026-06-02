@@ -13,7 +13,14 @@ const TRANSLATIONS_DOCUMENT_ID = 'current';
 // Helper function to convert literal \n text to actual newline
 const processValue = (val) => {
     if (val === null || val === undefined) return '';
-    const strVal = String(val);
+    let strVal = String(val);
+    
+    // Replace special hyphens with standard hyphens
+    strVal = strVal
+        .replace(/\u00ad/g, '-')   // Soft Hyphen
+        .replace(/\u2011/g, '-')   // Non-breaking Hyphen
+        .replace(/\u2212/g, '-');  // Minus Sign
+        
     return strVal.replace(/\\n/g, '\n');
 };
 
