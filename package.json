@@ -5,7 +5,8 @@
   "main": "src/main.js",
   "type": "module",
   "scripts": {
-    "format": "prettier --write ."
+    "format": "prettier --write .",
+    "update-translations": "node src/scripts/fetch_xlsx_from_appwrite.js"
   },
   "devDependencies": {
     "prettier": "^3.0.0"

@@ -1,5 +1,4 @@
 import { Client, Databases } from "node-appwrite";
-import translations from "../output_translations.json" with { type: "json" };
 import sectorMappings from "../sector_mappings.json" with { type: "json" };
 import sectorTranslations from "../sector_translations.json" with { type: "json" };
 
@@ -75,6 +74,14 @@ export default async ({ req, res, log, error }) => {
     "65e97978db53e3998c12",
     String(req.body),
   );
+
+  // Fetch translations from Database (auto-synced from Excel)
+  var translationsDoc = await database.getDocument(
+    "65dc57b1e8322b0426ae",  // databaseId
+    "translations",          // collectionId
+    "current"               // documentId
+  );
+  var translations = JSON.parse(translationsDoc.data);
 
   // const client = new Client() //PLATFORM
   //   .setEndpoint("https://appwrite.careerpathkey.com/v1")
