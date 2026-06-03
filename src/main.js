@@ -1464,9 +1464,9 @@ export default async ({ req, res, log, error }) => {
   var language = Object.entries(rawData).find((x) => x[0] == "Lang")[1];
 
   if (language == "Tr") { //ortak kullanılan değişkenler burada
-    var hollandDataFirst = kslk_ozl(hollandData[0].name, age, "name", language) || hollandData[0].name;
-    var hollandDataSecond = kslk_ozl(hollandData[1].name, age, "name", language) || hollandData[1].name;
-    var hollandDataLast = kslk_ozl(hollandData[5].name, age, "name", language) || hollandData[5].name;
+    var hollandDataFirst = (kslk_ozl(hollandData[0].name, age, "name", language) || hollandData[0].name).toLowerCase();
+    var hollandDataSecond = (kslk_ozl(hollandData[1].name, age, "name", language) || hollandData[1].name).toLowerCase();
+    var hollandDataLast = (kslk_ozl(hollandData[5].name, age, "name", language) || hollandData[5].name).toLowerCase();
 
     var dearName = "Sevgili " + Object.entries(rawData).find((x) => x[0] == "kisiselbilgi / isim")[1] + ",";
     var kisilikOzelliklerinTop2 = hollandDataFirst + " ve " + hollandDataSecond + " kişilik özelliklerinin baskın, " + hollandDataLast + " özelliğinin daha geri planda olduğu bir yapın var.";
@@ -1479,9 +1479,9 @@ export default async ({ req, res, log, error }) => {
     var isYasamindaRolun3 = "Hayat Amacını Gerçekleştirmek";
   }
   else if (language == "En") { //ortak kullanılan değişkenler burada (yaş kontrolünü kaldırdım)
-    var hollandDataFirst = kslk_ozl(hollandData[0].name, age, "name", language) || hollandData[0].name;
-    var hollandDataSecond = kslk_ozl(hollandData[1].name, age, "name", language) || hollandData[1].name;
-    var hollandDataLast = kslk_ozl(hollandData[5].name, age, "name", language) || hollandData[5].name;
+    var hollandDataFirst = (kslk_ozl(hollandData[0].name, age, "name", language) || hollandData[0].name).toLowerCase();
+    var hollandDataSecond = (kslk_ozl(hollandData[1].name, age, "name", language) || hollandData[1].name).toLowerCase();
+    var hollandDataLast = (kslk_ozl(hollandData[5].name, age, "name", language) || hollandData[5].name).toLowerCase();
 
     var dearName = "Dear " + Object.entries(rawData).find((x) => x[0] == "kisiselbilgi / isim")[1];
     var kisilikOzelliklerinTop2 = "You have a personality where " + hollandDataFirst + " and " + hollandDataSecond + " traits are dominant, while " + hollandDataLast + " traits take a backseat.";
@@ -1494,9 +1494,9 @@ export default async ({ req, res, log, error }) => {
     var isYasamindaRolun3 = "Fulfilling Your Life Purpose";
   }
   else if (language == "De") {
-    var hollandDataFirst = kslk_ozl(hollandData[0].name, age, "name", language) || hollandData[0].name;
-    var hollandDataSecond = kslk_ozl(hollandData[1].name, age, "name", language) || hollandData[1].name;
-    var hollandDataLast = kslk_ozl(hollandData[5].name, age, "name", language) || hollandData[5].name;
+    var hollandDataFirst = (kslk_ozl(hollandData[0].name, age, "name", language) || hollandData[0].name).toLowerCase();
+    var hollandDataSecond = (kslk_ozl(hollandData[1].name, age, "name", language) || hollandData[1].name).toLowerCase();
+    var hollandDataLast = (kslk_ozl(hollandData[5].name, age, "name", language) || hollandData[5].name).toLowerCase();
 
     var dearName = (cinsiyet === (maleMap[language] || "Male") ? "Lieber " : "Liebe ") + Object.entries(rawData).find((x) => x[0] == "kisiselbilgi / isim")[1];
     var kisilikOzelliklerinTop2 = "Du Hast eine Persönlichkeit, bei der dei " + hollandDataFirst + " und " + hollandDataSecond + " Merkmale dominant sind, während " + hollandDataLast + " Merkmale im Hintergrund stehen.";
