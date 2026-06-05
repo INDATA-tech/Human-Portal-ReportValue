@@ -976,7 +976,7 @@ export default async ({ req, res, log, error }) => {
     if (type === "image") {
       // Image keys don't change with age, always use 25_plus prefix
       if (lifestyleData === "Manifesting Generator" || lifestyleData === "Generator") {
-        const genderSuffix = cinsiyet === (maleMap[lang] || "Male") ? "_image_m" : "_image_w";
+        const genderSuffix = Object.values(maleMap).some(x => x.toLowerCase().trim() === cinsiyet?.toLowerCase().trim())? "_image_m" : "_image_w";
         const key = `lifestyle_25_plus_${lifestyleKey}${genderSuffix}`;
         const translation = translations[key];
         if (!translation) return undefined;
