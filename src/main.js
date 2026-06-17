@@ -1499,7 +1499,7 @@ export default async ({ req, res, log, error }) => {
     var hollandDataLast = (kslk_ozl(hollandData[5].name, age, "name", language) || hollandData[5].name).toLowerCase();
 
     var dearName = (cinsiyet === (maleMap[language] || "Male") ? "Lieber " : "Liebe ") + Object.entries(rawData).find((x) => x[0] == "kisiselbilgi / isim")[1];
-    var kisilikOzelliklerinTop2 = "Du Hast eine Persönlichkeit, bei der dei " + hollandDataFirst + " und " + hollandDataSecond + " Merkmale dominant sind, während " + hollandDataLast + " Merkmale im Hintergrund stehen.";
+    var kisilikOzelliklerinTop2 = `Du Hast eine Persönlichkeit, bei der die Merkmale "${hollandDataFirst}" und "${hollandDataSecond}" dominant sind, während die Merkmale "${hollandDataLast}" im Hintergrund stehen.`;
     var iletisimVeEtkilesimTarzin = "Effektive Kommunikation und Engagement bei der Arbeit...";
     var kararVermeStratejin1 = "Zwei Hauptaspekte:";
     var kararVermeStratejin2 = "Folge deiner Entscheidunsstrategie:";
