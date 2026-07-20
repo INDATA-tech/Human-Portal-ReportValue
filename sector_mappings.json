@@ -2,60 +2,75 @@
   "Teknoloji": "tech",
   "Technology": "tech",
   "Technologie": "tech",
+  "Technologia": "tech",
 
   "Perakende": "retail",
   "Retail": "retail",
   "Einzelhandel": "retail",
+  "Handel detaliczny": "retail",
 
   "Moda ve Hazır Giyim": "dress",
   "Fashion and Ready-To-Wear": "dress",
   "Mode und Bekleidung": "dress",
+  "Moda i odzież gotowa": "dress",
 
   "Otomotiv": "auto",
   "Automotive": "auto",
   "Automobilindustrie": "auto",
+  "Motoryzacja": "auto",
 
   "Sağlık ve İlaç": "health",
   "Health and Medicine": "health",
   "Gesundheit und Medizin": "health",
+  "Zdrowie i medycyna": "health",
 
   "Mutfak Sanatları": "meal",
   "Culinary Arts": "meal",
   "Gastronomie und Kulinarik": "meal",
+  "Sztuka kulinarna": "meal",
 
   "Eğitim ve EdTech": "edTech",
   "Education and EdTech": "edTech",
   "Bildung und EdTech": "edTech",
+  "Edukacja i EdTech": "edTech",
 
   "Finans ve FinTech": "finTech",
   "Finance and FinTech": "finTech",
   "Finanzen und FinTech": "finTech",
+  "Finanse i FinTech": "finTech",
 
   "Enerji ve Yenilenebilir Enerji": "energy",
   "Energy and Renewable Energy": "energy",
   "Energie und Erneuerbare Energien": "energy",
+  "Energia i odnawialne źródła energii": "energy",
 
   "Danışmanlık, Koçluk ve Mentörlük": "mentor",
   "Consulting, Coaching and Mentorship": "mentor",
   "Beratung, Coaching und Mentoring": "mentor",
+  "Doradztwo, coaching i mentoring": "mentor",
 
   "Turizm ve Misafirperverlik": "tourism",
   "Tourism and Hospitality": "tourism",
   "Tourismus und Hotellerie": "tourism",
+  "Turystyka i hotelarstwo": "tourism",
 
   "Tarım ve Tarım Teknolojileri": "agroTech",
   "Agriculture and Agricultural Technologies": "agroTech",
   "Landwirtschaft und Agrartechnologie": "agroTech",
+  "Rolnictwo i technologie rolnicze": "agroTech",
 
   "Lojistik ve Ulaşım": "logistic",
   "Logistics and Transportation": "logistic",
   "Logistik und Transport": "logistic",
+  "Logistyka i transport": "logistic",
 
   "Medya, Yazılı ve Görsel Basın": "media",
   "Media, Print and Visual Press": "media",
   "Medien, Print und visuelle Medien": "media",
+  "Media, prasa drukowana i wizualna": "media",
 
   "Bunların Dışında Bir Şey - Genel Kariyer": "other",
   "Others": "other",
-  "Sonstiges": "other"
+  "Sonstiges": "other",
+  "Inne": "other"
 }

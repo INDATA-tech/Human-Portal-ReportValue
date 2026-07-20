@@ -2,76 +2,91 @@
   "tech": {
     "Tr": "Teknoloji",
     "En": "Technology",
-    "De": "Technologie"
+    "De": "Technologie",
+    "Pl": "Technologia"
   },
   "retail": {
     "Tr": "Perakende",
     "En": "Retail",
-    "De": "Einzelhandel"
+    "De": "Einzelhandel",
+    "Pl": "Handel detaliczny"
   },
   "dress": {
     "Tr": "Moda ve Hazır Giyim",
     "En": "Fashion and Ready-To-Wear",
-    "De": "Mode und Bekleidung"
+    "De": "Mode und Bekleidung",
+    "Pl": "Moda i odzież gotowa"
   },
   "auto": {
     "Tr": "Otomotiv",
     "En": "Automotive",
-    "De": "Automobilindustrie"
+    "De": "Automobilindustrie",
+    "Pl": "Motoryzacja"
   },
   "health": {
     "Tr": "Sağlık ve İlaç",
     "En": "Health and Medicine",
-    "De": "Gesundheit und Medizin"
+    "De": "Gesundheit und Medizin",
+    "Pl": "Zdrowie i medycyna"
   },
   "meal": {
     "Tr": "Mutfak Sanatları",
     "En": "Culinary Arts",
-    "De": "Gastronomie und Kulinarik"
+    "De": "Gastronomie und Kulinarik",
+    "Pl": "Sztuka kulinarna"
   },
   "edTech": {
     "Tr": "Eğitim ve EdTech",
     "En": "Education and EdTech",
-    "De": "Bildung und EdTech"
+    "De": "Bildung und EdTech",
+    "Pl": "Edukacja i EdTech"
   },
   "finTech": {
     "Tr": "Finans ve FinTech",
     "En": "Finance and FinTech",
-    "De": "Finanzen und FinTech"
+    "De": "Finanzen und FinTech",
+    "Pl": "Finanse i FinTech"
   },
   "energy": {
     "Tr": "Enerji ve Yenilenebilir Enerji",
     "En": "Energy and Renewable Energy",
-    "De": "Energie und Erneuerbare Energien"
+    "De": "Energie und Erneuerbare Energien",
+    "Pl": "Energia i odnawialne źródła energii"
   },
   "mentor": {
     "Tr": "Danışmanlık, Koçluk ve Mentörlük",
     "En": "Consulting, Coaching and Mentorship",
-    "De": "Beratung, Coaching und Mentoring"
+    "De": "Beratung, Coaching und Mentoring",
+    "Pl": "Doradztwo, coaching i mentoring"
   },
   "tourism": {
     "Tr": "Turizm ve Misafirperverlik",
     "En": "Tourism and Hospitality",
-    "De": "Tourismus und Hotellerie"
+    "De": "Tourismus und Hotellerie",
+    "Pl": "Turystyka i hotelarstwo"
   },
   "agroTech": {
     "Tr": "Tarım ve Tarım Teknolojileri",
     "En": "Agriculture and Agricultural Technologies",
-    "De": "Landwirtschaft und Agrartechnologie"
+    "De": "Landwirtschaft und Agrartechnologie",
+    "Pl": "Rolnictwo i technologie rolnicze"
   },
   "logistic": {
     "Tr": "Lojistik ve Ulaşım",
     "En": "Logistics and Transportation",
-    "De": "Logistik und Transport"
+    "De": "Logistik und Transport",
+    "Pl": "Logistyka i transport"
   },
   "media": {
     "Tr": "Medya, Yazılı ve Görsel Basın",
     "En": "Media, Print and Visual Press",
-    "De": "Medien, Print und visuelle Medien"
+    "De": "Medien, Print und visuelle Medien",
+    "Pl": "Media, prasa drukowana i wizualna"
   },
   "other": {
     "Tr": "Bunların Dışında Bir Şey - Genel Kariyer",
     "En": "Others",
-    "De": "Sonstiges"
+    "De": "Sonstiges",
+    "Pl": "Inne"
   }
 }
