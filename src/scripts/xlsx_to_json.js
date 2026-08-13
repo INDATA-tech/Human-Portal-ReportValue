@@ -20,17 +20,12 @@ const workbook = XLSX.read(fileBuffer, {
 // Get the first sheet (or adjust if sheet name is different)
 const sheetName = workbook.SheetNames[0];
 const sheet = workbook.Sheets[sheetName];
-const data = XLSX.utils.sheet_to_json(sheet, {
-    header: 1,
-    raw: true,  // Get raw values without formatting
-    defval: ''  // Default empty string for empty cells
+const rawRows = XLSX.utils.sheet_to_json(sheet, {
+    defval: ''
 });
 
 console.log(`Sheet name: ${sheetName}`);
-console.log(`Total rows: ${data.length}`);
-
-// Skip header row
-const rows = data.slice(1);
+console.log(`Total rows: ${rawRows.length}`);
 
 // New structure: { key: { tr: "...", en: "...", de: "...", pl: "..." } }
 const translations = {};
@@ -69,19 +64,21 @@ const checkTruncation = (key, trValue, enValue) => {
     }
 };
 
-rows.forEach(row => {
-    const key = row[2];      // Column C - Key
-    const trValue = row[3] || '';  // Column D - TR
-    const enValue = row[4] || '';  // Column E - EN
-    const deValue = row[5] || '';  // Column F - DE
-    const plValue = row[6] || '';  // Column G - PL
+rawRows.forEach(row => {
+    const keyProp = Object.keys(row).find(k => String(k).trim().toUpperCase() === 'KEY');
+    const key = keyProp ? String(row[keyProp]).trim() : '';
 
     if (!key) return;
 
-    const processedTr = processValue(trValue);
-    const processedEn = processValue(enValue);
-    const processedDe = processValue(deValue);
-    const processedPl = processValue(plValue);
+    const getVal = (langCode) => {
+        const prop = Object.keys(row).find(k => String(k).trim().toUpperCase() === langCode.toUpperCase());
+        return prop ? processValue(row[prop]) : '';
+    };
+
+    const processedTr = getVal('TR');
+    const processedEn = getVal('EN');
+    const processedDe = getVal('DE');
+    const processedPl = getVal('PL');
 
     // Check for potential truncation issues
     checkTruncation(key, processedTr, processedEn);

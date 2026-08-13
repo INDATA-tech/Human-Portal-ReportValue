@@ -117,32 +117,30 @@ export default async ({ req, res, log, error }) => {
 
         const sheetName = workbook.SheetNames[0];
         const sheet = workbook.Sheets[sheetName];
-        const data = XLSX.utils.sheet_to_json(sheet, {
-            header: 1,
-            raw: true,
+        const rawRows = XLSX.utils.sheet_to_json(sheet, {
             defval: ''
         });
 
-        log(`Sheet: ${sheetName}, Rows: ${data.length}`);
+        log(`Sheet: ${sheetName}, Rows: ${rawRows.length}`);
 
-        // Skip header row and build translations object
-        const rows = data.slice(1);
         const translations = {};
 
-        rows.forEach(row => {
-            const key = row[2];      // Column C - Key
-            const trValue = row[3] || '';  // Column D - TR
-            const enValue = row[4] || '';  // Column E - EN
-            const deValue = row[5] || '';  // Column F - DE
-            const plValue = row[6] || '';  // Column G - PL
+        rawRows.forEach(row => {
+            const keyProp = Object.keys(row).find(k => String(k).trim().toUpperCase() === 'KEY');
+            const key = keyProp ? String(row[keyProp]).trim() : '';
 
             if (!key) return;
 
+            const getVal = (langCode) => {
+                const prop = Object.keys(row).find(k => String(k).trim().toUpperCase() === langCode.toUpperCase());
+                return prop ? processValue(row[prop]) : '';
+            };
+
             translations[key] = {
-                tr: processValue(trValue),
-                en: processValue(enValue),
-                de: processValue(deValue),
-                pl: processValue(plValue)
+                tr: getVal('TR'),
+                en: getVal('EN'),
+                de: getVal('DE'),
+                pl: getVal('PL')
             };
         });
 

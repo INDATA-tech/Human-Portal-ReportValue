@@ -68,11 +68,11 @@ export default async ({ req, res, log, error }) => {
     .setEndpoint("https://appwrite.anahtarsensin.com/v1")
     .setProject("665474aa001cd7ecbebd") //process.env.APPWRITE_FUNCTION_PROJECT_ID)
     .setKey("c4aa87b551e3aa52c257f74c13a80f6d2bdc6d9e3ef0c7696d05fd4241956e94915f2746aaabe9311f04ef10c0571b0503c3e6ad60f0323a440a660d1beb5d5716157030bd25a7478fcbec0835083eb2b09c313df0c9ce56c334c01e7dbea72522d6783d93bb935a6be15ca4efb8e76f4e9aa965dd6589c92ce74d455bff382e"); //process.env.APPWRITE_API_KEY)
-    var database = new Databases(client);
-    var answers = await database.getDocument(
+  var database = new Databases(client);
+  var answers = await database.getDocument(
     "65dc57b1e8322b0426ae",
     "65e97978db53e3998c12",
-    String(req.body),
+    String(req),
   );
 
   // Fetch translations from Database (auto-synced from Excel)
