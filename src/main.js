@@ -72,7 +72,7 @@ export default async ({ req, res, log, error }) => {
   var answers = await database.getDocument(
     "65dc57b1e8322b0426ae",
     "65e97978db53e3998c12",
-    String(req),
+    String(req.body),
   );
 
   // Fetch translations from Database (auto-synced from Excel)
