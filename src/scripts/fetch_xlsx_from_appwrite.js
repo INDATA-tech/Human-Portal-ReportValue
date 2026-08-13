@@ -118,19 +118,22 @@ async function fetchAndConvert() {
             const trValue = row[3] || '';  // Column D - TR
             const enValue = row[4] || '';  // Column E - EN
             const deValue = row[5] || '';  // Column F - DE
+            const plValue = row[6] || '';  // Column G - PL
 
             if (!key) return;
 
             const processedTr = processValue(trValue);
             const processedEn = processValue(enValue);
             const processedDe = processValue(deValue);
+            const processedPl = processValue(plValue);
 
             checkTruncation(key, processedTr, processedEn, warnings);
 
             translations[key] = {
                 tr: processedTr,
                 en: processedEn,
-                de: processedDe
+                de: processedDe,
+                pl: processedPl
             };
         });
 

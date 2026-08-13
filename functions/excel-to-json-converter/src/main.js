@@ -134,13 +134,15 @@ export default async ({ req, res, log, error }) => {
             const trValue = row[3] || '';  // Column D - TR
             const enValue = row[4] || '';  // Column E - EN
             const deValue = row[5] || '';  // Column F - DE
+            const plValue = row[6] || '';  // Column G - PL
 
             if (!key) return;
 
             translations[key] = {
                 tr: processValue(trValue),
                 en: processValue(enValue),
-                de: processValue(deValue)
+                de: processValue(deValue),
+                pl: processValue(plValue)
             };
         });
 

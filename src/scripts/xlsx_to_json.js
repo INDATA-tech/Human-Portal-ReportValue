@@ -32,7 +32,7 @@ console.log(`Total rows: ${data.length}`);
 // Skip header row
 const rows = data.slice(1);
 
-// New structure: { key: { tr: "...", en: "...", de: "..." } }
+// New structure: { key: { tr: "...", en: "...", de: "...", pl: "..." } }
 const translations = {};
 const warnings = [];
 
@@ -74,12 +74,14 @@ rows.forEach(row => {
     const trValue = row[3] || '';  // Column D - TR
     const enValue = row[4] || '';  // Column E - EN
     const deValue = row[5] || '';  // Column F - DE
+    const plValue = row[6] || '';  // Column G - PL
 
     if (!key) return;
 
     const processedTr = processValue(trValue);
     const processedEn = processValue(enValue);
     const processedDe = processValue(deValue);
+    const processedPl = processValue(plValue);
 
     // Check for potential truncation issues
     checkTruncation(key, processedTr, processedEn);
@@ -87,7 +89,8 @@ rows.forEach(row => {
     translations[key] = {
         tr: processedTr,
         en: processedEn,
-        de: processedDe
+        de: processedDe,
+        pl: processedPl
     };
 });
 
